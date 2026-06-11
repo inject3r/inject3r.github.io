@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+2:I[21550,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+3:I[16413,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+5:I[22016,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],""]
+d:I[5014,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+e:I[73947,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+f:I[97367,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+4:Tbe8,
+# Project Structure
+
+When you initialize a FastAPI Route project, you get a specific folder structure. Understanding this layout helps you organize your code effectively.
+
+## Complete Project Layout
+
+A typical FastAPI Route project looks like this:
+
+```plaintext
+my-project/
+├── routes/
+│   ├── index.py
+│   ├── users/
+│   │   ├── route.py
+│   │   └── [user_id]/
+│   │       └── route.py
+│   └── (auth)/
+│       ├── login/
+│       │   └── route.py
+│       └── register/
+│           └── route.py
+├── config.py
+├── middleware.py
+├── docs.py
+├── not-found.py
+├── public/
+│   ├── css/
+│   ├── js/
+│   └── images/
+└── .cache/
+```
+
+## routes/
+
+This is the heart of your application. Every file and folder inside `routes/` directly maps to a URL endpoint. The structure you create here becomes your API structure.
+
+- `index.py` becomes the root endpoint (`/`)
+- Folders become path segments
+- Each `route.py` file defines HTTP methods for that path
+
+## config.py
+
+This file controls every aspect of your application. You can configure:
+
+- Server host, port, and worker count
+- Logging level and format
+- Build cache compression and location
+- CORS settings and allowed origins
+- Custom CLI commands
+
+If this file doesn't exist, FastAPI Route uses sensible defaults.
+
+## middleware.py
+
+An optional file that lets you intercept every request before it reaches your route handlers. Common uses include:
+
+- Logging all incoming requests
+- Checking authentication tokens
+- Rate limiting by IP address
+- Adding custom response headers
+- Request validation and sanitization
+
+## docs.py
+
+Optional custom documentation handler. When this file exists, FastAPI Route uses your custom page instead of the built-in documentation at `/docs`. You can access route data and statistics through the provided context object.
+
+## not-found.py
+
+Optional custom 404 page handler. When a route doesn't exist, FastAPI Route calls your custom handler instead of showing the default 404 page. This is useful for branded error pages or providing helpful suggestions.
+
+## public/
+
+Static files directory. Everything inside `public/` is served at the root URL path:
+
+- `public/style.css` → `/style.css`
+- `public/js/app.js` → `/js/app.js`
+- `public/images/logo.png` → `/images/logo.png`
+
+## .cache/
+
+This directory is created when you run `fastapi-route build`. It contains the compiled, compressed build cache. In production mode, FastAPI Route loads routes from this cache instead of scanning the filesystem, resulting in much faster startup times.
+
+This directory should be added to `.gitignore` since it's generated during build.
+
+## Next Steps
+
+- [File-based Routing](/docs/core-concepts/file-based-routing) - Learn how routes map to URLs
+- [Dynamic Routes](/docs/core-concepts/dynamic-routes) - Create routes with parameters
+- [Route Groups](/docs/core-concepts/route-groups) - Organize routes without affecting URLs
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$L5",null,{"href":"/docs/0.1.0/getting-started/quick-start","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200","aria-label":"Go to previous page: Quick Start","children":["$L6","$L7"]}],"$L8"]}],"$L9"],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs_CstlgWyyXI26E8xcft"}
+6:["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}]
+7:["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Ld",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-white"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Quick Start"}]]}]
+8:["$","$L5",null,{"href":"/docs/0.1.0/core-concepts/index","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Core Concepts","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Core Concepts"}],["$","$Ld",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-white"}]]}]]}]
+9:["$","$Le",null,{"headings":[{"level":2,"text":"Complete Project Layout","id":"complete-project-layout"},{"level":2,"text":"routes/","id":"routes"},{"level":2,"text":"config.py","id":"config-py"},{"level":2,"text":"middleware.py","id":"middleware-py"},{"level":2,"text":"docs.py","id":"docs-py"},{"level":2,"text":"not-found.py","id":"not-found-py"},{"level":2,"text":"public/","id":"public"},{"level":2,"text":".cache/","id":"cache"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+a:["$","script","script-0",{"src":"/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","async":true}]
+b:["$","script","script-1",{"src":"/fastapi-route/_next/static/chunks/372m4ov9msupa.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+2:I[21550,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+3:I[16413,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+a:I[22016,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],""]
+b:I[5014,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+c:I[73947,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+d:I[97367,["/fastapi-route/_next/static/chunks/0vwilm_u2i8--.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T11ca,
+# File-based Routing
+
+FastAPI Route uses your file system as the router. The folders you create become URL path segments, and the files you create become endpoints. You never need to write a decorator or register a route manually.
+
+## How It Works
+
+Every Python file inside your `routes/` directory becomes an API endpoint. The path to the file determines the URL. Subfolders create nested URL segments.
+
+## Basic URL Mapping
+
+Here's how different file paths translate to URLs:
+
+| File Path                     | URL Path       |
+| ----------------------------- | -------------- |
+| routes/index.py               | /              |
+| routes/about/route.py         | /about         |
+| routes/users/route.py         | /users         |
+| routes/users/profile/route.py | /users/profile |
+| routes/api/v1/health/route.py | /api/v1/health |
+
+## The route.py Convention
+
+For routes with multiple segments, you create folders and put a `route.py` file inside the final folder. This keeps your project organized and makes the URL structure visible in your file tree:
+
+```plaintext
+routes/
+├── index.py                      # Root endpoint
+├── about/
+│   └── route.py                  # /about
+├── users/
+│   ├── route.py                  # /users
+│   └── profile/
+│       └── route.py              # /users/profile
+└── api/
+    └── v1/
+        └── users/
+            └── route.py          # /api/v1/users
+```
+
+## Route File Content
+
+Inside each route file, you define functions named after HTTP methods. FastAPI Route automatically routes requests to the correct function:
+
+```python
+# routes/users/route.py
+from fastapi_route import Request
+
+def GET(request: Request):
+    """Handles GET /users"""
+    return {"users": ["Alice", "Bob"]}
+
+def POST(request: Request):
+    """Handles POST /users"""
+    data = await request.json()
+    return {"created": data}
+
+def PUT(request: Request):
+    """Handles PUT /users"""
+    return {"updated": True}
+```
+
+No decorators. No registration. Just functions with HTTP method names.
+
+## The index.py Special File
+
+The `index.py` file serves as the entry point for a directory. It handles the path that ends at that folder:
+
+```python
+# routes/index.py - handles the root path
+from fastapi_route import Request
+
+def GET(request: Request):
+    return {"message": "Welcome to the API"}
+```
+
+You can also use `index.py` inside subfolders:
+
+```plaintext
+routes/
+└── api/
+    └── index.py        # Handles /api
+```
+
+## Nested Routes for Organization
+
+Create deeply nested routes by adding more folders. Each folder adds a segment to the URL path:
+
+```plaintext
+routes/
+├── api/
+│   └── v1/
+│       └── users/
+│           └── route.py      # /api/v1/users
+├── admin/
+│   └── dashboard/
+│       └── stats/
+│           └── route.py      # /admin/dashboard/stats
+└── blog/
+    ├── posts/
+    │   └── route.py          # /blog/posts
+    └── authors/
+        └── route.py          # /blog/authors
+```
+
+## Rules Summary
+
+1. **`route.py` files** - Contain HTTP method handlers for a specific path
+2. **`index.py` files** - Handle the root path or a directory path
+3. **Folders without route files** - Continue to nested routes
+4. **HTTP method functions** - `GET`, `POST`, `PUT`, `PATCH`, `DELETE` inside route files
+5. **Path segments** - Each folder name becomes a URL segment
+
+## What Happens at Startup
+
+When you start your application, FastAPI Route:
+
+1. Walks through every folder inside `routes/`
+2. Finds all `route.py` and `index.py` files
+3. Extracts the URL path from the folder structure
+4. Imports each file and looks for HTTP method functions
+5. Registers each function as a route with FastAPI
+
+The entire process is automatic and requires no configuration.
+
+## Production Build
+
+For production, you can pre-compile all routes into a build cache:
+
+```bash
+fastapi-route build
+```
+
+This creates a `.cache/` directory with compressed route metadata. When you run in production mode, FastAPI Route loads from this cache instead of scanning the filesystem, resulting in faster startup times.
+
+## Next Steps
+
+- [Dynamic Routes](/docs/core-concepts/dynamic-routes) - Create routes with URL parameters using `[param]` folders
+- [Route Groups](/docs/core-concepts/route-groups) - Organize routes without affecting the URL using `(group)` folders
+- [HTTP Methods](/docs/core-concepts/http-methods) - Learn about all supported HTTP methods and their usage
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs_CstlgWyyXI26E8xcft"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/0.1.0/core-concepts/index","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200","aria-label":"Go to previous page: Core Concepts","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-white"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Core Concepts"}]]}]]}],["$","$La",null,{"href":"/docs/0.1.0/core-concepts/dynamic-routes","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Dynamic Routes","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Dynamic Routes"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-white"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"How It Works","id":"how-it-works"},{"level":2,"text":"Basic URL Mapping","id":"basic-url-mapping"},{"level":2,"text":"The route.py Convention","id":"the-route-py-convention"},{"level":2,"text":"Route File Content","id":"route-file-content"},{"level":2,"text":"The index.py Special File","id":"the-index-py-special-file"},{"level":2,"text":"Nested Routes for Organization","id":"nested-routes-for-organization"},{"level":2,"text":"Rules Summary","id":"rules-summary"},{"level":2,"text":"What Happens at Startup","id":"what-happens-at-startup"},{"level":2,"text":"Production Build","id":"production-build"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","async":true}]
+8:["$","script","script-1",{"src":"/fastapi-route/_next/static/chunks/372m4ov9msupa.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null
