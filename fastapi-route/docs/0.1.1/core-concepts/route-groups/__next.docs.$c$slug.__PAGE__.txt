@@ -1,12 +1,12 @@
 1:"$Sreact.fragment"
-2:I[21550,["/fastapi-route/_next/static/chunks/41l8fcdrltk98.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
-3:I[16413,["/fastapi-route/_next/static/chunks/41l8fcdrltk98.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
-a:I[22016,["/fastapi-route/_next/static/chunks/41l8fcdrltk98.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],""]
-b:I[5014,["/fastapi-route/_next/static/chunks/41l8fcdrltk98.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
-c:I[73947,["/fastapi-route/_next/static/chunks/41l8fcdrltk98.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
-d:I[97367,["/fastapi-route/_next/static/chunks/41l8fcdrltk98.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js"],"OutletBoundary"]
+2:I[21550,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+3:I[16413,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+a:I[22016,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],""]
+b:I[5014,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+c:I[73947,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+d:I[97367,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js"],"OutletBoundary"]
 e:"$Sreact.suspense"
-4:T189e,
+4:T18b7,
 # Route Groups
 
 When you're building a large API, you need ways to organize your code without changing your public URL structure. Route groups let you create organizational folders that are completely ignored when generating URL paths.
@@ -31,6 +31,7 @@ Even though `(auth)` is a folder in your project, it does not appear in the URL 
 Route groups solve a common problem: you want to organize related routes together in your file system, but you don't want those organization folders to become part of your API URL.
 
 **Without route groups:**
+
 ```plaintext
 routes/
 ├── auth/
@@ -39,6 +40,7 @@ routes/
 ```
 
 **With route groups:**
+
 ```plaintext
 routes/
 └── (auth)/
@@ -89,6 +91,7 @@ routes/
 ```
 
 URLs remain clean and intuitive:
+
 - `/login`, `/register`, `/logout`, `/password-reset`
 - `/analytics`, `/reports`, `/settings`
 - `/about`, `/contact`, `/pricing`
@@ -178,6 +181,7 @@ This structure keeps related code together while maintaining a clean, logical UR
 ## Common Patterns
 
 **Separating public and authenticated routes:**
+
 ```plaintext
 routes/
 ├── (public)/      # No auth required
@@ -185,6 +189,7 @@ routes/
 ```
 
 **Organizing by domain:**
+
 ```plaintext
 routes/
 ├── (billing)/
@@ -193,6 +198,7 @@ routes/
 ```
 
 **Version isolation:**
+
 ```plaintext
 routes/
 ├── (stable)/
@@ -203,9 +209,10 @@ routes/
 
 ## Next Steps
 
-- [HTTP Methods](/docs/core-concepts/http-methods) - Handle different request types in your routes
-- [Middleware](/docs/core-concepts/middleware) - Add authentication to protected route groups
-- [Dynamic Routes](/docs/core-concepts/dynamic-routes) - Combine groups with dynamic parameters0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PvsxFqGNqvQCU7yV61JJa"}
+- [HTTP Methods](/docs/0.1.1/core-concepts/http-methods) - Handle different request types in your routes
+- [Middleware](/docs/0.1.1/core-concepts/middleware) - Add authentication to protected route groups
+- [Dynamic Routes](/docs/0.1.1/core-concepts/dynamic-routes) - Combine groups with dynamic parameters
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1EhjVNcEqNmT8yXn6KRm1"}
 5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/0.1.1/core-concepts/dynamic-routes","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200","aria-label":"Go to previous page: Dynamic Routes","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-white"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Dynamic Routes"}]]}]]}],["$","$La",null,{"href":"/docs/0.1.1/core-concepts/http-methods","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: HTTP Methods","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"HTTP Methods"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-white"}]]}]]}]]}]
 6:["$","$Lc",null,{"headings":[{"level":2,"text":"Basic Syntax","id":"basic-syntax"},{"level":2,"text":"Why Use Route Groups?","id":"why-use-route-groups"},{"level":2,"text":"API Versioning","id":"api-versioning"},{"level":2,"text":"Feature-based Organization","id":"feature-based-organization"},{"level":2,"text":"Nested Route Groups","id":"nested-route-groups"},{"level":2,"text":"Combining Groups with Dynamic Routes","id":"combining-groups-with-dynamic-routes"},{"level":2,"text":"Real-world Example","id":"real-world-example"},{"level":2,"text":"Best Practices","id":"best-practices"},{"level":2,"text":"Common Patterns","id":"common-patterns"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
 7:["$","script","script-0",{"src":"/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","async":true}]
