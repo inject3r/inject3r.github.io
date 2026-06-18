@@ -1,15 +1,12 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,36331,e=>{"use strict";var t=e.i(43476),s=e.i(71645),a=e.i(15147),i=e.i(49136);let r=[{title:"Basic installation",desc:"Minimal setup for production use",code:"pip install atomhttp"},{title:"With development dependencies",desc:"Includes pytest, black, mypy, ruff for development",code:"pip install atomhttp[dev]"},{title:"With testing dependencies only",desc:"Only testing tools without linters",code:"pip install atomhttp[test]"}],n=[{title:"Basic GET request",desc:"Simple request to fetch a single resource",code:`import asyncio
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,36331,e=>{"use strict";var t=e.i(43476),s=e.i(71645),a=e.i(15147),i=e.i(49136);let r=[{title:"Basic installation",desc:"Minimal setup for production use",code:"pip install atomhttp"},{title:"With development dependencies",desc:"Includes pytest, black, mypy, ruff for development",code:"pip install atomhttp[dev]"},{title:"With testing dependencies only",desc:"Only testing tools without linters",code:"pip install atomhttp[test]"}],n=[{title:"Basic GET request",desc:"Simple request to fetch a single resource with automatic cleanup",code:`import asyncio
 from atomhttp import AtomHTTP
 
 async def main():
-    client = AtomHTTP()
-    
-    response = await client.get('https://jsonplaceholder.typicode.com/posts/1')
-    print(f"Status: {response.status}")
-    print(f"Title: {response.data['title']}")
-    print(f"User ID: {response.data['userId']}")
-    
-    await client.close()
+    async with AtomHTTP() as client:
+        response = await client.get('https://jsonplaceholder.typicode.com/posts/1')
+        print(f"Status: {response.status}")
+        print(f"Title: {response.data['title']}")
+        print(f"User ID: {response.data['userId']}")
 
 asyncio.run(main())`},{title:"With configuration",desc:"Using baseURL, timeout, and default headers",code:`import asyncio
 from atomhttp import AtomHTTP
