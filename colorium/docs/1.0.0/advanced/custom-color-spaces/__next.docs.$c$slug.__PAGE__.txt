@@ -1,0 +1,500 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T2e86,
+# Custom Color Spaces
+
+Colorium is designed to be extensible. This guide shows you how to add custom color spaces to the library.
+
+## Overview
+
+Adding a custom color space involves:
+
+1. Defining conversion functions
+2. Adding factory methods
+3. Adding conversion methods
+4. Testing your implementation
+
+## Basic Custom Space
+
+### Simple Linear Space
+
+```python
+from colorium import Color
+
+# Define conversion functions
+def custom_to_rgb(c1, c2, c3):
+    """Convert custom space to RGB"""
+    # Example: Simple linear transformation
+    r = int(c1 * 255)
+    g = int(c2 * 255)
+    b = int(c3 * 255)
+    return {'r': r, 'g': g, 'b': b}
+
+def rgb_to_custom(r, g, b):
+    """Convert RGB to custom space"""
+    return {
+        'c1': r / 255.0,
+        'c2': g / 255.0,
+        'c3': b / 255.0
+    }
+
+# Add to Color class
+def add_custom_space(name, to_rgb_func, from_rgb_func):
+    """Add a custom color space to Colorium"""
+
+    # Factory method
+    def from_func(cls, v1, v2, v3, opacity=1.0):
+        rgb = to_rgb_func(v1, v2, v3)
+        return cls(rgb['r'], rgb['g'], rgb['b'], opacity)
+
+    # Conversion method
+    def to_func(self):
+        return from_rgb_func(self.red, self.green, self.blue)
+
+    setattr(Color, f'from_{name}', classmethod(from_func))
+    setattr(Color, f'to_{name}', to_func)
+
+# Add custom space
+add_custom_space('custom', custom_to_rgb, rgb_to_custom)
+
+# Usage
+color = Color.from_custom(1.0, 0.5, 0.0)
+custom = color.to_custom()
+print(custom)  # {'c1': 1.0, 'c2': 0.5, 'c3': 0.0}
+```
+
+## HSV Color Space
+
+### Full Implementation
+
+```python
+from colorium import Color
+
+def hsv_to_rgb(h, s, v):
+    """Convert HSV to RGB"""
+    h = h % 360
+    c = v * s
+    x = c * (1 - abs((h / 60) % 2 - 1))
+    m = v - c
+
+    if 0 <= h < 60:
+        r, g, b = c, x, 0
+    elif 60 <= h < 120:
+        r, g, b = x, c, 0
+    elif 120 <= h < 180:
+        r, g, b = 0, c, x
+    elif 180 <= h < 240:
+        r, g, b = 0, x, c
+    elif 240 <= h < 300:
+        r, g, b = x, 0, c
+    else:
+        r, g, b = c, 0, x
+
+    return {
+        'r': int((r + m) * 255),
+        'g': int((g + m) * 255),
+        'b': int((b + m) * 255)
+    }
+
+def rgb_to_hsv(r, g, b):
+    """Convert RGB to HSV"""
+    r_n = r / 255.0
+    g_n = g / 255.0
+    b_n = b / 255.0
+
+    max_val = max(r_n, g_n, b_n)
+    min_val = min(r_n, g_n, b_n)
+    delta = max_val - min_val
+
+    # Calculate hue
+    if delta == 0:
+        h = 0
+    elif max_val == r_n:
+        h = 60 * (((g_n - b_n) / delta) % 6)
+    elif max_val == g_n:
+        h = 60 * (((b_n - r_n) / delta) + 2)
+    else:
+        h = 60 * (((r_n - g_n) / delta) + 4)
+
+    # Calculate saturation
+    s = 0 if max_val == 0 else delta / max_val
+
+    # Calculate value
+    v = max_val
+
+    return {
+        'h': round(h, 2),
+        's': round(s, 2),
+        'v': round(v, 2)
+    }
+
+# Add HSV space
+def add_hsv_space():
+    """Add HSV color space to Colorium"""
+
+    @classmethod
+    def from_hsv(cls, h, s, v, opacity=1.0):
+        rgb = hsv_to_rgb(h, s, v)
+        return cls(rgb['r'], rgb['g'], rgb['b'], opacity)
+
+    def to_hsv(self):
+        return rgb_to_hsv(self.red, self.green, self.blue)
+
+    Color.from_hsv = from_hsv
+    Color.to_hsv = to_hsv
+
+add_hsv_space()
+
+# Usage
+red = Color.from_hsv(0, 1.0, 1.0)
+print(red.to_hex_string())  # #FF0000
+
+hsv = red.to_hsv()
+print(hsv)  # {'h': 0, 's': 1.0, 'v': 1.0}
+
+# Create color from HSV
+pastel = Color.from_hsv(200, 0.3, 0.8)
+print(pastel.to_hex_string())
+```
+
+## YUV Color Space
+
+### YUV Implementation
+
+```python
+from colorium import Color
+
+def yuv_to_rgb(y, u, v):
+    """Convert YUV to RGB"""
+    # Standard YUV to RGB conversion
+    r = y + 1.13983 * v
+    g = y - 0.39465 * u - 0.58060 * v
+    b = y + 2.03211 * u
+
+    return {
+        'r': int(max(0, min(255, r * 255))),
+        'g': int(max(0, min(255, g * 255))),
+        'b': int(max(0, min(255, b * 255)))
+    }
+
+def rgb_to_yuv(r, g, b):
+    """Convert RGB to YUV"""
+    r_n = r / 255.0
+    g_n = g / 255.0
+    b_n = b / 255.0
+
+    y = 0.299 * r_n + 0.587 * g_n + 0.114 * b_n
+    u = -0.14713 * r_n - 0.28886 * g_n + 0.436 * b_n
+    v = 0.615 * r_n - 0.51499 * g_n - 0.10001 * b_n
+
+    return {
+        'y': round(y, 3),
+        'u': round(u, 3),
+        'v': round(v, 3)
+    }
+
+# Add YUV space
+def add_yuv_space():
+    """Add YUV color space to Colorium"""
+
+    @classmethod
+    def from_yuv(cls, y, u, v, opacity=1.0):
+        rgb = yuv_to_rgb(y, u, v)
+        return cls(rgb['r'], rgb['g'], rgb['b'], opacity)
+
+    def to_yuv(self):
+        return rgb_to_yuv(self.red, self.green, self.blue)
+
+    Color.from_yuv = from_yuv
+    Color.to_yuv = to_yuv
+
+add_yuv_space()
+
+# Usage
+color = Color.from_yuv(0.5, 0.1, 0.1)
+yuv = color.to_yuv()
+print(yuv)
+```
+
+## XYZ Color Space
+
+### XYZ Implementation
+
+```python
+from colorium import Color
+
+def xyz_to_rgb(x, y, z):
+    """Convert XYZ to RGB"""
+    # Linear RGB from XYZ (D65 illuminant)
+    r = 3.2404542 * x - 1.5371385 * y - 0.4985314 * z
+    g = -0.9692660 * x + 1.8760108 * y + 0.0415560 * z
+    b = 0.0556434 * x - 0.2040259 * y + 1.0572252 * z
+
+    # Apply gamma correction (sRGB)
+    def gamma_correct(c):
+        if c <= 0.0031308:
+            return 12.92 * c
+        return 1.055 * (c ** (1/2.4)) - 0.055
+
+    r = max(0, min(1, gamma_correct(r)))
+    g = max(0, min(1, gamma_correct(g)))
+    b = max(0, min(1, gamma_correct(b)))
+
+    return {
+        'r': int(r * 255),
+        'g': int(g * 255),
+        'b': int(b * 255)
+    }
+
+def rgb_to_xyz(r, g, b):
+    """Convert RGB to XYZ"""
+    # Linearize RGB
+    def linearize(c):
+        c = c / 255.0
+        if c <= 0.04045:
+            return c / 12.92
+        return ((c + 0.055) / 1.055) ** 2.4
+
+    r_lin = linearize(r)
+    g_lin = linearize(g)
+    b_lin = linearize(b)
+
+    # RGB to XYZ (D65 illuminant)
+    x = 0.4124564 * r_lin + 0.3575761 * g_lin + 0.1804375 * b_lin
+    y = 0.2126729 * r_lin + 0.7151522 * g_lin + 0.0721750 * b_lin
+    z = 0.0193339 * r_lin + 0.1191920 * g_lin + 0.9503041 * b_lin
+
+    return {
+        'x': round(x, 4),
+        'y': round(y, 4),
+        'z': round(z, 4)
+    }
+
+# Add XYZ space
+def add_xyz_space():
+    """Add XYZ color space to Colorium"""
+
+    @classmethod
+    def from_xyz(cls, x, y, z, opacity=1.0):
+        rgb = xyz_to_rgb(x, y, z)
+        return cls(rgb['r'], rgb['g'], rgb['b'], opacity)
+
+    def to_xyz(self):
+        return rgb_to_xyz(self.red, self.green, self.blue)
+
+    Color.from_xyz = from_xyz
+    Color.to_xyz = to_xyz
+
+add_xyz_space()
+
+# Usage
+color = Color.from_xyz(0.5, 0.4, 0.3)
+xyz = color.to_xyz()
+print(xyz)
+```
+
+## Custom Space with Parameters
+
+### Parameterized Color Space
+
+```python
+from colorium import Color
+
+class ParametricColorSpace:
+    def __init__(self, name, transform_matrix, inverse_matrix):
+        self.name = name
+        self.transform = transform_matrix
+        self.inverse = inverse_matrix
+
+        # Add to Color class
+        self._add_to_color()
+
+    def _add_to_color(self):
+        """Add this space to Color class"""
+        name = self.name
+
+        @classmethod
+        def from_space(cls, v1, v2, v3, opacity=1.0):
+            # Apply inverse matrix
+            r = self.inverse[0][0] * v1 + self.inverse[0][1] * v2 + self.inverse[0][2] * v3
+            g = self.inverse[1][0] * v1 + self.inverse[1][1] * v2 + self.inverse[1][2] * v3
+            b = self.inverse[2][0] * v1 + self.inverse[2][1] * v2 + self.inverse[2][2] * v3
+
+            r = max(0, min(1, r)) * 255
+            g = max(0, min(1, g)) * 255
+            b = max(0, min(1, b)) * 255
+
+            return cls(int(r), int(g), int(b), opacity)
+
+        def to_space(self):
+            # Apply transform matrix
+            v1 = self.transform[0][0] * self.red + self.transform[0][1] * self.green + self.transform[0][2] * self.blue
+            v2 = self.transform[1][0] * self.red + self.transform[1][1] * self.green + self.transform[1][2] * self.blue
+            v3 = self.transform[2][0] * self.red + self.transform[2][1] * self.green + self.transform[2][2] * self.blue
+
+            return {
+                'v1': v1 / 255,
+                'v2': v2 / 255,
+                'v3': v3 / 255
+            }
+
+        setattr(Color, f'from_{name}', classmethod(from_space))
+        setattr(Color, f'to_{name}', to_space)
+
+# Usage
+# Define a custom linear transform
+transform = [
+    [0.5, 0.25, 0.25],
+    [0.25, 0.5, 0.25],
+    [0.25, 0.25, 0.5]
+]
+
+inverse = [
+    [1.0, -0.5, -0.5],
+    [-0.5, 1.0, -0.5],
+    [-0.5, -0.5, 1.0]
+]
+
+space = ParametricColorSpace('my_space', transform, inverse)
+color = Color.from_my_space(1.0, 0.5, 0.0)
+result = color.to_my_space()
+print(result)
+```
+
+## Testing Custom Spaces
+
+### Unit Tests
+
+```python
+import unittest
+from colorium import Color
+
+class TestCustomSpace(unittest.TestCase):
+    def test_roundtrip_conversion(self):
+        """Test that roundtrip conversion preserves color"""
+        original = Color(100, 150, 200)
+
+        # Convert to HSV and back
+        hsv = original.to_hsv()
+        recreated = Color.from_hsv(hsv['h'], hsv['s'], hsv['v'])
+
+        # Check with tolerance
+        self.assertAlmostEqual(original.red, recreated.red, delta=2)
+        self.assertAlmostEqual(original.green, recreated.green, delta=2)
+        self.assertAlmostEqual(original.blue, recreated.blue, delta=2)
+
+    def test_known_values(self):
+        """Test known color values"""
+        # Red in HSV should be (0, 1.0, 1.0)
+        red = Color(255, 0, 0)
+        hsv = red.to_hsv()
+        self.assertEqual(hsv['h'], 0)
+        self.assertEqual(hsv['s'], 1.0)
+        self.assertEqual(hsv['v'], 1.0)
+
+    def test_custom_space(self):
+        """Test custom space implementation"""
+        # Test that from_xxx and to_xxx work correctly
+        color = Color.from_custom(1.0, 0.5, 0.0)
+        custom = color.to_custom()
+
+        self.assertAlmostEqual(custom['c1'], 1.0, delta=0.01)
+        self.assertAlmostEqual(custom['c2'], 0.5, delta=0.01)
+        self.assertAlmostEqual(custom['c3'], 0.0, delta=0.01)
+
+if __name__ == '__main__':
+    unittest.main()
+```
+
+## Best Practices
+
+### Conversion Accuracy
+
+```python
+from colorium import Color
+
+def test_accuracy(color, iterations=100):
+    """Test conversion accuracy over multiple iterations"""
+    current = color
+
+    for i in range(iterations):
+        # Convert to custom space and back
+        hsv = current.to_hsv()
+        current = Color.from_hsv(hsv['h'], hsv['s'], hsv['v'])
+
+    # Check final color
+    print(f"Original: {color.to_hex_string()}")
+    print(f"Final: {current.to_hex_string()}")
+    print(f"Difference: {color.delta_e(current, 'cie2000'):.2f}")
+
+# Test accuracy
+test = Color(100, 150, 200)
+test_accuracy(test)
+```
+
+### Performance Considerations
+
+```python
+from colorium import Color
+import time
+
+def benchmark_conversion(color, iterations=10000):
+    """Benchmark color conversion performance"""
+    start = time.time()
+
+    for _ in range(iterations):
+        hsv = color.to_hsv()
+        color = Color.from_hsv(hsv['h'], hsv['s'], hsv['v'])
+
+    end = time.time()
+    print(f"Time for {iterations} conversions: {end - start:.3f}s")
+
+# Benchmark
+color = Color(100, 150, 200)
+benchmark_conversion(color)
+```
+
+### Error Handling
+
+```python
+from colorium import Color
+
+def safe_custom_conversion(color):
+    """Safely convert with error handling"""
+    try:
+        hsv = color.to_hsv()
+        return hsv
+    except Exception as e:
+        print(f"Conversion failed: {e}")
+        return None
+
+# Usage
+color = Color(100, 150, 200)
+hsv = safe_custom_conversion(color)
+if hsv:
+    print(f"HSV: {hsv}")
+```
+
+## Next Steps
+
+- [Performance Tips](/docs/1.0.0/advanced/performance-tips) — Optimization techniques
+- [Integration Guide](/docs/1.0.0/advanced/integration-guide) — Using with other libraries
+- [Contributing](/docs/1.0.0/advanced/contributing) — How to contribute
+
+---
+
+**Previous:** [Advanced Topics](/docs/1.0.0/advanced)
+**Next:** [Performance Tips →](/docs/1.0.0/advanced/performance-tips)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","div",null,{"className":"invisible"}],["$","$La",null,{"href":"/docs/1.0.0/api-reference/color-class","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Color Class API","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Color Class API"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"Overview","id":"overview"},{"level":2,"text":"Basic Custom Space","id":"basic-custom-space"},{"level":3,"text":"Simple Linear Space","id":"simple-linear-space"},{"level":2,"text":"HSV Color Space","id":"hsv-color-space"},{"level":3,"text":"Full Implementation","id":"full-implementation"},{"level":2,"text":"YUV Color Space","id":"yuv-color-space"},{"level":3,"text":"YUV Implementation","id":"yuv-implementation"},{"level":2,"text":"XYZ Color Space","id":"xyz-color-space"},{"level":3,"text":"XYZ Implementation","id":"xyz-implementation"},{"level":2,"text":"Custom Space with Parameters","id":"custom-space-with-parameters"},{"level":3,"text":"Parameterized Color Space","id":"parameterized-color-space"},{"level":2,"text":"Testing Custom Spaces","id":"testing-custom-spaces"},{"level":3,"text":"Unit Tests","id":"unit-tests"},{"level":2,"text":"Best Practices","id":"best-practices"},{"level":3,"text":"Conversion Accuracy","id":"conversion-accuracy"},{"level":3,"text":"Performance Considerations","id":"performance-considerations"},{"level":3,"text":"Error Handling","id":"error-handling"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

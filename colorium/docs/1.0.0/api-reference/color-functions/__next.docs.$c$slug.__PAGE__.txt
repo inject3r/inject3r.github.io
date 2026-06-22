@@ -1,0 +1,882 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T441c,
+# Color Functions API
+
+This document covers all factory functions and conversion functions available in Colorium.
+
+## Factory Functions
+
+### from_string
+
+```python
+def from_string(color_str: str) -> Optional[Color]
+```
+
+Create a Color from any valid string representation.
+
+**Supported formats:**
+
+- Named colors: `"red"`, `"blue"`, `"white"`
+- Hex colors: `"#FF0000"`, `"#F00"`, `"FF0000"`
+- RGB: `"rgb(255, 0, 0)"`, `"rgba(255, 0, 0, 0.5)"`
+- HSL: `"hsl(0, 100%, 50%)"`, `"hsla(0, 100%, 50%, 0.5)"`
+- HWB: `"hwb(0, 0%, 0%)"`, `"hwba(0, 0%, 0%, 0.5)"`
+- CMYK: `"cmyk(0%, 100%, 100%, 0%)"`
+- NCOL: `"ncol(R50, 0%, 0%)"`
+
+**Parameters:**
+
+| Parameter | Type | Description                      |
+| --------- | ---- | -------------------------------- |
+| color_str | str  | String representation of a color |
+
+**Returns:** Color object or None if parsing fails
+
+**Example:**
+
+```python
+from colorium import from_string
+
+red = from_string("red")
+hex_color = from_string("#FF0000")
+rgb_color = from_string("rgb(255, 0, 0)")
+hsl_color = from_string("hsl(0, 100%, 50%)")
+cmyk_color = from_string("cmyk(0%, 100%, 100%, 0%)")
+```
+
+### from_hex
+
+```python
+def from_hex(hex_str: str) -> Optional[Color]
+```
+
+Create a Color from a hexadecimal color code.
+
+**Supported formats:**
+
+- 6-digit: `"FF0000"`, `"#FF0000"`
+- 3-digit shorthand: `"#F00"` (expands to `"#FF0000"`)
+
+**Parameters:**
+
+| Parameter | Type | Description                         |
+| --------- | ---- | ----------------------------------- |
+| hex_str   | str  | Hex string with or without # prefix |
+
+**Returns:** Color object or None if invalid
+
+**Example:**
+
+```python
+from colorium import from_hex
+
+red = from_hex("#FF0000")
+green = from_hex("00FF00")
+blue = from_hex("#00F")  # shorthand
+```
+
+### from_rgb
+
+```python
+def from_rgb(r: int, g: int, b: int, opacity: float = 1.0) -> Color
+```
+
+Create a Color from RGB values.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description            |
+| --------- | ----- | ----- | ---------------------- |
+| r         | int   | 0-255 | Red component          |
+| g         | int   | 0-255 | Green component        |
+| b         | int   | 0-255 | Blue component         |
+| opacity   | float | 0-1   | Opacity (default: 1.0) |
+
+**Returns:** Color object
+
+**Example:**
+
+```python
+from colorium import from_rgb
+
+red = from_rgb(255, 0, 0)
+semi_transparent = from_rgb(255, 0, 0, 0.5)
+```
+
+### from_hsl
+
+```python
+def from_hsl(hue: float, sat: float, lightness: float, opacity: float = 1.0) -> Color
+```
+
+Create a Color from HSL values.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description            |
+| --------- | ----- | ----- | ---------------------- |
+| hue       | float | 0-360 | Hue angle              |
+| sat       | float | 0-1   | Saturation             |
+| lightness | float | 0-1   | Lightness              |
+| opacity   | float | 0-1   | Opacity (default: 1.0) |
+
+**Returns:** Color object
+
+**Example:**
+
+```python
+from colorium import from_hsl
+
+red = from_hsl(0, 1.0, 0.5)
+pastel = from_hsl(200, 0.3, 0.7)
+dark = from_hsl(120, 0.8, 0.2)
+```
+
+### from_hwb
+
+```python
+def from_hwb(hue: float, white: float, black: float, opacity: float = 1.0) -> Color
+```
+
+Create a Color from HWB values.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description            |
+| --------- | ----- | ----- | ---------------------- |
+| hue       | float | 0-360 | Hue angle              |
+| white     | float | 0-1   | Whiteness              |
+| black     | float | 0-1   | Blackness              |
+| opacity   | float | 0-1   | Opacity (default: 1.0) |
+
+**Returns:** Color object
+
+**Example:**
+
+```python
+from colorium import from_hwb
+
+red = from_hwb(0, 0, 0)
+pink = from_hwb(0, 0.5, 0)
+dark_red = from_hwb(0, 0, 0.5)
+```
+
+### from_cmyk
+
+```python
+def from_cmyk(c: float, m: float, y: float, k: float, opacity: float = 1.0) -> Color
+```
+
+Create a Color from CMYK values.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description            |
+| --------- | ----- | ----- | ---------------------- |
+| c         | float | 0-1   | Cyan                   |
+| m         | float | 0-1   | Magenta                |
+| y         | float | 0-1   | Yellow                 |
+| k         | float | 0-1   | Black                  |
+| opacity   | float | 0-1   | Opacity (default: 1.0) |
+
+**Returns:** Color object
+
+**Example:**
+
+```python
+from colorium import from_cmyk
+
+red = from_cmyk(0, 1.0, 1.0, 0)
+black = from_cmyk(0, 0, 0, 1.0)
+rich_black = from_cmyk(0.5, 0.5, 0.5, 1.0)
+```
+
+### from_oklch
+
+```python
+def from_oklch(l: float, c: float, h: float, opacity: float = 1.0) -> Color
+```
+
+Create a Color from OKLCH values (CSS Color Level 4).
+
+**Parameters:**
+
+| Parameter | Type  | Range  | Description            |
+| --------- | ----- | ------ | ---------------------- |
+| l         | float | 0-1    | Lightness              |
+| c         | float | 0-0.4+ | Chroma                 |
+| h         | float | 0-360  | Hue                    |
+| opacity   | float | 0-1    | Opacity (default: 1.0) |
+
+**Returns:** Color object
+
+**Example:**
+
+```python
+from colorium import from_oklch
+
+color = from_oklch(0.5, 0.2, 180)
+```
+
+### from_lab
+
+```python
+def from_lab(l: float, a: float, b: float, opacity: float = 1.0) -> Color
+```
+
+Create a Color from CIE L*a*b\* values (CSS Color Level 4).
+
+**Parameters:**
+
+| Parameter | Type  | Range       | Description            |
+| --------- | ----- | ----------- | ---------------------- |
+| l         | float | 0-100       | Lightness              |
+| a         | float | -128 to 128 | a\* axis               |
+| b         | float | -128 to 128 | b\* axis               |
+| opacity   | float | 0-1         | Opacity (default: 1.0) |
+
+**Returns:** Color object
+
+**Example:**
+
+```python
+from colorium import from_lab
+
+color = from_lab(50, 20, -30)
+```
+
+### from_lch
+
+```python
+def from_lch(l: float, c: float, h: float, opacity: float = 1.0) -> Color
+```
+
+Create a Color from CIE LCH values (CSS Color Level 4).
+
+**Parameters:**
+
+| Parameter | Type  | Range  | Description            |
+| --------- | ----- | ------ | ---------------------- |
+| l         | float | 0-100  | Lightness              |
+| c         | float | 0-100+ | Chroma                 |
+| h         | float | 0-360  | Hue                    |
+| opacity   | float | 0-1    | Opacity (default: 1.0) |
+
+**Returns:** Color object
+
+**Example:**
+
+```python
+from colorium import from_lch
+
+color = from_lch(50, 30, 180)
+```
+
+### from_p3
+
+```python
+def from_p3(r: float, g: float, b: float, opacity: float = 1.0) -> Color
+```
+
+Create a Color from Display P3 values.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description            |
+| --------- | ----- | ----- | ---------------------- |
+| r         | float | 0-1+  | Red in P3 space        |
+| g         | float | 0-1+  | Green in P3 space      |
+| b         | float | 0-1+  | Blue in P3 space       |
+| opacity   | float | 0-1   | Opacity (default: 1.0) |
+
+**Returns:** Color object
+
+**Example:**
+
+```python
+from colorium import from_p3
+
+color = from_p3(0.8, 0.3, 0.5)
+```
+
+## Color Space Conversion Functions
+
+### rgb_to_hsl
+
+```python
+def rgb_to_hsl(r: int, g: int, b: int) -> Dict[str, float]
+```
+
+Convert RGB values to HSL.
+
+**Parameters:**
+
+| Parameter | Type | Range | Description     |
+| --------- | ---- | ----- | --------------- |
+| r         | int  | 0-255 | Red component   |
+| g         | int  | 0-255 | Green component |
+| b         | int  | 0-255 | Blue component  |
+
+**Returns:**
+
+```python
+{
+    'h': 0-360,  # Hue
+    's': 0-1,    # Saturation
+    'l': 0-1     # Lightness
+}
+```
+
+**Example:**
+
+```python
+from colorium import rgb_to_hsl
+
+hsl = rgb_to_hsl(255, 0, 0)
+print(hsl)  # {'h': 0, 's': 1.0, 'l': 0.5}
+```
+
+### hsl_to_rgb
+
+```python
+def hsl_to_rgb(hue: float, sat: float, lightness: float) -> Dict[str, int]
+```
+
+Convert HSL values to RGB.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description |
+| --------- | ----- | ----- | ----------- |
+| hue       | float | 0-360 | Hue angle   |
+| sat       | float | 0-1   | Saturation  |
+| lightness | float | 0-1   | Lightness   |
+
+**Returns:**
+
+```python
+{
+    'r': 0-255,  # Red
+    'g': 0-255,  # Green
+    'b': 0-255   # Blue
+}
+```
+
+**Example:**
+
+```python
+from colorium import hsl_to_rgb
+
+rgb = hsl_to_rgb(0, 1.0, 0.5)
+print(rgb)  # {'r': 255, 'g': 0, 'b': 0}
+```
+
+### rgb_to_hwb
+
+```python
+def rgb_to_hwb(r: int, g: int, b: int) -> Dict[str, float]
+```
+
+Convert RGB values to HWB.
+
+**Parameters:**
+
+| Parameter | Type | Range | Description     |
+| --------- | ---- | ----- | --------------- |
+| r         | int  | 0-255 | Red component   |
+| g         | int  | 0-255 | Green component |
+| b         | int  | 0-255 | Blue component  |
+
+**Returns:**
+
+```python
+{
+    'h': 0-360,  # Hue
+    'w': 0-1,    # Whiteness
+    'b': 0-1     # Blackness
+}
+```
+
+**Example:**
+
+```python
+from colorium import rgb_to_hwb
+
+hwb = rgb_to_hwb(255, 0, 0)
+print(hwb)  # {'h': 0, 'w': 0.0, 'b': 0.0}
+```
+
+### hwb_to_rgb
+
+```python
+def hwb_to_rgb(hue: float, white: float, black: float) -> Dict[str, int]
+```
+
+Convert HWB values to RGB.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description |
+| --------- | ----- | ----- | ----------- |
+| hue       | float | 0-360 | Hue angle   |
+| white     | float | 0-1   | Whiteness   |
+| black     | float | 0-1   | Blackness   |
+
+**Returns:**
+
+```python
+{
+    'r': 0-255,  # Red
+    'g': 0-255,  # Green
+    'b': 0-255   # Blue
+}
+```
+
+**Example:**
+
+```python
+from colorium import hwb_to_rgb
+
+rgb = hwb_to_rgb(0, 0.0, 0.0)
+print(rgb)  # {'r': 255, 'g': 0, 'b': 0}
+```
+
+### rgb_to_cmyk
+
+```python
+def rgb_to_cmyk(r: int, g: int, b: int) -> Dict[str, float]
+```
+
+Convert RGB values to CMYK.
+
+**Parameters:**
+
+| Parameter | Type | Range | Description     |
+| --------- | ---- | ----- | --------------- |
+| r         | int  | 0-255 | Red component   |
+| g         | int  | 0-255 | Green component |
+| b         | int  | 0-255 | Blue component  |
+
+**Returns:**
+
+```python
+{
+    'c': 0-1,  # Cyan
+    'm': 0-1,  # Magenta
+    'y': 0-1,  # Yellow
+    'k': 0-1   # Black
+}
+```
+
+**Example:**
+
+```python
+from colorium import rgb_to_cmyk
+
+cmyk = rgb_to_cmyk(255, 0, 0)
+print(cmyk)  # {'c': 0.0, 'm': 1.0, 'y': 1.0, 'k': 0.0}
+```
+
+### cmyk_to_rgb
+
+```python
+def cmyk_to_rgb(c: float, m: float, y: float, k: float) -> Dict[str, int]
+```
+
+Convert CMYK values to RGB.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description |
+| --------- | ----- | ----- | ----------- |
+| c         | float | 0-1   | Cyan        |
+| m         | float | 0-1   | Magenta     |
+| y         | float | 0-1   | Yellow      |
+| k         | float | 0-1   | Black       |
+
+**Returns:**
+
+```python
+{
+    'r': 0-255,  # Red
+    'g': 0-255,  # Green
+    'b': 0-255   # Blue
+}
+```
+
+**Example:**
+
+```python
+from colorium import cmyk_to_rgb
+
+rgb = cmyk_to_rgb(0.0, 1.0, 1.0, 0.0)
+print(rgb)  # {'r': 255, 'g': 0, 'b': 0}
+```
+
+### rgb_to_oklch
+
+```python
+def rgb_to_oklch(r: int, g: int, b: int) -> Dict[str, float]
+```
+
+Convert RGB to OKLCH color space.
+
+**Parameters:**
+
+| Parameter | Type | Range | Description     |
+| --------- | ---- | ----- | --------------- |
+| r         | int  | 0-255 | Red component   |
+| g         | int  | 0-255 | Green component |
+| b         | int  | 0-255 | Blue component  |
+
+**Returns:**
+
+```python
+{
+    'l': 0-1,    # Lightness
+    'c': 0-0.4+, # Chroma
+    'h': 0-360   # Hue
+}
+```
+
+**Example:**
+
+```python
+from colorium import rgb_to_oklch
+
+oklch = rgb_to_oklch(255, 0, 0)
+print(oklch)  # {'l': 0.628, 'c': 0.258, 'h': 29.2}
+```
+
+### oklch_to_rgb
+
+```python
+def oklch_to_rgb(l: float, c: float, h: float) -> Dict[str, int]
+```
+
+Convert OKLCH to RGB.
+
+**Parameters:**
+
+| Parameter | Type  | Range  | Description |
+| --------- | ----- | ------ | ----------- |
+| l         | float | 0-1    | Lightness   |
+| c         | float | 0-0.4+ | Chroma      |
+| h         | float | 0-360  | Hue         |
+
+**Returns:**
+
+```python
+{
+    'r': 0-255,  # Red
+    'g': 0-255,  # Green
+    'b': 0-255   # Blue
+}
+```
+
+**Example:**
+
+```python
+from colorium import oklch_to_rgb
+
+rgb = oklch_to_rgb(0.628, 0.258, 29.2)
+print(rgb)  # {'r': 255, 'g': 0, 'b': 0}
+```
+
+### rgb_to_lab
+
+```python
+def rgb_to_lab(r: int, g: int, b: int) -> Dict[str, float]
+```
+
+Convert RGB to CIE L*a*b\* color space.
+
+**Parameters:**
+
+| Parameter | Type | Range | Description     |
+| --------- | ---- | ----- | --------------- |
+| r         | int  | 0-255 | Red component   |
+| g         | int  | 0-255 | Green component |
+| b         | int  | 0-255 | Blue component  |
+
+**Returns:**
+
+```python
+{
+    'l': 0-100,      # Lightness
+    'a': -128 to 128, # a* axis
+    'b': -128 to 128  # b* axis
+}
+```
+
+**Example:**
+
+```python
+from colorium import rgb_to_lab
+
+lab = rgb_to_lab(255, 0, 0)
+print(lab)  # {'l': 53.24, 'a': 80.09, 'b': 67.20}
+```
+
+### lab_to_rgb
+
+```python
+def lab_to_rgb(l: float, a: float, b: float) -> Dict[str, int]
+```
+
+Convert CIE L*a*b\* to RGB.
+
+**Parameters:**
+
+| Parameter | Type  | Range       | Description |
+| --------- | ----- | ----------- | ----------- |
+| l         | float | 0-100       | Lightness   |
+| a         | float | -128 to 128 | a\* axis    |
+| b         | float | -128 to 128 | b\* axis    |
+
+**Returns:**
+
+```python
+{
+    'r': 0-255,  # Red
+    'g': 0-255,  # Green
+    'b': 0-255   # Blue
+}
+```
+
+**Example:**
+
+```python
+from colorium import lab_to_rgb
+
+rgb = lab_to_rgb(53.24, 80.09, 67.20)
+print(rgb)  # {'r': 255, 'g': 0, 'b': 0}
+```
+
+### rgb_to_lch
+
+```python
+def rgb_to_lch(r: int, g: int, b: int) -> Dict[str, float]
+```
+
+Convert RGB to CIE LCH color space.
+
+**Parameters:**
+
+| Parameter | Type | Range | Description     |
+| --------- | ---- | ----- | --------------- |
+| r         | int  | 0-255 | Red component   |
+| g         | int  | 0-255 | Green component |
+| b         | int  | 0-255 | Blue component  |
+
+**Returns:**
+
+```python
+{
+    'l': 0-100,    # Lightness
+    'c': 0-100+,   # Chroma
+    'h': 0-360     # Hue
+}
+```
+
+**Example:**
+
+```python
+from colorium import rgb_to_lch
+
+lch = rgb_to_lch(255, 0, 0)
+print(lch)  # {'l': 53.24, 'c': 104.55, 'h': 40.0}
+```
+
+### lch_to_rgb
+
+```python
+def lch_to_rgb(l: float, c: float, h: float) -> Dict[str, int]
+```
+
+Convert CIE LCH to RGB.
+
+**Parameters:**
+
+| Parameter | Type  | Range  | Description |
+| --------- | ----- | ------ | ----------- |
+| l         | float | 0-100  | Lightness   |
+| c         | float | 0-100+ | Chroma      |
+| h         | float | 0-360  | Hue         |
+
+**Returns:**
+
+```python
+{
+    'r': 0-255,  # Red
+    'g': 0-255,  # Green
+    'b': 0-255   # Blue
+}
+```
+
+**Example:**
+
+```python
+from colorium import lch_to_rgb
+
+rgb = lch_to_rgb(53.24, 104.55, 40.0)
+print(rgb)  # {'r': 255, 'g': 0, 'b': 0}
+```
+
+### rgb_to_p3
+
+```python
+def rgb_to_p3(r: int, g: int, b: int) -> Dict[str, float]
+```
+
+Convert sRGB to Display P3.
+
+**Parameters:**
+
+| Parameter | Type | Range | Description     |
+| --------- | ---- | ----- | --------------- |
+| r         | int  | 0-255 | Red component   |
+| g         | int  | 0-255 | Green component |
+| b         | int  | 0-255 | Blue component  |
+
+**Returns:**
+
+```python
+{
+    'r': 0-1,  # Red in P3
+    'g': 0-1,  # Green in P3
+    'b': 0-1   # Blue in P3
+}
+```
+
+**Example:**
+
+```python
+from colorium import rgb_to_p3
+
+p3 = rgb_to_p3(255, 0, 0)
+print(p3)  # {'r': 0.8226, 'g': 0.0331, 'b': 0.0171}
+```
+
+### p3_to_rgb
+
+```python
+def p3_to_rgb(r: float, g: float, b: float) -> Dict[str, int]
+```
+
+Convert Display P3 to sRGB.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description |
+| --------- | ----- | ----- | ----------- |
+| r         | float | 0-1+  | Red in P3   |
+| g         | float | 0-1+  | Green in P3 |
+| b         | float | 0-1+  | Blue in P3  |
+
+**Returns:**
+
+```python
+{
+    'r': 0-255,  # Red
+    'g': 0-255,  # Green
+    'b': 0-255   # Blue
+}
+```
+
+**Example:**
+
+```python
+from colorium import p3_to_rgb
+
+rgb = p3_to_rgb(0.8226, 0.0331, 0.0171)
+print(rgb)  # {'r': 255, 'g': 0, 'b': 0}
+```
+
+## NCOL Functions
+
+### hue_to_ncol
+
+```python
+def hue_to_ncol(hue: float) -> str
+```
+
+Convert hue to NCOL notation.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description |
+| --------- | ----- | ----- | ----------- |
+| hue       | float | 0-360 | Hue angle   |
+
+**Returns:** NCOL string (e.g., "R0", "Y50", "G100")
+
+**Example:**
+
+```python
+from colorium import hue_to_ncol
+
+print(hue_to_ncol(0))    # R0
+print(hue_to_ncol(30))   # R50
+print(hue_to_ncol(90))   # Y50
+```
+
+### ncol_to_rgb
+
+```python
+def ncol_to_rgb(ncol: str, white: float, black: float) -> Dict[str, int]
+```
+
+Convert NCOL notation to RGB.
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description                      |
+| --------- | ----- | ----- | -------------------------------- |
+| ncol      | str   | -     | NCOL string (e.g., "R50", "Y20") |
+| white     | float | 0-1   | Whiteness                        |
+| black     | float | 0-1   | Blackness                        |
+
+**Returns:**
+
+```python
+{
+    'r': 0-255,  # Red
+    'g': 0-255,  # Green
+    'b': 0-255   # Blue
+}
+```
+
+**Example:**
+
+```python
+from colorium import ncol_to_rgb
+
+rgb = ncol_to_rgb("R0", 0.0, 0.0)
+print(rgb)  # {'r': 255, 'g': 0, 'b': 0}
+```
+
+## Next Steps
+
+- [Filter Classes](/docs/1.0.0/api-reference/filter-classes) — Filter API
+- [Utility Functions](/docs/1.0.0/api-reference/utility-functions) — Utility API
+- [Color Class](/docs/1.0.0/api-reference/color-class) — Color class API
+
+---
+
+**Previous:** [Color Class](/docs/1.0.0/api-reference/color-class)
+**Next:** [Filter Classes →](/docs/1.0.0/api-reference/filter-classes)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/1.0.0/advanced/performance-tips","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200 hover:border-red-500/20","aria-label":"Go to previous page: Performance Tips","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Performance Tips"}]]}]]}],["$","$La",null,{"href":"/docs/1.0.0/core-concepts/color-creation","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Color Creation","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Color Creation"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"Factory Functions","id":"factory-functions"},{"level":3,"text":"from_string","id":"from_string"},{"level":3,"text":"from_hex","id":"from_hex"},{"level":3,"text":"from_rgb","id":"from_rgb"},{"level":3,"text":"from_hsl","id":"from_hsl"},{"level":3,"text":"from_hwb","id":"from_hwb"},{"level":3,"text":"from_cmyk","id":"from_cmyk"},{"level":3,"text":"from_oklch","id":"from_oklch"},{"level":3,"text":"from_lab","id":"from_lab"},{"level":3,"text":"from_lch","id":"from_lch"},{"level":3,"text":"from_p3","id":"from_p3"},{"level":2,"text":"Color Space Conversion Functions","id":"color-space-conversion-functions"},{"level":3,"text":"rgb_to_hsl","id":"rgb_to_hsl"},{"level":3,"text":"hsl_to_rgb","id":"hsl_to_rgb"},{"level":3,"text":"rgb_to_hwb","id":"rgb_to_hwb"},{"level":3,"text":"hwb_to_rgb","id":"hwb_to_rgb"},{"level":3,"text":"rgb_to_cmyk","id":"rgb_to_cmyk"},{"level":3,"text":"cmyk_to_rgb","id":"cmyk_to_rgb"},{"level":3,"text":"rgb_to_oklch","id":"rgb_to_oklch"},{"level":3,"text":"oklch_to_rgb","id":"oklch_to_rgb"},{"level":3,"text":"rgb_to_lab","id":"rgb_to_lab"},{"level":3,"text":"lab_to_rgb","id":"lab_to_rgb"},{"level":3,"text":"rgb_to_lch","id":"rgb_to_lch"},{"level":3,"text":"lch_to_rgb","id":"lch_to_rgb"},{"level":3,"text":"rgb_to_p3","id":"rgb_to_p3"},{"level":3,"text":"p3_to_rgb","id":"p3_to_rgb"},{"level":2,"text":"NCOL Functions","id":"ncol-functions"},{"level":3,"text":"hue_to_ncol","id":"hue_to_ncol"},{"level":3,"text":"ncol_to_rgb","id":"ncol_to_rgb"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

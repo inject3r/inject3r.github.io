@@ -1,0 +1,442 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T2f9f,
+# API Reference
+
+This section provides complete API documentation for all classes, functions, and methods in Colorium.
+
+## Overview
+
+| Module       | Description                |
+| ------------ | -------------------------- |
+| Color        | Core Color class           |
+| Color Spaces | Space-specific functions   |
+| Filters      | Filter classes and presets |
+| Utilities    | Utility functions          |
+| Constants    | Named colors and constants |
+
+## Color Class
+
+### Constructor
+
+```python
+Color(red: int, green: int, blue: int, opacity: float = 1.0)
+```
+
+Creates a new Color instance.
+
+| Parameter | Type  | Range | Description            |
+| --------- | ----- | ----- | ---------------------- |
+| red       | int   | 0-255 | Red component          |
+| green     | int   | 0-255 | Green component        |
+| blue      | int   | 0-255 | Blue component         |
+| opacity   | float | 0-1   | Opacity (default: 1.0) |
+
+**Example:**
+
+```python
+from colorium import Color
+
+red = Color(255, 0, 0)
+transparent_red = Color(255, 0, 0, 0.5)
+```
+
+### Properties
+
+#### RGB Properties
+
+| Property | Type  | Description             |
+| -------- | ----- | ----------------------- |
+| red      | int   | Red component (0-255)   |
+| green    | int   | Green component (0-255) |
+| blue     | int   | Blue component (0-255)  |
+| opacity  | float | Opacity (0-1)           |
+
+**Example:**
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+print(color.red)      # 100
+print(color.green)    # 150
+print(color.blue)     # 200
+print(color.opacity)  # 1.0
+
+color.red = 255
+color.green = 0
+color.blue = 0
+```
+
+#### HSL Properties
+
+| Property  | Type  | Description       |
+| --------- | ----- | ----------------- |
+| hue       | float | Hue angle (0-360) |
+| sat       | float | Saturation (0-1)  |
+| lightness | float | Lightness (0-1)   |
+
+**Example:**
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)
+print(color.hue)        # 0
+print(color.sat)        # 1.0
+print(color.lightness)  # 0.5
+```
+
+#### HWB Properties
+
+| Property  | Type  | Description     |
+| --------- | ----- | --------------- |
+| whiteness | float | Whiteness (0-1) |
+| blackness | float | Blackness (0-1) |
+
+**Example:**
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)
+print(color.whiteness)  # 0.0
+print(color.blackness)  # 0.0
+```
+
+#### CMYK Properties
+
+| Property | Type  | Description   |
+| -------- | ----- | ------------- |
+| cyan     | float | Cyan (0-1)    |
+| magenta  | float | Magenta (0-1) |
+| yellow   | float | Yellow (0-1)  |
+| black    | float | Black (0-1)   |
+
+**Example:**
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)
+print(color.cyan)     # 0.0
+print(color.magenta)  # 1.0
+print(color.yellow)   # 1.0
+print(color.black)    # 0.0
+```
+
+### String Methods
+
+| Method              | Returns | Example                               |
+| ------------------- | ------- | ------------------------------------- |
+| `to_rgb_string()`   | str     | `rgb(255, 0, 0)`                      |
+| `to_rgba_string()`  | str     | `rgba(255, 0, 0, 1.00)`               |
+| `to_hsl_string()`   | str     | `hsl(0, 100%, 50%)`                   |
+| `to_hsla_string()`  | str     | `hsla(0, 100%, 50%, 1.00)`            |
+| `to_hwb_string()`   | str     | `hwb(0, 0%, 0%)`                      |
+| `to_hwba_string()`  | str     | `hwba(0, 0%, 0%, 1.00)`               |
+| `to_cmyk_string()`  | str     | `cmyk(0%, 100%, 100%, 0%)`            |
+| `to_hex_string()`   | str     | `#FF0000`                             |
+| `to_oklch_string()` | str     | `oklch(62.8% 0.258 29.2)`             |
+| `to_lab_string()`   | str     | `lab(53.2% 80.1 67.2)`                |
+| `to_lch_string()`   | str     | `lch(53.2% 104.5 40.0)`               |
+| `to_p3_string()`    | str     | `color(display-p3 0.823 0.033 0.017)` |
+| `to_ncol_string()`  | str     | `ncol(R0, 0%, 0%)`                    |
+| `to_name()`         | str     | `Red`                                 |
+
+**Example:**
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)
+print(color.to_rgb_string())    # rgb(255, 0, 0)
+print(color.to_hex_string())    # #FF0000
+print(color.to_hsl_string())    # hsl(0, 100%, 50%)
+print(color.to_name())          # Red
+```
+
+### Dictionary Methods
+
+| Method       | Returns | Keys          |
+| ------------ | ------- | ------------- |
+| `to_rgb()`   | Dict    | r, g, b, a    |
+| `to_hsl()`   | Dict    | h, s, l, a    |
+| `to_hwb()`   | Dict    | h, w, b, a    |
+| `to_cmyk()`  | Dict    | c, m, y, k, a |
+| `to_oklch()` | Dict    | l, c, h       |
+| `to_lab()`   | Dict    | l, a, b       |
+| `to_lch()`   | Dict    | l, c, h       |
+| `to_p3()`    | Dict    | r, g, b       |
+| `to_ncol()`  | Dict    | ncol, w, b, a |
+
+**Example:**
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)
+rgb = color.to_rgb()
+print(rgb['r'])  # 255
+print(rgb['g'])  # 0
+print(rgb['b'])  # 0
+print(rgb['a'])  # 1.0
+```
+
+### Manipulation Methods
+
+| Method                | Description              |
+| --------------------- | ------------------------ |
+| `lighter(amount)`     | Increase lightness       |
+| `darker(amount)`      | Decrease lightness       |
+| `saturate(amount)`    | Increase saturation      |
+| `desaturate(amount)`  | Decrease saturation      |
+| `blend(other, ratio)` | Blend with another color |
+| `clone()`             | Create a copy            |
+| `is_dark(threshold)`  | Check if color is dark   |
+
+**Example:**
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+# Manipulate
+color.lighter(0.2)
+color.darker(0.1)
+color.saturate(0.3)
+
+# Clone
+copy = color.clone()
+
+# Check
+print(color.is_dark())  # False
+
+# Blend
+other = Color(255, 0, 0)
+blended = color.blend(other, 0.5)
+```
+
+### Distance Methods
+
+| Method                                    | Description          |
+| ----------------------------------------- | -------------------- |
+| `delta_e(other, method)`                  | Calculate Delta E    |
+| `similarity(other, method)`               | Calculate similarity |
+| `is_similar_to(other, threshold, method)` | Check similarity     |
+
+**Methods:** `"cie76"`, `"cie94"`, `"cie2000"`
+
+**Example:**
+
+```python
+from colorium import Color
+
+color1 = Color(100, 150, 200)
+color2 = Color(120, 130, 180)
+
+distance = color1.delta_e(color2, "cie2000")
+similarity = color1.similarity(color2)
+
+if color1.is_similar_to(color2, threshold=0.8):
+    print("Similar")
+```
+
+## Factory Functions
+
+### From Strings
+
+| Function                 | Description            |
+| ------------------------ | ---------------------- |
+| `from_string(color_str)` | Parse any color string |
+| `from_hex(hex_str)`      | Create from hex string |
+
+**Supported formats:** named colors, hex, RGB, HSL, HWB, CMYK, NCOL
+
+**Example:**
+
+```python
+from colorium import from_string, from_hex
+
+red = from_string("red")
+hex_color = from_hex("#FF0000")
+hsl_color = from_string("hsl(0, 100%, 50%)")
+```
+
+### From Color Spaces
+
+| Function                         | Description            |
+| -------------------------------- | ---------------------- |
+| `from_rgb(r, g, b, opacity)`     | Create from RGB        |
+| `from_hsl(h, s, l, opacity)`     | Create from HSL        |
+| `from_hwb(h, w, b, opacity)`     | Create from HWB        |
+| `from_cmyk(c, m, y, k, opacity)` | Create from CMYK       |
+| `from_oklch(l, c, h, opacity)`   | Create from OKLCH      |
+| `from_lab(l, a, b, opacity)`     | Create from LAB        |
+| `from_lch(l, c, h, opacity)`     | Create from LCH        |
+| `from_p3(r, g, b, opacity)`      | Create from Display P3 |
+
+**Example:**
+
+```python
+from colorium import from_hsl, from_cmyk
+
+hsl_color = from_hsl(200, 0.8, 0.5)
+cmyk_color = from_cmyk(0, 1.0, 1.0, 0)
+```
+
+## Color Filters
+
+### Filter Classes
+
+| Filter              | Constructor          | Description            |
+| ------------------- | -------------------- | ---------------------- |
+| `SepiaFilter`       | `intensity=1.0`      | Sepia effect           |
+| `GrayscaleFilter`   | `method="luminance"` | Grayscale conversion   |
+| `InvertFilter`      | None                 | Negative effect        |
+| `ContrastFilter`    | `amount=1.2`         | Contrast adjustment    |
+| `BrightnessFilter`  | `amount=1.2`         | Brightness adjustment  |
+| `SaturationFilter`  | `amount=0.5`         | Saturation adjustment  |
+| `HueRotateFilter`   | `degrees=90`         | Hue rotation           |
+| `PosterizeFilter`   | `levels=4`           | Posterize effect       |
+| `TemperatureFilter` | `kelvin=5500`        | Temperature adjustment |
+| `VignetteFilter`    | `intensity=0.5`      | Vignette effect        |
+
+**Example:**
+
+```python
+from colorium import SepiaFilter, InvertFilter, FilterPresets
+
+# Single filter
+sepia = SepiaFilter(0.7)
+result = sepia(color)
+
+# Preset
+clarendon = FilterPresets.clarendon()
+result = clarendon(color)
+```
+
+### Filter Presets
+
+| Method                      | Description                   |
+| --------------------------- | ----------------------------- |
+| `FilterPresets.clarendon()` | Vibrant punchy look           |
+| `FilterPresets.gingham()`   | Warm soft vintage             |
+| `FilterPresets.moon()`      | High-contrast black and white |
+| `FilterPresets.lark()`      | Cool vibrant modern           |
+| `FilterPresets.toaster()`   | Warm retro vintage            |
+| `FilterPresets.valencia()`  | Warm soft vintage             |
+| `FilterPresets.amaro()`     | Rich warm slightly dark       |
+
+### Composite Filter
+
+| Method                           | Description            |
+| -------------------------------- | ---------------------- |
+| `CompositeFilter(filters, name)` | Chain multiple filters |
+| `add_filter(filter)`             | Add filter to chain    |
+
+**Example:**
+
+```python
+from colorium import CompositeFilter, SepiaFilter, ContrastFilter
+
+vintage = CompositeFilter([
+    SepiaFilter(0.5),
+    ContrastFilter(1.1)
+])
+result = vintage(color)
+```
+
+## Utility Functions
+
+| Function                  | Description                     |
+| ------------------------- | ------------------------------- |
+| `is_hex(char)`            | Check if character is valid hex |
+| `clamp(value, min, max)`  | Clamp value to range            |
+| `to_hex(value)`           | Convert to hex string           |
+| `parse_percentage(value)` | Parse percentage string         |
+| `trim_string(value)`      | Trim whitespace                 |
+
+**Example:**
+
+```python
+from colorium.utils import clamp, to_hex
+
+clamped = clamp(1.5, 0, 1)  # 1.0
+hex_str = to_hex(255)       # FF
+```
+
+## Constants
+
+### Color Constants
+
+| Constant | Value                  |
+| -------- | ---------------------- |
+| `RED`    | `Color(255, 0, 0)`     |
+| `GREEN`  | `Color(0, 255, 0)`     |
+| `BLUE`   | `Color(0, 0, 255)`     |
+| `WHITE`  | `Color(255, 255, 255)` |
+| `BLACK`  | `Color(0, 0, 0)`       |
+| `GRAY`   | `Color(128, 128, 128)` |
+
+### Named Colors
+
+| List           | Description                      |
+| -------------- | -------------------------------- |
+| `COLOR_NAMES`  | List of all 147 CSS named colors |
+| `COLOR_HEXES`  | Corresponding hex values         |
+| `NAMED_COLORS` | Case-insensitive mapping         |
+
+**Example:**
+
+```python
+from colorium import COLOR_NAMES, NAMED_COLORS
+
+print(COLOR_NAMES[0])        # AliceBlue
+print(NAMED_COLORS['red'])   # ff0000
+```
+
+## Exceptions
+
+| Exception        | Description              |
+| ---------------- | ------------------------ |
+| `ValueError`     | Invalid color values     |
+| `TypeError`      | Invalid color types      |
+| `AttributeError` | Invalid attribute access |
+
+## Type Hints
+
+All functions have complete type hints for better IDE support:
+
+```python
+def lighter(self, amount: float = 0.1) -> None:
+    pass
+
+def blend(self, other: 'Color', ratio: float = 0.5) -> 'Color':
+    pass
+```
+
+## Next Steps
+
+- [API Reference](/docs/1.0.0/api-reference/color-class) — Detailed Color class API
+- [API Reference](/docs/1.0.0/api-reference/color-functions) — All color functions
+- [API Reference](/docs/1.0.0/api-reference/filter-classes) — Filter class API
+
+---
+
+**Previous:** [Contributing](/docs/1.0.0/advanced/contributing)
+**Next:** [Color Class →](/docs/1.0.0/api-reference/color-class)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/1.0.0/advanced/index","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200 hover:border-red-500/20","aria-label":"Go to previous page: Advanced Topics","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Advanced Topics"}]]}]]}],["$","$La",null,{"href":"/docs/1.0.0/core-concepts/index","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Core Concepts","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Core Concepts"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"Overview","id":"overview"},{"level":2,"text":"Color Class","id":"color-class"},{"level":3,"text":"Constructor","id":"constructor"},{"level":3,"text":"Properties","id":"properties"},{"level":4,"text":"RGB Properties","id":"rgb-properties"},{"level":4,"text":"HSL Properties","id":"hsl-properties"},{"level":4,"text":"HWB Properties","id":"hwb-properties"},{"level":4,"text":"CMYK Properties","id":"cmyk-properties"},{"level":3,"text":"String Methods","id":"string-methods"},{"level":3,"text":"Dictionary Methods","id":"dictionary-methods"},{"level":3,"text":"Manipulation Methods","id":"manipulation-methods"},{"level":3,"text":"Distance Methods","id":"distance-methods"},{"level":2,"text":"Factory Functions","id":"factory-functions"},{"level":3,"text":"From Strings","id":"from-strings"},{"level":3,"text":"From Color Spaces","id":"from-color-spaces"},{"level":2,"text":"Color Filters","id":"color-filters"},{"level":3,"text":"Filter Classes","id":"filter-classes"},{"level":3,"text":"Filter Presets","id":"filter-presets"},{"level":3,"text":"Composite Filter","id":"composite-filter"},{"level":2,"text":"Utility Functions","id":"utility-functions"},{"level":2,"text":"Constants","id":"constants"},{"level":3,"text":"Color Constants","id":"color-constants"},{"level":3,"text":"Named Colors","id":"named-colors"},{"level":2,"text":"Exceptions","id":"exceptions"},{"level":2,"text":"Type Hints","id":"type-hints"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

@@ -1,0 +1,405 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T2005,
+# Core Concepts
+
+This section covers the foundational concepts of Colorium that you need to understand to work effectively with the library.
+
+## What is a Color?
+
+In Colorium, a color is represented by the `Color` class. This class encapsulates all the information about a color and provides methods for manipulating it.
+
+### The Color Class
+
+The `Color` class stores color data internally as RGB values (0-255) and provides automatic conversion to other color spaces on demand.
+
+```python
+from colorium import Color
+
+# Create a color
+red = Color(255, 0, 0)
+
+# Access RGB components
+print(red.red)     # 255
+print(red.green)   # 0
+print(red.blue)    # 0
+
+# Access derived properties
+print(red.hue)          # 0
+print(red.sat)          # 1.0
+print(red.lightness)    # 0.5
+```
+
+### Color Components
+
+Every color has these fundamental components:
+
+| Component | Description        | Range   |
+| --------- | ------------------ | ------- |
+| Red       | Red intensity      | 0-255   |
+| Green     | Green intensity    | 0-255   |
+| Blue      | Blue intensity     | 0-255   |
+| Opacity   | Alpha/transparency | 0.0-1.0 |
+
+## Color Spaces
+
+Colorium supports 10+ color spaces, each with its own characteristics and use cases.
+
+### RGB (Red, Green, Blue)
+
+The most common color space, used in displays and digital imaging.
+
+```python
+from colorium import Color
+
+# RGB values range from 0 to 255
+red = Color(255, 0, 0)        # Pure red
+green = Color(0, 255, 0)      # Pure green
+blue = Color(0, 0, 255)       # Pure blue
+
+# Any color can be represented
+color = Color(100, 150, 200)
+```
+
+### HSL (Hue, Saturation, Lightness)
+
+A cylindrical color space that's more intuitive for color selection.
+
+```python
+from colorium import from_hsl
+
+# HSL values
+# hue: 0-360 (color angle)
+# saturation: 0-1 (color intensity)
+# lightness: 0-1 (brightness)
+
+red = from_hsl(0, 1.0, 0.5)        # Pure red
+pastel = from_hsl(200, 0.3, 0.7)   # Pastel blue
+dark = from_hsl(120, 0.8, 0.2)     # Dark green
+```
+
+### HWB (Hue, Whiteness, Blackness)
+
+An intuitive color space that's easier to understand than HSL.
+
+```python
+from colorium import from_hwb
+
+# hwb values
+# hue: 0-360
+# whiteness: 0-1
+# blackness: 0-1
+
+pure = from_hwb(0, 0, 0)           # Pure red
+pale = from_hwb(200, 0.5, 0)       # Pale blue
+dark = from_hwb(120, 0, 0.5)       # Dark green
+```
+
+### CMYK (Cyan, Magenta, Yellow, Black)
+
+The subtractive color model used in printing.
+
+```python
+from colorium import from_cmyk
+
+# CMYK values range from 0 to 1
+red = from_cmyk(0, 1.0, 1.0, 0)    # Red in print
+black = from_cmyk(0, 0, 0, 1.0)    # Pure black
+```
+
+### Modern Color Spaces
+
+Colorium supports CSS Color Level 4 color spaces for modern applications.
+
+#### OKLCH
+
+A perceptually uniform color space designed for better color interpolation.
+
+```python
+from colorium import from_oklch
+
+# OKLCH values
+# l: lightness (0-1)
+# c: chroma (0-0.4+)
+# h: hue (0-360)
+
+color = from_oklch(0.5, 0.2, 180)
+```
+
+#### CIE L*a*b\*
+
+A color space designed to approximate human vision.
+
+```python
+from colorium import from_lab
+
+# LAB values
+# l: lightness (0-100)
+# a: green-red axis (-128 to 128)
+# b: blue-yellow axis (-128 to 128)
+
+color = from_lab(50, 20, -30)
+```
+
+#### CIE LCH
+
+A cylindrical representation of LAB.
+
+```python
+from colorium import from_lch
+
+# LCH values
+# l: lightness (0-100)
+# c: chroma (0-100+)
+# h: hue (0-360)
+
+color = from_lch(50, 30, 180)
+```
+
+#### Display P3
+
+A wide gamut color space for modern displays.
+
+```python
+from colorium import from_p3
+
+# P3 values range from 0 to 1+
+color = from_p3(0.8, 0.3, 0.5)
+```
+
+## Creating Colors
+
+There are multiple ways to create colors in Colorium.
+
+### From RGB Values
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+color = Color(255, 0, 0, 0.5)  # With opacity
+```
+
+### From Color Spaces
+
+```python
+from colorium import from_hsl, from_hwb, from_cmyk
+
+color1 = from_hsl(200, 0.8, 0.5)
+color2 = from_hwb(180, 0.2, 0.1)
+color3 = from_cmyk(0.2, 0.8, 0.1, 0.3)
+```
+
+### From Strings
+
+```python
+from colorium import from_string, from_hex
+
+color1 = from_string("red")          # Named color
+color2 = from_string("#FF0000")      # Hex color
+color3 = from_string("rgb(255,0,0)") # RGB string
+color4 = from_string("hsl(0,100%,50%)") # HSL string
+```
+
+### From Constants
+
+```python
+from colorium import RED, BLUE, GREEN, WHITE, BLACK
+
+primary = RED
+secondary = BLUE
+```
+
+## Color Properties
+
+Once you have a color, you can access its properties.
+
+### RGB Properties
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+print(color.red)      # 100
+print(color.green)    # 150
+print(color.blue)     # 200
+print(color.opacity)  # 1.0
+
+# Modify properties
+color.red = 255
+color.green = 0
+color.blue = 0
+```
+
+### Derived Properties
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)
+
+print(color.hue)        # 0
+print(color.sat)        # 1.0
+print(color.lightness)  # 0.5
+print(color.whiteness)  # 0.0
+print(color.blackness)  # 0.0
+print(color.cyan)       # 0.0
+print(color.magenta)    # 1.0
+print(color.yellow)     # 1.0
+print(color.black)      # 0.0
+print(color.ncol)       # R0
+```
+
+## Color Conversion
+
+Colorium automatically handles conversion between color spaces.
+
+### String Representations
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)
+
+print(color.to_rgb_string())    # rgb(255, 0, 0)
+print(color.to_hex_string())    # #FF0000
+print(color.to_hsl_string())    # hsl(0, 100%, 50%)
+print(color.to_hwb_string())    # hwb(0, 0%, 0%)
+print(color.to_cmyk_string())   # cmyk(0%, 100%, 100%, 0%)
+print(color.to_oklch_string())  # oklch(62.8% 0.258 29.2)
+```
+
+### Dictionary Representations
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)
+
+rgb = color.to_rgb()      # {'r': 255, 'g': 0, 'b': 0, 'a': 1.0}
+hsl = color.to_hsl()      # {'h': 0, 's': 1.0, 'l': 0.5, 'a': 1.0}
+hwb = color.to_hwb()      # {'h': 0, 'w': 0.0, 'b': 0.0, 'a': 1.0}
+cmyk = color.to_cmyk()    # {'c': 0.0, 'm': 1.0, 'y': 1.0, 'k': 0.0, 'a': 1.0}
+```
+
+## Color Operations
+
+### Arithmetic Operations
+
+Colors support basic arithmetic operations for convenience.
+
+```python
+from colorium import Color
+
+red = Color(255, 0, 0)
+blue = Color(0, 0, 255)
+
+# Addition (clamped to 0-255)
+purple = red + blue  # Not implemented directly, use blend instead
+
+# Comparison
+print(red == Color(255, 0, 0))  # True
+print(red != blue)              # True
+```
+
+### Color Constants
+
+Colorium provides many pre-defined color constants for convenience.
+
+```python
+from colorium import (
+    RED, BLUE, GREEN, YELLOW, CYAN, MAGENTA,
+    WHITE, BLACK, GRAY,
+    SUCCESS, ERROR, WARNING, INFO,
+    FACEBOOK_BLUE, TWITTER_BLUE
+)
+
+# Use constants directly
+primary = RED
+secondary = BLUE
+status = SUCCESS if valid else ERROR
+
+# Constants are Color objects
+print(primary.to_hex_string())  # #FF0000
+```
+
+## Best Practices
+
+### 1. Use Constants When Possible
+
+```python
+from colorium import RED, BLUE
+
+# Good
+color = RED
+
+# Avoid
+color = Color(255, 0, 0)
+```
+
+### 2. Use Factory Functions for Clarity
+
+```python
+from colorium import from_string, from_hsl
+
+# Good
+color = from_string("crimson")
+
+# Also good
+color = from_hsl(0, 1.0, 0.5)
+```
+
+### 3. Clone Colors Before Modifying
+
+```python
+from colorium import Color
+
+original = Color(255, 0, 0)
+
+# Good - preserves original
+modified = original.clone()
+modified.lighter(0.3)
+
+# Avoid - modifies original
+original.lighter(0.3)
+```
+
+### 4. Use Type Hints
+
+```python
+from colorium import Color
+
+def process_color(color: Color) -> Color:
+    """Process a color and return a new color."""
+    result = color.clone()
+    result.lighter(0.2)
+    return result
+```
+
+## Next Steps
+
+Now that you understand the core concepts, explore:
+
+- [Color Spaces](/docs/1.0.0/core-concepts/color-spaces) — Deep dive into color spaces
+- [Color Creation](/docs/1.0.0/core-concepts/color-creation) — All ways to create colors
+- [Color Manipulation](/docs/1.0.0/core-concepts/color-manipulation) — Color operations
+- [Color Conversion](/docs/1.0.0/core-concepts/color-conversion) — Conversion between spaces
+
+---
+
+**Previous:** [Usage Examples](/docs/1.0.0/getting-started/usage-examples)
+**Next:** [Color Spaces →](/docs/1.0.0/core-concepts/color-spaces)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/1.0.0/api-reference/index","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200 hover:border-red-500/20","aria-label":"Go to previous page: API Reference","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"API Reference"}]]}]]}],["$","$La",null,{"href":"/docs/1.0.0/features/index","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Features Overview","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Features Overview"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"What is a Color?","id":"what-is-a-color"},{"level":3,"text":"The Color Class","id":"the-color-class"},{"level":3,"text":"Color Components","id":"color-components"},{"level":2,"text":"Color Spaces","id":"color-spaces"},{"level":3,"text":"RGB (Red, Green, Blue)","id":"rgb-red-green-blue"},{"level":3,"text":"HSL (Hue, Saturation, Lightness)","id":"hsl-hue-saturation-lightness"},{"level":3,"text":"HWB (Hue, Whiteness, Blackness)","id":"hwb-hue-whiteness-blackness"},{"level":3,"text":"CMYK (Cyan, Magenta, Yellow, Black)","id":"cmyk-cyan-magenta-yellow-black"},{"level":3,"text":"Modern Color Spaces","id":"modern-color-spaces"},{"level":4,"text":"OKLCH","id":"oklch"},{"level":4,"text":"CIE L*a*b\\*","id":"cie-l-a-b"},{"level":4,"text":"CIE LCH","id":"cie-lch"},{"level":4,"text":"Display P3","id":"display-p3"},{"level":2,"text":"Creating Colors","id":"creating-colors"},{"level":3,"text":"From RGB Values","id":"from-rgb-values"},{"level":3,"text":"From Color Spaces","id":"from-color-spaces"},{"level":3,"text":"From Strings","id":"from-strings"},{"level":3,"text":"From Constants","id":"from-constants"},{"level":2,"text":"Color Properties","id":"color-properties"},{"level":3,"text":"RGB Properties","id":"rgb-properties"},{"level":3,"text":"Derived Properties","id":"derived-properties"},{"level":2,"text":"Color Conversion","id":"color-conversion"},{"level":3,"text":"String Representations","id":"string-representations"},{"level":3,"text":"Dictionary Representations","id":"dictionary-representations"},{"level":2,"text":"Color Operations","id":"color-operations"},{"level":3,"text":"Arithmetic Operations","id":"arithmetic-operations"},{"level":3,"text":"Color Constants","id":"color-constants"},{"level":2,"text":"Best Practices","id":"best-practices"},{"level":3,"text":"1. Use Constants When Possible","id":"1-use-constants-when-possible"},{"level":3,"text":"2. Use Factory Functions for Clarity","id":"2-use-factory-functions-for-clarity"},{"level":3,"text":"3. Clone Colors Before Modifying","id":"3-clone-colors-before-modifying"},{"level":3,"text":"4. Use Type Hints","id":"4-use-type-hints"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

@@ -1,0 +1,295 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T195b,
+# Getting Started with Colorium
+
+Welcome to the getting started guide for Colorium. This section will help you set up Colorium and start working with colors in your Python projects.
+
+## What You'll Learn
+
+- How to install Colorium
+- How to create your first colors
+- Basic color operations
+- Where to go next
+
+## Prerequisites
+
+Before you begin, make sure you have:
+
+- Python 3.8 or higher installed
+- A code editor or IDE
+- Basic knowledge of Python
+
+## Installation
+
+Colorium is available on PyPI and can be installed with pip:
+
+```bash
+pip install colorium
+```
+
+For development with all optional tools:
+
+```bash
+pip install "colorium[dev]"
+```
+
+## Your First Color
+
+Creating colors with Colorium is simple and intuitive:
+
+```python
+from colorium import Color, from_string, from_hex
+
+# Create from RGB values
+red = Color(255, 0, 0)
+green = Color(0, 255, 0)
+blue = Color(0, 0, 255)
+
+# Create from hex strings
+hex_color = from_hex("#FF0000")
+
+# Create from named colors
+crimson = from_string("crimson")
+navy = from_string("navy")
+
+# Create from HSL values
+from colorium import from_hsl
+golden = from_hsl(45, 1.0, 0.5)
+
+# Create from modern color spaces
+from colorium import from_oklch, from_lab, from_lch
+oklch_color = from_oklch(0.5, 0.2, 180)
+lab_color = from_lab(53, 80, 67)
+lch_color = from_lch(53, 104, 40)
+```
+
+## Basic Color Operations
+
+Once you have a color, you can perform various operations:
+
+```python
+from colorium import Color
+
+# Create a color
+color = Color(100, 150, 200)
+
+# Convert to different formats
+print(color.to_hex_string())      # #6496C8
+print(color.to_rgb_string())      # rgb(100, 150, 200)
+print(color.to_hsl_string())      # hsl(210, 48%, 59%)
+print(color.to_cmyk_string())     # cmyk(50%, 25%, 0%, 22%)
+
+# Get color properties
+print(color.to_rgb())             # {'r': 100, 'g': 150, 'b': 200}
+print(color.to_hsl())             # {'h': 210, 's': 0.48, 'l': 0.59}
+print(color.to_name())            # LightSteelBlue
+
+# Check if color is dark
+if color.is_dark():
+    print("This color is dark")
+else:
+    print("This color is light")
+```
+
+## Color Manipulation
+
+Colorium makes it easy to manipulate colors:
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+# Adjust lightness
+color.lighter(0.2)   # Make brighter
+color.darker(0.1)    # Make darker
+
+# Adjust saturation
+color.saturate(0.3)  # Increase saturation
+color.desaturate(0.2) # Decrease saturation
+
+# Blend colors
+from colorium import RED, BLUE
+purple = RED.blend(BLUE, 0.5)
+pink = RED.blend(WHITE, 0.7)
+orange = RED.blend(YELLOW, 0.4)
+
+# Clone a color
+original = Color(255, 0, 0)
+copy = original.clone()
+copy.lighter(0.5)    # Copy is modified, original stays the same
+```
+
+## Using Color Constants
+
+Colorium provides many pre-defined color constants:
+
+```python
+from colorium import (
+    RED, BLUE, GREEN, WHITE, BLACK,
+    SUCCESS, ERROR, WARNING, INFO,
+    FACEBOOK_BLUE, TWITTER_BLUE
+)
+
+# Use constants directly
+bg = WHITE
+text = BLACK
+primary = BLUE
+status = SUCCESS if valid else ERROR
+
+# Blend constants
+purple = RED.blend(BLUE, 0.5)
+
+# Use as default arguments
+def create_button(text: str, color: Color = PRIMARY):
+    return {"text": text, "color": color}
+```
+
+## Working with Color Filters
+
+Apply professional-grade filters to your colors:
+
+```python
+from colorium import Color, SepiaFilter, GrayscaleFilter, FilterPresets
+
+color = Color(200, 150, 100)
+
+# Single filter
+sepia = SepiaFilter(0.7)
+result = sepia(color)
+
+# Grayscale conversion
+gray = GrayscaleFilter("luminance")
+result = gray(color)
+
+# Use Instagram-style presets
+clarendon = FilterPresets.clarendon()
+result = clarendon(color)
+
+# Chain filters
+from colorium import CompositeFilter, BrightnessFilter, ContrastFilter
+
+vintage = CompositeFilter([
+    SepiaFilter(0.5),
+    ContrastFilter(1.1),
+    BrightnessFilter(0.9)
+])
+result = vintage(color)
+```
+
+## Color Distance and Similarity
+
+Compare colors using perceptual metrics:
+
+```python
+from colorium import Color
+
+color1 = Color(100, 150, 200)
+color2 = Color(120, 130, 180)
+
+# Calculate color difference
+cie76 = color1.delta_e(color2, "cie76")
+cie94 = color1.delta_e(color2, "cie94")
+cie2000 = color1.delta_e(color2, "cie2000")
+
+# Calculate similarity (0.0 to 1.0)
+similarity = color1.similarity(color2)
+
+# Check if colors are similar
+if color1.is_similar_to(color2, threshold=0.8):
+    print("Colors are very similar")
+```
+
+## Next Steps
+
+Now that you've mastered the basics, explore the rest of the documentation:
+
+- [Core Concepts](/docs/1.0.0/core-concepts) — Deep dive into color spaces and manipulation
+- [Features](/docs/1.0.0/features) — Explore all available features
+- [API Reference](/docs/1.0.0/api-reference) — Complete API documentation
+
+## Common Use Cases
+
+### 1. Design System
+
+```python
+from colorium import Color
+
+# Create a design system palette
+primary = Color(66, 133, 244)      # Google Blue
+secondary = Color(234, 67, 53)     # Google Red
+success = Color(52, 168, 83)       # Google Green
+warning = Color(251, 188, 5)       # Google Yellow
+
+# Generate shades
+primary_dark = primary.clone().darker(0.3)
+primary_light = primary.clone().lighter(0.3)
+```
+
+### 2. Data Visualization
+
+```python
+from colorium import Color
+
+# Create sequential palette
+base = Color(0, 0, 255)
+palette = []
+for i in range(5):
+    shade = base.clone().lighter(i * 0.2)
+    palette.append(shade)
+```
+
+### 3. Theme Generation
+
+```python
+from colorium import Color, RED, BLUE
+
+# Generate complementary theme
+primary = RED
+secondary = primary.get_complementary()
+accent = primary.blend(BLUE, 0.3)
+
+# Generate analogous colors
+from colorium import Palette
+colors = Palette.analogous(primary, 5)
+```
+
+## Troubleshooting
+
+### Common Issues
+
+1. **ImportError**: Make sure Colorium is installed: `pip install colorium`
+2. **ValueError**: Check that values are within valid ranges (RGB: 0-255, HSL: 0-1)
+3. **TypeError**: Ensure you're passing the correct types to functions
+
+### Getting Help
+
+- Check the [API Reference](/docs/1.0.0/api-reference) for detailed method signatures
+- Search for similar issues on GitHub
+- Open a discussion for help and questions
+
+## Next Steps
+
+Continue your journey with:
+
+- [Installation](/docs/1.0.0/getting-started/installation) — Detailed installation instructions
+- [Quick Start](/docs/1.0.0/getting-started/quick-start) — Build your first color application
+- [Usage Examples](/docs/1.0.0/getting-started/usage-examples) — Real-world examples
+
+---
+
+**Next:** [Installation →](/docs/1.0.0/getting-started/installation)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/1.0.0/features/index","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200 hover:border-red-500/20","aria-label":"Go to previous page: Features Overview","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Features Overview"}]]}]]}],["$","$La",null,{"href":"/docs/1.0.0/index","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Colorium Documentation","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Colorium Documentation"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"What You'll Learn","id":"what-you-ll-learn"},{"level":2,"text":"Prerequisites","id":"prerequisites"},{"level":2,"text":"Installation","id":"installation"},{"level":2,"text":"Your First Color","id":"your-first-color"},{"level":2,"text":"Basic Color Operations","id":"basic-color-operations"},{"level":2,"text":"Color Manipulation","id":"color-manipulation"},{"level":2,"text":"Using Color Constants","id":"using-color-constants"},{"level":2,"text":"Working with Color Filters","id":"working-with-color-filters"},{"level":2,"text":"Color Distance and Similarity","id":"color-distance-and-similarity"},{"level":2,"text":"Next Steps","id":"next-steps"},{"level":2,"text":"Common Use Cases","id":"common-use-cases"},{"level":3,"text":"1. Design System","id":"1-design-system"},{"level":3,"text":"2. Data Visualization","id":"2-data-visualization"},{"level":3,"text":"3. Theme Generation","id":"3-theme-generation"},{"level":2,"text":"Troubleshooting","id":"troubleshooting"},{"level":3,"text":"Common Issues","id":"common-issues"},{"level":3,"text":"Getting Help","id":"getting-help"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

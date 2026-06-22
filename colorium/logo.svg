@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="borderGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#DC2626" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#EF4444" stop-opacity="0.6" />
+    </linearGradient>
+    <linearGradient id="circleGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#DC2626" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="sparkleGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#EF4444" stop-opacity="0.7" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100" height="100" rx="24" fill="#0D0D0D" />
+
+  <!-- Border -->
+  <rect
+    x="2"
+    y="2"
+    width="96"
+    height="96"
+    rx="22"
+    stroke="url(#borderGradient)"
+    stroke-width="1.8"
+    fill="none"
+  />
+
+  <!-- Orbital rings -->
+  <ellipse
+    cx="50"
+    cy="50"
+    rx="38"
+    ry="12"
+    stroke="#EF4444"
+    stroke-width="0.8"
+    stroke-opacity="0.15"
+    fill="none"
+    transform="rotate(-35 50 50)"
+  />
+  <ellipse
+    cx="50"
+    cy="50"
+    rx="38"
+    ry="12"
+    stroke="#EF4444"
+    stroke-width="0.8"
+    stroke-opacity="0.15"
+    fill="none"
+    transform="rotate(35 50 50)"
+  />
+  <ellipse
+    cx="50"
+    cy="50"
+    rx="38"
+    ry="12"
+    stroke="#EF4444"
+    stroke-width="0.8"
+    stroke-opacity="0.12"
+    fill="none"
+    transform="rotate(90 50 50)"
+  />
+
+  <!-- Glow ring -->
+  <circle
+    cx="50"
+    cy="50"
+    r="40"
+    stroke="url(#circleGradient)"
+    stroke-width="0.8"
+    fill="none"
+    stroke-dasharray="4 6"
+  />
+
+  <!-- Outer glow ring -->
+  <circle
+    cx="50"
+    cy="50"
+    r="44"
+    stroke="#EF4444"
+    stroke-width="0.6"
+    stroke-opacity="0.08"
+    fill="none"
+    stroke-dasharray="2 8"
+  />
+
+  <!-- Color palette -->
+  <g transform="translate(25, 25) scale(0.5)">
+    <!-- Red (primary) -->
+    <circle cx="50" cy="15" r="12" fill="#EF4444" stroke="#FFFFFF" stroke-width="1.5" />
+    <circle cx="50" cy="15" r="6" fill="#FFFFFF" fill-opacity="0.3" />
+
+    <!-- Yellow -->
+    <circle cx="85" cy="32" r="11" fill="#F59E0B" stroke="#FFFFFF" stroke-width="1.5" />
+    <circle cx="85" cy="32" r="5" fill="#FFFFFF" fill-opacity="0.3" />
+
+    <!-- Green -->
+    <circle cx="85" cy="68" r="11" fill="#10B981" stroke="#FFFFFF" stroke-width="1.5" />
+    <circle cx="85" cy="68" r="5" fill="#FFFFFF" fill-opacity="0.3" />
+
+    <!-- Blue -->
+    <circle cx="50" cy="85" r="11" fill="#3B82F6" stroke="#FFFFFF" stroke-width="1.5" />
+    <circle cx="50" cy="85" r="5" fill="#FFFFFF" fill-opacity="0.3" />
+
+    <!-- Purple -->
+    <circle cx="15" cy="68" r="11" fill="#8B5CF6" stroke="#FFFFFF" stroke-width="1.5" />
+    <circle cx="15" cy="68" r="5" fill="#FFFFFF" fill-opacity="0.3" />
+
+    <!-- Orange -->
+    <circle cx="15" cy="32" r="11" fill="#F97316" stroke="#FFFFFF" stroke-width="1.5" />
+    <circle cx="15" cy="32" r="5" fill="#FFFFFF" fill-opacity="0.3" />
+
+    <!-- Center -->
+    <circle cx="50" cy="50" r="14" fill="#0D0D0D" stroke="#FFFFFF" stroke-width="1.8" />
+    <circle cx="50" cy="50" r="8" fill="#EF4444" />
+    <circle cx="50" cy="50" r="4" fill="#FFFFFF" fill-opacity="0.6" />
+  </g>
+
+  <!-- Sparkles -->
+  <circle cx="18" cy="18" r="2.5" fill="url(#sparkleGradient)" />
+  <circle cx="82" cy="18" r="2" fill="url(#sparkleGradient)" />
+  <circle cx="18" cy="82" r="2" fill="url(#sparkleGradient)" />
+  <circle cx="82" cy="82" r="2.5" fill="url(#sparkleGradient)" />
+
+  <!-- Small glow dots -->
+  <circle cx="12" cy="50" r="1.5" fill="#EF4444" fill-opacity="0.5" />
+  <circle cx="88" cy="50" r="1.5" fill="#EF4444" fill-opacity="0.5" />
+  <circle cx="50" cy="12" r="1.5" fill="#EF4444" fill-opacity="0.5" />
+  <circle cx="50" cy="88" r="1.5" fill="#EF4444" fill-opacity="0.5" />
+
+  <!-- Stars -->
+  <circle cx="28" cy="12" r="1" fill="#FFFFFF" fill-opacity="0.6" />
+  <circle cx="72" cy="12" r="1" fill="#FFFFFF" fill-opacity="0.6" />
+  <circle cx="12" cy="28" r="1" fill="#FFFFFF" fill-opacity="0.6" />
+  <circle cx="88" cy="28" r="1" fill="#FFFFFF" fill-opacity="0.6" />
+  <circle cx="12" cy="72" r="1" fill="#FFFFFF" fill-opacity="0.6" />
+  <circle cx="88" cy="72" r="1" fill="#FFFFFF" fill-opacity="0.6" />
+  <circle cx="28" cy="88" r="1" fill="#FFFFFF" fill-opacity="0.6" />
+  <circle cx="72" cy="88" r="1" fill="#FFFFFF" fill-opacity="0.6" />
+</svg>

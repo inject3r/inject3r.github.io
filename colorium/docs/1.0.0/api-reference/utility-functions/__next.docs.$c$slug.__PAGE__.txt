@@ -1,0 +1,483 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T26a5,
+# Utility Functions API
+
+This document covers all utility functions available in Colorium.
+
+## Validation Functions
+
+### is_hex
+
+```python
+def is_hex(char: str) -> bool
+```
+
+Check if a character is a valid hexadecimal digit.
+
+**Parameters:**
+
+| Parameter | Type | Description        |
+| --------- | ---- | ------------------ |
+| char      | str  | Character to check |
+
+**Returns:** True if character is a valid hex digit, False otherwise
+
+**Example:**
+
+```python
+from colorium.utils import is_hex
+
+print(is_hex('F'))  # True
+print(is_hex('G'))  # False
+print(is_hex('5'))  # True
+```
+
+## Math Functions
+
+### clamp
+
+```python
+def clamp(value: float, min_value: float = 0.0, max_value: float = 1.0) -> float
+```
+
+Clamp a value between a minimum and maximum.
+
+**Parameters:**
+
+| Parameter | Type  | Description                          |
+| --------- | ----- | ------------------------------------ |
+| value     | float | Value to clamp                       |
+| min_value | float | Minimum allowed value (default: 0.0) |
+| max_value | float | Maximum allowed value (default: 1.0) |
+
+**Returns:** Clamped value
+
+**Example:**
+
+```python
+from colorium.utils import clamp
+
+print(clamp(0.5))     # 0.5
+print(clamp(1.5))     # 1.0
+print(clamp(-0.5))    # 0.0
+print(clamp(5, 0, 3)) # 3
+```
+
+### round_decimal
+
+```python
+def round_decimal(value: float, decimals: int = 2) -> float
+```
+
+Round a float to specified decimal places.
+
+**Parameters:**
+
+| Parameter | Type  | Description                           |
+| --------- | ----- | ------------------------------------- |
+| value     | float | Value to round                        |
+| decimals  | int   | Number of decimal places (default: 2) |
+
+**Returns:** Rounded float
+
+**Example:**
+
+```python
+from colorium.utils import round_decimal
+
+print(round_decimal(3.14159, 2))  # 3.14
+print(round_decimal(3.14159, 4))  # 3.1416
+```
+
+## String Functions
+
+### to_hex
+
+```python
+def to_hex(value: int) -> str
+```
+
+Convert an integer to a two-digit hexadecimal string.
+
+**Parameters:**
+
+| Parameter | Type | Description           |
+| --------- | ---- | --------------------- |
+| value     | int  | Integer value (0-255) |
+
+**Returns:** Two-digit hex string
+
+**Example:**
+
+```python
+from colorium.utils import to_hex
+
+print(to_hex(0))    # 00
+print(to_hex(255))  # FF
+print(to_hex(10))   # 0A
+print(to_hex(128))  # 80
+```
+
+### parse_percentage
+
+```python
+def parse_percentage(value: str) -> float
+```
+
+Parse a percentage string to a float.
+
+**Parameters:**
+
+| Parameter | Type | Description                            |
+| --------- | ---- | -------------------------------------- |
+| value     | str  | Percentage string (e.g., "50%", "75%") |
+
+**Returns:** Float value (0.0-1.0 for percentages)
+
+**Example:**
+
+```python
+from colorium.utils import parse_percentage
+
+print(parse_percentage("50%"))   # 0.5
+print(parse_percentage("100%"))  # 1.0
+print(parse_percentage("75.5%")) # 0.755
+print(parse_percentage("1.0"))   # 1.0
+```
+
+### trim_string
+
+```python
+def trim_string(value: str) -> str
+```
+
+Remove leading and trailing whitespace from a string.
+
+**Parameters:**
+
+| Parameter | Type | Description    |
+| --------- | ---- | -------------- |
+| value     | str  | String to trim |
+
+**Returns:** Trimmed string
+
+**Example:**
+
+```python
+from colorium.utils import trim_string
+
+print(trim_string("  hello  "))  # hello
+print(trim_string("hello"))      # hello
+print(trim_string("  "))         #
+```
+
+## Color Space Helper Functions
+
+### \_linearize_srgb
+
+```python
+def _linearize_srgb(c: float) -> float
+```
+
+Convert sRGB (non-linear) to linear RGB.
+
+**Parameters:**
+
+| Parameter | Type  | Description      |
+| --------- | ----- | ---------------- |
+| c         | float | sRGB value (0-1) |
+
+**Returns:** Linear RGB value
+
+**Example:**
+
+```python
+from colorium.converters import _linearize_srgb
+
+print(_linearize_srgb(0.5))  # 0.214041
+```
+
+### \_to_srgb
+
+```python
+def _to_srgb(c: float) -> float
+```
+
+Convert linear RGB to sRGB (non-linear).
+
+**Parameters:**
+
+| Parameter | Type  | Description      |
+| --------- | ----- | ---------------- |
+| c         | float | Linear RGB value |
+
+**Returns:** sRGB value (0-1)
+
+**Example:**
+
+```python
+from colorium.converters import _to_srgb
+
+print(_to_srgb(0.214041))  # 0.5
+```
+
+## Constant Functions
+
+### get_color_hex
+
+```python
+def get_color_hex(name: str) -> Optional[str]
+```
+
+Get hex value for a named color.
+
+**Parameters:**
+
+| Parameter | Type | Description                    |
+| --------- | ---- | ------------------------------ |
+| name      | str  | Named color (case-insensitive) |
+
+**Returns:** Hex string or None
+
+**Example:**
+
+```python
+from colorium.constants import get_color_hex
+
+print(get_color_hex("red"))    # ff0000
+print(get_color_hex("BLUE"))   # 0000ff
+print(get_color_hex("invalid")) # None
+```
+
+### get_color_names
+
+```python
+def get_color_names() -> List[str]
+```
+
+Get list of all named colors.
+
+**Returns:** List of color names
+
+**Example:**
+
+```python
+from colorium.constants import get_color_names
+
+names = get_color_names()
+print(len(names))  # 147
+print(names[:5])   # ['AliceBlue', 'AntiqueWhite', 'Aqua', 'Aquamarine', 'Azure']
+```
+
+## Utility Class Example
+
+### ColorUtils
+
+```python
+from colorium import Color
+from colorium.utils import clamp, to_hex, parse_percentage
+
+class ColorUtils:
+    """Collection of color utility functions"""
+
+    @staticmethod
+    def adjust_brightness(color: Color, amount: float) -> Color:
+        """Adjust brightness safely"""
+        amount = clamp(amount, -1.0, 1.0)
+        result = color.clone()
+        if amount > 0:
+            result.lighter(amount)
+        else:
+            result.darker(-amount)
+        return result
+
+    @staticmethod
+    def adjust_saturation(color: Color, amount: float) -> Color:
+        """Adjust saturation safely"""
+        amount = clamp(amount, -1.0, 1.0)
+        result = color.clone()
+        if amount > 0:
+            result.saturate(amount)
+        else:
+            result.desaturate(-amount)
+        return result
+
+    @staticmethod
+    def create_hex_from_rgb(r: int, g: int, b: int) -> str:
+        """Create hex string from RGB values"""
+        return f"#{to_hex(r)}{to_hex(g)}{to_hex(b)}"
+
+    @staticmethod
+    def parse_color_string(color_str: str) -> Optional[Color]:
+        """Parse color string with percentage support"""
+        from colorium import from_string
+        return from_string(color_str)
+```
+
+**Example:**
+
+```python
+from colorium import Color
+from colorium.utils import ColorUtils
+
+color = Color(100, 150, 200)
+
+# Adjust brightness
+brighter = ColorUtils.adjust_brightness(color, 0.3)
+
+# Create hex
+hex_str = ColorUtils.create_hex_from_rgb(255, 0, 0)
+print(hex_str)  # #FF0000
+
+# Parse color
+parsed = ColorUtils.parse_color_string("red")
+```
+
+## Performance Functions
+
+### benchmark
+
+```python
+def benchmark(func, *args, iterations: int = 1000) -> float
+```
+
+Benchmark a function execution time.
+
+**Parameters:**
+
+| Parameter  | Type     | Description                          |
+| ---------- | -------- | ------------------------------------ |
+| func       | callable | Function to benchmark                |
+| \*args     | any      | Function arguments                   |
+| iterations | int      | Number of iterations (default: 1000) |
+
+**Returns:** Average execution time in seconds
+
+**Example:**
+
+```python
+from colorium.utils import benchmark
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+def test_to_hex():
+    return color.to_hex_string()
+
+avg_time = benchmark(test_to_hex, iterations=10000)
+print(f"Average time: {avg_time:.6f}s")
+```
+
+### profile
+
+```python
+def profile(func, *args) -> Dict[str, float]
+```
+
+Profile a function execution.
+
+**Parameters:**
+
+| Parameter | Type     | Description         |
+| --------- | -------- | ------------------- |
+| func      | callable | Function to profile |
+| \*args    | any      | Function arguments  |
+
+**Returns:** Dictionary with timing information
+
+**Example:**
+
+```python
+from colorium.utils import profile
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+def test_operations():
+    color.clone().lighter(0.2).saturate(0.3).to_hex_string()
+
+result = profile(test_operations)
+print(f"Time: {result['time']:.6f}s")
+```
+
+## Best Practices
+
+### Using Utilities
+
+```python
+from colorium.utils import clamp, to_hex
+
+# Good - use utilities
+rgb_value = clamp(300, 0, 255)  # 255
+hex_str = to_hex(255)           # FF
+
+# Avoid - manual implementation
+rgb_value = max(0, min(300, 255))  # 255
+hex_str = hex(255)[2:].upper().zfill(2)  # FF
+```
+
+### Error Handling
+
+```python
+from colorium.utils import parse_percentage
+
+def safe_parse_percentage(value: str) -> float:
+    """Safely parse percentage with fallback"""
+    try:
+        return parse_percentage(value)
+    except ValueError:
+        return 0.0
+
+# Usage
+print(safe_parse_percentage("50%"))   # 0.5
+print(safe_parse_percentage("abc"))   # 0.0
+```
+
+### Validation
+
+```python
+from colorium.utils import is_hex, trim_string
+
+def validate_color_input(value: str) -> bool:
+    """Validate color input string"""
+    value = trim_string(value)
+
+    # Check if it's a hex color
+    if value.startswith('#'):
+        hex_value = value[1:]
+        return len(hex_value) in (3, 6) and all(is_hex(c) for c in hex_value)
+
+    # Check if it's a named color
+    from colorium import NAMED_COLORS
+    return value.lower() in NAMED_COLORS
+
+# Usage
+print(validate_color_input("#FF0000"))  # True
+print(validate_color_input("red"))      # True
+print(validate_color_input("#GGGGGG"))  # False
+```
+
+## Next Steps
+
+- [Color Class](/docs/1.0.0/api-reference/color-class) — Color class API
+- [Color Functions](/docs/1.0.0/api-reference/color-functions) — Factory functions
+- [Filter Classes](/docs/1.0.0/api-reference/filter-classes) — Filter API
+
+---
+
+**Previous:** [Filter Classes](/docs/1.0.0/api-reference/filter-classes)
+**Next:** [Changelog →](/docs/1.0.0/changelog)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/1.0.0/advanced/contributing","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200 hover:border-red-500/20","aria-label":"Go to previous page: Contributing to Colorium","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Contributing to Colorium"}]]}]]}],["$","$La",null,{"href":"/docs/1.0.0/core-concepts/color-conversion","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Color Conversion","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Color Conversion"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"Validation Functions","id":"validation-functions"},{"level":3,"text":"is_hex","id":"is_hex"},{"level":2,"text":"Math Functions","id":"math-functions"},{"level":3,"text":"clamp","id":"clamp"},{"level":3,"text":"round_decimal","id":"round_decimal"},{"level":2,"text":"String Functions","id":"string-functions"},{"level":3,"text":"to_hex","id":"to_hex"},{"level":3,"text":"parse_percentage","id":"parse_percentage"},{"level":3,"text":"trim_string","id":"trim_string"},{"level":2,"text":"Color Space Helper Functions","id":"color-space-helper-functions"},{"level":3,"text":"\\_linearize_srgb","id":"_linearize_srgb"},{"level":3,"text":"\\_to_srgb","id":"_to_srgb"},{"level":2,"text":"Constant Functions","id":"constant-functions"},{"level":3,"text":"get_color_hex","id":"get_color_hex"},{"level":3,"text":"get_color_names","id":"get_color_names"},{"level":2,"text":"Utility Class Example","id":"utility-class-example"},{"level":3,"text":"ColorUtils","id":"colorutils"},{"level":2,"text":"Performance Functions","id":"performance-functions"},{"level":3,"text":"benchmark","id":"benchmark"},{"level":3,"text":"profile","id":"profile"},{"level":2,"text":"Best Practices","id":"best-practices"},{"level":3,"text":"Using Utilities","id":"using-utilities"},{"level":3,"text":"Error Handling","id":"error-handling"},{"level":3,"text":"Validation","id":"validation"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null
