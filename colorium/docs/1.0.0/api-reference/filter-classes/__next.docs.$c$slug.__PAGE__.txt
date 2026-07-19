@@ -1,0 +1,563 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T2dbf,
+# Filter Classes API
+
+This document covers all filter classes and presets available in Colorium.
+
+## Base Classes
+
+### ColorFilter
+
+Abstract base class for all color filters.
+
+```python
+class ColorFilter(ABC):
+    def __init__(self, name: str = "Filter")
+    @abstractmethod
+    def apply(self, color: Color) -> Color
+    def __call__(self, color: Color) -> Color
+    def apply_to_batch(self, colors: List[Color]) -> List[Color]
+```
+
+**Methods:**
+
+| Method                   | Description                     |
+| ------------------------ | ------------------------------- |
+| `apply(color)`           | Apply filter to a single color  |
+| `__call__(color)`        | Call filter like a function     |
+| `apply_to_batch(colors)` | Apply filter to multiple colors |
+
+**Example:**
+
+```python
+from colorium import ColorFilter, Color
+
+class CustomFilter(ColorFilter):
+    def apply(self, color: Color) -> Color:
+        return Color(255 - color.red, 255 - color.green, 255 - color.blue)
+
+filter = CustomFilter("Invert")
+result = filter(color)
+```
+
+### MatrixFilter
+
+Filter using a 3x3 transformation matrix.
+
+```python
+class MatrixFilter(ColorFilter):
+    def __init__(self, matrix: Tuple[float, ...], name: str = "MatrixFilter")
+    def apply(self, color: Color) -> Color
+```
+
+**Parameters:**
+
+| Parameter | Type              | Description                          |
+| --------- | ----------------- | ------------------------------------ |
+| matrix    | Tuple[float, ...] | 9 numbers for 3x3 matrix (row-major) |
+| name      | str               | Filter name                          |
+
+**Example:**
+
+```python
+from colorium import MatrixFilter, Color
+
+# Grayscale matrix
+gray_matrix = (
+    0.299, 0.587, 0.114,
+    0.299, 0.587, 0.114,
+    0.299, 0.587, 0.114
+)
+
+filter = MatrixFilter(gray_matrix, "Grayscale")
+result = filter(Color(255, 0, 0))
+```
+
+### CompositeFilter
+
+Filter that applies multiple filters in sequence.
+
+```python
+class CompositeFilter(ColorFilter):
+    def __init__(self, filters: List[ColorFilter], name: str = "CompositeFilter")
+    def apply(self, color: Color) -> Color
+    def add_filter(self, filter: ColorFilter) -> None
+```
+
+**Parameters:**
+
+| Parameter | Type              | Description                       |
+| --------- | ----------------- | --------------------------------- |
+| filters   | List[ColorFilter] | List of filters to apply in order |
+| name      | str               | Filter name                       |
+
+**Example:**
+
+```python
+from colorium import CompositeFilter, SepiaFilter, ContrastFilter
+
+vintage = CompositeFilter([
+    SepiaFilter(0.5),
+    ContrastFilter(1.1)
+], name="Vintage")
+
+result = vintage(color)
+```
+
+## Basic Filters
+
+### SepiaFilter
+
+Apply a warm sepia tone effect.
+
+```python
+class SepiaFilter(ColorFilter):
+    def __init__(self, intensity: float = 1.0)
+    def apply(self, color: Color) -> Color
+```
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description                     |
+| --------- | ----- | ----- | ------------------------------- |
+| intensity | float | 0-1   | Filter intensity (default: 1.0) |
+
+**Example:**
+
+```python
+from colorium import SepiaFilter
+
+sepia = SepiaFilter(0.7)
+result = sepia(color)
+```
+
+### GrayscaleFilter
+
+Convert a color to grayscale.
+
+```python
+class GrayscaleFilter(ColorFilter):
+    def __init__(self, method: str = "luminance")
+    def apply(self, color: Color) -> Color
+```
+
+**Parameters:**
+
+| Parameter | Type | Description                              |
+| --------- | ---- | ---------------------------------------- |
+| method    | str  | Conversion method (default: "luminance") |
+
+**Methods:** `"luminance"`, `"average"`, `"lightness"`
+
+**Example:**
+
+```python
+from colorium import GrayscaleFilter
+
+luminance = GrayscaleFilter("luminance")
+average = GrayscaleFilter("average")
+lightness = GrayscaleFilter("lightness")
+```
+
+### InvertFilter
+
+Apply invert (negative) effect.
+
+```python
+class InvertFilter(ColorFilter):
+    def __init__(self)
+    def apply(self, color: Color) -> Color
+```
+
+**Example:**
+
+```python
+from colorium import InvertFilter
+
+invert = InvertFilter()
+result = invert(color)
+```
+
+### ContrastFilter
+
+Adjust contrast of a color.
+
+```python
+class ContrastFilter(ColorFilter):
+    def __init__(self, amount: float = 1.2)
+    def apply(self, color: Color) -> Color
+```
+
+**Parameters:**
+
+| Parameter | Type  | Range   | Description                    |
+| --------- | ----- | ------- | ------------------------------ |
+| amount    | float | 0.1-3.0 | Contrast amount (default: 1.2) |
+
+**Example:**
+
+```python
+from colorium import ContrastFilter
+
+high_contrast = ContrastFilter(1.5)
+low_contrast = ContrastFilter(0.5)
+```
+
+### BrightnessFilter
+
+Adjust brightness of a color.
+
+```python
+class BrightnessFilter(ColorFilter):
+    def __init__(self, amount: float = 1.2)
+    def apply(self, color: Color) -> Color
+```
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description                          |
+| --------- | ----- | ----- | ------------------------------------ |
+| amount    | float | 0-2.0 | Brightness multiplier (default: 1.2) |
+
+**Example:**
+
+```python
+from colorium import BrightnessFilter
+
+brighter = BrightnessFilter(1.5)
+darker = BrightnessFilter(0.5)
+```
+
+## Advanced Filters
+
+### SaturationFilter
+
+Adjust saturation of a color.
+
+```python
+class SaturationFilter(ColorFilter):
+    def __init__(self, amount: float = 0.5)
+    def apply(self, color: Color) -> Color
+```
+
+**Parameters:**
+
+| Parameter | Type  | Range   | Description                          |
+| --------- | ----- | ------- | ------------------------------------ |
+| amount    | float | -1 to 1 | Saturation adjustment (default: 0.5) |
+
+**Example:**
+
+```python
+from colorium import SaturationFilter
+
+vivid = SaturationFilter(0.5)
+muted = SaturationFilter(-0.5)
+gray = SaturationFilter(-1.0)
+```
+
+### HueRotateFilter
+
+Rotate hue of a color.
+
+```python
+class HueRotateFilter(ColorFilter):
+    def __init__(self, degrees: float = 90)
+    def apply(self, color: Color) -> Color
+```
+
+**Parameters:**
+
+| Parameter | Type  | Range | Description                         |
+| --------- | ----- | ----- | ----------------------------------- |
+| degrees   | float | 0-360 | Degrees to rotate hue (default: 90) |
+
+**Example:**
+
+```python
+from colorium import HueRotateFilter
+
+rotate_90 = HueRotateFilter(90)
+rotate_180 = HueRotateFilter(180)
+```
+
+### PosterizeFilter
+
+Reduce number of color levels.
+
+```python
+class PosterizeFilter(ColorFilter):
+    def __init__(self, levels: int = 4)
+    def apply(self, color: Color) -> Color
+```
+
+**Parameters:**
+
+| Parameter | Type | Range | Description                           |
+| --------- | ---- | ----- | ------------------------------------- |
+| levels    | int  | 2-256 | Color levels per channel (default: 4) |
+
+**Example:**
+
+```python
+from colorium import PosterizeFilter
+
+posterize_4 = PosterizeFilter(4)
+posterize_8 = PosterizeFilter(8)
+```
+
+### TemperatureFilter
+
+Adjust color temperature.
+
+```python
+class TemperatureFilter(ColorFilter):
+    def __init__(self, kelvin: int = 5500)
+    def apply(self, color: Color) -> Color
+```
+
+**Parameters:**
+
+| Parameter | Type | Range      | Description                       |
+| --------- | ---- | ---------- | --------------------------------- |
+| kelvin    | int  | 2000-10000 | Color temperature (default: 5500) |
+
+**Example:**
+
+```python
+from colorium import TemperatureFilter
+
+warm = TemperatureFilter(3000)
+cool = TemperatureFilter(8000)
+```
+
+### VignetteFilter
+
+Darken edges of an image.
+
+```python
+class VignetteFilter(ColorFilter):
+    def __init__(self, intensity: float = 0.5, center: Tuple[float, float] = (0.5, 0.5))
+    def apply(self, color: Color) -> Color
+```
+
+**Parameters:**
+
+| Parameter | Type                | Range | Description                           |
+| --------- | ------------------- | ----- | ------------------------------------- |
+| intensity | float               | 0-1   | Vignette intensity (default: 0.5)     |
+| center    | Tuple[float, float] | 0-1   | Center position (default: (0.5, 0.5)) |
+
+**Example:**
+
+```python
+from colorium import VignetteFilter
+
+vignette = VignetteFilter(0.7)
+result = vignette(color)
+```
+
+## Filter Presets
+
+### FilterPresets Class
+
+Collection of pre-built filter combinations (Instagram-style).
+
+```python
+class FilterPresets:
+    @staticmethod
+    def clarendon() -> CompositeFilter
+    @staticmethod
+    def gingham() -> CompositeFilter
+    @staticmethod
+    def moon() -> CompositeFilter
+    @staticmethod
+    def lark() -> CompositeFilter
+    @staticmethod
+    def toaster() -> CompositeFilter
+    @staticmethod
+    def valencia() -> CompositeFilter
+    @staticmethod
+    def amaro() -> CompositeFilter
+```
+
+### clarendon
+
+```python
+def clarendon() -> CompositeFilter
+```
+
+Increased contrast, brightness, and saturation. Creates a vibrant, punchy look.
+
+**Example:**
+
+```python
+from colorium import FilterPresets
+
+clarendon = FilterPresets.clarendon()
+result = clarendon(color)
+```
+
+### gingham
+
+```python
+def gingham() -> CompositeFilter
+```
+
+Warm, soft vintage look with light sepia and decreased contrast.
+
+**Example:**
+
+```python
+gingham = FilterPresets.gingham()
+result = gingham(color)
+```
+
+### moon
+
+```python
+def moon() -> CompositeFilter
+```
+
+High-contrast black and white using luminance method.
+
+**Example:**
+
+```python
+moon = FilterPresets.moon()
+result = moon(color)
+```
+
+### lark
+
+```python
+def lark() -> CompositeFilter
+```
+
+Cool, vibrant modern look with increased contrast and saturation.
+
+**Example:**
+
+```python
+lark = FilterPresets.lark()
+result = lark(color)
+```
+
+### toaster
+
+```python
+def toaster() -> CompositeFilter
+```
+
+Warm, retro vintage with increased contrast and saturation.
+
+**Example:**
+
+```python
+toaster = FilterPresets.toaster()
+result = toaster(color)
+```
+
+### valencia
+
+```python
+def valencia() -> CompositeFilter
+```
+
+Warm, soft vintage with subtle sepia and brightness increase.
+
+**Example:**
+
+```python
+valencia = FilterPresets.valencia()
+result = valencia(color)
+```
+
+### amaro
+
+```python
+def amaro() -> CompositeFilter
+```
+
+Rich, warm, slightly dark with increased contrast and saturation.
+
+**Example:**
+
+```python
+amaro = FilterPresets.amaro()
+result = amaro(color)
+```
+
+## Filter Composition
+
+### Chaining Filters
+
+```python
+from colorium import CompositeFilter, SepiaFilter, ContrastFilter, BrightnessFilter
+
+# Create custom filter chain
+custom = CompositeFilter([
+    SepiaFilter(0.5),
+    ContrastFilter(1.2),
+    BrightnessFilter(1.1)
+], name="Custom")
+
+result = custom(color)
+```
+
+### Adding Filters Dynamically
+
+```python
+from colorium import CompositeFilter, SepiaFilter, ContrastFilter
+
+filter = CompositeFilter([], name="Dynamic")
+
+# Add filters dynamically
+filter.add_filter(SepiaFilter(0.5))
+filter.add_filter(ContrastFilter(1.2))
+
+result = filter(color)
+```
+
+### Creating Reusable Filters
+
+```python
+from colorium import CompositeFilter, SepiaFilter, ContrastFilter
+
+def create_vintage_filter(intensity=0.5, contrast=1.1):
+    """Create a reusable vintage filter"""
+    return CompositeFilter([
+        SepiaFilter(intensity),
+        ContrastFilter(contrast)
+    ], name=f"Vintage_{intensity}_{contrast}")
+
+# Create multiple variants
+light_vintage = create_vintage_filter(0.3, 1.0)
+medium_vintage = create_vintage_filter(0.5, 1.1)
+heavy_vintage = create_vintage_filter(0.7, 1.2)
+```
+
+## Next Steps
+
+- [Utility Functions](/docs/1.0.0/api-reference/utility-functions) — Utility API
+- [Color Class](/docs/1.0.0/api-reference/color-class) — Color class API
+- [Color Functions](/docs/1.0.0/api-reference/color-functions) — Factory functions
+
+---
+
+**Previous:** [Color Functions](/docs/1.0.0/api-reference/color-functions)
+**Next:** [Utility Functions →](/docs/1.0.0/api-reference/utility-functions)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/1.0.0/advanced/integration-guide","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200 hover:border-red-500/20","aria-label":"Go to previous page: Integration Guide","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Integration Guide"}]]}]]}],["$","$La",null,{"href":"/docs/1.0.0/core-concepts/color-manipulation","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Color Manipulation","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Color Manipulation"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"Base Classes","id":"base-classes"},{"level":3,"text":"ColorFilter","id":"colorfilter"},{"level":3,"text":"MatrixFilter","id":"matrixfilter"},{"level":3,"text":"CompositeFilter","id":"compositefilter"},{"level":2,"text":"Basic Filters","id":"basic-filters"},{"level":3,"text":"SepiaFilter","id":"sepiafilter"},{"level":3,"text":"GrayscaleFilter","id":"grayscalefilter"},{"level":3,"text":"InvertFilter","id":"invertfilter"},{"level":3,"text":"ContrastFilter","id":"contrastfilter"},{"level":3,"text":"BrightnessFilter","id":"brightnessfilter"},{"level":2,"text":"Advanced Filters","id":"advanced-filters"},{"level":3,"text":"SaturationFilter","id":"saturationfilter"},{"level":3,"text":"HueRotateFilter","id":"huerotatefilter"},{"level":3,"text":"PosterizeFilter","id":"posterizefilter"},{"level":3,"text":"TemperatureFilter","id":"temperaturefilter"},{"level":3,"text":"VignetteFilter","id":"vignettefilter"},{"level":2,"text":"Filter Presets","id":"filter-presets"},{"level":3,"text":"FilterPresets Class","id":"filterpresets-class"},{"level":3,"text":"clarendon","id":"clarendon"},{"level":3,"text":"gingham","id":"gingham"},{"level":3,"text":"moon","id":"moon"},{"level":3,"text":"lark","id":"lark"},{"level":3,"text":"toaster","id":"toaster"},{"level":3,"text":"valencia","id":"valencia"},{"level":3,"text":"amaro","id":"amaro"},{"level":2,"text":"Filter Composition","id":"filter-composition"},{"level":3,"text":"Chaining Filters","id":"chaining-filters"},{"level":3,"text":"Adding Filters Dynamically","id":"adding-filters-dynamically"},{"level":3,"text":"Creating Reusable Filters","id":"creating-reusable-filters"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

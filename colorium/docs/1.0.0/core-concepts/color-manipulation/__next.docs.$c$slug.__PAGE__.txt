@@ -1,0 +1,457 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T244b,
+# Color Manipulation
+
+Colorium provides a comprehensive set of methods for manipulating colors. This guide covers all operations you can perform on colors.
+
+## Basic Manipulation
+
+### Lightness Adjustment
+
+Control the perceived brightness of a color.
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+# Make lighter
+color.lighter(0.2)    # Increase lightness by 20%
+print(color.to_hex_string())  # Brighter version
+
+# Make darker
+color.darker(0.1)     # Decrease lightness by 10%
+print(color.to_hex_string())  # Darker version
+
+# Chaining operations
+color.lighter(0.3).darker(0.1)
+```
+
+### Saturation Adjustment
+
+Control the intensity or purity of a color.
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+# Increase saturation
+color.saturate(0.3)   # More vivid
+print(color.to_hex_string())
+
+# Decrease saturation
+color.desaturate(0.2) # More muted
+print(color.to_hex_string())
+
+# Full desaturation (grayscale)
+color.desaturate(1.0)
+print(color.to_hsl()['s'])  # 0.0
+```
+
+### Hue Rotation
+
+Shift colors around the color wheel.
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)  # Red
+
+# Rotate hue directly
+color.hue = 180           # Becomes cyan
+print(color.to_hex_string())  # #00FFFF
+
+# Access hue value
+print(color.hue)          # 180.0
+```
+
+### Combined Operations
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+# Create a variant
+variant = color.clone()
+variant.lighter(0.2)
+variant.saturate(0.3)
+variant.hue = 200
+
+print(f"Original: {color.to_hex_string()}")
+print(f"Variant: {variant.to_hex_string()}")
+```
+
+## Color Blending
+
+### Simple Blend
+
+Blend two colors with a ratio.
+
+```python
+from colorium import Color, RED, BLUE
+
+# Equal blend (50/50)
+purple = RED.blend(BLUE, 0.5)
+print(purple.to_hex_string())  # #7F007F
+
+# Different ratios
+pink = RED.blend(WHITE, 0.7)   # 70% white
+orange = RED.blend(YELLOW, 0.4) # 40% yellow
+
+# Custom colors
+color1 = Color(255, 100, 50)
+color2 = Color(50, 100, 255)
+result = color1.blend(color2, 0.3)
+```
+
+### Multiple Color Blend
+
+```python
+from colorium import Color
+
+def multi_blend(colors, ratios):
+    """Blend multiple colors with ratios"""
+    if len(colors) != len(ratios):
+        raise ValueError("Number of colors must match ratios")
+
+    total_r = total_g = total_b = 0
+    total_ratio = sum(ratios)
+
+    for color, ratio in zip(colors, ratios):
+        weight = ratio / total_ratio
+        total_r += color.red * weight
+        total_g += color.green * weight
+        total_b += color.blue * weight
+
+    return Color(int(total_r), int(total_g), int(total_b))
+
+# Blend three colors
+colors = [Color(255, 0, 0), Color(0, 255, 0), Color(0, 0, 255)]
+ratios = [0.4, 0.3, 0.3]
+result = multi_blend(colors, ratios)
+```
+
+## Color Cloning
+
+Create independent copies of colors.
+
+```python
+from colorium import Color
+
+original = Color(255, 0, 0)
+
+# Clone the color
+clone = original.clone()
+
+# Modify clone independently
+clone.lighter(0.3)
+
+print(f"Original: {original.to_hex_string()}")  # #FF0000
+print(f"Clone: {clone.to_hex_string()}")        # Brighter version
+```
+
+## Color Inspection
+
+### Dark/Light Detection
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+# Check if dark (default threshold 128)
+if color.is_dark():
+    print("Dark color")
+else:
+    print("Light color")
+
+# Custom threshold
+if color.is_dark(threshold=150):
+    print("Very dark color")
+```
+
+### Color Name Detection
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)
+name = color.to_name()
+print(name)  # Red
+
+color2 = Color(100, 149, 237)
+print(color2.to_name())  # CornflowerBlue
+
+# Unknown colors return empty string
+color3 = Color(123, 45, 67)
+print(color3.to_name())  # ""
+```
+
+### Color Value Extraction
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+# Get RGB values
+rgb = color.to_rgb()
+print(f"R: {rgb['r']}, G: {rgb['g']}, B: {rgb['b']}")
+
+# Get HSL values
+hsl = color.to_hsl()
+print(f"H: {hsl['h']}, S: {hsl['s']}, L: {hsl['l']}")
+
+# Get CMYK values
+cmyk = color.to_cmyk()
+print(f"C: {cmyk['c']}, M: {cmyk['m']}, Y: {cmyk['y']}, K: {cmyk['k']}")
+```
+
+## Color Properties
+
+### Working with Individual Components
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+# Modify RGB components
+color.red = 255
+color.green = 0
+color.blue = 0
+
+# Modify HSL components
+color.hue = 180
+color.sat = 0.8
+color.lightness = 0.5
+
+# Access all properties
+print(f"RGB: ({color.red}, {color.green}, {color.blue})")
+print(f"HSL: ({color.hue}, {color.sat}, {color.lightness})")
+print(f"HWB: ({color.whiteness}, {color.blackness})")
+print(f"CMYK: ({color.cyan}, {color.magenta}, {color.yellow}, {color.black})")
+```
+
+### Component Range Validation
+
+```python
+from colorium import Color
+
+# Values are automatically clamped
+color = Color(300, -10, 100)
+print(color.red)   # 255
+print(color.green) # 0
+
+# Opacity is clamped to 0-1
+color.opacity = 2.5
+print(color.opacity)  # 1.0
+```
+
+## Advanced Manipulation
+
+### Color Inversion
+
+```python
+from colorium import Color
+
+def invert_color(color):
+    """Invert a color (negative)"""
+    return Color(
+        255 - color.red,
+        255 - color.green,
+        255 - color.blue,
+        color.opacity
+    )
+
+color = Color(255, 0, 0)
+inverted = invert_color(color)
+print(inverted.to_hex_string())  # #00FFFF
+```
+
+### Color Temperature Adjustment
+
+```python
+from colorium import Color
+
+def adjust_temperature(color, temperature):
+    """
+    Adjust color temperature
+    temperature: -1.0 (cool) to 1.0 (warm)
+    """
+    result = color.clone()
+
+    if temperature > 0:
+        # Warm
+        warm = Color(255, 200, 150)
+        result = result.blend(warm, temperature)
+    else:
+        # Cool
+        cool = Color(150, 200, 255)
+        result = result.blend(cool, -temperature)
+
+    return result
+
+color = Color(200, 200, 200)
+warm = adjust_temperature(color, 0.7)
+cool = adjust_temperature(color, -0.7)
+
+print(f"Original: {color.to_hex_string()}")
+print(f"Warm: {warm.to_hex_string()}")
+print(f"Cool: {cool.to_hex_string()}")
+```
+
+### Color Contrast
+
+```python
+from colorium import Color
+
+def get_contrasting_color(color):
+    """Get a contrasting color for text"""
+    if color.is_dark():
+        return Color(255, 255, 255)  # White
+    else:
+        return Color(0, 0, 0)        # Black
+
+def get_complementary(color):
+    """Get complementary color (180° rotation)"""
+    hsl = color.to_hsl()
+    from colorium import from_hsl
+    return from_hsl((hsl['h'] + 180) % 360, hsl['s'], hsl['l'])
+
+color = Color(100, 150, 200)
+contrast = get_contrasting_color(color)
+complement = get_complementary(color)
+
+print(f"Original: {color.to_hex_string()}")
+print(f"Contrast: {contrast.to_hex_string()}")
+print(f"Complement: {complement.to_hex_string()}")
+```
+
+## Common Manipulation Patterns
+
+### Creating Shades and Tints
+
+```python
+from colorium import Color
+
+def create_shades(base_color, count=5):
+    """Create lighter shades of a color"""
+    shades = []
+    for i in range(count):
+        amount = i / (count - 1)
+        shade = base_color.clone()
+        shade.lighter(amount * 0.5)
+        shades.append(shade)
+    return shades
+
+def create_tones(base_color, count=5):
+    """Create darker tones of a color"""
+    tones = []
+    for i in range(count):
+        amount = i / (count - 1)
+        tone = base_color.clone()
+        tone.darker(amount * 0.5)
+        tones.append(tone)
+    return tones
+
+color = Color(255, 0, 0)
+
+print("Shades:")
+for shade in create_shades(color, 5):
+    print(f"  {shade.to_hex_string()}")
+
+print("\nTones:")
+for tone in create_tones(color, 5):
+    print(f"  {tone.to_hex_string()}")
+```
+
+### Color Animation
+
+```python
+from colorium import Color
+
+def animate_color(start, end, steps, callback):
+    """Animate between two colors"""
+    for i in range(steps):
+        ratio = i / (steps - 1)
+        current = start.blend(end, ratio)
+        callback(current)
+
+# Usage
+def print_color(color):
+    print(f"Frame: {color.to_hex_string()}")
+
+start = Color(255, 0, 0)
+end = Color(0, 0, 255)
+animate_color(start, end, 5, print_color)
+```
+
+## Performance Considerations
+
+### Clone vs New Color
+
+```python
+from colorium import Color
+
+# Good for copying
+copy = original.clone()
+
+# Also works but less clear
+copy = Color(original.red, original.green, original.blue)
+```
+
+### Avoiding Unnecessary Operations
+
+```python
+from colorium import Color
+
+color = Color(100, 150, 200)
+
+# Good - modify directly
+color.lighter(0.3)
+
+# Avoid - creating new object unnecessarily
+color = color.clone()
+color.lighter(0.3)
+```
+
+### Batch Operations
+
+```python
+from colorium import Color
+
+def batch_lighten(colors, amount):
+    """Lighten multiple colors at once"""
+    return [color.clone().lighter(amount) for color in colors]
+
+colors = [Color(100, 150, 200), Color(255, 0, 0), Color(0, 255, 0)]
+lightened = batch_lighten(colors, 0.2)
+```
+
+## Next Steps
+
+- [Color Conversion](/docs/1.0.0/core-concepts/color-conversion) — Converting between spaces
+- [Color Filters](/docs/1.0.0/features/color-filters) — Applying filters to colors
+- [Color Blending](/docs/1.0.0/features/color-blending) — Advanced blending techniques
+
+---
+
+**Previous:** [Color Creation](/docs/1.0.0/core-concepts/color-creation)
+**Next:** [Color Conversion →](/docs/1.0.0/core-concepts/color-conversion)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/1.0.0/api-reference/filter-classes","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200 hover:border-red-500/20","aria-label":"Go to previous page: Filter Classes API","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Filter Classes API"}]]}]]}],["$","$La",null,{"href":"/docs/1.0.0/features/color-distance","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Color Distance","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Color Distance"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"Basic Manipulation","id":"basic-manipulation"},{"level":3,"text":"Lightness Adjustment","id":"lightness-adjustment"},{"level":3,"text":"Saturation Adjustment","id":"saturation-adjustment"},{"level":3,"text":"Hue Rotation","id":"hue-rotation"},{"level":3,"text":"Combined Operations","id":"combined-operations"},{"level":2,"text":"Color Blending","id":"color-blending"},{"level":3,"text":"Simple Blend","id":"simple-blend"},{"level":3,"text":"Multiple Color Blend","id":"multiple-color-blend"},{"level":2,"text":"Color Cloning","id":"color-cloning"},{"level":2,"text":"Color Inspection","id":"color-inspection"},{"level":3,"text":"Dark/Light Detection","id":"dark-light-detection"},{"level":3,"text":"Color Name Detection","id":"color-name-detection"},{"level":3,"text":"Color Value Extraction","id":"color-value-extraction"},{"level":2,"text":"Color Properties","id":"color-properties"},{"level":3,"text":"Working with Individual Components","id":"working-with-individual-components"},{"level":3,"text":"Component Range Validation","id":"component-range-validation"},{"level":2,"text":"Advanced Manipulation","id":"advanced-manipulation"},{"level":3,"text":"Color Inversion","id":"color-inversion"},{"level":3,"text":"Color Temperature Adjustment","id":"color-temperature-adjustment"},{"level":3,"text":"Color Contrast","id":"color-contrast"},{"level":2,"text":"Common Manipulation Patterns","id":"common-manipulation-patterns"},{"level":3,"text":"Creating Shades and Tints","id":"creating-shades-and-tints"},{"level":3,"text":"Color Animation","id":"color-animation"},{"level":2,"text":"Performance Considerations","id":"performance-considerations"},{"level":3,"text":"Clone vs New Color","id":"clone-vs-new-color"},{"level":3,"text":"Avoiding Unnecessary Operations","id":"avoiding-unnecessary-operations"},{"level":3,"text":"Batch Operations","id":"batch-operations"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

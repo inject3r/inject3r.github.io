@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+2:I[21550,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+3:I[16413,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+a:I[22016,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],""]
+b:I[5014,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+c:I[73947,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js","/fastapi-route/_next/static/chunks/1ha57v8x06lxx.js","/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","/fastapi-route/_next/static/chunks/372m4ov9msupa.js"],"default"]
+d:I[97367,["/fastapi-route/_next/static/chunks/10chx56sfmvt8.js","/fastapi-route/_next/static/chunks/0krhcllroe4vq.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:Tc72,
+# Advanced Features
+
+FastAPI Route includes several advanced features designed for production-ready applications. These features give you fine-grained control over performance, security, and user experience.
+
+## Build System & Cache
+
+The build system pre-compiles your routes into an optimized cache. This eliminates filesystem scanning at startup and significantly reduces memory usage.
+
+**Key benefits:**
+
+- Compressed route metadata (up to 70% reduction)
+- 5-10x faster production startup times
+- Optional cache encryption for security
+- Build-time route validation catches errors before deployment
+
+```bash
+# Build the production cache
+fastapi-route build
+
+# Run using the cached routes
+fastapi-route run
+
+# Check build status
+fastapi-route status
+
+# Clean the cache
+fastapi-route clean
+```
+
+## Advanced Configuration
+
+The `config.py` file gives you complete control over every aspect of your application:
+
+**Server settings** - Host, port, workers, timeouts, concurrency limits
+**Logging settings** - Log levels, timestamp format, colored output
+**Build settings** - Compression level, cache location, exclude patterns
+**CORS settings** - Origins, methods, headers, credentials
+**Custom CLI commands** - Project-specific shortcuts
+
+## Custom Handlers
+
+Replace built-in functionality with your own implementations:
+
+**Custom documentation** - Create `docs.py` to design your own API documentation page with access to route data and statistics.
+
+**Custom 404 page** - Create `not-found.py` to provide branded error pages with helpful suggestions for users.
+
+Both custom handlers receive a `context` object that gives you access to all registered routes, statistics, and configuration.
+
+## Error Handling
+
+FastAPI Route provides comprehensive error handling:
+
+**HTTP Exceptions** - Raise `HTTPException` or use built-in classes like `NotFoundException`, `UnauthorizedException`, and `BadRequestException`.
+
+**Development error pages** - Beautiful error pages with syntax highlighting, line numbers, and helpful suggestions when `debug = True`.
+
+**Custom error pages** - Create `not-found.py` for custom 404 pages.
+
+**Exception handling middleware** - Catch and handle errors globally in `middleware.py`.
+
+## Comparison Summary
+
+| Feature         | Development                    | Production            |
+| --------------- | ------------------------------ | --------------------- |
+| Route Discovery | Filesystem scan                | Build cache           |
+| Startup Time    | Slower (scans all files)       | Fast (loads cache)    |
+| Error Pages     | Detailed (syntax highlighting) | Minimal (security)    |
+| Logging         | Verbose (INFO level)           | Quiet (WARNING level) |
+| Hot Reload      | Enabled                        | Disabled              |
+
+## Next Steps
+
+- [Build System](/docs/0.1.1/advanced/build-system) - Learn about the production build process in depth
+- [Configuration](/docs/0.1.1/advanced/configuration) - Explore all configuration options
+- [Custom Handlers](/docs/0.1.1/advanced/custom-handlers) - Create custom documentation and 404 pages
+- [Error Handling](/docs/0.1.1/advanced/error-handling) - Handle errors gracefully with HTTP exceptions
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PSCKDXgcfT85ifdGfgCVM"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/0.1.1/core-concepts/middleware","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200","aria-label":"Go to previous page: Middleware","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-white"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Middleware"}]]}]]}],["$","$La",null,{"href":"/docs/0.1.1/advanced/build-system","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Build System","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Build System"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-white"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"Build System & Cache","id":"build-system-cache"},{"level":2,"text":"Advanced Configuration","id":"advanced-configuration"},{"level":2,"text":"Custom Handlers","id":"custom-handlers"},{"level":2,"text":"Error Handling","id":"error-handling"},{"level":2,"text":"Comparison Summary","id":"comparison-summary"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/fastapi-route/_next/static/chunks/05kzst2ml1yoy.js","async":true}]
+8:["$","script","script-1",{"src":"/fastapi-route/_next/static/chunks/372m4ov9msupa.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

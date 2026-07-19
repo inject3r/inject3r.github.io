@@ -1,0 +1,464 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T2a9e,
+# Color Blending
+
+Colorium provides powerful color blending capabilities for creating new colors by combining existing ones. This guide covers all blending operations.
+
+## Basic Blending
+
+### Simple Linear Blend
+
+The most common blending method using a ratio.
+
+```python
+from colorium import Color, RED, BLUE, WHITE, YELLOW
+
+# Equal blend (50/50)
+purple = RED.blend(BLUE, 0.5)
+print(purple.to_hex_string())  # #7F007F
+
+# Different ratios
+pink = RED.blend(WHITE, 0.7)   # 70% white
+orange = RED.blend(YELLOW, 0.4) # 40% yellow
+
+# Custom colors
+color1 = Color(255, 100, 50)
+color2 = Color(50, 100, 255)
+result = color1.blend(color2, 0.3)
+```
+
+### Blend with Opacity
+
+Blending preserves opacity.
+
+```python
+from colorium import Color
+
+color1 = Color(255, 0, 0, 0.5)   # Semi-transparent red
+color2 = Color(0, 0, 255, 0.5)   # Semi-transparent blue
+
+# Blend with opacity
+result = color1.blend(color2, 0.5)
+print(result.opacity)  # 0.5 (average of opacities)
+```
+
+## Advanced Blending
+
+### Multiple Color Blend
+
+```python
+from colorium import Color
+
+def blend_colors(colors, ratios):
+    """Blend multiple colors with custom ratios"""
+    if len(colors) != len(ratios):
+        raise ValueError("Number of colors must match ratios")
+
+    total_r = total_g = total_b = 0
+    total_ratio = sum(ratios)
+
+    for color, ratio in zip(colors, ratios):
+        weight = ratio / total_ratio
+        total_r += color.red * weight
+        total_g += color.green * weight
+        total_b += color.blue * weight
+
+    return Color(int(total_r), int(total_g), int(total_b))
+
+# Blend three colors
+colors = [Color(255, 0, 0), Color(0, 255, 0), Color(0, 0, 255)]
+ratios = [0.4, 0.3, 0.3]
+result = blend_colors(colors, ratios)
+```
+
+### Gradient Generation
+
+```python
+from colorium import Color
+
+def create_gradient(start_color, end_color, steps=10):
+    """Create a smooth gradient between two colors"""
+    gradient = []
+    for i in range(steps):
+        ratio = i / (steps - 1)
+        color = start_color.blend(end_color, ratio)
+        gradient.append(color)
+    return gradient
+
+def multi_stop_gradient(colors, steps_per_segment=10):
+    """Create a gradient with multiple color stops"""
+    if len(colors) < 2:
+        return colors
+
+    result = []
+    for i in range(len(colors) - 1):
+        segment = create_gradient(colors[i], colors[i+1], steps_per_segment)
+        if i > 0:
+            segment = segment[1:]  # Avoid duplicate stops
+        result.extend(segment)
+
+    return result
+
+# Simple gradient
+gradient = create_gradient(
+    Color(255, 0, 0),
+    Color(0, 0, 255),
+    10
+)
+
+# Multi-stop gradient
+rainbow_colors = [
+    Color(255, 0, 0),    # Red
+    Color(255, 165, 0),  # Orange
+    Color(255, 255, 0),  # Yellow
+    Color(0, 255, 0),    # Green
+    Color(0, 0, 255),    # Blue
+    Color(75, 0, 130)    # Indigo
+]
+rainbow = multi_stop_gradient(rainbow_colors, 8)
+```
+
+## Blending Modes
+
+### Weighted Blend
+
+```python
+from colorium import Color
+
+def weighted_blend(color1, color2, weight1=0.5, weight2=0.5):
+    """Blend with custom weights for each color"""
+    total = weight1 + weight2
+    r = (color1.red * weight1 + color2.red * weight2) / total
+    g = (color1.green * weight1 + color2.green * weight2) / total
+    b = (color1.blue * weight1 + color2.blue * weight2) / total
+    a = (color1.opacity * weight1 + color2.opacity * weight2) / total
+
+    return Color(int(r), int(g), int(b), a)
+
+# More weight on first color
+result = weighted_blend(
+    Color(255, 0, 0),
+    Color(0, 0, 255),
+    weight1=0.7,
+    weight2=0.3
+)
+```
+
+### Screen Blend
+
+```python
+from colorium import Color
+
+def screen_blend(color1, color2):
+    """Screen blending mode (lighter result)"""
+    r = 255 - ((255 - color1.red) * (255 - color2.red) / 255)
+    g = 255 - ((255 - color1.green) * (255 - color2.green) / 255)
+    b = 255 - ((255 - color1.blue) * (255 - color2.blue) / 255)
+
+    return Color(int(r), int(g), int(b))
+```
+
+### Multiply Blend
+
+```python
+from colorium import Color
+
+def multiply_blend(color1, color2):
+    """Multiply blending mode (darker result)"""
+    r = (color1.red * color2.red) / 255
+    g = (color1.green * color2.green) / 255
+    b = (color1.blue * color2.blue) / 255
+
+    return Color(int(r), int(g), int(b))
+```
+
+### Overlay Blend
+
+```python
+from colorium import Color
+
+def overlay_blend(color1, color2):
+    """Overlay blending mode"""
+    def overlay_channel(c1, c2):
+        if c1 < 128:
+            return (2 * c1 * c2) / 255
+        else:
+            return 255 - (2 * (255 - c1) * (255 - c2) / 255)
+
+    r = overlay_channel(color1.red, color2.red)
+    g = overlay_channel(color1.green, color2.green)
+    b = overlay_channel(color1.blue, color2.blue)
+
+    return Color(int(r), int(g), int(b))
+```
+
+## Practical Examples
+
+### Color Palette Generation
+
+```python
+from colorium import Color, from_string
+
+def generate_palette(base_color, count=5):
+    """Generate a monochromatic palette"""
+    palette = []
+    for i in range(count):
+        lightness = 0.2 + (i / (count - 1)) * 0.6
+        color = base_color.clone()
+        color.lightness = lightness
+        palette.append(color)
+    return palette
+
+def generate_complementary_palette(base_color, count=3):
+    """Generate complementary palette"""
+    hsl = base_color.to_hsl()
+    from colorium import from_hsl
+
+    palette = []
+    for i in range(count):
+        hue = (hsl['h'] + i * 60) % 360
+        color = from_hsl(hue, hsl['s'], hsl['l'])
+        palette.append(color)
+    return palette
+
+# Create palettes
+base = from_string("blue")
+mono = generate_palette(base, 5)
+comp = generate_complementary_palette(base, 6)
+
+print("Monochromatic palette:")
+for color in mono:
+    print(f"  {color.to_hex_string()}")
+
+print("\nComplementary palette:")
+for color in comp:
+    print(f"  {color.to_hex_string()}")
+```
+
+### Theme Generation
+
+```python
+from colorium import Color, from_hsl
+
+def generate_theme(base_color):
+    """Generate a complete color theme"""
+    hsl = base_color.to_hsl()
+    from colorium import from_hsl
+
+    # Complementary
+    comp_hue = (hsl['h'] + 180) % 360
+    complementary = from_hsl(comp_hue, hsl['s'], hsl['l'])
+
+    # Analogous (30° apart)
+    analogous = [
+        from_hsl((hsl['h'] - 30) % 360, hsl['s'], hsl['l']),
+        base_color,
+        from_hsl((hsl['h'] + 30) % 360, hsl['s'], hsl['l'])
+    ]
+
+    # Triadic (120° apart)
+    triadic = [
+        from_hsl(hsl['h'], hsl['s'], hsl['l']),
+        from_hsl((hsl['h'] + 120) % 360, hsl['s'], hsl['l']),
+        from_hsl((hsl['h'] + 240) % 360, hsl['s'], hsl['l'])
+    ]
+
+    # Shades (different lightness)
+    shades = [
+        from_hsl(hsl['h'], hsl['s'], 0.2),
+        from_hsl(hsl['h'], hsl['s'], 0.4),
+        from_hsl(hsl['h'], hsl['s'], 0.6),
+        from_hsl(hsl['h'], hsl['s'], 0.8)
+    ]
+
+    return {
+        'base': base_color,
+        'complementary': complementary,
+        'analogous': analogous,
+        'triadic': triadic,
+        'shades': shades
+    }
+
+# Generate theme from red
+theme = generate_theme(Color(255, 0, 0))
+
+print("Theme:")
+print(f"Base: {theme['base'].to_hex_string()}")
+print(f"Complementary: {theme['complementary'].to_hex_string()}")
+print("Analogous:")
+for color in theme['analogous']:
+    print(f"  {color.to_hex_string()}")
+```
+
+### Gradient Examples
+
+```python
+from colorium import Color
+
+def display_gradient(gradient):
+    """Display a gradient as a color bar"""
+    for color in gradient:
+        bar = "█" * 10
+        print(f"{color.to_hex_string()} {bar}")
+
+# Warm to cool gradient
+warm_to_cool = create_gradient(
+    Color(255, 100, 0),
+    Color(0, 100, 255),
+    15
+)
+
+print("Warm to Cool:")
+display_gradient(warm_to_cool)
+
+# Pastel gradient
+pastels = create_gradient(
+    Color(255, 200, 200),
+    Color(200, 200, 255),
+    10
+)
+
+print("\nPastel Gradient:")
+display_gradient(pastels)
+
+# Vibrant gradient
+vibrant = create_gradient(
+    Color(255, 0, 0),
+    Color(0, 255, 255),
+    20
+)
+
+print("\nVibrant Gradient:")
+display_gradient(vibrant)
+```
+
+## Advanced Blending Techniques
+
+### Gaussian Blend
+
+```python
+from colorium import Color
+import math
+
+def gaussian_blend(color1, color2, center=0.5, spread=0.2):
+    """Gaussian weighted blend"""
+    def gaussian(x, mu, sigma):
+        return math.exp(-((x - mu) ** 2) / (2 * sigma ** 2))
+
+    # Sample multiple points and blend
+    steps = 10
+    result = Color(0, 0, 0)
+    total_weight = 0
+
+    for i in range(steps + 1):
+        t = i / steps
+        weight = gaussian(t, center, spread)
+        sample = color1.blend(color2, t)
+
+        result = Color(
+            int(result.red + sample.red * weight),
+            int(result.green + sample.green * weight),
+            int(result.blue + sample.blue * weight)
+        )
+        total_weight += weight
+
+    # Normalize
+    result = Color(
+        int(result.red / total_weight),
+        int(result.green / total_weight),
+        int(result.blue / total_weight)
+    )
+
+    return result
+```
+
+### Perceptual Blend
+
+```python
+from colorium import Color
+from colorium.converters import rgb_to_oklch, oklch_to_rgb
+
+def perceptual_blend(color1, color2, ratio=0.5):
+    """Blend in perceptual color space (OKLCH)"""
+    # Convert to OKLCH
+    oklch1 = rgb_to_oklch(color1.red, color1.green, color1.blue)
+    oklch2 = rgb_to_oklch(color2.red, color2.green, color2.blue)
+
+    # Interpolate in OKLCH space
+    l = oklch1['l'] * (1 - ratio) + oklch2['l'] * ratio
+    c = oklch1['c'] * (1 - ratio) + oklch2['c'] * ratio
+
+    # Handle hue interpolation
+    h1 = oklch1['h']
+    h2 = oklch2['h']
+    # Take shortest path around color wheel
+    if abs(h2 - h1) > 180:
+        if h2 > h1:
+            h1 += 360
+        else:
+            h2 += 360
+    h = (h1 * (1 - ratio) + h2 * ratio) % 360
+
+    # Convert back to RGB
+    rgb = oklch_to_rgb(l, c, h)
+    return Color(rgb['r'], rgb['g'], rgb['b'])
+```
+
+## Performance Tips
+
+### Batch Blending
+
+```python
+from colorium import Color
+
+def batch_blend(base_color, target_colors, ratio=0.5):
+    """Blend base color with multiple colors"""
+    return [base_color.blend(color, ratio) for color in target_colors]
+
+base = Color(100, 150, 200)
+targets = [
+    Color(255, 0, 0),
+    Color(0, 255, 0),
+    Color(0, 0, 255)
+]
+
+results = batch_blend(base, targets)
+for original, blended in zip(targets, results):
+    print(f"{original.to_hex_string()} → {blended.to_hex_string()}")
+```
+
+### Reuse Blend Results
+
+```python
+# Good - reuse result
+blended = color1.blend(color2, 0.5)
+use_result(blended)
+
+# Avoid - recalculate
+use_result(color1.blend(color2, 0.5))
+```
+
+## Next Steps
+
+- [Color Distance](/docs/1.0.0/features/color-distance) — Color difference calculations
+- [Color Similarity](/docs/1.0.0/features/color-similarity) — Similarity scoring
+- [Named Colors](/docs/1.0.0/features/named-colors) — Using named colors
+
+---
+
+**Previous:** [Color Filters](/docs/1.0.0/features/color-filters)
+**Next:** [Color Distance →](/docs/1.0.0/features/color-distance)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/1.0.0/core-concepts/color-creation","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200 hover:border-red-500/20","aria-label":"Go to previous page: Color Creation","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Color Creation"}]]}]]}],["$","$La",null,{"href":"/docs/1.0.0/getting-started/quick-start","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Quick Start","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Quick Start"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"Basic Blending","id":"basic-blending"},{"level":3,"text":"Simple Linear Blend","id":"simple-linear-blend"},{"level":3,"text":"Blend with Opacity","id":"blend-with-opacity"},{"level":2,"text":"Advanced Blending","id":"advanced-blending"},{"level":3,"text":"Multiple Color Blend","id":"multiple-color-blend"},{"level":3,"text":"Gradient Generation","id":"gradient-generation"},{"level":2,"text":"Blending Modes","id":"blending-modes"},{"level":3,"text":"Weighted Blend","id":"weighted-blend"},{"level":3,"text":"Screen Blend","id":"screen-blend"},{"level":3,"text":"Multiply Blend","id":"multiply-blend"},{"level":3,"text":"Overlay Blend","id":"overlay-blend"},{"level":2,"text":"Practical Examples","id":"practical-examples"},{"level":3,"text":"Color Palette Generation","id":"color-palette-generation"},{"level":3,"text":"Theme Generation","id":"theme-generation"},{"level":3,"text":"Gradient Examples","id":"gradient-examples"},{"level":2,"text":"Advanced Blending Techniques","id":"advanced-blending-techniques"},{"level":3,"text":"Gaussian Blend","id":"gaussian-blend"},{"level":3,"text":"Perceptual Blend","id":"perceptual-blend"},{"level":2,"text":"Performance Tips","id":"performance-tips"},{"level":3,"text":"Batch Blending","id":"batch-blending"},{"level":3,"text":"Reuse Blend Results","id":"reuse-blend-results"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

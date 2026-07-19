@@ -1,0 +1,478 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T26fe,
+# Named Colors
+
+Colorium includes all 147 CSS named colors with case-insensitive lookup. This guide covers how to use named colors effectively.
+
+## Overview
+
+Named colors provide a convenient way to reference colors without remembering hex codes or RGB values.
+
+### Benefits
+
+- Human-readable color names
+- Case-insensitive lookup
+- Quick color selection
+- Easy to remember and use
+- Standard CSS color names
+
+## Basic Usage
+
+### Creating Named Colors
+
+```python
+from colorium import from_string
+
+# Basic colors
+red = from_string("red")
+blue = from_string("blue")
+green = from_string("green")
+
+# Extended colors
+crimson = from_string("crimson")
+navy = from_string("navy")
+olive = from_string("olive")
+teal = from_string("teal")
+
+# Case insensitive
+RED = from_string("RED")
+ReD = from_string("ReD")
+red_alt = from_string("Red")
+```
+
+### Getting Color Name
+
+```python
+from colorium import Color
+
+color = Color(255, 0, 0)
+name = color.to_name()
+print(name)  # Red
+
+color2 = Color(100, 149, 237)
+print(color2.to_name())  # CornflowerBlue
+
+color3 = Color(123, 45, 67)
+print(color3.to_name())  # "" (empty if no match)
+```
+
+## Color Categories
+
+### Primary Colors
+
+```python
+from colorium import from_string
+
+primary = [
+    from_string("red"),
+    from_string("green"),
+    from_string("blue")
+]
+
+for color in primary:
+    print(color.to_hex_string())
+```
+
+### Secondary Colors
+
+```python
+from colorium import from_string
+
+secondary = [
+    from_string("yellow"),
+    from_string("cyan"),
+    from_string("magenta")
+]
+```
+
+### Neutral Colors
+
+```python
+from colorium import from_string
+
+neutrals = [
+    from_string("black"),
+    from_string("white"),
+    from_string("gray"),
+    from_string("silver")
+]
+```
+
+### Extended Colors
+
+```python
+from colorium import from_string
+
+# Reds
+reds = [
+    from_string("crimson"),
+    from_string("maroon"),
+    from_string("firebrick"),
+    from_string("indianred")
+]
+
+# Blues
+blues = [
+    from_string("navy"),
+    from_string("royalblue"),
+    from_string("cornflowerblue"),
+    from_string("steelblue")
+]
+
+# Greens
+greens = [
+    from_string("olive"),
+    from_string("teal"),
+    from_string("forestgreen"),
+    from_string("seagreen")
+]
+```
+
+## Practical Examples
+
+### Color Name Detection
+
+```python
+from colorium import Color, from_string
+
+def detect_color_name(color):
+    """Detect color name with fallback"""
+    name = color.to_name()
+    if name:
+        return name
+    return f"Custom-{color.to_hex_string()}"
+
+# Examples
+colors = [
+    Color(255, 0, 0),
+    Color(100, 149, 237),
+    Color(123, 45, 67),
+    from_string("crimson")
+]
+
+for color in colors:
+    print(f"{color.to_hex_string()} → {detect_color_name(color)}")
+```
+
+### Finding Named Color Matches
+
+```python
+from colorium import Color, from_string
+
+def find_named_color_matches(target, threshold=0.9):
+    """Find named colors similar to target"""
+    # List of all named colors to check
+    common_names = [
+        "red", "green", "blue", "yellow", "cyan", "magenta",
+        "black", "white", "gray", "silver",
+        "crimson", "navy", "olive", "teal",
+        "coral", "indigo", "lavender", "plum",
+        "gold", "orange", "pink", "purple"
+    ]
+
+    matches = []
+    for name in common_names:
+        named_color = from_string(name)
+        similarity = target.similarity(named_color)
+        if similarity >= threshold:
+            matches.append((name, similarity))
+
+    # Sort by similarity
+    matches.sort(key=lambda x: x[1], reverse=True)
+    return matches
+
+# Example
+target = Color(200, 50, 50)
+matches = find_named_color_matches(target)
+
+print(f"Target: {target.to_hex_string()}")
+print("Named color matches:")
+for name, similarity in matches:
+    print(f"  {name} ({similarity:.2f})")
+```
+
+### Color Name Validation
+
+```python
+from colorium import from_string
+
+def is_valid_named_color(name):
+    """Check if a name is a valid named color"""
+    try:
+        color = from_string(name)
+        return color is not None
+    except:
+        return False
+
+# Test names
+test_names = [
+    "red", "blue", "crimson",
+    "invalid_color", "not_a_color",
+    "navy", "olive"
+]
+
+for name in test_names:
+    valid = is_valid_named_color(name)
+    print(f"'{name}': {'✓ Valid' if valid else '✗ Invalid'}")
+```
+
+## Color Name Constants
+
+### Pre-defined Constants
+
+```python
+from colorium import (
+    RED, GREEN, BLUE,
+    YELLOW, CYAN, MAGENTA,
+    BLACK, WHITE, GRAY,
+    CRIMSON, NAVY, OLIVE, TEAL,
+    CORAL, INDIGO, LAVENDER, PLUM,
+    SUCCESS, ERROR, WARNING, INFO
+)
+
+print(RED.to_hex_string())      # #FF0000
+print(BLUE.to_hex_string())     # #0000FF
+print(SUCCESS.to_hex_string())  # #00FF00
+```
+
+### Creating Collections
+
+```python
+from colorium import from_string
+
+def create_color_collection(names):
+    """Create a collection of named colors"""
+    colors = {}
+    for name in names:
+        colors[name] = from_string(name)
+    return colors
+
+# Create collection
+warm_colors = create_color_collection([
+    "red", "orange", "yellow", "coral", "gold"
+])
+
+cool_colors = create_color_collection([
+    "blue", "cyan", "teal", "navy", "lavender"
+])
+
+for name, color in warm_colors.items():
+    print(f"{name}: {color.to_hex_string()}")
+```
+
+## Complete Color List
+
+### All 147 CSS Named Colors
+
+```python
+from colorium import COLOR_NAMES, COLOR_HEXES
+
+# Access all named colors
+for i, name in enumerate(COLOR_NAMES):
+    hex_val = COLOR_HEXES[i]
+    print(f"{name}: #{hex_val}")
+```
+
+### Color Name Groups
+
+```python
+from colorium import COLOR_NAMES, COLOR_HEXES
+
+def group_colors_by_category():
+    """Group named colors by category"""
+    groups = {
+        'reds': [],
+        'blues': [],
+        'greens': [],
+        'yellows': [],
+        'purples': [],
+        'neutrals': [],
+        'others': []
+    }
+
+    for i, name in enumerate(COLOR_NAMES):
+        color = from_string(name)
+        hex_val = color.to_hex_string().lower()
+
+        # Categorize based on dominant color
+        r, g, b = color.red, color.green, color.blue
+        if r > g and r > b:
+            groups['reds'].append(name)
+        elif b > r and b > g:
+            groups['blues'].append(name)
+        elif g > r and g > b:
+            groups['greens'].append(name)
+        elif r > 200 and g > 200:
+            groups['yellows'].append(name)
+        elif r > 100 and b > 100:
+            groups['purples'].append(name)
+        elif r == g == b:
+            groups['neutrals'].append(name)
+        else:
+            groups['others'].append(name)
+
+    return groups
+
+# Group colors
+groups = group_colors_by_category()
+
+for category, colors in groups.items():
+    print(f"\n{category.upper()}:")
+    for name in colors[:5]:  # Show first 5
+        color = from_string(name)
+        print(f"  {name}: {color.to_hex_string()}")
+```
+
+## Common Patterns
+
+### Converting Between Names and Hex
+
+```python
+from colorium import from_string, Color
+
+def name_to_hex(name):
+    """Convert named color to hex"""
+    color = from_string(name)
+    if color:
+        return color.to_hex_string()
+    return None
+
+def hex_to_name(hex_str):
+    """Convert hex to closest named color"""
+    color = from_string(hex_str)
+    if color:
+        name = color.to_name()
+        if name:
+            return name
+    return None
+
+# Examples
+print(name_to_hex("crimson"))   # #DC143C
+print(hex_to_name("#DC143C"))   # Crimson
+```
+
+### Creating Color Name Dictionary
+
+```python
+from colorium import COLOR_NAMES, COLOR_HEXES, from_string
+
+def create_color_dictionary():
+    """Create a dictionary of named colors"""
+    color_dict = {}
+    for i, name in enumerate(COLOR_NAMES):
+        hex_val = COLOR_HEXES[i]
+        color = from_string(name)
+        color_dict[name] = {
+            'hex': f'#{hex_val}',
+            'rgb': color.to_rgb()
+        }
+    return color_dict
+
+# Get color dictionary
+colors = create_color_dictionary()
+
+# Access a color
+crimson_info = colors['Crimson']
+print(f"Crimson hex: {crimson_info['hex']}")
+print(f"Crimson RGB: {crimson_info['rgb']}")
+```
+
+### Color Name Search
+
+```python
+from colorium import COLOR_NAMES, from_string
+
+def search_colors(pattern):
+    """Search for colors by name pattern"""
+    results = []
+    pattern = pattern.lower()
+
+    for name in COLOR_NAMES:
+        if pattern in name.lower():
+            results.append(name)
+
+    return results
+
+# Search for colors
+results = search_colors("blue")
+
+print("Colors containing 'blue':")
+for name in results:
+    color = from_string(name)
+    print(f"  {name}: {color.to_hex_string()}")
+```
+
+## Best Practices
+
+### Use Constants for Common Colors
+
+```python
+from colorium import RED, BLUE, SUCCESS, ERROR
+
+# Good - use constants
+primary = BLUE
+status = SUCCESS if valid else ERROR
+
+# Avoid - unnecessary string lookup
+primary = from_string("blue")
+status = from_string("success") if valid else from_string("error")
+```
+
+### Cache Named Color Lookups
+
+```python
+from colorium import from_string
+from functools import lru_cache
+
+@lru_cache(maxsize=200)
+def get_named_color(name):
+    """Cached named color lookup"""
+    return from_string(name)
+
+# Fast repeated lookups
+red1 = get_named_color("red")
+red2 = get_named_color("red")  # Uses cache
+```
+
+### Handle Unknown Colors Gracefully
+
+```python
+from colorium import from_string
+
+def safe_get_color(name, default=None):
+    """Safely get named color with fallback"""
+    color = from_string(name)
+    if color is None:
+        return default or Color(0, 0, 0)
+    return color
+
+# Usage
+color1 = safe_get_color("red")        # Returns red
+color2 = safe_get_color("invalid")    # Returns black
+color3 = safe_get_color("invalid", Color(255, 255, 255))  # Returns white
+```
+
+## Next Steps
+
+- [Color Constants](/docs/1.0.0/features/color-constants) — Pre-defined constants
+- [Advanced Topics](/docs/1.0.0/advanced) — Advanced color operations
+- [API Reference](/docs/1.0.0/api-reference) — Complete API documentation
+
+---
+
+**Previous:** [Color Similarity](/docs/1.0.0/features/color-similarity)
+**Next:** [Advanced Topics →](/docs/1.0.0/advanced)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/1.0.0/features/color-similarity","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200 hover:border-red-500/20","aria-label":"Go to previous page: Color Similarity","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Color Similarity"}]]}]]}],["$","$La",null,{"href":"/docs/1.0.0/advanced/index","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Advanced Topics","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Advanced Topics"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"Overview","id":"overview"},{"level":3,"text":"Benefits","id":"benefits"},{"level":2,"text":"Basic Usage","id":"basic-usage"},{"level":3,"text":"Creating Named Colors","id":"creating-named-colors"},{"level":3,"text":"Getting Color Name","id":"getting-color-name"},{"level":2,"text":"Color Categories","id":"color-categories"},{"level":3,"text":"Primary Colors","id":"primary-colors"},{"level":3,"text":"Secondary Colors","id":"secondary-colors"},{"level":3,"text":"Neutral Colors","id":"neutral-colors"},{"level":3,"text":"Extended Colors","id":"extended-colors"},{"level":2,"text":"Practical Examples","id":"practical-examples"},{"level":3,"text":"Color Name Detection","id":"color-name-detection"},{"level":3,"text":"Finding Named Color Matches","id":"finding-named-color-matches"},{"level":3,"text":"Color Name Validation","id":"color-name-validation"},{"level":2,"text":"Color Name Constants","id":"color-name-constants"},{"level":3,"text":"Pre-defined Constants","id":"pre-defined-constants"},{"level":3,"text":"Creating Collections","id":"creating-collections"},{"level":2,"text":"Complete Color List","id":"complete-color-list"},{"level":3,"text":"All 147 CSS Named Colors","id":"all-147-css-named-colors"},{"level":3,"text":"Color Name Groups","id":"color-name-groups"},{"level":2,"text":"Common Patterns","id":"common-patterns"},{"level":3,"text":"Converting Between Names and Hex","id":"converting-between-names-and-hex"},{"level":3,"text":"Creating Color Name Dictionary","id":"creating-color-name-dictionary"},{"level":3,"text":"Color Name Search","id":"color-name-search"},{"level":2,"text":"Best Practices","id":"best-practices"},{"level":3,"text":"Use Constants for Common Colors","id":"use-constants-for-common-colors"},{"level":3,"text":"Cache Named Color Lookups","id":"cache-named-color-lookups"},{"level":3,"text":"Handle Unknown Colors Gracefully","id":"handle-unknown-colors-gracefully"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

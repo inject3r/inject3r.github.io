@@ -1,0 +1,682 @@
+1:"$Sreact.fragment"
+2:I[21550,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+3:I[16413,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+a:I[22016,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],""]
+b:I[5014,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+c:I[73947,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js","/colorium/_next/static/chunks/3h8e741g2w_di.js","/colorium/_next/static/chunks/0_3c3i_21o3la.js","/colorium/_next/static/chunks/23wbi_y1y2kbq.js"],"default"]
+d:I[97367,["/colorium/_next/static/chunks/2smaepnxryau2.js","/colorium/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:T428e,
+# Integration Guide
+
+This guide covers how to integrate Colorium with other popular Python libraries and frameworks.
+
+## Overview
+
+| Library    | Use Case                  | Integration Method                 |
+| ---------- | ------------------------- | ---------------------------------- |
+| Pillow     | Image processing          | Color extraction, image creation   |
+| NumPy      | Scientific computing      | Array conversion, batch processing |
+| Matplotlib | Data visualization        | Color palettes, plots              |
+| Plotly     | Interactive visualization | Color scales, charts               |
+| OpenCV     | Computer vision           | Color space conversion             |
+| Django     | Web development           | Color fields, templates            |
+| Flask      | Web development           | Color utilities, APIs              |
+| FastAPI    | Web development           | Color schemas, endpoints           |
+
+## Pillow Integration
+
+### Extract Colors from Images
+
+```python
+from colorium import Color
+from PIL import Image
+
+def extract_colors_from_image(image_path, count=10):
+    """Extract dominant colors from an image"""
+    image = Image.open(image_path)
+    image = image.convert('RGB')
+    pixels = list(image.getdata())
+
+    # Sample pixels for performance
+    if len(pixels) > 10000:
+        step = len(pixels) // 10000
+        pixels = pixels[::step]
+
+    # Convert to Color objects
+    colors = [Color(r, g, b) for r, g, b in pixels]
+
+    # Simple clustering (group similar colors)
+    clusters = []
+    threshold = 30
+
+    for color in colors:
+        found = False
+        for cluster in clusters:
+            if color.delta_e(cluster['color'], "cie76") < threshold:
+                cluster['count'] += 1
+                found = True
+                break
+
+        if not found:
+            clusters.append({'color': color, 'count': 1})
+
+    # Sort by count and return top colors
+    clusters.sort(key=lambda x: x['count'], reverse=True)
+    return [c['color'] for c in clusters[:count]]
+
+def create_image_from_colors(colors, size=(100, 100), output_path=None):
+    """Create an image from colors"""
+    image = Image.new('RGB', size)
+    pixels = image.load()
+
+    for y in range(size[1]):
+        for x in range(size[0]):
+            color = colors[(y * size[0] + x) % len(colors)]
+            pixels[x, y] = (color.red, color.green, color.blue)
+
+    if output_path:
+        image.save(output_path)
+
+    return image
+
+# Usage
+colors = extract_colors_from_image('image.jpg', 5)
+create_image_from_colors(colors, size=(200, 200), output_path='palette.png')
+
+for i, color in enumerate(colors):
+    print(f"Color {i+1}: {color.to_hex_string()}")
+```
+
+### Color Palette Generator
+
+```python
+from colorium import Color, from_string
+from PIL import Image, ImageDraw
+
+def create_palette_image(colors, size=(800, 100), output_path='palette.png'):
+    """Create a palette image from colors"""
+    image = Image.new('RGB', size, (255, 255, 255))
+    draw = ImageDraw.Draw(image)
+
+    width_per_color = size[0] // len(colors)
+
+    for i, color in enumerate(colors):
+        x1 = i * width_per_color
+        x2 = (i + 1) * width_per_color
+        draw.rectangle([x1, 0, x2, size[1]], fill=(color.red, color.green, color.blue))
+
+        # Add hex label
+        if width_per_color > 60:
+            draw.text((x1 + 5, size[1] - 20), color.to_hex_string(), fill=(255, 255, 255))
+
+    if output_path:
+        image.save(output_path)
+
+    return image
+
+# Create palette from named colors
+colors = [
+    from_string("red"),
+    from_string("orange"),
+    from_string("yellow"),
+    from_string("green"),
+    from_string("blue"),
+    from_string("indigo"),
+    from_string("violet")
+]
+
+create_palette_image(colors)
+```
+
+## NumPy Integration
+
+### Color Array Operations
+
+```python
+from colorium import Color
+import numpy as np
+
+def colors_to_array(colors):
+    """Convert colors to NumPy array"""
+    return np.array([
+        [color.red, color.green, color.blue]
+        for color in colors
+    ])
+
+def array_to_colors(array):
+    """Convert NumPy array to colors"""
+    return [
+        Color(int(r), int(g), int(b))
+        for r, g, b in array
+    ]
+
+def batch_process_colors(array, operation, amount):
+    """Process colors using NumPy operations"""
+    if operation == 'lighten':
+        array = array * (1 + amount)
+    elif operation == 'darken':
+        array = array * (1 - amount)
+    elif operation == 'saturate':
+        # Simplified saturation
+        gray = np.mean(array, axis=1, keepdims=True)
+        array = gray + (array - gray) * (1 + amount)
+    else:
+        raise ValueError(f"Unknown operation: {operation}")
+
+    return np.clip(array, 0, 255).astype(np.uint8)
+
+# Usage
+colors = [
+    Color(100, 150, 200),
+    Color(200, 50, 100),
+    Color(50, 200, 150)
+]
+
+array = colors_to_array(colors)
+lightened = batch_process_colors(array, 'lighten', 0.2)
+saturated = batch_process_colors(array, 'saturate', 0.3)
+
+# Convert back
+lightened_colors = array_to_colors(lightened)
+saturated_colors = array_to_colors(saturated)
+```
+
+### Gradient Generation with NumPy
+
+```python
+from colorium import Color
+import numpy as np
+
+def generate_gradient_numpy(start_color, end_color, steps=100):
+    """Generate gradient using NumPy"""
+    start = np.array([start_color.red, start_color.green, start_color.blue])
+    end = np.array([end_color.red, end_color.green, end_color.blue])
+
+    # Generate smooth gradient
+    ratios = np.linspace(0, 1, steps).reshape(-1, 1)
+    gradient = start + (end - start) * ratios
+    gradient = np.clip(gradient, 0, 255).astype(np.uint8)
+
+    return [Color(r, g, b) for r, g, b in gradient]
+
+def generate_complex_gradient(colors, steps_per_segment=50):
+    """Generate complex multi-color gradient"""
+    gradient = []
+
+    for i in range(len(colors) - 1):
+        segment = generate_gradient_numpy(colors[i], colors[i + 1], steps_per_segment)
+        if i > 0:
+            segment = segment[1:]  # Avoid duplicate colors
+        gradient.extend(segment)
+
+    return gradient
+
+# Usage
+start = Color(255, 0, 0)
+end = Color(0, 0, 255)
+gradient = generate_gradient_numpy(start, end, 100)
+
+multi = generate_complex_gradient([
+    Color(255, 0, 0),
+    Color(255, 255, 0),
+    Color(0, 255, 0),
+    Color(0, 0, 255)
+])
+```
+
+## Matplotlib Integration
+
+### Color Palettes for Plots
+
+```python
+from colorium import Color, from_hsl
+import matplotlib.pyplot as plt
+
+def create_color_palette(n_colors, hue_start=0, hue_end=360, saturation=0.8, lightness=0.5):
+    """Create a color palette for plotting"""
+    palette = []
+    for i in range(n_colors):
+        hue = hue_start + (i / n_colors) * (hue_end - hue_start)
+        color = from_hsl(hue, saturation, lightness)
+        palette.append(color)
+    return palette
+
+def plot_palette(palette):
+    """Visualize a color palette"""
+    fig, ax = plt.subplots(1, len(palette), figsize=(len(palette) * 0.5, 2))
+
+    if len(palette) == 1:
+        ax = [ax]
+
+    for i, color in enumerate(palette):
+        rgb = (color.red/255, color.green/255, color.blue/255)
+        ax[i].imshow([[rgb]])
+        ax[i].axis('off')
+        ax[i].set_title(color.to_hex_string(), fontsize=8)
+
+    plt.tight_layout()
+    plt.show()
+
+# Usage
+palette = create_color_palette(8)
+plot_palette(palette)
+```
+
+### Color Mapping for Data Visualization
+
+```python
+from colorium import Color, from_string
+import matplotlib.pyplot as plt
+import numpy as np
+
+def create_color_map(colors):
+    """Create a color map from Color objects"""
+    from matplotlib.colors import LinearSegmentedColormap
+
+    # Convert to RGB tuples (0-1)
+    rgb_values = [
+        (c.red/255, c.green/255, c.blue/255)
+        for c in colors
+    ]
+
+    return LinearSegmentedColormap.from_list('custom', rgb_values)
+
+def plot_color_map(color_map, title="Color Map"):
+    """Visualize a color map"""
+    fig, ax = plt.subplots(figsize=(10, 2))
+
+    gradient = np.linspace(0, 1, 256).reshape(1, -1)
+    ax.imshow(gradient, aspect='auto', cmap=color_map)
+    ax.set_title(title)
+    ax.axis('off')
+
+    plt.tight_layout()
+    plt.show()
+
+# Usage
+colors = [
+    from_string("red"),
+    from_string("orange"),
+    from_string("yellow"),
+    from_string("green"),
+    from_string("blue")
+]
+
+color_map = create_color_map(colors)
+plot_color_map(color_map, "Custom Color Map")
+```
+
+## OpenCV Integration
+
+### Color Space Conversion
+
+```python
+from colorium import Color
+import cv2
+import numpy as np
+
+def color_to_opencv(color):
+    """Convert Color to OpenCV BGR tuple"""
+    return (color.blue, color.green, color.red)
+
+def opencv_to_color(bgr):
+    """Convert OpenCV BGR tuple to Color"""
+    return Color(int(bgr[2]), int(bgr[1]), int(bgr[0]))
+
+def apply_color_filter_opencv(image, filter_func):
+    """Apply color filter using OpenCV"""
+    # Convert to RGB
+    image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+
+    # Apply filter per pixel
+    h, w, _ = image_rgb.shape
+    for y in range(h):
+        for x in range(w):
+            r, g, b = image_rgb[y, x]
+            color = Color(r, g, b)
+            filtered = filter_func(color)
+            image_rgb[y, x] = (filtered.red, filtered.green, filtered.blue)
+
+    # Convert back to BGR
+    return cv2.cvtColor(image_rgb, cv2.COLOR_RGB2BGR)
+
+# Example filter
+def sepia_filter(color):
+    """Apply sepia filter"""
+    r, g, b = color.red, color.green, color.blue
+    new_r = int(r * 0.393 + g * 0.769 + b * 0.189)
+    new_g = int(r * 0.349 + g * 0.686 + b * 0.168)
+    new_b = int(r * 0.272 + g * 0.534 + b * 0.131)
+    return Color(
+        min(255, new_r),
+        min(255, new_g),
+        min(255, new_b)
+    )
+```
+
+## Django Integration
+
+### Custom Color Field
+
+```python
+from django.db import models
+from colorium import Color, from_string
+
+class ColorField(models.Field):
+    """Django field for storing colors"""
+
+    def __init__(self, *args, **kwargs):
+        kwargs['max_length'] = 20
+        super().__init__(*args, **kwargs)
+
+    def from_db_value(self, value, expression, connection):
+        if value is None:
+            return None
+        return from_string(value)
+
+    def to_python(self, value):
+        if value is None:
+            return None
+        if isinstance(value, Color):
+            return value
+        return from_string(value)
+
+    def get_prep_value(self, value):
+        if value is None:
+            return None
+        if isinstance(value, Color):
+            return value.to_hex_string()
+        return str(value)
+
+# Usage in model
+class ColorPalette(models.Model):
+    name = models.CharField(max_length=100)
+    primary = ColorField(default="#0000FF")
+    secondary = ColorField(default="#FF0000")
+    accent = ColorField(default="#00FF00")
+
+    def __str__(self):
+        return self.name
+```
+
+### Color Template Tag
+
+```python
+# templatetags/color_tags.py
+from django import template
+from colorium import from_string
+
+register = template.Library()
+
+@register.filter
+def hex_color(value):
+    """Convert color to hex string"""
+    try:
+        color = from_string(value)
+        if color:
+            return color.to_hex_string()
+    except:
+        pass
+    return value
+
+@register.filter
+def rgb_color(value):
+    """Convert color to RGB string"""
+    try:
+        color = from_string(value)
+        if color:
+            return color.to_rgb_string()
+    except:
+        pass
+    return value
+
+@register.simple_tag
+def color_swatch(color, size=24):
+    """Generate color swatch HTML"""
+    hex_value = hex_color(color)
+    return f'<div style="width:{size}px;height:{size}px;background:{hex_value};border-radius:4px;"></div>'
+```
+
+## FastAPI Integration
+
+### Color Schema
+
+```python
+from pydantic import BaseModel, validator
+from colorium import from_string, Color
+
+class ColorSchema(BaseModel):
+    """Pydantic schema for colors"""
+    value: str
+
+    @validator('value')
+    def validate_color(cls, v):
+        color = from_string(v)
+        if color is None:
+            raise ValueError(f"Invalid color: {v}")
+        return v
+
+    @property
+    def color(self):
+        return from_string(self.value)
+
+    @property
+    def hex(self):
+        return self.color.to_hex_string()
+
+    @property
+    def rgb(self):
+        return self.color.to_rgb()
+
+    @property
+    def hsl(self):
+        return self.color.to_hsl()
+
+# Usage in FastAPI
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.post("/colors/")
+async def create_color(color: ColorSchema):
+    return {
+        "hex": color.hex,
+        "rgb": color.rgb,
+        "hsl": color.hsl
+    }
+
+@app.get("/colors/{color_value}/")
+async def get_color(color_value: str):
+    color = from_string(color_value)
+    if color is None:
+        return {"error": "Invalid color"}
+
+    return {
+        "value": color_value,
+        "hex": color.to_hex_string(),
+        "rgb": color.to_rgb(),
+        "hsl": color.to_hsl(),
+        "name": color.to_name()
+    }
+```
+
+### Color Utilities
+
+```python
+from fastapi import FastAPI, Query
+from colorium import from_string, Color
+
+app = FastAPI()
+
+@app.get("/api/color/blend/")
+async def blend_colors(
+    color1: str = Query(..., description="First color"),
+    color2: str = Query(..., description="Second color"),
+    ratio: float = Query(0.5, ge=0, le=1, description="Blend ratio")
+):
+    c1 = from_string(color1)
+    c2 = from_string(color2)
+
+    if not c1 or not c2:
+        return {"error": "Invalid color"}
+
+    blended = c1.blend(c2, ratio)
+
+    return {
+        "color1": color1,
+        "color2": color2,
+        "ratio": ratio,
+        "result": blended.to_hex_string(),
+        "rgb": blended.to_rgb(),
+        "hsl": blended.to_hsl()
+    }
+
+@app.get("/api/color/similarity/")
+async def color_similarity(
+    color1: str = Query(..., description="First color"),
+    color2: str = Query(..., description="Second color")
+):
+    c1 = from_string(color1)
+    c2 = from_string(color2)
+
+    if not c1 or not c2:
+        return {"error": "Invalid color"}
+
+    return {
+        "color1": color1,
+        "color2": color2,
+        "similarity": c1.similarity(c2),
+        "distance": c1.delta_e(c2, "cie2000")
+    }
+```
+
+## Flask Integration
+
+### Color Utilities for Flask
+
+```python
+from flask import Flask, render_template, request, jsonify
+from colorium import from_string, Color
+
+app = Flask(__name__)
+
+@app.route('/color')
+def color_page():
+    return render_template('color.html')
+
+@app.route('/api/color/convert', methods=['POST'])
+def convert_color():
+    data = request.get_json()
+    color_str = data.get('color', '')
+
+    color = from_string(color_str)
+    if not color:
+        return jsonify({'error': 'Invalid color'}), 400
+
+    return jsonify({
+        'input': color_str,
+        'hex': color.to_hex_string(),
+        'rgb': color.to_rgb_string(),
+        'hsl': color.to_hsl_string(),
+        'cmyk': color.to_cmyk_string(),
+        'name': color.to_name()
+    })
+
+@app.route('/api/color/palette', methods=['POST'])
+def generate_palette():
+    data = request.get_json()
+    base = data.get('base', '')
+    count = data.get('count', 5)
+
+    color = from_string(base)
+    if not color:
+        return jsonify({'error': 'Invalid color'}), 400
+
+    # Generate palette
+    palette = []
+    for i in range(count):
+        lightness = 0.2 + (i / (count - 1)) * 0.6
+        c = color.clone()
+        c.lightness = lightness
+        palette.append(c.to_hex_string())
+
+    return jsonify({
+        'base': base,
+        'count': count,
+        'palette': palette
+    })
+```
+
+## Best Practices
+
+### Error Handling
+
+```python
+from colorium import Color, from_string
+
+def safe_import_colors(colors_data):
+    """Safely import colors from data"""
+    result = []
+    errors = []
+
+    for i, data in enumerate(colors_data):
+        try:
+            if isinstance(data, str):
+                color = from_string(data)
+            elif isinstance(data, dict):
+                color = Color(data.get('r', 0), data.get('g', 0), data.get('b', 0))
+            else:
+                continue
+
+            if color:
+                result.append(color)
+            else:
+                errors.append(f"Item {i}: Invalid color")
+        except Exception as e:
+            errors.append(f"Item {i}: {str(e)}")
+
+    return result, errors
+```
+
+### Performance Tips for Integration
+
+```python
+from colorium import Color
+from functools import lru_cache
+
+@lru_cache(maxsize=1000)
+def cached_from_string(color_str):
+    """Cache color creation from strings"""
+    return from_string(color_str)
+
+def get_color_safe(color_str):
+    """Get color with caching and error handling"""
+    try:
+        return cached_from_string(color_str)
+    except:
+        return None
+
+# Use in integrations
+color = get_color_safe("red")
+if color:
+    print(color.to_hex_string())
+```
+
+## Next Steps
+
+- [Contributing](/docs/1.0.0/advanced/contributing) — How to contribute
+- [API Reference](/docs/1.0.0/api-reference) — Complete API documentation
+- [Changelog](/docs/1.0.0/changelog) — Version history
+
+---
+
+**Previous:** [Performance Tips](/docs/1.0.0/advanced/performance-tips)
+**Next:** [Contributing →](/docs/1.0.0/advanced/contributing)
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6"],["$L7","$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rOspHkskDPy_24awQLLsv"}
+5:["$","nav",null,{"aria-label":"pagination","className":"relative flex justify-between flex-wrap items-start w-full my-12 border-t border-gray-800 pt-8","children":[["$","$La",null,{"href":"/docs/1.0.0/getting-started/quick-start","className":"group p-1 rounded-md pr-2 pl-7 hover:bg-white/5 transition-all duration-200 hover:border-red-500/20","aria-label":"Go to previous page: Quick Start","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block","children":"Previous"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","$Lb",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left absolute -left-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}],["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Quick Start"}]]}]]}],["$","$La",null,{"href":"/docs/1.0.0/api-reference/filter-classes","className":"group p-1 rounded-md pl-2 pr-7 ml-auto hover:bg-white/5 transition-all duration-200","aria-label":"Go to next page: Filter Classes API","children":[["$","span",null,{"className":"text-sm text-gray-500 mb-0.5 transition-colors duration-200 group-hover:text-gray-300 block text-right","children":"Next"}],["$","div",null,{"className":"relative flex items-center gap-2","children":[["$","span",null,{"className":"text-base font-medium text-gray-300 group-hover:text-white transition-colors duration-200 max-w-[20em] truncate","children":"Filter Classes API"}],["$","$Lb",null,{"iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right absolute -right-6 h-5 w-5 text-gray-600 transition-colors duration-200 group-hover:text-red-400"}]]}]]}]]}]
+6:["$","$Lc",null,{"headings":[{"level":2,"text":"Overview","id":"overview"},{"level":2,"text":"Pillow Integration","id":"pillow-integration"},{"level":3,"text":"Extract Colors from Images","id":"extract-colors-from-images"},{"level":3,"text":"Color Palette Generator","id":"color-palette-generator"},{"level":2,"text":"NumPy Integration","id":"numpy-integration"},{"level":3,"text":"Color Array Operations","id":"color-array-operations"},{"level":3,"text":"Gradient Generation with NumPy","id":"gradient-generation-with-numpy"},{"level":2,"text":"Matplotlib Integration","id":"matplotlib-integration"},{"level":3,"text":"Color Palettes for Plots","id":"color-palettes-for-plots"},{"level":3,"text":"Color Mapping for Data Visualization","id":"color-mapping-for-data-visualization"},{"level":2,"text":"OpenCV Integration","id":"opencv-integration"},{"level":3,"text":"Color Space Conversion","id":"color-space-conversion"},{"level":2,"text":"Django Integration","id":"django-integration"},{"level":3,"text":"Custom Color Field","id":"custom-color-field"},{"level":3,"text":"Color Template Tag","id":"color-template-tag"},{"level":2,"text":"FastAPI Integration","id":"fastapi-integration"},{"level":3,"text":"Color Schema","id":"color-schema"},{"level":3,"text":"Color Utilities","id":"color-utilities"},{"level":2,"text":"Flask Integration","id":"flask-integration"},{"level":3,"text":"Color Utilities for Flask","id":"color-utilities-for-flask"},{"level":2,"text":"Best Practices","id":"best-practices"},{"level":3,"text":"Error Handling","id":"error-handling"},{"level":3,"text":"Performance Tips for Integration","id":"performance-tips-for-integration"},{"level":2,"text":"Next Steps","id":"next-steps"}]}]
+7:["$","script","script-0",{"src":"/colorium/_next/static/chunks/0_3c3i_21o3la.js","async":true}]
+8:["$","script","script-1",{"src":"/colorium/_next/static/chunks/23wbi_y1y2kbq.js","async":true}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null
