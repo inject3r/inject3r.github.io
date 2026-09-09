@@ -1,0 +1,214 @@
+{
+  "version": 3,
+  "pages404": true,
+  "appType": "app",
+  "caseSensitive": false,
+  "basePath": "/ip-address-database",
+  "redirects": [
+    {
+      "source": "/ip-address-database",
+      "destination": "/ip-address-database/",
+      "basePath": false,
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^/ip-address-database$"
+    },
+    {
+      "source": "/:file((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/]+\\.\\w+)/",
+      "destination": "/:file",
+      "internal": true,
+      "priority": true,
+      "missing": [
+        {
+          "type": "header",
+          "key": "x-nextjs-data"
+        }
+      ],
+      "statusCode": 308,
+      "regex": "^(?:/((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/]+\\.\\w+))/$"
+    },
+    {
+      "source": "/:notfile((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/\\.]+)",
+      "destination": "/:notfile/",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?!\\.well-known(?:/.*)?)(?:[^/]+/)*[^/\\.]+))$"
+    }
+  ],
+  "headers": [],
+  "onMatchHeaders": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [
+    {
+      "page": "/asn/[countryCode]",
+      "regex": "^/asn/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcountryCode": "nxtPcountryCode"
+      },
+      "namedRegex": "^/asn/(?<nxtPcountryCode>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/asn/[countryCode]/[asn]",
+      "regex": "^/asn/([^/]+?)/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcountryCode": "nxtPcountryCode",
+        "nxtPasn": "nxtPasn"
+      },
+      "namedRegex": "^/asn/(?<nxtPcountryCode>[^/]+?)/(?<nxtPasn>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/country/[countryCode]",
+      "regex": "^/country/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcountryCode": "nxtPcountryCode"
+      },
+      "namedRegex": "^/country/(?<nxtPcountryCode>[^/]+?)(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/asn",
+      "regex": "^/asn(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/asn(?:/)?$"
+    },
+    {
+      "page": "/changelog",
+      "regex": "^/changelog(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/changelog(?:/)?$"
+    },
+    {
+      "page": "/country",
+      "regex": "^/country(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/country(?:/)?$"
+    },
+    {
+      "page": "/docs",
+      "regex": "^/docs(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs(?:/)?$"
+    },
+    {
+      "page": "/docs/api/asn",
+      "regex": "^/docs/api/asn(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/api/asn(?:/)?$"
+    },
+    {
+      "page": "/docs/api/countries",
+      "regex": "^/docs/api/countries(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/api/countries(?:/)?$"
+    },
+    {
+      "page": "/docs/api/search",
+      "regex": "^/docs/api/search(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/api/search(?:/)?$"
+    },
+    {
+      "page": "/docs/formats/cidr",
+      "regex": "^/docs/formats/cidr(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/formats/cidr(?:/)?$"
+    },
+    {
+      "page": "/docs/formats/csv",
+      "regex": "^/docs/formats/csv(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/formats/csv(?:/)?$"
+    },
+    {
+      "page": "/docs/formats/json",
+      "regex": "^/docs/formats/json(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/formats/json(?:/)?$"
+    },
+    {
+      "page": "/docs/guides/asn-lookup",
+      "regex": "^/docs/guides/asn\\-lookup(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/guides/asn\\-lookup(?:/)?$"
+    },
+    {
+      "page": "/docs/guides/export",
+      "regex": "^/docs/guides/export(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/guides/export(?:/)?$"
+    },
+    {
+      "page": "/docs/guides/ip-lookup",
+      "regex": "^/docs/guides/ip\\-lookup(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/guides/ip\\-lookup(?:/)?$"
+    },
+    {
+      "page": "/docs/installation",
+      "regex": "^/docs/installation(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/installation(?:/)?$"
+    },
+    {
+      "page": "/docs/quick-start",
+      "regex": "^/docs/quick\\-start(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/quick\\-start(?:/)?$"
+    },
+    {
+      "page": "/favicon.ico",
+      "regex": "^/favicon\\.ico(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/favicon\\.ico(?:/)?$"
+    },
+    {
+      "page": "/stats",
+      "regex": "^/stats(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/stats(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

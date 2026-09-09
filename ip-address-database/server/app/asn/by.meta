@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/asn/layout,_N_T_/asn/[countryCode]/layout,_N_T_/asn/[countryCode]/page,_N_T_/asn/by"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/asn/$d$countryCode/__PAGE__",
+    "/asn/$d$countryCode",
+    "/asn",
+    "/_index",
+    "/_head"
+  ]
+}
