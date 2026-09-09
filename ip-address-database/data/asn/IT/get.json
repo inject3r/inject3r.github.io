@@ -8376,6 +8376,30 @@
     "domain": "openfiber.it"
   },
   {
+    "network": "94.33.225.0/24",
+    "asn": "210218",
+    "country_code": "IT",
+    "name": "OpenFiber-Italy",
+    "org": "Open Fiber S.P.A.",
+    "domain": "openfiber.it"
+  },
+  {
+    "network": "94.33.226.0/24",
+    "asn": "210218",
+    "country_code": "IT",
+    "name": "OpenFiber-Italy",
+    "org": "Open Fiber S.P.A.",
+    "domain": "openfiber.it"
+  },
+  {
+    "network": "94.33.227.0/24",
+    "asn": "210218",
+    "country_code": "IT",
+    "name": "OpenFiber-Italy",
+    "org": "Open Fiber S.P.A.",
+    "domain": "openfiber.it"
+  },
+  {
     "network": "94.103.126.0/24",
     "asn": "210218",
     "country_code": "IT",
@@ -15744,14 +15768,6 @@
     "domain": "c1vhosting.it"
   },
   {
-    "network": "2a05:4140:61::/48",
-    "asn": "212271",
-    "country_code": "IT",
-    "name": "C1V",
-    "org": "Cinzia Tocci trading as Lumanex Srl",
-    "domain": "c1vhosting.it"
-  },
-  {
     "network": "2a05:4140:62::/48",
     "asn": "212271",
     "country_code": "IT",
@@ -17400,6 +17416,14 @@
     "domain": "skylogic.it"
   },
   {
+    "network": "95.210.246.0/24",
+    "asn": "29286",
+    "country_code": "IT",
+    "name": "SKYLOGIC-AS",
+    "org": "SKYLOGIC S.P.A.",
+    "domain": "skylogic.it"
+  },
+  {
     "network": "95.210.254.0/24",
     "asn": "29286",
     "country_code": "IT",
@@ -17473,22 +17497,6 @@
   },
   {
     "network": "160.242.111.0/24",
-    "asn": "29286",
-    "country_code": "IT",
-    "name": "SKYLOGIC-AS",
-    "org": "SKYLOGIC S.P.A.",
-    "domain": "skylogic.it"
-  },
-  {
-    "network": "169.239.42.0/24",
-    "asn": "29286",
-    "country_code": "IT",
-    "name": "SKYLOGIC-AS",
-    "org": "SKYLOGIC S.P.A.",
-    "domain": "skylogic.it"
-  },
-  {
-    "network": "169.239.43.0/24",
     "asn": "29286",
     "country_code": "IT",
     "name": "SKYLOGIC-AS",
@@ -24672,14 +24680,6 @@
     "domain": "timenet.it"
   },
   {
-    "network": "80.66.212.0/24",
-    "asn": "51580",
-    "country_code": "IT",
-    "name": "TIMENET-AS",
-    "org": "TIMENET SPA",
-    "domain": "timenet.it"
-  },
-  {
     "network": "81.173.100.0/22",
     "asn": "51580",
     "country_code": "IT",
@@ -25046,22 +25046,6 @@
     "name": "AlmavivA",
     "org": "Almaviva S.p.A.",
     "domain": "almaviva.it"
-  },
-  {
-    "network": "5.175.169.0/24",
-    "asn": "219067",
-    "country_code": "IT",
-    "name": "CHIARA-AS",
-    "org": "Chiara Conti",
-    "domain": "eggywall.org"
-  },
-  {
-    "network": "107.150.72.0/24",
-    "asn": "219067",
-    "country_code": "IT",
-    "name": "CHIARA-AS",
-    "org": "Chiara Conti",
-    "domain": "eggywall.org"
   },
   {
     "network": "5.178.120.0/24",
@@ -25792,7 +25776,7 @@
     "domain": "sinergiatel.it"
   },
   {
-    "network": "5.182.68.0/22",
+    "network": "5.182.68.0/24",
     "asn": "205891",
     "country_code": "IT",
     "name": "WENETWORK",
@@ -25800,7 +25784,55 @@
     "domain": "wenetworksrl.it"
   },
   {
-    "network": "185.55.212.0/22",
+    "network": "5.182.69.0/24",
+    "asn": "205891",
+    "country_code": "IT",
+    "name": "WENETWORK",
+    "org": "WeNetwork SRL",
+    "domain": "wenetworksrl.it"
+  },
+  {
+    "network": "5.182.70.0/24",
+    "asn": "205891",
+    "country_code": "IT",
+    "name": "WENETWORK",
+    "org": "WeNetwork SRL",
+    "domain": "wenetworksrl.it"
+  },
+  {
+    "network": "5.182.71.0/24",
+    "asn": "205891",
+    "country_code": "IT",
+    "name": "WENETWORK",
+    "org": "WeNetwork SRL",
+    "domain": "wenetworksrl.it"
+  },
+  {
+    "network": "185.55.212.0/24",
+    "asn": "205891",
+    "country_code": "IT",
+    "name": "WENETWORK",
+    "org": "WeNetwork SRL",
+    "domain": "wenetworksrl.it"
+  },
+  {
+    "network": "185.55.213.0/24",
+    "asn": "205891",
+    "country_code": "IT",
+    "name": "WENETWORK",
+    "org": "WeNetwork SRL",
+    "domain": "wenetworksrl.it"
+  },
+  {
+    "network": "185.55.214.0/24",
+    "asn": "205891",
+    "country_code": "IT",
+    "name": "WENETWORK",
+    "org": "WeNetwork SRL",
+    "domain": "wenetworksrl.it"
+  },
+  {
+    "network": "185.55.215.0/24",
     "asn": "205891",
     "country_code": "IT",
     "name": "WENETWORK",
@@ -26601,14 +26633,6 @@
   },
   {
     "network": "2a00:6d40::/32",
-    "asn": "31034",
-    "country_code": "IT",
-    "name": "ARUBA-ASN",
-    "org": "Aruba S.p.A.",
-    "domain": "aruba.it"
-  },
-  {
-    "network": "2a00:6d40:5::/48",
     "asn": "31034",
     "country_code": "IT",
     "name": "ARUBA-ASN",
@@ -31120,6 +31144,22 @@
     "domain": "netjoin.it"
   },
   {
+    "network": "185.26.198.0/24",
+    "asn": "64445",
+    "country_code": "IT",
+    "name": "AS-NETJOIN",
+    "org": "NetJoin srl",
+    "domain": "netjoin.it"
+  },
+  {
+    "network": "185.26.199.0/24",
+    "asn": "64445",
+    "country_code": "IT",
+    "name": "AS-NETJOIN",
+    "org": "NetJoin srl",
+    "domain": "netjoin.it"
+  },
+  {
     "network": "185.184.240.0/24",
     "asn": "64445",
     "country_code": "IT",
@@ -35313,6 +35353,14 @@
   },
   {
     "network": "193.218.176.0/22",
+    "asn": "202761",
+    "country_code": "IT",
+    "name": "microservizi",
+    "org": "Linguanti Claudia trading as Micro Servizi",
+    "domain": "oro-net.it"
+  },
+  {
+    "network": "212.48.160.0/22",
     "asn": "202761",
     "country_code": "IT",
     "name": "microservizi",
@@ -55835,7 +55883,7 @@
     "network": "87.76.220.0/24",
     "asn": "198316",
     "country_code": "IT",
-    "name": "neoflux",
+    "name": "NEOFLUX",
     "org": "Neoflux SRLS",
     "domain": "neoflux.it"
   },
@@ -62728,6 +62776,14 @@
     "domain": "hytel.it"
   },
   {
+    "network": "107.150.72.0/24",
+    "asn": "219067",
+    "country_code": "IT",
+    "name": "CHIARA-AS",
+    "org": "Chiara Conti",
+    "domain": "eggywall.org"
+  },
+  {
     "network": "109.68.24.0/21",
     "asn": "49733",
     "country_code": "IT",
@@ -64801,6 +64857,14 @@
   },
   {
     "network": "2a06:a002:153::/48",
+    "asn": "215760",
+    "country_code": "IT",
+    "name": "DISPAISY-AS",
+    "org": "Adam Grazioli",
+    "domain": "dispaisy.systems"
+  },
+  {
+    "network": "2a06:a002:a010::/44",
     "asn": "215760",
     "country_code": "IT",
     "name": "DISPAISY-AS",
@@ -66896,14 +66960,6 @@
     "domain": "as59715.net"
   },
   {
-    "network": "185.5.202.0/24",
-    "asn": "59715",
-    "country_code": "IT",
-    "name": "SBTAP-AS",
-    "org": "Comune di San Benedetto del Tronto",
-    "domain": "as59715.net"
-  },
-  {
     "network": "185.5.203.0/24",
     "asn": "59715",
     "country_code": "IT",
@@ -66921,14 +66977,6 @@
   },
   {
     "network": "2a02:cdc6:3074::/48",
-    "asn": "59715",
-    "country_code": "IT",
-    "name": "SBTAP-AS",
-    "org": "Comune di San Benedetto del Tronto",
-    "domain": "as59715.net"
-  },
-  {
-    "network": "2a02:cdc6:3100::/48",
     "asn": "59715",
     "country_code": "IT",
     "name": "SBTAP-AS",
@@ -67214,38 +67262,6 @@
     "name": "NETHUN-AS",
     "org": "APV INVESTIMENTI S.P.A.",
     "domain": "nethun.it"
-  },
-  {
-    "network": "185.26.198.0/24",
-    "asn": "60432",
-    "country_code": "IT",
-    "name": "ASN-forisp",
-    "org": "4ISP SRL",
-    "domain": "4isp.it"
-  },
-  {
-    "network": "185.26.199.0/24",
-    "asn": "60432",
-    "country_code": "IT",
-    "name": "ASN-forisp",
-    "org": "4ISP SRL",
-    "domain": "4isp.it"
-  },
-  {
-    "network": "2a00:8c60:2::/48",
-    "asn": "60432",
-    "country_code": "IT",
-    "name": "ASN-forisp",
-    "org": "4ISP SRL",
-    "domain": "4isp.it"
-  },
-  {
-    "network": "2a00:8c60:3::/48",
-    "asn": "60432",
-    "country_code": "IT",
-    "name": "ASN-forisp",
-    "org": "4ISP SRL",
-    "domain": "4isp.it"
   },
   {
     "network": "185.28.52.0/22",
@@ -76040,6 +76056,14 @@
     "domain": "dangelo.mobi"
   },
   {
+    "network": "2a09:b280:ff60::/48",
+    "asn": "208753",
+    "country_code": "IT",
+    "name": "NETSIX",
+    "org": "Marco d'Angelo",
+    "domain": "dangelo.mobi"
+  },
+  {
     "network": "2a0c:b642:a00::/48",
     "asn": "208753",
     "country_code": "IT",
@@ -77504,6 +77528,14 @@
     "domain": "aetheron.network"
   },
   {
+    "network": "2a14:7581:9ff3::/48",
+    "asn": "219533",
+    "country_code": "IT",
+    "name": "Aetheron-Network",
+    "org": "FRANCESCO BIONDI",
+    "domain": "aetheron.network"
+  },
+  {
     "network": "2a14:7581:9ff4::/48",
     "asn": "219533",
     "country_code": "IT",
@@ -77704,12 +77736,36 @@
     "domain": "rob3d.it"
   },
   {
+    "network": "2a00:8c60:2::/48",
+    "asn": "60432",
+    "country_code": "IT",
+    "name": "ASN-forisp",
+    "org": "4ISP SRL",
+    "domain": "4isp.it"
+  },
+  {
+    "network": "2a00:8c60:3::/48",
+    "asn": "60432",
+    "country_code": "IT",
+    "name": "ASN-forisp",
+    "org": "4ISP SRL",
+    "domain": "4isp.it"
+  },
+  {
     "network": "2a02:54a0::/48",
     "asn": "213844",
     "country_code": "IT",
     "name": "ARMADA_IPV6_VEN",
     "org": "Fabio Mascio",
     "domain": "hostingperte.it"
+  },
+  {
+    "network": "2a02:e2c0::/29",
+    "asn": "47224",
+    "country_code": "IT",
+    "name": "NOVERCA-AS",
+    "org": "Telecom Italia S.p.A.",
+    "domain": ""
   },
   {
     "network": "2a05:4140:304::/48",

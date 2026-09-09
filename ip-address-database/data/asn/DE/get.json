@@ -1736,6 +1736,22 @@
     "domain": "netcup.de"
   },
   {
+    "network": "62.83.0.0/22",
+    "asn": "197540",
+    "country_code": "DE",
+    "name": "netcup-AS",
+    "org": "netcup GmbH",
+    "domain": "netcup.de"
+  },
+  {
+    "network": "62.83.4.0/22",
+    "asn": "197540",
+    "country_code": "DE",
+    "name": "netcup-AS",
+    "org": "netcup GmbH",
+    "domain": "netcup.de"
+  },
+  {
     "network": "77.90.156.0/23",
     "asn": "197540",
     "country_code": "DE",
@@ -7521,6 +7537,14 @@
   },
   {
     "network": "62.129.150.0/24",
+    "asn": "216063",
+    "country_code": "DE",
+    "name": "TWENTYFOURFIRE",
+    "org": "24fire GmbH",
+    "domain": "24fire-gmbh.de"
+  },
+  {
+    "network": "62.129.151.0/24",
     "asn": "216063",
     "country_code": "DE",
     "name": "TWENTYFOURFIRE",
@@ -22736,22 +22760,6 @@
     "domain": "internetnord.se"
   },
   {
-    "network": "147.79.12.0/24",
-    "asn": "207821",
-    "country_code": "DE",
-    "name": "internetbolaget-de",
-    "org": "IN InternetNord GmbH",
-    "domain": "internetnord.se"
-  },
-  {
-    "network": "147.79.13.0/24",
-    "asn": "207821",
-    "country_code": "DE",
-    "name": "internetbolaget-de",
-    "org": "IN InternetNord GmbH",
-    "domain": "internetnord.se"
-  },
-  {
     "network": "147.79.15.0/24",
     "asn": "207821",
     "country_code": "DE",
@@ -23745,6 +23753,14 @@
   },
   {
     "network": "194.238.79.0/24",
+    "asn": "58212",
+    "country_code": "DE",
+    "name": "DATAFOREST",
+    "org": "dataforest GmbH",
+    "domain": "dataforest.net"
+  },
+  {
+    "network": "212.87.204.0/24",
     "asn": "58212",
     "country_code": "DE",
     "name": "DATAFOREST",
@@ -40376,14 +40392,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "5.230.75.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "5.230.76.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -52728,6 +52736,14 @@
     "domain": "t-w.dev"
   },
   {
+    "network": "2a0e:b107:27fc::/48",
+    "asn": "215828",
+    "country_code": "DE",
+    "name": "TMW-Global-Networks",
+    "org": "Tizian Maxime Weigt trading as \"TMW Global Networks\"",
+    "domain": "t-w.dev"
+  },
+  {
     "network": "2a0e:b107:27fd::/48",
     "asn": "215828",
     "country_code": "DE",
@@ -57497,123 +57513,83 @@
   },
   {
     "network": "5.253.8.0/22",
-    "asn": "199163",
+    "asn": "34191",
     "country_code": "DE",
-    "name": "UBL-IS-ASN",
+    "name": "DGBS-NUE-DE-AS",
     "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
+    "domain": "all.de"
   },
   {
     "network": "5.253.92.0/22",
-    "asn": "199163",
+    "asn": "34191",
     "country_code": "DE",
-    "name": "UBL-IS-ASN",
+    "name": "DGBS-NUE-DE-AS",
     "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
+    "domain": "all.de"
   },
   {
-    "network": "81.91.16.0/21",
-    "asn": "199163",
+    "network": "185.213.32.0/22",
+    "asn": "34191",
     "country_code": "DE",
-    "name": "UBL-IS-ASN",
+    "name": "DGBS-NUE-DE-AS",
     "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
+    "domain": "all.de"
   },
   {
-    "network": "81.91.16.0/24",
-    "asn": "199163",
+    "network": "185.213.32.0/24",
+    "asn": "34191",
     "country_code": "DE",
-    "name": "UBL-IS-ASN",
+    "name": "DGBS-NUE-DE-AS",
     "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
+    "domain": "all.de"
   },
   {
-    "network": "185.121.68.0/24",
-    "asn": "199163",
+    "network": "185.213.33.0/24",
+    "asn": "34191",
     "country_code": "DE",
-    "name": "UBL-IS-ASN",
+    "name": "DGBS-NUE-DE-AS",
     "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
+    "domain": "all.de"
   },
   {
-    "network": "185.133.8.0/22",
-    "asn": "199163",
+    "network": "185.213.34.0/24",
+    "asn": "34191",
     "country_code": "DE",
-    "name": "UBL-IS-ASN",
+    "name": "DGBS-NUE-DE-AS",
     "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
+    "domain": "all.de"
   },
   {
-    "network": "185.161.156.0/22",
-    "asn": "199163",
+    "network": "185.224.240.0/23",
+    "asn": "34191",
     "country_code": "DE",
-    "name": "UBL-IS-ASN",
+    "name": "DGBS-NUE-DE-AS",
     "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
+    "domain": "all.de"
   },
   {
-    "network": "185.163.36.0/22",
-    "asn": "199163",
+    "network": "194.145.239.0/24",
+    "asn": "34191",
     "country_code": "DE",
-    "name": "UBL-IS-ASN",
+    "name": "DGBS-NUE-DE-AS",
     "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
+    "domain": "all.de"
   },
   {
-    "network": "185.169.124.0/22",
-    "asn": "199163",
+    "network": "2a0c:ed80::/29",
+    "asn": "34191",
     "country_code": "DE",
-    "name": "UBL-IS-ASN",
+    "name": "DGBS-NUE-DE-AS",
     "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
+    "domain": "all.de"
   },
   {
-    "network": "195.216.255.0/24",
-    "asn": "199163",
+    "network": "2a0c:ed80:2::/48",
+    "asn": "34191",
     "country_code": "DE",
-    "name": "UBL-IS-ASN",
+    "name": "DGBS-NUE-DE-AS",
     "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
-  },
-  {
-    "network": "2a01:ae40::/32",
-    "asn": "199163",
-    "country_code": "DE",
-    "name": "UBL-IS-ASN",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
-  },
-  {
-    "network": "2a05:cf40::/29",
-    "asn": "199163",
-    "country_code": "DE",
-    "name": "UBL-IS-ASN",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
-  },
-  {
-    "network": "2a07:c600::/29",
-    "asn": "199163",
-    "country_code": "DE",
-    "name": "UBL-IS-ASN",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
-  },
-  {
-    "network": "2a0a:4500::/29",
-    "asn": "199163",
-    "country_code": "DE",
-    "name": "UBL-IS-ASN",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
-  },
-  {
-    "network": "2a0a:9800::/29",
-    "asn": "199163",
-    "country_code": "DE",
-    "name": "UBL-IS-ASN",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "datagroup.de"
+    "domain": "all.de"
   },
   {
     "network": "5.253.192.0/22",
@@ -64145,14 +64121,6 @@
   },
   {
     "network": "104.156.138.0/24",
-    "asn": "49585",
-    "country_code": "DE",
-    "name": "COREROUTE-AS",
-    "org": "CoreRoute UG",
-    "domain": "coreroute.de"
-  },
-  {
-    "network": "104.156.139.0/24",
     "asn": "49585",
     "country_code": "DE",
     "name": "COREROUTE-AS",
@@ -73376,6 +73344,14 @@
     "domain": "link11.de"
   },
   {
+    "network": "194.191.16.0/24",
+    "asn": "34309",
+    "country_code": "DE",
+    "name": "LINK11",
+    "org": "Link11 GmbH",
+    "domain": "link11.de"
+  },
+  {
     "network": "2001:678:3a8::/48",
     "asn": "34309",
     "country_code": "DE",
@@ -79728,6 +79704,14 @@
     "domain": "soprado.com"
   },
   {
+    "network": "185.158.156.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
     "network": "193.0.248.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -80121,14 +80105,6 @@
   },
   {
     "network": "2a02:cb43:8004::/48",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
-    "network": "2a02:cb43:8006::/48",
     "asn": "20546",
     "country_code": "DE",
     "name": "SOPRADO-ANY",
@@ -82129,6 +82105,14 @@
   },
   {
     "network": "44.31.32.0/24",
+    "asn": "215563",
+    "country_code": "DE",
+    "name": "Luke-IT",
+    "org": "Lukas Buttler trading as Luke IT consulting",
+    "domain": "luke-it.de"
+  },
+  {
+    "network": "91.223.183.0/24",
     "asn": "215563",
     "country_code": "DE",
     "name": "Luke-IT",
@@ -84857,6 +84841,22 @@
   },
   {
     "network": "45.12.171.0/24",
+    "asn": "219090",
+    "country_code": "DE",
+    "name": "FIBERGARDEN",
+    "org": "Temporaerhaus e.V.",
+    "domain": "temporaerhaus.de"
+  },
+  {
+    "network": "2001:678:12d8::/48",
+    "asn": "219090",
+    "country_code": "DE",
+    "name": "FIBERGARDEN",
+    "org": "Temporaerhaus e.V.",
+    "domain": "temporaerhaus.de"
+  },
+  {
+    "network": "2001:678:12dc::/48",
     "asn": "219090",
     "country_code": "DE",
     "name": "FIBERGARDEN",
@@ -88900,7 +88900,7 @@
     "asn": "208028",
     "country_code": "DE",
     "name": "saengerio-loeh",
-    "org": "Saenger.IO GmbH",
+    "org": "Saenger Geschaftsfuhrungs GmbH",
     "domain": "saenger.io"
   },
   {
@@ -110280,14 +110280,6 @@
     "domain": "nrdmnn.net"
   },
   {
-    "network": "2a14:5140:400::/40",
-    "asn": "214865",
-    "country_code": "DE",
-    "name": "NRDMNN",
-    "org": "Falco Nordmann",
-    "domain": "nrdmnn.net"
-  },
-  {
     "network": "2a14:5140:500::/40",
     "asn": "214865",
     "country_code": "DE",
@@ -111401,22 +111393,6 @@
   },
   {
     "network": "91.195.240.0/23",
-    "asn": "47846",
-    "country_code": "DE",
-    "name": "SEDO-AS",
-    "org": "SEDO GmbH",
-    "domain": "internetx.com"
-  },
-  {
-    "network": "91.195.240.0/24",
-    "asn": "47846",
-    "country_code": "DE",
-    "name": "SEDO-AS",
-    "org": "SEDO GmbH",
-    "domain": "internetx.com"
-  },
-  {
-    "network": "91.195.241.0/24",
     "asn": "47846",
     "country_code": "DE",
     "name": "SEDO-AS",
@@ -112753,14 +112729,6 @@
   },
   {
     "network": "2a14:6f42:ace::/48",
-    "asn": "200242",
-    "country_code": "DE",
-    "name": "de-theirs",
-    "org": "Ember Ana Reimer",
-    "domain": "thei.rs"
-  },
-  {
-    "network": "2a14:6f42:1347::/48",
     "asn": "200242",
     "country_code": "DE",
     "name": "de-theirs",
@@ -119744,6 +119712,14 @@
     "domain": "telekom.de"
   },
   {
+    "network": "80.159.233.0/24",
+    "asn": "2792",
+    "country_code": "DE",
+    "name": "TERASTREAM-AS",
+    "org": "Deutsche Telekom AG",
+    "domain": "telekom.de"
+  },
+  {
     "network": "80.159.234.0/24",
     "asn": "2792",
     "country_code": "DE",
@@ -121312,14 +121288,6 @@
     "domain": "mw-id.io"
   },
   {
-    "network": "2a09:6305::/32",
-    "asn": "208208",
-    "country_code": "DE",
-    "name": "CYBERSE",
-    "org": "Marco Lingl trading as Cyberse GmbH & Co. KG",
-    "domain": "mw-id.io"
-  },
-  {
     "network": "2a09:6306::/32",
     "asn": "208208",
     "country_code": "DE",
@@ -121528,14 +121496,6 @@
     "domain": "dts-online.net"
   },
   {
-    "network": "212.101.203.0/24",
-    "asn": "8879",
-    "country_code": "DE",
-    "name": "DTS-Systeme",
-    "org": "DTS Systeme GmbH",
-    "domain": "dts-online.net"
-  },
-  {
     "network": "2a00:1348::/32",
     "asn": "8879",
     "country_code": "DE",
@@ -121614,6 +121574,118 @@
     "name": "CMO-AS",
     "org": "CMO Internet Dienstleistungen GmbH",
     "domain": "cmo.de"
+  },
+  {
+    "network": "81.91.16.0/21",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "81.91.16.0/24",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "81.91.23.0/24",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "185.121.68.0/24",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "185.133.8.0/22",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "185.161.156.0/22",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "185.163.36.0/22",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "185.169.124.0/22",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "195.216.255.0/24",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "2a01:ae40::/32",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "2a05:cf40::/29",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "2a07:c600::/29",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "2a0a:4500::/29",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
+  },
+  {
+    "network": "2a0a:9800::/29",
+    "asn": "199163",
+    "country_code": "DE",
+    "name": "UBL-IS-ASN",
+    "org": "DATAGROUP Operations GmbH",
+    "domain": "datagroup.de"
   },
   {
     "network": "81.91.160.0/20",
@@ -135176,94 +135248,6 @@
     "domain": "core-backbone.com"
   },
   {
-    "network": "2a06:4b01:3309::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:330a::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:330c::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:330e::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3310::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3311::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3312::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3313::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3314::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3315::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3316::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
     "network": "2a06:4b01:3318::/48",
     "asn": "51191",
     "country_code": "DE",
@@ -135552,14 +135536,6 @@
     "domain": "core-backbone.com"
   },
   {
-    "network": "2a06:4b01:3340::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
     "network": "2a06:4b01:3341::/48",
     "asn": "51191",
     "country_code": "DE",
@@ -135624,23 +135600,7 @@
     "domain": "core-backbone.com"
   },
   {
-    "network": "2a06:4b01:334b::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
     "network": "2a06:4b01:334c::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:334d::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -135776,14 +135736,6 @@
     "domain": "core-backbone.com"
   },
   {
-    "network": "2a06:4b01:3360::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
     "network": "2a06:4b01:3361::/48",
     "asn": "51191",
     "country_code": "DE",
@@ -135872,14 +135824,6 @@
     "domain": "core-backbone.com"
   },
   {
-    "network": "2a06:4b01:336c::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
     "network": "2a06:4b01:336d::/48",
     "asn": "51191",
     "country_code": "DE",
@@ -135904,62 +135848,6 @@
     "domain": "core-backbone.com"
   },
   {
-    "network": "2a06:4b01:3370::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3371::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3372::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3373::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3374::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3375::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3376::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
     "network": "2a06:4b01:3377::/48",
     "asn": "51191",
     "country_code": "DE",
@@ -135969,22 +135857,6 @@
   },
   {
     "network": "2a06:4b01:3378::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3379::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:337a::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -136024,7 +135896,47 @@
     "domain": "core-backbone.com"
   },
   {
+    "network": "2a06:4b01:33e2::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:33e5::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:33e6::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:33e7::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
     "network": "2a06:4b01:33e8::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:33ea::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -136048,6 +135960,22 @@
     "domain": "core-backbone.com"
   },
   {
+    "network": "2a06:4b01:33f2::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:33f3::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
     "network": "2a06:4b01:33f8::/48",
     "asn": "51191",
     "country_code": "DE",
@@ -136056,7 +135984,55 @@
     "domain": "core-backbone.com"
   },
   {
+    "network": "2a06:4b01:33f9::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:33fa::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:33fb::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
     "network": "2a06:4b01:33fc::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:33fd::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:33fe::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:33ff::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -136184,6 +136160,62 @@
     "domain": "core-backbone.com"
   },
   {
+    "network": "2a06:4b01:344e::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:344f::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:3451::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:3452::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:3453::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:3454::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:3455::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
     "network": "2a06:4b01:345a::/48",
     "asn": "51191",
     "country_code": "DE",
@@ -136193,6 +136225,38 @@
   },
   {
     "network": "2a06:4b01:345b::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:3477::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:34e2::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:34e7::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:34ea::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -136216,7 +136280,7 @@
     "domain": "core-backbone.com"
   },
   {
-    "network": "2a06:4b01:350c::/48",
+    "network": "2a06:4b01:34f2::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -136224,7 +136288,15 @@
     "domain": "core-backbone.com"
   },
   {
-    "network": "2a06:4b01:3515::/48",
+    "network": "2a06:4b01:34f3::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:34f9::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -136520,14 +136592,6 @@
     "domain": "core-backbone.com"
   },
   {
-    "network": "2a06:4b01:3540::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
     "network": "2a06:4b01:3541::/48",
     "asn": "51191",
     "country_code": "DE",
@@ -136592,23 +136656,7 @@
     "domain": "core-backbone.com"
   },
   {
-    "network": "2a06:4b01:354b::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
     "network": "2a06:4b01:354c::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:354d::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -136696,6 +136744,22 @@
     "domain": "core-backbone.com"
   },
   {
+    "network": "2a06:4b01:355a::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:355b::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
     "network": "2a06:4b01:355c::/48",
     "asn": "51191",
     "country_code": "DE",
@@ -136721,14 +136785,6 @@
   },
   {
     "network": "2a06:4b01:355f::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:3560::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -136817,14 +136873,6 @@
   },
   {
     "network": "2a06:4b01:356b::/48",
-    "asn": "51191",
-    "country_code": "DE",
-    "name": "XIRRA",
-    "org": "Core-Backbone GmbH",
-    "domain": "core-backbone.com"
-  },
-  {
-    "network": "2a06:4b01:356c::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -136976,7 +137024,55 @@
     "domain": "core-backbone.com"
   },
   {
+    "network": "2a06:4b01:35e2::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35e4::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35e5::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35e6::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35e7::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
     "network": "2a06:4b01:35e8::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35ea::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -137000,6 +137096,62 @@
     "domain": "core-backbone.com"
   },
   {
+    "network": "2a06:4b01:35f1::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35f2::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35f3::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35f4::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35f5::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35f6::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35f7::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
     "network": "2a06:4b01:35f8::/48",
     "asn": "51191",
     "country_code": "DE",
@@ -137008,7 +137160,55 @@
     "domain": "core-backbone.com"
   },
   {
+    "network": "2a06:4b01:35f9::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35fa::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35fb::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
     "network": "2a06:4b01:35fc::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35fd::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35fe::/48",
+    "asn": "51191",
+    "country_code": "DE",
+    "name": "XIRRA",
+    "org": "Core-Backbone GmbH",
+    "domain": "core-backbone.com"
+  },
+  {
+    "network": "2a06:4b01:35ff::/48",
     "asn": "51191",
     "country_code": "DE",
     "name": "XIRRA",
@@ -139491,7 +139691,7 @@
     "network": "94.154.0.0/24",
     "asn": "13282",
     "country_code": "DE",
-    "name": "UNSPECIFIED",
+    "name": "FINANZINFORMATIK-AS-NSA",
     "org": "Finanz Informatik GmbH & Co. KG",
     "domain": "f-i.de"
   },
@@ -139499,7 +139699,7 @@
     "network": "2a0f:f240::/32",
     "asn": "13282",
     "country_code": "DE",
-    "name": "UNSPECIFIED",
+    "name": "FINANZINFORMATIK-AS-NSA",
     "org": "Finanz Informatik GmbH & Co. KG",
     "domain": "f-i.de"
   },
@@ -140910,38 +141110,6 @@
     "name": "ENTERPRISYS",
     "org": "Wolf-Steve Niebuhr",
     "domain": "enterprisys.net"
-  },
-  {
-    "network": "104.167.26.0/23",
-    "asn": "216067",
-    "country_code": "DE",
-    "name": "AS216067",
-    "org": "BHS Solutions GmbH",
-    "domain": "bhs.solutions"
-  },
-  {
-    "network": "176.116.4.0/24",
-    "asn": "216067",
-    "country_code": "DE",
-    "name": "AS216067",
-    "org": "BHS Solutions GmbH",
-    "domain": "bhs.solutions"
-  },
-  {
-    "network": "185.188.16.0/24",
-    "asn": "216067",
-    "country_code": "DE",
-    "name": "AS216067",
-    "org": "BHS Solutions GmbH",
-    "domain": "bhs.solutions"
-  },
-  {
-    "network": "217.114.35.0/24",
-    "asn": "216067",
-    "country_code": "DE",
-    "name": "AS216067",
-    "org": "BHS Solutions GmbH",
-    "domain": "bhs.solutions"
   },
   {
     "network": "104.204.244.0/22",
@@ -151283,7 +151451,7 @@
     "network": "141.98.139.0/24",
     "asn": "202351",
     "country_code": "DE",
-    "name": "FRICKEL-NETWORK",
+    "name": "INTERNET-SCHMIEDE",
     "org": "Jan Gilla",
     "domain": "level66.network"
   },
@@ -151291,7 +151459,7 @@
     "network": "2a09:11c0:2000::/36",
     "asn": "202351",
     "country_code": "DE",
-    "name": "FRICKEL-NETWORK",
+    "name": "INTERNET-SCHMIEDE",
     "org": "Jan Gilla",
     "domain": "level66.network"
   },
@@ -153118,6 +153286,30 @@
     "name": "magellan-AS",
     "org": "Axians magellan GmbH",
     "domain": "magellan-net.de"
+  },
+  {
+    "network": "149.170.176.0/24",
+    "asn": "218791",
+    "country_code": "DE",
+    "name": "BetterWorx",
+    "org": "BetterWorx GmbH",
+    "domain": "guelden.net"
+  },
+  {
+    "network": "149.170.177.0/24",
+    "asn": "218791",
+    "country_code": "DE",
+    "name": "BetterWorx",
+    "org": "BetterWorx GmbH",
+    "domain": "guelden.net"
+  },
+  {
+    "network": "2001:678:1314::/48",
+    "asn": "218791",
+    "country_code": "DE",
+    "name": "BetterWorx",
+    "org": "BetterWorx GmbH",
+    "domain": "guelden.net"
   },
   {
     "network": "149.206.168.0/23",
@@ -160792,6 +160984,22 @@
     "domain": "zexotek.de"
   },
   {
+    "network": "176.116.4.0/24",
+    "asn": "216067",
+    "country_code": "DE",
+    "name": "AS216067",
+    "org": "BHS Solutions GmbH",
+    "domain": "bhs.solutions"
+  },
+  {
+    "network": "217.114.35.0/24",
+    "asn": "216067",
+    "country_code": "DE",
+    "name": "AS216067",
+    "org": "BHS Solutions GmbH",
+    "domain": "bhs.solutions"
+  },
+  {
     "network": "176.118.177.0/24",
     "asn": "215004",
     "country_code": "DE",
@@ -166145,14 +166353,6 @@
   },
   {
     "network": "185.90.174.0/24",
-    "asn": "200941",
-    "country_code": "DE",
-    "name": "vioma",
-    "org": "vioma GmbH",
-    "domain": "vioma.de"
-  },
-  {
-    "network": "185.90.175.0/24",
     "asn": "200941",
     "country_code": "DE",
     "name": "vioma",
@@ -173000,142 +173200,6 @@
     "domain": "unternehmertum.de"
   },
   {
-    "network": "185.198.70.0/24",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0::/32",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0:1::/48",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0:2::/48",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0:3::/48",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0:4::/48",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0:5::/48",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0:6::/48",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0:8::/48",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0:9::/48",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0:ff::/48",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c0:cafe::/48",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c1::/32",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c2::/32",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c3::/32",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c4::/32",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
-    "network": "2a11:6c5::/32",
-    "asn": "211083",
-    "country_code": "DE",
-    "name": "ServerGurus",
-    "org": "ServerGurus UG",
-    "domain": "servergurus.de"
-  },
-  {
     "network": "185.198.148.0/22",
     "asn": "30915",
     "country_code": "DE",
@@ -173886,70 +173950,6 @@
     "name": "Tresides",
     "org": "Tresides Asset Management GmbH",
     "domain": "tresides.de"
-  },
-  {
-    "network": "185.213.32.0/22",
-    "asn": "34191",
-    "country_code": "DE",
-    "name": "DGBS-NUE-DE-AS",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "all.de"
-  },
-  {
-    "network": "185.213.32.0/24",
-    "asn": "34191",
-    "country_code": "DE",
-    "name": "DGBS-NUE-DE-AS",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "all.de"
-  },
-  {
-    "network": "185.213.33.0/24",
-    "asn": "34191",
-    "country_code": "DE",
-    "name": "DGBS-NUE-DE-AS",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "all.de"
-  },
-  {
-    "network": "185.213.34.0/24",
-    "asn": "34191",
-    "country_code": "DE",
-    "name": "DGBS-NUE-DE-AS",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "all.de"
-  },
-  {
-    "network": "185.224.240.0/23",
-    "asn": "34191",
-    "country_code": "DE",
-    "name": "DGBS-NUE-DE-AS",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "all.de"
-  },
-  {
-    "network": "194.145.239.0/24",
-    "asn": "34191",
-    "country_code": "DE",
-    "name": "DGBS-NUE-DE-AS",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "all.de"
-  },
-  {
-    "network": "2a0c:ed80::/29",
-    "asn": "34191",
-    "country_code": "DE",
-    "name": "DGBS-NUE-DE-AS",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "all.de"
-  },
-  {
-    "network": "2a0c:ed80:2::/48",
-    "asn": "34191",
-    "country_code": "DE",
-    "name": "DGBS-NUE-DE-AS",
-    "org": "DATAGROUP Operations GmbH",
-    "domain": "all.de"
   },
   {
     "network": "185.213.128.0/22",
@@ -184368,6 +184368,14 @@
     "domain": "nemsis.de"
   },
   {
+    "network": "2001:678:aa0::/48",
+    "asn": "208614",
+    "country_code": "DE",
+    "name": "AS-NEMSIS",
+    "org": "Nemsis Technologies GmbH & Co.KG",
+    "domain": "nemsis.de"
+  },
+  {
     "network": "194.145.236.0/24",
     "asn": "34193",
     "country_code": "DE",
@@ -188808,14 +188816,6 @@
     "domain": "lukastautz.de"
   },
   {
-    "network": "2a14:7580:f100::/48",
-    "asn": "202986",
-    "country_code": "DE",
-    "name": "LUKASTAUTZ",
-    "org": "Lukas Tautz",
-    "domain": "lukastautz.de"
-  },
-  {
     "network": "2001:678:1290::/48",
     "asn": "197361",
     "country_code": "DE",
@@ -188838,14 +188838,6 @@
     "name": "FUNDIN-AS",
     "org": "Philipp Lohnes",
     "domain": "dev-pts.de"
-  },
-  {
-    "network": "2001:678:1314::/48",
-    "asn": "218791",
-    "country_code": "DE",
-    "name": "BetterWorx",
-    "org": "BetterWorx GmbH",
-    "domain": "guelden.net"
   },
   {
     "network": "2001:67c:14c::/48",
@@ -189728,6 +189720,14 @@
     "domain": "internetworx.com"
   },
   {
+    "network": "2a03:6947:1400::/40",
+    "asn": "59819",
+    "country_code": "DE",
+    "name": "JWEMEA-AS",
+    "org": "Jehovas Zeugen in Deutschland, K.d.O.R.",
+    "domain": "jw.org"
+  },
+  {
     "network": "2a03:6947:1500::/40",
     "asn": "59819",
     "country_code": "DE",
@@ -189854,6 +189854,22 @@
     "name": "Draphago-Network-Services",
     "org": "Sven Wagner",
     "domain": "draphago.de"
+  },
+  {
+    "network": "2a06:1283:890d::/48",
+    "asn": "216367",
+    "country_code": "DE",
+    "name": "FUSSELIG",
+    "org": "Tim Oberthuer",
+    "domain": "fusselig.xyz"
+  },
+  {
+    "network": "2a14:7585:a300::/48",
+    "asn": "216367",
+    "country_code": "DE",
+    "name": "FUSSELIG",
+    "org": "Tim Oberthuer",
+    "domain": "fusselig.xyz"
   },
   {
     "network": "2a06:1283:bd40::/42",
@@ -190475,7 +190491,7 @@
     "network": "2a09:54c3:6005::/48",
     "asn": "219418",
     "country_code": "DE",
-    "name": "Jan-Hill",
+    "name": "eHILL-MEDIA",
     "org": "Jan Hill",
     "domain": "abuse-monitor.de"
   },
@@ -190483,7 +190499,7 @@
     "network": "2a09:54c3:6008::/48",
     "asn": "219418",
     "country_code": "DE",
-    "name": "Jan-Hill",
+    "name": "eHILL-MEDIA",
     "org": "Jan Hill",
     "domain": "abuse-monitor.de"
   },
@@ -190491,7 +190507,7 @@
     "network": "2a0f:6280:1600::/48",
     "asn": "219418",
     "country_code": "DE",
-    "name": "Jan-Hill",
+    "name": "eHILL-MEDIA",
     "org": "Jan Hill",
     "domain": "abuse-monitor.de"
   },
@@ -190499,7 +190515,7 @@
     "network": "2a0f:6280:1601::/48",
     "asn": "219418",
     "country_code": "DE",
-    "name": "Jan-Hill",
+    "name": "eHILL-MEDIA",
     "org": "Jan Hill",
     "domain": "abuse-monitor.de"
   },
@@ -190507,7 +190523,7 @@
     "network": "2a0f:6280:7010::/44",
     "asn": "219418",
     "country_code": "DE",
-    "name": "Jan-Hill",
+    "name": "eHILL-MEDIA",
     "org": "Jan Hill",
     "domain": "abuse-monitor.de"
   },
@@ -190515,7 +190531,7 @@
     "network": "2a13:c8c4:7018::/48",
     "asn": "219418",
     "country_code": "DE",
-    "name": "Jan-Hill",
+    "name": "eHILL-MEDIA",
     "org": "Jan Hill",
     "domain": "abuse-monitor.de"
   },
@@ -190523,7 +190539,7 @@
     "network": "2a13:c8c4:7019::/48",
     "asn": "219418",
     "country_code": "DE",
-    "name": "Jan-Hill",
+    "name": "eHILL-MEDIA",
     "org": "Jan Hill",
     "domain": "abuse-monitor.de"
   },
@@ -191048,14 +191064,6 @@
     "domain": "trynxt.com"
   },
   {
-    "network": "2a0b:4e07:2c01::/48",
-    "asn": "214223",
-    "country_code": "DE",
-    "name": "FPNET",
-    "org": "Luis Jakob Bartel",
-    "domain": "as214223.net"
-  },
-  {
     "network": "2a0b:4e07:2c03::/48",
     "asn": "214223",
     "country_code": "DE",
@@ -191477,7 +191485,7 @@
     "country_code": "DE",
     "name": "CARLFISCHER",
     "org": "Carl Fischer",
-    "domain": "carlfischer.de"
+    "domain": "as218928.net"
   },
   {
     "network": "2a0c:b642:900::/40",
@@ -192192,30 +192200,6 @@
     "domain": "4b42.com"
   },
   {
-    "network": "2a0e:97c0:4b39::/48",
-    "asn": "61218",
-    "country_code": "DE",
-    "name": "AS61218",
-    "org": "4b42 UG",
-    "domain": "4b42.com"
-  },
-  {
-    "network": "2a0e:97c0:4b44::/48",
-    "asn": "61218",
-    "country_code": "DE",
-    "name": "AS61218",
-    "org": "4b42 UG",
-    "domain": "4b42.com"
-  },
-  {
-    "network": "2a0e:97c0:4b4b::/48",
-    "asn": "61218",
-    "country_code": "DE",
-    "name": "AS61218",
-    "org": "4b42 UG",
-    "domain": "4b42.com"
-  },
-  {
     "network": "2a0e:97c0:4bff::/48",
     "asn": "61218",
     "country_code": "DE",
@@ -192638,14 +192622,6 @@
     "name": "BTOELLE",
     "org": "Benedikt Toelle",
     "domain": "rfc5514.org"
-  },
-  {
-    "network": "2a14:7585:a300::/48",
-    "asn": "216367",
-    "country_code": "DE",
-    "name": "FUSSELIG",
-    "org": "Tim Oberthuer",
-    "domain": "fusselig.xyz"
   },
   {
     "network": "2a14:b500::/29",

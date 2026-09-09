@@ -344,7 +344,7 @@
     "domain": "fusiora.com"
   },
   {
-    "network": "144.31.34.0/24",
+    "network": "169.128.70.0/24",
     "asn": "214693",
     "country_code": "EE",
     "name": "FUSIORA",
@@ -2368,6 +2368,14 @@
     "domain": "bifrost.systems"
   },
   {
+    "network": "79.98.39.0/24",
+    "asn": "48539",
+    "country_code": "EE",
+    "name": "bifrost-systems",
+    "org": "Bifrost Systems OU",
+    "domain": "bifrost.systems"
+  },
+  {
     "network": "87.192.81.0/24",
     "asn": "48539",
     "country_code": "EE",
@@ -2561,38 +2569,6 @@
   },
   {
     "network": "217.180.23.0/24",
-    "asn": "48539",
-    "country_code": "EE",
-    "name": "bifrost-systems",
-    "org": "Bifrost Systems OU",
-    "domain": "bifrost.systems"
-  },
-  {
-    "network": "2a11:6a00::/48",
-    "asn": "48539",
-    "country_code": "EE",
-    "name": "bifrost-systems",
-    "org": "Bifrost Systems OU",
-    "domain": "bifrost.systems"
-  },
-  {
-    "network": "2a12:2780::/48",
-    "asn": "48539",
-    "country_code": "EE",
-    "name": "bifrost-systems",
-    "org": "Bifrost Systems OU",
-    "domain": "bifrost.systems"
-  },
-  {
-    "network": "2a12:8200::/48",
-    "asn": "48539",
-    "country_code": "EE",
-    "name": "bifrost-systems",
-    "org": "Bifrost Systems OU",
-    "domain": "bifrost.systems"
-  },
-  {
-    "network": "2a12:ab00::/48",
     "asn": "48539",
     "country_code": "EE",
     "name": "bifrost-systems",
@@ -7600,6 +7576,14 @@
     "domain": "isif.net"
   },
   {
+    "network": "2a0a:6040:ad00::/40",
+    "asn": "209554",
+    "country_code": "EE",
+    "name": "ISIF-AS",
+    "org": "ISIF OU",
+    "domain": "isif.net"
+  },
+  {
     "network": "2a0b:1187:1000::/44",
     "asn": "209554",
     "country_code": "EE",
@@ -10366,6 +10350,14 @@
     "name": "EE-3NV-AS",
     "org": "3NV OU",
     "domain": "3nv.io"
+  },
+  {
+    "network": "82.109.194.0/24",
+    "asn": "218809",
+    "country_code": "EE",
+    "name": "yadda-voxn",
+    "org": "Yadda OU",
+    "domain": "yadda.io"
   },
   {
     "network": "82.147.160.0/19",

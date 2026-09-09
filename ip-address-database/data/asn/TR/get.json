@@ -8368,14 +8368,6 @@
     "domain": "turkcell.com.tr"
   },
   {
-    "network": "2a02:4e0:10::/48",
-    "asn": "16135",
-    "country_code": "TR",
-    "name": "TURKCELL-AS",
-    "org": "TURKCELL ILETISIM HIZMETLERI A.S.",
-    "domain": "turkcell.com.tr"
-  },
-  {
     "network": "2a02:4e0:2000::/43",
     "asn": "16135",
     "country_code": "TR",
@@ -26448,6 +26440,14 @@
     "domain": "turkcell.com.tr"
   },
   {
+    "network": "176.235.98.0/24",
+    "asn": "34984",
+    "country_code": "TR",
+    "name": "TELLCOM-AS",
+    "org": "Superonline Iletisim Hizmetleri A.S.",
+    "domain": "turkcell.com.tr"
+  },
+  {
     "network": "176.235.99.0/24",
     "asn": "34984",
     "country_code": "TR",
@@ -40024,30 +40024,6 @@
     "domain": "pendc.com"
   },
   {
-    "network": "185.103.198.0/24",
-    "asn": "48678",
-    "country_code": "TR",
-    "name": "TR-PENTECH-AS",
-    "org": "Pentech Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi",
-    "domain": "pendc.com"
-  },
-  {
-    "network": "185.106.22.0/24",
-    "asn": "48678",
-    "country_code": "TR",
-    "name": "TR-PENTECH-AS",
-    "org": "Pentech Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi",
-    "domain": "pendc.com"
-  },
-  {
-    "network": "185.106.23.0/24",
-    "asn": "48678",
-    "country_code": "TR",
-    "name": "TR-PENTECH-AS",
-    "org": "Pentech Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi",
-    "domain": "pendc.com"
-  },
-  {
     "network": "185.229.15.0/24",
     "asn": "48678",
     "country_code": "TR",
@@ -45024,6 +45000,14 @@
     "domain": "vodafone.com"
   },
   {
+    "network": "2a00:1880:a5c0::/42",
+    "asn": "15897",
+    "country_code": "TR",
+    "name": "VodafoneTurkey",
+    "org": "Vodafone Telekomunikasyon A.S.",
+    "domain": "vodafone.com"
+  },
+  {
     "network": "5.250.240.0/24",
     "asn": "59674",
     "country_code": "TR",
@@ -46072,6 +46056,14 @@
     "domain": "onurbilisim.com.tr"
   },
   {
+    "network": "185.103.198.0/24",
+    "asn": "201021",
+    "country_code": "TR",
+    "name": "OnurBilisim-AS",
+    "org": "Ahmet Onur Guney trading as Onur Bilisim Ve Yazilim Hizmetleri",
+    "domain": "onurbilisim.com.tr"
+  },
+  {
     "network": "185.103.199.0/24",
     "asn": "201021",
     "country_code": "TR",
@@ -46089,6 +46081,22 @@
   },
   {
     "network": "185.106.21.0/24",
+    "asn": "201021",
+    "country_code": "TR",
+    "name": "OnurBilisim-AS",
+    "org": "Ahmet Onur Guney trading as Onur Bilisim Ve Yazilim Hizmetleri",
+    "domain": "onurbilisim.com.tr"
+  },
+  {
+    "network": "185.106.22.0/24",
+    "asn": "201021",
+    "country_code": "TR",
+    "name": "OnurBilisim-AS",
+    "org": "Ahmet Onur Guney trading as Onur Bilisim Ve Yazilim Hizmetleri",
+    "domain": "onurbilisim.com.tr"
+  },
+  {
+    "network": "185.106.23.0/24",
     "asn": "201021",
     "country_code": "TR",
     "name": "OnurBilisim-AS",
@@ -50320,6 +50328,14 @@
     "domain": "turksat.com.tr"
   },
   {
+    "network": "94.54.96.0/22",
+    "asn": "47524",
+    "country_code": "TR",
+    "name": "AS-TURKSAT",
+    "org": "Turksat Uydu Haberlesme Kablo TV ve Isletme A.S.",
+    "domain": "turksat.com.tr"
+  },
+  {
     "network": "94.54.100.0/22",
     "asn": "47524",
     "country_code": "TR",
@@ -53345,6 +53361,14 @@
   },
   {
     "network": "2a00:1d58:1000::/36",
+    "asn": "47524",
+    "country_code": "TR",
+    "name": "AS-TURKSAT",
+    "org": "Turksat Uydu Haberlesme Kablo TV ve Isletme A.S.",
+    "domain": "turksat.com.tr"
+  },
+  {
+    "network": "2a00:1d58:2000::/36",
     "asn": "47524",
     "country_code": "TR",
     "name": "AS-TURKSAT",
@@ -67968,6 +67992,14 @@
     "domain": "ni.net.tr"
   },
   {
+    "network": "89.251.28.0/24",
+    "asn": "51559",
+    "country_code": "TR",
+    "name": "NETINTERNET",
+    "org": "Netinternet Bilisim Teknolojileri AS",
+    "domain": "ni.net.tr"
+  },
+  {
     "network": "89.252.128.0/24",
     "asn": "51559",
     "country_code": "TR",
@@ -68057,14 +68089,6 @@
   },
   {
     "network": "89.252.143.0/24",
-    "asn": "51559",
-    "country_code": "TR",
-    "name": "NETINTERNET",
-    "org": "Netinternet Bilisim Teknolojileri AS",
-    "domain": "ni.net.tr"
-  },
-  {
-    "network": "89.252.144.0/24",
     "asn": "51559",
     "country_code": "TR",
     "name": "NETINTERNET",
@@ -85936,14 +85960,6 @@
     "domain": "turknet.net.tr"
   },
   {
-    "network": "2a02:ff0:3400::/40",
-    "asn": "12735",
-    "country_code": "TR",
-    "name": "ASTurkNet",
-    "org": "TurkNet Iletisim Hizmetleri A.S.",
-    "domain": "turknet.net.tr"
-  },
-  {
     "network": "2a02:ff0:3600::/48",
     "asn": "12735",
     "country_code": "TR",
@@ -88033,30 +88049,6 @@
   },
   {
     "network": "45.84.221.0/24",
-    "asn": "201178",
-    "country_code": "TR",
-    "name": "EURONET",
-    "org": "Euronet Telekomunikasyon A.S.",
-    "domain": "euronet.net.tr"
-  },
-  {
-    "network": "91.92.70.0/24",
-    "asn": "201178",
-    "country_code": "TR",
-    "name": "EURONET",
-    "org": "Euronet Telekomunikasyon A.S.",
-    "domain": "euronet.net.tr"
-  },
-  {
-    "network": "93.123.37.0/24",
-    "asn": "201178",
-    "country_code": "TR",
-    "name": "EURONET",
-    "org": "Euronet Telekomunikasyon A.S.",
-    "domain": "euronet.net.tr"
-  },
-  {
-    "network": "93.123.64.0/24",
     "asn": "201178",
     "country_code": "TR",
     "name": "EURONET",
@@ -92184,6 +92176,22 @@
     "domain": "netweb.com.tr"
   },
   {
+    "network": "45.133.39.0/24",
+    "asn": "44547",
+    "country_code": "TR",
+    "name": "NetundWeb",
+    "org": "NETUNDWEB TELEKOMUNIKASYON TICARET LIMITED SIRKETI",
+    "domain": "netweb.com.tr"
+  },
+  {
+    "network": "45.141.149.0/24",
+    "asn": "44547",
+    "country_code": "TR",
+    "name": "NetundWeb",
+    "org": "NETUNDWEB TELEKOMUNIKASYON TICARET LIMITED SIRKETI",
+    "domain": "netweb.com.tr"
+  },
+  {
     "network": "87.121.103.0/24",
     "asn": "44547",
     "country_code": "TR",
@@ -93664,14 +93672,6 @@
     "domain": "netlojik.com"
   },
   {
-    "network": "155.103.248.0/24",
-    "asn": "202294",
-    "country_code": "TR",
-    "name": "NETLOJIK-BT",
-    "org": "Netlojik Bilgi Teknolojileri Sanayi ve Ticaret Limited Sirketi",
-    "domain": "netlojik.com"
-  },
-  {
     "network": "199.201.236.0/24",
     "asn": "202294",
     "country_code": "TR",
@@ -93793,14 +93793,6 @@
   },
   {
     "network": "185.218.217.0/24",
-    "asn": "60847",
-    "country_code": "TR",
-    "name": "AUTO-1",
-    "org": "Karel Iletisim Hizmetleri A.S.",
-    "domain": "karel.com.tr"
-  },
-  {
-    "network": "185.218.218.0/24",
     "asn": "60847",
     "country_code": "TR",
     "name": "AUTO-1",
@@ -95785,6 +95777,14 @@
   },
   {
     "network": "45.94.151.0/24",
+    "asn": "208594",
+    "country_code": "TR",
+    "name": "NETBONE",
+    "org": "Netbone Telekomunikasyon A.S.",
+    "domain": "netbone.com.tr"
+  },
+  {
+    "network": "2a0e:2ec0:3::/48",
     "asn": "208594",
     "country_code": "TR",
     "name": "NETBONE",
@@ -100856,6 +100856,326 @@
     "domain": "thy.com"
   },
   {
+    "network": "46.45.180.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "46.45.181.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "46.45.182.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "46.45.183.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "70.40.136.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "70.40.137.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "85.189.14.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.170.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.171.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.172.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.174.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.175.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.176.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.177.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.178.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.181.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.182.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.183.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.184.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.185.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.186.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.187.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.188.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.189.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.190.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "104.247.191.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.70.85.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.70.86.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.70.87.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.70.97.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.73.84.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.73.130.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.73.131.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.121.124.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.121.125.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.122.14.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.137.215.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "185.157.40.0/24",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "2a03:a5a0:1::/48",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
+    "network": "2a03:a5a0:2::/48",
+    "asn": "6205",
+    "country_code": "TR",
+    "name": "HizliNet-Teknoloji",
+    "org": "HizliNet Teknoloji A.S.",
+    "domain": "as6205.net"
+  },
+  {
     "network": "46.102.174.0/24",
     "asn": "200830",
     "country_code": "TR",
@@ -101726,294 +102046,6 @@
     "name": "VORGAN-SEC",
     "org": "VORGAN SIBER GUVENLIK VE YAZILIM TEKNOLOJILERI ANONIM SIRKETI",
     "domain": "vorgan.net"
-  },
-  {
-    "network": "70.40.136.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "70.40.137.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "85.189.14.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.170.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.171.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.172.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.174.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.175.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.176.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.177.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.178.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.181.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.182.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.183.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.184.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.185.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.186.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.187.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.188.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.189.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.190.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "104.247.191.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.70.85.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.70.86.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.70.87.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.70.97.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.73.84.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.73.130.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.73.131.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.121.124.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.121.125.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.122.14.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.137.215.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "185.157.40.0/24",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "2a03:a5a0:1::/48",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
-  },
-  {
-    "network": "2a03:a5a0:2::/48",
-    "asn": "6205",
-    "country_code": "TR",
-    "name": "HizliNet-Teknoloji",
-    "org": "HizliNet Teknoloji A.S.",
-    "domain": "as6205.net"
   },
   {
     "network": "70.40.142.0/24",
@@ -123048,6 +123080,14 @@
     "domain": "gamegami.com"
   },
   {
+    "network": "94.232.252.0/24",
+    "asn": "213500",
+    "country_code": "TR",
+    "name": "HEDEFBANK",
+    "org": "HEDEF YATIRIM BANKASI A.S.",
+    "domain": "hedefbank.com.tr"
+  },
+  {
     "network": "95.128.192.0/24",
     "asn": "215612",
     "country_code": "TR",
@@ -127504,6 +127544,30 @@
     "domain": "burganyatirim.com.tr"
   },
   {
+    "network": "185.136.205.0/24",
+    "asn": "203377",
+    "country_code": "TR",
+    "name": "FiberNET-Teknoloji-LTD",
+    "org": "Mehmet Uzunca",
+    "domain": "fiberltd.net"
+  },
+  {
+    "network": "185.207.39.0/24",
+    "asn": "203377",
+    "country_code": "TR",
+    "name": "FiberNET-Teknoloji-LTD",
+    "org": "Mehmet Uzunca",
+    "domain": "fiberltd.net"
+  },
+  {
+    "network": "194.147.216.0/24",
+    "asn": "203377",
+    "country_code": "TR",
+    "name": "FiberNET-Teknoloji-LTD",
+    "org": "Mehmet Uzunca",
+    "domain": "fiberltd.net"
+  },
+  {
     "network": "185.137.88.0/24",
     "asn": "203216",
     "country_code": "TR",
@@ -128396,22 +128460,6 @@
     "asn": "206163",
     "country_code": "TR",
     "name": "TBTNET-TELEKOM",
-    "org": "TBTNET TELEKOM LTD. STI.",
-    "domain": "tbtnet.com.tr"
-  },
-  {
-    "network": "185.194.173.0/24",
-    "asn": "203543",
-    "country_code": "TR",
-    "name": "TBTNET-BACKUP",
-    "org": "TBTNET TELEKOM LTD. STI.",
-    "domain": "tbtnet.com.tr"
-  },
-  {
-    "network": "185.194.174.0/24",
-    "asn": "203543",
-    "country_code": "TR",
-    "name": "TBTNET-BACKUP",
     "org": "TBTNET TELEKOM LTD. STI.",
     "domain": "tbtnet.com.tr"
   },
@@ -129733,7 +129781,7 @@
     "country_code": "TR",
     "name": "ADNET",
     "org": "ADNET INTERNET VE ILETISIM HIZM.TIC.LTD.STI.",
-    "domain": "myfi.com.tr"
+    "domain": "voxlan.com"
   },
   {
     "network": "185.252.41.0/24",
@@ -129741,7 +129789,7 @@
     "country_code": "TR",
     "name": "ADNET",
     "org": "ADNET INTERNET VE ILETISIM HIZM.TIC.LTD.STI.",
-    "domain": "myfi.com.tr"
+    "domain": "voxlan.com"
   },
   {
     "network": "185.254.54.0/24",
@@ -130054,6 +130102,14 @@
     "name": "fibatelekom-tr",
     "org": "FIBA TELEKOM Anonim Sirketi",
     "domain": "geoipa.com"
+  },
+  {
+    "network": "188.132.251.0/24",
+    "asn": "218790",
+    "country_code": "TR",
+    "name": "BASE9-AS",
+    "org": "BASE9 BILISIM TEKNOLOJILERI TICARET AS",
+    "domain": "base9.tech"
   },
   {
     "network": "188.241.122.0/24",
@@ -131232,14 +131288,6 @@
     "domain": "sbm.org.tr"
   },
   {
-    "network": "194.147.216.0/24",
-    "asn": "203377",
-    "country_code": "TR",
-    "name": "FiberNET-Teknoloji-LTD",
-    "org": "Mehmet Uzunca",
-    "domain": "fiberltd.net"
-  },
-  {
     "network": "194.164.36.0/24",
     "asn": "212685",
     "country_code": "TR",
@@ -131702,6 +131750,14 @@
     "name": "Multinet-ASN",
     "org": "Multinet Kurumsal Hizmetler Anonim Sirketi",
     "domain": "vodafone.net.tr"
+  },
+  {
+    "network": "212.47.41.0/24",
+    "asn": "214608",
+    "country_code": "TR",
+    "name": "Gazinet",
+    "org": "Gazinet Internet Iletisim teknolojileri ltd. Sti.",
+    "domain": "gazinet.com.tr"
   },
   {
     "network": "212.47.44.0/24",

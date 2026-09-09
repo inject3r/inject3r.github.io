@@ -400,14 +400,6 @@
     "domain": "arkaden.se"
   },
   {
-    "network": "193.181.48.0/22",
-    "asn": "51132",
-    "country_code": "SE",
-    "name": "Arkaden",
-    "org": "Arkaden Konsult AB",
-    "domain": "arkaden.se"
-  },
-  {
     "network": "193.181.50.0/23",
     "asn": "51132",
     "country_code": "SE",
@@ -417,6 +409,14 @@
   },
   {
     "network": "2a02:eb8::/29",
+    "asn": "51132",
+    "country_code": "SE",
+    "name": "Arkaden",
+    "org": "Arkaden Konsult AB",
+    "domain": "arkaden.se"
+  },
+  {
+    "network": "2a02:eb8:1::/48",
     "asn": "51132",
     "country_code": "SE",
     "name": "Arkaden",
