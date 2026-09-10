@@ -2,4 +2,4 @@
 2:I[39756,["/ip-address-database/_next/static/chunks/05-c3ty_6dwfk.js","/ip-address-database/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 3:I[37457,["/ip-address-database/_next/static/chunks/05-c3ty_6dwfk.js","/ip-address-database/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"z287N7FMie3n9RLB1cRHn"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"BLic7-1wU5bH1THuy5d_P"}
