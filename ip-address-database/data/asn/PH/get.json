@@ -17752,14 +17752,6 @@
     "domain": "nexlogic.ph"
   },
   {
-    "network": "103.206.80.0/22",
-    "asn": "135025",
-    "country_code": "PH",
-    "name": "NEXLOGIC-AS-AP",
-    "org": "Nexlogic Telecommunications Network, Inc.",
-    "domain": "nexlogic.ph"
-  },
-  {
     "network": "103.206.80.0/24",
     "asn": "135025",
     "country_code": "PH",
@@ -26176,22 +26168,6 @@
     "domain": "clearpath.net.ph"
   },
   {
-    "network": "2402:fe00::/32",
-    "asn": "45754",
-    "country_code": "PH",
-    "name": "CLEARPATH-AS-AP",
-    "org": "Clear Path Networks Inc",
-    "domain": "clearpath.net.ph"
-  },
-  {
-    "network": "2402:fe00:ff00::/40",
-    "asn": "45754",
-    "country_code": "PH",
-    "name": "CLEARPATH-AS-AP",
-    "org": "Clear Path Networks Inc",
-    "domain": "clearpath.net.ph"
-  },
-  {
     "network": "27.110.128.0/24",
     "asn": "18115",
     "country_code": "PH",
@@ -26481,6 +26457,22 @@
   },
   {
     "network": "110.235.164.0/22",
+    "asn": "55821",
+    "country_code": "PH",
+    "name": "RADIUSTELECOMS-AS-AP",
+    "org": "RADIUS TELECOMS, INC.",
+    "domain": "radius.ph"
+  },
+  {
+    "network": "110.235.168.0/22",
+    "asn": "55821",
+    "country_code": "PH",
+    "name": "RADIUSTELECOMS-AS-AP",
+    "org": "RADIUS TELECOMS, INC.",
+    "domain": "radius.ph"
+  },
+  {
+    "network": "110.235.180.0/22",
     "asn": "55821",
     "country_code": "PH",
     "name": "RADIUSTELECOMS-AS-AP",
@@ -30136,6 +30128,14 @@
     "domain": "skycable.com"
   },
   {
+    "network": "61.9.96.0/19",
+    "asn": "17970",
+    "country_code": "PH",
+    "name": "SKYBB-AS-AP",
+    "org": "Sky Cable Corporation",
+    "domain": "skycable.com"
+  },
+  {
     "network": "61.14.192.0/21",
     "asn": "17970",
     "country_code": "PH",
@@ -32800,6 +32800,14 @@
     "domain": "ptt.com.ph"
   },
   {
+    "network": "45.199.177.0/24",
+    "asn": "18233",
+    "country_code": "PH",
+    "name": "PTTNET",
+    "org": "Philippine Telelgraph & Telephone",
+    "domain": "ptt.com.ph"
+  },
+  {
     "network": "45.200.6.0/23",
     "asn": "18233",
     "country_code": "PH",
@@ -34112,14 +34120,6 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "49.157.70.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "49.157.71.0/24",
     "asn": "9658",
     "country_code": "PH",
@@ -34288,22 +34288,6 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "61.28.128.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "61.28.136.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "61.28.138.0/24",
     "asn": "9658",
     "country_code": "PH",
@@ -34328,39 +34312,7 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "61.28.144.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "61.28.148.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "61.28.150.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "61.28.152.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "61.28.154.0/24",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -34784,31 +34736,7 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "112.199.32.0/23",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "112.199.42.0/23",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "112.199.42.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "112.199.55.0/24",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -34825,14 +34753,6 @@
   },
   {
     "network": "112.199.64.0/23",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "112.199.65.0/24",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -35608,14 +35528,6 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "115.85.8.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "115.85.10.0/24",
     "asn": "9658",
     "country_code": "PH",
@@ -35633,14 +35545,6 @@
   },
   {
     "network": "115.85.12.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "115.85.15.0/24",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -36136,23 +36040,7 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "116.50.192.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "116.50.200.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "116.50.208.0/21",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -36768,22 +36656,6 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "180.232.69.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.70.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "180.232.71.0/24",
     "asn": "9658",
     "country_code": "PH",
@@ -37072,14 +36944,6 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "180.232.192.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "180.232.192.0/23",
     "asn": "9658",
     "country_code": "PH",
@@ -37088,111 +36952,7 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "180.232.196.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.200.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.204.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.208.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.212.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "180.232.224.0/19",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.224.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.228.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.232.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.236.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.240.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.244.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.248.0/22",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "180.232.252.0/22",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -37224,23 +36984,7 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "202.164.160.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "202.164.165.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "202.164.166.0/24",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -37256,23 +37000,7 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "202.164.168.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "202.164.168.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "202.164.169.0/24",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -37304,31 +37032,7 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "202.164.174.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "202.164.176.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "202.164.176.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "202.164.177.0/24",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -37352,23 +37056,7 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "202.164.184.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "202.164.189.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "202.164.191.0/24",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -37504,55 +37192,7 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "202.175.224.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "202.175.226.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "202.175.232.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "202.175.239.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "202.175.240.0/21",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "202.175.244.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
-    "network": "202.175.248.0/21",
     "asn": "9658",
     "country_code": "PH",
     "name": "ETPI-IDS-AS-AP",
@@ -38809,219 +38449,19 @@
   },
   {
     "network": "103.6.104.0/24",
-    "asn": "138965",
+    "asn": "134966",
     "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "103.36.18.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "103.36.19.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "103.137.204.0/22",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "103.137.204.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "103.137.205.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "103.137.206.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "103.137.207.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
+    "name": "SCVI-AS-AP",
+    "org": "Southern CableVision Inc.",
+    "domain": ""
   },
   {
     "network": "103.137.211.0/24",
-    "asn": "138965",
+    "asn": "134966",
     "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "103.252.34.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "154.222.48.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "154.222.49.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "154.223.8.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "154.223.9.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "156.236.88.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "156.236.89.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "156.236.90.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "156.236.91.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "156.236.92.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "156.236.93.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "156.236.94.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "156.236.95.0/24",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "2400:d3e0::/35",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "2400:d3e0::/48",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "2400:d3e0:1::/48",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "2400:d3e0:2::/48",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
-    "network": "2400:d3e0:3::/48",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
+    "name": "SCVI-AS-AP",
+    "org": "Southern CableVision Inc.",
+    "domain": ""
   },
   {
     "network": "103.6.181.0/24",
@@ -40352,6 +39792,14 @@
     "domain": "streamtech.com.ph"
   },
   {
+    "network": "103.36.18.0/24",
+    "asn": "133623",
+    "country_code": "PH",
+    "name": "PLANETCABLETV-AS-AP",
+    "org": "Planet Cable, Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
     "network": "103.252.32.0/22",
     "asn": "133623",
     "country_code": "PH",
@@ -40376,11 +39824,195 @@
     "domain": "streamtech.com.ph"
   },
   {
+    "network": "103.252.34.0/24",
+    "asn": "133623",
+    "country_code": "PH",
+    "name": "PLANETCABLETV-AS-AP",
+    "org": "Planet Cable, Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
     "network": "103.252.35.0/24",
     "asn": "133623",
     "country_code": "PH",
     "name": "PLANETCABLETV-AS-AP",
     "org": "Planet Cable, Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "103.36.19.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "103.137.204.0/22",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "103.137.204.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "103.137.205.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "103.137.206.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "103.137.207.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "154.222.48.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "154.222.49.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "154.223.9.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "156.236.88.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "156.236.89.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "156.236.90.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "156.236.91.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "156.236.92.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "156.236.93.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "156.236.94.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "156.236.95.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "2400:d3e0::/35",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "2400:d3e0::/48",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "2400:d3e0:1::/48",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "2400:d3e0:2::/48",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "2400:d3e0:3::/48",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
     "domain": "streamtech.com.ph"
   },
   {
@@ -44616,22 +44248,6 @@
     "domain": "clarecable.com"
   },
   {
-    "network": "103.163.121.0/24",
-    "asn": "139855",
-    "country_code": "PH",
-    "name": "BIT-AS-AP",
-    "org": "BIT(Brother Internet Technology),INC.",
-    "domain": "edges-cloud.com"
-  },
-  {
-    "network": "103.183.246.0/24",
-    "asn": "139855",
-    "country_code": "PH",
-    "name": "BIT-AS-AP",
-    "org": "BIT(Brother Internet Technology),INC.",
-    "domain": "edges-cloud.com"
-  },
-  {
     "network": "103.163.142.0/23",
     "asn": "141754",
     "country_code": "PH",
@@ -45009,14 +44625,6 @@
   },
   {
     "network": "103.176.203.0/24",
-    "asn": "149022",
-    "country_code": "PH",
-    "name": "CNCATI-AS-AP",
-    "org": "Cloud Net Cable and Telecom Inc.",
-    "domain": "cloudnet.ph"
-  },
-  {
-    "network": "2001:df0:13c0::/48",
     "asn": "149022",
     "country_code": "PH",
     "name": "CNCATI-AS-AP",
@@ -46385,14 +45993,6 @@
   },
   {
     "network": "114.198.136.0/24",
-    "asn": "17895",
-    "country_code": "PH",
-    "name": "GLOBALREACH-AP",
-    "org": "Cybernet Solutions, Inc",
-    "domain": "eglobalreach.net"
-  },
-  {
-    "network": "114.198.137.0/24",
     "asn": "17895",
     "country_code": "PH",
     "name": "GLOBALREACH-AP",
@@ -50616,6 +50216,22 @@
     "domain": "fiberflow.com.ph"
   },
   {
+    "network": "151.246.4.0/24",
+    "asn": "154845",
+    "country_code": "PH",
+    "name": "UEIESC-AS-AP",
+    "org": "United Eight Internet Exchange Systems Corporation",
+    "domain": "ueix.net"
+  },
+  {
+    "network": "163.52.18.0/24",
+    "asn": "154845",
+    "country_code": "PH",
+    "name": "UEIESC-AS-AP",
+    "org": "United Eight Internet Exchange Systems Corporation",
+    "domain": "ueix.net"
+  },
+  {
     "network": "155.35.1.0/24",
     "asn": "154257",
     "country_code": "PH",
@@ -51376,15 +50992,15 @@
     "domain": "dsnetworks.net"
   },
   {
-    "network": "163.52.18.0/24",
-    "asn": "154845",
+    "network": "163.52.156.0/24",
+    "asn": "154904",
     "country_code": "PH",
-    "name": "UEIESC-AS-AP",
-    "org": "United Eight Internet Exchange Systems Corporation",
-    "domain": "ueix.net"
+    "name": "SNDS1-AS-AP",
+    "org": "Signals Network and Data Solution",
+    "domain": "signalsnds.com"
   },
   {
-    "network": "163.52.156.0/24",
+    "network": "2001:df7:7ec0::/48",
     "asn": "154904",
     "country_code": "PH",
     "name": "SNDS1-AS-AP",
@@ -51584,6 +51200,14 @@
     "domain": "kingrednetworks.com"
   },
   {
+    "network": "2001:df5:6440::/48",
+    "asn": "153793",
+    "country_code": "PH",
+    "name": "KINGREDNETWORK-AS-AP",
+    "org": "Kingred Network",
+    "domain": "kingrednetworks.com"
+  },
+  {
     "network": "163.227.118.0/23",
     "asn": "137193",
     "country_code": "PH",
@@ -51697,6 +51321,14 @@
   },
   {
     "network": "165.99.139.0/24",
+    "asn": "153912",
+    "country_code": "PH",
+    "name": "AMIAPISONET-AS-AP",
+    "org": "AMIA PISONET",
+    "domain": "amiapiso.net"
+  },
+  {
+    "network": "2402:da0::/32",
     "asn": "153912",
     "country_code": "PH",
     "name": "AMIAPISONET-AS-AP",

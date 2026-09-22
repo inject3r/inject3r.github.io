@@ -2346,12 +2346,6 @@
     "country_name": "New Zealand"
   },
   {
-    "network": "51.241.68.0/22",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
     "network": "52.94.250.144/28",
     "continent_code": "OC",
     "country_code": "NZ",
@@ -3481,6 +3475,12 @@
   },
   {
     "network": "103.9.216.0/22",
+    "continent_code": "OC",
+    "country_code": "NZ",
+    "country_name": "New Zealand"
+  },
+  {
+    "network": "103.9.236.0/22",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
@@ -5910,7 +5910,13 @@
     "country_name": "New Zealand"
   },
   {
-    "network": "103.242.24.0/22",
+    "network": "103.242.24.0/24",
+    "continent_code": "OC",
+    "country_code": "NZ",
+    "country_name": "New Zealand"
+  },
+  {
+    "network": "103.242.26.0/23",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
@@ -7806,31 +7812,7 @@
     "country_name": "New Zealand"
   },
   {
-    "network": "122.152.148.0/26",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "122.152.148.64/28",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "122.152.148.128/26",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "122.152.148.192/28",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "122.152.148.240/28",
+    "network": "122.152.148.0/24",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
@@ -11041,12 +11023,6 @@
   },
   {
     "network": "173.82.95.0/24",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "173.82.123.0/24",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
@@ -14737,12 +14713,6 @@
   },
   {
     "network": "202.89.32.0/19",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "202.89.128.0/20",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"

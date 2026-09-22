@@ -1096,6 +1096,14 @@
     "domain": "infomaniak.ch"
   },
   {
+    "network": "37.156.46.0/24",
+    "asn": "29222",
+    "country_code": "CH",
+    "name": "Infomaniak-AS",
+    "org": "Infomaniak Network SA",
+    "domain": "infomaniak.ch"
+  },
+  {
     "network": "45.157.188.0/22",
     "asn": "29222",
     "country_code": "CH",
@@ -1112,7 +1120,7 @@
     "domain": "infomaniak.ch"
   },
   {
-    "network": "83.228.192.0/18",
+    "network": "83.166.143.0/24",
     "asn": "29222",
     "country_code": "CH",
     "name": "Infomaniak-AS",
@@ -1120,7 +1128,7 @@
     "domain": "infomaniak.ch"
   },
   {
-    "network": "83.228.232.0/24",
+    "network": "83.228.192.0/18",
     "asn": "29222",
     "country_code": "CH",
     "name": "Infomaniak-AS",
@@ -1137,14 +1145,6 @@
   },
   {
     "network": "84.234.16.0/20",
-    "asn": "29222",
-    "country_code": "CH",
-    "name": "Infomaniak-AS",
-    "org": "Infomaniak Network SA",
-    "domain": "infomaniak.ch"
-  },
-  {
-    "network": "84.234.28.0/24",
     "asn": "29222",
     "country_code": "CH",
     "name": "Infomaniak-AS",
@@ -1193,14 +1193,6 @@
   },
   {
     "network": "179.237.64.0/18",
-    "asn": "29222",
-    "country_code": "CH",
-    "name": "Infomaniak-AS",
-    "org": "Infomaniak Network SA",
-    "domain": "infomaniak.ch"
-  },
-  {
-    "network": "179.237.97.0/24",
     "asn": "29222",
     "country_code": "CH",
     "name": "Infomaniak-AS",
@@ -1352,7 +1344,7 @@
     "domain": "infomaniak.ch"
   },
   {
-    "network": "2001:1600:18::/48",
+    "network": "2001:1600::/48",
     "asn": "29222",
     "country_code": "CH",
     "name": "Infomaniak-AS",
@@ -19176,14 +19168,6 @@
     "domain": "nts.ch"
   },
   {
-    "network": "91.198.229.0/24",
-    "asn": "15576",
-    "country_code": "CH",
-    "name": "NTS",
-    "org": "NTS workspace AG",
-    "domain": "nts.ch"
-  },
-  {
     "network": "91.199.198.0/24",
     "asn": "15576",
     "country_code": "CH",
@@ -29952,6 +29936,14 @@
     "domain": "zattoo.com"
   },
   {
+    "network": "91.123.101.0/24",
+    "asn": "8302",
+    "country_code": "CH",
+    "name": "ZATTOO",
+    "org": "Zattoo AG",
+    "domain": "zattoo.com"
+  },
+  {
     "network": "91.123.103.0/24",
     "asn": "8302",
     "country_code": "CH",
@@ -30001,6 +29993,14 @@
   },
   {
     "network": "2a06:1b00:100::/48",
+    "asn": "8302",
+    "country_code": "CH",
+    "name": "ZATTOO",
+    "org": "Zattoo AG",
+    "domain": "zattoo.com"
+  },
+  {
+    "network": "2a06:1b00:101::/48",
     "asn": "8302",
     "country_code": "CH",
     "name": "ZATTOO",
@@ -30526,6 +30526,14 @@
     "name": "WIRBANK-AS",
     "org": "WIR Bank Genossenschaft",
     "domain": "green.ch"
+  },
+  {
+    "network": "91.198.229.0/24",
+    "asn": "43906",
+    "country_code": "CH",
+    "name": "colozh",
+    "org": "NTS Colocation AG",
+    "domain": "colozueri.ch"
   },
   {
     "network": "91.199.66.0/24",
@@ -33912,6 +33920,14 @@
     "domain": "galliker.com"
   },
   {
+    "network": "137.133.0.0/24",
+    "asn": "20868",
+    "country_code": "CH",
+    "name": "ABB",
+    "org": "ABB Information Systems Ltd",
+    "domain": "abb.com"
+  },
+  {
     "network": "137.133.8.0/24",
     "asn": "20868",
     "country_code": "CH",
@@ -36729,33 +36745,9 @@
   },
   {
     "network": "176.105.235.0/24",
-    "asn": "43440",
+    "asn": "218753",
     "country_code": "CH",
-    "name": "digitalesuisse",
-    "org": "Digitale Suisse AG",
-    "domain": "digitalesuisse.com"
-  },
-  {
-    "network": "185.227.148.0/24",
-    "asn": "43440",
-    "country_code": "CH",
-    "name": "digitalesuisse",
-    "org": "Digitale Suisse AG",
-    "domain": "digitalesuisse.com"
-  },
-  {
-    "network": "185.227.149.0/24",
-    "asn": "43440",
-    "country_code": "CH",
-    "name": "digitalesuisse",
-    "org": "Digitale Suisse AG",
-    "domain": "digitalesuisse.com"
-  },
-  {
-    "network": "185.227.151.0/24",
-    "asn": "43440",
-    "country_code": "CH",
-    "name": "digitalesuisse",
+    "name": "DSOOB",
     "org": "Digitale Suisse AG",
     "domain": "digitalesuisse.com"
   },
@@ -37896,23 +37888,7 @@
     "domain": "silicomgroup.ch"
   },
   {
-    "network": "194.113.228.0/22",
-    "asn": "200925",
-    "country_code": "CH",
-    "name": "KRIOS",
-    "org": "Silicom SA",
-    "domain": "silicomgroup.ch"
-  },
-  {
     "network": "2a02:7e60::/32",
-    "asn": "200925",
-    "country_code": "CH",
-    "name": "KRIOS",
-    "org": "Silicom SA",
-    "domain": "silicomgroup.ch"
-  },
-  {
-    "network": "2a07:e100::/32",
     "asn": "200925",
     "country_code": "CH",
     "name": "KRIOS",
@@ -38406,22 +38382,6 @@
     "name": "ECONIS-AS",
     "org": "Econis AG",
     "domain": "econis.ch"
-  },
-  {
-    "network": "185.86.224.0/24",
-    "asn": "49192",
-    "country_code": "CH",
-    "name": "OPENFACTORY-SECONDARY",
-    "org": "Openfactory GmbH",
-    "domain": "openfactory.ch"
-  },
-  {
-    "network": "2a0e:8f02:2200::/44",
-    "asn": "49192",
-    "country_code": "CH",
-    "name": "OPENFACTORY-SECONDARY",
-    "org": "Openfactory GmbH",
-    "domain": "openfactory.ch"
   },
   {
     "network": "185.86.227.0/24",
@@ -39517,7 +39477,7 @@
     "country_code": "CH",
     "name": "UNSPECIFIED",
     "org": "Banque Pictet & Cie SA",
-    "domain": "green.ch"
+    "domain": "pictet.com"
   },
   {
     "network": "185.154.93.0/24",
@@ -39525,7 +39485,7 @@
     "country_code": "CH",
     "name": "UNSPECIFIED",
     "org": "Banque Pictet & Cie SA",
-    "domain": "green.ch"
+    "domain": "pictet.com"
   },
   {
     "network": "185.154.100.0/22",
@@ -40880,6 +40840,30 @@
     "domain": "eoc.ch"
   },
   {
+    "network": "185.227.148.0/24",
+    "asn": "43440",
+    "country_code": "CH",
+    "name": "digitalesuisse",
+    "org": "Digitale Suisse AG",
+    "domain": "digitalesuisse.com"
+  },
+  {
+    "network": "185.227.149.0/24",
+    "asn": "43440",
+    "country_code": "CH",
+    "name": "digitalesuisse",
+    "org": "Digitale Suisse AG",
+    "domain": "digitalesuisse.com"
+  },
+  {
+    "network": "185.227.151.0/24",
+    "asn": "43440",
+    "country_code": "CH",
+    "name": "digitalesuisse",
+    "org": "Digitale Suisse AG",
+    "domain": "digitalesuisse.com"
+  },
+  {
     "network": "185.229.68.0/24",
     "asn": "39671",
     "country_code": "CH",
@@ -41244,7 +41228,7 @@
     "asn": "210346",
     "country_code": "CH",
     "name": "phoenix",
-    "org": "Phoenix Systems AG",
+    "org": "Phoenix Technologies AG",
     "domain": "phoenix-systems.ch"
   },
   {
@@ -41252,7 +41236,7 @@
     "asn": "210346",
     "country_code": "CH",
     "name": "phoenix",
-    "org": "Phoenix Systems AG",
+    "org": "Phoenix Technologies AG",
     "domain": "phoenix-systems.ch"
   },
   {
@@ -41260,7 +41244,7 @@
     "asn": "210346",
     "country_code": "CH",
     "name": "phoenix",
-    "org": "Phoenix Systems AG",
+    "org": "Phoenix Technologies AG",
     "domain": "phoenix-systems.ch"
   },
   {
@@ -41268,7 +41252,7 @@
     "asn": "210346",
     "country_code": "CH",
     "name": "phoenix",
-    "org": "Phoenix Systems AG",
+    "org": "Phoenix Technologies AG",
     "domain": "phoenix-systems.ch"
   },
   {
@@ -41276,7 +41260,7 @@
     "asn": "210346",
     "country_code": "CH",
     "name": "phoenix",
-    "org": "Phoenix Systems AG",
+    "org": "Phoenix Technologies AG",
     "domain": "phoenix-systems.ch"
   },
   {
@@ -41284,7 +41268,7 @@
     "asn": "210346",
     "country_code": "CH",
     "name": "phoenix",
-    "org": "Phoenix Systems AG",
+    "org": "Phoenix Technologies AG",
     "domain": "phoenix-systems.ch"
   },
   {
@@ -42137,6 +42121,14 @@
   },
   {
     "network": "2a0d:d740:105::/48",
+    "asn": "210036",
+    "country_code": "CH",
+    "name": "RAYHAANNET",
+    "org": "Rayhaan Ahmad Jaufeerally",
+    "domain": "rayhaan.ch"
+  },
+  {
+    "network": "2a0d:d741:1::/48",
     "asn": "210036",
     "country_code": "CH",
     "name": "RAYHAANNET",
@@ -45640,14 +45632,6 @@
     "domain": "as202427.net"
   },
   {
-    "network": "2a06:a005:28e3::/48",
-    "asn": "202427",
-    "country_code": "CH",
-    "name": "FILLI-AS",
-    "org": "Ursin Filli",
-    "domain": "as202427.net"
-  },
-  {
     "network": "2a06:a005:28e4::/48",
     "asn": "202427",
     "country_code": "CH",
@@ -45926,6 +45910,14 @@
     "name": "ELIA-AS",
     "org": "Elia Kessler",
     "domain": "elia.network"
+  },
+  {
+    "network": "2a0e:8f02:2200::/44",
+    "asn": "49192",
+    "country_code": "CH",
+    "name": "OPENFACTORY-SECONDARY",
+    "org": "Openfactory GmbH",
+    "domain": "openfactory.ch"
   },
   {
     "network": "2a0e:8f02:f068::/48",

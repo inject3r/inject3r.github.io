@@ -10688,14 +10688,6 @@
     "domain": ""
   },
   {
-    "network": "82.52.128.0/17",
-    "asn": "3269",
-    "country_code": "IT",
-    "name": "ASN-IBSNAZ",
-    "org": "Telecom Italia S.p.A.",
-    "domain": ""
-  },
-  {
     "network": "82.53.0.0/17",
     "asn": "3269",
     "country_code": "IT",
@@ -30560,62 +30552,6 @@
     "domain": "netjoin.it"
   },
   {
-    "network": "93.113.145.0/24",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin srl",
-    "domain": "netjoin.it"
-  },
-  {
-    "network": "93.113.146.0/24",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin srl",
-    "domain": "netjoin.it"
-  },
-  {
-    "network": "93.113.147.0/24",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin srl",
-    "domain": "netjoin.it"
-  },
-  {
-    "network": "93.113.148.0/24",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin srl",
-    "domain": "netjoin.it"
-  },
-  {
-    "network": "93.113.149.0/24",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin srl",
-    "domain": "netjoin.it"
-  },
-  {
-    "network": "93.113.150.0/24",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin srl",
-    "domain": "netjoin.it"
-  },
-  {
-    "network": "93.113.151.0/24",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin srl",
-    "domain": "netjoin.it"
-  },
-  {
     "network": "93.115.57.0/24",
     "asn": "64445",
     "country_code": "IT",
@@ -30880,14 +30816,6 @@
     "domain": "netjoin.it"
   },
   {
-    "network": "188.240.229.0/24",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin srl",
-    "domain": "netjoin.it"
-  },
-  {
     "network": "188.241.66.0/24",
     "asn": "64445",
     "country_code": "IT",
@@ -30937,14 +30865,6 @@
   },
   {
     "network": "188.241.213.0/24",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin srl",
-    "domain": "netjoin.it"
-  },
-  {
-    "network": "193.239.140.0/24",
     "asn": "64445",
     "country_code": "IT",
     "name": "AS-NETJOIN",
@@ -53208,6 +53128,14 @@
     "domain": "connectingproject.it"
   },
   {
+    "network": "82.109.200.0/22",
+    "asn": "198128",
+    "country_code": "IT",
+    "name": "ASN-CONNECTING",
+    "org": "Connecting Project s.r.l.",
+    "domain": "connectingproject.it"
+  },
+  {
     "network": "128.127.56.0/21",
     "asn": "198128",
     "country_code": "IT",
@@ -62881,6 +62809,14 @@
   },
   {
     "network": "109.232.90.0/24",
+    "asn": "50201",
+    "country_code": "IT",
+    "name": "IMPULSO-AS",
+    "org": "Impulso Srl",
+    "domain": "impulso.it"
+  },
+  {
+    "network": "109.232.91.0/24",
     "asn": "50201",
     "country_code": "IT",
     "name": "IMPULSO-AS",
@@ -74488,14 +74424,6 @@
     "domain": "connecto-it.it"
   },
   {
-    "network": "193.178.124.0/22",
-    "asn": "200375",
-    "country_code": "IT",
-    "name": "INGV-AS",
-    "org": "Istituto Nazionale di Geofisica e Vulcanologia",
-    "domain": "ingv.it"
-  },
-  {
     "network": "193.189.81.0/24",
     "asn": "214219",
     "country_code": "IT",
@@ -76616,6 +76544,14 @@
     "domain": "bcc.it"
   },
   {
+    "network": "217.18.0.0/20",
+    "asn": "15807",
+    "country_code": "IT",
+    "name": "Weblink",
+    "org": "Weblink srl",
+    "domain": "weblink.it"
+  },
+  {
     "network": "217.20.0.0/22",
     "asn": "198387",
     "country_code": "IT",
@@ -77336,6 +77272,14 @@
     "domain": "dispaisy.systems"
   },
   {
+    "network": "2a0b:4e07:c99::/48",
+    "asn": "215760",
+    "country_code": "IT",
+    "name": "DISPAISY-AS",
+    "org": "Adam Grazioli",
+    "domain": "dispaisy.systems"
+  },
+  {
     "network": "2a0f:6284:30::/44",
     "asn": "215760",
     "country_code": "IT",
@@ -77870,6 +77814,38 @@
     "name": "ASparago",
     "org": "Marco Bauce",
     "domain": "mbauce.com"
+  },
+  {
+    "network": "2a10:ba80:10::/44",
+    "asn": "57698",
+    "country_code": "IT",
+    "name": "AS-HATHOST",
+    "org": "FEDERICO BOVE trading as HATHOST",
+    "domain": "hathost.it"
+  },
+  {
+    "network": "2a10:ba87:ff00::/44",
+    "asn": "56781",
+    "country_code": "IT",
+    "name": "AS-ASNETPROIT",
+    "org": "NetPro IT Solution SRL",
+    "domain": "hathost.it"
+  },
+  {
+    "network": "2a10:ba87:ff10::/44",
+    "asn": "56781",
+    "country_code": "IT",
+    "name": "AS-ASNETPROIT",
+    "org": "NetPro IT Solution SRL",
+    "domain": "hathost.it"
+  },
+  {
+    "network": "2a10:ba87:ff20::/44",
+    "asn": "56781",
+    "country_code": "IT",
+    "name": "AS-ASNETPROIT",
+    "org": "NetPro IT Solution SRL",
+    "domain": "hathost.it"
   },
   {
     "network": "2a13:71c0::/29",

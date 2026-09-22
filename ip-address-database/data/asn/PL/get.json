@@ -7680,6 +7680,14 @@
     "domain": "sollutium.com"
   },
   {
+    "network": "2a13:e104::/32",
+    "asn": "43641",
+    "country_code": "PL",
+    "name": "Sollutium-NL",
+    "org": "SOLLUTIUM EU Sp z.o.o.",
+    "domain": "sollutium.com"
+  },
+  {
     "network": "2a14:7586:7000::/36",
     "asn": "43641",
     "country_code": "PL",
@@ -28060,7 +28068,7 @@
     "asn": "43093",
     "country_code": "PL",
     "name": "PL-LYNXNET-AS",
-    "org": "Krzysztof Malek trading as LYNXNET Pawel Krzaczkowski Krzysztof Malek S.C.",
+    "org": "Krzysztof Malek trading as LYNXNET K. Malek L. Malek S.C.",
     "domain": "lynxnet.pl"
   },
   {
@@ -29734,30 +29742,6 @@
     "name": "KIELMAN-COM-AS",
     "org": "Kielce University of Technology",
     "domain": "kielce.pl"
-  },
-  {
-    "network": "81.6.136.0/24",
-    "asn": "208930",
-    "country_code": "PL",
-    "name": "PWInterbit-AS",
-    "org": "Przedsiebiorstwo Wielobranzowe INTERBIT Sp. z o.o.",
-    "domain": "interbit.com.pl"
-  },
-  {
-    "network": "91.215.47.0/24",
-    "asn": "208930",
-    "country_code": "PL",
-    "name": "PWInterbit-AS",
-    "org": "Przedsiebiorstwo Wielobranzowe INTERBIT Sp. z o.o.",
-    "domain": "interbit.com.pl"
-  },
-  {
-    "network": "2001:678:f00::/48",
-    "asn": "208930",
-    "country_code": "PL",
-    "name": "PWInterbit-AS",
-    "org": "Przedsiebiorstwo Wielobranzowe INTERBIT Sp. z o.o.",
-    "domain": "interbit.com.pl"
   },
   {
     "network": "81.6.139.0/24",
@@ -39353,6 +39337,14 @@
   },
   {
     "network": "193.3.166.0/24",
+    "asn": "42576",
+    "country_code": "PL",
+    "name": "INTRSC-AS",
+    "org": "Maciej Jan Broniarz trading as CERT NGO",
+    "domain": "gausus.net"
+  },
+  {
+    "network": "2001:678:664::/48",
     "asn": "42576",
     "country_code": "PL",
     "name": "INTRSC-AS",
@@ -59784,15 +59776,7 @@
     "domain": "nask.pl"
   },
   {
-    "network": "195.164.174.0/24",
-    "asn": "204679",
-    "country_code": "PL",
-    "name": "OSE",
-    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-    "domain": "nask.pl"
-  },
-  {
-    "network": "195.164.202.0/24",
+    "network": "195.164.160.0/24",
     "asn": "204679",
     "country_code": "PL",
     "name": "OSE",
@@ -61889,6 +61873,22 @@
   },
   {
     "network": "194.41.12.0/22",
+    "asn": "25495",
+    "country_code": "PL",
+    "name": "SEJM-AS",
+    "org": "Kancelaria Sejmu",
+    "domain": "sejm.gov.pl"
+  },
+  {
+    "network": "194.41.13.0/24",
+    "asn": "25495",
+    "country_code": "PL",
+    "name": "SEJM-AS",
+    "org": "Kancelaria Sejmu",
+    "domain": "sejm.gov.pl"
+  },
+  {
+    "network": "194.41.14.0/24",
     "asn": "25495",
     "country_code": "PL",
     "name": "SEJM-AS",
@@ -65446,6 +65446,14 @@
     "name": "SKYLIX",
     "org": "Michal Widak",
     "domain": "skylix.pl"
+  },
+  {
+    "network": "2a06:9801:1565::/48",
+    "asn": "218628",
+    "country_code": "PL",
+    "name": "CODEBY",
+    "org": "Mariusz Mikolajczak trading as CodeBy",
+    "domain": "codeby.pl"
   },
   {
     "network": "2a06:a005:1990::/47",

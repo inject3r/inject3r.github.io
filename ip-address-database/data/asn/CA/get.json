@@ -10200,14 +10200,6 @@
     "domain": "heymman.com"
   },
   {
-    "network": "185.149.233.0/24",
-    "asn": "62164",
-    "country_code": "CA",
-    "name": "HEYMMAN-2",
-    "org": "Heymman Servers Corporation",
-    "domain": "heymman.com"
-  },
-  {
     "network": "185.149.234.0/23",
     "asn": "62164",
     "country_code": "CA",
@@ -17488,6 +17480,14 @@
     "domain": "indexexchange.com"
   },
   {
+    "network": "2a05:79c0:1::/48",
+    "asn": "27381",
+    "country_code": "CA",
+    "name": "CASALE-MEDIA",
+    "org": "Index Exchange Inc.",
+    "domain": "indexexchange.com"
+  },
+  {
     "network": "8.37.238.0/24",
     "asn": "54994",
     "country_code": "CA",
@@ -23169,6 +23169,22 @@
   },
   {
     "network": "153.43.231.0/24",
+    "asn": "54994",
+    "country_code": "CA",
+    "name": "ML-1432-54994",
+    "org": "Meteverse Limited.",
+    "domain": "meteversecloud.com"
+  },
+  {
+    "network": "153.43.232.0/24",
+    "asn": "54994",
+    "country_code": "CA",
+    "name": "ML-1432-54994",
+    "org": "Meteverse Limited.",
+    "domain": "meteversecloud.com"
+  },
+  {
+    "network": "153.43.233.0/24",
     "asn": "54994",
     "country_code": "CA",
     "name": "ML-1432-54994",
@@ -31913,6 +31929,22 @@
   },
   {
     "network": "99.222.12.0/23",
+    "asn": "812",
+    "country_code": "CA",
+    "name": "ROGERS-COMMUNICATIONS",
+    "org": "Rogers Communications Canada Inc.",
+    "domain": "rogers.com"
+  },
+  {
+    "network": "99.222.22.0/23",
+    "asn": "812",
+    "country_code": "CA",
+    "name": "ROGERS-COMMUNICATIONS",
+    "org": "Rogers Communications Canada Inc.",
+    "domain": "rogers.com"
+  },
+  {
+    "network": "99.222.26.0/23",
     "asn": "812",
     "country_code": "CA",
     "name": "ROGERS-COMMUNICATIONS",
@@ -44216,14 +44248,6 @@
     "domain": "rogers.com"
   },
   {
-    "network": "2606:f900:9003::/48",
-    "asn": "812",
-    "country_code": "CA",
-    "name": "ROGERS-COMMUNICATIONS",
-    "org": "Rogers Communications Canada Inc.",
-    "domain": "rogers.com"
-  },
-  {
     "network": "2606:f900:9007::/48",
     "asn": "812",
     "country_code": "CA",
@@ -44401,6 +44425,22 @@
   },
   {
     "network": "2606:f900:9025::/48",
+    "asn": "812",
+    "country_code": "CA",
+    "name": "ROGERS-COMMUNICATIONS",
+    "org": "Rogers Communications Canada Inc.",
+    "domain": "rogers.com"
+  },
+  {
+    "network": "2606:f900:9026::/48",
+    "asn": "812",
+    "country_code": "CA",
+    "name": "ROGERS-COMMUNICATIONS",
+    "org": "Rogers Communications Canada Inc.",
+    "domain": "rogers.com"
+  },
+  {
+    "network": "2606:f900:9027::/48",
     "asn": "812",
     "country_code": "CA",
     "name": "ROGERS-COMMUNICATIONS",
@@ -51673,14 +51713,6 @@
   },
   {
     "network": "2607:4300:100::/40",
-    "asn": "55286",
-    "country_code": "CA",
-    "name": "SERVER-MANIA",
-    "org": "B2 Net Solutions Inc.",
-    "domain": "servermania.com"
-  },
-  {
-    "network": "2a0e:15c6::/32",
     "asn": "55286",
     "country_code": "CA",
     "name": "SERVER-MANIA",
@@ -62472,6 +62504,14 @@
     "domain": "freerangecloud.com"
   },
   {
+    "network": "2a0f:9400:9000::/40",
+    "asn": "53356",
+    "country_code": "CA",
+    "name": "FREE RANGE CLOUD",
+    "org": "Free Range Cloud Hosting Inc.",
+    "domain": "freerangecloud.com"
+  },
+  {
     "network": "2a0f:9405::/32",
     "asn": "53356",
     "country_code": "CA",
@@ -63417,14 +63457,6 @@
   },
   {
     "network": "208.77.199.0/24",
-    "asn": "30500",
-    "country_code": "CA",
-    "name": "WOLFPAWSERVICES",
-    "org": "Wolfpaw Data Centres Inc",
-    "domain": "wolfpaw.net"
-  },
-  {
-    "network": "208.118.93.0/24",
     "asn": "30500",
     "country_code": "CA",
     "name": "WOLFPAWSERVICES",
@@ -66438,22 +66470,6 @@
     "name": "PHAONIX-AS",
     "org": "Hebergement Phaonix Inc.",
     "domain": "phaonix.com"
-  },
-  {
-    "network": "23.152.184.0/24",
-    "asn": "19369",
-    "country_code": "CA",
-    "name": "SMARTCS",
-    "org": "Smart Communication System Inc",
-    "domain": "smartcs.ca"
-  },
-  {
-    "network": "2607:45c0::/32",
-    "asn": "19369",
-    "country_code": "CA",
-    "name": "SMARTCS",
-    "org": "Smart Communication System Inc",
-    "domain": "smartcs.ca"
   },
   {
     "network": "23.152.248.0/24",
@@ -74024,7 +74040,71 @@
     "domain": "12393239.xyz"
   },
   {
+    "network": "2602:fca7:1::/48",
+    "asn": "1024",
+    "country_code": "CA",
+    "name": "CANAD112",
+    "org": "12393239 Canada Inc",
+    "domain": "12393239.xyz"
+  },
+  {
+    "network": "2602:fca7:2::/48",
+    "asn": "1024",
+    "country_code": "CA",
+    "name": "CANAD112",
+    "org": "12393239 Canada Inc",
+    "domain": "12393239.xyz"
+  },
+  {
+    "network": "2602:fca7:3::/48",
+    "asn": "1024",
+    "country_code": "CA",
+    "name": "CANAD112",
+    "org": "12393239 Canada Inc",
+    "domain": "12393239.xyz"
+  },
+  {
+    "network": "2602:fca7:4::/48",
+    "asn": "1024",
+    "country_code": "CA",
+    "name": "CANAD112",
+    "org": "12393239 Canada Inc",
+    "domain": "12393239.xyz"
+  },
+  {
+    "network": "2602:fca7:5::/48",
+    "asn": "1024",
+    "country_code": "CA",
+    "name": "CANAD112",
+    "org": "12393239 Canada Inc",
+    "domain": "12393239.xyz"
+  },
+  {
     "network": "2602:fca7:6::/48",
+    "asn": "1024",
+    "country_code": "CA",
+    "name": "CANAD112",
+    "org": "12393239 Canada Inc",
+    "domain": "12393239.xyz"
+  },
+  {
+    "network": "2602:fca7:7::/48",
+    "asn": "1024",
+    "country_code": "CA",
+    "name": "CANAD112",
+    "org": "12393239 Canada Inc",
+    "domain": "12393239.xyz"
+  },
+  {
+    "network": "2602:fca7:8::/48",
+    "asn": "1024",
+    "country_code": "CA",
+    "name": "CANAD112",
+    "org": "12393239 Canada Inc",
+    "domain": "12393239.xyz"
+  },
+  {
+    "network": "2602:fca7:d::/48",
     "asn": "1024",
     "country_code": "CA",
     "name": "CANAD112",
@@ -110312,30 +110392,6 @@
     "domain": "shaw.ca"
   },
   {
-    "network": "2607:ffb0:2003::/48",
-    "asn": "6327",
-    "country_code": "CA",
-    "name": "SHAW",
-    "org": "Shaw Communications",
-    "domain": "shaw.ca"
-  },
-  {
-    "network": "2607:ffb0:2004::/48",
-    "asn": "6327",
-    "country_code": "CA",
-    "name": "SHAW",
-    "org": "Shaw Communications",
-    "domain": "shaw.ca"
-  },
-  {
-    "network": "2607:ffb0:2006::/48",
-    "asn": "6327",
-    "country_code": "CA",
-    "name": "SHAW",
-    "org": "Shaw Communications",
-    "domain": "shaw.ca"
-  },
-  {
     "network": "2607:ffb0:3003::/48",
     "asn": "6327",
     "country_code": "CA",
@@ -110529,62 +110585,6 @@
   },
   {
     "network": "2607:ffb0:400d::/48",
-    "asn": "6327",
-    "country_code": "CA",
-    "name": "SHAW",
-    "org": "Shaw Communications",
-    "domain": "shaw.ca"
-  },
-  {
-    "network": "2607:ffb0:5000::/48",
-    "asn": "6327",
-    "country_code": "CA",
-    "name": "SHAW",
-    "org": "Shaw Communications",
-    "domain": "shaw.ca"
-  },
-  {
-    "network": "2607:ffb0:5002::/48",
-    "asn": "6327",
-    "country_code": "CA",
-    "name": "SHAW",
-    "org": "Shaw Communications",
-    "domain": "shaw.ca"
-  },
-  {
-    "network": "2607:ffb0:5004::/48",
-    "asn": "6327",
-    "country_code": "CA",
-    "name": "SHAW",
-    "org": "Shaw Communications",
-    "domain": "shaw.ca"
-  },
-  {
-    "network": "2607:ffb0:5006::/48",
-    "asn": "6327",
-    "country_code": "CA",
-    "name": "SHAW",
-    "org": "Shaw Communications",
-    "domain": "shaw.ca"
-  },
-  {
-    "network": "2607:ffb0:5080::/48",
-    "asn": "6327",
-    "country_code": "CA",
-    "name": "SHAW",
-    "org": "Shaw Communications",
-    "domain": "shaw.ca"
-  },
-  {
-    "network": "2607:ffb0:5081::/48",
-    "asn": "6327",
-    "country_code": "CA",
-    "name": "SHAW",
-    "org": "Shaw Communications",
-    "domain": "shaw.ca"
-  },
-  {
-    "network": "2607:ffb0:5082::/48",
     "asn": "6327",
     "country_code": "CA",
     "name": "SHAW",
@@ -114309,7 +114309,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "24.138.96.0/22",
@@ -114317,7 +114317,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "24.138.100.0/22",
@@ -114325,7 +114325,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "24.138.104.0/22",
@@ -114333,7 +114333,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "24.138.108.0/22",
@@ -114341,7 +114341,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "24.138.112.0/22",
@@ -114349,7 +114349,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "24.138.116.0/22",
@@ -114357,7 +114357,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "24.138.120.0/22",
@@ -114365,7 +114365,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "24.138.124.0/22",
@@ -114373,7 +114373,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.159.112.0/20",
@@ -114381,7 +114381,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.185.192.0/19",
@@ -114389,7 +114389,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.185.192.0/20",
@@ -114397,7 +114397,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.185.196.0/23",
@@ -114405,7 +114405,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.185.212.0/23",
@@ -114413,7 +114413,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.185.214.0/23",
@@ -114421,7 +114421,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.185.216.0/23",
@@ -114429,7 +114429,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.185.220.0/23",
@@ -114437,7 +114437,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.185.222.0/23",
@@ -114445,7 +114445,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.186.64.0/19",
@@ -114453,7 +114453,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.186.64.0/20",
@@ -114461,7 +114461,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.186.64.0/22",
@@ -114469,7 +114469,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.186.80.0/20",
@@ -114477,7 +114477,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.225.160.0/19",
@@ -114485,7 +114485,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.225.160.0/20",
@@ -114493,7 +114493,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.225.164.0/22",
@@ -114501,7 +114501,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.176.0/20",
@@ -114509,7 +114509,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.177.0/24",
@@ -114517,7 +114517,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.178.0/24",
@@ -114525,7 +114525,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.179.0/24",
@@ -114533,7 +114533,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.180.0/24",
@@ -114541,7 +114541,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.181.0/24",
@@ -114549,7 +114549,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.182.0/24",
@@ -114557,7 +114557,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.183.0/24",
@@ -114565,7 +114565,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.184.0/24",
@@ -114573,7 +114573,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.185.0/24",
@@ -114581,7 +114581,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.186.0/24",
@@ -114589,7 +114589,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.187.0/24",
@@ -114597,7 +114597,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.188.0/23",
@@ -114605,7 +114605,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.190.0/24",
@@ -114613,7 +114613,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "68.235.191.0/24",
@@ -114621,7 +114621,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "69.60.224.0/19",
@@ -114629,7 +114629,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "69.60.224.0/20",
@@ -114637,7 +114637,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "69.60.228.0/22",
@@ -114645,7 +114645,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "69.60.232.0/23",
@@ -114653,7 +114653,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "69.60.240.0/20",
@@ -114661,7 +114661,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "69.60.250.0/23",
@@ -114669,7 +114669,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "69.171.96.0/20",
@@ -114677,7 +114677,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "69.171.96.0/21",
@@ -114685,7 +114685,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "69.171.100.0/22",
@@ -114693,7 +114693,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "69.171.104.0/21",
@@ -114701,7 +114701,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "74.51.48.0/20",
@@ -114709,7 +114709,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "74.51.48.0/21",
@@ -114717,7 +114717,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "74.51.56.0/21",
@@ -114725,7 +114725,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "74.116.216.0/21",
@@ -114733,7 +114733,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "74.119.88.0/21",
@@ -114741,7 +114741,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "136.175.112.0/24",
@@ -114749,7 +114749,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "142.51.192.0/18",
@@ -114757,7 +114757,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "142.51.192.0/20",
@@ -114765,7 +114765,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "142.51.200.0/22",
@@ -114773,7 +114773,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "142.51.208.0/20",
@@ -114781,7 +114781,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "142.51.208.0/22",
@@ -114789,7 +114789,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "142.51.240.0/22",
@@ -114797,7 +114797,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "142.51.244.0/22",
@@ -114805,7 +114805,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "142.51.252.0/22",
@@ -114813,7 +114813,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "162.252.112.0/21",
@@ -114821,7 +114821,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "173.0.208.0/20",
@@ -114829,7 +114829,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "173.0.208.0/21",
@@ -114837,7 +114837,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "173.0.216.0/21",
@@ -114845,7 +114845,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "192.249.96.0/20",
@@ -114853,7 +114853,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "192.249.96.0/21",
@@ -114861,7 +114861,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "192.249.104.0/21",
@@ -114869,7 +114869,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "198.185.28.0/22",
@@ -114877,7 +114877,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "204.187.76.0/24",
@@ -114885,7 +114885,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "204.187.88.0/23",
@@ -114893,7 +114893,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "205.207.184.0/23",
@@ -114901,7 +114901,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "206.130.64.0/24",
@@ -114909,7 +114909,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "208.80.96.0/21",
@@ -114917,7 +114917,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "209.91.128.0/18",
@@ -114925,7 +114925,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "209.91.128.0/19",
@@ -114933,7 +114933,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "209.91.160.0/19",
@@ -114941,7 +114941,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "2606:8300::/28",
@@ -114949,7 +114949,7 @@
     "country_code": "CA",
     "name": "VIANET INC 5690",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "24.142.116.0/24",
@@ -125072,6 +125072,14 @@
     "domain": "bell.ca"
   },
   {
+    "network": "161.216.189.0/24",
+    "asn": "577",
+    "country_code": "CA",
+    "name": "BACOM",
+    "org": "Bell Canada",
+    "domain": "bell.ca"
+  },
+  {
     "network": "161.216.191.0/24",
     "asn": "577",
     "country_code": "CA",
@@ -128040,6 +128048,14 @@
     "domain": "bell.ca"
   },
   {
+    "network": "2605:b100:1600::/46",
+    "asn": "577",
+    "country_code": "CA",
+    "name": "BACOM",
+    "org": "Bell Canada",
+    "domain": "bell.ca"
+  },
+  {
     "network": "2605:b100:e000::/44",
     "asn": "577",
     "country_code": "CA",
@@ -128129,6 +128145,14 @@
   },
   {
     "network": "2605:b100:f5f0::/47",
+    "asn": "577",
+    "country_code": "CA",
+    "name": "BACOM",
+    "org": "Bell Canada",
+    "domain": "bell.ca"
+  },
+  {
+    "network": "2605:b100:f750::/44",
     "asn": "577",
     "country_code": "CA",
     "name": "BACOM",
@@ -144452,96 +144476,96 @@
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "198.162.13.0/24",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "199.60.96.0/24",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "199.60.118.0/24",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "199.60.222.0/24",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "204.174.113.0/24",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "204.174.116.0/23",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "204.174.230.0/24",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "204.239.19.0/24",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "204.239.207.0/24",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "204.239.216.0/24",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "204.239.240.0/24",
     "asn": "23181",
     "country_code": "CA",
     "name": "ACCESSDG01",
-    "org": "",
-    "domain": ""
+    "org": "Quicksilver Wireless",
+    "domain": "accessdg.com"
   },
   {
     "network": "44.135.197.0/24",
@@ -148056,6 +148080,14 @@
     "domain": "hut8.io"
   },
   {
+    "network": "208.78.18.0/23",
+    "asn": "912",
+    "country_code": "CA",
+    "name": "HUT8-EAST",
+    "org": "Hut 8 Mining Corp.",
+    "domain": "hut8.io"
+  },
+  {
     "network": "208.83.208.0/24",
     "asn": "912",
     "country_code": "CA",
@@ -148149,7 +148181,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "45.152.58.0/23",
@@ -148157,7 +148189,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "64.50.146.0/23",
@@ -148165,7 +148197,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "66.212.160.0/20",
@@ -148173,7 +148205,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "66.212.176.0/21",
@@ -148181,7 +148213,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "66.212.184.0/22",
@@ -148189,7 +148221,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "68.68.0.0/20",
@@ -148197,7 +148229,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "104.193.32.0/22",
@@ -148205,7 +148237,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "142.248.142.0/23",
@@ -148213,7 +148245,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "185.156.184.0/23",
@@ -148221,7 +148253,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "185.156.186.0/23",
@@ -148229,7 +148261,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "204.63.190.0/23",
@@ -148237,7 +148269,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "205.151.198.0/24",
@@ -148245,7 +148277,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "205.151.201.0/24",
@@ -148253,7 +148285,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "206.123.32.0/20",
@@ -148261,7 +148293,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "206.123.35.0/24",
@@ -148269,7 +148301,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "206.123.44.0/24",
@@ -148277,7 +148309,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "206.123.45.0/24",
@@ -148285,7 +148317,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "207.183.49.0/24",
@@ -148293,7 +148325,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "207.188.64.0/19",
@@ -148301,7 +148333,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "207.188.75.0/24",
@@ -148309,7 +148341,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "208.78.16.0/23",
@@ -148317,15 +148349,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
-  },
-  {
-    "network": "208.78.18.0/23",
-    "asn": "11342",
-    "country_code": "CA",
-    "name": "PATHWAY",
-    "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.41.128.0/19",
@@ -148333,7 +148357,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.41.140.0/24",
@@ -148341,7 +148365,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.41.141.0/24",
@@ -148349,7 +148373,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.41.146.0/24",
@@ -148357,7 +148381,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.41.147.0/24",
@@ -148365,7 +148389,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.41.148.0/24",
@@ -148373,7 +148397,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.41.149.0/24",
@@ -148381,7 +148405,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.41.150.0/24",
@@ -148389,7 +148413,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.41.151.0/24",
@@ -148397,7 +148421,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.41.152.0/24",
@@ -148405,7 +148429,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "209.250.128.0/19",
@@ -148413,7 +148437,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "216.249.0.0/21",
@@ -148421,7 +148445,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "216.249.8.0/21",
@@ -148429,7 +148453,7 @@
     "country_code": "CA",
     "name": "PATHWAY",
     "org": "Pathway Communications",
-    "domain": "netpulse-services.com"
+    "domain": "pathcom.com"
   },
   {
     "network": "45.179.198.0/24",
@@ -160704,14 +160728,6 @@
     "domain": "goco.ca"
   },
   {
-    "network": "199.212.238.0/23",
-    "asn": "21723",
-    "country_code": "CA",
-    "name": "GOCO",
-    "org": "GOCO TECHNOLOGY LIMITED PARTNERSHIP",
-    "domain": "goco.ca"
-  },
-  {
     "network": "199.212.245.0/24",
     "asn": "21723",
     "country_code": "CA",
@@ -161672,14 +161688,6 @@
     "domain": "tucows.com"
   },
   {
-    "network": "2620:57:4005::/48",
-    "asn": "63363",
-    "country_code": "CA",
-    "name": "TUCOWS-TRS-DNS2",
-    "org": "Tucows.com Co.",
-    "domain": "tucows.com"
-  },
-  {
     "network": "64.98.4.0/23",
     "asn": "32636",
     "country_code": "CA",
@@ -162497,14 +162505,6 @@
   },
   {
     "network": "161.115.137.0/24",
-    "asn": "53735",
-    "country_code": "CA",
-    "name": "IREN",
-    "org": "IREN",
-    "domain": "iren.com"
-  },
-  {
-    "network": "161.115.138.0/24",
     "asn": "53735",
     "country_code": "CA",
     "name": "IREN",
@@ -168198,6 +168198,14 @@
     "name": "SG-ASN",
     "org": "Supreme Group LP",
     "domain": "supremegroup.com"
+  },
+  {
+    "network": "66.85.252.0/23",
+    "asn": "63318",
+    "country_code": "CA",
+    "name": "INFOTEC-MANITOBA",
+    "org": "Infotec Manitoba",
+    "domain": "infotec.ca"
   },
   {
     "network": "66.85.252.0/24",
@@ -216717,7 +216725,7 @@
     "country_code": "CA",
     "name": "MBIX-SERVICES",
     "org": "Manitoba Internet Exchange Inc",
-    "domain": "les.net"
+    "domain": "fudo.org"
   },
   {
     "network": "2602:fd53:100::/40",
@@ -216725,7 +216733,7 @@
     "country_code": "CA",
     "name": "MBIX-SERVICES",
     "org": "Manitoba Internet Exchange Inc",
-    "domain": "les.net"
+    "domain": "fudo.org"
   },
   {
     "network": "198.182.254.0/23",
@@ -222272,14 +222280,6 @@
     "domain": "sierrawireless.com"
   },
   {
-    "network": "2620:19:e000::/44",
-    "asn": "19432",
-    "country_code": "CA",
-    "name": "SWI",
-    "org": "Sierra Wireless, Inc.",
-    "domain": "sierrawireless.com"
-  },
-  {
     "network": "208.83.36.0/24",
     "asn": "29807",
     "country_code": "CA",
@@ -224217,6 +224217,14 @@
   },
   {
     "network": "2a0c:b641:90a::/48",
+    "asn": "204463",
+    "country_code": "CA",
+    "name": "XINZHAO",
+    "org": "Xin Zhao",
+    "domain": "xinzhao.ca"
+  },
+  {
+    "network": "2a0c:b641:90b::/48",
     "asn": "204463",
     "country_code": "CA",
     "name": "XINZHAO",
