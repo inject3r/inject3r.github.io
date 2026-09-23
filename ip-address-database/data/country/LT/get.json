@@ -756,6 +756,12 @@
     "country_name": "Lithuania"
   },
   {
+    "network": "31.56.19.0/24",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
     "network": "31.58.242.0/24",
     "continent_code": "EU",
     "country_code": "LT",
@@ -882,7 +888,13 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "37.0.165.64/27",
+    "network": "37.0.165.64/30",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "37.0.165.80/28",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -924,13 +936,13 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "37.0.171.0/27",
+    "network": "37.0.171.0/29",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
   },
   {
-    "network": "37.0.171.64/26",
+    "network": "37.0.171.64/29",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -948,13 +960,7 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "37.0.173.96/29",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "37.0.173.112/28",
+    "network": "37.0.173.112/30",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -1081,12 +1087,6 @@
   },
   {
     "network": "37.59.175.72/30",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "37.59.180.4/30",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -1669,12 +1669,6 @@
   },
   {
     "network": "45.195.182.0/24",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "45.196.31.0/24",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -2430,7 +2424,7 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "51.178.149.176/28",
+    "network": "51.178.151.16/28",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -3534,7 +3528,7 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "77.37.70.0/23",
+    "network": "77.37.71.0/24",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -3768,13 +3762,19 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "78.138.1.112/28",
+    "network": "78.138.1.96/27",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
   },
   {
-    "network": "78.138.1.128/28",
+    "network": "78.138.1.132/30",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "78.138.1.136/29",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -3786,7 +3786,7 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "78.138.1.160/30",
+    "network": "78.138.1.170/31",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -4093,6 +4093,12 @@
   },
   {
     "network": "82.197.202.96/30",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "82.197.202.128/29",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -4879,12 +4885,6 @@
   },
   {
     "network": "85.92.104.0/22",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "85.137.176.0/22",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -6180,19 +6180,55 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "89.116.14.0/28",
+    "network": "89.116.14.0/27",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
   },
   {
-    "network": "89.116.14.32/27",
+    "network": "89.116.14.32/28",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
   },
   {
-    "network": "89.116.14.80/28",
+    "network": "89.116.14.48/29",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "89.116.14.58/31",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "89.116.14.60/30",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "89.116.14.80/29",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "89.116.14.88/31",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "89.116.14.92/30",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "89.116.14.100/30",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -7368,12 +7404,6 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "92.112.224.0/24",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
     "network": "92.113.13.0/24",
     "continent_code": "EU",
     "country_code": "LT",
@@ -7381,6 +7411,12 @@
   },
   {
     "network": "92.114.93.0/24",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "92.119.14.16/28",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -7824,18 +7860,6 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "103.139.51.0/24",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "103.216.0.0/23",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
     "network": "103.231.72.0/24",
     "continent_code": "EU",
     "country_code": "LT",
@@ -8142,12 +8166,6 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "109.109.165.64/26",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
     "network": "109.109.165.128/25",
     "continent_code": "EU",
     "country_code": "LT",
@@ -8238,19 +8256,7 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "130.195.243.6/31",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
     "network": "130.195.243.8/30",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "130.195.243.14/31",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -10212,12 +10218,6 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "178.33.10.52/30",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
     "network": "178.33.10.196/30",
     "continent_code": "EU",
     "country_code": "LT",
@@ -10273,6 +10273,12 @@
   },
   {
     "network": "178.33.142.96/28",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "178.33.169.64/26",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -10842,6 +10848,12 @@
     "country_name": "Lithuania"
   },
   {
+    "network": "185.127.41.0/24",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
     "network": "185.130.89.0/24",
     "continent_code": "EU",
     "country_code": "LT",
@@ -11059,24 +11071,6 @@
   },
   {
     "network": "185.183.46.128/26",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "185.183.46.192/27",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "185.183.46.224/29",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "185.183.46.240/28",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -11814,6 +11808,18 @@
     "country_name": "Lithuania"
   },
   {
+    "network": "193.178.226.160/28",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "193.178.226.176/29",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
     "network": "193.178.226.255/32",
     "continent_code": "EU",
     "country_code": "LT",
@@ -12120,12 +12126,6 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "194.93.6.0/23",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
     "network": "194.110.220.0/24",
     "continent_code": "EU",
     "country_code": "LT",
@@ -12283,6 +12283,12 @@
   },
   {
     "network": "195.170.181.0/24",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "195.172.152.0/21",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -12528,12 +12534,6 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "200.97.176.0/20",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
     "network": "202.181.128.216/29",
     "continent_code": "EU",
     "country_code": "LT",
@@ -12708,25 +12708,7 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "205.188.16.160/28",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "205.188.16.176/29",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "205.188.16.184/31",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "205.188.16.188/30",
+    "network": "205.188.16.160/27",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -12816,12 +12798,6 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "205.188.110.224/29",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
     "network": "205.188.110.240/28",
     "continent_code": "EU",
     "country_code": "LT",
@@ -12834,6 +12810,12 @@
     "country_name": "Lithuania"
   },
   {
+    "network": "205.188.111.4/31",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
     "network": "205.188.111.8/29",
     "continent_code": "EU",
     "country_code": "LT",
@@ -12841,6 +12823,12 @@
   },
   {
     "network": "205.188.111.16/28",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "205.188.111.32/30",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -12888,12 +12876,6 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "205.188.111.140/30",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
     "network": "205.188.111.144/28",
     "continent_code": "EU",
     "country_code": "LT",
@@ -12936,12 +12918,6 @@
     "country_name": "Lithuania"
   },
   {
-    "network": "205.188.168.26/31",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
     "network": "205.188.168.28/30",
     "continent_code": "EU",
     "country_code": "LT",
@@ -12949,12 +12925,6 @@
   },
   {
     "network": "205.188.168.32/29",
-    "continent_code": "EU",
-    "country_code": "LT",
-    "country_name": "Lithuania"
-  },
-  {
-    "network": "205.188.168.44/30",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"
@@ -13327,6 +13297,12 @@
   },
   {
     "network": "212.80.216.0/23",
+    "continent_code": "EU",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  {
+    "network": "212.80.218.128/25",
     "continent_code": "EU",
     "country_code": "LT",
     "country_name": "Lithuania"

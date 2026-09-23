@@ -696,13 +696,19 @@
     "country_name": "Nicaragua"
   },
   {
-    "network": "181.119.102.32/27",
+    "network": "181.119.102.0/25",
     "continent_code": "NA",
     "country_code": "NI",
     "country_name": "Nicaragua"
   },
   {
-    "network": "181.119.102.208/29",
+    "network": "181.119.102.192/27",
+    "continent_code": "NA",
+    "country_code": "NI",
+    "country_name": "Nicaragua"
+  },
+  {
+    "network": "181.119.102.232/30",
     "continent_code": "NA",
     "country_code": "NI",
     "country_name": "Nicaragua"
@@ -1207,6 +1213,12 @@
   },
   {
     "network": "200.30.182.100/31",
+    "continent_code": "NA",
+    "country_code": "NI",
+    "country_name": "Nicaragua"
+  },
+  {
+    "network": "200.35.183.0/24",
     "continent_code": "NA",
     "country_code": "NI",
     "country_name": "Nicaragua"

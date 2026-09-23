@@ -1120,14 +1120,6 @@
     "domain": "gcore.lu"
   },
   {
-    "network": "78.111.103.0/24",
-    "asn": "199524",
-    "country_code": "LU",
-    "name": "GCORE",
-    "org": "G-Core Labs S.A.",
-    "domain": "gcore.lu"
-  },
-  {
     "network": "78.111.104.0/24",
     "asn": "199524",
     "country_code": "LU",
@@ -4857,14 +4849,6 @@
   },
   {
     "network": "2a03:90c0:6a0::/44",
-    "asn": "199524",
-    "country_code": "LU",
-    "name": "GCORE",
-    "org": "G-Core Labs S.A.",
-    "domain": "gcore.lu"
-  },
-  {
-    "network": "2a03:90c0:6b0::/44",
     "asn": "199524",
     "country_code": "LU",
     "name": "GCORE",
@@ -10248,6 +10232,14 @@
     "domain": "ses.com"
   },
   {
+    "network": "212.165.246.0/24",
+    "asn": "12684",
+    "country_code": "LU",
+    "name": "SES-LUX-AS",
+    "org": "SES ASTRA S.A.",
+    "domain": "ses.com"
+  },
+  {
     "network": "212.165.248.0/24",
     "asn": "12684",
     "country_code": "LU",
@@ -12928,15 +12920,7 @@
     "domain": "socgen.com"
   },
   {
-    "network": "193.168.8.0/24",
-    "asn": "210872",
-    "country_code": "LU",
-    "name": "NSPA",
-    "org": "NATO SUPPORT AND PROCUREMENT AGENCY",
-    "domain": "nato.int"
-  },
-  {
-    "network": "2a14:e480::/48",
+    "network": "193.168.8.0/23",
     "asn": "210872",
     "country_code": "LU",
     "name": "NSPA",

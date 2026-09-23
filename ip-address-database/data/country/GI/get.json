@@ -1074,7 +1074,13 @@
     "country_name": "Gibraltar"
   },
   {
-    "network": "212.22.224.0/21",
+    "network": "212.22.224.0/22",
+    "continent_code": "EU",
+    "country_code": "GI",
+    "country_name": "Gibraltar"
+  },
+  {
+    "network": "212.22.230.0/23",
     "continent_code": "EU",
     "country_code": "GI",
     "country_name": "Gibraltar"
@@ -1429,12 +1435,6 @@
   },
   {
     "network": "2a0e:b107:870::/44",
-    "continent_code": "EU",
-    "country_code": "GI",
-    "country_name": "Gibraltar"
-  },
-  {
-    "network": "2a0e:b107:1be0::/44",
     "continent_code": "EU",
     "country_code": "GI",
     "country_name": "Gibraltar"

@@ -5742,7 +5742,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "38.159.189.8/30",
+    "network": "38.159.189.0/25",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -6612,6 +6612,12 @@
     "country_name": "Brazil"
   },
   {
+    "network": "38.224.227.0/24",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
     "network": "38.224.234.0/24",
     "continent_code": "SA",
     "country_code": "BR",
@@ -6630,7 +6636,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "38.224.252.16/28",
+    "network": "38.224.252.20/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -6696,7 +6702,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "38.225.197.72/30",
+    "network": "38.225.197.64/28",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -8995,12 +9001,6 @@
   },
   {
     "network": "45.87.9.0/24",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "45.87.50.0/23",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -14064,13 +14064,13 @@
     "country_name": "Brazil"
   },
   {
-    "network": "45.194.89.234/31",
+    "network": "45.194.89.232/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "45.194.89.236/30",
+    "network": "45.194.89.238/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -21366,7 +21366,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "85.31.60.0/22",
+    "network": "85.31.60.0/23",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -23400,7 +23400,19 @@
     "country_name": "Brazil"
   },
   {
-    "network": "104.28.63.64/27",
+    "network": "104.28.63.64/29",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "104.28.63.72/30",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "104.28.63.80/28",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -23593,12 +23605,6 @@
   },
   {
     "network": "104.28.136.61/32",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "104.28.136.62/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -23839,6 +23845,12 @@
   },
   {
     "network": "104.28.140.235/32",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "104.28.140.236/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -24373,6 +24385,12 @@
   },
   {
     "network": "104.28.157.98/31",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "104.28.157.100/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -24913,6 +24931,12 @@
   },
   {
     "network": "104.28.168.223/32",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "104.28.168.224/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -38010,7 +38034,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "151.244.242.128/25",
+    "network": "151.244.242.224/27",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -38263,6 +38287,12 @@
   },
   {
     "network": "152.237.192.0/19",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "152.237.230.0/24",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -39072,7 +39102,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "154.216.160.0/19",
+    "network": "154.216.144.0/20",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -48522,12 +48552,6 @@
     "country_name": "Brazil"
   },
   {
-    "network": "177.1.48.0/23",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
     "network": "177.1.64.0/18",
     "continent_code": "SA",
     "country_code": "BR",
@@ -48624,12 +48648,6 @@
     "country_name": "Brazil"
   },
   {
-    "network": "177.3.80.0/22",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
     "network": "177.3.92.0/23",
     "continent_code": "SA",
     "country_code": "BR",
@@ -48649,12 +48667,6 @@
   },
   {
     "network": "177.3.224.0/19",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "177.4.8.0/23",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -48828,6 +48840,18 @@
     "country_name": "Brazil"
   },
   {
+    "network": "177.5.66.0/23",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "177.5.78.0/23",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
     "network": "177.5.80.0/20",
     "continent_code": "SA",
     "country_code": "BR",
@@ -48990,6 +49014,12 @@
     "country_name": "Brazil"
   },
   {
+    "network": "177.6.182.0/23",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
     "network": "177.6.184.0/23",
     "continent_code": "SA",
     "country_code": "BR",
@@ -49002,7 +49032,13 @@
     "country_name": "Brazil"
   },
   {
-    "network": "177.7.0.0/17",
+    "network": "177.7.0.0/19",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "177.7.64.0/18",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -53076,6 +53112,12 @@
     "country_name": "Brazil"
   },
   {
+    "network": "179.253.228.64/26",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
     "network": "179.253.228.128/25",
     "continent_code": "SA",
     "country_code": "BR",
@@ -53178,6 +53220,18 @@
     "country_name": "Brazil"
   },
   {
+    "network": "179.255.110.0/25",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "179.255.111.0/24",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
     "network": "179.255.112.0/20",
     "continent_code": "SA",
     "country_code": "BR",
@@ -53197,6 +53251,12 @@
   },
   {
     "network": "179.255.145.0/27",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "179.255.145.32/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -55692,12 +55752,6 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.241.161.0/24",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
     "network": "186.241.162.0/23",
     "continent_code": "SA",
     "country_code": "BR",
@@ -55950,7 +56004,13 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.48/29",
+    "network": "186.247.35.48/30",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.35.52/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -55962,25 +56022,25 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.60/31",
+    "network": "186.247.35.60/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.64/28",
+    "network": "186.247.35.64/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.80/30",
+    "network": "186.247.35.72/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.84/31",
+    "network": "186.247.35.78/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -55998,19 +56058,19 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.112/29",
+    "network": "186.247.35.112/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.120/31",
+    "network": "186.247.35.116/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.124/30",
+    "network": "186.247.35.120/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56028,13 +56088,25 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.136/29",
+    "network": "186.247.35.136/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.144/29",
+    "network": "186.247.35.140/31",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.35.146/31",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.35.148/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56046,13 +56118,13 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.158/31",
+    "network": "186.247.35.160/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.160/29",
+    "network": "186.247.35.164/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56082,13 +56154,19 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.184/29",
+    "network": "186.247.35.186/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.192/30",
+    "network": "186.247.35.188/30",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.35.192/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56100,13 +56178,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.200/30",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.35.204/31",
+    "network": "186.247.35.200/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56124,19 +56196,25 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.220/31",
+    "network": "186.247.35.224/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.224/30",
+    "network": "186.247.35.230/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.35.236/30",
+    "network": "186.247.35.234/31",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.35.238/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56184,13 +56262,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.37.56/31",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.37.60/30",
+    "network": "186.247.37.56/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56202,7 +56274,13 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.37.72/29",
+    "network": "186.247.37.72/31",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.37.76/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56220,13 +56298,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.37.88/31",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.37.92/30",
+    "network": "186.247.37.88/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56316,19 +56388,19 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.37.176/30",
+    "network": "186.247.37.176/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.37.180/31",
+    "network": "186.247.37.186/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.37.184/29",
+    "network": "186.247.37.188/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56364,13 +56436,13 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.37.242/31",
+    "network": "186.247.37.240/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.37.244/30",
+    "network": "186.247.37.246/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56430,7 +56502,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.39.52/31",
+    "network": "186.247.39.52/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56443,12 +56515,6 @@
   },
   {
     "network": "186.247.39.64/30",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.39.68/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56472,7 +56538,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.39.112/29",
+    "network": "186.247.39.116/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56514,19 +56580,13 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.40.32/30",
+    "network": "186.247.40.32/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.40.36/31",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.40.42/31",
+    "network": "186.247.40.40/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56580,7 +56640,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.40.108/30",
+    "network": "186.247.40.108/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56634,12 +56694,6 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.40.160/31",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
     "network": "186.247.40.164/30",
     "continent_code": "SA",
     "country_code": "BR",
@@ -56647,12 +56701,6 @@
   },
   {
     "network": "186.247.40.168/29",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.40.176/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56676,31 +56724,25 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.40.224/30",
+    "network": "186.247.40.224/28",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.40.228/31",
+    "network": "186.247.40.240/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.40.234/31",
+    "network": "186.247.40.244/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.40.236/30",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.40.240/28",
+    "network": "186.247.40.248/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56754,13 +56796,19 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.41.80/29",
+    "network": "186.247.41.84/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
     "network": "186.247.41.88/30",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.41.94/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56778,13 +56826,49 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.41.128/26",
+    "network": "186.247.41.104/30",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.41.128/27",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.41.160/28",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.41.176/29",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.41.186/31",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.41.188/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
     "network": "186.247.41.192/29",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.41.206/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56826,25 +56910,55 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.41.250/31",
+    "network": "186.247.41.248/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.41.252/30",
+    "network": "186.247.46.0/27",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.0/26",
+    "network": "186.247.46.32/28",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.64/28",
+    "network": "186.247.46.48/29",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.46.56/31",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.46.60/30",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.46.66/31",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.46.68/30",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.46.72/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56862,7 +56976,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.92/30",
+    "network": "186.247.46.94/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56892,7 +57006,31 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.128/27",
+    "network": "186.247.46.132/30",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.46.136/29",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.46.146/31",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.46.148/30",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.46.152/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56916,13 +57054,19 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.180/30",
+    "network": "186.247.46.180/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.184/29",
+    "network": "186.247.46.186/31",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "186.247.46.188/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56934,7 +57078,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.198/31",
+    "network": "186.247.46.196/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -56952,79 +57096,49 @@
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.208/28",
+    "network": "186.247.46.208/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.224/29",
+    "network": "186.247.46.212/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.232/31",
+    "network": "186.247.46.216/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.238/31",
+    "network": "186.247.46.224/28",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.46.240/29",
+    "network": "186.247.46.240/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.47.0/29",
+    "network": "186.247.46.244/31",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.47.10/31",
+    "network": "186.247.46.252/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "186.247.47.12/30",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.47.16/28",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.47.32/28",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.47.48/29",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.47.56/30",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "186.247.47.60/31",
+    "network": "186.247.47.0/26",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -58752,12 +58866,6 @@
     "country_name": "Brazil"
   },
   {
-    "network": "187.127.160.0/22",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
     "network": "187.127.192.0/22",
     "continent_code": "SA",
     "country_code": "BR",
@@ -58914,18 +59022,6 @@
     "country_name": "Brazil"
   },
   {
-    "network": "188.241.177.0/27",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "188.241.177.48/28",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
     "network": "188.241.177.64/27",
     "continent_code": "SA",
     "country_code": "BR",
@@ -58939,18 +59035,6 @@
   },
   {
     "network": "188.241.177.112/29",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "188.241.177.120/31",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "188.241.177.124/30",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -59161,6 +59245,12 @@
   },
   {
     "network": "189.12.49.0/24",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "189.12.51.0/24",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -59551,6 +59641,12 @@
   },
   {
     "network": "189.31.208.0/23",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "189.31.210.0/24",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -59952,7 +60048,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "189.73.160.0/19",
+    "network": "189.73.176.0/20",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -59976,7 +60072,13 @@
     "country_name": "Brazil"
   },
   {
-    "network": "189.74.0.0/18",
+    "network": "189.74.0.0/19",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "189.74.48.0/20",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -60019,6 +60121,12 @@
   },
   {
     "network": "189.75.160.0/20",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "189.75.176.0/24",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -60781,6 +60889,12 @@
   },
   {
     "network": "190.57.231.32/29",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "190.61.64.0/21",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -62580,6 +62694,12 @@
     "country_name": "Brazil"
   },
   {
+    "network": "191.217.172.0/24",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
     "network": "191.217.175.0/24",
     "continent_code": "SA",
     "country_code": "BR",
@@ -63907,6 +64027,12 @@
   },
   {
     "network": "193.38.155.0/24",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "193.56.144.0/24",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -65712,25 +65838,25 @@
     "country_name": "Brazil"
   },
   {
+    "network": "200.15.1.96/28",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
     "network": "200.15.1.128/25",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "200.15.2.0/24",
+    "network": "200.15.2.0/23",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "200.15.4.0/24",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "200.15.6.0/23",
+    "network": "200.15.4.0/22",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -65755,12 +65881,6 @@
   },
   {
     "network": "200.15.12.128/27",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "200.15.12.240/28",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -65797,6 +65917,18 @@
   },
   {
     "network": "200.15.32.0/20",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "200.15.48.0/22",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "200.15.52.0/24",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -67068,31 +67200,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "200.96.0.0/18",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "200.96.64.0/19",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "200.96.104.0/21",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "200.96.112.0/20",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "200.96.128.0/17",
+    "network": "200.96.0.0/16",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -67117,6 +67225,12 @@
   },
   {
     "network": "200.97.128.0/19",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "200.97.176.0/20",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -67176,19 +67290,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "200.102.192.0/20",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "200.102.208.0/21",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "200.102.224.0/19",
+    "network": "200.102.192.0/18",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -67944,19 +68046,25 @@
     "country_name": "Brazil"
   },
   {
-    "network": "200.180.179.0/24",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
     "network": "200.180.180.0/22",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
   },
   {
-    "network": "200.180.184.0/21",
+    "network": "200.180.185.0/24",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "200.180.186.0/23",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "200.180.188.0/22",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -68556,13 +68664,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "200.219.64.0/19",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "200.219.112.0/20",
+    "network": "200.219.64.0/18",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -68665,12 +68767,6 @@
   },
   {
     "network": "200.225.178.0/24",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "200.225.190.0/23",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -69240,6 +69336,12 @@
     "country_name": "Brazil"
   },
   {
+    "network": "201.11.236.0/24",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
     "network": "201.11.240.0/20",
     "continent_code": "SA",
     "country_code": "BR",
@@ -69289,6 +69391,12 @@
   },
   {
     "network": "201.14.221.0/24",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
+    "network": "201.14.222.0/24",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -69762,13 +69870,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "201.50.23.0/24",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "201.50.24.0/23",
+    "network": "201.50.25.0/24",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -71082,7 +71184,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "204.137.166.0/23",
+    "network": "204.137.166.0/24",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -72570,49 +72672,7 @@
     "country_name": "Brazil"
   },
   {
-    "network": "208.127.25.1/32",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "208.127.25.2/31",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "208.127.25.4/30",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "208.127.25.8/29",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "208.127.25.16/28",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "208.127.25.32/27",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "208.127.25.64/26",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "208.127.25.128/25",
+    "network": "208.127.25.0/24",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -73705,12 +73765,6 @@
   },
   {
     "network": "2a05:eac0::/29",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "2a11:f040::/29",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"
@@ -137412,6 +137466,12 @@
     "country_name": "Brazil"
   },
   {
+    "network": "2600:70ff:c880::/48",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
     "network": "2600:70ff:c883::/48",
     "continent_code": "SA",
     "country_code": "BR",
@@ -165702,12 +165762,6 @@
     "country_name": "Brazil"
   },
   {
-    "network": "2804:5330:2::cb:18/126",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
     "network": "2804:5330:2::cb:2c/126",
     "continent_code": "SA",
     "country_code": "BR",
@@ -165978,6 +166032,12 @@
     "country_name": "Brazil"
   },
   {
+    "network": "2804:5330:2::cb:1a/127",
+    "continent_code": "SA",
+    "country_code": "BR",
+    "country_name": "Brazil"
+  },
+  {
     "network": "2804:5330:2::cb:1c/127",
     "continent_code": "SA",
     "country_code": "BR",
@@ -166105,12 +166165,6 @@
   },
   {
     "network": "2804:5330:2:3::2c:12/127",
-    "continent_code": "SA",
-    "country_code": "BR",
-    "country_name": "Brazil"
-  },
-  {
-    "network": "2804:5330:2:3::2c:22/127",
     "continent_code": "SA",
     "country_code": "BR",
     "country_name": "Brazil"

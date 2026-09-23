@@ -144,6 +144,14 @@
     "domain": "dataforest.net"
   },
   {
+    "network": "64.205.34.0/24",
+    "asn": "215607",
+    "country_code": "DE",
+    "name": "DF-Transit",
+    "org": "dataforest GmbH",
+    "domain": "dataforest.net"
+  },
+  {
     "network": "66.93.18.0/24",
     "asn": "215607",
     "country_code": "DE",
@@ -569,6 +577,14 @@
   },
   {
     "network": "2.29.0.0/16",
+    "asn": "24940",
+    "country_code": "DE",
+    "name": "HETZNER-AS",
+    "org": "Hetzner Online GmbH",
+    "domain": "hetzner.com"
+  },
+  {
+    "network": "2.31.0.0/16",
     "asn": "24940",
     "country_code": "DE",
     "name": "HETZNER-AS",
@@ -4216,14 +4232,6 @@
     "domain": "velia.net"
   },
   {
-    "network": "78.138.105.0/24",
-    "asn": "29066",
-    "country_code": "DE",
-    "name": "VELIANET-AS",
-    "org": "velia.net Internetdienste GmbH",
-    "domain": "velia.net"
-  },
-  {
     "network": "78.138.118.0/24",
     "asn": "29066",
     "country_code": "DE",
@@ -5745,14 +5753,6 @@
   },
   {
     "network": "92.204.240.0/20",
-    "asn": "29066",
-    "country_code": "DE",
-    "name": "VELIANET-AS",
-    "org": "velia.net Internetdienste GmbH",
-    "domain": "velia.net"
-  },
-  {
-    "network": "92.204.244.0/22",
     "asn": "29066",
     "country_code": "DE",
     "name": "VELIANET-AS",
@@ -22864,6 +22864,14 @@
     "domain": "internetnord.se"
   },
   {
+    "network": "46.252.7.0/24",
+    "asn": "207821",
+    "country_code": "DE",
+    "name": "internetbolaget-de",
+    "org": "IN InternetNord GmbH",
+    "domain": "internetnord.se"
+  },
+  {
     "network": "46.252.11.0/24",
     "asn": "207821",
     "country_code": "DE",
@@ -32848,6 +32856,14 @@
     "domain": "aov.de"
   },
   {
+    "network": "5.42.201.0/24",
+    "asn": "211573",
+    "country_code": "DE",
+    "name": "quimian",
+    "org": "William Scott",
+    "domain": "wills.co.tt"
+  },
+  {
     "network": "5.42.204.0/24",
     "asn": "214985",
     "country_code": "DE",
@@ -34449,6 +34465,14 @@
   },
   {
     "network": "2a01:5580::/32",
+    "asn": "12360",
+    "country_code": "DE",
+    "name": "KTK",
+    "org": "KEVAG Telekom GmbH",
+    "domain": "ktk.de"
+  },
+  {
+    "network": "2a01:5580:c018::/48",
     "asn": "12360",
     "country_code": "DE",
     "name": "KTK",
@@ -44944,46 +44968,6 @@
     "domain": "zap-hosting.com"
   },
   {
-    "network": "5.83.143.0/24",
-    "asn": "200912",
-    "country_code": "DE",
-    "name": "KRAUSE-AS",
-    "org": "Joel Krause",
-    "domain": "vpslayer.net"
-  },
-  {
-    "network": "31.58.216.0/24",
-    "asn": "200912",
-    "country_code": "DE",
-    "name": "KRAUSE-AS",
-    "org": "Joel Krause",
-    "domain": "vpslayer.net"
-  },
-  {
-    "network": "217.60.237.0/24",
-    "asn": "200912",
-    "country_code": "DE",
-    "name": "KRAUSE-AS",
-    "org": "Joel Krause",
-    "domain": "vpslayer.net"
-  },
-  {
-    "network": "2a06:9801:59::/48",
-    "asn": "200912",
-    "country_code": "DE",
-    "name": "KRAUSE-AS",
-    "org": "Joel Krause",
-    "domain": "vpslayer.net"
-  },
-  {
-    "network": "2a14:c380:26::/48",
-    "asn": "200912",
-    "country_code": "DE",
-    "name": "KRAUSE-AS",
-    "org": "Joel Krause",
-    "domain": "vpslayer.net"
-  },
-  {
     "network": "5.83.152.0/24",
     "asn": "207252",
     "country_code": "DE",
@@ -51072,6 +51056,14 @@
     "domain": "sit-telecom.de"
   },
   {
+    "network": "95.133.152.0/22",
+    "asn": "213939",
+    "country_code": "DE",
+    "name": "sit-telecom",
+    "org": "Steffen Schiffel GmbH",
+    "domain": "sit-telecom.de"
+  },
+  {
     "network": "212.108.103.0/24",
     "asn": "213939",
     "country_code": "DE",
@@ -53768,14 +53760,6 @@
     "domain": "inter.link"
   },
   {
-    "network": "185.242.76.0/24",
-    "asn": "5405",
-    "country_code": "DE",
-    "name": "INTERDOTLINK",
-    "org": "Inter.link GmbH",
-    "domain": "inter.link"
-  },
-  {
     "network": "2001:67c:9a0::/48",
     "asn": "5405",
     "country_code": "DE",
@@ -53857,6 +53841,14 @@
   },
   {
     "network": "2a11:4140:9000::/36",
+    "asn": "5405",
+    "country_code": "DE",
+    "name": "INTERDOTLINK",
+    "org": "Inter.link GmbH",
+    "domain": "inter.link"
+  },
+  {
+    "network": "2a11:4140:a000::/36",
     "asn": "5405",
     "country_code": "DE",
     "name": "INTERDOTLINK",
@@ -54032,6 +54024,30 @@
     "domain": "inter.link"
   },
   {
+    "network": "2a11:4142:6000::/36",
+    "asn": "5405",
+    "country_code": "DE",
+    "name": "INTERDOTLINK",
+    "org": "Inter.link GmbH",
+    "domain": "inter.link"
+  },
+  {
+    "network": "2a11:4142:7000::/36",
+    "asn": "5405",
+    "country_code": "DE",
+    "name": "INTERDOTLINK",
+    "org": "Inter.link GmbH",
+    "domain": "inter.link"
+  },
+  {
+    "network": "2a11:4142:9000::/36",
+    "asn": "5405",
+    "country_code": "DE",
+    "name": "INTERDOTLINK",
+    "org": "Inter.link GmbH",
+    "domain": "inter.link"
+  },
+  {
     "network": "2a11:4142:b000::/36",
     "asn": "5405",
     "country_code": "DE",
@@ -54048,6 +54064,14 @@
     "domain": "inter.link"
   },
   {
+    "network": "2a11:4142:d000::/36",
+    "asn": "5405",
+    "country_code": "DE",
+    "name": "INTERDOTLINK",
+    "org": "Inter.link GmbH",
+    "domain": "inter.link"
+  },
+  {
     "network": "2a11:4142:e000::/36",
     "asn": "5405",
     "country_code": "DE",
@@ -54057,6 +54081,22 @@
   },
   {
     "network": "2a11:4142:f000::/36",
+    "asn": "5405",
+    "country_code": "DE",
+    "name": "INTERDOTLINK",
+    "org": "Inter.link GmbH",
+    "domain": "inter.link"
+  },
+  {
+    "network": "2a11:4143::/36",
+    "asn": "5405",
+    "country_code": "DE",
+    "name": "INTERDOTLINK",
+    "org": "Inter.link GmbH",
+    "domain": "inter.link"
+  },
+  {
+    "network": "2a11:4146:6000::/36",
     "asn": "5405",
     "country_code": "DE",
     "name": "INTERDOTLINK",
@@ -65680,22 +65720,6 @@
     "domain": ""
   },
   {
-    "network": "104.143.208.0/23",
-    "asn": "219429",
-    "country_code": "DE",
-    "name": "Project",
-    "org": "TA Consulting & Services UG",
-    "domain": ""
-  },
-  {
-    "network": "104.143.210.0/23",
-    "asn": "219429",
-    "country_code": "DE",
-    "name": "Project",
-    "org": "TA Consulting & Services UG",
-    "domain": ""
-  },
-  {
     "network": "104.224.44.0/23",
     "asn": "219429",
     "country_code": "DE",
@@ -66025,6 +66049,14 @@
   },
   {
     "network": "185.129.40.0/22",
+    "asn": "205184",
+    "country_code": "DE",
+    "name": "ADJUST-DE",
+    "org": "Adjust GmbH",
+    "domain": "adjust.com"
+  },
+  {
+    "network": "185.151.204.0/24",
     "asn": "205184",
     "country_code": "DE",
     "name": "ADJUST-DE",
@@ -72016,6 +72048,38 @@
     "domain": "souverit.de"
   },
   {
+    "network": "31.58.216.0/24",
+    "asn": "200912",
+    "country_code": "DE",
+    "name": "KRAUSE-AS",
+    "org": "Joel Krause",
+    "domain": "vpslayer.net"
+  },
+  {
+    "network": "217.60.237.0/24",
+    "asn": "200912",
+    "country_code": "DE",
+    "name": "KRAUSE-AS",
+    "org": "Joel Krause",
+    "domain": "vpslayer.net"
+  },
+  {
+    "network": "2a06:9801:59::/48",
+    "asn": "200912",
+    "country_code": "DE",
+    "name": "KRAUSE-AS",
+    "org": "Joel Krause",
+    "domain": "vpslayer.net"
+  },
+  {
+    "network": "2a14:c380:26::/48",
+    "asn": "200912",
+    "country_code": "DE",
+    "name": "KRAUSE-AS",
+    "org": "Joel Krause",
+    "domain": "vpslayer.net"
+  },
+  {
     "network": "31.59.148.0/24",
     "asn": "211507",
     "country_code": "DE",
@@ -73465,14 +73529,6 @@
   },
   {
     "network": "217.23.58.0/24",
-    "asn": "29239",
-    "country_code": "DE",
-    "name": "I-NETPARTNER-AS",
-    "org": "I-NetPartner GmbH Online Services",
-    "domain": "i-netpartner.net"
-  },
-  {
-    "network": "217.23.59.0/24",
     "asn": "29239",
     "country_code": "DE",
     "name": "I-NETPARTNER-AS",
@@ -81288,6 +81344,22 @@
     "domain": "soprado.com"
   },
   {
+    "network": "93.191.162.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
+    "network": "93.191.164.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
     "network": "103.51.164.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -81313,14 +81385,6 @@
   },
   {
     "network": "103.51.167.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
-    "network": "141.90.14.0/24",
     "asn": "20546",
     "country_code": "DE",
     "name": "SOPRADO-ANY",
@@ -83848,6 +83912,14 @@
     "domain": "luke-it.de"
   },
   {
+    "network": "2a14:7c0:1de0::/44",
+    "asn": "215563",
+    "country_code": "DE",
+    "name": "Luke-IT",
+    "org": "Lukas Buttler trading as Luke IT consulting",
+    "domain": "luke-it.de"
+  },
+  {
     "network": "2a14:7c0:1df0::/44",
     "asn": "215563",
     "country_code": "DE",
@@ -85881,6 +85953,14 @@
   },
   {
     "network": "155.117.206.0/24",
+    "asn": "205840",
+    "country_code": "DE",
+    "name": "FONECLOUD",
+    "org": "Fonecloud GmbH",
+    "domain": "comtalk.tel"
+  },
+  {
+    "network": "195.58.148.0/24",
     "asn": "205840",
     "country_code": "DE",
     "name": "FONECLOUD",
@@ -89097,6 +89177,14 @@
   },
   {
     "network": "2a12:e140::/29",
+    "asn": "680",
+    "country_code": "DE",
+    "name": "DFN",
+    "org": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+    "domain": "dfn.de"
+  },
+  {
+    "network": "2a12:eac0::/29",
     "asn": "680",
     "country_code": "DE",
     "name": "DFN",
@@ -96848,6 +96936,14 @@
     "domain": "leitwert.net"
   },
   {
+    "network": "2a05:e740:1947::/48",
+    "asn": "29108",
+    "country_code": "DE",
+    "name": "LEITWERT-RESEARCH",
+    "org": "Leitwert GmbH",
+    "domain": "leitwert.net"
+  },
+  {
     "network": "2a05:e740:4160::/48",
     "asn": "29108",
     "country_code": "DE",
@@ -99288,6 +99384,22 @@
     "domain": "pfalzkom.de"
   },
   {
+    "network": "109.233.148.0/24",
+    "asn": "21473",
+    "country_code": "DE",
+    "name": "PFALZKOM",
+    "org": "PFALZKOM GmbH",
+    "domain": "pfalzkom.de"
+  },
+  {
+    "network": "109.233.151.0/24",
+    "asn": "21473",
+    "country_code": "DE",
+    "name": "PFALZKOM",
+    "org": "PFALZKOM GmbH",
+    "domain": "pfalzkom.de"
+  },
+  {
     "network": "138.222.72.0/24",
     "asn": "21473",
     "country_code": "DE",
@@ -99321,6 +99433,22 @@
   },
   {
     "network": "185.28.4.0/22",
+    "asn": "21473",
+    "country_code": "DE",
+    "name": "PFALZKOM",
+    "org": "PFALZKOM GmbH",
+    "domain": "pfalzkom.de"
+  },
+  {
+    "network": "185.28.4.0/24",
+    "asn": "21473",
+    "country_code": "DE",
+    "name": "PFALZKOM",
+    "org": "PFALZKOM GmbH",
+    "domain": "pfalzkom.de"
+  },
+  {
+    "network": "185.28.7.0/24",
     "asn": "21473",
     "country_code": "DE",
     "name": "PFALZKOM",
@@ -99489,6 +99617,14 @@
   },
   {
     "network": "2a03:3fc0:8000::/33",
+    "asn": "21473",
+    "country_code": "DE",
+    "name": "PFALZKOM",
+    "org": "PFALZKOM GmbH",
+    "domain": "pfalzkom.de"
+  },
+  {
+    "network": "2a07:2800::/29",
     "asn": "21473",
     "country_code": "DE",
     "name": "PFALZKOM",
@@ -118840,14 +118976,6 @@
     "domain": "johannesernst.com"
   },
   {
-    "network": "2a06:a002:f64::/48",
-    "asn": "212895",
-    "country_code": "DE",
-    "name": "ROUTE64_ORG",
-    "org": "Johannes Ernst",
-    "domain": "johannesernst.com"
-  },
-  {
     "network": "2a11:6c7::/48",
     "asn": "212895",
     "country_code": "DE",
@@ -119561,14 +119689,6 @@
   },
   {
     "network": "2a11:6c7:3100::/40",
-    "asn": "212895",
-    "country_code": "DE",
-    "name": "ROUTE64_ORG",
-    "org": "Johannes Ernst",
-    "domain": "johannesernst.com"
-  },
-  {
-    "network": "2a14:7583:5840::/42",
     "asn": "212895",
     "country_code": "DE",
     "name": "ROUTE64_ORG",
@@ -140152,14 +140272,6 @@
     "domain": "myloc.de"
   },
   {
-    "network": "93.95.215.0/24",
-    "asn": "207417",
-    "country_code": "DE",
-    "name": "EMN-INFRA-1",
-    "org": "Bestattungen Eisenmann GmbH",
-    "domain": "eisenmann.tech"
-  },
-  {
     "network": "93.157.142.0/24",
     "asn": "214068",
     "country_code": "DE",
@@ -140830,22 +140942,6 @@
     "name": "PLANINTERNET-EU",
     "org": "PLANinterNET GmbH",
     "domain": "planinternet.de"
-  },
-  {
-    "network": "93.190.232.0/21",
-    "asn": "44569",
-    "country_code": "DE",
-    "name": "ONEAPI",
-    "org": "1api GmbH",
-    "domain": "1api.net"
-  },
-  {
-    "network": "2a02:18::/32",
-    "asn": "44569",
-    "country_code": "DE",
-    "name": "ONEAPI",
-    "org": "1api GmbH",
-    "domain": "1api.net"
   },
   {
     "network": "93.191.160.0/21",
@@ -142232,14 +142328,6 @@
     "domain": "key-systems.net"
   },
   {
-    "network": "95.130.22.0/24",
-    "asn": "13246",
-    "country_code": "DE",
-    "name": "INETWIRE-AS",
-    "org": "Key-Systems GmbH",
-    "domain": "key-systems.net"
-  },
-  {
     "network": "95.130.23.0/24",
     "asn": "13246",
     "country_code": "DE",
@@ -143121,6 +143209,14 @@
   },
   {
     "network": "109.199.190.0/24",
+    "asn": "212443",
+    "country_code": "DE",
+    "name": "LEONET-AS",
+    "org": "Leonet GmbH",
+    "domain": "leonet.de"
+  },
+  {
+    "network": "109.199.191.0/24",
     "asn": "212443",
     "country_code": "DE",
     "name": "LEONET-AS",
@@ -152728,6 +152824,14 @@
     "domain": "plusline.de"
   },
   {
+    "network": "141.90.14.0/24",
+    "asn": "29515",
+    "country_code": "DE",
+    "name": "HZD-AS",
+    "org": "Hessische Zentrale fuer Datenverarbeitung",
+    "domain": "plusline.de"
+  },
+  {
     "network": "141.90.15.0/24",
     "asn": "29515",
     "country_code": "DE",
@@ -154281,22 +154385,6 @@
   },
   {
     "network": "2a01:b180::/48",
-    "asn": "57037",
-    "country_code": "DE",
-    "name": "MKQ-AS",
-    "org": "Manuel Krebs trading as MKQ Internetservice",
-    "domain": "mkq.de"
-  },
-  {
-    "network": "2a01:b180:2::/48",
-    "asn": "57037",
-    "country_code": "DE",
-    "name": "MKQ-AS",
-    "org": "Manuel Krebs trading as MKQ Internetservice",
-    "domain": "mkq.de"
-  },
-  {
-    "network": "2a01:b180:3::/48",
     "asn": "57037",
     "country_code": "DE",
     "name": "MKQ-AS",
@@ -171968,14 +172056,6 @@
     "domain": "leon-hubrich.de"
   },
   {
-    "network": "2a14:47c0:e005::/48",
-    "asn": "213579",
-    "country_code": "DE",
-    "name": "Leon-Hubrich",
-    "org": "Leon Hubrich",
-    "domain": "leon-hubrich.de"
-  },
-  {
     "network": "2a14:47c0:e006::/48",
     "asn": "213579",
     "country_code": "DE",
@@ -172486,14 +172566,6 @@
     "name": "indusys",
     "org": "INDUSYS Verwaltungs GmbH",
     "domain": "indusys.de"
-  },
-  {
-    "network": "185.151.204.0/24",
-    "asn": "61273",
-    "country_code": "DE",
-    "name": "ADJUST-NL",
-    "org": "Adjust GmbH",
-    "domain": "adjust.com"
   },
   {
     "network": "185.151.205.0/24",
@@ -183216,6 +183288,14 @@
     "domain": "bbraun.com"
   },
   {
+    "network": "212.0.62.0/24",
+    "asn": "213141",
+    "country_code": "DE",
+    "name": "BBRAUN_AS",
+    "org": "B. Braun Melsungen AG",
+    "domain": "bbraun.com"
+  },
+  {
     "network": "212.0.63.0/24",
     "asn": "213141",
     "country_code": "DE",
@@ -191072,6 +191152,14 @@
     "domain": "brekom.de"
   },
   {
+    "network": "2a02:18::/32",
+    "asn": "44569",
+    "country_code": "DE",
+    "name": "ONEAPI",
+    "org": "1api GmbH",
+    "domain": "1api.net"
+  },
+  {
     "network": "2a02:d500:4242::/48",
     "asn": "34997",
     "country_code": "DE",
@@ -191265,14 +191353,6 @@
   },
   {
     "network": "2a0f:6280:7010::/44",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
-    "network": "2a13:c8c4:7018::/48",
     "asn": "219418",
     "country_code": "DE",
     "name": "eHILL-MEDIA",
@@ -192576,30 +192656,6 @@
     "domain": "miniwar.de"
   },
   {
-    "network": "2a0c:9a40:8add::/48",
-    "asn": "204768",
-    "country_code": "DE",
-    "name": "fluffander",
-    "org": "Moritz Bergander",
-    "domain": "proton.me"
-  },
-  {
-    "network": "2a0f:85c1:d93::/48",
-    "asn": "204768",
-    "country_code": "DE",
-    "name": "fluffander",
-    "org": "Moritz Bergander",
-    "domain": "proton.me"
-  },
-  {
-    "network": "2a0f:b240:6a00::/40",
-    "asn": "204768",
-    "country_code": "DE",
-    "name": "fluffander",
-    "org": "Moritz Bergander",
-    "domain": "proton.me"
-  },
-  {
     "network": "2a0c:9a40:8e50::/48",
     "asn": "209632",
     "country_code": "DE",
@@ -193614,22 +193670,6 @@
     "name": "Kupschke",
     "org": "Dominik Kupschke",
     "domain": "kupschke.net"
-  },
-  {
-    "network": "2a10:cc44:1d0::/48",
-    "asn": "208454",
-    "country_code": "DE",
-    "name": "Hostingstudio",
-    "org": "Jens Zimperfeld",
-    "domain": "hostingstudio.org"
-  },
-  {
-    "network": "2a10:cc44:1da::/48",
-    "asn": "208454",
-    "country_code": "DE",
-    "name": "Hostingstudio",
-    "org": "Jens Zimperfeld",
-    "domain": "hostingstudio.org"
   },
   {
     "network": "2a10:ccc3:ca74::/48",

@@ -1086,7 +1086,19 @@
     "country_name": "Moldova"
   },
   {
-    "network": "89.39.96.0/21",
+    "network": "89.39.96.0/24",
+    "continent_code": "EU",
+    "country_code": "MD",
+    "country_name": "Moldova"
+  },
+  {
+    "network": "89.39.98.0/23",
+    "continent_code": "EU",
+    "country_code": "MD",
+    "country_name": "Moldova"
+  },
+  {
+    "network": "89.39.100.0/22",
     "continent_code": "EU",
     "country_code": "MD",
     "country_name": "Moldova"
@@ -2280,12 +2292,6 @@
     "country_name": "Moldova"
   },
   {
-    "network": "130.195.240.24/30",
-    "continent_code": "EU",
-    "country_code": "MD",
-    "country_name": "Moldova"
-  },
-  {
     "network": "130.195.240.32/27",
     "continent_code": "EU",
     "country_code": "MD",
@@ -3390,13 +3396,7 @@
     "country_name": "Moldova"
   },
   {
-    "network": "178.175.160.0/21",
-    "continent_code": "EU",
-    "country_code": "MD",
-    "country_name": "Moldova"
-  },
-  {
-    "network": "178.175.173.0/24",
+    "network": "178.175.160.0/20",
     "continent_code": "EU",
     "country_code": "MD",
     "country_name": "Moldova"
@@ -4141,12 +4141,6 @@
   },
   {
     "network": "193.230.248.0/24",
-    "continent_code": "EU",
-    "country_code": "MD",
-    "country_name": "Moldova"
-  },
-  {
-    "network": "193.233.202.0/25",
     "continent_code": "EU",
     "country_code": "MD",
     "country_name": "Moldova"
@@ -5251,6 +5245,12 @@
   },
   {
     "network": "2a0c:3b00::/29",
+    "continent_code": "EU",
+    "country_code": "MD",
+    "country_name": "Moldova"
+  },
+  {
+    "network": "2a0c:57c0::/29",
     "continent_code": "EU",
     "country_code": "MD",
     "country_name": "Moldova"
