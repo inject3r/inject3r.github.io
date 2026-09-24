@@ -20352,22 +20352,6 @@
     "domain": "jprs.jp"
   },
   {
-    "network": "111.109.60.0/24",
-    "asn": "2516",
-    "country_code": "JP",
-    "name": "KDDI",
-    "org": "KDDI CORPORATION",
-    "domain": "jprs.jp"
-  },
-  {
-    "network": "111.109.61.0/24",
-    "asn": "2516",
-    "country_code": "JP",
-    "name": "KDDI",
-    "org": "KDDI CORPORATION",
-    "domain": "jprs.jp"
-  },
-  {
     "network": "111.110.0.0/16",
     "asn": "2516",
     "country_code": "JP",
@@ -29912,7 +29896,7 @@
     "domain": "3xnet.us"
   },
   {
-    "network": "162.4.53.0/24",
+    "network": "95.169.172.0/24",
     "asn": "152324",
     "country_code": "JP",
     "name": "M3XNETCOLTD-AS-AP",
@@ -69248,6 +69232,14 @@
     "domain": "jprs.jp"
   },
   {
+    "network": "160.251.67.0/24",
+    "asn": "7506",
+    "country_code": "JP",
+    "name": "GMO-I-R1",
+    "org": "GMO Internet, Inc.",
+    "domain": "jprs.jp"
+  },
+  {
     "network": "160.251.71.0/24",
     "asn": "7506",
     "country_code": "JP",
@@ -95160,6 +95152,14 @@
     "domain": "starlamp.su"
   },
   {
+    "network": "2a06:41:8000::/40",
+    "asn": "214675",
+    "country_code": "JP",
+    "name": "Starlamp",
+    "org": "Hidenori Matsuo",
+    "domain": "starlamp.su"
+  },
+  {
     "network": "2a0a:6044:aca2::/48",
     "asn": "214675",
     "country_code": "JP",
@@ -95193,6 +95193,14 @@
   },
   {
     "network": "2a0a:6044:aca8::/48",
+    "asn": "214675",
+    "country_code": "JP",
+    "name": "Starlamp",
+    "org": "Hidenori Matsuo",
+    "domain": "starlamp.su"
+  },
+  {
+    "network": "2a0a:6044:acac::/48",
     "asn": "214675",
     "country_code": "JP",
     "name": "Starlamp",
@@ -96184,7 +96192,7 @@
     "domain": "nintendo.co.jp"
   },
   {
-    "network": "153.112.224.0/22",
+    "network": "153.112.224.0/23",
     "asn": "58653",
     "country_code": "JP",
     "name": "VolvoITJapan",

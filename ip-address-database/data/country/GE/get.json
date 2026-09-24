@@ -462,12 +462,6 @@
     "country_name": "Georgia"
   },
   {
-    "network": "46.175.134.0/24",
-    "continent_code": "AS",
-    "country_code": "GE",
-    "country_name": "Georgia"
-  },
-  {
     "network": "46.233.53.0/24",
     "continent_code": "AS",
     "country_code": "GE",
@@ -2454,7 +2448,13 @@
     "country_name": "Georgia"
   },
   {
-    "network": "172.111.129.0/24",
+    "network": "172.111.129.0/25",
+    "continent_code": "AS",
+    "country_code": "GE",
+    "country_name": "Georgia"
+  },
+  {
+    "network": "172.111.129.192/26",
     "continent_code": "AS",
     "country_code": "GE",
     "country_name": "Georgia"
@@ -2833,12 +2833,6 @@
   },
   {
     "network": "185.99.5.0/24",
-    "continent_code": "AS",
-    "country_code": "GE",
-    "country_name": "Georgia"
-  },
-  {
-    "network": "185.99.6.28/30",
     "continent_code": "AS",
     "country_code": "GE",
     "country_name": "Georgia"
@@ -3955,12 +3949,6 @@
   },
   {
     "network": "217.11.162.0/24",
-    "continent_code": "AS",
-    "country_code": "GE",
-    "country_name": "Georgia"
-  },
-  {
-    "network": "217.11.165.0/24",
     "continent_code": "AS",
     "country_code": "GE",
     "country_name": "Georgia"

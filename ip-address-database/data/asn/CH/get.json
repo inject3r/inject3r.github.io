@@ -1096,14 +1096,6 @@
     "domain": "infomaniak.ch"
   },
   {
-    "network": "37.156.46.0/24",
-    "asn": "29222",
-    "country_code": "CH",
-    "name": "Infomaniak-AS",
-    "org": "Infomaniak Network SA",
-    "domain": "infomaniak.ch"
-  },
-  {
     "network": "45.157.188.0/22",
     "asn": "29222",
     "country_code": "CH",
@@ -8497,6 +8489,14 @@
   },
   {
     "network": "2a03:2480:802d::/48",
+    "asn": "200107",
+    "country_code": "CH",
+    "name": "KL-EXT",
+    "org": "Kaspersky Lab Switzerland GmbH",
+    "domain": "kaspersky.com"
+  },
+  {
+    "network": "2a03:2480:802e::/48",
     "asn": "200107",
     "country_code": "CH",
     "name": "KL-EXT",
@@ -19480,14 +19480,6 @@
     "domain": "nts.ch"
   },
   {
-    "network": "2001:678:12a4::/48",
-    "asn": "15576",
-    "country_code": "CH",
-    "name": "NTS",
-    "org": "NTS workspace AG",
-    "domain": "nts.ch"
-  },
-  {
     "network": "2001:67c:168::/48",
     "asn": "15576",
     "country_code": "CH",
@@ -26008,6 +26000,14 @@
     "domain": "zscaler.com"
   },
   {
+    "network": "149.24.94.0/24",
+    "asn": "62044",
+    "country_code": "CH",
+    "name": "ZSCALER-EMEA",
+    "org": "Zscaler Switzerland GmbH",
+    "domain": "zscaler.com"
+  },
+  {
     "network": "149.117.167.0/24",
     "asn": "62044",
     "country_code": "CH",
@@ -30569,6 +30569,14 @@
   },
   {
     "network": "91.198.229.0/24",
+    "asn": "43906",
+    "country_code": "CH",
+    "name": "colozh",
+    "org": "NTS Colocation AG",
+    "domain": "colozueri.ch"
+  },
+  {
+    "network": "2001:678:12a4::/48",
     "asn": "43906",
     "country_code": "CH",
     "name": "colozh",

@@ -1712,14 +1712,6 @@
     "domain": "rt.ru"
   },
   {
-    "network": "5.142.176.0/21",
-    "asn": "12389",
-    "country_code": "RU",
-    "name": "ROSTELECOM-AS",
-    "org": "PJSC Rostelecom",
-    "domain": "rt.ru"
-  },
-  {
     "network": "5.142.192.0/18",
     "asn": "12389",
     "country_code": "RU",
@@ -10505,14 +10497,6 @@
   },
   {
     "network": "89.190.224.0/20",
-    "asn": "12389",
-    "country_code": "RU",
-    "name": "ROSTELECOM-AS",
-    "org": "PJSC Rostelecom",
-    "domain": "rt.ru"
-  },
-  {
-    "network": "89.190.240.0/21",
     "asn": "12389",
     "country_code": "RU",
     "name": "ROSTELECOM-AS",
@@ -30040,6 +30024,14 @@
     "domain": "beget.ru"
   },
   {
+    "network": "93.188.187.0/24",
+    "asn": "198610",
+    "country_code": "RU",
+    "name": "BEGET-AS",
+    "org": "Beget LLC",
+    "domain": "beget.ru"
+  },
+  {
     "network": "93.189.228.0/22",
     "asn": "198610",
     "country_code": "RU",
@@ -41281,6 +41273,14 @@
   },
   {
     "network": "109.196.103.0/24",
+    "asn": "9123",
+    "country_code": "RU",
+    "name": "TimeWeb-AS",
+    "org": "JSC \"TIMEWEB\"",
+    "domain": "timeweb.ru"
+  },
+  {
+    "network": "129.101.101.0/24",
     "asn": "9123",
     "country_code": "RU",
     "name": "TimeWeb-AS",
@@ -82232,14 +82232,6 @@
     "domain": "ttk.ru"
   },
   {
-    "network": "188.168.115.0/24",
-    "asn": "15774",
-    "country_code": "RU",
-    "name": "TTK-RTL",
-    "org": "Limited Liability Company \"TTK-Svyaz\"",
-    "domain": "ttk.ru"
-  },
-  {
     "network": "188.168.116.0/24",
     "asn": "15774",
     "country_code": "RU",
@@ -82648,22 +82640,6 @@
     "domain": "ttk.ru"
   },
   {
-    "network": "188.244.136.0/22",
-    "asn": "15774",
-    "country_code": "RU",
-    "name": "TTK-RTL",
-    "org": "Limited Liability Company \"TTK-Svyaz\"",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "188.244.136.0/23",
-    "asn": "15774",
-    "country_code": "RU",
-    "name": "TTK-RTL",
-    "org": "Limited Liability Company \"TTK-Svyaz\"",
-    "domain": "ttk.ru"
-  },
-  {
     "network": "188.244.140.0/24",
     "asn": "15774",
     "country_code": "RU",
@@ -82785,54 +82761,6 @@
   },
   {
     "network": "188.244.180.0/22",
-    "asn": "15774",
-    "country_code": "RU",
-    "name": "TTK-RTL",
-    "org": "Limited Liability Company \"TTK-Svyaz\"",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "188.244.184.0/22",
-    "asn": "15774",
-    "country_code": "RU",
-    "name": "TTK-RTL",
-    "org": "Limited Liability Company \"TTK-Svyaz\"",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "188.244.186.0/23",
-    "asn": "15774",
-    "country_code": "RU",
-    "name": "TTK-RTL",
-    "org": "Limited Liability Company \"TTK-Svyaz\"",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "188.244.187.0/24",
-    "asn": "15774",
-    "country_code": "RU",
-    "name": "TTK-RTL",
-    "org": "Limited Liability Company \"TTK-Svyaz\"",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "188.244.188.0/22",
-    "asn": "15774",
-    "country_code": "RU",
-    "name": "TTK-RTL",
-    "org": "Limited Liability Company \"TTK-Svyaz\"",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "188.244.188.0/23",
-    "asn": "15774",
-    "country_code": "RU",
-    "name": "TTK-RTL",
-    "org": "Limited Liability Company \"TTK-Svyaz\"",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "188.244.190.0/23",
     "asn": "15774",
     "country_code": "RU",
     "name": "TTK-RTL",
@@ -89312,6 +89240,14 @@
     "domain": "adminvps.ru"
   },
   {
+    "network": "168.113.157.0/24",
+    "asn": "211183",
+    "country_code": "RU",
+    "name": "AdminVPS",
+    "org": "AdminVPS OOO",
+    "domain": "adminvps.ru"
+  },
+  {
     "network": "168.113.208.0/24",
     "asn": "211183",
     "country_code": "RU",
@@ -91326,14 +91262,6 @@
     "name": "Lugalink",
     "org": "OOO \"LUGALINK\"",
     "domain": "yandex.ru"
-  },
-  {
-    "network": "5.42.214.0/24",
-    "asn": "60287",
-    "country_code": "RU",
-    "name": "IPDOM-AS",
-    "org": "IPDOM LLC",
-    "domain": ""
   },
   {
     "network": "5.42.215.0/24",
@@ -110784,6 +110712,14 @@
     "domain": "mtu.ru"
   },
   {
+    "network": "46.20.176.0/20",
+    "asn": "8359",
+    "country_code": "RU",
+    "name": "MTS",
+    "org": "MTS PJSC",
+    "domain": "mtu.ru"
+  },
+  {
     "network": "46.20.185.0/24",
     "asn": "8359",
     "country_code": "RU",
@@ -111392,6 +111328,22 @@
     "domain": "mtu.ru"
   },
   {
+    "network": "81.195.136.0/24",
+    "asn": "8359",
+    "country_code": "RU",
+    "name": "MTS",
+    "org": "MTS PJSC",
+    "domain": "mtu.ru"
+  },
+  {
+    "network": "81.195.137.0/24",
+    "asn": "8359",
+    "country_code": "RU",
+    "name": "MTS",
+    "org": "MTS PJSC",
+    "domain": "mtu.ru"
+  },
+  {
     "network": "81.195.146.0/23",
     "asn": "8359",
     "country_code": "RU",
@@ -111729,6 +111681,14 @@
   },
   {
     "network": "85.140.164.0/23",
+    "asn": "8359",
+    "country_code": "RU",
+    "name": "MTS",
+    "org": "MTS PJSC",
+    "domain": "mtu.ru"
+  },
+  {
+    "network": "85.141.16.0/21",
     "asn": "8359",
     "country_code": "RU",
     "name": "MTS",
@@ -112905,6 +112865,14 @@
   },
   {
     "network": "109.198.224.0/19",
+    "asn": "8359",
+    "country_code": "RU",
+    "name": "MTS",
+    "org": "MTS PJSC",
+    "domain": "mtu.ru"
+  },
+  {
+    "network": "109.201.64.0/21",
     "asn": "8359",
     "country_code": "RU",
     "name": "MTS",
@@ -114192,6 +114160,14 @@
     "domain": "mtu.ru"
   },
   {
+    "network": "2a03:6500::/36",
+    "asn": "8359",
+    "country_code": "RU",
+    "name": "MTS",
+    "org": "MTS PJSC",
+    "domain": "mtu.ru"
+  },
+  {
     "network": "2a03:6502::/36",
     "asn": "8359",
     "country_code": "RU",
@@ -114249,6 +114225,14 @@
   },
   {
     "network": "2a03:7202::/36",
+    "asn": "8359",
+    "country_code": "RU",
+    "name": "MTS",
+    "org": "MTS PJSC",
+    "domain": "mtu.ru"
+  },
+  {
+    "network": "2a03:7207::/36",
     "asn": "8359",
     "country_code": "RU",
     "name": "MTS",
@@ -123600,14 +123584,6 @@
     "domain": "orange-business.ru"
   },
   {
-    "network": "195.151.145.0/24",
-    "asn": "2854",
-    "country_code": "RU",
-    "name": "ROSPRINT-AS",
-    "org": "LLC Orange Business Services",
-    "domain": "orange-business.ru"
-  },
-  {
     "network": "195.151.158.0/24",
     "asn": "2854",
     "country_code": "RU",
@@ -130185,6 +130161,14 @@
   },
   {
     "network": "194.187.120.0/24",
+    "asn": "39238",
+    "country_code": "RU",
+    "name": "OKBPROGRESS",
+    "org": "OKB PROGRESS LLC",
+    "domain": "okbprogress.ru"
+  },
+  {
+    "network": "194.226.60.0/24",
     "asn": "39238",
     "country_code": "RU",
     "name": "OKBPROGRESS",
@@ -146729,6 +146713,14 @@
   },
   {
     "network": "31.59.210.0/24",
+    "asn": "219506",
+    "country_code": "RU",
+    "name": "TURTLEGUARD-CLOUD-AS",
+    "org": "Vladislav Doniy",
+    "domain": "turtleguard.cloud"
+  },
+  {
+    "network": "31.59.222.0/24",
     "asn": "219506",
     "country_code": "RU",
     "name": "TURTLEGUARD-CLOUD-AS",
@@ -171512,14 +171504,6 @@
     "domain": ""
   },
   {
-    "network": "37.19.72.0/21",
-    "asn": "42322",
-    "country_code": "RU",
-    "name": "LLC-ZHANR-AS",
-    "org": "MTS PJSC",
-    "domain": "mtu.ru"
-  },
-  {
     "network": "37.19.72.0/23",
     "asn": "42322",
     "country_code": "RU",
@@ -171529,14 +171513,6 @@
   },
   {
     "network": "37.19.76.0/23",
-    "asn": "42322",
-    "country_code": "RU",
-    "name": "LLC-ZHANR-AS",
-    "org": "MTS PJSC",
-    "domain": "mtu.ru"
-  },
-  {
-    "network": "46.20.176.0/20",
     "asn": "42322",
     "country_code": "RU",
     "name": "LLC-ZHANR-AS",
@@ -171569,14 +171545,6 @@
   },
   {
     "network": "46.20.179.0/24",
-    "asn": "42322",
-    "country_code": "RU",
-    "name": "LLC-ZHANR-AS",
-    "org": "MTS PJSC",
-    "domain": "mtu.ru"
-  },
-  {
-    "network": "109.201.64.0/19",
     "asn": "42322",
     "country_code": "RU",
     "name": "LLC-ZHANR-AS",
@@ -197072,6 +197040,14 @@
     "domain": "ztv.su"
   },
   {
+    "network": "77.91.88.0/24",
+    "asn": "43581",
+    "country_code": "RU",
+    "name": "ZTVCORP-AS",
+    "org": "ZTV CORP LLC",
+    "domain": "ztv.su"
+  },
+  {
     "network": "77.91.90.0/24",
     "asn": "43581",
     "country_code": "RU",
@@ -197577,14 +197553,6 @@
   },
   {
     "network": "185.17.64.0/24",
-    "asn": "204490",
-    "country_code": "RU",
-    "name": "ASKONTEL",
-    "org": "Kontel LLC",
-    "domain": "contell.ru"
-  },
-  {
-    "network": "185.36.23.0/24",
     "asn": "204490",
     "country_code": "RU",
     "name": "ASKONTEL",
@@ -199006,6 +198974,22 @@
     "name": "RADIOSET-AS",
     "org": "Filonenko Andrey PE",
     "domain": "piknet.ru"
+  },
+  {
+    "network": "46.8.219.0/24",
+    "asn": "212487",
+    "country_code": "RU",
+    "name": "GS-AS",
+    "org": "Gorodskie seti OOO",
+    "domain": "omega-connect.net"
+  },
+  {
+    "network": "109.248.61.0/24",
+    "asn": "212487",
+    "country_code": "RU",
+    "name": "GS-AS",
+    "org": "Gorodskie seti OOO",
+    "domain": "omega-connect.net"
   },
   {
     "network": "46.8.240.0/21",
@@ -209984,6 +209968,14 @@
     "domain": "eltc.ru"
   },
   {
+    "network": "95.181.11.0/24",
+    "asn": "39927",
+    "country_code": "RU",
+    "name": "Elight-AS",
+    "org": "E-Light-Telecom Ltd.",
+    "domain": "eltc.ru"
+  },
+  {
     "network": "95.181.13.0/24",
     "asn": "39927",
     "country_code": "RU",
@@ -216830,22 +216822,6 @@
     "name": "RSF-AS",
     "org": "Russian Scientific Fund",
     "domain": "rscf.ru"
-  },
-  {
-    "network": "46.243.176.0/24",
-    "asn": "35469",
-    "country_code": "RU",
-    "name": "AVANGARD-AS",
-    "org": "PJSC Joint-stock Commercial BANK AVANGARD",
-    "domain": "avangard.ru"
-  },
-  {
-    "network": "193.222.109.0/24",
-    "asn": "35469",
-    "country_code": "RU",
-    "name": "AVANGARD-AS",
-    "org": "PJSC Joint-stock Commercial BANK AVANGARD",
-    "domain": "avangard.ru"
   },
   {
     "network": "46.243.178.0/24",
@@ -241040,22 +241016,6 @@
     "domain": "curator.pro"
   },
   {
-    "network": "185.65.148.0/24",
-    "asn": "51115",
-    "country_code": "RU",
-    "name": "HLL-AS",
-    "org": "HLL LLC",
-    "domain": "curator.pro"
-  },
-  {
-    "network": "185.65.149.0/24",
-    "asn": "51115",
-    "country_code": "RU",
-    "name": "HLL-AS",
-    "org": "HLL LLC",
-    "domain": "curator.pro"
-  },
-  {
     "network": "185.65.150.0/23",
     "asn": "51115",
     "country_code": "RU",
@@ -257176,14 +257136,6 @@
     "domain": "wellserver.ru"
   },
   {
-    "network": "212.48.239.0/24",
-    "asn": "56864",
-    "country_code": "RU",
-    "name": "WELLSERVER-AS",
-    "org": "Xeon LLC",
-    "domain": "wellserver.ru"
-  },
-  {
     "network": "2a0a:6fc0::/29",
     "asn": "56864",
     "country_code": "RU",
@@ -268264,22 +268216,6 @@
     "domain": "beeline.ru"
   },
   {
-    "network": "95.27.212.0/23",
-    "asn": "34038",
-    "country_code": "RU",
-    "name": "COMTEL-TMN-AS",
-    "org": "PJSC \"Vimpelcom\"",
-    "domain": "beeline.ru"
-  },
-  {
-    "network": "95.27.214.0/23",
-    "asn": "34038",
-    "country_code": "RU",
-    "name": "COMTEL-TMN-AS",
-    "org": "PJSC \"Vimpelcom\"",
-    "domain": "beeline.ru"
-  },
-  {
     "network": "95.30.7.0/24",
     "asn": "34038",
     "country_code": "RU",
@@ -268496,6 +268432,62 @@
     "domain": "icomtex.ru"
   },
   {
+    "network": "2a04:2cc1::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc2::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc3::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc4::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc5::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc6::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc7::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
     "network": "88.81.212.0/24",
     "asn": "42071",
     "country_code": "RU",
@@ -268526,6 +268518,14 @@
     "name": "EOFFICE-AS",
     "org": "OOO Electronic Office",
     "domain": "inets.ru"
+  },
+  {
+    "network": "88.82.160.0/19",
+    "asn": "39178",
+    "country_code": "RU",
+    "name": "OPTILINK-AS",
+    "org": "Optilink Ltd",
+    "domain": "optilink.ru"
   },
   {
     "network": "88.82.160.0/22",
@@ -268937,14 +268937,6 @@
   },
   {
     "network": "193.232.121.0/24",
-    "asn": "50214",
-    "country_code": "RU",
-    "name": "QWARTA",
-    "org": "QWARTA LLC",
-    "domain": "qwarta.ru"
-  },
-  {
-    "network": "194.226.60.0/24",
     "asn": "50214",
     "country_code": "RU",
     "name": "QWARTA",
@@ -272784,6 +272776,14 @@
     "domain": "yandex-team.ru"
   },
   {
+    "network": "201.50.118.0/24",
+    "asn": "210656",
+    "country_code": "RU",
+    "name": "YACLOUDBMS",
+    "org": "Yandex.Cloud LLC",
+    "domain": "yandex-team.ru"
+  },
+  {
     "network": "89.223.9.0/24",
     "asn": "215013",
     "country_code": "RU",
@@ -273312,6 +273312,46 @@
     "domain": "khakassia.ru"
   },
   {
+    "network": "89.249.150.0/24",
+    "asn": "48190",
+    "country_code": "RU",
+    "name": "T2-EKATERINBURG-AS",
+    "org": "T2 Mobile LLC",
+    "domain": "t2.ru"
+  },
+  {
+    "network": "89.253.0.0/18",
+    "asn": "48190",
+    "country_code": "RU",
+    "name": "T2-EKATERINBURG-AS",
+    "org": "T2 Mobile LLC",
+    "domain": "t2.ru"
+  },
+  {
+    "network": "90.150.64.0/20",
+    "asn": "48190",
+    "country_code": "RU",
+    "name": "T2-EKATERINBURG-AS",
+    "org": "T2 Mobile LLC",
+    "domain": "t2.ru"
+  },
+  {
+    "network": "109.235.88.0/21",
+    "asn": "48190",
+    "country_code": "RU",
+    "name": "T2-EKATERINBURG-AS",
+    "org": "T2 Mobile LLC",
+    "domain": "t2.ru"
+  },
+  {
+    "network": "176.59.192.0/19",
+    "asn": "48190",
+    "country_code": "RU",
+    "name": "T2-EKATERINBURG-AS",
+    "org": "T2 Mobile LLC",
+    "domain": "t2.ru"
+  },
+  {
     "network": "89.249.160.0/20",
     "asn": "2848",
     "country_code": "RU",
@@ -273694,38 +273734,6 @@
     "name": "ASN-TATINF",
     "org": "JSC Tatmedia",
     "domain": "mts.ru"
-  },
-  {
-    "network": "89.253.0.0/18",
-    "asn": "48190",
-    "country_code": "RU",
-    "name": "T2-EKATERINBURG-AS",
-    "org": "T2 Mobile LLC",
-    "domain": "t2.ru"
-  },
-  {
-    "network": "90.150.64.0/20",
-    "asn": "48190",
-    "country_code": "RU",
-    "name": "T2-EKATERINBURG-AS",
-    "org": "T2 Mobile LLC",
-    "domain": "t2.ru"
-  },
-  {
-    "network": "109.235.88.0/21",
-    "asn": "48190",
-    "country_code": "RU",
-    "name": "T2-EKATERINBURG-AS",
-    "org": "T2 Mobile LLC",
-    "domain": "t2.ru"
-  },
-  {
-    "network": "176.59.192.0/19",
-    "asn": "48190",
-    "country_code": "RU",
-    "name": "T2-EKATERINBURG-AS",
-    "org": "T2 Mobile LLC",
-    "domain": "t2.ru"
   },
   {
     "network": "89.255.64.0/19",
@@ -278208,7 +278216,7 @@
     "domain": "dataspace.ru"
   },
   {
-    "network": "153.79.188.0/22",
+    "network": "153.79.188.0/23",
     "asn": "209930",
     "country_code": "RU",
     "name": "DSP",
@@ -280184,14 +280192,6 @@
     "domain": "lugtel.com"
   },
   {
-    "network": "195.3.133.0/24",
-    "asn": "29031",
-    "country_code": "RU",
-    "name": "LTC",
-    "org": "Lugansk Telephone Company LLC",
-    "domain": "lugtel.com"
-  },
-  {
     "network": "195.3.134.0/24",
     "asn": "29031",
     "country_code": "RU",
@@ -281792,14 +281792,6 @@
     "domain": "uralhosting.net"
   },
   {
-    "network": "195.206.240.0/24",
-    "asn": "34241",
-    "country_code": "RU",
-    "name": "NCT-AS",
-    "org": "New Communication Technologies LLC",
-    "domain": "uralhosting.net"
-  },
-  {
     "network": "2a04:c480::/29",
     "asn": "34241",
     "country_code": "RU",
@@ -282369,6 +282361,14 @@
   },
   {
     "network": "91.206.242.0/23",
+    "asn": "47854",
+    "country_code": "RU",
+    "name": "QWERTY-AS",
+    "org": "Qwerty Ltd.",
+    "domain": "perm.ru"
+  },
+  {
+    "network": "91.206.243.0/24",
     "asn": "47854",
     "country_code": "RU",
     "name": "QWERTY-AS",
@@ -290929,7 +290929,55 @@
   },
   {
     "network": "91.229.48.0/24",
-    "asn": "56954",
+    "asn": "52163",
+    "country_code": "RU",
+    "name": "Optima-AS",
+    "org": "Optima Communications, LLC",
+    "domain": "optimacoms.ru"
+  },
+  {
+    "network": "91.230.10.0/23",
+    "asn": "52163",
+    "country_code": "RU",
+    "name": "Optima-AS",
+    "org": "Optima Communications, LLC",
+    "domain": "optimacoms.ru"
+  },
+  {
+    "network": "176.120.68.0/22",
+    "asn": "52163",
+    "country_code": "RU",
+    "name": "Optima-AS",
+    "org": "Optima Communications, LLC",
+    "domain": "optimacoms.ru"
+  },
+  {
+    "network": "194.36.16.0/24",
+    "asn": "52163",
+    "country_code": "RU",
+    "name": "Optima-AS",
+    "org": "Optima Communications, LLC",
+    "domain": "optimacoms.ru"
+  },
+  {
+    "network": "195.20.128.0/24",
+    "asn": "52163",
+    "country_code": "RU",
+    "name": "Optima-AS",
+    "org": "Optima Communications, LLC",
+    "domain": "optimacoms.ru"
+  },
+  {
+    "network": "195.211.36.0/22",
+    "asn": "52163",
+    "country_code": "RU",
+    "name": "Optima-AS",
+    "org": "Optima Communications, LLC",
+    "domain": "optimacoms.ru"
+  },
+  {
+    "network": "2a13:6e00::/29",
+    "asn": "52163",
     "country_code": "RU",
     "name": "Optima-AS",
     "org": "Optima Communications, LLC",
@@ -291118,54 +291166,6 @@
     "name": "Rosnefteflot-AS",
     "org": "JSC Rosnefteflot",
     "domain": "rosnefteflot.ru"
-  },
-  {
-    "network": "91.230.10.0/23",
-    "asn": "52163",
-    "country_code": "RU",
-    "name": "Optima-AS",
-    "org": "Optima Communications, LLC",
-    "domain": "optimacoms.ru"
-  },
-  {
-    "network": "176.120.68.0/22",
-    "asn": "52163",
-    "country_code": "RU",
-    "name": "Optima-AS",
-    "org": "Optima Communications, LLC",
-    "domain": "optimacoms.ru"
-  },
-  {
-    "network": "194.36.16.0/24",
-    "asn": "52163",
-    "country_code": "RU",
-    "name": "Optima-AS",
-    "org": "Optima Communications, LLC",
-    "domain": "optimacoms.ru"
-  },
-  {
-    "network": "195.20.128.0/24",
-    "asn": "52163",
-    "country_code": "RU",
-    "name": "Optima-AS",
-    "org": "Optima Communications, LLC",
-    "domain": "optimacoms.ru"
-  },
-  {
-    "network": "195.211.36.0/22",
-    "asn": "52163",
-    "country_code": "RU",
-    "name": "Optima-AS",
-    "org": "Optima Communications, LLC",
-    "domain": "optimacoms.ru"
-  },
-  {
-    "network": "2a13:6e00::/29",
-    "asn": "52163",
-    "country_code": "RU",
-    "name": "Optima-AS",
-    "org": "Optima Communications, LLC",
-    "domain": "optimacoms.ru"
   },
   {
     "network": "91.230.18.0/23",
@@ -292317,7 +292317,7 @@
     "country_code": "RU",
     "name": "LESTA-AS",
     "org": "Lesta Ltd.",
-    "domain": "net-art.cz"
+    "domain": "lesta.group"
   },
   {
     "network": "91.233.63.0/24",
@@ -292937,6 +292937,14 @@
   },
   {
     "network": "91.235.146.0/23",
+    "asn": "57808",
+    "country_code": "RU",
+    "name": "AS-SATDV-AMK",
+    "org": "SAT-DV LLC",
+    "domain": "sat-dv.ru"
+  },
+  {
+    "network": "91.235.146.0/24",
     "asn": "57808",
     "country_code": "RU",
     "name": "AS-SATDV-AMK",
@@ -301240,6 +301248,14 @@
     "domain": "itka24.ru"
   },
   {
+    "network": "2a11:8945::/32",
+    "asn": "209763",
+    "country_code": "RU",
+    "name": "IKINVESTOR-AS",
+    "org": "IK Investor JSC",
+    "domain": "itka24.ru"
+  },
+  {
     "network": "94.142.128.0/24",
     "asn": "207822",
     "country_code": "RU",
@@ -308502,14 +308518,6 @@
     "name": "Toledo-AS",
     "org": "\"Trading House \"Toledo\" Ltd.",
     "domain": "toledo24.ru"
-  },
-  {
-    "network": "141.101.224.0/24",
-    "asn": "203371",
-    "country_code": "RU",
-    "name": "Transinform-AS",
-    "org": "\"Trans inform\" LLC",
-    "domain": "transinform.info"
   },
   {
     "network": "141.101.225.0/24",
@@ -316672,14 +316680,6 @@
     "domain": "stalnet.ru"
   },
   {
-    "network": "178.219.184.0/21",
-    "asn": "50553",
-    "country_code": "RU",
-    "name": "ASSTALNET",
-    "org": "OOO Stalnet",
-    "domain": "stalnet.ru"
-  },
-  {
     "network": "178.219.184.0/22",
     "asn": "50553",
     "country_code": "RU",
@@ -323304,14 +323304,6 @@
     "domain": "nordlights.net"
   },
   {
-    "network": "2a10:ccc1:1338::/47",
-    "asn": "213461",
-    "country_code": "RU",
-    "name": "NorthernLightsCloud",
-    "org": "Igor Andreevich Nemtsov",
-    "domain": "nordlights.net"
-  },
-  {
     "network": "185.163.156.0/24",
     "asn": "207104",
     "country_code": "RU",
@@ -325425,14 +325417,6 @@
   },
   {
     "network": "193.168.128.0/24",
-    "asn": "35479",
-    "country_code": "RU",
-    "name": "ACTIVEBC-AS",
-    "org": "ActiveBusinessConsult LLC",
-    "domain": "activebc.ru"
-  },
-  {
-    "network": "193.168.129.0/24",
     "asn": "35479",
     "country_code": "RU",
     "name": "ACTIVEBC-AS",
@@ -327840,14 +327824,6 @@
     "domain": "tilda.ru"
   },
   {
-    "network": "193.3.185.0/24",
-    "asn": "210553",
-    "country_code": "RU",
-    "name": "connect-as",
-    "org": "Connecting LLC",
-    "domain": ""
-  },
-  {
     "network": "193.3.230.0/24",
     "asn": "212670",
     "country_code": "RU",
@@ -328486,14 +328462,6 @@
     "name": "EXPERTTELECOM-AS",
     "org": "Expert Telecom LLC",
     "domain": "eg-ykt.ru"
-  },
-  {
-    "network": "193.35.32.0/23",
-    "asn": "59404",
-    "country_code": "RU",
-    "name": "GlobalTV-AS",
-    "org": "Korkino-Cable Television Networks Ltd",
-    "domain": ""
   },
   {
     "network": "193.35.35.0/24",
@@ -330454,6 +330422,14 @@
     "name": "KELLOGG-RUS-AS",
     "org": "Lubyatovo LLC",
     "domain": "kellogg.com"
+  },
+  {
+    "network": "193.222.109.0/24",
+    "asn": "35469",
+    "country_code": "RU",
+    "name": "AVANGARD-AS",
+    "org": "PJSC Joint-stock Commercial BANK AVANGARD",
+    "domain": "avangard.ru"
   },
   {
     "network": "193.223.68.0/24",
@@ -333592,14 +333568,6 @@
     "domain": "cmpfm.ru"
   },
   {
-    "network": "194.85.97.0/24",
-    "asn": "49050",
-    "country_code": "RU",
-    "name": "JETMONEY",
-    "org": "Limited Liability Company Microcredit Company \"Jet Money\"",
-    "domain": "jetmoney.ru"
-  },
-  {
     "network": "194.85.98.0/24",
     "asn": "211697",
     "country_code": "RU",
@@ -334814,22 +334782,6 @@
     "name": "AKLTD",
     "org": "A&K Limited Liability Company",
     "domain": "ak-plus.ru"
-  },
-  {
-    "network": "194.190.53.0/24",
-    "asn": "203794",
-    "country_code": "RU",
-    "name": "Gals-Telecom-AS",
-    "org": "LLC Gals-Telecom",
-    "domain": "gals-telecom.ru"
-  },
-  {
-    "network": "194.190.54.0/24",
-    "asn": "203794",
-    "country_code": "RU",
-    "name": "Gals-Telecom-AS",
-    "org": "LLC Gals-Telecom",
-    "domain": "gals-telecom.ru"
   },
   {
     "network": "194.190.55.0/24",
@@ -341240,6 +341192,78 @@
     "domain": "hiz.ru"
   },
   {
+    "network": "217.60.240.0/24",
+    "asn": "201279",
+    "country_code": "RU",
+    "name": "AWAS-AS",
+    "org": "Loginov Vladislav",
+    "domain": "awas.ovh"
+  },
+  {
+    "network": "217.60.245.0/24",
+    "asn": "201279",
+    "country_code": "RU",
+    "name": "AWAS-AS",
+    "org": "Loginov Vladislav",
+    "domain": "awas.ovh"
+  },
+  {
+    "network": "2a0b:4e07:a40::/44",
+    "asn": "201279",
+    "country_code": "RU",
+    "name": "AWAS-AS",
+    "org": "Loginov Vladislav",
+    "domain": "awas.ovh"
+  },
+  {
+    "network": "2a0b:4e07:a50::/48",
+    "asn": "201279",
+    "country_code": "RU",
+    "name": "AWAS-AS",
+    "org": "Loginov Vladislav",
+    "domain": "awas.ovh"
+  },
+  {
+    "network": "2a0b:4e07:a60::/44",
+    "asn": "201279",
+    "country_code": "RU",
+    "name": "AWAS-AS",
+    "org": "Loginov Vladislav",
+    "domain": "awas.ovh"
+  },
+  {
+    "network": "2a0d:d940:3000::/36",
+    "asn": "201279",
+    "country_code": "RU",
+    "name": "AWAS-AS",
+    "org": "Loginov Vladislav",
+    "domain": "awas.ovh"
+  },
+  {
+    "network": "2a0f:6282::/36",
+    "asn": "201279",
+    "country_code": "RU",
+    "name": "AWAS-AS",
+    "org": "Loginov Vladislav",
+    "domain": "awas.ovh"
+  },
+  {
+    "network": "2a0f:6282::/40",
+    "asn": "201279",
+    "country_code": "RU",
+    "name": "AWAS-AS",
+    "org": "Loginov Vladislav",
+    "domain": "awas.ovh"
+  },
+  {
+    "network": "2a0f:6282:100::/48",
+    "asn": "201279",
+    "country_code": "RU",
+    "name": "AWAS-AS",
+    "org": "Loginov Vladislav",
+    "domain": "awas.ovh"
+  },
+  {
     "network": "217.66.144.0/22",
     "asn": "29209",
     "country_code": "RU",
@@ -342517,7 +342541,7 @@
     "country_code": "RU",
     "name": "CHEESE-AS",
     "org": "Egor Belanov",
-    "domain": "crdrd.zip"
+    "domain": "is-definitely.gay"
   },
   {
     "network": "2a0b:4e07:6301::/48",
@@ -342525,7 +342549,7 @@
     "country_code": "RU",
     "name": "CHEESE-AS",
     "org": "Egor Belanov",
-    "domain": "crdrd.zip"
+    "domain": "is-definitely.gay"
   },
   {
     "network": "2a0b:4e07:63f0::/48",
@@ -342533,7 +342557,7 @@
     "country_code": "RU",
     "name": "CHEESE-AS",
     "org": "Egor Belanov",
-    "domain": "crdrd.zip"
+    "domain": "is-definitely.gay"
   },
   {
     "network": "2a0d:8500::/29",

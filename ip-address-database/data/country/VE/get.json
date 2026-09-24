@@ -246,6 +246,12 @@
     "country_name": "Venezuela"
   },
   {
+    "network": "38.41.42.4/30",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
     "network": "38.41.42.14/31",
     "continent_code": "SA",
     "country_code": "VE",
@@ -258,13 +264,13 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "38.41.42.88/30",
+    "network": "38.41.42.96/30",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
   },
   {
-    "network": "38.41.42.96/30",
+    "network": "38.41.42.114/31",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -282,7 +288,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "38.41.42.216/30",
+    "network": "38.41.42.216/29",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -294,7 +300,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "38.41.43.84/30",
+    "network": "38.41.43.84/31",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -438,19 +444,13 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "38.64.172.76/31",
+    "network": "38.64.172.84/30",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
   },
   {
-    "network": "38.64.172.86/31",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
-    "network": "38.64.173.0/28",
+    "network": "38.64.173.0/24",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -978,12 +978,6 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "38.150.94.82/31",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
     "network": "38.150.94.108/30",
     "continent_code": "SA",
     "country_code": "VE",
@@ -991,12 +985,6 @@
   },
   {
     "network": "38.150.94.112/30",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
-    "network": "38.150.94.118/31",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -1014,7 +1002,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "38.150.94.160/28",
+    "network": "38.150.94.168/29",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -1026,7 +1014,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "38.150.94.224/29",
+    "network": "38.150.94.224/30",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -1182,7 +1170,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "38.188.52.0/22",
+    "network": "38.188.52.0/23",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -1200,7 +1188,19 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "38.188.232.0/21",
+    "network": "38.188.232.0/23",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
+    "network": "38.188.234.0/24",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
+    "network": "38.188.236.0/22",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -1788,7 +1788,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "45.192.130.224/28",
+    "network": "45.192.130.224/31",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -2149,12 +2149,6 @@
   },
   {
     "network": "82.86.167.0/24",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
-    "network": "82.86.168.40/31",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -3864,13 +3858,19 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "141.136.63.0/27",
+    "network": "141.136.63.0/28",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
   },
   {
-    "network": "141.136.63.88/30",
+    "network": "141.136.63.24/29",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
+    "network": "141.136.63.80/28",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -3984,7 +3984,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "149.100.146.38/31",
+    "network": "149.100.146.32/30",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -4044,7 +4044,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "153.51.225.156/31",
+    "network": "153.51.225.152/29",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -4134,31 +4134,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "154.27.132.46/31",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
-    "network": "154.27.132.50/31",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
-    "network": "154.27.132.64/31",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
     "network": "154.27.132.72/30",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
-    "network": "154.27.132.76/31",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -4176,18 +4152,6 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "154.27.132.104/31",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
-    "network": "154.27.132.114/31",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
     "network": "154.27.132.120/29",
     "continent_code": "SA",
     "country_code": "VE",
@@ -4200,13 +4164,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "154.27.132.144/29",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
-    "network": "154.27.132.156/30",
+    "network": "154.27.132.144/28",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -4218,7 +4176,13 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "154.27.132.192/28",
+    "network": "154.27.132.192/29",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
+    "network": "154.27.132.204/30",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -4231,12 +4195,6 @@
   },
   {
     "network": "154.27.132.232/29",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
-    "network": "154.27.132.240/28",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -4482,6 +4440,12 @@
     "country_name": "Venezuela"
   },
   {
+    "network": "154.95.12.0/22",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
     "network": "154.95.16.0/21",
     "continent_code": "SA",
     "country_code": "VE",
@@ -4680,6 +4644,12 @@
     "country_name": "Venezuela"
   },
   {
+    "network": "156.232.4.0/23",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
     "network": "156.232.34.0/23",
     "continent_code": "SA",
     "country_code": "VE",
@@ -4716,12 +4686,6 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "156.232.108.0/22",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
     "network": "156.232.112.0/20",
     "continent_code": "SA",
     "country_code": "VE",
@@ -4740,7 +4704,19 @@
     "country_name": "Venezuela"
   },
   {
+    "network": "156.238.73.0/24",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
     "network": "156.238.74.0/23",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
+    "network": "156.238.76.0/24",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -5418,19 +5394,19 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "172.94.21.128/30",
-    "continent_code": "SA",
-    "country_code": "VE",
-    "country_name": "Venezuela"
-  },
-  {
-    "network": "172.94.21.132/31",
+    "network": "172.94.21.128/29",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
   },
   {
     "network": "172.94.21.136/30",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
+    "network": "172.94.21.142/31",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -5826,7 +5802,19 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "185.240.164.96/28",
+    "network": "185.240.164.68/31",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
+    "network": "185.240.164.102/31",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
+    "network": "185.240.165.76/31",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -6055,6 +6043,12 @@
   },
   {
     "network": "190.52.108.0/23",
+    "continent_code": "SA",
+    "country_code": "VE",
+    "country_name": "Venezuela"
+  },
+  {
+    "network": "190.52.110.0/24",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"
@@ -7512,7 +7506,7 @@
     "country_name": "Venezuela"
   },
   {
-    "network": "206.85.164.0/26",
+    "network": "206.85.164.32/27",
     "continent_code": "SA",
     "country_code": "VE",
     "country_name": "Venezuela"

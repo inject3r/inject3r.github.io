@@ -440,14 +440,6 @@
     "domain": "koddos.com"
   },
   {
-    "network": "172.110.216.0/24",
-    "asn": "206264",
-    "country_code": "SC",
-    "name": "AMARUTU-TECHNOLOGY",
-    "org": "Amarutu Technology Ltd",
-    "domain": "koddos.com"
-  },
-  {
     "network": "172.111.168.0/24",
     "asn": "206264",
     "country_code": "SC",
@@ -929,14 +921,6 @@
   },
   {
     "network": "213.111.158.0/23",
-    "asn": "43180",
-    "country_code": "SC",
-    "name": "TRUNKNETWORKS-AS",
-    "org": "Trunk Networks LTD",
-    "domain": "trunk-networks.net"
-  },
-  {
-    "network": "2a09:2dc2::/32",
     "asn": "43180",
     "country_code": "SC",
     "name": "TRUNKNETWORKS-AS",
@@ -5984,7 +5968,7 @@
     "domain": "justg.com"
   },
   {
-    "network": "102.220.88.0/24",
+    "network": "102.220.88.0/22",
     "asn": "328543",
     "country_code": "SC",
     "name": "sun-asn",
@@ -6000,7 +5984,7 @@
     "domain": "justg.com"
   },
   {
-    "network": "102.220.91.0/24",
+    "network": "112.142.192.0/21",
     "asn": "328543",
     "country_code": "SC",
     "name": "sun-asn",
@@ -9705,6 +9689,14 @@
   },
   {
     "network": "2a0c:9a40:8be0::/44",
+    "asn": "219229",
+    "country_code": "SC",
+    "name": "ImpCom",
+    "org": "ImpCom International Ltd.",
+    "domain": "imprezahost.com"
+  },
+  {
+    "network": "2a0c:9a40:8be1::/48",
     "asn": "219229",
     "country_code": "SC",
     "name": "ImpCom",

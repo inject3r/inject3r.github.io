@@ -834,13 +834,7 @@
     "country_name": "Bangladesh"
   },
   {
-    "network": "45.249.103.112/28",
-    "continent_code": "AS",
-    "country_code": "BD",
-    "country_name": "Bangladesh"
-  },
-  {
-    "network": "45.249.103.128/25",
+    "network": "45.249.103.0/24",
     "continent_code": "AS",
     "country_code": "BD",
     "country_name": "Bangladesh"
@@ -5460,7 +5454,13 @@
     "country_name": "Bangladesh"
   },
   {
-    "network": "103.134.40.0/22",
+    "network": "103.134.40.0/23",
+    "continent_code": "AS",
+    "country_code": "BD",
+    "country_name": "Bangladesh"
+  },
+  {
+    "network": "103.134.42.0/24",
     "continent_code": "AS",
     "country_code": "BD",
     "country_name": "Bangladesh"
@@ -5887,6 +5887,12 @@
   },
   {
     "network": "103.139.253.0/24",
+    "continent_code": "AS",
+    "country_code": "BD",
+    "country_name": "Bangladesh"
+  },
+  {
+    "network": "103.140.24.0/23",
     "continent_code": "AS",
     "country_code": "BD",
     "country_name": "Bangladesh"
@@ -7914,7 +7920,7 @@
     "country_name": "Bangladesh"
   },
   {
-    "network": "103.167.16.0/22",
+    "network": "103.167.16.0/23",
     "continent_code": "AS",
     "country_code": "BD",
     "country_name": "Bangladesh"
@@ -8946,7 +8952,7 @@
     "country_name": "Bangladesh"
   },
   {
-    "network": "103.183.140.0/23",
+    "network": "103.183.140.0/24",
     "continent_code": "AS",
     "country_code": "BD",
     "country_name": "Bangladesh"
@@ -9828,7 +9834,7 @@
     "country_name": "Bangladesh"
   },
   {
-    "network": "103.218.25.32/28",
+    "network": "103.218.25.0/25",
     "continent_code": "AS",
     "country_code": "BD",
     "country_name": "Bangladesh"
@@ -14358,6 +14364,18 @@
     "country_name": "Bangladesh"
   },
   {
+    "network": "163.52.236.0/23",
+    "continent_code": "AS",
+    "country_code": "BD",
+    "country_name": "Bangladesh"
+  },
+  {
+    "network": "163.52.240.0/22",
+    "continent_code": "AS",
+    "country_code": "BD",
+    "country_name": "Bangladesh"
+  },
+  {
     "network": "163.53.140.0/22",
     "continent_code": "AS",
     "country_code": "BD",
@@ -16609,6 +16627,12 @@
   },
   {
     "network": "220.158.232.128/27",
+    "continent_code": "AS",
+    "country_code": "BD",
+    "country_name": "Bangladesh"
+  },
+  {
+    "network": "220.158.232.160/28",
     "continent_code": "AS",
     "country_code": "BD",
     "country_name": "Bangladesh"
@@ -33426,7 +33450,25 @@
     "country_name": "Bangladesh"
   },
   {
+    "network": "2001:df7:9240::/48",
+    "continent_code": "AS",
+    "country_code": "BD",
+    "country_name": "Bangladesh"
+  },
+  {
+    "network": "2001:df7:9340::/48",
+    "continent_code": "AS",
+    "country_code": "BD",
+    "country_name": "Bangladesh"
+  },
+  {
     "network": "2001:df7:9380::/48",
+    "continent_code": "AS",
+    "country_code": "BD",
+    "country_name": "Bangladesh"
+  },
+  {
+    "network": "2001:df7:93c0::/48",
     "continent_code": "AS",
     "country_code": "BD",
     "country_name": "Bangladesh"

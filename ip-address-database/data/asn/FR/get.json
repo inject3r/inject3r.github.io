@@ -32176,6 +32176,14 @@
     "domain": "aryk.fr"
   },
   {
+    "network": "2001:67c:26c0::/48",
+    "asn": "211377",
+    "country_code": "FR",
+    "name": "Aryk",
+    "org": "ARYK SAS",
+    "domain": "aryk.fr"
+  },
+  {
     "network": "31.169.40.0/21",
     "asn": "197492",
     "country_code": "FR",
@@ -41129,6 +41137,22 @@
   },
   {
     "network": "185.153.30.0/23",
+    "asn": "198034",
+    "country_code": "FR",
+    "name": "SENSOTELECOM-AS",
+    "org": "VOIP Telecom SAS",
+    "domain": "stelogy.com"
+  },
+  {
+    "network": "217.194.80.0/23",
+    "asn": "198034",
+    "country_code": "FR",
+    "name": "SENSOTELECOM-AS",
+    "org": "VOIP Telecom SAS",
+    "domain": "stelogy.com"
+  },
+  {
+    "network": "217.194.82.0/24",
     "asn": "198034",
     "country_code": "FR",
     "name": "SENSOTELECOM-AS",
@@ -71944,14 +71968,6 @@
     "domain": ""
   },
   {
-    "network": "90.84.160.0/24",
-    "asn": "2285",
-    "country_code": "FR",
-    "name": "OCB_HONEY_CDN_ASN",
-    "org": "Orange S.A.",
-    "domain": ""
-  },
-  {
     "network": "90.84.164.0/24",
     "asn": "2285",
     "country_code": "FR",
@@ -71961,14 +71977,6 @@
   },
   {
     "network": "2a01:c9c0:8016::/48",
-    "asn": "2285",
-    "country_code": "FR",
-    "name": "OCB_HONEY_CDN_ASN",
-    "org": "Orange S.A.",
-    "domain": ""
-  },
-  {
-    "network": "2a01:c9c0:801a::/48",
     "asn": "2285",
     "country_code": "FR",
     "name": "OCB_HONEY_CDN_ASN",
@@ -80984,6 +80992,14 @@
     "domain": "e-i.com"
   },
   {
+    "network": "145.226.208.0/20",
+    "asn": "8255",
+    "country_code": "FR",
+    "name": "EURO-INFORMATION",
+    "org": "Euro-Information-Europeenne de Traitement de l'Information SAS",
+    "domain": "e-i.com"
+  },
+  {
     "network": "145.226.208.0/21",
     "asn": "8255",
     "country_code": "FR",
@@ -80993,14 +81009,6 @@
   },
   {
     "network": "145.226.216.0/23",
-    "asn": "8255",
-    "country_code": "FR",
-    "name": "EURO-INFORMATION",
-    "org": "Euro-Information-Europeenne de Traitement de l'Information SAS",
-    "domain": "e-i.com"
-  },
-  {
-    "network": "145.226.218.0/23",
     "asn": "8255",
     "country_code": "FR",
     "name": "EURO-INFORMATION",
@@ -85685,7 +85693,7 @@
     "country_code": "FR",
     "name": "ONCLOUD",
     "org": "Bouyges Telecom Business Solution SAS",
-    "domain": "oncloud.fr"
+    "domain": "bouyguestelecom-solution.fr"
   },
   {
     "network": "193.107.64.0/24",
@@ -85693,7 +85701,7 @@
     "country_code": "FR",
     "name": "ONCLOUD",
     "org": "Bouyges Telecom Business Solution SAS",
-    "domain": "oncloud.fr"
+    "domain": "bouyguestelecom-solution.fr"
   },
   {
     "network": "2a07:1780::/29",
@@ -85701,7 +85709,7 @@
     "country_code": "FR",
     "name": "ONCLOUD",
     "org": "Bouyges Telecom Business Solution SAS",
-    "domain": "oncloud.fr"
+    "domain": "bouyguestelecom-solution.fr"
   },
   {
     "network": "178.17.220.0/24",
@@ -94320,14 +94328,6 @@
     "domain": "aevoo.fr"
   },
   {
-    "network": "2a14:26c0::/29",
-    "asn": "213432",
-    "country_code": "FR",
-    "name": "aevoo",
-    "org": "Aevoo SARL",
-    "domain": "aevoo.fr"
-  },
-  {
     "network": "193.34.19.0/24",
     "asn": "41863",
     "country_code": "FR",
@@ -102272,12 +102272,12 @@
     "domain": "enpls.org"
   },
   {
-    "network": "2a0f:6284:4210::/48",
-    "asn": "205778",
+    "network": "2a0f:3400:500::/40",
+    "asn": "41157",
     "country_code": "FR",
-    "name": "WDH",
-    "org": "WeDoHosting SAS",
-    "domain": "wdh.fr"
+    "name": "NINE-IX-BACKBONE-ASN-L3-EDGE-CACHE",
+    "org": "oui.do/netsys SAS",
+    "domain": "noir.network"
   },
   {
     "network": "2a0f:85c1:36a::/48",
