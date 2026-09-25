@@ -1832,14 +1832,6 @@
     "domain": "moldtelecom.md"
   },
   {
-    "network": "178.132.160.0/19",
-    "asn": "8926",
-    "country_code": "MD",
-    "name": "MOLDTELECOM-AS",
-    "org": "Moldtelecom SA",
-    "domain": "moldtelecom.md"
-  },
-  {
     "network": "185.28.104.0/22",
     "asn": "8926",
     "country_code": "MD",
@@ -3504,6 +3496,14 @@
     "domain": "starnet.md"
   },
   {
+    "network": "89.28.12.0/24",
+    "asn": "31252",
+    "country_code": "MD",
+    "name": "STARNET-AS",
+    "org": "StarNet Solutii SRL",
+    "domain": "starnet.md"
+  },
+  {
     "network": "89.28.110.0/24",
     "asn": "31252",
     "country_code": "MD",
@@ -3854,6 +3854,14 @@
     "name": "AS-ITFRUIT",
     "org": "''IT FRUIT'' S.R.L.",
     "domain": "mangohost.net"
+  },
+  {
+    "network": "45.115.27.0/24",
+    "asn": "209883",
+    "country_code": "MD",
+    "name": "Contrust-Solutions",
+    "org": "Contrust Solutions S.R.L.",
+    "domain": ""
   },
   {
     "network": "45.134.219.0/24",
@@ -5833,38 +5841,6 @@
   },
   {
     "network": "188.210.251.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
-    "network": "188.212.8.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
-    "network": "188.212.9.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
-    "network": "188.212.10.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
-    "network": "188.212.11.0/24",
     "asn": "213705",
     "country_code": "MD",
     "name": "DIGITAL-NETWORK-SRL",
@@ -8248,6 +8224,30 @@
     "domain": ""
   },
   {
+    "network": "95.134.116.0/24",
+    "asn": "43094",
+    "country_code": "MD",
+    "name": "Digital-Network",
+    "org": "DIGITAL NETWORK S.R.L.",
+    "domain": ""
+  },
+  {
+    "network": "95.135.161.0/24",
+    "asn": "43094",
+    "country_code": "MD",
+    "name": "Digital-Network",
+    "org": "DIGITAL NETWORK S.R.L.",
+    "domain": ""
+  },
+  {
+    "network": "178.92.123.0/24",
+    "asn": "43094",
+    "country_code": "MD",
+    "name": "Digital-Network",
+    "org": "DIGITAL NETWORK S.R.L.",
+    "domain": ""
+  },
+  {
     "network": "95.182.76.0/24",
     "asn": "64453",
     "country_code": "MD",
@@ -8278,6 +8278,14 @@
     "name": "AS-INETEHNO",
     "org": "Inet Tehno SRL",
     "domain": ""
+  },
+  {
+    "network": "131.123.9.0/24",
+    "asn": "39690",
+    "country_code": "MD",
+    "name": "OPSFOX-CLOUD",
+    "org": "DIGITAL NETWORK S.R.L.",
+    "domain": "opsfox.cloud"
   },
   {
     "network": "138.226.239.0/24",

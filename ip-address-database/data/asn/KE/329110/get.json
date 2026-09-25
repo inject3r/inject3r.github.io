@@ -1,6 +1,6 @@
 [
   {
-    "network": "102.214.252.0/22",
+    "network": "102.214.252.0/24",
     "asn": "329110",
     "country_code": "KE",
     "name": "FLL2-AS",
@@ -17,6 +17,14 @@
   },
   {
     "network": "102.214.254.0/24",
+    "asn": "329110",
+    "country_code": "KE",
+    "name": "FLL2-AS",
+    "org": "FIBRE LINK LIMITED",
+    "domain": "eawel.com"
+  },
+  {
+    "network": "102.214.255.0/24",
     "asn": "329110",
     "country_code": "KE",
     "name": "FLL2-AS",
