@@ -4794,18 +4794,6 @@
     "country_name": "South Korea"
   },
   {
-    "network": "51.241.165.0/24",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
-    "network": "51.241.168.0/23",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
     "network": "51.241.199.0/24",
     "continent_code": "AS",
     "country_code": "KR",
@@ -7968,7 +7956,13 @@
     "country_name": "South Korea"
   },
   {
-    "network": "101.79.168.0/21",
+    "network": "101.79.168.0/22",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
+    "network": "101.79.172.0/23",
     "continent_code": "AS",
     "country_code": "KR",
     "country_name": "South Korea"
@@ -8575,12 +8569,6 @@
   },
   {
     "network": "103.65.181.0/24",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
-    "network": "103.65.182.0/25",
     "continent_code": "AS",
     "country_code": "KR",
     "country_name": "South Korea"
@@ -10950,6 +10938,12 @@
     "country_name": "South Korea"
   },
   {
+    "network": "104.28.177.12/30",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
     "network": "104.28.178.243/32",
     "continent_code": "AS",
     "country_code": "KR",
@@ -11503,6 +11497,12 @@
   },
   {
     "network": "104.28.229.2/31",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
+    "network": "104.28.229.4/31",
     "continent_code": "AS",
     "country_code": "KR",
     "country_name": "South Korea"
@@ -12684,7 +12684,19 @@
     "country_name": "South Korea"
   },
   {
+    "network": "109.66.161.0/24",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
     "network": "109.66.168.0/21",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
+    "network": "109.66.190.0/24",
     "continent_code": "AS",
     "country_code": "KR",
     "country_name": "South Korea"
@@ -17844,6 +17856,12 @@
     "country_name": "South Korea"
   },
   {
+    "network": "156.227.203.0/24",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
     "network": "156.228.0.0/23",
     "continent_code": "AS",
     "country_code": "KR",
@@ -20064,12 +20082,6 @@
     "country_name": "South Korea"
   },
   {
-    "network": "167.148.3.0/24",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
     "network": "167.167.244.0/24",
     "continent_code": "AS",
     "country_code": "KR",
@@ -22068,6 +22080,12 @@
     "country_name": "South Korea"
   },
   {
+    "network": "196.251.122.0/23",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
     "network": "198.20.155.0/24",
     "continent_code": "AS",
     "country_code": "KR",
@@ -23935,24 +23953,6 @@
   },
   {
     "network": "217.25.14.0/24",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
-    "network": "217.25.15.0/25",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
-    "network": "217.25.15.128/26",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
-    "network": "217.25.15.192/27",
     "continent_code": "AS",
     "country_code": "KR",
     "country_name": "South Korea"
@@ -34212,6 +34212,24 @@
     "country_name": "South Korea"
   },
   {
+    "network": "2602:f805:316::/48",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
+    "network": "2602:f805:326::/48",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
+    "network": "2602:f805:36e::/48",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
     "network": "2602:f919:933::/48",
     "continent_code": "AS",
     "country_code": "KR",
@@ -37338,6 +37356,12 @@
     "country_name": "South Korea"
   },
   {
+    "network": "2600:f0f3:f010:1a00::/56",
+    "continent_code": "AS",
+    "country_code": "KR",
+    "country_name": "South Korea"
+  },
+  {
     "network": "2603:1061:1600:1500::/56",
     "continent_code": "AS",
     "country_code": "KR",
@@ -38287,36 +38311,6 @@
   },
   {
     "network": "2a02:26f7:c3e4:5010::/61",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
-    "network": "2001:470:f332:820::/62",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
-    "network": "2001:470:f39a:820::/62",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
-    "network": "2001:470:f873:820::/62",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
-    "network": "2001:470:f8f9:820::/62",
-    "continent_code": "AS",
-    "country_code": "KR",
-    "country_name": "South Korea"
-  },
-  {
-    "network": "2001:470:fcce:820::/62",
     "continent_code": "AS",
     "country_code": "KR",
     "country_name": "South Korea"

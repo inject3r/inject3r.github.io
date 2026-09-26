@@ -3136,14 +3136,6 @@
     "domain": "fpt.com"
   },
   {
-    "network": "42.119.161.0/24",
-    "asn": "18403",
-    "country_code": "VN",
-    "name": "FPT-VN",
-    "org": "FPT Telecom Company",
-    "domain": "fpt.com"
-  },
-  {
     "network": "42.119.164.0/23",
     "asn": "18403",
     "country_code": "VN",
@@ -20497,6 +20489,14 @@
   },
   {
     "network": "113.161.48.0/21",
+    "asn": "45899",
+    "country_code": "VN",
+    "name": "VNPT-AS-VN",
+    "org": "VNPT Corp",
+    "domain": "vnpt.com.vn"
+  },
+  {
+    "network": "113.161.52.0/23",
     "asn": "45899",
     "country_code": "VN",
     "name": "VNPT-AS-VN",
@@ -126528,14 +126528,6 @@
     "domain": "vhost.vn"
   },
   {
-    "network": "103.27.60.0/22",
-    "asn": "56150",
-    "country_code": "VN",
-    "name": "VHOST-AS-VN",
-    "org": "Viet Solutions Services Trading Company Limited",
-    "domain": "vhost.vn"
-  },
-  {
     "network": "103.27.60.0/24",
     "asn": "56150",
     "country_code": "VN",
@@ -149416,15 +149408,7 @@
     "domain": "spt.vn"
   },
   {
-    "network": "221.133.26.0/24",
-    "asn": "7602",
-    "country_code": "VN",
-    "name": "SPT-AS-VN",
-    "org": "Sai gon Postel Corporation",
-    "domain": "spt.vn"
-  },
-  {
-    "network": "221.133.27.0/24",
+    "network": "221.133.26.0/23",
     "asn": "7602",
     "country_code": "VN",
     "name": "SPT-AS-VN",
@@ -149801,6 +149785,22 @@
   },
   {
     "network": "180.93.176.0/23",
+    "asn": "135944",
+    "country_code": "VN",
+    "name": "VINACIS-AS-VN",
+    "org": "VinhNam Commercial informatics service corporation",
+    "domain": "vinacis.com"
+  },
+  {
+    "network": "180.93.178.0/24",
+    "asn": "135944",
+    "country_code": "VN",
+    "name": "VINACIS-AS-VN",
+    "org": "VinhNam Commercial informatics service corporation",
+    "domain": "vinacis.com"
+  },
+  {
+    "network": "180.93.179.0/24",
     "asn": "135944",
     "country_code": "VN",
     "name": "VINACIS-AS-VN",
@@ -151896,6 +151896,22 @@
     "domain": "shb.com.vn"
   },
   {
+    "network": "138.252.142.0/23",
+    "asn": "142025",
+    "country_code": "VN",
+    "name": "VINFAST-VN",
+    "org": "VINFAST Production and Trading Joint Stock Company",
+    "domain": "vinfast.vn"
+  },
+  {
+    "network": "2602:feda:190::/44",
+    "asn": "142025",
+    "country_code": "VN",
+    "name": "VINFAST-VN",
+    "org": "VINFAST Production and Trading Joint Stock Company",
+    "domain": "vinfast.vn"
+  },
+  {
     "network": "138.252.152.0/23",
     "asn": "154350",
     "country_code": "VN",
@@ -151958,6 +151974,14 @@
     "name": "VISHIPEL-VN",
     "org": "VIETNAM MARITIME COMMUNICATION AND ELECTRONICS SINGLE-MEMBER LIMITED LIABILITY COMPANY",
     "domain": "vishipel.com.vn"
+  },
+  {
+    "network": "151.158.94.0/23",
+    "asn": "142055",
+    "country_code": "VN",
+    "name": "BTL86-VN",
+    "org": "86th Command - Ministry of National Defence",
+    "domain": "mod.gov.vn"
   },
   {
     "network": "151.158.126.0/24",
@@ -153336,38 +153360,6 @@
     "domain": "nobidev.com"
   },
   {
-    "network": "2402:43a0::/34",
-    "asn": "154003",
-    "country_code": "VN",
-    "name": "NOBIDEV-VN",
-    "org": "NOBIDEV COMPANY LIMITED",
-    "domain": "nobidev.com"
-  },
-  {
-    "network": "2402:43a0:4000::/34",
-    "asn": "154003",
-    "country_code": "VN",
-    "name": "NOBIDEV-VN",
-    "org": "NOBIDEV COMPANY LIMITED",
-    "domain": "nobidev.com"
-  },
-  {
-    "network": "2402:43a0:8000::/34",
-    "asn": "154003",
-    "country_code": "VN",
-    "name": "NOBIDEV-VN",
-    "org": "NOBIDEV COMPANY LIMITED",
-    "domain": "nobidev.com"
-  },
-  {
-    "network": "2402:43a0:c000::/34",
-    "asn": "154003",
-    "country_code": "VN",
-    "name": "NOBIDEV-VN",
-    "org": "NOBIDEV COMPANY LIMITED",
-    "domain": "nobidev.com"
-  },
-  {
     "network": "165.101.92.0/23",
     "asn": "154004",
     "country_code": "VN",
@@ -154358,14 +154350,6 @@
     "name": "HNS-VN",
     "org": "Vietnam Internet Network Information Center (VNNIC)",
     "domain": "huynguyensolution.com"
-  },
-  {
-    "network": "2602:feda:190::/44",
-    "asn": "142025",
-    "country_code": "VN",
-    "name": "VINFAST-VN",
-    "org": "VINFAST Production and Trading Joint Stock Company",
-    "domain": "vinfast.vn"
   },
   {
     "network": "2a06:9801:21f::/48",

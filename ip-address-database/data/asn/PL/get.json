@@ -6640,6 +6640,14 @@
     "domain": "proton.me"
   },
   {
+    "network": "13.141.64.0/24",
+    "asn": "215133",
+    "country_code": "PL",
+    "name": "JAKUB-WITKOWSKI",
+    "org": "Jakub Witkowski",
+    "domain": "proton.me"
+  },
+  {
     "network": "201.3.237.0/24",
     "asn": "215133",
     "country_code": "PL",
@@ -6913,6 +6921,14 @@
   },
   {
     "network": "91.222.173.0/24",
+    "asn": "43641",
+    "country_code": "PL",
+    "name": "Sollutium-NL",
+    "org": "SOLLUTIUM EU Sp z.o.o.",
+    "domain": "sollutium.com"
+  },
+  {
+    "network": "91.224.10.0/24",
     "asn": "43641",
     "country_code": "PL",
     "name": "Sollutium-NL",
@@ -25684,7 +25700,7 @@
     "asn": "210379",
     "country_code": "PL",
     "name": "PROGRESO",
-    "org": "PROGRESO.PL Sp. z o.o",
+    "org": "PROGRESO.PL Sp. z o.o.",
     "domain": "progreso.pl"
   },
   {
@@ -39592,14 +39608,6 @@
     "domain": "nask.pl"
   },
   {
-    "network": "195.164.0.0/16",
-    "asn": "8308",
-    "country_code": "PL",
-    "name": "NASK-COMMERCIAL",
-    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-    "domain": "nask.pl"
-  },
-  {
     "network": "195.164.0.0/17",
     "asn": "8308",
     "country_code": "PL",
@@ -40286,38 +40294,6 @@
     "name": "ASN-AJC",
     "org": "PRZEDSIEBIORSTWO AJC 2 S.C. OZGA ADAM, KUBALA JAROSLAW, OZGA KONRAD",
     "domain": "ajc.com.pl"
-  },
-  {
-    "network": "91.198.97.0/24",
-    "asn": "50607",
-    "country_code": "PL",
-    "name": "EPIX-KTW-GlobalMix",
-    "org": "Stowarzyszenie e-Poludnie",
-    "domain": "epix.net.pl"
-  },
-  {
-    "network": "176.126.56.0/24",
-    "asn": "50607",
-    "country_code": "PL",
-    "name": "EPIX-KTW-GlobalMix",
-    "org": "Stowarzyszenie e-Poludnie",
-    "domain": "epix.net.pl"
-  },
-  {
-    "network": "176.126.57.0/24",
-    "asn": "50607",
-    "country_code": "PL",
-    "name": "EPIX-KTW-GlobalMix",
-    "org": "Stowarzyszenie e-Poludnie",
-    "domain": "epix.net.pl"
-  },
-  {
-    "network": "176.126.59.0/24",
-    "asn": "50607",
-    "country_code": "PL",
-    "name": "EPIX-KTW-GlobalMix",
-    "org": "Stowarzyszenie e-Poludnie",
-    "domain": "epix.net.pl"
   },
   {
     "network": "91.198.100.0/24",
@@ -44384,6 +44360,22 @@
     "domain": "polish-airports.com"
   },
   {
+    "network": "91.221.159.0/24",
+    "asn": "219339",
+    "country_code": "PL",
+    "name": "OPENHADES",
+    "org": "Konrad Moson trading as OpenHades Cloud Services",
+    "domain": "openhades.com"
+  },
+  {
+    "network": "2001:678:12b4::/48",
+    "asn": "219339",
+    "country_code": "PL",
+    "name": "OPENHADES",
+    "org": "Konrad Moson trading as OpenHades Cloud Services",
+    "domain": "openhades.com"
+  },
+  {
     "network": "91.222.24.0/22",
     "asn": "51960",
     "country_code": "PL",
@@ -44657,6 +44649,14 @@
   },
   {
     "network": "91.222.192.0/22",
+    "asn": "52153",
+    "country_code": "PL",
+    "name": "BGCOM",
+    "org": "Pawel Kowalski BGCOM",
+    "domain": "bgcom.pl"
+  },
+  {
+    "network": "193.218.149.0/24",
     "asn": "52153",
     "country_code": "PL",
     "name": "BGCOM",
@@ -47353,14 +47353,6 @@
   },
   {
     "network": "91.234.186.0/23",
-    "asn": "197087",
-    "country_code": "PL",
-    "name": "KPT-AS",
-    "org": "Kielecki Park Technologiczny",
-    "domain": "kielce.pl"
-  },
-  {
-    "network": "2001:67c:1b8c::/48",
     "asn": "197087",
     "country_code": "PL",
     "name": "KPT-AS",
@@ -59672,6 +59664,14 @@
     "domain": "nask.pl"
   },
   {
+    "network": "195.164.169.0/24",
+    "asn": "204679",
+    "country_code": "PL",
+    "name": "OSE",
+    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+    "domain": "nask.pl"
+  },
+  {
     "network": "2001:a17::/32",
     "asn": "204679",
     "country_code": "PL",
@@ -65016,14 +65016,6 @@
     "domain": "computec.pl"
   },
   {
-    "network": "2001:678:12b4::/48",
-    "asn": "219339",
-    "country_code": "PL",
-    "name": "OPENHADES",
-    "org": "Konrad Moson trading as OpenHades Cloud Services",
-    "domain": "openhades.com"
-  },
-  {
     "network": "2001:67c:6ac::/48",
     "asn": "201742",
     "country_code": "PL",
@@ -65425,14 +65417,6 @@
   },
   {
     "network": "2a0a:6040:4600::/45",
-    "asn": "200201",
-    "country_code": "PL",
-    "name": "JOT23-VPS",
-    "org": "Tomasz Kepczynski",
-    "domain": "jot23.org"
-  },
-  {
-    "network": "2a0a:6040:4601::/48",
     "asn": "200201",
     "country_code": "PL",
     "name": "JOT23-VPS",

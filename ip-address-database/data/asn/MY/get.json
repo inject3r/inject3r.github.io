@@ -19264,6 +19264,14 @@
     "domain": "gitn.com.my"
   },
   {
+    "network": "2402:4640:8000::/33",
+    "asn": "38044",
+    "country_code": "MY",
+    "name": "GITN-NETWORK",
+    "org": "GITN-SCHOOLNET",
+    "domain": "gitn.com.my"
+  },
+  {
     "network": "43.254.76.0/24",
     "asn": "132196",
     "country_code": "MY",
@@ -23520,6 +23528,14 @@
     "domain": "gbnetwork.my"
   },
   {
+    "network": "69.33.169.0/24",
+    "asn": "132372",
+    "country_code": "MY",
+    "name": "GBNETWORK-AS-AP",
+    "org": "GB Network Solutions Sdn. Bhd.",
+    "domain": "gbnetwork.my"
+  },
+  {
     "network": "103.27.255.0/24",
     "asn": "132372",
     "country_code": "MY",
@@ -25504,22 +25520,6 @@
     "domain": "maxipacific.com"
   },
   {
-    "network": "103.8.144.0/24",
-    "asn": "17564",
-    "country_code": "MY",
-    "name": "GITN-PCN-AS-AP",
-    "org": "GITN Sdn. Bhd.",
-    "domain": "maxipacific.com"
-  },
-  {
-    "network": "103.8.145.0/24",
-    "asn": "17564",
-    "country_code": "MY",
-    "name": "GITN-PCN-AS-AP",
-    "org": "GITN Sdn. Bhd.",
-    "domain": "maxipacific.com"
-  },
-  {
     "network": "103.8.147.0/24",
     "asn": "17564",
     "country_code": "MY",
@@ -25593,30 +25593,6 @@
   },
   {
     "network": "2401:b00::/36",
-    "asn": "17564",
-    "country_code": "MY",
-    "name": "GITN-PCN-AS-AP",
-    "org": "GITN Sdn. Bhd.",
-    "domain": "maxipacific.com"
-  },
-  {
-    "network": "2401:b00::/37",
-    "asn": "17564",
-    "country_code": "MY",
-    "name": "GITN-PCN-AS-AP",
-    "org": "GITN Sdn. Bhd.",
-    "domain": "maxipacific.com"
-  },
-  {
-    "network": "2401:b00:11::/48",
-    "asn": "17564",
-    "country_code": "MY",
-    "name": "GITN-PCN-AS-AP",
-    "org": "GITN Sdn. Bhd.",
-    "domain": "maxipacific.com"
-  },
-  {
-    "network": "2401:b00:800::/37",
     "asn": "17564",
     "country_code": "MY",
     "name": "GITN-PCN-AS-AP",
@@ -27606,6 +27582,14 @@
     "name": "INFONALSDNBHD-AS-AP",
     "org": "Infonal Sdn Bhd",
     "domain": "infonal.com.my"
+  },
+  {
+    "network": "103.26.196.0/23",
+    "asn": "132874",
+    "country_code": "MY",
+    "name": "UMS-AS-AP",
+    "org": "Universiti Malaysia Sabah",
+    "domain": "ums.edu.my"
   },
   {
     "network": "103.26.196.0/24",
@@ -31064,12 +31048,20 @@
     "domain": "perfect.my"
   },
   {
-    "network": "153.76.232.0/21",
-    "asn": "198010",
+    "network": "153.76.236.0/22",
+    "asn": "24321",
     "country_code": "MY",
-    "name": "TelecomMalaysia",
-    "org": "KINHOSHI COMMUNICATION SDN. BHD",
-    "domain": "mail.go.th"
+    "name": "OCENET-AS-AP",
+    "org": "Optical Communication Engineering Sdn Bhd",
+    "domain": "ocesb.com.my"
+  },
+  {
+    "network": "202.87.216.0/22",
+    "asn": "24321",
+    "country_code": "MY",
+    "name": "OCENET-AS-AP",
+    "org": "Optical Communication Engineering Sdn Bhd",
+    "domain": "ocesb.com.my"
   },
   {
     "network": "154.203.16.0/20",
@@ -32288,14 +32280,6 @@
     "domain": "uitm.edu.my"
   },
   {
-    "network": "202.87.216.0/22",
-    "asn": "24321",
-    "country_code": "MY",
-    "name": "OCENET-AS-AP",
-    "org": "Optical Communication Engineering Sdn Bhd",
-    "domain": "ocesb.com.my"
-  },
-  {
     "network": "202.94.167.0/24",
     "asn": "17736",
     "country_code": "MY",
@@ -33136,6 +33120,54 @@
     "domain": ""
   },
   {
+    "network": "2400:7400:e011::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e019::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e01c::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e01d::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e01e::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e01f::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
     "network": "2400:7400:e021::/48",
     "asn": "23736",
     "country_code": "MY",
@@ -33152,7 +33184,103 @@
     "domain": ""
   },
   {
+    "network": "2400:7400:e025::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
     "network": "2400:7400:e027::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e028::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e02a::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e02b::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e02d::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e02f::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e030::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e032::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e033::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e034::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e036::/48",
+    "asn": "23736",
+    "country_code": "MY",
+    "name": "TTSSB-MY",
+    "org": "TM TECHNOLOGY SERVICES SDN BHD",
+    "domain": ""
+  },
+  {
+    "network": "2400:7400:e037::/48",
     "asn": "23736",
     "country_code": "MY",
     "name": "TTSSB-MY",
@@ -33208,54 +33336,6 @@
     "domain": "y525.net"
   },
   {
-    "network": "2a01:e281:aafa::/48",
-    "asn": "207852",
-    "country_code": "MY",
-    "name": "Y525-Network",
-    "org": "Yonghan Ching",
-    "domain": "y525.net"
-  },
-  {
-    "network": "2a01:e281:aafb::/48",
-    "asn": "207852",
-    "country_code": "MY",
-    "name": "Y525-Network",
-    "org": "Yonghan Ching",
-    "domain": "y525.net"
-  },
-  {
-    "network": "2a01:e281:aafc::/48",
-    "asn": "207852",
-    "country_code": "MY",
-    "name": "Y525-Network",
-    "org": "Yonghan Ching",
-    "domain": "y525.net"
-  },
-  {
-    "network": "2a01:e281:aafd::/48",
-    "asn": "207852",
-    "country_code": "MY",
-    "name": "Y525-Network",
-    "org": "Yonghan Ching",
-    "domain": "y525.net"
-  },
-  {
-    "network": "2a01:e281:aafe::/48",
-    "asn": "207852",
-    "country_code": "MY",
-    "name": "Y525-Network",
-    "org": "Yonghan Ching",
-    "domain": "y525.net"
-  },
-  {
-    "network": "2a01:e281:aaff::/48",
-    "asn": "207852",
-    "country_code": "MY",
-    "name": "Y525-Network",
-    "org": "Yonghan Ching",
-    "domain": "y525.net"
-  },
-  {
     "network": "2a06:a005:4b0::/44",
     "asn": "207852",
     "country_code": "MY",
@@ -33273,14 +33353,6 @@
   },
   {
     "network": "2a06:a005:4b1::/48",
-    "asn": "207852",
-    "country_code": "MY",
-    "name": "Y525-Network",
-    "org": "Yonghan Ching",
-    "domain": "y525.net"
-  },
-  {
-    "network": "2a06:a005:4b2::/48",
     "asn": "207852",
     "country_code": "MY",
     "name": "Y525-Network",

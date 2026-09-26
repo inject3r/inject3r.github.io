@@ -702,19 +702,25 @@
     "country_name": "Bosnia and Herzegovina"
   },
   {
-    "network": "77.239.64.0/19",
+    "network": "77.239.64.0/21",
+    "continent_code": "EU",
+    "country_code": "BA",
+    "country_name": "Bosnia and Herzegovina"
+  },
+  {
+    "network": "77.239.72.0/22",
+    "continent_code": "EU",
+    "country_code": "BA",
+    "country_name": "Bosnia and Herzegovina"
+  },
+  {
+    "network": "77.239.80.0/20",
     "continent_code": "EU",
     "country_code": "BA",
     "country_name": "Bosnia and Herzegovina"
   },
   {
     "network": "78.28.128.0/18",
-    "continent_code": "EU",
-    "country_code": "BA",
-    "country_name": "Bosnia and Herzegovina"
-  },
-  {
-    "network": "78.108.62.160/28",
     "continent_code": "EU",
     "country_code": "BA",
     "country_name": "Bosnia and Herzegovina"
@@ -835,12 +841,6 @@
   },
   {
     "network": "81.94.0.0/20",
-    "continent_code": "EU",
-    "country_code": "BA",
-    "country_name": "Bosnia and Herzegovina"
-  },
-  {
-    "network": "82.38.43.160/28",
     "continent_code": "EU",
     "country_code": "BA",
     "country_name": "Bosnia and Herzegovina"
@@ -1770,12 +1770,6 @@
     "country_name": "Bosnia and Herzegovina"
   },
   {
-    "network": "151.240.79.160/28",
-    "continent_code": "EU",
-    "country_code": "BA",
-    "country_name": "Bosnia and Herzegovina"
-  },
-  {
     "network": "154.14.46.120/30",
     "continent_code": "EU",
     "country_code": "BA",
@@ -2341,12 +2335,6 @@
   },
   {
     "network": "193.16.157.0/24",
-    "continent_code": "EU",
-    "country_code": "BA",
-    "country_name": "Bosnia and Herzegovina"
-  },
-  {
-    "network": "193.29.98.160/28",
     "continent_code": "EU",
     "country_code": "BA",
     "country_name": "Bosnia and Herzegovina"
@@ -8269,6 +8257,12 @@
   },
   {
     "network": "2001:470:f877::/48",
+    "continent_code": "EU",
+    "country_code": "BA",
+    "country_name": "Bosnia and Herzegovina"
+  },
+  {
+    "network": "2001:470:fd85::/48",
     "continent_code": "EU",
     "country_code": "BA",
     "country_name": "Bosnia and Herzegovina"

@@ -5556,12 +5556,6 @@
     "country_name": "Sweden"
   },
   {
-    "network": "5.242.16.0/20",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
     "network": "5.242.32.0/19",
     "continent_code": "EU",
     "country_code": "SE",
@@ -8845,6 +8839,12 @@
   },
   {
     "network": "45.132.72.0/24",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "45.132.98.0/24",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -21822,25 +21822,37 @@
     "country_name": "Sweden"
   },
   {
-    "network": "80.231.31.0/25",
+    "network": "80.231.31.0/24",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
   },
   {
-    "network": "80.231.31.128/26",
+    "network": "80.231.92.0/29",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
   },
   {
-    "network": "80.231.92.0/27",
+    "network": "80.231.92.16/28",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
   },
   {
-    "network": "80.231.92.32/28",
+    "network": "80.231.92.32/27",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "80.231.92.64/28",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "80.231.92.80/29",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -26544,7 +26556,7 @@
     "country_name": "Sweden"
   },
   {
-    "network": "81.27.251.64/31",
+    "network": "81.27.251.64/30",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -40998,7 +41010,7 @@
     "country_name": "Sweden"
   },
   {
-    "network": "93.93.205.0/24",
+    "network": "93.93.205.128/25",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -41287,12 +41299,6 @@
   },
   {
     "network": "93.158.96.244/30",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "93.158.96.248/29",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -62292,12 +62298,6 @@
     "country_name": "Sweden"
   },
   {
-    "network": "94.249.198.189/32",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
     "network": "94.249.205.16/31",
     "continent_code": "EU",
     "country_code": "SE",
@@ -65328,7 +65328,79 @@
     "country_name": "Sweden"
   },
   {
-    "network": "129.192.0.0/19",
+    "network": "129.192.0.0/23",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.2.0/31",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.2.2/32",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.2.10/31",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.2.12/30",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.2.16/28",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.2.32/27",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.2.64/26",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.2.128/25",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.3.0/24",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.4.0/22",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.8.0/21",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "129.192.16.0/20",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -71556,7 +71628,7 @@
     "country_name": "Sweden"
   },
   {
-    "network": "153.76.202.0/23",
+    "network": "153.76.203.0/24",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -91680,12 +91752,6 @@
     "country_name": "Sweden"
   },
   {
-    "network": "185.139.228.0/24",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
     "network": "185.140.36.0/24",
     "continent_code": "EU",
     "country_code": "SE",
@@ -98671,6 +98737,12 @@
   },
   {
     "network": "185.219.140.0/24",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "185.219.220.0/22",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -115092,7 +115164,19 @@
     "country_name": "Sweden"
   },
   {
-    "network": "192.165.240.0/20",
+    "network": "192.165.242.0/23",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "192.165.244.0/22",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "192.165.248.0/21",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -117055,6 +117139,12 @@
   },
   {
     "network": "193.180.246.0/23",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "193.180.248.0/23",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -125329,6 +125419,12 @@
   },
   {
     "network": "195.158.193.0/24",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "195.158.194.0/23",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -134508,7 +134604,7 @@
     "country_name": "Sweden"
   },
   {
-    "network": "213.212.12.228/30",
+    "network": "213.212.12.224/29",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -134580,31 +134676,7 @@
     "country_name": "Sweden"
   },
   {
-    "network": "213.212.13.128/26",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "213.212.13.192/29",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "213.212.13.204/30",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "213.212.13.208/28",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "213.212.13.224/27",
+    "network": "213.212.13.128/25",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -135625,6 +135697,12 @@
   },
   {
     "network": "213.228.247.112/29",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "213.228.247.152/29",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -147144,12 +147222,6 @@
     "country_name": "Sweden"
   },
   {
-    "network": "2a09:bac2:5300::/41",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
     "network": "2a09:bac3:5380::/41",
     "continent_code": "EU",
     "country_code": "SE",
@@ -147763,6 +147835,12 @@
   },
   {
     "network": "2a09:bac2:5200::/42",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a09:bac2:5340::/42",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -148441,6 +148519,12 @@
   },
   {
     "network": "2a09:bac2:52e0::/43",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a09:bac2:5300::/43",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -149335,6 +149419,12 @@
   },
   {
     "network": "2a09:bac2:52c0::/44",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a09:bac2:5320::/44",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -162084,6 +162174,18 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2602:f805:11::/48",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2602:f805:36::/48",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2602:fa02:2f::/48",
     "continent_code": "EU",
     "country_code": "SE",
@@ -164425,6 +164527,12 @@
   },
   {
     "network": "2a13:d200:13::/48",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a14:e80:100::/48",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -168318,12 +168426,6 @@
     "country_name": "Sweden"
   },
   {
-    "network": "2a02:26f7:f8c4:e600::/58",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
     "network": "2a02:26f7:f8c4:e6c0::/58",
     "continent_code": "EU",
     "country_code": "SE",
@@ -168709,6 +168811,12 @@
   },
   {
     "network": "2a02:26f7:f8c0:840::/59",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a02:26f7:f8c4:e620::/59",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -169128,6 +169236,12 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2a02:26f7:f8c4:e610::/60",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2a02:26f7:f8c4:e640::/60",
     "continent_code": "EU",
     "country_code": "SE",
@@ -169135,12 +169249,6 @@
   },
   {
     "network": "2a02:26f7:f8c4:e660::/60",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "2a02:26f7:f8c4:e6a0::/60",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -169171,12 +169279,6 @@
   },
   {
     "network": "2a02:26f7:f8c8:e6a0::/60",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "2a02:26f7:f8cc:4c10::/60",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -169476,12 +169578,6 @@
     "country_name": "Sweden"
   },
   {
-    "network": "2001:470:28:11e8::/61",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
     "network": "2001:948:1:18::/61",
     "continent_code": "EU",
     "country_code": "SE",
@@ -169734,6 +169830,12 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2a02:26f7:f8c4:e600::/61",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2a02:26f7:f8c4:e650::/61",
     "continent_code": "EU",
     "country_code": "SE",
@@ -169746,13 +169848,13 @@
     "country_name": "Sweden"
   },
   {
-    "network": "2a02:26f7:f8c4:e688::/61",
+    "network": "2a02:26f7:f8c4:e690::/61",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
   },
   {
-    "network": "2a02:26f7:f8c4:e690::/61",
+    "network": "2a02:26f7:f8c4:e6a8::/61",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -169789,6 +169891,12 @@
   },
   {
     "network": "2a02:26f7:f8cc:4c00::/61",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a02:26f7:f8cc:4c18::/61",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -169890,12 +169998,6 @@
     "country_name": "Sweden"
   },
   {
-    "network": "2a02:26f7:f8d1:e678::/61",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
     "network": "2a02:26f7:f8d1:e688::/61",
     "continent_code": "EU",
     "country_code": "SE",
@@ -169951,6 +170053,12 @@
   },
   {
     "network": "2a02:26f7:f8d4:e690::/61",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a02:26f7:f8e0:4c00::/61",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -170119,6 +170227,12 @@
   },
   {
     "network": "2a14:4e87:1000:a008::/61",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2001:470:28:11ec::/62",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -170412,6 +170526,12 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2a02:26f7:f8c4:e608::/62",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2a02:26f7:f8c4:e65c::/62",
     "continent_code": "EU",
     "country_code": "SE",
@@ -170430,7 +170550,19 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2a02:26f7:f8c4:e688::/62",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2a02:26f7:f8c4:e69c::/62",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a02:26f7:f8c4:e6a0::/62",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -170478,7 +170610,7 @@
     "country_name": "Sweden"
   },
   {
-    "network": "2a02:26f7:f8c8:e694::/62",
+    "network": "2a02:26f7:f8c8:e690::/62",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -170497,6 +170629,12 @@
   },
   {
     "network": "2a02:26f7:f8cc:4c0c::/62",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a02:26f7:f8cc:4c10::/62",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -170628,6 +170766,12 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2a02:26f7:f8d1:e67c::/62",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2a02:26f7:f8d1:e684::/62",
     "continent_code": "EU",
     "country_code": "SE",
@@ -170719,12 +170863,6 @@
   },
   {
     "network": "2a02:26f7:f8d4:e6bc::/62",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "2a02:26f7:f8e0:4c00::/62",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -171049,12 +171187,6 @@
   },
   {
     "network": "2001:470:28:11c8::/63",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "2001:470:28:11e6::/63",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -171450,6 +171582,12 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2a02:26f7:f8c4:e60c::/63",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2a02:26f7:f8c4:e672::/63",
     "continent_code": "EU",
     "country_code": "SE",
@@ -171462,7 +171600,19 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2a02:26f7:f8c4:e68c::/63",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2a02:26f7:f8c4:e69a::/63",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a02:26f7:f8c4:e6a4::/63",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -171498,7 +171648,7 @@
     "country_name": "Sweden"
   },
   {
-    "network": "2a02:26f7:f8c8:e690::/63",
+    "network": "2a02:26f7:f8c8:e694::/63",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -171517,6 +171667,12 @@
   },
   {
     "network": "2a02:26f7:f8c8:e6ba::/63",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
+    "network": "2a02:26f7:f8cc:4c14::/63",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -171624,6 +171780,12 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2a02:26f7:f8d1:e678::/63",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2a02:26f7:f8d1:e682::/63",
     "continent_code": "EU",
     "country_code": "SE",
@@ -171685,12 +171847,6 @@
   },
   {
     "network": "2a02:26f7:f8d4:e6b6::/63",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "2a02:26f7:f8e0:4c04::/63",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"
@@ -174522,6 +174678,12 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2001:470:28:11e9::/64",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2001:470:36:c8::/64",
     "continent_code": "EU",
     "country_code": "SE",
@@ -174600,6 +174762,12 @@
     "country_name": "Sweden"
   },
   {
+    "network": "2001:470:6f:53e::/64",
+    "continent_code": "EU",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  {
     "network": "2001:470:71:2e2::/64",
     "continent_code": "EU",
     "country_code": "SE",
@@ -174649,12 +174817,6 @@
   },
   {
     "network": "2001:470:1f05:f16::/64",
-    "continent_code": "EU",
-    "country_code": "SE",
-    "country_name": "Sweden"
-  },
-  {
-    "network": "2001:470:1f07:485::/64",
     "continent_code": "EU",
     "country_code": "SE",
     "country_name": "Sweden"

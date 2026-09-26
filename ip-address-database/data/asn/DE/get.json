@@ -576,22 +576,6 @@
     "domain": "dataforest.net"
   },
   {
-    "network": "216.98.243.0/24",
-    "asn": "215607",
-    "country_code": "DE",
-    "name": "DF-Transit",
-    "org": "dataforest GmbH",
-    "domain": "dataforest.net"
-  },
-  {
-    "network": "216.98.244.0/24",
-    "asn": "215607",
-    "country_code": "DE",
-    "name": "DF-Transit",
-    "org": "dataforest GmbH",
-    "domain": "dataforest.net"
-  },
-  {
     "network": "2a12:4041:8::/48",
     "asn": "215607",
     "country_code": "DE",
@@ -1929,6 +1913,22 @@
   },
   {
     "network": "62.83.44.0/22",
+    "asn": "197540",
+    "country_code": "DE",
+    "name": "netcup-AS",
+    "org": "netcup GmbH",
+    "domain": "netcup.de"
+  },
+  {
+    "network": "62.83.52.0/22",
+    "asn": "197540",
+    "country_code": "DE",
+    "name": "netcup-AS",
+    "org": "netcup GmbH",
+    "domain": "netcup.de"
+  },
+  {
+    "network": "62.83.56.0/22",
     "asn": "197540",
     "country_code": "DE",
     "name": "netcup-AS",
@@ -24256,14 +24256,6 @@
     "domain": "vodafone.de"
   },
   {
-    "network": "15.145.12.0/22",
-    "asn": "3209",
-    "country_code": "DE",
-    "name": "VODANET",
-    "org": "Vodafone GmbH",
-    "domain": "vodafone.de"
-  },
-  {
     "network": "15.145.16.0/22",
     "asn": "3209",
     "country_code": "DE",
@@ -29816,14 +29808,6 @@
     "domain": "hosteurope.de"
   },
   {
-    "network": "5.35.226.0/24",
-    "asn": "20773",
-    "country_code": "DE",
-    "name": "GODADDY",
-    "org": "Host Europe GmbH",
-    "domain": "hosteurope.de"
-  },
-  {
     "network": "5.175.0.0/19",
     "asn": "20773",
     "country_code": "DE",
@@ -32873,6 +32857,14 @@
   },
   {
     "network": "5.42.201.0/24",
+    "asn": "211573",
+    "country_code": "DE",
+    "name": "quimian",
+    "org": "William Scott",
+    "domain": "wills.co.tt"
+  },
+  {
+    "network": "2a13:3c00::/29",
     "asn": "211573",
     "country_code": "DE",
     "name": "quimian",
@@ -50808,31 +50800,31 @@
     "domain": "dotnic.de"
   },
   {
-    "network": "2a06:9801:1590::/48",
-    "asn": "215685",
-    "country_code": "DE",
-    "name": "Nexus",
-    "org": "Maik Sussdorf",
-    "domain": "dotnic.de"
-  },
-  {
-    "network": "2a06:9801:1591::/48",
-    "asn": "215685",
-    "country_code": "DE",
-    "name": "Nexus",
-    "org": "Maik Sussdorf",
-    "domain": "dotnic.de"
-  },
-  {
-    "network": "2a06:9801:1592::/48",
-    "asn": "215685",
-    "country_code": "DE",
-    "name": "Nexus",
-    "org": "Maik Sussdorf",
-    "domain": "dotnic.de"
-  },
-  {
     "network": "2a06:de00:10::/48",
+    "asn": "215685",
+    "country_code": "DE",
+    "name": "Nexus",
+    "org": "Maik Sussdorf",
+    "domain": "dotnic.de"
+  },
+  {
+    "network": "2a14:6782:100::/48",
+    "asn": "215685",
+    "country_code": "DE",
+    "name": "Nexus",
+    "org": "Maik Sussdorf",
+    "domain": "dotnic.de"
+  },
+  {
+    "network": "2a14:6782:101::/48",
+    "asn": "215685",
+    "country_code": "DE",
+    "name": "Nexus",
+    "org": "Maik Sussdorf",
+    "domain": "dotnic.de"
+  },
+  {
+    "network": "2a14:6782:102::/48",
     "asn": "215685",
     "country_code": "DE",
     "name": "Nexus",
@@ -54033,6 +54025,14 @@
   },
   {
     "network": "2a11:4142:7000::/36",
+    "asn": "5405",
+    "country_code": "DE",
+    "name": "INTERDOTLINK",
+    "org": "Inter.link GmbH",
+    "domain": "inter.link"
+  },
+  {
+    "network": "2a11:4142:8000::/36",
     "asn": "5405",
     "country_code": "DE",
     "name": "INTERDOTLINK",
@@ -66216,6 +66216,30 @@
     "domain": "coreroute.de"
   },
   {
+    "network": "23.163.148.0/24",
+    "asn": "199154",
+    "country_code": "DE",
+    "name": "DESTACK-GMBH",
+    "org": "Destack GmbH",
+    "domain": "destack.io"
+  },
+  {
+    "network": "185.43.32.0/24",
+    "asn": "199154",
+    "country_code": "DE",
+    "name": "DESTACK-GMBH",
+    "org": "Destack GmbH",
+    "domain": "destack.io"
+  },
+  {
+    "network": "2a14:ae00:101::/48",
+    "asn": "199154",
+    "country_code": "DE",
+    "name": "DESTACK-GMBH",
+    "org": "Destack GmbH",
+    "domain": "destack.io"
+  },
+  {
     "network": "23.165.200.0/24",
     "asn": "3214",
     "country_code": "DE",
@@ -75696,7 +75720,7 @@
     "domain": "jungheinrich.de"
   },
   {
-    "network": "194.180.148.0/23",
+    "network": "194.180.149.0/24",
     "asn": "212961",
     "country_code": "DE",
     "name": "JUNGHEINRICH-AS",
@@ -81408,14 +81432,6 @@
     "domain": "soprado.com"
   },
   {
-    "network": "141.90.14.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
     "network": "185.5.80.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -81473,14 +81489,6 @@
   },
   {
     "network": "185.85.3.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
-    "network": "185.158.156.0/24",
     "asn": "20546",
     "country_code": "DE",
     "name": "SOPRADO-ANY",
@@ -87064,14 +87072,6 @@
     "domain": "dfn.de"
   },
   {
-    "network": "136.156.96.0/19",
-    "asn": "680",
-    "country_code": "DE",
-    "name": "DFN",
-    "org": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
-    "domain": "dfn.de"
-  },
-  {
     "network": "136.172.0.0/16",
     "asn": "680",
     "country_code": "DE",
@@ -89361,6 +89361,14 @@
   },
   {
     "network": "185.160.100.0/23",
+    "asn": "208968",
+    "country_code": "DE",
+    "name": "Avacon-Connect-de",
+    "org": "Avacon Connect GmbH",
+    "domain": "avacon-connect.de"
+  },
+  {
+    "network": "2a0e:ab06::/32",
     "asn": "208968",
     "country_code": "DE",
     "name": "Avacon-Connect-de",
@@ -97497,14 +97505,6 @@
   },
   {
     "network": "185.222.67.0/24",
-    "asn": "200081",
-    "country_code": "DE",
-    "name": "SIM-Networks",
-    "org": "Netversor GmbH",
-    "domain": "sim-networks.com"
-  },
-  {
-    "network": "185.236.9.0/24",
     "asn": "200081",
     "country_code": "DE",
     "name": "SIM-Networks",
@@ -110344,6 +110344,14 @@
     "domain": "netcup.de"
   },
   {
+    "network": "62.83.64.0/22",
+    "asn": "214996",
+    "country_code": "DE",
+    "name": "netcup",
+    "org": "netcup GmbH",
+    "domain": "netcup.de"
+  },
+  {
     "network": "152.53.31.0/24",
     "asn": "214996",
     "country_code": "DE",
@@ -113433,22 +113441,6 @@
   },
   {
     "network": "91.195.240.0/23",
-    "asn": "47846",
-    "country_code": "DE",
-    "name": "SEDO-AS",
-    "org": "SEDO GmbH",
-    "domain": "internetx.com"
-  },
-  {
-    "network": "91.195.240.0/24",
-    "asn": "47846",
-    "country_code": "DE",
-    "name": "SEDO-AS",
-    "org": "SEDO GmbH",
-    "domain": "internetx.com"
-  },
-  {
-    "network": "91.195.241.0/24",
     "asn": "47846",
     "country_code": "DE",
     "name": "SEDO-AS",
@@ -117752,7 +117744,23 @@
     "domain": "rescuetrack.com"
   },
   {
+    "network": "185.56.113.0/24",
+    "asn": "59775",
+    "country_code": "DE",
+    "name": "convexis",
+    "org": "rescuetrack GmbH",
+    "domain": "rescuetrack.com"
+  },
+  {
     "network": "185.56.114.0/24",
+    "asn": "59775",
+    "country_code": "DE",
+    "name": "convexis",
+    "org": "rescuetrack GmbH",
+    "domain": "rescuetrack.com"
+  },
+  {
+    "network": "185.56.115.0/24",
     "asn": "59775",
     "country_code": "DE",
     "name": "convexis",
@@ -129680,6 +129688,14 @@
     "domain": "northerndata.de"
   },
   {
+    "network": "176.56.212.0/24",
+    "asn": "59437",
+    "country_code": "DE",
+    "name": "NORTHERNDATA",
+    "org": "Northern Data AG",
+    "domain": "northerndata.de"
+  },
+  {
     "network": "185.241.110.0/24",
     "asn": "59437",
     "country_code": "DE",
@@ -132121,6 +132137,14 @@
   },
   {
     "network": "91.90.167.0/24",
+    "asn": "15372",
+    "country_code": "DE",
+    "name": "IBH-AS",
+    "org": "IBH connect GmbH",
+    "domain": "ibh.net"
+  },
+  {
+    "network": "141.76.202.0/24",
     "asn": "15372",
     "country_code": "DE",
     "name": "IBH-AS",
@@ -142584,6 +142608,14 @@
     "domain": "ewerk.com"
   },
   {
+    "network": "194.121.50.0/24",
+    "asn": "204924",
+    "country_code": "DE",
+    "name": "EWERK",
+    "org": "EWERK DIGITAL GmbH",
+    "domain": "ewerk.com"
+  },
+  {
     "network": "2a0c:c300::/29",
     "asn": "204924",
     "country_code": "DE",
@@ -152977,6 +153009,14 @@
   },
   {
     "network": "141.90.13.0/24",
+    "asn": "29515",
+    "country_code": "DE",
+    "name": "HZD-AS",
+    "org": "Hessische Zentrale fuer Datenverarbeitung",
+    "domain": "plusline.de"
+  },
+  {
+    "network": "141.90.14.0/24",
     "asn": "29515",
     "country_code": "DE",
     "name": "HZD-AS",
@@ -165720,22 +165760,6 @@
     "domain": "netzwerge.de"
   },
   {
-    "network": "185.43.32.0/24",
-    "asn": "199154",
-    "country_code": "DE",
-    "name": "DESTACK-GMBH",
-    "org": "Destack GmbH",
-    "domain": "destack.io"
-  },
-  {
-    "network": "2a14:ae00:101::/48",
-    "asn": "199154",
-    "country_code": "DE",
-    "name": "DESTACK-GMBH",
-    "org": "Destack GmbH",
-    "domain": "destack.io"
-  },
-  {
     "network": "185.43.168.0/22",
     "asn": "199880",
     "country_code": "DE",
@@ -171360,7 +171384,7 @@
     "domain": "seibert.group"
   },
   {
-    "network": "2a03:9160:80::/48",
+    "network": "2a03:9160:80::/42",
     "asn": "218842",
     "country_code": "DE",
     "name": "SEIBERT-HOSTING-1",
@@ -172497,14 +172521,6 @@
   },
   {
     "network": "185.148.251.0/24",
-    "asn": "57282",
-    "country_code": "DE",
-    "name": "FIBRANODE",
-    "org": "fibranode Deutschland GmbH",
-    "domain": "fibranode.com"
-  },
-  {
-    "network": "2a0e:46c4:1400::/40",
     "asn": "57282",
     "country_code": "DE",
     "name": "FIBRANODE",
@@ -183040,6 +183056,14 @@
     "domain": "tel.io"
   },
   {
+    "network": "193.200.249.0/24",
+    "asn": "59965",
+    "country_code": "DE",
+    "name": "LEOGIS",
+    "org": "Astralus GmbH",
+    "domain": "astralus.com"
+  },
+  {
     "network": "193.201.176.0/21",
     "asn": "25109",
     "country_code": "DE",
@@ -187232,6 +187256,14 @@
     "domain": "f-i.de"
   },
   {
+    "network": "195.42.252.0/23",
+    "asn": "9099",
+    "country_code": "DE",
+    "name": "FinanzInformatik-AS-Nord",
+    "org": "Finanz Informatik GmbH & Co. KG",
+    "domain": "f-i.de"
+  },
+  {
     "network": "195.140.0.0/17",
     "asn": "9099",
     "country_code": "DE",
@@ -190592,6 +190624,14 @@
     "domain": "as210833.net"
   },
   {
+    "network": "2a05:d4c0:fffe::/48",
+    "asn": "210833",
+    "country_code": "DE",
+    "name": "Florian-Bauer",
+    "org": "Florian Bauer",
+    "domain": "as210833.net"
+  },
+  {
     "network": "2a05:d4c0:ffff::/48",
     "asn": "210833",
     "country_code": "DE",
@@ -191384,6 +191424,14 @@
     "domain": "internetworx.com"
   },
   {
+    "network": "2a03:6947:1400::/40",
+    "asn": "59819",
+    "country_code": "DE",
+    "name": "JWEMEA-AS",
+    "org": "Jehovas Zeugen in Deutschland, K.d.O.R.",
+    "domain": "jw.org"
+  },
+  {
     "network": "2a03:6947:1500::/40",
     "asn": "59819",
     "country_code": "DE",
@@ -191537,14 +191585,6 @@
   },
   {
     "network": "2a0f:6280:7010::/44",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
-    "network": "2a13:c8c4:7018::/48",
     "asn": "219418",
     "country_code": "DE",
     "name": "eHILL-MEDIA",

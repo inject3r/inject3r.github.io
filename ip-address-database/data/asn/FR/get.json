@@ -31224,6 +31224,22 @@
     "domain": "levelsys.com"
   },
   {
+    "network": "31.43.166.0/23",
+    "asn": "219102",
+    "country_code": "FR",
+    "name": "CD34",
+    "org": "Departement de l'Herault",
+    "domain": "herault.fr"
+  },
+  {
+    "network": "2a0b:8480::/29",
+    "asn": "219102",
+    "country_code": "FR",
+    "name": "CD34",
+    "org": "Departement de l'Herault",
+    "domain": "herault.fr"
+  },
+  {
     "network": "31.43.174.0/23",
     "asn": "203532",
     "country_code": "FR",
@@ -32192,6 +32208,14 @@
     "domain": "by-hoster.com"
   },
   {
+    "network": "2a13:9500:a8::/48",
+    "asn": "215142",
+    "country_code": "FR",
+    "name": "By-Hoster",
+    "org": "Association By-Hoster",
+    "domain": "by-hoster.com"
+  },
+  {
     "network": "31.57.227.0/24",
     "asn": "211617",
     "country_code": "FR",
@@ -32833,6 +32857,14 @@
   },
   {
     "network": "2a0f:b240:1403::/48",
+    "asn": "210699",
+    "country_code": "FR",
+    "name": "WEDEPLOY-SAS",
+    "org": "WEDEPLOY SAS",
+    "domain": "infrawire.host"
+  },
+  {
+    "network": "2a0f:b240:1404::/48",
     "asn": "210699",
     "country_code": "FR",
     "name": "WEDEPLOY-SAS",
@@ -66008,6 +66040,22 @@
     "domain": "publicisgroupe.net"
   },
   {
+    "network": "81.201.178.0/24",
+    "asn": "41157",
+    "country_code": "FR",
+    "name": "NINE-IX-BACKBONE-ASN-L3-EDGE-CACHE",
+    "org": "oui.do/netsys SAS",
+    "domain": "noir.network"
+  },
+  {
+    "network": "2a0f:3400:500::/40",
+    "asn": "41157",
+    "country_code": "FR",
+    "name": "NINE-IX-BACKBONE-ASN-L3-EDGE-CACHE",
+    "org": "oui.do/netsys SAS",
+    "domain": "noir.network"
+  },
+  {
     "network": "81.252.173.0/24",
     "asn": "21272",
     "country_code": "FR",
@@ -66720,6 +66768,22 @@
     "domain": "connect-ix.net"
   },
   {
+    "network": "130.117.47.0/24",
+    "asn": "215035",
+    "country_code": "FR",
+    "name": "CONNECT-IX",
+    "org": "CONNECT-IX SAS",
+    "domain": "connect-ix.net"
+  },
+  {
+    "network": "149.7.100.0/24",
+    "asn": "215035",
+    "country_code": "FR",
+    "name": "CONNECT-IX",
+    "org": "CONNECT-IX SAS",
+    "domain": "connect-ix.net"
+  },
+  {
     "network": "154.50.48.0/24",
     "asn": "215035",
     "country_code": "FR",
@@ -66792,14 +66856,6 @@
     "domain": "slbcloud.fr"
   },
   {
-    "network": "130.117.47.0/24",
-    "asn": "215114",
-    "country_code": "FR",
-    "name": "PLB-NET",
-    "org": "Stevan Durand--L'Hours t/a SLBCLOUD",
-    "domain": "slbcloud.fr"
-  },
-  {
     "network": "139.28.99.0/24",
     "asn": "215114",
     "country_code": "FR",
@@ -66809,14 +66865,6 @@
   },
   {
     "network": "141.11.5.0/24",
-    "asn": "215114",
-    "country_code": "FR",
-    "name": "PLB-NET",
-    "org": "Stevan Durand--L'Hours t/a SLBCLOUD",
-    "domain": "slbcloud.fr"
-  },
-  {
-    "network": "149.7.100.0/24",
     "asn": "215114",
     "country_code": "FR",
     "name": "PLB-NET",
@@ -66865,6 +66913,14 @@
   },
   {
     "network": "82.29.39.0/24",
+    "asn": "207449",
+    "country_code": "FR",
+    "name": "Hostinity",
+    "org": "LEBREUILLY Jeremy trading as Hostinity",
+    "domain": "hostinity.fr"
+  },
+  {
+    "network": "2a13:8c85::/32",
     "asn": "207449",
     "country_code": "FR",
     "name": "Hostinity",
@@ -85360,6 +85416,30 @@
     "domain": "axa-tech.com"
   },
   {
+    "network": "171.18.144.0/23",
+    "asn": "12696",
+    "country_code": "FR",
+    "name": "AXA-TECH",
+    "org": "AXA Technology Services France GIE",
+    "domain": "axa-tech.com"
+  },
+  {
+    "network": "171.18.144.0/24",
+    "asn": "12696",
+    "country_code": "FR",
+    "name": "AXA-TECH",
+    "org": "AXA Technology Services France GIE",
+    "domain": "axa-tech.com"
+  },
+  {
+    "network": "171.18.145.0/24",
+    "asn": "12696",
+    "country_code": "FR",
+    "name": "AXA-TECH",
+    "org": "AXA Technology Services France GIE",
+    "domain": "axa-tech.com"
+  },
+  {
     "network": "193.32.101.0/24",
     "asn": "12696",
     "country_code": "FR",
@@ -97552,14 +97632,6 @@
     "domain": "tiersbox.net"
   },
   {
-    "network": "195.128.146.0/24",
-    "asn": "56921",
-    "country_code": "FR",
-    "name": "ALCATEL-BUSINESS-SYSTEMS",
-    "org": "Ale International SAS",
-    "domain": "normhost.net"
-  },
-  {
     "network": "195.130.207.0/24",
     "asn": "48799",
     "country_code": "FR",
@@ -100952,14 +101024,6 @@
     "domain": "beaufour.fr"
   },
   {
-    "network": "2a06:a001:a08f::/48",
-    "asn": "207466",
-    "country_code": "FR",
-    "name": "SBFR",
-    "org": "Sebastien Beaufour",
-    "domain": "beaufour.fr"
-  },
-  {
     "network": "2a06:a005:15d2::/48",
     "asn": "207466",
     "country_code": "FR",
@@ -101057,14 +101121,6 @@
   },
   {
     "network": "2a06:de00:50::/48",
-    "asn": "215011",
-    "country_code": "FR",
-    "name": "NXTHDR",
-    "org": "Matthieu Gouel",
-    "domain": "nxthdr.dev"
-  },
-  {
-    "network": "2a06:de00:58::/47",
     "asn": "215011",
     "country_code": "FR",
     "name": "NXTHDR",
@@ -101856,6 +101912,14 @@
     "domain": "dissidence.ovh"
   },
   {
+    "network": "2a0c:9a40:88b0::/44",
+    "asn": "200029",
+    "country_code": "FR",
+    "name": "AS-HELSLINK",
+    "org": "Remy Martin",
+    "domain": "helslink.com"
+  },
+  {
     "network": "2a0c:9a46:700::/48",
     "asn": "200529",
     "country_code": "FR",
@@ -102318,14 +102382,6 @@
     "name": "MAEL-GRAMAIN",
     "org": "MAEL GRAMAIN",
     "domain": "enpls.org"
-  },
-  {
-    "network": "2a0f:3400:500::/40",
-    "asn": "41157",
-    "country_code": "FR",
-    "name": "NINE-IX-BACKBONE-ASN-L3-EDGE-CACHE",
-    "org": "oui.do/netsys SAS",
-    "domain": "noir.network"
   },
   {
     "network": "2a0f:6284:4210::/48",

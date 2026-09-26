@@ -23832,14 +23832,6 @@
     "domain": "rt.ru"
   },
   {
-    "network": "212.124.0.0/22",
-    "asn": "12389",
-    "country_code": "RU",
-    "name": "ROSTELECOM-AS",
-    "org": "PJSC Rostelecom",
-    "domain": "rt.ru"
-  },
-  {
     "network": "212.124.6.0/23",
     "asn": "12389",
     "country_code": "RU",
@@ -36777,6 +36769,14 @@
   },
   {
     "network": "2a00:ab00:1300::/40",
+    "asn": "50340",
+    "country_code": "RU",
+    "name": "SELECTEL-MSK",
+    "org": "JSC Selectel",
+    "domain": "selectel.ru"
+  },
+  {
+    "network": "2a02:2102::/32",
     "asn": "50340",
     "country_code": "RU",
     "name": "SELECTEL-MSK",
@@ -50272,6 +50272,14 @@
     "domain": "beeline.ru"
   },
   {
+    "network": "95.30.5.0/24",
+    "asn": "8402",
+    "country_code": "RU",
+    "name": "CORBINA-AS",
+    "org": "PJSC \"Vimpelcom\"",
+    "domain": "beeline.ru"
+  },
+  {
     "network": "95.30.10.0/24",
     "asn": "8402",
     "country_code": "RU",
@@ -50313,14 +50321,6 @@
   },
   {
     "network": "95.30.28.0/24",
-    "asn": "8402",
-    "country_code": "RU",
-    "name": "CORBINA-AS",
-    "org": "PJSC \"Vimpelcom\"",
-    "domain": "beeline.ru"
-  },
-  {
-    "network": "95.30.62.0/24",
     "asn": "8402",
     "country_code": "RU",
     "name": "CORBINA-AS",
@@ -50409,14 +50409,6 @@
   },
   {
     "network": "95.30.190.0/23",
-    "asn": "8402",
-    "country_code": "RU",
-    "name": "CORBINA-AS",
-    "org": "PJSC \"Vimpelcom\"",
-    "domain": "beeline.ru"
-  },
-  {
-    "network": "95.30.192.0/22",
     "asn": "8402",
     "country_code": "RU",
     "name": "CORBINA-AS",
@@ -62761,6 +62753,14 @@
   },
   {
     "network": "83.172.48.0/21",
+    "asn": "9049",
+    "country_code": "RU",
+    "name": "ERTH-TRANSIT-AS",
+    "org": "JSC \"ER-Telecom Holding\"",
+    "domain": "ertelecom.ru"
+  },
+  {
+    "network": "88.204.106.0/24",
     "asn": "9049",
     "country_code": "RU",
     "name": "ERTH-TRANSIT-AS",
@@ -90608,6 +90608,38 @@
     "domain": "fortis.host"
   },
   {
+    "network": "141.98.161.0/24",
+    "asn": "41745",
+    "country_code": "RU",
+    "name": "FORTIS-AS",
+    "org": "Baykov Ilya Sergeevich",
+    "domain": "fortis.host"
+  },
+  {
+    "network": "141.98.162.0/24",
+    "asn": "41745",
+    "country_code": "RU",
+    "name": "FORTIS-AS",
+    "org": "Baykov Ilya Sergeevich",
+    "domain": "fortis.host"
+  },
+  {
+    "network": "141.98.163.0/24",
+    "asn": "41745",
+    "country_code": "RU",
+    "name": "FORTIS-AS",
+    "org": "Baykov Ilya Sergeevich",
+    "domain": "fortis.host"
+  },
+  {
+    "network": "141.98.164.0/24",
+    "asn": "41745",
+    "country_code": "RU",
+    "name": "FORTIS-AS",
+    "org": "Baykov Ilya Sergeevich",
+    "domain": "fortis.host"
+  },
+  {
     "network": "142.111.244.0/24",
     "asn": "41745",
     "country_code": "RU",
@@ -99096,6 +99128,14 @@
     "domain": "reg.ru"
   },
   {
+    "network": "194.67.113.0/24",
+    "asn": "197695",
+    "country_code": "RU",
+    "name": "AS-REGRU",
+    "org": "\"Domain names registrar REG.RU\", Ltd",
+    "domain": "reg.ru"
+  },
+  {
     "network": "194.67.114.0/24",
     "asn": "197695",
     "country_code": "RU",
@@ -101329,6 +101369,30 @@
   },
   {
     "network": "193.33.26.0/23",
+    "asn": "8369",
+    "country_code": "RU",
+    "name": "INTERSVYAZ-AS",
+    "org": "Intersvyaz-2 JSC",
+    "domain": "chelcom.ru"
+  },
+  {
+    "network": "193.105.156.0/24",
+    "asn": "8369",
+    "country_code": "RU",
+    "name": "INTERSVYAZ-AS",
+    "org": "Intersvyaz-2 JSC",
+    "domain": "chelcom.ru"
+  },
+  {
+    "network": "195.114.122.0/24",
+    "asn": "8369",
+    "country_code": "RU",
+    "name": "INTERSVYAZ-AS",
+    "org": "Intersvyaz-2 JSC",
+    "domain": "chelcom.ru"
+  },
+  {
+    "network": "195.114.123.0/24",
     "asn": "8369",
     "country_code": "RU",
     "name": "INTERSVYAZ-AS",
@@ -108472,14 +108536,6 @@
     "domain": "itmh.ru"
   },
   {
-    "network": "87.224.178.0/24",
-    "asn": "12668",
-    "country_code": "RU",
-    "name": "MIRALOGIC-AS",
-    "org": "LLC \"KomTehCentr\"",
-    "domain": "itmh.ru"
-  },
-  {
     "network": "87.224.181.0/24",
     "asn": "12668",
     "country_code": "RU",
@@ -110433,6 +110489,14 @@
   },
   {
     "network": "5.143.227.0/24",
+    "asn": "50714",
+    "country_code": "RU",
+    "name": "JamTM",
+    "org": "ZET-Telecom North-West Ltd",
+    "domain": "jamtm.ru"
+  },
+  {
+    "network": "46.161.0.0/24",
     "asn": "50714",
     "country_code": "RU",
     "name": "JamTM",
@@ -136584,6 +136648,102 @@
     "domain": "ttk.ru"
   },
   {
+    "network": "9.247.23.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "31.77.61.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "46.20.105.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "81.29.144.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "104.224.47.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "108.165.186.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "128.254.186.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "132.243.245.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "163.245.42.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "185.24.151.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "185.70.222.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
+    "network": "212.16.92.0/24",
+    "asn": "219284",
+    "country_code": "RU",
+    "name": "payload-network",
+    "org": "Evgenii Konstantinov",
+    "domain": "payload.network"
+  },
+  {
     "network": "13.143.232.0/24",
     "asn": "219095",
     "country_code": "RU",
@@ -137497,14 +137657,6 @@
   },
   {
     "network": "2a02:2101::/32",
-    "asn": "39134",
-    "country_code": "RU",
-    "name": "UNITEDNET",
-    "org": "EDINAYA SET LIMITED LIABILITY COMPANY",
-    "domain": "selectel.ru"
-  },
-  {
-    "network": "2a02:2102::/32",
     "asn": "39134",
     "country_code": "RU",
     "name": "UNITEDNET",
@@ -147200,70 +147352,6 @@
     "domain": "ddos-guard.net"
   },
   {
-    "network": "31.77.61.0/24",
-    "asn": "219284",
-    "country_code": "RU",
-    "name": "payload-network",
-    "org": "Evgenii Konstantinov",
-    "domain": "payload.network"
-  },
-  {
-    "network": "46.20.105.0/24",
-    "asn": "219284",
-    "country_code": "RU",
-    "name": "payload-network",
-    "org": "Evgenii Konstantinov",
-    "domain": "payload.network"
-  },
-  {
-    "network": "104.224.47.0/24",
-    "asn": "219284",
-    "country_code": "RU",
-    "name": "payload-network",
-    "org": "Evgenii Konstantinov",
-    "domain": "payload.network"
-  },
-  {
-    "network": "108.165.186.0/24",
-    "asn": "219284",
-    "country_code": "RU",
-    "name": "payload-network",
-    "org": "Evgenii Konstantinov",
-    "domain": "payload.network"
-  },
-  {
-    "network": "128.254.186.0/24",
-    "asn": "219284",
-    "country_code": "RU",
-    "name": "payload-network",
-    "org": "Evgenii Konstantinov",
-    "domain": "payload.network"
-  },
-  {
-    "network": "185.24.151.0/24",
-    "asn": "219284",
-    "country_code": "RU",
-    "name": "payload-network",
-    "org": "Evgenii Konstantinov",
-    "domain": "payload.network"
-  },
-  {
-    "network": "185.70.222.0/24",
-    "asn": "219284",
-    "country_code": "RU",
-    "name": "payload-network",
-    "org": "Evgenii Konstantinov",
-    "domain": "payload.network"
-  },
-  {
-    "network": "212.16.92.0/24",
-    "asn": "219284",
-    "country_code": "RU",
-    "name": "payload-network",
-    "org": "Evgenii Konstantinov",
-    "domain": "payload.network"
-  },
-  {
     "network": "31.77.163.0/24",
     "asn": "219225",
     "country_code": "RU",
@@ -151137,6 +151225,30 @@
   },
   {
     "network": "31.133.120.0/21",
+    "asn": "61152",
+    "country_code": "RU",
+    "name": "FREEDH-AS",
+    "org": "Freedom House Ltd.",
+    "domain": "freedh.ru"
+  },
+  {
+    "network": "31.133.120.0/22",
+    "asn": "61152",
+    "country_code": "RU",
+    "name": "FREEDH-AS",
+    "org": "Freedom House Ltd.",
+    "domain": "freedh.ru"
+  },
+  {
+    "network": "31.133.124.0/24",
+    "asn": "61152",
+    "country_code": "RU",
+    "name": "FREEDH-AS",
+    "org": "Freedom House Ltd.",
+    "domain": "freedh.ru"
+  },
+  {
+    "network": "31.133.127.0/24",
     "asn": "61152",
     "country_code": "RU",
     "name": "FREEDH-AS",
@@ -158024,6 +158136,14 @@
     "domain": "megafon.ru"
   },
   {
+    "network": "2a03:d000:6c00::/48",
+    "asn": "31133",
+    "country_code": "RU",
+    "name": "MF-MGSM-AS",
+    "org": "PJSC MegaFon",
+    "domain": "megafon.ru"
+  },
+  {
     "network": "2a03:d000:7000::/40",
     "asn": "31133",
     "country_code": "RU",
@@ -160320,7 +160440,31 @@
     "domain": ""
   },
   {
+    "network": "2a03:d005:600::/40",
+    "asn": "29648",
+    "country_code": "RU",
+    "name": "COMLINE-AS",
+    "org": "PJSC MegaFon",
+    "domain": ""
+  },
+  {
     "network": "2a03:d005:700::/40",
+    "asn": "29648",
+    "country_code": "RU",
+    "name": "COMLINE-AS",
+    "org": "PJSC MegaFon",
+    "domain": ""
+  },
+  {
+    "network": "2a03:d005:800::/40",
+    "asn": "29648",
+    "country_code": "RU",
+    "name": "COMLINE-AS",
+    "org": "PJSC MegaFon",
+    "domain": ""
+  },
+  {
+    "network": "2a03:d005:900::/40",
     "asn": "29648",
     "country_code": "RU",
     "name": "COMLINE-AS",
@@ -180129,14 +180273,6 @@
   },
   {
     "network": "185.17.170.0/24",
-    "asn": "34879",
-    "country_code": "RU",
-    "name": "CCT-AS",
-    "org": "OOO \"Sovremennye setevye tekhnologii\"",
-    "domain": "ngenix.net"
-  },
-  {
-    "network": "185.17.171.0/24",
     "asn": "34879",
     "country_code": "RU",
     "name": "CCT-AS",
@@ -201257,6 +201393,14 @@
   },
   {
     "network": "88.151.248.0/21",
+    "asn": "44300",
+    "country_code": "RU",
+    "name": "IPLS-AS",
+    "org": "LLC \"IPLS\"",
+    "domain": "ipls.ru"
+  },
+  {
+    "network": "88.151.248.0/24",
     "asn": "44300",
     "country_code": "RU",
     "name": "IPLS-AS",
@@ -232904,14 +233048,6 @@
     "domain": "falcondc.ru"
   },
   {
-    "network": "170.168.76.0/24",
-    "asn": "214727",
-    "country_code": "RU",
-    "name": "FALCON-AS",
-    "org": "Falcon LLC",
-    "domain": "falcondc.ru"
-  },
-  {
     "network": "77.94.42.0/24",
     "asn": "21166",
     "country_code": "RU",
@@ -247728,166 +247864,6 @@
     "domain": ""
   },
   {
-    "network": "80.90.64.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.16.0/20",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.16.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.17.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.18.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.19.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.20.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.21.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.22.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.23.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.24.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.25.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.26.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.27.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.28.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.29.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.30.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "176.114.31.0/24",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "185.214.76.0/22",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
-    "network": "2a0b:97c0::/29",
-    "asn": "58067",
-    "country_code": "RU",
-    "name": "ASCHITATEH",
-    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
-    "domain": "eesnet.ru"
-  },
-  {
     "network": "80.90.65.0/24",
     "asn": "21266",
     "country_code": "RU",
@@ -257224,6 +257200,14 @@
     "domain": "wellserver.ru"
   },
   {
+    "network": "82.202.180.0/24",
+    "asn": "56864",
+    "country_code": "RU",
+    "name": "WELLSERVER-AS",
+    "org": "Xeon LLC",
+    "domain": "wellserver.ru"
+  },
+  {
     "network": "82.202.182.0/23",
     "asn": "56864",
     "country_code": "RU",
@@ -257281,6 +257265,14 @@
   },
   {
     "network": "212.48.236.0/22",
+    "asn": "56864",
+    "country_code": "RU",
+    "name": "WELLSERVER-AS",
+    "org": "Xeon LLC",
+    "domain": "wellserver.ru"
+  },
+  {
+    "network": "212.48.239.0/24",
     "asn": "56864",
     "country_code": "RU",
     "name": "WELLSERVER-AS",
@@ -261414,6 +261406,30 @@
     "name": "PLUSINTERNET-AS",
     "org": "Internet Plus LLC",
     "domain": "plus-internet.ru"
+  },
+  {
+    "network": "84.54.55.0/24",
+    "asn": "49179",
+    "country_code": "RU",
+    "name": "TEND-AS",
+    "org": "Tendence LLC",
+    "domain": "tendence.ru"
+  },
+  {
+    "network": "195.88.224.0/24",
+    "asn": "49179",
+    "country_code": "RU",
+    "name": "TEND-AS",
+    "org": "Tendence LLC",
+    "domain": "tendence.ru"
+  },
+  {
+    "network": "195.88.225.0/24",
+    "asn": "49179",
+    "country_code": "RU",
+    "name": "TEND-AS",
+    "org": "Tendence LLC",
+    "domain": "tendence.ru"
   },
   {
     "network": "84.204.53.0/24",
@@ -267961,6 +267977,14 @@
   },
   {
     "network": "2a05:3580:e000::/40",
+    "asn": "35807",
+    "country_code": "RU",
+    "name": "AS-SKYNET-SPB",
+    "org": "SkyNet Ltd.",
+    "domain": "sknt.ru"
+  },
+  {
+    "network": "2a05:3580:e100::/40",
     "asn": "35807",
     "country_code": "RU",
     "name": "AS-SKYNET-SPB",
@@ -282208,6 +282232,14 @@
     "domain": "astsystems.ru"
   },
   {
+    "network": "95.215.148.0/24",
+    "asn": "47656",
+    "country_code": "RU",
+    "name": "AST-SYSTEMS-AS",
+    "org": "Ast-Systems Ltd.",
+    "domain": "astsystems.ru"
+  },
+  {
     "network": "95.215.150.0/23",
     "asn": "47656",
     "country_code": "RU",
@@ -283033,6 +283065,14 @@
   },
   {
     "network": "91.236.205.0/24",
+    "asn": "56565",
+    "country_code": "RU",
+    "name": "CRPT-AS",
+    "org": "Operator-CRPT LLC",
+    "domain": "crpt.ru"
+  },
+  {
+    "network": "157.22.254.0/24",
     "asn": "56565",
     "country_code": "RU",
     "name": "CRPT-AS",
@@ -285006,14 +285046,6 @@
     "name": "ASDYATLOV",
     "org": "PE Dyatlov Sergey Vladimirovich",
     "domain": "ya.ru"
-  },
-  {
-    "network": "91.214.144.0/22",
-    "asn": "49481",
-    "country_code": "RU",
-    "name": "ULTRACOM-AS",
-    "org": "Ultracom CJSC",
-    "domain": "airportus.ru"
   },
   {
     "network": "91.214.144.0/23",
@@ -288441,6 +288473,22 @@
   },
   {
     "network": "91.221.108.0/23",
+    "asn": "59557",
+    "country_code": "RU",
+    "name": "ASSTATUSTELECOM",
+    "org": "Status Telecom Ltd.",
+    "domain": "status-telecom.ru"
+  },
+  {
+    "network": "91.221.108.0/24",
+    "asn": "59557",
+    "country_code": "RU",
+    "name": "ASSTATUSTELECOM",
+    "org": "Status Telecom Ltd.",
+    "domain": "status-telecom.ru"
+  },
+  {
+    "network": "91.221.109.0/24",
     "asn": "59557",
     "country_code": "RU",
     "name": "ASSTATUSTELECOM",
@@ -306176,14 +306224,6 @@
     "domain": "60500.ru"
   },
   {
-    "network": "95.215.148.0/24",
-    "asn": "49064",
-    "country_code": "RU",
-    "name": "TELECOMSERVICE-AS",
-    "org": "Ast-Systems Ltd.",
-    "domain": "astsystems.ru"
-  },
-  {
     "network": "95.215.149.0/24",
     "asn": "8305",
     "country_code": "RU",
@@ -308222,6 +308262,14 @@
     "name": "sevsu-as",
     "org": "Federal State Autonomous Educational Institution of Higher Education \"Sevastopol State University\"",
     "domain": "sevsu.ru"
+  },
+  {
+    "network": "138.249.15.0/24",
+    "asn": "211270",
+    "country_code": "RU",
+    "name": "VEZARYS-AS",
+    "org": "Golitsyn Valeriy Valerevich",
+    "domain": "vezarys.online"
   },
   {
     "network": "138.249.27.0/24",
@@ -311640,6 +311688,54 @@
     "domain": ""
   },
   {
+    "network": "176.102.160.0/21",
+    "asn": "56463",
+    "country_code": "RU",
+    "name": "ASAVICENA",
+    "org": "OOO \"BSCOM\"",
+    "domain": "bscom.ru"
+  },
+  {
+    "network": "188.191.184.0/24",
+    "asn": "56463",
+    "country_code": "RU",
+    "name": "ASAVICENA",
+    "org": "OOO \"BSCOM\"",
+    "domain": "bscom.ru"
+  },
+  {
+    "network": "188.191.185.0/24",
+    "asn": "56463",
+    "country_code": "RU",
+    "name": "ASAVICENA",
+    "org": "OOO \"BSCOM\"",
+    "domain": "bscom.ru"
+  },
+  {
+    "network": "188.191.186.0/24",
+    "asn": "56463",
+    "country_code": "RU",
+    "name": "ASAVICENA",
+    "org": "OOO \"BSCOM\"",
+    "domain": "bscom.ru"
+  },
+  {
+    "network": "188.191.187.0/24",
+    "asn": "56463",
+    "country_code": "RU",
+    "name": "ASAVICENA",
+    "org": "OOO \"BSCOM\"",
+    "domain": "bscom.ru"
+  },
+  {
+    "network": "188.191.188.0/22",
+    "asn": "56463",
+    "country_code": "RU",
+    "name": "ASAVICENA",
+    "org": "OOO \"BSCOM\"",
+    "domain": "bscom.ru"
+  },
+  {
     "network": "176.105.234.0/24",
     "asn": "211866",
     "country_code": "RU",
@@ -312630,6 +312726,158 @@
     "name": "NEWLIME-AS",
     "org": "Newlime LLC",
     "domain": "newlime.ru"
+  },
+  {
+    "network": "176.114.16.0/20",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.16.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.17.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.18.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.19.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.20.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.21.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.22.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.23.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.24.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.25.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.26.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.27.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.28.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.29.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.30.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "176.114.31.0/24",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "185.214.76.0/22",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
+  },
+  {
+    "network": "2a0b:97c0::/29",
+    "asn": "58067",
+    "country_code": "RU",
+    "name": "ASCHITATEH",
+    "org": "JOINT-STOCK COMPANY \"MOSCOW ENERGY COMMUNICATION NODE\"",
+    "domain": "eesnet.ru"
   },
   {
     "network": "176.114.48.0/21",
@@ -315961,6 +316209,14 @@
   },
   {
     "network": "178.212.36.0/22",
+    "asn": "41517",
+    "country_code": "RU",
+    "name": "STRELA-AS",
+    "org": "MUP Strela Khabarovsk",
+    "domain": "strela.biz"
+  },
+  {
+    "network": "178.212.36.0/23",
     "asn": "41517",
     "country_code": "RU",
     "name": "STRELA-AS",
@@ -328520,6 +328776,22 @@
     "domain": ""
   },
   {
+    "network": "193.35.32.0/24",
+    "asn": "59404",
+    "country_code": "RU",
+    "name": "GlobalTV-AS",
+    "org": "Korkino-Cable Television Networks Ltd",
+    "domain": ""
+  },
+  {
+    "network": "193.35.33.0/24",
+    "asn": "59404",
+    "country_code": "RU",
+    "name": "GlobalTV-AS",
+    "org": "Korkino-Cable Television Networks Ltd",
+    "domain": ""
+  },
+  {
     "network": "193.35.35.0/24",
     "asn": "59404",
     "country_code": "RU",
@@ -335776,6 +336048,14 @@
     "domain": "avtomir.ru"
   },
   {
+    "network": "195.2.199.0/24",
+    "asn": "48561",
+    "country_code": "RU",
+    "name": "AUTOMIR-AS",
+    "org": "NP Automir CJSC.",
+    "domain": "avtomir.ru"
+  },
+  {
     "network": "195.2.214.0/23",
     "asn": "13029",
     "country_code": "RU",
@@ -337424,28 +337704,20 @@
     "domain": "nau-ra.ru"
   },
   {
+    "network": "195.88.198.0/23",
+    "asn": "49156",
+    "country_code": "RU",
+    "name": "IZHLINE-AS",
+    "org": "Izhline Ltd.",
+    "domain": "izhline.net"
+  },
+  {
     "network": "195.88.200.0/23",
     "asn": "49155",
     "country_code": "RU",
     "name": "KETRA-AS",
     "org": "IK-Servis Ltd.",
     "domain": "ikservis.ru"
-  },
-  {
-    "network": "195.88.224.0/24",
-    "asn": "49179",
-    "country_code": "RU",
-    "name": "TEND-AS",
-    "org": "Tendence LLC",
-    "domain": "tendence.ru"
-  },
-  {
-    "network": "195.88.225.0/24",
-    "asn": "49179",
-    "country_code": "RU",
-    "name": "TEND-AS",
-    "org": "Tendence LLC",
-    "domain": "tendence.ru"
   },
   {
     "network": "195.88.240.0/23",
@@ -341120,14 +341392,6 @@
     "domain": "tinkoff.ru"
   },
   {
-    "network": "217.14.20.0/24",
-    "asn": "28712",
-    "country_code": "RU",
-    "name": "T-Media",
-    "org": "\"TBANK\" JSC",
-    "domain": "tinkoff.ru"
-  },
-  {
     "network": "217.14.254.0/24",
     "asn": "203492",
     "country_code": "RU",
@@ -342841,14 +343105,6 @@
   },
   {
     "network": "2a0d:d940:6a::/48",
-    "asn": "219529",
-    "country_code": "RU",
-    "name": "PODRIL1AK2-AS",
-    "org": "Yulia Kurganova",
-    "domain": "as219529.com"
-  },
-  {
-    "network": "2a0d:d940:6b::/48",
     "asn": "219529",
     "country_code": "RU",
     "name": "PODRIL1AK2-AS",
