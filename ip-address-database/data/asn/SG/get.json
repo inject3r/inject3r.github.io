@@ -3224,6 +3224,14 @@
     "domain": "wisdomisp.com"
   },
   {
+    "network": "79.180.4.0/22",
+    "asn": "197537",
+    "country_code": "SG",
+    "name": "WISDOM-CLOUD",
+    "org": "WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.",
+    "domain": "wisdomisp.com"
+  },
+  {
     "network": "82.21.77.0/24",
     "asn": "197537",
     "country_code": "SG",
@@ -3568,6 +3576,14 @@
     "domain": "wisdomisp.com"
   },
   {
+    "network": "109.64.194.0/23",
+    "asn": "197537",
+    "country_code": "SG",
+    "name": "WISDOM-CLOUD",
+    "org": "WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.",
+    "domain": "wisdomisp.com"
+  },
+  {
     "network": "109.176.203.0/24",
     "asn": "197537",
     "country_code": "SG",
@@ -3601,6 +3617,14 @@
   },
   {
     "network": "123.253.233.0/24",
+    "asn": "197537",
+    "country_code": "SG",
+    "name": "WISDOM-CLOUD",
+    "org": "WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.",
+    "domain": "wisdomisp.com"
+  },
+  {
+    "network": "141.98.149.0/24",
     "asn": "197537",
     "country_code": "SG",
     "name": "WISDOM-CLOUD",
@@ -20574,6 +20598,22 @@
     "name": "WEBHORIZON-AS-AP",
     "org": "WebHorizon Internet Services",
     "domain": "webhorizon.net"
+  },
+  {
+    "network": "23.131.228.0/24",
+    "asn": "401556",
+    "country_code": "SG",
+    "name": "VINAGPU",
+    "org": "VINAGPU LLC",
+    "domain": "vinagpu.com"
+  },
+  {
+    "network": "23.132.60.0/24",
+    "asn": "401556",
+    "country_code": "SG",
+    "name": "VINAGPU",
+    "org": "VINAGPU LLC",
+    "domain": "vinagpu.com"
   },
   {
     "network": "23.133.68.0/24",
@@ -44832,6 +44872,14 @@
     "domain": "aceville.net"
   },
   {
+    "network": "240d:c010:165::/48",
+    "asn": "139341",
+    "country_code": "SG",
+    "name": "ACE-AS-AP",
+    "org": "ACEVILLE PTE.LTD.",
+    "domain": "aceville.net"
+  },
+  {
     "network": "240d:c010:168::/48",
     "asn": "139341",
     "country_code": "SG",
@@ -58768,14 +58816,6 @@
     "domain": "nyp.edu.sg"
   },
   {
-    "network": "2401:2f00::/32",
-    "asn": "17617",
-    "country_code": "SG",
-    "name": "NYP-AS-AP",
-    "org": "Nanyang Polytechnic",
-    "domain": "nyp.edu.sg"
-  },
-  {
     "network": "45.127.168.0/22",
     "asn": "56094",
     "country_code": "SG",
@@ -62848,6 +62888,14 @@
     "domain": "sptel.com"
   },
   {
+    "network": "61.13.236.0/24",
+    "asn": "23856",
+    "country_code": "SG",
+    "name": "SPTEL-AS-AP",
+    "org": "SPTEL PTE. LTD.",
+    "domain": "sptel.com"
+  },
+  {
     "network": "61.16.48.0/20",
     "asn": "23856",
     "country_code": "SG",
@@ -62946,54 +62994,6 @@
   {
     "network": "2407:9880::/32",
     "asn": "23856",
-    "country_code": "SG",
-    "name": "SPTEL-AS-AP",
-    "org": "SPTEL PTE. LTD.",
-    "domain": "sptel.com"
-  },
-  {
-    "network": "61.13.236.0/24",
-    "asn": "139883",
-    "country_code": "SG",
-    "name": "SPTEL-AS-AP",
-    "org": "SPTEL PTE. LTD.",
-    "domain": "sptel.com"
-  },
-  {
-    "network": "61.16.51.0/24",
-    "asn": "139883",
-    "country_code": "SG",
-    "name": "SPTEL-AS-AP",
-    "org": "SPTEL PTE. LTD.",
-    "domain": "sptel.com"
-  },
-  {
-    "network": "61.16.52.0/24",
-    "asn": "139883",
-    "country_code": "SG",
-    "name": "SPTEL-AS-AP",
-    "org": "SPTEL PTE. LTD.",
-    "domain": "sptel.com"
-  },
-  {
-    "network": "61.16.110.0/24",
-    "asn": "139883",
-    "country_code": "SG",
-    "name": "SPTEL-AS-AP",
-    "org": "SPTEL PTE. LTD.",
-    "domain": "sptel.com"
-  },
-  {
-    "network": "166.120.128.0/24",
-    "asn": "139883",
-    "country_code": "SG",
-    "name": "SPTEL-AS-AP",
-    "org": "SPTEL PTE. LTD.",
-    "domain": "sptel.com"
-  },
-  {
-    "network": "2407:9880:8112::/48",
-    "asn": "139883",
     "country_code": "SG",
     "name": "SPTEL-AS-AP",
     "org": "SPTEL PTE. LTD.",
@@ -63174,6 +63174,46 @@
     "name": "AHREFS-AS-AP",
     "org": "Ahrefs Pte Ltd",
     "domain": "ahrefs.com"
+  },
+  {
+    "network": "61.16.51.0/24",
+    "asn": "139883",
+    "country_code": "SG",
+    "name": "SPTEL-AS-AP",
+    "org": "SPTEL PTE. LTD.",
+    "domain": "sptel.com"
+  },
+  {
+    "network": "61.16.52.0/24",
+    "asn": "139883",
+    "country_code": "SG",
+    "name": "SPTEL-AS-AP",
+    "org": "SPTEL PTE. LTD.",
+    "domain": "sptel.com"
+  },
+  {
+    "network": "61.16.110.0/24",
+    "asn": "139883",
+    "country_code": "SG",
+    "name": "SPTEL-AS-AP",
+    "org": "SPTEL PTE. LTD.",
+    "domain": "sptel.com"
+  },
+  {
+    "network": "166.120.128.0/24",
+    "asn": "139883",
+    "country_code": "SG",
+    "name": "SPTEL-AS-AP",
+    "org": "SPTEL PTE. LTD.",
+    "domain": "sptel.com"
+  },
+  {
+    "network": "2407:9880:8112::/48",
+    "asn": "139883",
+    "country_code": "SG",
+    "name": "SPTEL-AS-AP",
+    "org": "SPTEL PTE. LTD.",
+    "domain": "sptel.com"
   },
   {
     "network": "61.47.1.0/24",
@@ -76926,6 +76966,70 @@
     "name": "MS-IN-AS-AP",
     "org": "Morgan Stanley Management Service (Singapore) Pte. Ltd",
     "domain": "morganstanley.com"
+  },
+  {
+    "network": "128.14.0.0/24",
+    "asn": "48274",
+    "country_code": "SG",
+    "name": "HongKong-GlobalNetwork",
+    "org": "SOUTHEAST ASIA TELECOM(SG) PTE. LTD.",
+    "domain": "auk.sg"
+  },
+  {
+    "network": "2401:b480::/32",
+    "asn": "48274",
+    "country_code": "SG",
+    "name": "HongKong-GlobalNetwork",
+    "org": "SOUTHEAST ASIA TELECOM(SG) PTE. LTD.",
+    "domain": "auk.sg"
+  },
+  {
+    "network": "2a05:9340::/29",
+    "asn": "48274",
+    "country_code": "SG",
+    "name": "HongKong-GlobalNetwork",
+    "org": "SOUTHEAST ASIA TELECOM(SG) PTE. LTD.",
+    "domain": "auk.sg"
+  },
+  {
+    "network": "2a11:cc0::/29",
+    "asn": "48274",
+    "country_code": "SG",
+    "name": "HongKong-GlobalNetwork",
+    "org": "SOUTHEAST ASIA TELECOM(SG) PTE. LTD.",
+    "domain": "auk.sg"
+  },
+  {
+    "network": "2a11:3ac0::/29",
+    "asn": "48274",
+    "country_code": "SG",
+    "name": "HongKong-GlobalNetwork",
+    "org": "SOUTHEAST ASIA TELECOM(SG) PTE. LTD.",
+    "domain": "auk.sg"
+  },
+  {
+    "network": "2a11:9500::/29",
+    "asn": "48274",
+    "country_code": "SG",
+    "name": "HongKong-GlobalNetwork",
+    "org": "SOUTHEAST ASIA TELECOM(SG) PTE. LTD.",
+    "domain": "auk.sg"
+  },
+  {
+    "network": "2a11:b7c0::/29",
+    "asn": "48274",
+    "country_code": "SG",
+    "name": "HongKong-GlobalNetwork",
+    "org": "SOUTHEAST ASIA TELECOM(SG) PTE. LTD.",
+    "domain": "auk.sg"
+  },
+  {
+    "network": "2a12:9f00::/29",
+    "asn": "48274",
+    "country_code": "SG",
+    "name": "HongKong-GlobalNetwork",
+    "org": "SOUTHEAST ASIA TELECOM(SG) PTE. LTD.",
+    "domain": "auk.sg"
   },
   {
     "network": "129.230.177.0/24",

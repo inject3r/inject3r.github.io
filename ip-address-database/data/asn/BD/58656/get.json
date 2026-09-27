@@ -1,13 +1,5 @@
 [
   {
-    "network": "103.12.176.0/22",
-    "asn": "58656",
-    "country_code": "BD",
-    "name": "BDHUB-BD",
-    "org": "bdHUB",
-    "domain": "bdhub.com"
-  },
-  {
     "network": "103.12.176.0/24",
     "asn": "58656",
     "country_code": "BD",
@@ -48,6 +40,14 @@
     "domain": "bdhub.com"
   },
   {
+    "network": "118.179.8.0/24",
+    "asn": "58656",
+    "country_code": "BD",
+    "name": "BDHUB-BD",
+    "org": "bdHUB",
+    "domain": "bdhub.com"
+  },
+  {
     "network": "118.179.9.0/24",
     "asn": "58656",
     "country_code": "BD",
@@ -64,7 +64,7 @@
     "domain": "bdhub.com"
   },
   {
-    "network": "118.179.15.0/24",
+    "network": "118.179.14.0/24",
     "asn": "58656",
     "country_code": "BD",
     "name": "BDHUB-BD",
@@ -72,7 +72,7 @@
     "domain": "bdhub.com"
   },
   {
-    "network": "118.179.16.0/20",
+    "network": "118.179.15.0/24",
     "asn": "58656",
     "country_code": "BD",
     "name": "BDHUB-BD",

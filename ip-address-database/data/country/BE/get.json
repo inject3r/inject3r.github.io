@@ -1152,12 +1152,6 @@
     "country_name": "Belgium"
   },
   {
-    "network": "5.196.55.12/30",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
     "network": "5.196.59.80/29",
     "continent_code": "EU",
     "country_code": "BE",
@@ -4866,6 +4860,12 @@
     "country_name": "Belgium"
   },
   {
+    "network": "46.193.201.190/32",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
     "network": "46.193.201.239/32",
     "continent_code": "EU",
     "country_code": "BE",
@@ -7513,12 +7513,6 @@
   },
   {
     "network": "54.38.162.192/29",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "54.38.162.224/27",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -24354,13 +24348,7 @@
     "country_name": "Belgium"
   },
   {
-    "network": "62.23.251.128/29",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "62.23.251.140/30",
+    "network": "62.23.251.128/28",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -27294,7 +27282,7 @@
     "country_name": "Belgium"
   },
   {
-    "network": "62.105.203.112/31",
+    "network": "62.105.203.112/28",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -27966,7 +27954,19 @@
     "country_name": "Belgium"
   },
   {
-    "network": "62.193.192.128/26",
+    "network": "62.193.192.136/29",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "62.193.192.144/28",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "62.193.192.168/29",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -30486,7 +30486,7 @@
     "country_name": "Belgium"
   },
   {
-    "network": "80.169.110.0/29",
+    "network": "80.169.110.0/30",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -30558,7 +30558,7 @@
     "country_name": "Belgium"
   },
   {
-    "network": "80.169.110.132/31",
+    "network": "80.169.110.132/30",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -31537,6 +31537,12 @@
   },
   {
     "network": "80.245.32.16/28",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "80.245.47.96/27",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -32592,7 +32598,7 @@
     "country_name": "Belgium"
   },
   {
-    "network": "82.197.193.144/29",
+    "network": "82.197.193.128/27",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -33714,13 +33720,13 @@
     "country_name": "Belgium"
   },
   {
-    "network": "89.47.211.128/26",
+    "network": "89.47.211.128/25",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
   },
   {
-    "network": "89.47.218.32/27",
+    "network": "89.47.218.42/31",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -33732,7 +33738,7 @@
     "country_name": "Belgium"
   },
   {
-    "network": "89.47.221.96/27",
+    "network": "89.47.221.116/30",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -38994,7 +39000,37 @@
     "country_name": "Belgium"
   },
   {
-    "network": "144.178.228.0/22",
+    "network": "144.178.228.0/23",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "144.178.230.0/24",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "144.178.231.0/25",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "144.178.231.144/28",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "144.178.231.160/27",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "144.178.231.192/26",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -39630,7 +39666,7 @@
     "country_name": "Belgium"
   },
   {
-    "network": "147.67.0.0/17",
+    "network": "147.67.0.0/20",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -40597,6 +40633,18 @@
   },
   {
     "network": "150.251.16.0/20",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "150.251.152.0/28",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "150.251.152.32/27",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -43518,31 +43566,43 @@
     "country_name": "Belgium"
   },
   {
+    "network": "158.173.67.140/30",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "158.173.67.154/31",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
     "network": "158.173.67.160/27",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
   },
   {
-    "network": "158.173.67.202/31",
+    "network": "158.173.67.200/30",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
   },
   {
-    "network": "158.173.67.228/30",
+    "network": "158.173.67.224/29",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
   },
   {
-    "network": "158.173.67.236/30",
+    "network": "158.173.67.236/31",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
   },
   {
-    "network": "158.173.67.240/30",
+    "network": "158.173.67.240/31",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -43554,13 +43614,13 @@
     "country_name": "Belgium"
   },
   {
-    "network": "158.173.101.30/31",
+    "network": "158.173.101.28/30",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
   },
   {
-    "network": "158.173.101.72/30",
+    "network": "158.173.101.32/31",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -44820,7 +44880,91 @@
     "country_name": "Belgium"
   },
   {
-    "network": "165.225.12.0/23",
+    "network": "165.225.12.0/26",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.64/27",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.96/29",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.104/32",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.106/31",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.108/30",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.112/28",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.128/27",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.160/29",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.168/30",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.172/32",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.174/31",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.176/28",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.12.192/26",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "165.225.13.0/24",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -49279,6 +49423,12 @@
   },
   {
     "network": "185.233.218.0/24",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "185.235.108.0/23",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -57318,49 +57468,7 @@
     "country_name": "Belgium"
   },
   {
-    "network": "208.127.60.0/25",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "208.127.60.128/27",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "208.127.60.160/32",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "208.127.60.165/32",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "208.127.60.166/31",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "208.127.60.168/29",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "208.127.60.176/28",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "208.127.60.192/26",
+    "network": "208.127.60.0/24",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -57415,6 +57523,54 @@
   },
   {
     "network": "208.127.140.0/24",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "208.127.141.0/25",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "208.127.141.128/26",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "208.127.141.192/27",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "208.127.141.225/32",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "208.127.141.226/31",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "208.127.141.228/30",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "208.127.141.232/29",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "208.127.141.240/28",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -59586,30 +59742,6 @@
     "country_name": "Belgium"
   },
   {
-    "network": "212.35.125.0/29",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "212.35.125.12/30",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "212.35.125.18/31",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "212.35.125.20/30",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
     "network": "212.35.125.24/30",
     "continent_code": "EU",
     "country_code": "BE",
@@ -59652,12 +59784,6 @@
     "country_name": "Belgium"
   },
   {
-    "network": "212.35.125.88/30",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
     "network": "212.35.125.100/30",
     "continent_code": "EU",
     "country_code": "BE",
@@ -59677,12 +59803,6 @@
   },
   {
     "network": "212.35.125.136/29",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "212.35.125.144/31",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -60859,36 +60979,6 @@
   },
   {
     "network": "212.100.170.0/24",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "212.100.171.0/26",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "212.100.171.64/27",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "212.100.171.96/29",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "212.100.171.112/28",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "212.100.171.128/25",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -66049,6 +66139,12 @@
   },
   {
     "network": "213.228.246.236/30",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "213.228.247.224/29",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -74868,6 +74964,12 @@
     "country_name": "Belgium"
   },
   {
+    "network": "2a02:578::/34",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
     "network": "2a02:2398:4000::/34",
     "continent_code": "EU",
     "country_code": "BE",
@@ -75067,12 +75169,6 @@
   },
   {
     "network": "2a02:4b0:2000::/35",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "2a02:578::/35",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -75301,12 +75397,6 @@
   },
   {
     "network": "2a02:4b0:1000::/36",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "2a02:578:3000::/36",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -75607,12 +75697,6 @@
   },
   {
     "network": "2a02:4b0:800::/37",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "2a02:578:2800::/37",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -75924,12 +76008,6 @@
     "country_name": "Belgium"
   },
   {
-    "network": "2a02:578:2400::/38",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
     "network": "2a02:578:5800::/38",
     "continent_code": "EU",
     "country_code": "BE",
@@ -76225,12 +76303,6 @@
   },
   {
     "network": "2a01:f780:200::/39",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "2a02:578:2200::/39",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -76603,12 +76675,6 @@
   },
   {
     "network": "2a02:4b0:300::/40",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "2a02:578:2100::/40",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -77130,12 +77196,6 @@
     "country_name": "Belgium"
   },
   {
-    "network": "2a02:578:2080::/41",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
     "network": "2a02:2398:80::/41",
     "continent_code": "EU",
     "country_code": "BE",
@@ -77490,12 +77550,6 @@
     "country_name": "Belgium"
   },
   {
-    "network": "2a02:578:2040::/42",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
     "network": "2a02:2398:40::/42",
     "continent_code": "EU",
     "country_code": "BE",
@@ -77833,12 +77887,6 @@
   },
   {
     "network": "2a02:4b0:20::/43",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "2a02:578:2020::/43",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -78366,12 +78414,6 @@
     "country_name": "Belgium"
   },
   {
-    "network": "2a02:578:2010::/44",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
     "network": "2a02:2398:10::/44",
     "continent_code": "EU",
     "country_code": "BE",
@@ -78631,6 +78673,12 @@
   },
   {
     "network": "2a0c:b641:620::/44",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "2a0c:b641:660::/44",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -79405,12 +79453,6 @@
   },
   {
     "network": "2a02:4b0:228::/45",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "2a02:578:2008::/45",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -85278,12 +85320,6 @@
     "country_name": "Belgium"
   },
   {
-    "network": "2a02:578:2004::/46",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
     "network": "2a02:2398:4::/46",
     "continent_code": "EU",
     "country_code": "BE",
@@ -86461,12 +86497,6 @@
   },
   {
     "network": "2a02:4b0:220::/47",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "2a02:578:2002::/47",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -89149,12 +89179,6 @@
   },
   {
     "network": "2a02:4b0:223::/48",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
-    "network": "2a02:578:2001::/48",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"
@@ -93276,12 +93300,6 @@
     "country_name": "Belgium"
   },
   {
-    "network": "2001:470:6d:3b7::/64",
-    "continent_code": "EU",
-    "country_code": "BE",
-    "country_name": "Belgium"
-  },
-  {
     "network": "2001:470:6d:47c::/64",
     "continent_code": "EU",
     "country_code": "BE",
@@ -93913,6 +93931,12 @@
   },
   {
     "network": "2001:470:1f15:44d::/64",
+    "continent_code": "EU",
+    "country_code": "BE",
+    "country_name": "Belgium"
+  },
+  {
+    "network": "2001:470:1f15:58c::/64",
     "continent_code": "EU",
     "country_code": "BE",
     "country_name": "Belgium"

@@ -2472,7 +2472,7 @@
     "country_name": "Angola"
   },
   {
-    "network": "160.242.17.64/26",
+    "network": "160.242.17.0/24",
     "continent_code": "AF",
     "country_code": "AO",
     "country_name": "Angola"
@@ -2485,12 +2485,6 @@
   },
   {
     "network": "160.242.20.0/22",
-    "continent_code": "AF",
-    "country_code": "AO",
-    "country_name": "Angola"
-  },
-  {
-    "network": "160.242.24.0/24",
     "continent_code": "AF",
     "country_code": "AO",
     "country_name": "Angola"
@@ -3030,7 +3024,7 @@
     "country_name": "Angola"
   },
   {
-    "network": "196.216.50.248/30",
+    "network": "196.216.50.252/30",
     "continent_code": "AF",
     "country_code": "AO",
     "country_name": "Angola"
@@ -3312,7 +3306,13 @@
     "country_name": "Angola"
   },
   {
-    "network": "196.216.52.240/28",
+    "network": "196.216.52.240/29",
+    "continent_code": "AF",
+    "country_code": "AO",
+    "country_name": "Angola"
+  },
+  {
+    "network": "196.216.52.248/30",
     "continent_code": "AF",
     "country_code": "AO",
     "country_name": "Angola"
