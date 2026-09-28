@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:I[21550,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+3:I[16413,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+b:I[73947,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+c:I[22016,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],""]
+d:I[5014,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+e:I[97367,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+4:Tc54,
+# Safety & Performance
+
+## Safety conventions
+
+PylsRun does not attach a source-level `[SAFE]` or `[EXPERIMENTAL]` marker to
+every API. Treat raw-pointer operations as unsafe by default: there is no
+implicit ownership or lifetime check, and an invalid native access can crash
+the process just as it can in C.
+
+The useful safety mechanisms are concrete rather than labels: `DebugAllocator`
+adds canaries, poisoning and leak tracking; `PoolAllocator` detects foreign,
+misaligned and double frees; `MemBlock` provides bounds-aware Python-side
+buffer operations; and guard pages deliberately turn certain out-of-bounds
+accesses into a protection fault.
+
+## Capability checks instead of crashes
+
+Every CPUID-gated function in `pylsrun.cpu`/`pylsrun.simd` checks the real
+CPU feature flag before issuing the instruction, and raises
+`pylsrun.errors.PylsUnsupportedError` on a CPU that lacks it — never
+`SIGILL`. Architecture-gated functions (see
+[Platform Support](/docs/0.1.0/advanced/platform-support)) do the same for
+"this isn't implemented on this architecture at all."
+
+```python
+from pylsrun import platform_info
+
+platform_info.has_feature("avx512f")          # bool
+platform_info.require_feature("avx2")           # raises PylsUnsupportedError if absent
+```
+
+## Validation where it's cheap and meaningful
+
+- `pylsrun.memory.is_aligned(ptr, n)` — alignment check
+- `pylsrun.memory.is_valid_range(addr, length, need_write=False)` —
+  best-effort check against `/proc/self/maps` (a diagnostic aid, not a
+  safety guarantee — the mapping can change after the check)
+- `PoolAllocator`'s used-bitmap rejects foreign/misaligned pointers on
+  `free()`
+- `DebugAllocator`'s guard canaries catch buffer overflow/underflow, and
+  poison freed memory before releasing it
+- Guard pages (`vmem.alloc_with_guard_pages`) catch an overflow
+  immediately, via a real page fault, with no polling required
+
+## Performance notes
+
+- **A native C++ backend**, compiled with `-O3 -DNDEBUG` by default
+  (`PYLSRUN_DEBUG=1` switches to `-O0 -g` with ASan/UBSan for debugging
+  instead — see [Packaging & Builds](/docs/0.1.0/advanced/packaging-and-builds)).
+- **Minimal Python/C++ boundary crossings** — SIMD, `memcpy`/`memset`,
+  and struct field access all operate on whole buffers/structs per call,
+  not per element.
+- **Zero-copy by construction** in several places: `MemBlock`'s buffer
+  protocol, `addressof()`, and struct field access (reads/writes go
+  straight to the bound address, no staging copy).
+- **GIL released** for every blocking concurrency primitive wait/acquire,
+  so a long-blocking native call doesn't stall the rest of the
+  interpreter — see
+  [Concurrency & Atomics](/docs/0.1.0/core-concepts/concurrency-and-atomics).
+- **SIMD dispatch performs CPU-feature detection at call time**; there is no
+  global CPUID-result cache in the current implementation. `pylsrun.simd.best_tier()`
+  tells you the generic x86-64 tier selected by that detection.
+- `pylsrun.cpu.benchmark(fn, iterations)` gives you an RDTSC-based (or
+  `CNTVCT_EL0`-based, on AArch64) cycle-count timer for microbenchmarks
+  without pulling in a separate profiling library.
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6","$L7"],["$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zwM8oWJKFF_lIsbijJvoO"}
+5:["$","div",null,{"className":"mt-12 border-t border-[#1a1f26] pt-8","children":["$","$Lb",null,{"headings":[{"level":2,"text":"Safety conventions","id":"safety-conventions"},{"level":2,"text":"Capability checks instead of crashes","id":"capability-checks-instead-of-crashes"},{"level":2,"text":"Validation where it's cheap and meaningful","id":"validation-where-it-s-cheap-and-meaningful"},{"level":2,"text":"Performance notes","id":"performance-notes"}]}]}]
+6:["$","nav",null,{"aria-label":"pagination","className":"relative mt-12 flex w-full flex-wrap items-stretch justify-between gap-px border-t border-[#1a1f26] pt-8","children":[["$","$Lc",null,{"href":"/docs/0.1.0/getting-started/index","className":"group relative flex flex-1 basis-0 flex-col gap-1.5 border border-[#1a1f26] bg-[#0b0d10] p-4 no-underline transition-colors duration-150 hover:border-[#2a3138] hover:bg-[#0e1116]","aria-label":"Go to previous page: Getting Started","children":[["$","span",null,{"aria-hidden":true,"className":"absolute left-0 top-0 bottom-0 w-px bg-[#ffb454] opacity-0 transition-opacity duration-200 group-hover:opacity-100"}],["$","span",null,{"className":"flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-wider text-[#3a424d] transition-colors group-hover:text-[#7d8794]","children":[["$","$Ld",null,{"icon":{"name":"chevron-left","size":24,"node":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]]},"className":"h-3 w-3 transition-transform duration-150 group-hover:-translate-x-0.5","strokeWidth":2}],["$","span",null,{"children":"prev"}]]}],["$","span",null,{"className":"truncate font-mono text-[12.5px] font-semibold text-[#e8edf2]","children":"Getting Started"}]]}],["$","$Lc",null,{"href":"/docs/0.1.0/comparison/why-pylsrun","className":"group relative flex flex-1 basis-0 flex-col items-end gap-1.5 border border-[#1a1f26] bg-[#0b0d10] p-4 text-right no-underline transition-colors duration-150 hover:border-[#2a3138] hover:bg-[#0e1116]","aria-label":"Go to next page: Why PylsRun","children":[["$","span",null,{"aria-hidden":true,"className":"absolute right-0 top-0 bottom-0 w-px bg-[#ffb454] opacity-0 transition-opacity duration-200 group-hover:opacity-100"}],["$","span",null,{"className":"flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-wider text-[#3a424d] transition-colors group-hover:text-[#7d8794]","children":[["$","span",null,{"children":"next"}],["$","$Ld",null,{"icon":{"name":"chevron-right","size":24,"node":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]]},"className":"h-3 w-3 transition-transform duration-150 group-hover:translate-x-0.5","strokeWidth":2}]]}],["$","span",null,{"className":"truncate font-mono text-[12.5px] font-semibold text-[#e8edf2]","children":"Why PylsRun"}]]}]]}]
+7:["$","div",null,{"className":"mt-8 flex items-center justify-between font-mono text-[10.5px]","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-[#5c6874]","children":[["$","span",null,{"className":"h-1 w-1 rounded-full bg-[#7ee787] shadow-[0_0_6px_rgba(126,231,135,0.6)]"}],["$","span",null,{"children":"advanced/safety-and-performance"}]]}],["$","span",null,{"className":"flex items-center gap-1.5 text-[#7ee787]","children":["$","span",null,{"children":"[ exit 0 ]"}]}]]}]
+8:["$","script","script-0",{"src":"/pylsrun/_next/static/chunks/1ljtfta1a0222.js","async":true}]
+9:["$","script","script-1",{"src":"/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js","async":true}]
+a:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

@@ -1,0 +1,78 @@
+1:"$Sreact.fragment"
+2:I[21550,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+3:I[16413,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+5:I[73947,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+b:I[22016,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],""]
+c:I[5014,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+d:I[97367,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+4:Tbea,
+# PylsRun Documentation
+
+PylsRun gives Python real access to the primitives systems programmers
+reach for — implemented entirely in C++ underneath, not approximated in
+pure Python.
+
+## What is PylsRun?
+
+PylsRun is a systems-programming library covering:
+
+- **Raw pointers & manual allocation** — real arithmetic, `malloc`/`free`,
+  three allocator strategies, guard pages
+- **Compiler-verified structs & unions** — field offsets come from
+  actually compiling your struct, bitfields included
+- **SIMD with runtime CPU dispatch** — on x86-64, AVX-512 down to SSE2 is
+  chosen by CPUID at call time; general SIMD operations have scalar fallbacks
+  on non-x86 builds
+- **Runtime assembly & JIT** — assemble x86-64 source, map it RW →
+  RX, call straight into it
+- **Native ABI calls, both directions** — hand-written SysV calls,
+  libffi for the general case, and callbacks that run Python from native
+  code
+- **Atomics & concurrency** — `std::atomic_ref` on raw memory, real
+  mutexes/semaphores/threads, every wait releases the GIL
+- **Virtual memory control** — mmap, page protection, guard pages that
+  trap an overflow at the instruction that caused it
+- **Compile-time C++** — constants baked in at the extension's own build
+  time, plus a dynamic oracle that compiles arbitrary C++ on demand
+
+## Quick links
+
+- **[Getting Started](/docs/0.1.0/getting-started/index)** — what PylsRun
+  is, requirements, and where to go first
+- **[Installation](/docs/0.1.0/getting-started/installation)** — build
+  from source or install a debug build
+- **[Quick Start](/docs/0.1.0/getting-started/quick-start)** — pointers, a
+  struct, and JIT-compiled assembly in under twenty lines
+- **[Core Concepts](/docs/0.1.0/core-concepts/index)** — all eight
+  subsystems, one page each
+- **[API Reference](/docs/0.1.0/api-reference/index)** — every public
+  function and class, collected from the real package
+
+## At a glance
+
+| Area | What you get |
+|---|---|
+| Memory | `malloc`/`calloc`/`realloc`/`free`/`aligned_alloc`, `StackArena`, `PoolAllocator`, `DebugAllocator` |
+| Pointers | Real arithmetic, typed read/write, `bool`/`char`/`wchar`/`f80` included |
+| Structs | `define_struct`/`define_union`, custom pack values, `alignas(N)`, bitfields to the exact bit |
+| SIMD | SSE2/AVX2/AVX-512 arithmetic, reductions, shuffle, compare — runtime-dispatched |
+| Assembly | `pylsrun.jit.assemble()` + `Executable`, backed by the real GNU assembler |
+| ABI | `call_sysv6`, `call_native` (incl. struct-by-value + variadic), `Library`, `make_callback` |
+| Atomics | load/store/exchange/CAS/fetch-op, all five memory orders |
+| Concurrency | `Mutex`, `RWLock`, `Semaphore`, `Barrier`, `ThreadLocal`, `NativeThread` |
+| Virtual memory | `vmem_alloc`/`protect`/`free`, guard pages, `/proc/self/maps` |
+| Compile-time | Baked-in `consteval` constants + a dynamic C++ compilation oracle |
+
+## Version
+
+Version: **v0.1.0** · Built and tested on Linux x86-64 — see
+[Platform Support](/docs/0.1.0/advanced/platform-support) for the full
+matrix.
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],["$","div",null,{"className":"mt-12 border-t border-[#1a1f26] pt-8","children":["$","$L5",null,{"headings":[{"level":2,"text":"What is PylsRun?","id":"what-is-pylsrun"},{"level":2,"text":"Quick links","id":"quick-links"},{"level":2,"text":"At a glance","id":"at-a-glance"},{"level":2,"text":"Version","id":"version"}]}]}],"$L6","$L7"],["$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zwM8oWJKFF_lIsbijJvoO"}
+6:["$","nav",null,{"aria-label":"pagination","className":"relative mt-12 flex w-full flex-wrap items-stretch justify-between gap-px border-t border-[#1a1f26] pt-8","children":[["$","$Lb",null,{"href":"/docs/0.1.0/debugging/index","className":"group relative flex flex-1 basis-0 flex-col gap-1.5 border border-[#1a1f26] bg-[#0b0d10] p-4 no-underline transition-colors duration-150 hover:border-[#2a3138] hover:bg-[#0e1116]","aria-label":"Go to previous page: Debugging","children":[["$","span",null,{"aria-hidden":true,"className":"absolute left-0 top-0 bottom-0 w-px bg-[#ffb454] opacity-0 transition-opacity duration-200 group-hover:opacity-100"}],["$","span",null,{"className":"flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-wider text-[#3a424d] transition-colors group-hover:text-[#7d8794]","children":[["$","$Lc",null,{"icon":{"name":"chevron-left","size":24,"node":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]]},"className":"h-3 w-3 transition-transform duration-150 group-hover:-translate-x-0.5","strokeWidth":2}],["$","span",null,{"children":"prev"}]]}],["$","span",null,{"className":"truncate font-mono text-[12.5px] font-semibold text-[#e8edf2]","children":"Debugging"}]]}],["$","div",null,{"className":"flex-1 basis-0"}]]}]
+7:["$","div",null,{"className":"mt-8 flex items-center justify-between font-mono text-[10.5px]","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-[#5c6874]","children":[["$","span",null,{"className":"h-1 w-1 rounded-full bg-[#7ee787] shadow-[0_0_6px_rgba(126,231,135,0.6)]"}],["$","span",null,{"children":"index"}]]}],["$","span",null,{"className":"flex items-center gap-1.5 text-[#7ee787]","children":["$","span",null,{"children":"[ exit 0 ]"}]}]]}]
+8:["$","script","script-0",{"src":"/pylsrun/_next/static/chunks/1ljtfta1a0222.js","async":true}]
+9:["$","script","script-1",{"src":"/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js","async":true}]
+a:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

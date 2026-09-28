@@ -1,0 +1,176 @@
+1:"$Sreact.fragment"
+2:I[21550,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+3:I[16413,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+b:I[73947,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+c:I[22016,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],""]
+d:I[5014,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+e:I[97367,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+4:T1888,
+# Assembly, JIT & ABI
+
+Modules: `pylsrun.jit`, `pylsrun.abi`.
+
+## Runtime assembly, assembled and executed at runtime
+
+```python
+from pylsrun import jit
+
+code = jit.assemble("""
+    mov rax, rdi
+    add rax, rsi
+    ret
+""")
+exe = jit.Executable(code)
+exe.call(2, 40)   # 42
+exe.free()
+```
+
+`assemble()` shells out to the host `as`/`objcopy` (binutils) — real GNU
+assembler, real machine code, not a hand-rolled mini-assembler with a
+limited instruction subset. `syntax="intel"` (default) or `"att"`.
+Comments use `#`, not `;` (`;` separates instructions on one line in GAS).
+
+`Executable(code_bytes)` maps the bytes RW, copies them in, then
+transitions the mapping to RX — the correct W^X-respecting order — and
+`.call(*args)` jumps directly into it with up to 6 integer/pointer
+arguments via the System V AMD64 calling convention (because that's what
+the C compiler's own function-pointer-cast-and-call codegen produces for
+that arity). `.address`, `.size`, `.free()`, and context-manager support
+are all available. For more than 6 arguments, or non-integer argument
+types, use `abi.call_native()` against the same `.address` instead.
+
+`pylsrun.jit.as_ctypes_function(exe, restype=..., argtypes=...)` wraps an
+`Executable`'s address as a `ctypes` callable. This is an interop convenience;
+PylsRun's own `abi.call_native()` also supports struct arguments and returns
+by value through libffi when the struct is described as a list of typecodes.
+
+Instruction-cache synchronization is a documented no-op on x86-64 (the
+icache is kept coherent with the dcache by hardware after an ordinary
+write + permission change) — `vmem.flush_icache()` exists for API symmetry
+with architectures (ARM) where it would matter, but does nothing here.
+
+## ABI info
+
+```python
+from pylsrun import abi
+abi.abi_info()
+# returns arch / os / calling_convention / pointer_size /
+# little_endian / compiler for the current native build
+```
+
+## Hand-written calling convention control (no libffi)
+
+```python
+import pylsrun as pr
+
+libc = abi.Library("libc.so.6")
+strlen_addr = libc.symbol("strlen")
+buf = pr.memory.malloc(16)
+buf.write_bytes(b"hello\x00")
+abi.call_sysv6(strlen_addr, buf.address)   # 5
+```
+
+`call_sysv6(address, a0..a5)` moves each argument into the exact SysV AMD64
+argument register (`rdi`, `rsi`, `rdx`, `rcx`, `r8`, `r9`) via inline
+assembly with every operand forced through memory (so GCC's register
+allocator can't collide with the hand-picked registers), then `call`s.
+This is literally manual ABI control, not "trust the compiler's cast" —
+compare with `Executable.call()` above, which *does* trust the compiler.
+
+## General native calls (libffi)
+
+```python
+libm = abi.Library("libm.so.6")
+cos_addr = libm.symbol("cos")
+abi.call_native(cos_addr, ["f64"], [0.0], ret_typecode="f64")   # 1.0
+```
+
+`call_native(address, arg_typecodes, args, ret_typecode="i64",
+variadic_from=-1)` supports any combination of the native typecodes (see
+the Memory & Pointers guide) as arguments/return, plus `void`. Set
+`variadic_from` to the index of the first variadic argument to call a
+varargs C function correctly (uses `ffi_prep_cif_var`).
+
+### Struct arguments and return values, by value
+
+Any entry in `arg_typecodes`/`ret_typecode` can be a **list of typecodes**
+instead of a single string — that describes a struct passed/returned BY
+VALUE, member types in order (nestable, for a struct-within-a-struct).
+libffi computes the real ABI layout (size, alignment, register/stack
+classification) for that member list itself, using the same algorithm the
+actual calling convention uses — so this isn't a guess. A struct argument
+is any exact-size bytes-like object (`pylsrun.structs`' own
+`StructView.raw_bytes()` is the natural source); a struct return comes
+back as a plain `bytes` object.
+
+```python
+import struct as pystruct
+libc = abi.Library("libc.so.6")
+div_addr = libc.symbol("div")
+# div_t div(int numer, int denom) -> struct { int quot; int rem; }
+result = abi.call_native(div_addr, ["i32", "i32"], [17, 5], ret_typecode=["i32", "i32"])
+quot, rem = pystruct.unpack("<ii", result)   # (3, 2)
+```
+
+## Calling-convention introspection
+
+```python
+abi.calling_conventions_available()
+# returns the conventions exposed by the current build/libffi combination
+```
+
+`stdcall`/`thiscall`/`fastcall` are 32-bit x86 concepts — on 64-bit x86
+there is exactly one calling convention per OS (SysV AMD64 on Linux/macOS,
+Microsoft x64 on Windows), so those three are always `False` here, not
+because libffi lacks them, but because this library targets 64-bit only.
+
+## Shared libraries
+
+Library names are platform-specific; the `.so` names below are Linux examples. The `Library` API itself uses the host platform dynamic-loader implementation.
+
+```python
+lib = abi.Library("libsomething.so", mode="now")   # or mode="lazy"
+addr = lib.symbol("some_function")
+lib.close()   # or use `with abi.Library(...) as lib:`
+```
+
+Keep the `Library` object alive for as long as any address obtained from it
+might still be called — `dlclose()` on `__del__`/`close()` unmaps the code.
+
+## Native-to-Python callbacks
+
+```python
+def handler(a, b):
+    return a + b
+
+cb = abi.make_callback(handler, ["i64", "i64"], "i64")
+cb.address   # a real, callable native function pointer (libffi closure)
+abi.call_native(cb.address, ["i64", "i64"], [10, 32], ret_typecode="i64")  # 42
+```
+
+`make_callback` allocates a libffi closure (`ffi_prep_closure_loc`) whose
+trampoline, when called by *any* native code — a C library expecting a
+callback, or your own JIT'd assembly — acquires the GIL
+(`PyGILState_Ensure`/`Release`) and invokes your Python callable. Up to 6
+arguments. Exceptions raised inside the callable are printed and cleared
+(matching `ctypes`' own callback semantics), then a zeroed value is
+returned to the native caller — exceptions cannot safely propagate through
+arbitrary native call frames.
+
+## Platform notes
+
+This repository only exercises the SysV AMD64 convention on Linux x86-64.
+`abi_call.cpp` is structured with `#ifdef _WIN32`/`#ifdef __aarch64__`
+branch points for MS x64 / AArch64 ABIs (and thus `stdcall`/`fastcall`
+where libffi would support them on those platforms), but none of that has
+been compiled or tested here — see the top-level README's "Platform
+support" section.
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6","$L7"],["$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zwM8oWJKFF_lIsbijJvoO"}
+5:["$","div",null,{"className":"mt-12 border-t border-[#1a1f26] pt-8","children":["$","$Lb",null,{"headings":[{"level":2,"text":"Runtime assembly, assembled and executed at runtime","id":"runtime-assembly-assembled-and-executed-at-runtime"},{"level":2,"text":"ABI info","id":"abi-info"},{"level":2,"text":"Hand-written calling convention control (no libffi)","id":"hand-written-calling-convention-control-no-libffi"},{"level":2,"text":"General native calls (libffi)","id":"general-native-calls-libffi"},{"level":3,"text":"Struct arguments and return values, by value","id":"struct-arguments-and-return-values-by-value"},{"level":2,"text":"Calling-convention introspection","id":"calling-convention-introspection"},{"level":2,"text":"Shared libraries","id":"shared-libraries"},{"level":2,"text":"Native-to-Python callbacks","id":"native-to-python-callbacks"},{"level":2,"text":"Platform notes","id":"platform-notes"}]}]}]
+6:["$","nav",null,{"aria-label":"pagination","className":"relative mt-12 flex w-full flex-wrap items-stretch justify-between gap-px border-t border-[#1a1f26] pt-8","children":[["$","$Lc",null,{"href":"/docs/0.1.0/getting-started/quick-start","className":"group relative flex flex-1 basis-0 flex-col gap-1.5 border border-[#1a1f26] bg-[#0b0d10] p-4 no-underline transition-colors duration-150 hover:border-[#2a3138] hover:bg-[#0e1116]","aria-label":"Go to previous page: Quick Start","children":[["$","span",null,{"aria-hidden":true,"className":"absolute left-0 top-0 bottom-0 w-px bg-[#ffb454] opacity-0 transition-opacity duration-200 group-hover:opacity-100"}],["$","span",null,{"className":"flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-wider text-[#3a424d] transition-colors group-hover:text-[#7d8794]","children":[["$","$Ld",null,{"icon":{"name":"chevron-left","size":24,"node":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]]},"className":"h-3 w-3 transition-transform duration-150 group-hover:-translate-x-0.5","strokeWidth":2}],["$","span",null,{"children":"prev"}]]}],["$","span",null,{"className":"truncate font-mono text-[12.5px] font-semibold text-[#e8edf2]","children":"Quick Start"}]]}],["$","$Lc",null,{"href":"/docs/0.1.0/getting-started/package-layout","className":"group relative flex flex-1 basis-0 flex-col items-end gap-1.5 border border-[#1a1f26] bg-[#0b0d10] p-4 text-right no-underline transition-colors duration-150 hover:border-[#2a3138] hover:bg-[#0e1116]","aria-label":"Go to next page: Package Layout","children":[["$","span",null,{"aria-hidden":true,"className":"absolute right-0 top-0 bottom-0 w-px bg-[#ffb454] opacity-0 transition-opacity duration-200 group-hover:opacity-100"}],["$","span",null,{"className":"flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-wider text-[#3a424d] transition-colors group-hover:text-[#7d8794]","children":[["$","span",null,{"children":"next"}],["$","$Ld",null,{"icon":{"name":"chevron-right","size":24,"node":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]]},"className":"h-3 w-3 transition-transform duration-150 group-hover:translate-x-0.5","strokeWidth":2}]]}],["$","span",null,{"className":"truncate font-mono text-[12.5px] font-semibold text-[#e8edf2]","children":"Package Layout"}]]}]]}]
+7:["$","div",null,{"className":"mt-8 flex items-center justify-between font-mono text-[10.5px]","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-[#5c6874]","children":[["$","span",null,{"className":"h-1 w-1 rounded-full bg-[#7ee787] shadow-[0_0_6px_rgba(126,231,135,0.6)]"}],["$","span",null,{"children":"core-concepts/assembly-and-abi"}]]}],["$","span",null,{"className":"flex items-center gap-1.5 text-[#7ee787]","children":["$","span",null,{"children":"[ exit 0 ]"}]}]]}]
+8:["$","script","script-0",{"src":"/pylsrun/_next/static/chunks/1ljtfta1a0222.js","async":true}]
+9:["$","script","script-1",{"src":"/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js","async":true}]
+a:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

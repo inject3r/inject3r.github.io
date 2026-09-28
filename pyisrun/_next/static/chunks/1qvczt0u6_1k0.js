@@ -1,0 +1,44 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,71034,e=>{"use strict";var t=e.i(56420);let a={name:"binary",size:24,node:[["rect",{x:"14",y:"14",width:"4",height:"6",rx:"2",key:"p02svl"}],["rect",{x:"6",y:"4",width:"4",height:"6",rx:"2",key:"xm4xkj"}],["path",{d:"M6 20h4",key:"1i6q5t"}],["path",{d:"M14 10h4",key:"ru81e7"}],["path",{d:"M6 14h2v6",key:"16z9wg"}],["path",{d:"M14 4h2v6",key:"1idq9u"}]]};a.node;let r=(0,t.default)(a);e.s(["Binary",0,r],71034)},59888,e=>{"use strict";var t=e.i(56420);let a={name:"braces",size:24,node:[["path",{d:"M8 3H7a2 2 0 0 0-2 2v5a2 2 0 0 1-2 2 2 2 0 0 1 2 2v5c0 1.1.9 2 2 2h1",key:"ezmyqa"}],["path",{d:"M16 21h1a2 2 0 0 0 2-2v-5c0-1.1.9-2 2-2a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2h-1",key:"e1hn23"}]],aliases:["curly-braces"]};a.node;let r=(0,t.default)(a);e.s(["Braces",0,r],59888)},97142,64569,e=>{"use strict";var t=e.i(56420);let a={name:"cpu",size:24,node:[["path",{d:"M12 20v2",key:"1lh1kg"}],["path",{d:"M12 2v2",key:"tus03m"}],["path",{d:"M17 20v2",key:"1rnc9c"}],["path",{d:"M17 2v2",key:"11trls"}],["path",{d:"M2 12h2",key:"1t8f8n"}],["path",{d:"M2 17h2",key:"7oei6x"}],["path",{d:"M2 7h2",key:"asdhe0"}],["path",{d:"M20 12h2",key:"1q8mjw"}],["path",{d:"M20 17h2",key:"1fpfkl"}],["path",{d:"M20 7h2",key:"1o8tra"}],["path",{d:"M7 20v2",key:"4gnj0m"}],["path",{d:"M7 2v2",key:"1i4yhu"}],["rect",{x:"4",y:"4",width:"16",height:"16",rx:"2",key:"1vbyd7"}],["rect",{x:"8",y:"8",width:"8",height:"8",rx:"1",key:"z9xiuo"}]]};a.node;let r=(0,t.default)(a);e.s(["Cpu",0,r],97142);let i={name:"zap",size:24,node:[["path",{d:"M15.914 4a1.5 1.5 0 00-2.474-1.561l-9 9A1.5 1.5 0 005.5 14h4.002a.5.5 0 01.471.666L8.086 20a1.5 1.5 0 002.475 1.56l9-9A1.5 1.5 0 0018.5 10h-3.997a.5.5 0 01-.472-.667z",key:"1v7up4"}]]};i.node;let s=(0,t.default)(i);e.s(["Zap",0,s],64569)},26909,16306,e=>{"use strict";var t=e.i(56420);let a={name:"arrow-left-right",size:24,node:[["path",{d:"M8 3 4 7l4 4",key:"9rb6wj"}],["path",{d:"M4 7h16",key:"6tx8e3"}],["path",{d:"m16 21 4-4-4-4",key:"siv7j2"}],["path",{d:"M20 17H4",key:"h6l3hr"}]]};a.node;let r=(0,t.default)(a);e.s(["ArrowLeftRight",0,r],26909);let i={name:"shield-alert",size:24,node:[["path",{d:"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z",key:"oel41y"}],["path",{d:"M12 8v4",key:"1got3b"}],["path",{d:"M12 16h.01",key:"1drbdi"}]]};i.node;let s=(0,t.default)(i);e.s(["ShieldAlert",0,s],16306)},60112,15147,e=>{"use strict";var t=e.i(18050);e.s(["default",0,function({children:e,className:a=""}){return(0,t.jsx)("div",{className:`max-w-7xl mx-auto px-6 ${a}`,children:e})}],60112),e.s(["default",0,function({children:e,className:a="",id:r}){return(0,t.jsx)("section",{id:r,className:`scroll-mt-24 ${a}`,children:e})}],15147)},2016,e=>{"use strict";var t=e.i(18050),a=e.i(71034),r=e.i(59888),i=e.i(97142),s=e.i(64569),l=e.i(26909),n=e.i(56420);let d={name:"clock-3",size:24,node:[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 6v6h4",key:"135r8i"}]]};d.node;let o=(0,n.default)(d);var c=e.i(16306);let m={name:"file-code-corner",size:24,node:[["path",{d:"M4 12.15V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2h-3.35",key:"1wthlu"}],["path",{d:"M14 2v5a1 1 0 0 0 1 1h5",key:"wfsgrz"}],["path",{d:"m5 16-3 3 3 3",key:"331omg"}],["path",{d:"m9 22 3-3-3-3",key:"lsp7cz"}]],aliases:["file-code-2"]};m.node;let p=(0,n.default)(m),h={name:"external-link",size:24,node:[["path",{d:"M15 3h6v6",key:"1q9fwt"}],["path",{d:"M10 14 21 3",key:"gplh6r"}],["path",{d:"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6",key:"a6xqqp"}]]};h.node;let y=(0,n.default)(h);var x=e.i(60112),u=e.i(15147),f=e.i(78111);let b=[{title:"Pointers and memory",level:"beginner",icon:a.Binary,path:"examples/01_pointers_and_memory.py",summary:"Raw allocation, typed reads and writes, pointer arithmetic, and manual release.",code:`import pylsrun as pr
+
+p = pr.memory.malloc(64)
+p.write_i32(1234)
+print(p.read_i32())
+pr.memory.free(p)`},{title:"Compiler-verified struct layout",level:"beginner",icon:r.Braces,path:"examples/02_struct_layout.py",summary:"Structs, arrays, bitfields, nested structs, and unions backed by a real C++ layout probe.",code:`Point = pr.structs.define_struct(
+    "Point", [("x", "f32"), ("y", "f32")]
+)
+buf = pr.memory.malloc(Point.__size__)
+pt = Point(buf)
+pt.x, pt.y = 1.5, -2.0`},{title:"SIMD dispatch and arithmetic",level:"intermediate",icon:i.Cpu,path:"examples/03_simd_avx.py",summary:"Runtime CPU feature detection, buffer-based SIMD arithmetic, reductions, FMA, comparisons, and integer operations.",code:`import array
+from pylsrun import simd
+
+a = array.array("f", range(16))
+b = array.array("f", [10.0] * 16)
+out = array.array("f", [0.0] * 16)
+simd.add_f32(a, b, out, 16)`},{title:"Inline assembly and JIT",level:"advanced",icon:s.Zap,path:"examples/04_inline_asm_and_jit.py",summary:"Assemble host assembly, map it RW→RX, execute it, and inspect CPU registers and timestamp counters.",code:`from pylsrun import jit
+
+code = jit.assemble("""
+    mov rax, rdi
+    add rax, rsi
+    ret
+""")
+exe = jit.Executable(code)
+print(exe.call(10, 5))
+exe.free()`},{title:"ABI calls and callbacks",level:"advanced",icon:l.ArrowLeftRight,path:"examples/05_abi_and_calling_convention.py",summary:"Hand-written SysV calls, general libffi calls into shared libraries, and native-to-Python callbacks. The shown library name is a Linux example.",code:`from pylsrun import abi
+
+# Linux example
+libc = abi.Library("libc.so.6")
+addr = libc.symbol("strlen")
+
+# call_native can describe scalar arguments with typecodes.
+result = abi.call_native(addr, ["ptr"], [buffer_ptr], ret_typecode="u64")`},{title:"Compile-time C++ oracle",level:"intermediate",icon:o,path:"examples/06_compile_time_constexpr.py",summary:"Use static tables baked into the extension and dynamic host-compiler probes such as eval_constexpr, sizeof, and layout queries.",code:`from pylsrun import ctime
+
+print(ctime.factorial_table()[10])
+print(ctime.eval_constexpr("6 * 7"))
+print(ctime.sizeof("double"))
+print(ctime.alignof("long double"))`},{title:"Atomics, concurrency, and virtual memory",level:"advanced",icon:c.ShieldAlert,path:"examples/07_atomics_concurrency_vmem.py",summary:"Atomics over raw addresses, native synchronization primitives, page protection, guard pages, and Linux /proc maps.",code:`from pylsrun import atomics, concurrency, vmem
+
+atomics.atomic_fetch_add(
+    counter.address, "i64", 1, order="relaxed"
+)
+mu = concurrency.Mutex()
+region = vmem.vmem_alloc(4096, prot="rw")`}];e.s(["default",0,function(){return(0,t.jsx)(u.default,{className:"min-h-screen bg-[#08090b] pt-28 pb-24",children:(0,t.jsxs)(x.default,{children:[(0,t.jsxs)("div",{className:"max-w-3xl",children:[(0,t.jsxs)("div",{className:"mb-3 font-mono text-[10px] uppercase tracking-[0.22em] text-[#5c6874]",children:["examples / v",f.Project.version]}),(0,t.jsx)("h1",{className:"font-mono text-4xl font-bold tracking-tight text-[#e8edf2] sm:text-5xl",children:"Source-backed examples"}),(0,t.jsx)("p",{className:"mt-5 font-mono text-sm leading-7 text-[#7d8794]",children:"These entries map directly to the seven Python example files shipped in the library repository. No extra APIs or hypothetical integrations are shown here."})]}),(0,t.jsx)("div",{className:"mt-12 grid gap-5 lg:grid-cols-2",children:b.map((e,a)=>{let r=e.icon;return(0,t.jsxs)("article",{className:"border border-[#1a1f26] bg-[#0b0d10] p-5",children:[(0,t.jsxs)("div",{className:"flex items-start justify-between gap-4",children:[(0,t.jsxs)("div",{className:"flex items-center gap-3",children:[(0,t.jsx)("div",{className:"grid h-9 w-9 place-items-center border border-[#2a3138] bg-[#0e1116]",children:(0,t.jsx)(r,{className:"h-4 w-4 text-[#ffb454]"})}),(0,t.jsxs)("div",{children:[(0,t.jsxs)("div",{className:"font-mono text-[10px] uppercase tracking-wider text-[#5c6874]",children:[String(a+1).padStart(2,"0")," · ",e.level]}),(0,t.jsx)("h2",{className:"mt-1 font-mono text-base font-semibold text-[#e8edf2]",children:e.title})]})]}),(0,t.jsxs)("a",{href:`${f.Project.repo}/blob/main/${e.path}`,target:"_blank",rel:"noopener noreferrer",className:"inline-flex items-center gap-1 font-mono text-[10px] text-[#7d8794] hover:text-[#e8edf2]",children:["source ",(0,t.jsx)(y,{className:"h-3 w-3"})]})]}),(0,t.jsx)("p",{className:"mt-4 font-mono text-[11.5px] leading-6 text-[#7d8794]",children:e.summary}),(0,t.jsx)("pre",{className:"mt-4 overflow-x-auto border border-[#1a1f26] bg-[#08090b] p-4 font-mono text-[11px] leading-6 text-[#b8c0cc]",children:(0,t.jsx)("code",{children:e.code})}),(0,t.jsxs)("div",{className:"mt-3 flex items-center gap-2 font-mono text-[10px] text-[#5c6874]",children:[(0,t.jsx)(p,{className:"h-3 w-3"}),(0,t.jsx)("span",{children:e.path})]})]},e.path)})})]})})}],2016)}]);

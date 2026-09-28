@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[21550,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+3:I[16413,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+5:I[73947,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+6:I[22016,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],""]
+7:I[5014,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+f:I[97367,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+4:T78d,
+# Packaging & Builds
+
+## Two build paths
+
+`setup.py` (setuptools + a standard `Extension`) is the primary, tested
+build path. `CMakeLists.txt` mirrors the same `csrc/` sources for direct CMake
+builds and is not itself a `scikit-build-core` project.
+
+```bash
+# setuptools
+pip install .
+
+# CMake
+cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+cmake --build build
+# Linux example: install/place the resulting platform-specific extension
+# according to your Python environment and platform.
+```
+
+## Release vs debug builds
+
+Release (the default) compiles with `-O3 -DNDEBUG`. Setting
+`PYLSRUN_DEBUG=1` switches to `-O0 -g -fsanitize=address,undefined
+-fno-omit-frame-pointer` instead:
+
+```bash
+PYLSRUN_DEBUG=1 pip install . --no-build-isolation
+```
+
+This is the real tool for chasing a bug that might involve PylsRun's raw
+pointer APIs — see [Debugging](/docs/0.1.0/debugging/index).
+
+## What actually gets linked
+
+- `libffi` — for `call_native`, `Library`, and `make_callback`
+- `pthread` — for the concurrency primitives and `NativeThread` (POSIX
+  builds; Windows link libraries differ, see
+  [Platform Support](/docs/0.1.0/advanced/platform-support))
+- `dl` — for `dlopen`/`dlsym`/`dlclose` on POSIX (via
+  `platform_compat.cpp`)
+
+`setup.py` and `CMakeLists.txt` both branch on the host OS to pick the
+right set automatically.
+
+## Producing a wheel or sdist
+
+```bash
+python3 setup.py sdist bdist_wheel
+```
+
+produces both a source distribution and a platform wheel in `dist/`. Only
+a Linux x86-64 wheel is built by the tooling in this repository — see
+[Platform Support](/docs/0.1.0/advanced/platform-support) for what
+building on another platform would and wouldn't need to change.
+
+## Package metadata
+
+Project metadata (name, version, classifiers) lives in `setup.py`;
+`pyproject.toml` only declares the build backend
+(`setuptools.build_meta`) and pytest's test path, to avoid the two files
+disagreeing with each other.
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],["$","div",null,{"className":"mt-12 border-t border-[#1a1f26] pt-8","children":["$","$L5",null,{"headings":[{"level":2,"text":"Two build paths","id":"two-build-paths"},{"level":2,"text":"Release vs debug builds","id":"release-vs-debug-builds"},{"level":2,"text":"What actually gets linked","id":"what-actually-gets-linked"},{"level":2,"text":"Producing a wheel or sdist","id":"producing-a-wheel-or-sdist"},{"level":2,"text":"Package metadata","id":"package-metadata"}]}]}],["$","nav",null,{"aria-label":"pagination","className":"relative mt-12 flex w-full flex-wrap items-stretch justify-between gap-px border-t border-[#1a1f26] pt-8","children":[["$","$L6",null,{"href":"/docs/0.1.0/getting-started/installation","className":"group relative flex flex-1 basis-0 flex-col gap-1.5 border border-[#1a1f26] bg-[#0b0d10] p-4 no-underline transition-colors duration-150 hover:border-[#2a3138] hover:bg-[#0e1116]","aria-label":"Go to previous page: Installation","children":[["$","span",null,{"aria-hidden":true,"className":"absolute left-0 top-0 bottom-0 w-px bg-[#ffb454] opacity-0 transition-opacity duration-200 group-hover:opacity-100"}],["$","span",null,{"className":"flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-wider text-[#3a424d] transition-colors group-hover:text-[#7d8794]","children":[["$","$L7",null,{"icon":{"name":"chevron-left","size":24,"node":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]]},"className":"h-3 w-3 transition-transform duration-150 group-hover:-translate-x-0.5","strokeWidth":2}],"$L8"]}],"$L9"]}],"$La"]}],"$Lb"],["$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zwM8oWJKFF_lIsbijJvoO"}
+8:["$","span",null,{"children":"prev"}]
+9:["$","span",null,{"className":"truncate font-mono text-[12.5px] font-semibold text-[#e8edf2]","children":"Installation"}]
+a:["$","$L6",null,{"href":"/docs/0.1.0/core-concepts/simd-and-intrinsics","className":"group relative flex flex-1 basis-0 flex-col items-end gap-1.5 border border-[#1a1f26] bg-[#0b0d10] p-4 text-right no-underline transition-colors duration-150 hover:border-[#2a3138] hover:bg-[#0e1116]","aria-label":"Go to next page: SIMD & CPU Intrinsics","children":[["$","span",null,{"aria-hidden":true,"className":"absolute right-0 top-0 bottom-0 w-px bg-[#ffb454] opacity-0 transition-opacity duration-200 group-hover:opacity-100"}],["$","span",null,{"className":"flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-wider text-[#3a424d] transition-colors group-hover:text-[#7d8794]","children":[["$","span",null,{"children":"next"}],["$","$L7",null,{"icon":{"name":"chevron-right","size":24,"node":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]]},"className":"h-3 w-3 transition-transform duration-150 group-hover:translate-x-0.5","strokeWidth":2}]]}],["$","span",null,{"className":"truncate font-mono text-[12.5px] font-semibold text-[#e8edf2]","children":"SIMD & CPU Intrinsics"}]]}]
+b:["$","div",null,{"className":"mt-8 flex items-center justify-between font-mono text-[10.5px]","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-[#5c6874]","children":[["$","span",null,{"className":"h-1 w-1 rounded-full bg-[#7ee787] shadow-[0_0_6px_rgba(126,231,135,0.6)]"}],["$","span",null,{"children":"advanced/packaging-and-builds"}]]}],["$","span",null,{"className":"flex items-center gap-1.5 text-[#7ee787]","children":["$","span",null,{"children":"[ exit 0 ]"}]}]]}]
+c:["$","script","script-0",{"src":"/pylsrun/_next/static/chunks/1ljtfta1a0222.js","async":true}]
+d:["$","script","script-1",{"src":"/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js","async":true}]
+e:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

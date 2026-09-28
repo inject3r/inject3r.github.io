@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:I[21550,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+3:I[16413,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+b:I[73947,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+c:I[22016,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],""]
+d:I[5014,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js","/pylsrun/_next/static/chunks/377dfpj25qg4e.js","/pylsrun/_next/static/chunks/1ljtfta1a0222.js","/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js"],"default"]
+e:I[97367,["/pylsrun/_next/static/chunks/1mx55yvo_7gz3.js","/pylsrun/_next/static/chunks/0krhcllroe4vq.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+4:Tf2a,
+# Structs & Binary Data
+
+Module: `pylsrun.structs` (layout engine) and `pylsrun.buffers` (binary I/O).
+
+## How layout is computed
+
+`define_struct`/`define_union` never guess at padding, alignment, or
+bitfield packing. Given your field list, they generate a **real C++
+struct/union definition**, hand it to `pylsrun.ctime` (see
+the Compile-Time C++ guide), which compiles a tiny program that calls
+`sizeof`/`alignof`/`offsetof` on it with your actual host compiler, and
+uses the compiler's own answer. For bitfields specifically, the exact byte
+range and bit mask are found empirically: an instance is zeroed, the target
+bitfield is set to all-ones, and the probe program reports exactly which
+bytes changed — so bitfield packing (which the C++ standard leaves
+implementation-defined) is *whatever your compiler actually does*, not a
+reimplementation of GCC's rules that might drift from reality.
+
+## Defining a struct
+
+```python
+import pylsrun as pr
+from pylsrun import structs
+
+Point = structs.define_struct("Point", [
+    ("x", "f32"),
+    ("y", "f32"),
+])
+```
+
+Field type strings:
+
+| spec         | meaning                                      |
+|--------------|-----------------------------------------------|
+| `"i32"` etc. | any native typecode (see memory_and_pointers.md) |
+| `"i32[8]"`   | fixed-length array of 8 int32_t                |
+| `"u32:5"`    | a 5-bit bitfield stored in a uint32_t          |
+| `AnotherStructType`         | a nested struct field           |
+| `(AnotherStructType, 4)`    | a fixed-length array of 4 nested structs |
+| `"f80"` / `"wchar"` | native long double / wchar_t; sizes are platform-dependent |
+
+`packed=True` emits `#pragma pack(1)` — no padding between fields.
+`packed` also accepts an explicit integer (e.g. `packed=4`) for a custom
+pack value instead of "no padding at all". `align=N` emits `alignas(N)`
+on the struct itself — a custom (over-)alignment requirement, distinct
+from `packed` (which controls padding *between* fields, not the struct's
+own alignment):
+
+```python
+Custom = structs.define_struct("Custom", [("a", "i8"), ("b", "i32")], packed=4, align=32)
+```
+
+## Using a struct
+
+```python
+buf = pr.memory.malloc(Point.__size__)
+p = Point(buf)          # bind to a Pointer, MemBlock, or raw int address
+p.x, p.y = 1.5, -2.0
+print(p)                 # Point(x=1.5, y=-2.0)
+p.raw_bytes()             # copy of the underlying __size__ bytes
+p.address                 # the bound address
+```
+
+`Point.__size__`, `Point.__align__` — compiler-verified. `Point.__layout__`
+is a `ctime.StructLayout` with a `.fields` dict of `FieldLayout(name,
+offset, size, is_bitfield, bit_mask, bit_shift, ...)`.
+
+## Unions
+
+```python
+U = structs.define_union("Reinterpret", [("as_i32", "i32"), ("as_f32", "f32")])
+u = U(buf)
+u.as_i32 = 0x3F800000
+u.as_f32   # -> 1.0
+```
+
+## Binary reader/writer
+
+```python
+from pylsrun import buffers
+
+w = buffers.BinaryWriter(endian="little")
+w.write("u32", 42)
+w.write("f64", 3.5)
+w.write_cstring("hello")
+data = w.getvalue()
+
+r = buffers.BinaryReader(data, endian="little")
+r.read("u32")        # 42
+r.read("f64")        # 3.5
+r.read_cstring()      # "hello"
+r.read_bytes(n)
+r.remaining()
+```
+
+## Variable-length integers (LEB128)
+
+```python
+buffers.encode_varint(300)              # b'\xac\x02'
+buffers.decode_varint(data, offset=0)   # (300, new_offset)
+```
+
+## Checksums
+
+```python
+buffers.crc32_zlib(data, seed=0)   # classic zlib-polynomial CRC32 (compile-time table)
+buffers.crc32c(seed, data)          # hardware SSE4.2 CRC32C (Castagnoli polynomial) -- different algorithm, not interchangeable
+```
+
+## `MemBlock` for zero-copy binary parsing
+
+Bind a `BinaryReader` directly over a `MemBlock`/`memoryview` of memory you
+already have (e.g. a `memoryview`/`MemBlock.from_pointer()` view) to parse binary data without ever copying
+it into a fresh Python `bytes` object — see the Buffers guide.
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"mb-6","children":["$","$L2",null,{}]}],["$","div",null,{"className":"max-w-none","children":["$","$L3",null,{"content":"$4"}]}],"$L5","$L6","$L7"],["$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zwM8oWJKFF_lIsbijJvoO"}
+5:["$","div",null,{"className":"mt-12 border-t border-[#1a1f26] pt-8","children":["$","$Lb",null,{"headings":[{"level":2,"text":"How layout is computed","id":"how-layout-is-computed"},{"level":2,"text":"Defining a struct","id":"defining-a-struct"},{"level":2,"text":"Using a struct","id":"using-a-struct"},{"level":2,"text":"Unions","id":"unions"},{"level":2,"text":"Binary reader/writer","id":"binary-reader-writer"},{"level":2,"text":"Variable-length integers (LEB128)","id":"variable-length-integers-leb128"},{"level":2,"text":"Checksums","id":"checksums"},{"level":2,"text":"`MemBlock` for zero-copy binary parsing","id":"memblock-for-zero-copy-binary-parsing"}]}]}]
+6:["$","nav",null,{"aria-label":"pagination","className":"relative mt-12 flex w-full flex-wrap items-stretch justify-between gap-px border-t border-[#1a1f26] pt-8","children":[["$","$Lc",null,{"href":"/docs/0.1.0/comparison/why-pylsrun","className":"group relative flex flex-1 basis-0 flex-col gap-1.5 border border-[#1a1f26] bg-[#0b0d10] p-4 no-underline transition-colors duration-150 hover:border-[#2a3138] hover:bg-[#0e1116]","aria-label":"Go to previous page: Why PylsRun","children":[["$","span",null,{"aria-hidden":true,"className":"absolute left-0 top-0 bottom-0 w-px bg-[#ffb454] opacity-0 transition-opacity duration-200 group-hover:opacity-100"}],["$","span",null,{"className":"flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-wider text-[#3a424d] transition-colors group-hover:text-[#7d8794]","children":[["$","$Ld",null,{"icon":{"name":"chevron-left","size":24,"node":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]]},"className":"h-3 w-3 transition-transform duration-150 group-hover:-translate-x-0.5","strokeWidth":2}],["$","span",null,{"children":"prev"}]]}],["$","span",null,{"className":"truncate font-mono text-[12.5px] font-semibold text-[#e8edf2]","children":"Why PylsRun"}]]}],["$","$Lc",null,{"href":"/docs/0.1.0/getting-started/installation","className":"group relative flex flex-1 basis-0 flex-col items-end gap-1.5 border border-[#1a1f26] bg-[#0b0d10] p-4 text-right no-underline transition-colors duration-150 hover:border-[#2a3138] hover:bg-[#0e1116]","aria-label":"Go to next page: Installation","children":[["$","span",null,{"aria-hidden":true,"className":"absolute right-0 top-0 bottom-0 w-px bg-[#ffb454] opacity-0 transition-opacity duration-200 group-hover:opacity-100"}],["$","span",null,{"className":"flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-wider text-[#3a424d] transition-colors group-hover:text-[#7d8794]","children":[["$","span",null,{"children":"next"}],["$","$Ld",null,{"icon":{"name":"chevron-right","size":24,"node":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]]},"className":"h-3 w-3 transition-transform duration-150 group-hover:translate-x-0.5","strokeWidth":2}]]}],["$","span",null,{"className":"truncate font-mono text-[12.5px] font-semibold text-[#e8edf2]","children":"Installation"}]]}]]}]
+7:["$","div",null,{"className":"mt-8 flex items-center justify-between font-mono text-[10.5px]","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-[#5c6874]","children":[["$","span",null,{"className":"h-1 w-1 rounded-full bg-[#7ee787] shadow-[0_0_6px_rgba(126,231,135,0.6)]"}],["$","span",null,{"children":"core-concepts/structs-and-binary"}]]}],["$","span",null,{"className":"flex items-center gap-1.5 text-[#7ee787]","children":["$","span",null,{"children":"[ exit 0 ]"}]}]]}]
+8:["$","script","script-0",{"src":"/pylsrun/_next/static/chunks/1ljtfta1a0222.js","async":true}]
+9:["$","script","script-1",{"src":"/pylsrun/_next/static/chunks/1oj3v6hef9gv6.js","async":true}]
+a:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null
