@@ -100168,7 +100168,7 @@
     "domain": "eliv.kr"
   },
   {
-    "network": "45.120.64.0/24",
+    "network": "45.120.67.0/24",
     "asn": "135120",
     "country_code": "KR",
     "name": "PROJECTELIV-AS-AP",
@@ -100176,7 +100176,7 @@
     "domain": "eliv.kr"
   },
   {
-    "network": "45.120.67.0/24",
+    "network": "89.23.91.0/24",
     "asn": "135120",
     "country_code": "KR",
     "name": "PROJECTELIV-AS-AP",
@@ -100560,6 +100560,14 @@
     "domain": "eliv.kr"
   },
   {
+    "network": "2a0f:6284:3306::/48",
+    "asn": "135120",
+    "country_code": "KR",
+    "name": "PROJECTELIV-AS-AP",
+    "org": "PROJECT ELIV",
+    "domain": "eliv.kr"
+  },
+  {
     "network": "2a0f:6284:3320::/48",
     "asn": "135120",
     "country_code": "KR",
@@ -100577,6 +100585,14 @@
   },
   {
     "network": "2a0f:6284:3322::/48",
+    "asn": "135120",
+    "country_code": "KR",
+    "name": "PROJECTELIV-AS-AP",
+    "org": "PROJECT ELIV",
+    "domain": "eliv.kr"
+  },
+  {
+    "network": "2a0f:6284:3323::/48",
     "asn": "135120",
     "country_code": "KR",
     "name": "PROJECTELIV-AS-AP",
@@ -175358,6 +175374,166 @@
     "name": "KRIBB-AS-KR",
     "org": "KRIBB(Korea Research Institute of Bioscience Biotechnology)",
     "domain": "kribb.re.kr"
+  },
+  {
+    "network": "202.30.46.0/23",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "203.230.96.0/21",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "203.230.104.0/22",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "210.98.40.0/22",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "210.110.245.0/24",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "210.110.246.0/23",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "210.110.248.0/22",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "210.119.112.0/24",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "220.66.143.0/24",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "220.66.144.0/22",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "220.66.148.0/23",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "223.194.160.0/22",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "223.194.160.0/24",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "223.194.160.0/25",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "223.194.160.128/25",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "223.194.161.0/24",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "223.194.162.0/24",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "223.194.163.0/24",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "223.194.192.0/22",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
+  },
+  {
+    "network": "223.194.192.0/24",
+    "asn": "10045",
+    "country_code": "KR",
+    "name": "TNUTNET-AS",
+    "org": "Hanbat National University",
+    "domain": "hanbat.ac.kr"
   },
   {
     "network": "202.30.49.0/24",

@@ -13608,14 +13608,6 @@
     "domain": "forpsi.com"
   },
   {
-    "network": "80.211.210.0/24",
-    "asn": "24806",
-    "country_code": "CZ",
-    "name": "INTERNET-CZ",
-    "org": "INTERNET CZ, a.s.",
-    "domain": "forpsi.com"
-  },
-  {
     "network": "81.2.192.0/18",
     "asn": "24806",
     "country_code": "CZ",
@@ -17041,6 +17033,14 @@
   },
   {
     "network": "151.247.170.0/24",
+    "asn": "197256",
+    "country_code": "CZ",
+    "name": "RENEWINKLER-AS",
+    "org": "Rene Winkler",
+    "domain": "xyecoc.com"
+  },
+  {
+    "network": "191.44.65.0/24",
     "asn": "197256",
     "country_code": "CZ",
     "name": "RENEWINKLER-AS",
@@ -20726,6 +20726,30 @@
     "name": "GIGASERVER",
     "org": "Seonet Multimedia s.r.o.",
     "domain": "gigaserver.cz"
+  },
+  {
+    "network": "185.67.23.0/24",
+    "asn": "218589",
+    "country_code": "CZ",
+    "name": "benesjan014",
+    "org": "Jan Benes",
+    "domain": "benesjan014.dev"
+  },
+  {
+    "network": "2a14:7581:3700::/40",
+    "asn": "218589",
+    "country_code": "CZ",
+    "name": "benesjan014",
+    "org": "Jan Benes",
+    "domain": "benesjan014.dev"
+  },
+  {
+    "network": "2a14:7583:ea00::/40",
+    "asn": "218589",
+    "country_code": "CZ",
+    "name": "benesjan014",
+    "org": "Jan Benes",
+    "domain": "benesjan014.dev"
   },
   {
     "network": "185.67.188.0/22",
@@ -25982,21 +26006,5 @@
     "name": "Batlify_Internet",
     "org": "Batlify Internet s.r.o.",
     "domain": "batlify.com"
-  },
-  {
-    "network": "2a14:7581:3700::/40",
-    "asn": "218589",
-    "country_code": "CZ",
-    "name": "benesjan014",
-    "org": "Jan Benes",
-    "domain": "benesjan014.dev"
-  },
-  {
-    "network": "2a14:7583:ea00::/40",
-    "asn": "218589",
-    "country_code": "CZ",
-    "name": "benesjan014",
-    "org": "Jan Benes",
-    "domain": "benesjan014.dev"
   }
 ]
