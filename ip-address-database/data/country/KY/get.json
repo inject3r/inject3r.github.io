@@ -612,7 +612,25 @@
     "country_name": "Cayman Islands"
   },
   {
-    "network": "172.94.56.0/24",
+    "network": "172.94.56.0/28",
+    "continent_code": "NA",
+    "country_code": "KY",
+    "country_name": "Cayman Islands"
+  },
+  {
+    "network": "172.94.56.32/27",
+    "continent_code": "NA",
+    "country_code": "KY",
+    "country_name": "Cayman Islands"
+  },
+  {
+    "network": "172.94.56.64/26",
+    "continent_code": "NA",
+    "country_code": "KY",
+    "country_name": "Cayman Islands"
+  },
+  {
+    "network": "172.94.56.128/25",
     "continent_code": "NA",
     "country_code": "KY",
     "country_name": "Cayman Islands"
@@ -840,19 +858,13 @@
     "country_name": "Cayman Islands"
   },
   {
-    "network": "208.26.72.200/29",
+    "network": "208.26.81.0/24",
     "continent_code": "NA",
     "country_code": "KY",
     "country_name": "Cayman Islands"
   },
   {
-    "network": "208.26.80.0/23",
-    "continent_code": "NA",
-    "country_code": "KY",
-    "country_name": "Cayman Islands"
-  },
-  {
-    "network": "208.26.90.0/23",
+    "network": "208.26.90.128/25",
     "continent_code": "NA",
     "country_code": "KY",
     "country_name": "Cayman Islands"
@@ -1338,13 +1350,19 @@
     "country_name": "Cayman Islands"
   },
   {
-    "network": "2a0e:97c0:4b7d::/48",
+    "network": "2a0d:d904:13::/48",
     "continent_code": "NA",
     "country_code": "KY",
     "country_name": "Cayman Islands"
   },
   {
-    "network": "2a0f:6280:c80c::/48",
+    "network": "2a0d:d904:14::/48",
+    "continent_code": "NA",
+    "country_code": "KY",
+    "country_name": "Cayman Islands"
+  },
+  {
+    "network": "2a0e:97c0:4b7d::/48",
     "continent_code": "NA",
     "country_code": "KY",
     "country_name": "Cayman Islands"

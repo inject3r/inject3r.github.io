@@ -42,7 +42,13 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "27.109.119.0/27",
+    "network": "27.109.119.8/29",
+    "continent_code": "AS",
+    "country_code": "MM",
+    "country_name": "Myanmar"
+  },
+  {
+    "network": "27.109.119.16/28",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -66,7 +72,7 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "27.109.119.192/29",
+    "network": "27.109.119.192/28",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -78,7 +84,7 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "27.109.119.244/30",
+    "network": "27.109.119.244/31",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -294,25 +300,19 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "45.112.44.4/30",
+    "network": "45.112.44.4/31",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
   },
   {
-    "network": "45.112.44.24/31",
+    "network": "45.112.44.24/30",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
   },
   {
     "network": "45.112.44.32/28",
-    "continent_code": "AS",
-    "country_code": "MM",
-    "country_name": "Myanmar"
-  },
-  {
-    "network": "45.112.44.56/31",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -336,19 +336,7 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "45.112.44.104/30",
-    "continent_code": "AS",
-    "country_code": "MM",
-    "country_name": "Myanmar"
-  },
-  {
-    "network": "45.112.44.108/31",
-    "continent_code": "AS",
-    "country_code": "MM",
-    "country_name": "Myanmar"
-  },
-  {
-    "network": "45.112.44.114/31",
+    "network": "45.112.44.104/29",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -4555,12 +4543,6 @@
   },
   {
     "network": "2a0f:5707:ffa7::/48",
-    "continent_code": "AS",
-    "country_code": "MM",
-    "country_name": "Myanmar"
-  },
-  {
-    "network": "2a0f:6280:c83f::/48",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"

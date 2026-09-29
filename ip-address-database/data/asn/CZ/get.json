@@ -1,21 +1,5 @@
 [
   {
-    "network": "2.27.106.0/24",
-    "asn": "198586",
-    "country_code": "CZ",
-    "name": "HostNow",
-    "org": "HostNow, s.r.o.",
-    "domain": "hostnow.cz"
-  },
-  {
-    "network": "2a06:9801:2b1::/48",
-    "asn": "198586",
-    "country_code": "CZ",
-    "name": "HostNow",
-    "org": "HostNow, s.r.o.",
-    "domain": "hostnow.cz"
-  },
-  {
     "network": "2.59.220.0/22",
     "asn": "209155",
     "country_code": "CZ",
@@ -20731,7 +20715,7 @@
     "network": "185.67.23.0/24",
     "asn": "218589",
     "country_code": "CZ",
-    "name": "benesjan014",
+    "name": "datapath-asn",
     "org": "Jan Benes",
     "domain": "benesjan014.dev"
   },
@@ -20739,7 +20723,7 @@
     "network": "2a14:7581:3700::/40",
     "asn": "218589",
     "country_code": "CZ",
-    "name": "benesjan014",
+    "name": "datapath-asn",
     "org": "Jan Benes",
     "domain": "benesjan014.dev"
   },
@@ -20747,7 +20731,7 @@
     "network": "2a14:7583:ea00::/40",
     "asn": "218589",
     "country_code": "CZ",
-    "name": "benesjan014",
+    "name": "datapath-asn",
     "org": "Jan Benes",
     "domain": "benesjan014.dev"
   },
@@ -23680,22 +23664,6 @@
     "domain": "cdipraha.cz"
   },
   {
-    "network": "185.228.164.0/23",
-    "asn": "39736",
-    "country_code": "CZ",
-    "name": "ICTSUPPORT",
-    "org": "ICT Support, s.r.o.",
-    "domain": "cdipraha.cz"
-  },
-  {
-    "network": "185.228.166.0/23",
-    "asn": "39736",
-    "country_code": "CZ",
-    "name": "ICTSUPPORT",
-    "org": "ICT Support, s.r.o.",
-    "domain": "cdipraha.cz"
-  },
-  {
     "network": "2a0d:2600::/29",
     "asn": "39736",
     "country_code": "CZ",
@@ -25672,14 +25640,6 @@
     "domain": "miegl.cz"
   },
   {
-    "network": "2a04:ff00:732::/48",
-    "asn": "210951",
-    "country_code": "CZ",
-    "name": "MIEGLNET",
-    "org": "Josef Miegl",
-    "domain": "miegl.cz"
-  },
-  {
     "network": "2a04:ff00:733::/48",
     "asn": "210951",
     "country_code": "CZ",
@@ -25689,14 +25649,6 @@
   },
   {
     "network": "2a04:ff00:7fd::/48",
-    "asn": "210951",
-    "country_code": "CZ",
-    "name": "MIEGLNET",
-    "org": "Josef Miegl",
-    "domain": "miegl.cz"
-  },
-  {
-    "network": "2a04:ff00:7fe::/48",
     "asn": "210951",
     "country_code": "CZ",
     "name": "MIEGLNET",
@@ -25728,14 +25680,6 @@
     "domain": "miegl.cz"
   },
   {
-    "network": "2a0e:b107:15d2::/48",
-    "asn": "210951",
-    "country_code": "CZ",
-    "name": "MIEGLNET",
-    "org": "Josef Miegl",
-    "domain": "miegl.cz"
-  },
-  {
     "network": "2a0e:b107:15d3::/48",
     "asn": "210951",
     "country_code": "CZ",
@@ -25758,6 +25702,14 @@
     "name": "Blindspot-research",
     "org": "PRO-ZETA a.s.",
     "domain": "prozeta.eu"
+  },
+  {
+    "network": "2a06:9801:2b1::/48",
+    "asn": "198586",
+    "country_code": "CZ",
+    "name": "HostNow",
+    "org": "HostNow, s.r.o.",
+    "domain": "hostnow.cz"
   },
   {
     "network": "2a06:a7c0::/29",

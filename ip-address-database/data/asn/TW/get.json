@@ -912,14 +912,6 @@
     "domain": "cht.com.tw"
   },
   {
-    "network": "114.43.192.0/24",
-    "asn": "3462",
-    "country_code": "TW",
-    "name": "HINET",
-    "org": "Chunghwa Telecom Co., Ltd.",
-    "domain": "cht.com.tw"
-  },
-  {
     "network": "114.44.0.0/16",
     "asn": "3462",
     "country_code": "TW",
@@ -29185,14 +29177,6 @@
   },
   {
     "network": "60.244.128.0/17",
-    "asn": "17709",
-    "country_code": "TW",
-    "name": "APT",
-    "org": "Asia Pacific Telecom",
-    "domain": "fareastone.com.tw"
-  },
-  {
-    "network": "61.57.111.0/24",
     "asn": "17709",
     "country_code": "TW",
     "name": "APT",
@@ -71488,6 +71472,14 @@
     "domain": "pni.com.tw"
   },
   {
+    "network": "103.23.108.0/24",
+    "asn": "131642",
+    "country_code": "TW",
+    "name": "PNI-AS-TW",
+    "org": "Pittqiao Network Information Co.,Ltd.",
+    "domain": "pni.com.tw"
+  },
+  {
     "network": "103.64.20.0/23",
     "asn": "131642",
     "country_code": "TW",
@@ -71793,6 +71785,14 @@
   },
   {
     "network": "187.79.240.0/23",
+    "asn": "131642",
+    "country_code": "TW",
+    "name": "PNI-AS-TW",
+    "org": "Pittqiao Network Information Co.,Ltd.",
+    "domain": "pni.com.tw"
+  },
+  {
+    "network": "187.79.247.0/24",
     "asn": "131642",
     "country_code": "TW",
     "name": "PNI-AS-TW",
@@ -77416,6 +77416,46 @@
     "domain": "moe.gov.tw"
   },
   {
+    "network": "192.192.21.0/24",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
+    "network": "192.192.22.0/24",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
+    "network": "192.192.23.0/24",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
+    "network": "192.192.24.0/23",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
+    "network": "192.192.26.0/24",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
     "network": "192.192.48.0/21",
     "asn": "1659",
     "country_code": "TW",
@@ -79496,6 +79536,14 @@
     "domain": "as208223.eu.org"
   },
   {
+    "network": "2602:f9f6:41c::/46",
+    "asn": "208223",
+    "country_code": "TW",
+    "name": "FOXO-AS",
+    "org": "SHU-HAO TUNG",
+    "domain": "as208223.eu.org"
+  },
+  {
     "network": "2a0e:8f02:f03d::/48",
     "asn": "208223",
     "country_code": "TW",
@@ -81553,38 +81601,6 @@
   },
   {
     "network": "221.128.248.0/22",
-    "asn": "18180",
-    "country_code": "TW",
-    "name": "TWNIC-AS",
-    "org": "Taiwan Network Information Center",
-    "domain": ""
-  },
-  {
-    "network": "221.128.252.0/22",
-    "asn": "18180",
-    "country_code": "TW",
-    "name": "TWNIC-AS",
-    "org": "Taiwan Network Information Center",
-    "domain": ""
-  },
-  {
-    "network": "221.128.252.0/23",
-    "asn": "18180",
-    "country_code": "TW",
-    "name": "TWNIC-AS",
-    "org": "Taiwan Network Information Center",
-    "domain": ""
-  },
-  {
-    "network": "221.128.252.0/24",
-    "asn": "18180",
-    "country_code": "TW",
-    "name": "TWNIC-AS",
-    "org": "Taiwan Network Information Center",
-    "domain": ""
-  },
-  {
-    "network": "221.128.254.0/23",
     "asn": "18180",
     "country_code": "TW",
     "name": "TWNIC-AS",

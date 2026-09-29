@@ -2976,6 +2976,14 @@
     "domain": "orange-business.com"
   },
   {
+    "network": "90.82.88.0/24",
+    "asn": "3215",
+    "country_code": "FR",
+    "name": "AS3215",
+    "org": "Orange S.A.",
+    "domain": "orange-business.com"
+  },
+  {
     "network": "90.82.90.0/24",
     "asn": "3215",
     "country_code": "FR",
@@ -40136,6 +40144,14 @@
     "domain": "eurofiber.com"
   },
   {
+    "network": "185.247.86.0/23",
+    "asn": "35625",
+    "country_code": "FR",
+    "name": "EUROFIBER-FRANCE",
+    "org": "Eurofiber France SAS",
+    "domain": "eurofiber.com"
+  },
+  {
     "network": "185.252.156.0/22",
     "asn": "35625",
     "country_code": "FR",
@@ -45688,6 +45704,14 @@
     "domain": "gitoyen.net"
   },
   {
+    "network": "2a0f:e580:b::/48",
+    "asn": "20766",
+    "country_code": "FR",
+    "name": "GITOYEN-MAIN-AS",
+    "org": "Association \"Gitoyen\"",
+    "domain": "gitoyen.net"
+  },
+  {
     "network": "45.94.18.0/24",
     "asn": "219334",
     "country_code": "FR",
@@ -48320,7 +48344,7 @@
     "domain": "eurofiber.com"
   },
   {
-    "network": "185.246.24.0/22",
+    "network": "185.246.24.0/23",
     "asn": "39405",
     "country_code": "FR",
     "name": "FULLSAVE-AS",
@@ -48329,14 +48353,6 @@
   },
   {
     "network": "185.247.84.0/23",
-    "asn": "39405",
-    "country_code": "FR",
-    "name": "FULLSAVE-AS",
-    "org": "Eurofiber France SAS",
-    "domain": "eurofiber.com"
-  },
-  {
-    "network": "185.247.86.0/23",
     "asn": "39405",
     "country_code": "FR",
     "name": "FULLSAVE-AS",
@@ -64424,6 +64440,14 @@
     "domain": "octopuce.fr"
   },
   {
+    "network": "2a12:9b40::/32",
+    "asn": "28855",
+    "country_code": "FR",
+    "name": "OCTOPUCE-AS",
+    "org": "Octopuce s.a.r.l.",
+    "domain": "octopuce.fr"
+  },
+  {
     "network": "80.91.220.0/24",
     "asn": "215604",
     "country_code": "FR",
@@ -73160,14 +73184,6 @@
     "domain": "jaunedemars.fr"
   },
   {
-    "network": "185.28.43.0/24",
-    "asn": "201635",
-    "country_code": "FR",
-    "name": "FR-JAUNEDEMARS",
-    "org": "Jaune de Mars SAS",
-    "domain": "jaunedemars.fr"
-  },
-  {
     "network": "91.198.122.0/24",
     "asn": "43717",
     "country_code": "FR",
@@ -81046,6 +81062,62 @@
     "name": "WIBX",
     "org": "WIBX SAS",
     "domain": "wibx.com"
+  },
+  {
+    "network": "145.79.170.0/24",
+    "asn": "205305",
+    "country_code": "FR",
+    "name": "Pandem-Network",
+    "org": "Gabriel Peron",
+    "domain": "pandem.fr"
+  },
+  {
+    "network": "2a0b:4e07:d8::/48",
+    "asn": "205305",
+    "country_code": "FR",
+    "name": "Pandem-Network",
+    "org": "Gabriel Peron",
+    "domain": "pandem.fr"
+  },
+  {
+    "network": "2a0b:4e07:da::/48",
+    "asn": "205305",
+    "country_code": "FR",
+    "name": "Pandem-Network",
+    "org": "Gabriel Peron",
+    "domain": "pandem.fr"
+  },
+  {
+    "network": "2a0b:4e07:db::/48",
+    "asn": "205305",
+    "country_code": "FR",
+    "name": "Pandem-Network",
+    "org": "Gabriel Peron",
+    "domain": "pandem.fr"
+  },
+  {
+    "network": "2a0f:85c1:cfa::/48",
+    "asn": "205305",
+    "country_code": "FR",
+    "name": "Pandem-Network",
+    "org": "Gabriel Peron",
+    "domain": "pandem.fr"
+  },
+  {
+    "network": "2a13:c8c4:f400::/41",
+    "asn": "205305",
+    "country_code": "FR",
+    "name": "Pandem-Network",
+    "org": "Gabriel Peron",
+    "domain": "pandem.fr"
+  },
+  {
+    "network": "2a13:c8c4:f480::/42",
+    "asn": "205305",
+    "country_code": "FR",
+    "name": "Pandem-Network",
+    "org": "Gabriel Peron",
+    "domain": "pandem.fr"
   },
   {
     "network": "145.226.0.0/18",
@@ -89001,6 +89073,14 @@
   },
   {
     "network": "185.83.24.0/24",
+    "asn": "201177",
+    "country_code": "FR",
+    "name": "AMAE-AS",
+    "org": "GIE AMAE",
+    "domain": "vilavi.fr"
+  },
+  {
+    "network": "185.83.25.0/24",
     "asn": "201177",
     "country_code": "FR",
     "name": "AMAE-AS",
@@ -101824,38 +101904,6 @@
     "domain": ""
   },
   {
-    "network": "2a0b:4e07:d8::/48",
-    "asn": "205305",
-    "country_code": "FR",
-    "name": "Pandem-Network",
-    "org": "Gabriel Peron",
-    "domain": "pandem.fr"
-  },
-  {
-    "network": "2a0b:4e07:da::/48",
-    "asn": "205305",
-    "country_code": "FR",
-    "name": "Pandem-Network",
-    "org": "Gabriel Peron",
-    "domain": "pandem.fr"
-  },
-  {
-    "network": "2a0b:4e07:db::/48",
-    "asn": "205305",
-    "country_code": "FR",
-    "name": "Pandem-Network",
-    "org": "Gabriel Peron",
-    "domain": "pandem.fr"
-  },
-  {
-    "network": "2a0f:85c1:cfa::/48",
-    "asn": "205305",
-    "country_code": "FR",
-    "name": "Pandem-Network",
-    "org": "Gabriel Peron",
-    "domain": "pandem.fr"
-  },
-  {
     "network": "2a0b:4e07:ed::/48",
     "asn": "219417",
     "country_code": "FR",
@@ -101926,14 +101974,6 @@
     "name": "FreePKT",
     "org": "Thomas BOUZIN",
     "domain": "dispro.sh"
-  },
-  {
-    "network": "2a0c:9a40:8103::/48",
-    "asn": "200857",
-    "country_code": "FR",
-    "name": "DISSIDENCE",
-    "org": "Florian Maunier",
-    "domain": "dissidence.ovh"
   },
   {
     "network": "2a0c:9a46:700::/48",

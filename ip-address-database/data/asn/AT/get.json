@@ -640,6 +640,14 @@
     "domain": "anexia.at"
   },
   {
+    "network": "62.117.132.0/22",
+    "asn": "42473",
+    "country_code": "AT",
+    "name": "AS-ANEXIA",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
     "network": "91.208.217.0/24",
     "asn": "42473",
     "country_code": "AT",
@@ -8233,6 +8241,14 @@
   },
   {
     "network": "81.16.96.0/21",
+    "asn": "1764",
+    "country_code": "AT",
+    "name": "NEXTLAYER-AS",
+    "org": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+    "domain": "nextlayer.at"
+  },
+  {
+    "network": "81.16.104.0/22",
     "asn": "1764",
     "country_code": "AT",
     "name": "NEXTLAYER-AS",
@@ -20776,14 +20792,6 @@
     "domain": "iplace.at"
   },
   {
-    "network": "86.111.50.0/23",
-    "asn": "29545",
-    "country_code": "AT",
-    "name": "IPLACE",
-    "org": "iPlace Internet & Network Services GmbH",
-    "domain": "iplace.at"
-  },
-  {
     "network": "86.111.50.0/24",
     "asn": "29545",
     "country_code": "AT",
@@ -22776,14 +22784,6 @@
     "domain": "nic.at"
   },
   {
-    "network": "176.97.158.0/24",
-    "asn": "1921",
-    "country_code": "AT",
-    "name": "RCODEZERO-ANYCAST-SEC1-TLD",
-    "org": "ipcom GmbH",
-    "domain": "nic.at"
-  },
-  {
     "network": "185.80.188.0/24",
     "asn": "1921",
     "country_code": "AT",
@@ -23097,6 +23097,14 @@
   },
   {
     "network": "2a13:2144:5::/48",
+    "asn": "216258",
+    "country_code": "AT",
+    "name": "eox-faster",
+    "org": "EOX IT Services GmbH",
+    "domain": "eox.at"
+  },
+  {
+    "network": "2a13:2144:6::/48",
     "asn": "216258",
     "country_code": "AT",
     "name": "eox-faster",
@@ -24025,30 +24033,6 @@
   },
   {
     "network": "94.249.202.0/24",
-    "asn": "209182",
-    "country_code": "AT",
-    "name": "JasonAS",
-    "org": "Jason Ruhittel",
-    "domain": "ruhittel.at"
-  },
-  {
-    "network": "2a05:dfc1:ad00::/40",
-    "asn": "209182",
-    "country_code": "AT",
-    "name": "JasonAS",
-    "org": "Jason Ruhittel",
-    "domain": "ruhittel.at"
-  },
-  {
-    "network": "2a05:dfc1:ae00::/40",
-    "asn": "209182",
-    "country_code": "AT",
-    "name": "JasonAS",
-    "org": "Jason Ruhittel",
-    "domain": "ruhittel.at"
-  },
-  {
-    "network": "2a09:3f00:4000::/38",
     "asn": "209182",
     "country_code": "AT",
     "name": "JasonAS",
@@ -25333,7 +25317,7 @@
     "country_code": "AT",
     "name": "Cloudprovide",
     "org": "Sebastian Buchmann",
-    "domain": "as206734.at"
+    "domain": "cloudprovide.eu"
   },
   {
     "network": "2a12:bec4:19a6::/48",
@@ -25341,7 +25325,7 @@
     "country_code": "AT",
     "name": "Cloudprovide",
     "org": "Sebastian Buchmann",
-    "domain": "as206734.at"
+    "domain": "cloudprovide.eu"
   },
   {
     "network": "157.177.248.0/22",
@@ -25510,6 +25494,70 @@
     "name": "OAB-AF",
     "org": "Telenet Systems GmbH",
     "domain": "tnr.at"
+  },
+  {
+    "network": "176.97.158.0/24",
+    "asn": "207021",
+    "country_code": "AT",
+    "name": "RCODEZERO-ANYCAST-SEC2",
+    "org": "ipcom GmbH",
+    "domain": "nic.at"
+  },
+  {
+    "network": "185.167.176.0/24",
+    "asn": "207021",
+    "country_code": "AT",
+    "name": "RCODEZERO-ANYCAST-SEC2",
+    "org": "ipcom GmbH",
+    "domain": "nic.at"
+  },
+  {
+    "network": "193.46.135.0/24",
+    "asn": "207021",
+    "country_code": "AT",
+    "name": "RCODEZERO-ANYCAST-SEC2",
+    "org": "ipcom GmbH",
+    "domain": "nic.at"
+  },
+  {
+    "network": "194.50.187.0/24",
+    "asn": "207021",
+    "country_code": "AT",
+    "name": "RCODEZERO-ANYCAST-SEC2",
+    "org": "ipcom GmbH",
+    "domain": "nic.at"
+  },
+  {
+    "network": "2001:67c:10b8::/48",
+    "asn": "207021",
+    "country_code": "AT",
+    "name": "RCODEZERO-ANYCAST-SEC2",
+    "org": "ipcom GmbH",
+    "domain": "nic.at"
+  },
+  {
+    "network": "2a02:850:ffe7::/48",
+    "asn": "207021",
+    "country_code": "AT",
+    "name": "RCODEZERO-ANYCAST-SEC2",
+    "org": "ipcom GmbH",
+    "domain": "nic.at"
+  },
+  {
+    "network": "2a04:2b00:14dd::/48",
+    "asn": "207021",
+    "country_code": "AT",
+    "name": "RCODEZERO-ANYCAST-SEC2",
+    "org": "ipcom GmbH",
+    "domain": "nic.at"
+  },
+  {
+    "network": "2a0b:8e00:1::/48",
+    "asn": "207021",
+    "country_code": "AT",
+    "name": "RCODEZERO-ANYCAST-SEC2",
+    "org": "ipcom GmbH",
+    "domain": "nic.at"
   },
   {
     "network": "176.113.95.0/24",
@@ -27512,62 +27560,6 @@
     "domain": "finkzeit.at"
   },
   {
-    "network": "185.167.176.0/24",
-    "asn": "207021",
-    "country_code": "AT",
-    "name": "RCODEZERO-ANYCAST-SEC2",
-    "org": "ipcom GmbH",
-    "domain": "nic.at"
-  },
-  {
-    "network": "193.46.135.0/24",
-    "asn": "207021",
-    "country_code": "AT",
-    "name": "RCODEZERO-ANYCAST-SEC2",
-    "org": "ipcom GmbH",
-    "domain": "nic.at"
-  },
-  {
-    "network": "194.50.187.0/24",
-    "asn": "207021",
-    "country_code": "AT",
-    "name": "RCODEZERO-ANYCAST-SEC2",
-    "org": "ipcom GmbH",
-    "domain": "nic.at"
-  },
-  {
-    "network": "2001:67c:10b8::/48",
-    "asn": "207021",
-    "country_code": "AT",
-    "name": "RCODEZERO-ANYCAST-SEC2",
-    "org": "ipcom GmbH",
-    "domain": "nic.at"
-  },
-  {
-    "network": "2a02:850:ffe7::/48",
-    "asn": "207021",
-    "country_code": "AT",
-    "name": "RCODEZERO-ANYCAST-SEC2",
-    "org": "ipcom GmbH",
-    "domain": "nic.at"
-  },
-  {
-    "network": "2a04:2b00:14dd::/48",
-    "asn": "207021",
-    "country_code": "AT",
-    "name": "RCODEZERO-ANYCAST-SEC2",
-    "org": "ipcom GmbH",
-    "domain": "nic.at"
-  },
-  {
-    "network": "2a0b:8e00:1::/48",
-    "asn": "207021",
-    "country_code": "AT",
-    "name": "RCODEZERO-ANYCAST-SEC2",
-    "org": "ipcom GmbH",
-    "domain": "nic.at"
-  },
-  {
     "network": "185.173.136.0/24",
     "asn": "206876",
     "country_code": "AT",
@@ -29404,7 +29396,7 @@
     "asn": "34798",
     "country_code": "AT",
     "name": "willhaben",
-    "org": "willhaben internet service GmbH & Co KG",
+    "org": "willhaben internet service GmbH",
     "domain": "willhaben.at"
   },
   {
@@ -29412,7 +29404,7 @@
     "asn": "34798",
     "country_code": "AT",
     "name": "willhaben",
-    "org": "willhaben internet service GmbH & Co KG",
+    "org": "willhaben internet service GmbH",
     "domain": "willhaben.at"
   },
   {
@@ -29420,7 +29412,7 @@
     "asn": "34798",
     "country_code": "AT",
     "name": "willhaben",
-    "org": "willhaben internet service GmbH & Co KG",
+    "org": "willhaben internet service GmbH",
     "domain": "willhaben.at"
   },
   {
@@ -29428,7 +29420,7 @@
     "asn": "34798",
     "country_code": "AT",
     "name": "willhaben",
-    "org": "willhaben internet service GmbH & Co KG",
+    "org": "willhaben internet service GmbH",
     "domain": "willhaben.at"
   },
   {
