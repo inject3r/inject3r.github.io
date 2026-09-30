@@ -9664,6 +9664,14 @@
     "domain": "bezeqint.net"
   },
   {
+    "network": "79.178.66.0/24",
+    "asn": "8551",
+    "country_code": "IL",
+    "name": "BEZEQ-INTERNATIONAL-AS",
+    "org": "Bezeq International Ltd.",
+    "domain": "bezeqint.net"
+  },
+  {
     "network": "79.178.67.0/24",
     "asn": "8551",
     "country_code": "IL",
@@ -9697,14 +9705,6 @@
   },
   {
     "network": "79.178.71.0/24",
-    "asn": "8551",
-    "country_code": "IL",
-    "name": "BEZEQ-INTERNATIONAL-AS",
-    "org": "Bezeq International Ltd.",
-    "domain": "bezeqint.net"
-  },
-  {
-    "network": "79.178.72.0/24",
     "asn": "8551",
     "country_code": "IL",
     "name": "BEZEQ-INTERNATIONAL-AS",
@@ -17112,7 +17112,7 @@
     "domain": "pelephone.co.il"
   },
   {
-    "network": "2a02:6680:1408::/48",
+    "network": "2a02:6680:1400::/48",
     "asn": "16116",
     "country_code": "IL",
     "name": "UNSPECIFIED",
@@ -18769,6 +18769,14 @@
   },
   {
     "network": "38.126.148.0/24",
+    "asn": "215283",
+    "country_code": "IL",
+    "name": "MINA",
+    "org": "MINA COMMUNICATION LTD",
+    "domain": "kma.net.il"
+  },
+  {
+    "network": "109.66.146.0/23",
     "asn": "215283",
     "country_code": "IL",
     "name": "MINA",
@@ -23064,14 +23072,6 @@
     "domain": "catonetworks.com"
   },
   {
-    "network": "159.117.231.0/24",
-    "asn": "13150",
-    "country_code": "IL",
-    "name": "CATON",
-    "org": "CATO NETWORKS LTD",
-    "domain": "catonetworks.com"
-  },
-  {
     "network": "159.117.232.0/24",
     "asn": "13150",
     "country_code": "IL",
@@ -24334,6 +24334,38 @@
     "name": "ANNATEL",
     "org": "LB Annatel LTD",
     "domain": "annatel.net"
+  },
+  {
+    "network": "45.136.243.0/24",
+    "asn": "34919",
+    "country_code": "IL",
+    "name": "SYSAID-ASN",
+    "org": "SysAid Technologies Ltd",
+    "domain": "sysaid.com"
+  },
+  {
+    "network": "2a0e:9dc0::/29",
+    "asn": "34919",
+    "country_code": "IL",
+    "name": "SYSAID-ASN",
+    "org": "SysAid Technologies Ltd",
+    "domain": "sysaid.com"
+  },
+  {
+    "network": "2a0e:9dc0::/48",
+    "asn": "34919",
+    "country_code": "IL",
+    "name": "SYSAID-ASN",
+    "org": "SysAid Technologies Ltd",
+    "domain": "sysaid.com"
+  },
+  {
+    "network": "2a0e:9dc0:3::/48",
+    "asn": "34919",
+    "country_code": "IL",
+    "name": "SYSAID-ASN",
+    "org": "SysAid Technologies Ltd",
+    "domain": "sysaid.com"
   },
   {
     "network": "45.145.173.0/24",
@@ -39352,6 +39384,14 @@
     "domain": "bmc.com"
   },
   {
+    "network": "206.123.145.0/24",
+    "asn": "215460",
+    "country_code": "IL",
+    "name": "FELCLOUD",
+    "org": "Daniel Mishayev",
+    "domain": "felnetwork.net"
+  },
+  {
     "network": "209.135.152.0/24",
     "asn": "219168",
     "country_code": "IL",
@@ -39582,29 +39622,5 @@
     "name": "Jonathan-Rom",
     "org": "Jonathan Rom",
     "domain": "axbx.cx"
-  },
-  {
-    "network": "2a0e:9dc0::/29",
-    "asn": "34919",
-    "country_code": "IL",
-    "name": "SYSAID-ASN",
-    "org": "SysAid Technologies Ltd",
-    "domain": "sysaid.com"
-  },
-  {
-    "network": "2a0e:9dc0::/48",
-    "asn": "34919",
-    "country_code": "IL",
-    "name": "SYSAID-ASN",
-    "org": "SysAid Technologies Ltd",
-    "domain": "sysaid.com"
-  },
-  {
-    "network": "2a0e:9dc0:3::/48",
-    "asn": "34919",
-    "country_code": "IL",
-    "name": "SYSAID-ASN",
-    "org": "SysAid Technologies Ltd",
-    "domain": "sysaid.com"
   }
 ]

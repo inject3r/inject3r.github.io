@@ -30,7 +30,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "2.26.234.0/23",
+    "network": "2.26.235.0/24",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -420,7 +420,13 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "14.137.224.0/23",
+    "network": "14.137.224.0/24",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "14.137.225.0/27",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -2466,7 +2472,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "38.130.110.192/26",
+    "network": "38.130.110.240/28",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -3810,13 +3816,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "45.196.0.0/21",
-    "continent_code": "AS",
-    "country_code": "ID",
-    "country_name": "Indonesia"
-  },
-  {
-    "network": "45.196.12.0/22",
+    "network": "45.196.0.0/20",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -3942,7 +3942,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "45.198.8.144/28",
+    "network": "45.198.8.128/27",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -4242,6 +4242,18 @@
     "country_name": "Indonesia"
   },
   {
+    "network": "45.198.147.132/30",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "45.198.147.176/28",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
     "network": "45.198.147.192/26",
     "continent_code": "AS",
     "country_code": "ID",
@@ -4266,7 +4278,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "45.198.152.36/30",
+    "network": "45.198.152.32/28",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -4278,13 +4290,19 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "45.198.152.240/28",
+    "network": "45.198.152.240/29",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
   },
   {
-    "network": "45.198.153.128/27",
+    "network": "45.198.153.136/29",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "45.198.153.144/28",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -5286,12 +5304,6 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "65.49.68.18/32",
-    "continent_code": "AS",
-    "country_code": "ID",
-    "country_name": "Indonesia"
-  },
-  {
     "network": "65.255.32.0/24",
     "continent_code": "AS",
     "country_code": "ID",
@@ -6288,6 +6300,12 @@
     "country_name": "Indonesia"
   },
   {
+    "network": "80.76.55.8/31",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
     "network": "80.76.55.12/30",
     "continent_code": "AS",
     "country_code": "ID",
@@ -6300,13 +6318,19 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "80.76.55.32/29",
+    "network": "80.76.55.36/30",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
   },
   {
     "network": "80.76.55.40/30",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "80.76.55.46/31",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -6324,7 +6348,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "80.76.55.68/30",
+    "network": "80.76.55.70/31",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -6336,19 +6360,19 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "80.76.55.80/30",
+    "network": "80.76.55.80/29",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
   },
   {
-    "network": "80.76.55.86/31",
+    "network": "80.76.55.88/30",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
   },
   {
-    "network": "80.76.55.88/29",
+    "network": "80.76.55.92/31",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -6360,7 +6384,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "80.76.55.104/29",
+    "network": "80.76.55.108/30",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -6396,18 +6420,6 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "80.76.55.190/31",
-    "continent_code": "AS",
-    "country_code": "ID",
-    "country_name": "Indonesia"
-  },
-  {
-    "network": "80.76.55.196/30",
-    "continent_code": "AS",
-    "country_code": "ID",
-    "country_name": "Indonesia"
-  },
-  {
     "network": "80.76.55.200/29",
     "continent_code": "AS",
     "country_code": "ID",
@@ -6420,7 +6432,25 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "80.76.55.224/27",
+    "network": "80.76.55.224/29",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "80.76.55.232/30",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "80.76.55.236/31",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "80.76.55.240/28",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -6739,6 +6769,12 @@
   },
   {
     "network": "91.232.10.0/23",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "92.62.249.128/25",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -10644,19 +10680,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "103.70.132.0/23",
-    "continent_code": "AS",
-    "country_code": "ID",
-    "country_name": "Indonesia"
-  },
-  {
-    "network": "103.70.134.0/24",
-    "continent_code": "AS",
-    "country_code": "ID",
-    "country_name": "Indonesia"
-  },
-  {
-    "network": "103.70.135.128/25",
+    "network": "103.70.132.0/22",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -13908,6 +13932,12 @@
     "country_name": "Indonesia"
   },
   {
+    "network": "103.113.209.208/29",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
     "network": "103.113.209.224/27",
     "continent_code": "AS",
     "country_code": "ID",
@@ -13927,6 +13957,12 @@
   },
   {
     "network": "103.113.210.64/26",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "103.113.210.160/27",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -30834,7 +30870,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "142.111.188.0/25",
+    "network": "142.111.188.0/27",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -32394,12 +32430,6 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "151.242.55.0/24",
-    "continent_code": "AS",
-    "country_code": "ID",
-    "country_name": "Indonesia"
-  },
-  {
     "network": "151.242.133.0/24",
     "continent_code": "AS",
     "country_code": "ID",
@@ -32419,12 +32449,6 @@
   },
   {
     "network": "151.242.173.0/24",
-    "continent_code": "AS",
-    "country_code": "ID",
-    "country_name": "Indonesia"
-  },
-  {
-    "network": "151.242.204.0/24",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -32712,6 +32736,12 @@
     "country_name": "Indonesia"
   },
   {
+    "network": "154.43.60.0/24",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
     "network": "154.47.148.0/22",
     "continent_code": "AS",
     "country_code": "ID",
@@ -32748,13 +32778,19 @@
     "country_name": "Indonesia"
   },
   {
+    "network": "154.54.250.0/24",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
     "network": "154.58.138.24/29",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
   },
   {
-    "network": "154.58.138.64/26",
+    "network": "154.58.138.64/30",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -33330,7 +33366,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "156.230.184.224/28",
+    "network": "156.230.184.128/25",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -33366,13 +33402,25 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "156.230.187.112/28",
+    "network": "156.230.187.112/29",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
   },
   {
-    "network": "156.230.187.176/29",
+    "network": "156.230.187.122/31",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "156.230.187.124/30",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "156.230.187.178/31",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -38424,12 +38472,6 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "174.128.204.0/22",
-    "continent_code": "AS",
-    "country_code": "ID",
-    "country_name": "Indonesia"
-  },
-  {
     "network": "175.45.184.0/21",
     "continent_code": "AS",
     "country_code": "ID",
@@ -39360,7 +39402,7 @@
     "country_name": "Indonesia"
   },
   {
-    "network": "185.124.138.0/23",
+    "network": "185.124.136.0/22",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -58116,6 +58158,12 @@
     "country_name": "Indonesia"
   },
   {
+    "network": "2001:470:efeb::/48",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
     "network": "2001:470:f011::/48",
     "continent_code": "AS",
     "country_code": "ID",
@@ -74220,6 +74268,12 @@
     "country_name": "Indonesia"
   },
   {
+    "network": "2001:470:b:1f9::/64",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
     "network": "2001:470:b:344::/64",
     "continent_code": "AS",
     "country_code": "ID",
@@ -74299,12 +74353,6 @@
   },
   {
     "network": "2001:470:19:2e1::/64",
-    "continent_code": "AS",
-    "country_code": "ID",
-    "country_name": "Indonesia"
-  },
-  {
-    "network": "2001:470:19:42f::/64",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"
@@ -76807,6 +76855,12 @@
   },
   {
     "network": "2001:470:36:887::/64",
+    "continent_code": "AS",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  {
+    "network": "2001:470:36:889::/64",
     "continent_code": "AS",
     "country_code": "ID",
     "country_name": "Indonesia"

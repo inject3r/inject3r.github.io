@@ -204,13 +204,19 @@
     "country_name": "Honduras"
   },
   {
-    "network": "45.89.82.32/27",
+    "network": "45.89.82.0/26",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
   },
   {
     "network": "45.89.82.91/32",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "45.89.82.132/31",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -319,12 +325,6 @@
   },
   {
     "network": "45.184.92.0/22",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
-    "network": "45.185.52.0/22",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -960,19 +960,13 @@
     "country_name": "Honduras"
   },
   {
-    "network": "149.86.160.208/28",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
     "network": "149.86.161.20/30",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
   },
   {
-    "network": "149.86.161.64/31",
+    "network": "149.86.161.64/28",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -1266,12 +1260,6 @@
     "country_name": "Honduras"
   },
   {
-    "network": "170.82.2.0/23",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
     "network": "170.82.36.0/22",
     "continent_code": "NA",
     "country_code": "HN",
@@ -1470,7 +1458,13 @@
     "country_name": "Honduras"
   },
   {
-    "network": "181.78.101.192/26",
+    "network": "181.78.101.176/30",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "181.78.101.224/27",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -6672,7 +6666,7 @@
     "country_name": "Honduras"
   },
   {
-    "network": "190.61.48.0/25",
+    "network": "190.61.48.0/24",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"

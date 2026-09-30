@@ -90,13 +90,13 @@
     "country_name": "Albania"
   },
   {
-    "network": "37.26.65.0/24",
+    "network": "37.26.68.0/23",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
   },
   {
-    "network": "37.26.68.0/23",
+    "network": "37.26.70.0/24",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -150,7 +150,19 @@
     "country_name": "Albania"
   },
   {
-    "network": "37.35.64.128/25",
+    "network": "37.35.64.128/26",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "37.35.64.192/28",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "37.35.64.224/27",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -486,13 +498,7 @@
     "country_name": "Albania"
   },
   {
-    "network": "46.19.230.0/24",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "46.19.231.128/25",
+    "network": "46.19.230.0/23",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -552,7 +558,19 @@
     "country_name": "Albania"
   },
   {
-    "network": "46.99.160.0/20",
+    "network": "46.99.160.0/21",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "46.99.168.0/22",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "46.99.172.0/23",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -2052,6 +2070,12 @@
     "country_name": "Albania"
   },
   {
+    "network": "84.22.36.0/24",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
     "network": "84.22.38.0/24",
     "continent_code": "EU",
     "country_code": "AL",
@@ -2160,13 +2184,19 @@
     "country_name": "Albania"
   },
   {
-    "network": "84.22.56.0/24",
+    "network": "84.22.46.0/24",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
   },
   {
-    "network": "84.22.58.0/23",
+    "network": "84.22.49.0/24",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "84.22.56.0/24",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -2251,12 +2281,6 @@
   },
   {
     "network": "87.238.211.0/25",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "87.238.211.192/26",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -2436,31 +2460,7 @@
     "country_name": "Albania"
   },
   {
-    "network": "91.187.104.0/23",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "91.187.106.0/24",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "91.187.107.0/27",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "91.187.107.64/26",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "91.187.107.240/28",
+    "network": "91.187.104.0/22",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -2766,18 +2766,6 @@
     "country_name": "Albania"
   },
   {
-    "network": "94.100.49.128/27",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "94.100.49.192/26",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
     "network": "94.100.50.0/23",
     "continent_code": "EU",
     "country_code": "AL",
@@ -2832,12 +2820,6 @@
     "country_name": "Albania"
   },
   {
-    "network": "94.100.52.128/28",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
     "network": "94.100.52.160/27",
     "continent_code": "EU",
     "country_code": "AL",
@@ -2863,6 +2845,12 @@
   },
   {
     "network": "94.100.55.64/27",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "94.100.55.96/29",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -2904,7 +2892,49 @@
     "country_name": "Albania"
   },
   {
-    "network": "94.100.59.0/24",
+    "network": "94.100.58.0/24",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "94.100.59.0/25",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "94.100.59.128/28",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "94.100.59.144/30",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "94.100.59.150/31",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "94.100.59.152/29",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "94.100.59.160/27",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "94.100.59.192/26",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -3006,7 +3036,13 @@
     "country_name": "Albania"
   },
   {
-    "network": "94.156.166.128/28",
+    "network": "94.156.166.128/29",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "94.156.166.140/31",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -3019,12 +3055,6 @@
   },
   {
     "network": "95.86.42.0/24",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "95.86.58.0/23",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -3445,12 +3475,6 @@
   },
   {
     "network": "146.75.169.4/31",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "147.78.160.0/24",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -3912,25 +3936,7 @@
     "country_name": "Albania"
   },
   {
-    "network": "178.132.217.20/30",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "178.132.217.24/29",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "178.132.217.32/27",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "178.132.217.64/26",
+    "network": "178.132.217.0/25",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -3960,7 +3966,25 @@
     "country_name": "Albania"
   },
   {
-    "network": "178.132.219.0/24",
+    "network": "178.132.217.244/32",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "178.132.217.246/31",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "178.132.217.248/29",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "178.132.218.0/23",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -4128,6 +4152,12 @@
     "country_name": "Albania"
   },
   {
+    "network": "185.67.177.128/26",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
     "network": "185.67.178.0/25",
     "continent_code": "EU",
     "country_code": "AL",
@@ -4207,6 +4237,12 @@
   },
   {
     "network": "185.82.108.64/26",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "185.82.108.136/29",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -4488,6 +4524,12 @@
     "country_name": "Albania"
   },
   {
+    "network": "185.188.219.0/24",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
     "network": "185.188.248.0/24",
     "continent_code": "EU",
     "country_code": "AL",
@@ -4500,6 +4542,12 @@
     "country_name": "Albania"
   },
   {
+    "network": "185.190.38.144/30",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
     "network": "185.190.38.152/29",
     "continent_code": "EU",
     "country_code": "AL",
@@ -4507,6 +4555,18 @@
   },
   {
     "network": "185.190.38.160/28",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "185.190.38.176/30",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "185.190.38.184/29",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -4621,12 +4681,6 @@
   },
   {
     "network": "185.216.15.0/30",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "185.216.15.4/31",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -4969,24 +5023,6 @@
   },
   {
     "network": "194.169.167.152/30",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "194.169.167.164/30",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "194.169.167.168/29",
-    "continent_code": "EU",
-    "country_code": "AL",
-    "country_name": "Albania"
-  },
-  {
-    "network": "194.169.167.176/28",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"
@@ -13764,6 +13800,12 @@
     "country_name": "Albania"
   },
   {
+    "network": "2a12:bec4:1480:100::/57",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
     "network": "2a12:bec4:1484::/57",
     "continent_code": "EU",
     "country_code": "AL",
@@ -13957,6 +13999,12 @@
   },
   {
     "network": "2a09:bac1:7e0:4c0::/58",
+    "continent_code": "EU",
+    "country_code": "AL",
+    "country_name": "Albania"
+  },
+  {
+    "network": "2a12:bec4:1480:1c0::/58",
     "continent_code": "EU",
     "country_code": "AL",
     "country_name": "Albania"

@@ -1,5 +1,13 @@
 [
   {
+    "network": "43.252.232.0/22",
+    "asn": "38044",
+    "country_code": "MY",
+    "name": "GITN-NETWORK",
+    "org": "GITN-SCHOOLNET",
+    "domain": "gitn.com.my"
+  },
+  {
     "network": "43.252.233.0/24",
     "asn": "38044",
     "country_code": "MY",
@@ -73,6 +81,14 @@
   },
   {
     "network": "2400:7400::/33",
+    "asn": "38044",
+    "country_code": "MY",
+    "name": "GITN-NETWORK",
+    "org": "GITN-SCHOOLNET",
+    "domain": "gitn.com.my"
+  },
+  {
+    "network": "2400:7400:8000::/33",
     "asn": "38044",
     "country_code": "MY",
     "name": "GITN-NETWORK",

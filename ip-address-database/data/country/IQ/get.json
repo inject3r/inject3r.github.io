@@ -996,25 +996,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "37.238.88.0/24",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
-    "network": "37.238.89.8/29",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
-    "network": "37.238.89.16/28",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
-    "network": "37.238.89.128/25",
+    "network": "37.238.88.0/23",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -1026,13 +1008,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "37.238.90.8/31",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
-    "network": "37.238.90.12/31",
+    "network": "37.238.90.8/30",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -1236,7 +1212,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "37.238.165.128/25",
+    "network": "37.238.165.0/24",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -1320,7 +1296,13 @@
     "country_name": "Iraq"
   },
   {
-    "network": "37.238.189.132/30",
+    "network": "37.238.189.68/30",
+    "continent_code": "AS",
+    "country_code": "IQ",
+    "country_name": "Iraq"
+  },
+  {
+    "network": "37.238.189.132/31",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -1494,7 +1476,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "37.239.140.24/29",
+    "network": "37.239.140.16/28",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -1518,7 +1500,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "37.239.148.250/31",
+    "network": "37.239.148.248/30",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -1560,7 +1542,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "37.239.162.0/28",
+    "network": "37.239.162.0/25",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -1596,7 +1578,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "37.239.174.136/31",
+    "network": "37.239.174.124/31",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -1614,7 +1596,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "37.239.174.188/30",
+    "network": "37.239.174.184/29",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -1626,7 +1608,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "37.239.174.224/29",
+    "network": "37.239.174.224/30",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -2389,12 +2371,6 @@
   },
   {
     "network": "81.90.29.0/25",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
-    "network": "81.90.29.128/26",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -4632,6 +4608,12 @@
     "country_name": "Iraq"
   },
   {
+    "network": "178.17.57.0/25",
+    "continent_code": "AS",
+    "country_code": "IQ",
+    "country_name": "Iraq"
+  },
+  {
     "network": "178.17.63.0/24",
     "continent_code": "AS",
     "country_code": "IQ",
@@ -5166,31 +5148,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "185.147.100.0/24",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
-    "network": "185.147.101.64/27",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
-    "network": "185.147.101.112/29",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
-    "network": "185.147.101.128/25",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
-    "network": "185.147.102.0/23",
+    "network": "185.147.100.0/22",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -6168,7 +6126,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "217.142.30.64/30",
+    "network": "217.142.30.64/28",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -6192,25 +6150,31 @@
     "country_name": "Iraq"
   },
   {
+    "network": "217.142.31.88/30",
+    "continent_code": "AS",
+    "country_code": "IQ",
+    "country_name": "Iraq"
+  },
+  {
+    "network": "217.142.31.100/31",
+    "continent_code": "AS",
+    "country_code": "IQ",
+    "country_name": "Iraq"
+  },
+  {
     "network": "217.142.31.106/31",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
   },
   {
-    "network": "217.142.31.110/31",
+    "network": "217.142.31.108/30",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
   },
   {
-    "network": "217.142.31.112/30",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
-    "network": "217.142.31.120/29",
+    "network": "217.142.31.112/28",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"
@@ -6234,12 +6198,6 @@
     "country_name": "Iraq"
   },
   {
-    "network": "217.142.31.180/31",
-    "continent_code": "AS",
-    "country_code": "IQ",
-    "country_name": "Iraq"
-  },
-  {
     "network": "217.142.31.184/29",
     "continent_code": "AS",
     "country_code": "IQ",
@@ -6252,7 +6210,7 @@
     "country_name": "Iraq"
   },
   {
-    "network": "217.142.31.212/31",
+    "network": "217.142.31.208/29",
     "continent_code": "AS",
     "country_code": "IQ",
     "country_name": "Iraq"

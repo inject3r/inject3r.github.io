@@ -8880,14 +8880,6 @@
     "domain": "vectra.pl"
   },
   {
-    "network": "93.105.179.0/24",
-    "asn": "29314",
-    "country_code": "PL",
-    "name": "VECTRANET-AS",
-    "org": "VECTRA S.A.",
-    "domain": "vectra.pl"
-  },
-  {
     "network": "93.105.224.0/21",
     "asn": "29314",
     "country_code": "PL",
@@ -15881,22 +15873,6 @@
   },
   {
     "network": "37.131.160.0/20",
-    "asn": "35745",
-    "country_code": "PL",
-    "name": "PROVECTOR-AS",
-    "org": "Provector Sp. z o.o",
-    "domain": "provector.pl"
-  },
-  {
-    "network": "37.131.164.0/23",
-    "asn": "35745",
-    "country_code": "PL",
-    "name": "PROVECTOR-AS",
-    "org": "Provector Sp. z o.o",
-    "domain": "provector.pl"
-  },
-  {
-    "network": "37.131.168.0/23",
     "asn": "35745",
     "country_code": "PL",
     "name": "PROVECTOR-AS",
@@ -25368,14 +25344,6 @@
     "domain": "oktawave.com"
   },
   {
-    "network": "193.200.66.0/23",
-    "asn": "42503",
-    "country_code": "PL",
-    "name": "PL-OKTAWAVE-AS",
-    "org": "Oktawave S.A.",
-    "domain": "oktawave.com"
-  },
-  {
     "network": "195.149.198.0/23",
     "asn": "42503",
     "country_code": "PL",
@@ -25384,23 +25352,7 @@
     "domain": "oktawave.com"
   },
   {
-    "network": "2001:1a68:7::/48",
-    "asn": "42503",
-    "country_code": "PL",
-    "name": "PL-OKTAWAVE-AS",
-    "org": "Oktawave S.A.",
-    "domain": "oktawave.com"
-  },
-  {
     "network": "2a03:d60::/48",
-    "asn": "42503",
-    "country_code": "PL",
-    "name": "PL-OKTAWAVE-AS",
-    "org": "Oktawave S.A.",
-    "domain": "oktawave.com"
-  },
-  {
-    "network": "2a03:d60:1::/48",
     "asn": "42503",
     "country_code": "PL",
     "name": "PL-OKTAWAVE-AS",
@@ -35801,6 +35753,14 @@
   },
   {
     "network": "87.232.107.0/24",
+    "asn": "218720",
+    "country_code": "PL",
+    "name": "ACTIVHOST",
+    "org": "Marcin Hornik trading as ActivHost",
+    "domain": "r4p.pl"
+  },
+  {
+    "network": "2a06:9801:1510::/48",
     "asn": "218720",
     "country_code": "PL",
     "name": "ACTIVHOST",
@@ -46272,22 +46232,6 @@
     "domain": "okitech.pl"
   },
   {
-    "network": "91.231.100.0/24",
-    "asn": "15624",
-    "country_code": "PL",
-    "name": "OKITECH-AS",
-    "org": "OKITECH Krzysztof Kusnierczyk",
-    "domain": "okitech.pl"
-  },
-  {
-    "network": "91.231.101.0/24",
-    "asn": "15624",
-    "country_code": "PL",
-    "name": "OKITECH-AS",
-    "org": "OKITECH Krzysztof Kusnierczyk",
-    "domain": "okitech.pl"
-  },
-  {
     "network": "91.231.110.0/23",
     "asn": "198067",
     "country_code": "PL",
@@ -50576,14 +50520,6 @@
     "domain": "telgam.pl"
   },
   {
-    "network": "109.197.170.0/24",
-    "asn": "50705",
-    "country_code": "PL",
-    "name": "TELGAM-AS",
-    "org": "PRZEDSIEBIORSTWO TELEKOMUNIKACYJNE \"TELGAM\" SPOLKA AKCYJNA",
-    "domain": "telgam.pl"
-  },
-  {
     "network": "109.197.171.0/24",
     "asn": "50705",
     "country_code": "PL",
@@ -50617,14 +50553,6 @@
   },
   {
     "network": "185.200.80.0/24",
-    "asn": "50705",
-    "country_code": "PL",
-    "name": "TELGAM-AS",
-    "org": "PRZEDSIEBIORSTWO TELEKOMUNIKACYJNE \"TELGAM\" SPOLKA AKCYJNA",
-    "domain": "telgam.pl"
-  },
-  {
-    "network": "185.200.81.0/24",
     "asn": "50705",
     "country_code": "PL",
     "name": "TELGAM-AS",
@@ -50969,14 +50897,6 @@
   },
   {
     "network": "193.192.179.0/24",
-    "asn": "213678",
-    "country_code": "PL",
-    "name": "CYBERMAX",
-    "org": "Tomasz Brzana trading as CYBERMAX S.C.",
-    "domain": "cybermax.pl"
-  },
-  {
-    "network": "2001:67c:660::/48",
     "asn": "213678",
     "country_code": "PL",
     "name": "CYBERMAX",
@@ -57952,14 +57872,6 @@
     "domain": "wi-lan.net.pl"
   },
   {
-    "network": "192.166.221.0/24",
-    "asn": "60552",
-    "country_code": "PL",
-    "name": "BATEX-AS",
-    "org": "PAWEL BAHRANOWSKI trading as \"BATEX\"",
-    "domain": "wi-lan.net.pl"
-  },
-  {
     "network": "193.138.28.0/24",
     "asn": "60552",
     "country_code": "PL",
@@ -59400,7 +59312,15 @@
     "domain": "nask.pl"
   },
   {
-    "network": "195.164.182.0/24",
+    "network": "195.164.169.0/24",
+    "asn": "204679",
+    "country_code": "PL",
+    "name": "OSE",
+    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+    "domain": "nask.pl"
+  },
+  {
+    "network": "195.164.174.0/24",
     "asn": "204679",
     "country_code": "PL",
     "name": "OSE",
@@ -59822,14 +59742,6 @@
     "name": "INSPORT",
     "org": "\"INSPORT\" BOZENNA PIECEK",
     "domain": "insite.pl"
-  },
-  {
-    "network": "193.106.192.0/22",
-    "asn": "196901",
-    "country_code": "PL",
-    "name": "OKK1-AS",
-    "org": "DOLNET GROUP sp. z o.o.",
-    "domain": "dolnet.pl"
   },
   {
     "network": "193.107.8.0/22",
@@ -63616,22 +63528,6 @@
     "domain": "ipartners.pl"
   },
   {
-    "network": "201.3.238.0/24",
-    "asn": "219173",
-    "country_code": "PL",
-    "name": "MTNET",
-    "org": "Mateusz Tomkiel",
-    "domain": "mtomkiel.pl"
-  },
-  {
-    "network": "2a06:9801:f15::/48",
-    "asn": "219173",
-    "country_code": "PL",
-    "name": "MTNET",
-    "org": "Mateusz Tomkiel",
-    "domain": "mtomkiel.pl"
-  },
-  {
     "network": "212.7.217.0/24",
     "asn": "203661",
     "country_code": "PL",
@@ -64982,6 +64878,14 @@
     "name": "Walther",
     "org": "Tomasz Walter",
     "domain": "walther.eu.com"
+  },
+  {
+    "network": "2a06:9801:f15::/48",
+    "asn": "219173",
+    "country_code": "PL",
+    "name": "MTNET",
+    "org": "Mateusz Tomkiel",
+    "domain": "mtomkiel.pl"
   },
   {
     "network": "2a06:9801:fcb::/48",

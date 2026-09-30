@@ -732,7 +732,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2.26.12.10/31",
+    "network": "2.26.12.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -822,7 +822,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2.26.84.192/26",
+    "network": "2.26.84.220/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -846,19 +846,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "2.26.99.64/26",
+    "network": "2.26.99.0/25",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "2.26.103.128/27",
+    "network": "2.26.103.128/26",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "2.26.103.192/26",
+    "network": "2.26.103.224/27",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -972,12 +972,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2.27.17.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2.27.18.0/23",
     "continent_code": "EU",
     "country_code": "DE",
@@ -1038,12 +1032,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2.27.49.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2.27.63.128/26",
     "continent_code": "EU",
     "country_code": "DE",
@@ -1086,13 +1074,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2.27.120.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2.27.121.0/25",
+    "network": "2.27.120.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -1134,31 +1116,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "2.28.80.0/20",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2.28.120.0/22",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "2.28.144.0/20",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2.28.192.0/20",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2.28.224.0/20",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -1219,12 +1183,6 @@
   },
   {
     "network": "2.56.170.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2.56.236.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -2400,12 +2358,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "5.10.214.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "5.10.218.0/24",
     "continent_code": "EU",
     "country_code": "DE",
@@ -3282,6 +3234,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "5.56.29.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "5.56.176.0/20",
     "continent_code": "EU",
     "country_code": "DE",
@@ -3318,19 +3276,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "5.61.32.0/22",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "5.61.36.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "5.61.39.0/24",
+    "network": "5.61.32.0/21",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -3918,12 +3864,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "5.135.18.24/30",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "5.135.18.80/29",
     "continent_code": "EU",
     "country_code": "DE",
@@ -4128,13 +4068,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "5.135.105.208/28",
+    "network": "5.135.104.96/27",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "5.135.108.128/25",
+    "network": "5.135.105.208/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -9372,19 +9312,31 @@
     "country_name": "Germany"
   },
   {
-    "network": "5.250.176.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "5.250.179.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "5.250.180.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "5.250.183.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "5.250.185.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "5.250.186.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "5.250.188.0/22",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -9402,13 +9354,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "5.252.26.14/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "5.252.26.16/29",
+    "network": "5.252.26.16/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -9426,13 +9372,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "5.252.26.64/28",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "5.252.26.106/31",
+    "network": "5.252.26.64/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -9456,7 +9396,19 @@
     "country_name": "Germany"
   },
   {
+    "network": "5.252.26.192/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "5.252.26.200/29",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "5.252.26.226/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -9523,6 +9475,12 @@
   },
   {
     "network": "5.252.232.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "5.252.248.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -11988,54 +11946,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "13.140.30.0/28",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "13.140.30.16/29",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "13.140.30.26/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "13.140.30.28/30",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "13.140.30.32/27",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "13.140.30.64/26",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "13.140.30.128/25",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "13.140.31.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "13.140.64.0/19",
     "continent_code": "EU",
     "country_code": "DE",
@@ -13716,7 +13626,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "19.12.18.240/31",
+    "network": "19.12.18.240/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -15816,6 +15726,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "23.254.30.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "24.40.128.0/18",
     "continent_code": "EU",
     "country_code": "DE",
@@ -17136,7 +17052,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "31.76.244.0/24",
+    "network": "31.76.244.80/28",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "31.76.244.208/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -17892,7 +17814,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "31.184.246.176/29",
+    "network": "31.184.246.176/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "31.184.246.192/26",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -20010,7 +19938,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "37.46.19.0/24",
+    "network": "37.46.19.192/26",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -20377,6 +20305,12 @@
   },
   {
     "network": "37.59.156.48/29",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "37.59.157.56/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -23136,6 +23070,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "43.175.168.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "43.224.150.0/24",
     "continent_code": "EU",
     "country_code": "DE",
@@ -23580,7 +23520,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "45.8.68.0/28",
+    "network": "45.8.68.0/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "45.8.68.6/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "45.8.68.8/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -23592,7 +23544,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "45.8.68.60/30",
+    "network": "45.8.68.56/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -23604,19 +23556,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "45.8.68.76/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "45.8.68.84/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "45.8.68.92/30",
+    "network": "45.8.68.92/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -23634,13 +23580,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "45.8.68.180/30",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "45.8.68.184/31",
+    "network": "45.8.68.182/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -23659,12 +23599,6 @@
   },
   {
     "network": "45.8.68.236/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "45.8.68.242/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -24259,12 +24193,6 @@
   },
   {
     "network": "45.14.244.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "45.15.8.0/22",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -24882,13 +24810,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "45.67.220.164/30",
+    "network": "45.67.220.160/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "45.67.220.168/30",
+    "network": "45.67.220.168/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -25014,7 +24942,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "45.80.200.0/27",
+    "network": "45.80.200.16/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -30096,7 +30024,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "46.21.82.0/25",
+    "network": "46.21.82.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -30553,12 +30481,6 @@
   },
   {
     "network": "46.33.72.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "46.33.76.0/22",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -32436,7 +32358,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "46.203.46.20/31",
+    "network": "46.203.46.20/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -32448,7 +32370,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "46.203.46.164/31",
+    "network": "46.203.46.144/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "46.203.46.160/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -41088,7 +41016,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "51.102.70.192/27",
+    "network": "51.102.70.192/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -41100,7 +41028,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "51.102.103.32/28",
+    "network": "51.102.103.32/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -41130,7 +41058,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "51.102.251.32/27",
+    "network": "51.102.251.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -51564,37 +51492,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "62.67.64.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "62.67.66.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "62.67.68.0/25",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "62.67.68.128/28",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "62.67.68.160/27",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "62.67.68.192/26",
+    "network": "62.67.66.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -51948,6 +51846,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "62.67.207.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "62.67.208.0/24",
     "continent_code": "EU",
     "country_code": "DE",
@@ -52081,6 +51985,12 @@
   },
   {
     "network": "62.67.214.192/26",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "62.67.215.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -55470,12 +55380,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "62.75.236.0/25",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "62.75.237.0/30",
     "continent_code": "EU",
     "country_code": "DE",
@@ -56755,12 +56659,6 @@
   },
   {
     "network": "62.96.41.120/29",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "62.96.41.144/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -67200,7 +67098,19 @@
     "country_name": "Germany"
   },
   {
+    "network": "62.238.0.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "62.238.2.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "62.238.4.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -67429,6 +67339,12 @@
   },
   {
     "network": "63.142.5.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "63.142.6.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -71923,6 +71839,12 @@
   },
   {
     "network": "72.56.122.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "72.56.126.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -77304,7 +77226,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "77.239.106.16/28",
+    "network": "77.239.106.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "77.239.113.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -79530,7 +79458,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "79.143.176.0/20",
+    "network": "79.143.176.0/22",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "79.143.182.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "79.143.184.0/21",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -80035,6 +79975,12 @@
   },
   {
     "network": "80.67.22.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "80.67.24.0/22",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -88242,12 +88188,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "81.17.100.0/22",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "81.17.104.0/21",
     "continent_code": "EU",
     "country_code": "DE",
@@ -89922,7 +89862,19 @@
     "country_name": "Germany"
   },
   {
+    "network": "82.21.21.128/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "82.21.21.134/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "82.21.21.144/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -90642,13 +90594,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "82.26.141.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "82.26.142.0/23",
+    "network": "82.26.143.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -91255,6 +91201,12 @@
   },
   {
     "network": "82.47.224.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "82.47.232.0/21",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -92460,7 +92412,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "82.115.19.128/26",
+    "network": "82.115.19.128/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -93120,7 +93072,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "82.152.98.0/29",
+    "network": "82.152.98.0/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -93186,7 +93138,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "82.158.120.168/30",
+    "network": "82.158.120.168/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -93198,19 +93150,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "82.158.120.192/30",
+    "network": "82.158.120.192/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
     "network": "82.158.120.200/29",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "82.158.120.208/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -97962,7 +97908,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "84.19.175.160/27",
+    "network": "84.19.175.128/26",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -98406,7 +98352,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "84.46.244.0/24",
+    "network": "84.46.242.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "84.46.244.0/25",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -109080,12 +109032,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "87.76.167.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "87.76.171.0/24",
     "continent_code": "EU",
     "country_code": "DE",
@@ -110857,6 +110803,12 @@
   },
   {
     "network": "87.230.82.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "87.230.88.0/21",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -114414,7 +114366,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "89.124.251.192/29",
+    "network": "89.124.251.192/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -115020,6 +114972,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "89.149.128.0/20",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "89.149.144.0/22",
     "continent_code": "EU",
     "country_code": "DE",
@@ -115602,6 +115560,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "89.167.2.0/26",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "89.167.2.128/25",
     "continent_code": "EU",
     "country_code": "DE",
@@ -115693,6 +115657,24 @@
   },
   {
     "network": "89.167.93.0/25",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "89.167.93.128/26",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "89.167.93.192/28",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "89.167.93.224/27",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -118056,12 +118038,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "91.132.8.0/22",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "91.132.50.0/23",
     "continent_code": "EU",
     "country_code": "DE",
@@ -118159,6 +118135,12 @@
   },
   {
     "network": "91.134.113.52/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "91.134.115.0/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -122646,6 +122628,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "92.60.252.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "92.60.254.0/24",
     "continent_code": "EU",
     "country_code": "DE",
@@ -122743,12 +122731,6 @@
   },
   {
     "network": "92.118.23.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "92.118.50.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -123475,18 +123457,6 @@
   },
   {
     "network": "92.204.72.0/21",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "92.204.90.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "92.204.92.0/22",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -136446,7 +136416,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "95.85.252.48/29",
+    "network": "95.85.252.48/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -137610,7 +137580,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "95.177.109.32/30",
+    "network": "95.177.109.32/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -143706,7 +143676,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "96.45.39.138/31",
+    "network": "96.45.39.138/32",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -151236,6 +151206,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "107.149.156.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "107.149.184.0/24",
     "continent_code": "EU",
     "country_code": "DE",
@@ -153336,6 +153312,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "128.1.120.14/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "128.1.120.46/31",
     "continent_code": "EU",
     "country_code": "DE",
@@ -153348,13 +153330,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "128.1.120.60/30",
+    "network": "128.1.120.62/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "128.1.120.72/31",
+    "network": "128.1.120.72/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -153372,13 +153354,19 @@
     "country_name": "Germany"
   },
   {
+    "network": "128.1.120.188/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "128.1.120.194/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "128.1.120.230/31",
+    "network": "128.1.120.228/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -153390,13 +153378,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "128.1.121.4/30",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "128.1.121.10/31",
+    "network": "128.1.121.4/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -153420,12 +153402,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "128.1.121.52/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "128.1.121.60/30",
     "continent_code": "EU",
     "country_code": "DE",
@@ -153438,7 +153414,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "128.1.121.80/30",
+    "network": "128.1.121.90/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -153450,7 +153426,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "128.1.121.116/30",
+    "network": "128.1.121.118/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -153462,7 +153438,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "128.1.121.132/31",
+    "network": "128.1.121.128/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -153480,7 +153456,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "128.1.121.154/31",
+    "network": "128.1.121.152/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "128.1.121.166/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -153498,13 +153480,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "128.1.121.202/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "128.1.121.208/29",
+    "network": "128.1.121.212/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -153522,7 +153498,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "128.1.121.240/30",
+    "network": "128.1.121.240/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -153552,19 +153528,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "128.1.123.184/29",
+    "network": "128.1.123.184/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
     "network": "128.1.123.206/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "128.1.123.208/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -155238,19 +155208,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "130.185.120.184/29",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "130.185.120.208/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "130.185.120.224/27",
+    "network": "130.185.120.224/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -155268,13 +155232,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "130.185.123.8/30",
+    "network": "130.185.123.8/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "130.185.123.88/30",
+    "network": "130.185.123.52/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -158178,7 +158142,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "135.125.132.136/29",
+    "network": "135.125.132.128/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -159804,13 +159768,25 @@
     "country_name": "Germany"
   },
   {
+    "network": "135.132.144.0/20",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "135.136.0.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "135.136.19.24/30",
+    "network": "135.136.19.36/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "135.136.19.40/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -159822,7 +159798,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "135.136.19.60/31",
+    "network": "135.136.19.56/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -159852,7 +159828,19 @@
     "country_name": "Germany"
   },
   {
+    "network": "135.136.19.110/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "135.136.19.112/29",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "135.136.19.120/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -159864,19 +159852,13 @@
     "country_name": "Germany"
   },
   {
+    "network": "135.136.19.160/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "135.136.19.164/30",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "135.136.19.186/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "135.136.19.198/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -159888,19 +159870,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "135.136.19.208/29",
+    "network": "135.136.19.212/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
     "network": "135.136.19.226/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "135.136.19.230/31",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -164574,24 +164550,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "140.188.232.0/21",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "140.188.253.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "140.188.254.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "140.209.195.0/24",
     "continent_code": "EU",
     "country_code": "DE",
@@ -164904,7 +164862,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "141.11.45.248/29",
+    "network": "141.11.45.252/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -167118,7 +167076,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "143.14.125.230/31",
+    "network": "143.14.125.224/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -167130,7 +167088,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "143.14.125.250/31",
+    "network": "143.14.125.248/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -167598,7 +167556,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "144.31.62.128/25",
+    "network": "144.31.62.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -167904,13 +167862,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "144.31.254.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "144.31.255.0/26",
+    "network": "144.31.254.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -168997,12 +168949,6 @@
   },
   {
     "network": "145.79.199.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "145.79.224.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -175110,12 +175056,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "149.120.200.0/21",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "149.126.43.240/28",
     "continent_code": "EU",
     "country_code": "DE",
@@ -178272,7 +178212,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "151.241.48.0/22",
+    "network": "151.241.48.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "151.241.50.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -178333,12 +178279,6 @@
   },
   {
     "network": "151.241.178.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "151.241.209.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -178980,42 +178920,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "152.53.34.128/29",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "152.53.34.136/30",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "152.53.34.140/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "152.53.34.143/32",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "152.53.34.144/28",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "152.53.34.160/27",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "152.53.35.0/24",
     "continent_code": "EU",
     "country_code": "DE",
@@ -179094,7 +178998,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "152.53.138.192/26",
+    "network": "152.53.138.128/25",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -179616,7 +179520,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "153.53.60.192/26",
+    "network": "153.53.60.128/25",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -179628,13 +179532,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "153.53.62.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "153.53.63.192/26",
+    "network": "153.53.62.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -179760,7 +179658,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "153.76.112.72/29",
+    "network": "153.76.112.76/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -184182,7 +184080,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "154.91.170.128/27",
+    "network": "154.91.170.152/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -185118,12 +185016,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "155.133.31.192/26",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "155.133.64.0/24",
     "continent_code": "EU",
     "country_code": "DE",
@@ -185209,12 +185101,6 @@
   },
   {
     "network": "155.133.250.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "155.140.104.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -186001,6 +185887,12 @@
   },
   {
     "network": "156.246.30.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "156.248.80.0/22",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -194616,12 +194508,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "162.120.253.192/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "162.120.253.194/32",
     "continent_code": "EU",
     "country_code": "DE",
@@ -194838,7 +194724,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "162.249.126.0/27",
+    "network": "162.249.126.0/26",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -197664,12 +197550,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "169.40.14.6/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "169.40.14.8/29",
     "continent_code": "EU",
     "country_code": "DE",
@@ -197688,25 +197568,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "169.40.14.68/30",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "169.40.14.72/29",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "169.40.14.80/28",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "169.40.14.96/27",
+    "network": "169.40.14.64/26",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -197724,7 +197586,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "169.40.32.32/28",
+    "network": "169.40.32.36/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -199794,12 +199656,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "173.82.127.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "173.82.128.0/23",
     "continent_code": "EU",
     "country_code": "DE",
@@ -200082,7 +199938,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "173.245.206.64/26",
+    "network": "173.245.206.64/28",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "173.245.206.80/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -201990,7 +201852,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "178.17.57.0/24",
+    "network": "178.17.57.128/25",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -202069,6 +201931,12 @@
   },
   {
     "network": "178.18.156.0/22",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "178.18.240.0/21",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -204450,7 +204318,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "179.254.90.0/23",
+    "network": "179.253.179.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -204937,6 +204805,12 @@
   },
   {
     "network": "184.174.39.160/27",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "184.174.39.224/27",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -210816,19 +210690,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "185.58.31.32/27",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "185.58.31.64/26",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "185.58.31.128/25",
+    "network": "185.58.31.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -215928,6 +215790,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "185.132.46.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "185.132.54.128/25",
     "continent_code": "EU",
     "country_code": "DE",
@@ -217171,6 +217039,12 @@
   },
   {
     "network": "185.146.60.0/22",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "185.146.71.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -219402,7 +219276,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "185.175.196.0/22",
+    "network": "185.175.198.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -221202,6 +221076,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "185.202.113.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "185.202.132.28/30",
     "continent_code": "EU",
     "country_code": "DE",
@@ -221623,12 +221503,6 @@
   },
   {
     "network": "185.208.204.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "185.208.236.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -223224,7 +223098,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "185.231.59.176/28",
+    "network": "185.231.59.160/27",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -223842,12 +223716,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "185.240.172.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "185.240.173.0/25",
     "continent_code": "EU",
     "country_code": "DE",
@@ -224353,30 +224221,6 @@
   },
   {
     "network": "185.246.222.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "185.246.238.64/26",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "185.246.238.128/26",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "185.246.239.64/26",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "185.246.239.192/26",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -225138,7 +224982,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "187.124.172.0/22",
+    "network": "187.124.168.0/21",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -230676,7 +230520,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "189.24.106.0/26",
+    "network": "189.24.106.32/27",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -230754,7 +230598,25 @@
     "country_name": "Germany"
   },
   {
-    "network": "189.25.103.160/28",
+    "network": "189.25.103.160/29",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "189.25.103.168/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "189.25.103.172/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "189.25.103.175/32",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -230808,7 +230670,37 @@
     "country_name": "Germany"
   },
   {
-    "network": "189.25.103.208/28",
+    "network": "189.25.103.208/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "189.25.103.212/32",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "189.25.103.214/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "189.25.103.216/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "189.25.103.220/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "189.25.103.223/32",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -232206,7 +232098,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "192.91.186.0/25",
+    "network": "192.91.186.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -235308,24 +235200,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "193.27.19.4/30",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "193.27.19.16/28",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "193.27.19.32/27",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "193.27.19.64/27",
     "continent_code": "EU",
     "country_code": "DE",
@@ -237361,12 +237235,6 @@
   },
   {
     "network": "193.70.102.52/30",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "193.70.102.128/25",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -241200,6 +241068,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "193.180.12.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "193.180.116.0/23",
     "continent_code": "EU",
     "country_code": "DE",
@@ -241272,7 +241146,19 @@
     "country_name": "Germany"
   },
   {
+    "network": "193.182.248.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "193.183.72.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "193.183.136.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -243450,12 +243336,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "193.240.142.32/27",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "193.240.144.64/27",
     "continent_code": "EU",
     "country_code": "DE",
@@ -243504,6 +243384,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "193.240.148.240/29",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "193.240.150.0/28",
     "continent_code": "EU",
     "country_code": "DE",
@@ -243523,6 +243409,12 @@
   },
   {
     "network": "193.240.155.240/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "193.240.157.224/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -260532,6 +260424,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "195.63.17.72/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "195.63.17.80/28",
     "continent_code": "EU",
     "country_code": "DE",
@@ -261631,12 +261529,6 @@
   },
   {
     "network": "195.72.44.0/22",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "195.72.62.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -273132,12 +273024,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "204.168.133.0/25",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "204.168.134.0/23",
     "continent_code": "EU",
     "country_code": "DE",
@@ -273181,6 +273067,12 @@
   },
   {
     "network": "204.168.218.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "204.168.220.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -273984,7 +273876,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "206.251.50.128/25",
+    "network": "206.251.50.192/26",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -274230,7 +274122,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "207.244.208.0/22",
+    "network": "207.244.209.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "207.244.210.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -274626,7 +274524,31 @@
     "country_name": "Germany"
   },
   {
-    "network": "208.127.2.0/27",
+    "network": "208.127.2.1/32",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.2.2/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.2.4/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.2.8/29",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.2.16/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -274680,7 +274602,43 @@
     "country_name": "Germany"
   },
   {
-    "network": "208.127.2.128/25",
+    "network": "208.127.2.128/26",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.2.192/27",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.2.224/28",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.2.240/29",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.2.248/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.2.252/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.2.254/32",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -275010,12 +274968,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "208.127.96.0/32",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "208.127.96.71/32",
     "continent_code": "EU",
     "country_code": "DE",
@@ -275046,13 +274998,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "208.127.96.248/29",
+    "network": "208.127.96.248/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "208.127.97.0/32",
+    "network": "208.127.96.252/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.96.254/32",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -275088,13 +275046,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "208.127.97.248/29",
+    "network": "208.127.97.248/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "208.127.98.0/32",
+    "network": "208.127.97.252/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.97.254/32",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -275130,13 +275094,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "208.127.98.248/29",
+    "network": "208.127.98.248/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "208.127.99.0/32",
+    "network": "208.127.98.252/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.98.254/32",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -275172,13 +275142,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "208.127.99.248/29",
+    "network": "208.127.99.248/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "208.127.100.0/32",
+    "network": "208.127.99.252/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.99.254/32",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -275214,13 +275190,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "208.127.100.248/29",
+    "network": "208.127.100.248/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "208.127.101.0/32",
+    "network": "208.127.100.252/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.100.254/32",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -275256,7 +275238,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "208.127.101.248/29",
+    "network": "208.127.101.248/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.101.252/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "208.127.101.254/32",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -278676,12 +278670,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "212.31.225.248/29",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "212.31.231.16/30",
     "continent_code": "EU",
     "country_code": "DE",
@@ -279738,73 +279726,37 @@
     "country_name": "Germany"
   },
   {
-    "network": "212.53.128.0/20",
+    "network": "212.53.128.0/19",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "212.53.144.0/22",
+    "network": "212.53.160.0/20",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "212.53.149.0/24",
+    "network": "212.53.176.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "212.53.150.0/23",
+    "network": "212.53.178.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "212.53.152.0/24",
+    "network": "212.53.180.0/22",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "212.53.154.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "212.53.156.0/22",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "212.53.160.0/22",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "212.53.164.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "212.53.166.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "212.53.168.0/21",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "212.53.176.0/20",
+    "network": "212.53.184.0/21",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -284514,13 +284466,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "212.168.42.146/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "212.168.42.172/30",
+    "network": "212.168.42.192/26",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -285540,7 +285486,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "212.221.32.224/28",
+    "network": "212.221.32.224/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -285738,7 +285684,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "212.221.57.192/26",
+    "network": "212.221.57.192/28",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "212.221.57.224/27",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -286110,7 +286062,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "212.221.111.144/28",
+    "network": "212.221.111.144/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -300996,12 +300948,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "216.57.108.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "216.58.215.0/24",
     "continent_code": "EU",
     "country_code": "DE",
@@ -310290,12 +310236,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "217.148.96.0/21",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "217.148.128.0/22",
     "continent_code": "EU",
     "country_code": "DE",
@@ -311065,12 +311005,6 @@
   },
   {
     "network": "217.154.48.0/27",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "217.154.51.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -312120,19 +312054,91 @@
     "country_name": "Germany"
   },
   {
-    "network": "217.160.208.0/20",
+    "network": "217.160.208.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "217.160.224.0/23",
+    "network": "217.160.210.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "217.160.232.0/23",
+    "network": "217.160.212.0/22",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.216.0/22",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.220.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.222.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.224.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.226.0/27",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.226.32/29",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.226.40/32",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.226.42/31",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.226.44/30",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.226.48/28",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.226.64/26",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.226.128/25",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -312144,7 +312150,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "217.160.236.0/23",
+    "network": "217.160.236.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.237.128/25",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -312156,7 +312168,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "217.160.240.0/21",
+    "network": "217.160.240.0/22",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.244.0/24",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.160.246.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -313020,13 +313044,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "217.181.85.0/29",
+    "network": "217.181.85.0/28",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "217.181.86.112/29",
+    "network": "217.181.86.112/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -313038,19 +313062,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "217.181.86.180/31",
+    "network": "217.181.86.180/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "217.181.91.254/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "217.181.92.190/31",
+    "network": "217.181.92.188/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -313464,19 +313482,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "217.204.32.0/23",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "217.204.35.0/24",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "217.204.60.0/24",
+    "network": "217.204.32.0/24",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -313524,13 +313530,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "217.205.120.0/23",
+    "network": "217.205.96.0/20",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "217.205.124.0/22",
+    "network": "217.205.120.0/23",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -313579,6 +313585,12 @@
   },
   {
     "network": "217.205.188.0/23",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "217.205.208.0/22",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -314658,7 +314670,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "223.121.15.200/31",
+    "network": "223.121.15.200/29",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -314670,13 +314682,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "223.121.15.218/31",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "223.121.15.220/31",
+    "network": "223.121.15.216/30",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -351696,6 +351702,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a0b:2900:1000::/39",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a0b:2900:1c00::/39",
     "continent_code": "EU",
     "country_code": "DE",
@@ -356983,12 +356995,6 @@
   },
   {
     "network": "2a0b:21c1:6100::/40",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a0b:2900:1000::/40",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -389994,12 +390000,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2001:41d0:730::/46",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2001:4b88:9004::/46",
     "continent_code": "EU",
     "country_code": "DE",
@@ -396258,6 +396258,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2001:41d0:730::/47",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2001:4b88:800::/47",
     "continent_code": "EU",
     "country_code": "DE",
@@ -396307,6 +396313,12 @@
   },
   {
     "network": "2001:4d40:8404::/47",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2001:4d40:840a::/47",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -398443,12 +398455,6 @@
   },
   {
     "network": "2a02:6bf:fa26::/47",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a02:6bf:fa28::/47",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -406165,6 +406171,12 @@
   },
   {
     "network": "2001:470:7610::/48",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2001:470:7619::/48",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -424314,6 +424326,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a0e:97c0:4c1::/48",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a0e:97c0:520::/48",
     "continent_code": "EU",
     "country_code": "DE",
@@ -433254,12 +433272,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:4780:79:2000::/51",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a03:57e0:a:2000::/51",
     "continent_code": "EU",
     "country_code": "DE",
@@ -435576,6 +435588,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:4780:79:3000::/52",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:4780:79:5000::/52",
     "continent_code": "EU",
     "country_code": "DE",
@@ -435787,12 +435805,6 @@
   },
   {
     "network": "2a09:5e00:0:1000::/52",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a0a:4cc0:c0:2000::/52",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -438084,6 +438096,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2800::/53",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:6b:3800::/53",
     "continent_code": "EU",
     "country_code": "DE",
@@ -438565,6 +438583,12 @@
   },
   {
     "network": "2a09:5e00:0:800::/53",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a0a:4cc0:c0:2000::/53",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -443142,6 +443166,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3070:f800::/54",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3071:f400::/54",
     "continent_code": "EU",
     "country_code": "DE",
@@ -443646,19 +443676,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a0a:4cc0:c0:bc00::/54",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a0a:4cc0:c1:3000::/54",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a0a:4cc0:c1:4800::/54",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -446736,6 +446754,18 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a0a:4cc0:c0:bc00::/55",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a0a:4cc0:c1:4a00::/55",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a0a:51c0:0:200::/55",
     "continent_code": "EU",
     "country_code": "DE",
@@ -447258,12 +447288,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a0e:97c0:4c1::/55",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a0e:97c0:527:3400::/55",
     "continent_code": "EU",
     "country_code": "DE",
@@ -447271,12 +447295,6 @@
   },
   {
     "network": "2a0e:97c0:52a:3400::/55",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a0e:97c0:711::/55",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -449820,6 +449838,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2700::/56",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:5a:4700::/56",
     "continent_code": "EU",
     "country_code": "DE",
@@ -451392,12 +451416,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a12:bec4:1480:100::/56",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a13:a5c7:25ff:3800::/56",
     "continent_code": "EU",
     "country_code": "DE",
@@ -452287,6 +452305,12 @@
   },
   {
     "network": "2a01:4f9:4a:5680::/57",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2680::/57",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -453289,6 +453313,12 @@
   },
   {
     "network": "2a0e:97c0:52a:3680::/57",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a0e:97c0:711:180::/57",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -454686,12 +454716,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec58:fc40::/58",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a02:26f7:ec5c:f80::/58",
     "continent_code": "EU",
     "country_code": "DE",
@@ -455412,12 +455436,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a0e:97c0:3e3:c0::/58",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a0e:97c0:527:3600::/58",
     "continent_code": "EU",
     "country_code": "DE",
@@ -455641,6 +455659,12 @@
   },
   {
     "network": "2a11:4143:4001:40::/58",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a12:bec4:1480:180::/58",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -457386,19 +457410,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec44:66a0::/59",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a02:26f7:ec44:66c0::/59",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a02:26f7:ec44:6720::/59",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -457608,12 +457620,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec54:66a0::/59",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a02:26f7:ec54:66c0::/59",
     "continent_code": "EU",
     "country_code": "DE",
@@ -457680,12 +457686,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec58:6720::/59",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a02:26f7:ec58:6760::/59",
     "continent_code": "EU",
     "country_code": "DE",
@@ -457705,6 +457705,12 @@
   },
   {
     "network": "2a02:26f7:ec58:fc20::/59",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec58:fc40::/59",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -457735,12 +457741,6 @@
   },
   {
     "network": "2a02:26f7:ec5c:66c0::/59",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a02:26f7:ec5c:6720::/59",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -457788,19 +457788,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec60:66a0::/59",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a02:26f7:ec60:66c0::/59",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a02:26f7:ec60:6720::/59",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -458569,6 +458557,12 @@
   },
   {
     "network": "2a0e:8f02:1028:20::/59",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a0e:97c0:3e3:c0::/59",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -460470,12 +460464,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:2a:f10::/60",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:2a:f60::/60",
     "continent_code": "EU",
     "country_code": "DE",
@@ -461557,6 +461545,12 @@
   },
   {
     "network": "2a01:4f9:4b:1eb0::/60",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24f0::/60",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -464538,12 +464532,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3051:5490::/60",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3051:54b0::/60",
     "continent_code": "EU",
     "country_code": "DE",
@@ -466506,12 +466494,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:3da0::/60",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:3eb0::/60",
     "continent_code": "EU",
     "country_code": "DE",
@@ -466969,12 +466951,6 @@
   },
   {
     "network": "2a01:4f9:3090:2210::/60",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3090:2250::/60",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -468948,6 +468924,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3120:18c0::/60",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3120:18f0::/60",
     "continent_code": "EU",
     "country_code": "DE",
@@ -469158,7 +469140,19 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec44:66b0::/60",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec44:6700::/60",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec44:6720::/60",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -469350,6 +469344,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec54:66b0::/60",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec54:6700::/60",
     "continent_code": "EU",
     "country_code": "DE",
@@ -469404,6 +469404,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec58:6720::/60",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec58:6750::/60",
     "continent_code": "EU",
     "country_code": "DE",
@@ -469428,6 +469434,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec58:fc70::/60",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec5c:6630::/60",
     "continent_code": "EU",
     "country_code": "DE",
@@ -469447,6 +469459,12 @@
   },
   {
     "network": "2a02:26f7:ec5c:6700::/60",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec5c:6720::/60",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -469488,13 +469506,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec60:6690::/60",
+    "network": "2a02:26f7:ec60:66a0::/60",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
     "network": "2a02:26f7:ec60:6700::/60",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec60:6720::/60",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -474006,6 +474030,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:2a:f18::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:2a:f28::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -475639,6 +475669,18 @@
   },
   {
     "network": "2a01:4f9:2b:1620::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2b:1688::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2b:1790::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -477991,6 +478033,12 @@
   },
   {
     "network": "2a01:4f9:4a:1238::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4a:1260::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -480456,12 +480504,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:1818::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:4b:1838::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -480756,6 +480798,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2038::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2050::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -480768,7 +480816,37 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2078::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20b8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20f8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2128::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2138::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2178::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -480786,7 +480864,49 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:21b8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21f8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2238::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2250::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2278::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22b8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22f8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2338::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -480798,13 +480918,91 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2378::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2398::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:23b8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:23d8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:23f8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2400::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2438::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2478::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24b8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2538::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2578::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25b8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25f8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2638::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2678::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -481093,12 +481291,6 @@
   },
   {
     "network": "2a01:4f9:5a:1180::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:5a:1190::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -483336,6 +483528,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:6a:4900::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:6a:49e8::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -484651,12 +484849,6 @@
   },
   {
     "network": "2a01:4f9:6b:4e78::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:6b:4e88::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -487074,6 +487266,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3070:1c90::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3070:1ca8::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -488017,12 +488215,6 @@
   },
   {
     "network": "2a01:4f9:3071:1520::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3071:1550::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -490260,12 +490452,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:33d8::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:3400::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -490326,12 +490512,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:3558::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:3568::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -490357,12 +490537,6 @@
   },
   {
     "network": "2a01:4f9:3081:3600::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:3640::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -490596,6 +490770,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3081:3da0::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3081:3db8::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -490603,18 +490783,6 @@
   },
   {
     "network": "2a01:4f9:3081:3df8::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:3e08::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:3e10::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -491334,12 +491502,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3090:1650::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3090:1680::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -491629,12 +491791,6 @@
   },
   {
     "network": "2a01:4f9:3090:2220::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3090:2248::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -492690,12 +492846,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3100:2010::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3100:2028::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -493512,12 +493662,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3100:3598::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3100:35e8::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -493615,12 +493759,6 @@
   },
   {
     "network": "2a01:4f9:3100:3a80::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3100:3a90::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -493747,12 +493885,6 @@
   },
   {
     "network": "2a01:4f9:3100:3df8::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3100:3e08::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -494538,6 +494670,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec44:66a8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec44:66e0::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -494551,6 +494689,12 @@
   },
   {
     "network": "2a02:26f7:ec44:6718::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec44:6738::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -494730,12 +494874,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec50:6718::/61",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a02:26f7:ec50:6748::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -494773,6 +494911,12 @@
   },
   {
     "network": "2a02:26f7:ec54:6688::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec54:66a8::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -494850,7 +494994,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec58:6718::/61",
+    "network": "2a02:26f7:ec58:6738::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -494875,6 +495019,12 @@
   },
   {
     "network": "2a02:26f7:ec58:fc00::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec58:fc60::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -494911,6 +495061,12 @@
   },
   {
     "network": "2a02:26f7:ec5c:6718::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec5c:6738::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -494958,6 +495114,18 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec60:6698::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec60:66b8::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec60:66e0::/61",
     "continent_code": "EU",
     "country_code": "DE",
@@ -494971,6 +495139,12 @@
   },
   {
     "network": "2a02:26f7:ec60:6718::/61",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec60:6738::/61",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -495997,12 +496171,6 @@
   },
   {
     "network": "2001:470:1f0b:478::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2001:470:1f0b:d34::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -498511,12 +498679,6 @@
   },
   {
     "network": "2a01:4f9:1a:9e58::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:1a:9e94::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -501078,6 +501240,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:2a:a4c::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:2a:a5c::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -501426,12 +501594,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:2a:da4::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:2a:db4::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -501571,6 +501733,12 @@
   },
   {
     "network": "2a01:4f9:2a:ef4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2a:f14::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -504318,6 +504486,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:2a:2f0c::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:2a:2f20::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -504997,12 +505171,6 @@
   },
   {
     "network": "2a01:4f9:2b:2d8::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:2b:2e0::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -505932,6 +506100,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:2b:13ec::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:2b:1404::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -505956,6 +506130,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:2b:1444::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:2b:1454::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -505975,6 +506155,12 @@
   },
   {
     "network": "2a01:4f9:2b:1498::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2b:14d4::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -506173,6 +506359,12 @@
   },
   {
     "network": "2a01:4f9:2b:1750::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2b:1760::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -506556,6 +506748,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:2b:1de4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:2b:1e14::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -506586,6 +506784,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:2b:1fdc::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:2b:1fe4::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -506593,6 +506797,12 @@
   },
   {
     "network": "2a01:4f9:2b:2010::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2b:201c::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -512850,12 +513060,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3b:45a0::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3b:45c4::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -519060,12 +519264,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:15e0::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:4b:15f4::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -519271,6 +519469,12 @@
   },
   {
     "network": "2a01:4f9:4b:1814::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:1818::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -519930,6 +520134,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2034::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2048::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -519948,6 +520158,18 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2074::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2080::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:209c::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -519955,6 +520177,12 @@
   },
   {
     "network": "2a01:4f9:4b:20a0::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20b4::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -519996,6 +520224,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:20f4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2108::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -520009,6 +520243,12 @@
   },
   {
     "network": "2a01:4f9:4b:2120::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2134::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -520032,6 +520272,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2174::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2184::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -520045,6 +520291,12 @@
   },
   {
     "network": "2a01:4f9:4b:219c::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21b4::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -520074,6 +520326,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:21f4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:220c::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -520086,7 +520344,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2220::/62",
+    "network": "2a01:4f9:4b:2234::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -520098,13 +520356,31 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2274::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:229c::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:22b4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:22d0::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22f4::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -520140,6 +520416,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2334::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2348::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -520147,6 +520429,12 @@
   },
   {
     "network": "2a01:4f9:4b:2350::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2374::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -520170,6 +520458,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:23b4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:23c4::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -520182,7 +520476,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2404::/62",
+    "network": "2a01:4f9:4b:23f4::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -520212,6 +520506,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2434::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2444::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -520236,6 +520536,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2474::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:24a0::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -520243,6 +520549,12 @@
   },
   {
     "network": "2a01:4f9:4b:24a8::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24b4::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -520284,6 +520596,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2534::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:254c::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -520302,6 +520620,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2574::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:258c::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -520315,6 +520639,12 @@
   },
   {
     "network": "2a01:4f9:4b:25ac::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25b4::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -520344,6 +520674,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:25f4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2608::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -520357,6 +520693,30 @@
   },
   {
     "network": "2a01:4f9:4b:2628::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2634::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2664::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2668::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2674::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -521496,6 +521856,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:50c4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:50cc::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -521503,6 +521869,12 @@
   },
   {
     "network": "2a01:4f9:4b:50d8::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:5104::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -522720,12 +523092,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:5a:1d18::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:5a:1d24::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -522877,6 +523243,12 @@
   },
   {
     "network": "2a01:4f9:5a:1eb4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:5a:1ec0::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -524424,12 +524796,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:5a:4d08::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:5a:4d10::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -525816,6 +526182,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:6a:18d4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:6a:18dc::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -526758,12 +527130,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:6a:4660::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:6a:466c::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -526771,6 +527137,12 @@
   },
   {
     "network": "2a01:4f9:6a:4688::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:6a:4698::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -526962,7 +527334,19 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:6a:49d8::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:6a:49e4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:6a:4a04::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -527532,12 +527916,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:6a:5244::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:6a:524c::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -527574,12 +527952,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:6a:52ec::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:6a:5308::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -527599,12 +527971,6 @@
   },
   {
     "network": "2a01:4f9:6a:5320::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:6a:534c::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -527671,12 +528037,6 @@
   },
   {
     "network": "2a01:4f9:6a:5464::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:6a:5484::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -529219,12 +529579,6 @@
   },
   {
     "network": "2a01:4f9:6b:2780::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:6b:2788::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -532663,12 +533017,6 @@
   },
   {
     "network": "2a01:4f9:3051:3b88::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3051:3b9c::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -537066,6 +537414,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3071:1164::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3071:1174::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -537319,12 +537673,6 @@
   },
   {
     "network": "2a01:4f9:3071:1544::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3071:154c::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -537895,6 +538243,12 @@
   },
   {
     "network": "2a01:4f9:3071:1dc0::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:3071:1dd4::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -539472,6 +539826,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3080:1260::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3080:1268::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -540030,6 +540390,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3080:2514::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3080:2518::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -540115,6 +540481,12 @@
   },
   {
     "network": "2a01:4f9:3080:2660::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:3080:2688::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -540804,6 +541176,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3080:30c8::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3080:30e0::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -541159,12 +541537,6 @@
   },
   {
     "network": "2a01:4f9:3080:35e0::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3080:3610::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -542814,18 +543186,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:3660::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:3690::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:36ac::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -543042,12 +543402,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:3b28::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:3b34::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -543132,12 +543486,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:3ca4::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:3cac::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -543205,12 +543553,6 @@
   },
   {
     "network": "2a01:4f9:3081:3d68::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:3d94::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -543810,18 +544152,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:4f04::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:4f10::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:4f48::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -543829,12 +544159,6 @@
   },
   {
     "network": "2a01:4f9:3081:4f54::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:4f6c::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -544308,12 +544632,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:5594::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:559c::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -544423,12 +544741,6 @@
   },
   {
     "network": "2a01:4f9:3090:104c::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3090:1050::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -544795,12 +545107,6 @@
   },
   {
     "network": "2a01:4f9:3090:1620::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3090:162c::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -545185,12 +545491,6 @@
   },
   {
     "network": "2a01:4f9:3090:1f20::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3090:1f28::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -548034,12 +548334,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3100:2e8c::/62",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3100:2ea0::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -548341,6 +548635,12 @@
   },
   {
     "network": "2a01:4f9:3100:33c4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:3100:33cc::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -549876,6 +550176,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3120:1698::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3120:16a0::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -549966,13 +550272,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3120:1900::/62",
+    "network": "2a01:4f9:3120:18e8::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3120:190c::/62",
+    "network": "2a01:4f9:3120:1900::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -550308,6 +550614,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec44:66a4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec44:66ec::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -550321,6 +550633,12 @@
   },
   {
     "network": "2a02:26f7:ec44:6710::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec44:6730::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -550387,6 +550705,12 @@
   },
   {
     "network": "2a02:26f7:ec48:6744::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec48:6798::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -550500,13 +550824,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec50:6744::/62",
+    "network": "2a02:26f7:ec50:671c::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec50:6798::/62",
+    "network": "2a02:26f7:ec50:6744::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -550542,6 +550866,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec54:66a4::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec54:66ec::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -550561,6 +550891,12 @@
   },
   {
     "network": "2a02:26f7:ec54:6744::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec54:6798::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -550614,7 +550950,25 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec58:671c::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec58:6730::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec58:6744::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec58:6798::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -550627,6 +550981,12 @@
   },
   {
     "network": "2a02:26f7:ec58:fc0c::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec58:fc6c::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -550663,6 +551023,12 @@
   },
   {
     "network": "2a02:26f7:ec5c:6710::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec5c:6730::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -550710,6 +551076,18 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec60:6694::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec60:66b0::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec60:66ec::/62",
     "continent_code": "EU",
     "country_code": "DE",
@@ -550723,6 +551101,12 @@
   },
   {
     "network": "2a02:26f7:ec60:6710::/62",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec60:6730::/62",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -552859,6 +553243,12 @@
   },
   {
     "network": "2001:470:1f0b:cce::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2001:470:1f0b:d36::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -560892,12 +561282,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:2a:c54::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:2a:c58::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -560977,6 +561361,12 @@
   },
   {
     "network": "2a01:4f9:2a:d0e::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2a:d14::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -564402,12 +564792,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:2a:241e::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:2a:242c::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -565885,12 +566269,6 @@
   },
   {
     "network": "2a01:4f9:2a:2d1c::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:2a:2d26::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -569568,6 +569946,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:2b:12e8::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:2b:1302::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -570132,6 +570516,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:2b:176c::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:2b:1770::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -570145,6 +570535,18 @@
   },
   {
     "network": "2a01:4f9:2b:178e::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2b:1798::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2b:179e::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -570211,6 +570613,12 @@
   },
   {
     "network": "2a01:4f9:2b:17e6::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2b:17ec::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -571104,6 +571512,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:2b:1f90::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:2b:1f98::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -571111,6 +571525,12 @@
   },
   {
     "network": "2a01:4f9:2b:1f9c::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:2b:1fa2::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -572022,12 +572442,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:2b:25f0::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:2b:2612::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -572449,12 +572863,6 @@
   },
   {
     "network": "2a01:4f9:2b:298c::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:2b:2990::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -577788,6 +578196,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3a:2c6a::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3a:2c6e::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -580933,6 +581347,12 @@
   },
   {
     "network": "2a01:4f9:3b:1cde::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:3b:1ce8::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -584490,6 +584910,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3b:44f0::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3b:4514::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -584773,12 +585199,6 @@
   },
   {
     "network": "2a01:4f9:3b:475c::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3b:4760::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -596208,12 +596628,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:13c6::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:4b:13c8::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -596905,6 +597319,12 @@
   },
   {
     "network": "2a01:4f9:4b:1810::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:181c::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598176,6 +598596,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2032::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2042::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -598206,7 +598632,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2082::/63",
+    "network": "2a01:4f9:4b:2072::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598260,6 +598686,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:20b2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:20c2::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -598273,6 +598705,12 @@
   },
   {
     "network": "2a01:4f9:4b:20d2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20f2::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598297,6 +598735,12 @@
   },
   {
     "network": "2a01:4f9:4b:2124::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2132::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598344,6 +598788,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2172::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2182::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -598368,7 +598818,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:21b0::/63",
+    "network": "2a01:4f9:4b:21b2::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598416,6 +598866,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:21f2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2202::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -598428,6 +598884,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2208::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2212::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -598435,6 +598897,12 @@
   },
   {
     "network": "2a01:4f9:4b:2216::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2222::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598453,6 +598921,12 @@
   },
   {
     "network": "2a01:4f9:4b:222c::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2232::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598482,7 +598956,13 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2270::/63",
+    "network": "2a01:4f9:4b:226e::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2272::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598518,7 +598998,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:22ac::/63",
+    "network": "2a01:4f9:4b:22a8::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22ae::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22b2::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598578,6 +599070,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:22f2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2302::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -598614,7 +599112,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2330::/63",
+    "network": "2a01:4f9:4b:2332::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598644,6 +599142,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2362::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:236a::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -598656,7 +599160,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2370::/63",
+    "network": "2a01:4f9:4b:2372::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598698,6 +599202,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:23b2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:23c2::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -598705,6 +599215,12 @@
   },
   {
     "network": "2a01:4f9:4b:23c8::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:23cc::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598734,7 +599250,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2402::/63",
+    "network": "2a01:4f9:4b:23f2::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598776,7 +599292,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2430::/63",
+    "network": "2a01:4f9:4b:2432::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598801,6 +599317,12 @@
   },
   {
     "network": "2a01:4f9:4b:245e::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2472::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598843,6 +599365,12 @@
   },
   {
     "network": "2a01:4f9:4b:24ac::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24b2::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598914,7 +599442,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2530::/63",
+    "network": "2a01:4f9:4b:2532::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -598962,7 +599490,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2570::/63",
+    "network": "2a01:4f9:4b:2572::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -599022,6 +599550,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:25b2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:25c2::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -599064,6 +599598,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:25f2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:260e::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -599088,7 +599628,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2630::/63",
+    "network": "2a01:4f9:4b:2632::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -599124,13 +599664,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:2660::/63",
+    "network": "2a01:4f9:4b:266e::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:266e::/63",
+    "network": "2a01:4f9:4b:2672::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:38d6::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -599592,12 +600138,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:4b:3be8::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:4b:3c02::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -599617,6 +600157,12 @@
   },
   {
     "network": "2a01:4f9:4b:3c28::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:3c30::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -601014,6 +601560,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:4668::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:466c::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -602370,6 +602922,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:50c8::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:50de::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -602377,6 +602935,12 @@
   },
   {
     "network": "2a01:4f9:4b:50e2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:50ec::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -604369,12 +604933,6 @@
   },
   {
     "network": "2a01:4f9:5a:1a58::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:5a:1a5c::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -608604,6 +609162,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:5a:569a::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:5a:569c::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -609385,6 +609949,12 @@
   },
   {
     "network": "2a01:4f9:6a:15a4::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:6a:15a8::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -612198,6 +612768,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:6a:4918::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:6a:4926::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -612235,6 +612811,12 @@
   },
   {
     "network": "2a01:4f9:6a:4952::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:6a:4958::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -612294,6 +612876,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:6a:4990::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:6a:4996::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -612313,6 +612901,18 @@
   },
   {
     "network": "2a01:4f9:6a:49b2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:6a:49ba::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:6a:49cc::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -612348,6 +612948,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:6a:4a18::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:6a:4a1e::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -612355,6 +612961,12 @@
   },
   {
     "network": "2a01:4f9:6a:4a28::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:6a:4a2c::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -612457,6 +613069,12 @@
   },
   {
     "network": "2a01:4f9:6a:4b06::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:6a:4b08::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -613224,12 +613842,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:6a:50ca::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:6a:50cc::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -613704,12 +614316,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:6a:53ae::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:6a:53c2::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -613860,19 +614466,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:6a:54c8::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:6a:54d2::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:6a:54d8::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -614917,6 +615511,12 @@
   },
   {
     "network": "2a01:4f9:6b:154c::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:6b:1560::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -617058,12 +617658,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:6b:2408::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:6b:2414::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -617353,12 +617947,6 @@
   },
   {
     "network": "2a01:4f9:6b:264a::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:6b:2658::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -621672,6 +622260,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:6b:522a::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:6b:522c::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -623826,12 +624420,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3051:38e4::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3051:38e8::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -625033,6 +625621,12 @@
   },
   {
     "network": "2a01:4f9:3051:42d2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:3051:42d4::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -627690,6 +628284,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3070:13a8::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3070:13ee::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -628477,12 +629077,6 @@
   },
   {
     "network": "2a01:4f9:3070:1e28::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3070:1e4c::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -630492,6 +631086,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3070:33da::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3070:33e2::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -631140,6 +631740,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3071:130e::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3071:1322::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -631249,12 +631855,6 @@
   },
   {
     "network": "2a01:4f9:3071:1450::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3071:145a::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -631411,12 +632011,6 @@
   },
   {
     "network": "2a01:4f9:3071:158a::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3071:158c::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -631837,12 +632431,6 @@
   },
   {
     "network": "2a01:4f9:3071:194e::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3071:1950::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -636252,6 +636840,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3080:190c::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3080:19a0::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -637471,6 +638065,12 @@
   },
   {
     "network": "2a01:4f9:3080:2d02::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:3080:2d0a::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -639960,12 +640560,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3080:4e6c::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3080:4e86::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -640668,12 +641262,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:3124::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:312a::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -641292,12 +641880,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:3620::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:362c::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -641311,12 +641893,6 @@
   },
   {
     "network": "2a01:4f9:3081:364c::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:3652::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -642024,18 +642600,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:3dcc::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:3dd6::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:3de4::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -642067,12 +642631,6 @@
   },
   {
     "network": "2a01:4f9:3081:3e1c::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:3e20::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -642846,12 +643404,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3081:4ede::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3081:4ee0::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -642871,12 +643423,6 @@
   },
   {
     "network": "2a01:4f9:3081:4ef2::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3081:4f02::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -643824,12 +644370,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3090:1010::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3090:101c::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -643843,12 +644383,6 @@
   },
   {
     "network": "2a01:4f9:3090:102c::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3090:1040::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -644053,12 +644587,6 @@
   },
   {
     "network": "2a01:4f9:3090:11ec::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3090:1206::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -644466,12 +644994,6 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3090:1560::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3090:1564::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -644586,19 +645108,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3090:1664::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3090:166e::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3090:1688::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -644616,19 +645126,7 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a01:4f9:3090:169c::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
     "network": "2a01:4f9:3090:16a2::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a01:4f9:3090:16ac::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -644820,6 +645318,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3090:1a2a::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3090:1a46::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -644959,6 +645463,12 @@
   },
   {
     "network": "2a01:4f9:3090:1cd8::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:3090:1ce2::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -645109,6 +645619,12 @@
   },
   {
     "network": "2a01:4f9:3090:1f5a::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:3090:1f62::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -647311,6 +647827,12 @@
   },
   {
     "network": "2a01:4f9:3100:17c0::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:3100:17ca::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -650112,6 +650634,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3100:35e2::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3100:35e4::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -652548,6 +653076,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:3120:1884::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:3120:1894::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -652926,6 +653460,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec44:66a0::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec44:66ea::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -652939,6 +653479,12 @@
   },
   {
     "network": "2a02:26f7:ec44:6716::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec44:6734::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -653005,12 +653551,6 @@
   },
   {
     "network": "2a02:26f7:ec48:6742::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a02:26f7:ec48:6798::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -653130,7 +653670,19 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec50:6718::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec50:6742::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec50:6798::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -653172,6 +653724,12 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec54:66a0::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec54:66ea::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -653191,12 +653749,6 @@
   },
   {
     "network": "2a02:26f7:ec54:6742::/63",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2a02:26f7:ec54:6798::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -653256,13 +653808,19 @@
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec58:6742::/63",
+    "network": "2a02:26f7:ec58:6718::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
-    "network": "2a02:26f7:ec58:6798::/63",
+    "network": "2a02:26f7:ec58:6734::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec58:6742::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -653281,6 +653839,12 @@
   },
   {
     "network": "2a02:26f7:ec58:fc0a::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec58:fc68::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -653317,6 +653881,12 @@
   },
   {
     "network": "2a02:26f7:ec5c:6716::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec5c:6734::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -653364,6 +653934,18 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a02:26f7:ec60:6690::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec60:66b4::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a02:26f7:ec60:66ea::/63",
     "continent_code": "EU",
     "country_code": "DE",
@@ -653377,6 +653959,12 @@
   },
   {
     "network": "2a02:26f7:ec60:6716::/63",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a02:26f7:ec60:6734::/63",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -665677,12 +666265,6 @@
   },
   {
     "network": "2001:470:1f0b:d2f::/64",
-    "continent_code": "EU",
-    "country_code": "DE",
-    "country_name": "Germany"
-  },
-  {
-    "network": "2001:470:1f0b:d33::/64",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -706296,7 +706878,613 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:2000::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2003::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2015::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:201b::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2021::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2031::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2040::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2046::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:204d::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:205c::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2071::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2086::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2088::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20b1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20c0::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20cc::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20d1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20da::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20e5::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20ec::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20ee::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:20f1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2100::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2105::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2107::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:210f::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2111::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2131::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2140::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2149::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:214b::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:215a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:215d::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:215f::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2160::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2171::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2180::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:218f::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2198::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21a9::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21af::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21c0::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21c6::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21cd::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21d2::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21d8::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21da::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21e2::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:21f1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2200::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:220b::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2210::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2214::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2219::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:221a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2226::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2229::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:222f::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2231::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2240::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2245::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2246::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2248::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:224c::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:225e::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2262::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2267::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:226a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:226d::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2280::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2283::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2284::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:228a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2293::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2295::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2299::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22a1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22ab::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22b1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22c0::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22c3::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22d6::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22da::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22dc::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22e1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22e5::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:22f1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2300::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:230c::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2311::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2319::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:231d::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:232e::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2340::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2347::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:234f::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2354::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2365::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2367::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:236d::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2380::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:238f::/64",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
@@ -706308,13 +707496,493 @@
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:23a2::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:23b1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:23c0::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:23cb::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:23d3::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:23e5::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:23ed::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:23f1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:241f::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2424::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:242e::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2440::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:244c::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:244f::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:245d::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2460::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2463::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2465::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2466::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:246d::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:246e::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2471::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2480::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:248a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2493::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:249b::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:249c::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24a5::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24b1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24c0::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24c6::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24cc::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24ce::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24d9::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24e1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24e8::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:24eb::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2500::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2502::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2508::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:250a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2519::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:252a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2540::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2547::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2548::/64",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"
   },
   {
+    "network": "2a01:4f9:4b:254a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2550::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2565::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2566::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:256d::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2580::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2585::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2597::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:259a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:259c::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25ab::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25b1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25c0::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25cd::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25db::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25e4::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25ef::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:25f1::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2600::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2605::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2607::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2613::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2617::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:261a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:262c::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2640::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:264a::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:264c::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2651::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2652::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2654::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2656::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
     "network": "2a01:4f9:4b:2658::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2663::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:266c::/64",
+    "continent_code": "EU",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  {
+    "network": "2a01:4f9:4b:2671::/64",
     "continent_code": "EU",
     "country_code": "DE",
     "country_name": "Germany"

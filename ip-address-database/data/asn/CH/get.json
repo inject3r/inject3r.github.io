@@ -1168,6 +1168,14 @@
     "domain": "infomaniak.ch"
   },
   {
+    "network": "91.214.190.0/24",
+    "asn": "29222",
+    "country_code": "CH",
+    "name": "Infomaniak-AS",
+    "org": "Infomaniak Network SA",
+    "domain": "infomaniak.ch"
+  },
+  {
     "network": "93.88.240.0/20",
     "asn": "29222",
     "country_code": "CH",
@@ -1337,14 +1345,6 @@
   },
   {
     "network": "2001:1600::/32",
-    "asn": "29222",
-    "country_code": "CH",
-    "name": "Infomaniak-AS",
-    "org": "Infomaniak Network SA",
-    "domain": "infomaniak.ch"
-  },
-  {
-    "network": "2001:1600::/48",
     "asn": "29222",
     "country_code": "CH",
     "name": "Infomaniak-AS",
@@ -12416,422 +12416,6 @@
     "domain": "e-durable.ch"
   },
   {
-    "network": "45.136.136.0/22",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "45.136.138.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "103.189.238.0/23",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "103.189.238.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "103.189.239.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "103.190.102.0/23",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "103.190.102.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "103.190.103.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "143.246.178.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "143.246.179.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "193.33.94.0/23",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "193.33.94.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "193.33.95.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "193.163.86.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "194.50.92.0/24",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "199.104.14.0/23",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2001:67c:10d4::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a04:ccc0:ffff::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a04:ccc3::/32",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a04:ccc4::/32",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a04:ccc6::/32",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0::/32",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:100::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:303::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:401::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:402::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:500::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:c00::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:d00::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:e00::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:f00::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:f01::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:f02::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:fe0::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:2d00::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:5701::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:7100::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:8700::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:a500::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:a501::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:ac00::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:b200::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:cc00::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:fa00::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a09:4c0:ffff::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a0c:3b81::/32",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a0c:3b82::/32",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a0c:3b85::/32",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a0e:b107:1165::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a0f:e404:102::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a0f:e404:104::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
-    "network": "2a10:2f00:18d::/48",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
     "network": "45.142.224.0/22",
     "asn": "25164",
     "country_code": "CH",
@@ -18424,6 +18008,14 @@
     "domain": "proton.ch"
   },
   {
+    "network": "80.47.33.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
     "network": "80.47.34.0/24",
     "asn": "208172",
     "country_code": "CH",
@@ -18472,7 +18064,79 @@
     "domain": "proton.ch"
   },
   {
+    "network": "80.47.41.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
     "network": "80.47.42.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "80.47.44.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "80.47.45.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "80.47.46.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "80.47.47.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "80.47.48.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "80.47.49.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "80.47.50.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "80.47.51.0/24",
     "asn": "208172",
     "country_code": "CH",
     "name": "PV-HOSTED",
@@ -24296,6 +23960,14 @@
     "domain": "exoscale.ch"
   },
   {
+    "network": "151.145.208.0/22",
+    "asn": "61098",
+    "country_code": "CH",
+    "name": "exoscale",
+    "org": "Akenes SA",
+    "domain": "exoscale.ch"
+  },
+  {
     "network": "151.145.216.0/22",
     "asn": "61098",
     "country_code": "CH",
@@ -24577,6 +24249,14 @@
   },
   {
     "network": "2a07:6cc3::/32",
+    "asn": "61098",
+    "country_code": "CH",
+    "name": "exoscale",
+    "org": "Akenes SA",
+    "domain": "exoscale.ch"
+  },
+  {
+    "network": "2a07:6cc4::/32",
     "asn": "61098",
     "country_code": "CH",
     "name": "exoscale",
@@ -33416,6 +33096,406 @@
     "domain": "hertzog.ch"
   },
   {
+    "network": "103.189.238.0/23",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "103.189.238.0/24",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "103.189.239.0/24",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "103.190.102.0/23",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "103.190.102.0/24",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "103.190.103.0/24",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "143.246.178.0/24",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "143.246.179.0/24",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "193.33.94.0/23",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "193.33.94.0/24",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "193.33.95.0/24",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "193.163.86.0/24",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "194.50.92.0/24",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "199.104.14.0/23",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2001:67c:10d4::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a04:ccc0:ffff::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a04:ccc3::/32",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a04:ccc4::/32",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a04:ccc6::/32",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0::/32",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:100::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:303::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:401::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:402::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:500::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:c00::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:d00::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:e00::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:f00::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:f01::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:f02::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:fe0::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:2d00::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:5701::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:7100::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:8700::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:a500::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:a501::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:ac00::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:b200::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:cc00::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:fa00::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:ffff::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a0c:3b81::/32",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a0c:3b82::/32",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a0c:3b85::/32",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a0e:b107:1165::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a0f:e404:102::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a0f:e404:104::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a10:2f00:18d::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
     "network": "104.132.59.0/24",
     "asn": "41264",
     "country_code": "CH",
@@ -33998,14 +34078,6 @@
     "name": "HiHo-Win",
     "org": "exaSys AG",
     "domain": "exasys.com"
-  },
-  {
-    "network": "136.0.66.0/24",
-    "asn": "210688",
-    "country_code": "CH",
-    "name": "BENJAMINLEROY",
-    "org": "Benjamin Leroy",
-    "domain": "benjamin-leroy.ch"
   },
   {
     "network": "136.144.20.0/23",
@@ -37961,6 +38033,14 @@
   },
   {
     "network": "185.54.80.0/22",
+    "asn": "202032",
+    "country_code": "CH",
+    "name": "GOLINE",
+    "org": "GOLINE SA",
+    "domain": "goline.ch"
+  },
+  {
+    "network": "185.54.81.0/24",
     "asn": "202032",
     "country_code": "CH",
     "name": "GOLINE",
@@ -42272,14 +42352,6 @@
     "domain": "rayhaan.ch"
   },
   {
-    "network": "193.36.105.0/24",
-    "asn": "210036",
-    "country_code": "CH",
-    "name": "RAYHAANNET",
-    "org": "Rayhaan Ahmad Jaufeerally",
-    "domain": "rayhaan.ch"
-  },
-  {
     "network": "193.36.106.0/24",
     "asn": "210036",
     "country_code": "CH",
@@ -42289,14 +42361,6 @@
   },
   {
     "network": "2a0d:d740::/48",
-    "asn": "210036",
-    "country_code": "CH",
-    "name": "RAYHAANNET",
-    "org": "Rayhaan Ahmad Jaufeerally",
-    "domain": "rayhaan.ch"
-  },
-  {
-    "network": "2a0d:d740:105::/48",
     "asn": "210036",
     "country_code": "CH",
     "name": "RAYHAANNET",
@@ -42684,16 +42748,16 @@
     "asn": "48857",
     "country_code": "CH",
     "name": "BASLER-AS",
-    "org": "Baloise Versicherung AG",
-    "domain": "baloise.ch"
+    "org": "Helvetia Swiss Insurance Company Ltd.",
+    "domain": "helvetia.ch"
   },
   {
     "network": "194.11.202.0/24",
     "asn": "48857",
     "country_code": "CH",
     "name": "BASLER-AS",
-    "org": "Baloise Versicherung AG",
-    "domain": "baloise.ch"
+    "org": "Helvetia Swiss Insurance Company Ltd.",
+    "domain": "helvetia.ch"
   },
   {
     "network": "193.134.112.0/22",
