@@ -9456,14 +9456,6 @@
     "domain": "unicomnz.com"
   },
   {
-    "network": "120.136.6.0/24",
-    "asn": "133878",
-    "country_code": "NZ",
-    "name": "UNICOM1-AS-AP",
-    "org": "UNICOM NEW ZEALAND LIMITED",
-    "domain": "unicomnz.com"
-  },
-  {
     "network": "202.180.79.0/24",
     "asn": "133878",
     "country_code": "NZ",
@@ -21720,6 +21712,22 @@
     "domain": "enable.net.nz"
   },
   {
+    "network": "2406:c40::/33",
+    "asn": "140602",
+    "country_code": "NZ",
+    "name": "ENABLE-AS-AP",
+    "org": "Enable Services Limited",
+    "domain": "enable.net.nz"
+  },
+  {
+    "network": "2406:c40:8000::/33",
+    "asn": "140602",
+    "country_code": "NZ",
+    "name": "ENABLE-AS-AP",
+    "org": "Enable Services Limited",
+    "domain": "enable.net.nz"
+  },
+  {
     "network": "103.151.180.0/23",
     "asn": "139054",
     "country_code": "NZ",
@@ -25544,14 +25552,6 @@
     "domain": "cs2.nz"
   },
   {
-    "network": "2001:df4:5e40::/48",
-    "asn": "150154",
-    "country_code": "NZ",
-    "name": "CLOUDSQUARED-AS-AP",
-    "org": "CloudSquared",
-    "domain": "cs2.nz"
-  },
-  {
     "network": "2001:df4:5e41::/48",
     "asn": "150154",
     "country_code": "NZ",
@@ -26038,6 +26038,14 @@
     "name": "JUSTINTERNET-AS-AP",
     "org": "Justinternet Limited",
     "domain": "justinter.net.nz"
+  },
+  {
+    "network": "163.128.115.0/24",
+    "asn": "131167",
+    "country_code": "NZ",
+    "name": "STJOHNNZLTD-AS-AP",
+    "org": "ST JOHN NZ LIMITED",
+    "domain": "stjohn.org.nz"
   },
   {
     "network": "163.227.218.0/24",

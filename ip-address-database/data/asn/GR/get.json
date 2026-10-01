@@ -2104,6 +2104,14 @@
     "domain": "vodafone.gr"
   },
   {
+    "network": "62.74.213.0/24",
+    "asn": "3329",
+    "country_code": "GR",
+    "name": "HOL-GR",
+    "org": "Vodafone-panafon Hellenic Telecommunications Company SA",
+    "domain": "vodafone.gr"
+  },
+  {
     "network": "62.74.231.0/24",
     "asn": "3329",
     "country_code": "GR",
@@ -6240,6 +6248,14 @@
     "domain": "lamdahellix.com"
   },
   {
+    "network": "91.241.94.0/23",
+    "asn": "56910",
+    "country_code": "GR",
+    "name": "LamdaHellix",
+    "org": "Digital Realty Hellas Single Member S.A",
+    "domain": "lamdahellix.com"
+  },
+  {
     "network": "185.4.236.0/24",
     "asn": "56910",
     "country_code": "GR",
@@ -6352,23 +6368,7 @@
     "domain": "lamdahellix.com"
   },
   {
-    "network": "2a04:3e00::/29",
-    "asn": "56910",
-    "country_code": "GR",
-    "name": "LamdaHellix",
-    "org": "Digital Realty Hellas Single Member S.A",
-    "domain": "lamdahellix.com"
-  },
-  {
     "network": "2a04:3e00:1::/48",
-    "asn": "56910",
-    "country_code": "GR",
-    "name": "LamdaHellix",
-    "org": "Digital Realty Hellas Single Member S.A",
-    "domain": "lamdahellix.com"
-  },
-  {
-    "network": "2a04:3e00:1003::/48",
     "asn": "56910",
     "country_code": "GR",
     "name": "LamdaHellix",
@@ -14312,14 +14312,6 @@
     "domain": "upstreamsystems.com"
   },
   {
-    "network": "91.241.94.0/23",
-    "asn": "49582",
-    "country_code": "GR",
-    "name": "UPSTREAM-AS",
-    "org": "UPSTREAM TELECOMMUNICATIONS AND SOFTWARE SYSTEMS S.M.S.A",
-    "domain": "upstreamsystems.com"
-  },
-  {
     "network": "91.214.124.0/24",
     "asn": "197515",
     "country_code": "GR",
@@ -14905,6 +14897,14 @@
   },
   {
     "network": "185.216.191.0/24",
+    "asn": "210477",
+    "country_code": "GR",
+    "name": "supervoice",
+    "org": "Genco Power AE",
+    "domain": "supervoice.eu"
+  },
+  {
+    "network": "2a12:b500::/32",
     "asn": "210477",
     "country_code": "GR",
     "name": "supervoice",
@@ -18176,7 +18176,7 @@
     "domain": "hermes-solutions.org"
   },
   {
-    "network": "2a0d:3dc1:98dc::/48",
+    "network": "2a0d:3dc1:996c::/48",
     "asn": "210312",
     "country_code": "GR",
     "name": "BGP-CLOCK",

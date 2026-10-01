@@ -240,6 +240,14 @@
     "domain": "ugni.net"
   },
   {
+    "network": "5.22.167.0/24",
+    "asn": "21215",
+    "country_code": "RS",
+    "name": "UGNI",
+    "org": "UNITED GROUP NETWORK INFRASTRUCTURE d.o.o. Beograd",
+    "domain": "ugni.net"
+  },
+  {
     "network": "89.207.192.0/21",
     "asn": "21215",
     "country_code": "RS",
@@ -7304,14 +7312,6 @@
     "domain": "oriontelekom.rs"
   },
   {
-    "network": "81.18.49.0/24",
-    "asn": "52116",
-    "country_code": "RS",
-    "name": "ORIONTELEKOM-DPI-AS",
-    "org": "Orion Telekom Tim d.o.o.Beograd",
-    "domain": "oriontelekom.rs"
-  },
-  {
     "network": "81.18.52.0/23",
     "asn": "52116",
     "country_code": "RS",
@@ -7750,22 +7750,6 @@
     "name": "REALNET-AS",
     "org": "DOO Realnet",
     "domain": "realnet.rs"
-  },
-  {
-    "network": "79.175.71.0/24",
-    "asn": "212897",
-    "country_code": "RS",
-    "name": "Jetnet-as",
-    "org": "JETNET KOMUNIKACIJE DOO",
-    "domain": "oriontelekom.rs"
-  },
-  {
-    "network": "188.255.202.0/24",
-    "asn": "212897",
-    "country_code": "RS",
-    "name": "Jetnet-as",
-    "org": "JETNET KOMUNIKACIJE DOO",
-    "domain": "oriontelekom.rs"
   },
   {
     "network": "80.70.240.0/20",
@@ -10552,6 +10536,22 @@
     "domain": "maksnet.net"
   },
   {
+    "network": "185.55.158.0/24",
+    "asn": "206639",
+    "country_code": "RS",
+    "name": "TIM011",
+    "org": "TIM011 CLOUD d.o.o.",
+    "domain": "tim011.rs"
+  },
+  {
+    "network": "2001:67c:2b2c::/48",
+    "asn": "206639",
+    "country_code": "RS",
+    "name": "TIM011",
+    "org": "TIM011 CLOUD d.o.o.",
+    "domain": "tim011.rs"
+  },
+  {
     "network": "185.55.159.0/24",
     "asn": "202676",
     "country_code": "RS",
@@ -11168,6 +11168,14 @@
     "domain": "lilly.rs"
   },
   {
+    "network": "188.255.202.0/24",
+    "asn": "212897",
+    "country_code": "RS",
+    "name": "Jetnet-as",
+    "org": "JETNET KOMUNIKACIJE DOO",
+    "domain": "oriontelekom.rs"
+  },
+  {
     "network": "188.255.252.0/24",
     "asn": "196886",
     "country_code": "RS",
@@ -11606,13 +11614,5 @@
     "name": "RICKY-V6-AS",
     "org": "Sasa Ristic",
     "domain": "v6.rs"
-  },
-  {
-    "network": "2001:67c:2b2c::/48",
-    "asn": "206639",
-    "country_code": "RS",
-    "name": "TIM011",
-    "org": "TIM011 CLOUD d.o.o.",
-    "domain": "tim011.rs"
   }
 ]

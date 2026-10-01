@@ -48,14 +48,6 @@
     "domain": "idnic.net"
   },
   {
-    "network": "2001:dc6::/32",
-    "asn": "4622",
-    "country_code": "ID",
-    "name": "ID-NIC",
-    "org": "Indonesia Network Information Center",
-    "domain": "idnic.net"
-  },
-  {
     "network": "2001:dc6::/48",
     "asn": "4622",
     "country_code": "ID",
@@ -72,7 +64,23 @@
     "domain": "idnic.net"
   },
   {
+    "network": "2001:dc6:2::/48",
+    "asn": "4622",
+    "country_code": "ID",
+    "name": "ID-NIC",
+    "org": "Indonesia Network Information Center",
+    "domain": "idnic.net"
+  },
+  {
     "network": "2001:dc6:3::/48",
+    "asn": "4622",
+    "country_code": "ID",
+    "name": "ID-NIC",
+    "org": "Indonesia Network Information Center",
+    "domain": "idnic.net"
+  },
+  {
+    "network": "2001:dc6:666::/48",
     "asn": "4622",
     "country_code": "ID",
     "name": "ID-NIC",

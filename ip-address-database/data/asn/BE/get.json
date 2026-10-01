@@ -616,14 +616,6 @@
     "domain": "destiny.be"
   },
   {
-    "network": "94.143.87.0/24",
-    "asn": "8368",
-    "country_code": "BE",
-    "name": "DSTNY-BACKBONE",
-    "org": "Dstny BE N.V.",
-    "domain": "destiny.be"
-  },
-  {
     "network": "94.158.248.0/24",
     "asn": "8368",
     "country_code": "BE",
@@ -5745,6 +5737,14 @@
   },
   {
     "network": "38.210.122.0/24",
+    "asn": "205924",
+    "country_code": "BE",
+    "name": "LIMOENGROEN",
+    "org": "Limoengroen BV",
+    "domain": "upgreat.ai"
+  },
+  {
+    "network": "85.118.144.0/24",
     "asn": "205924",
     "country_code": "BE",
     "name": "LIMOENGROEN",
@@ -16216,6 +16216,14 @@
     "domain": "phyxia.net"
   },
   {
+    "network": "195.160.167.0/24",
+    "asn": "35627",
+    "country_code": "BE",
+    "name": "PHYXIA",
+    "org": "Tom Laermans",
+    "domain": "phyxia.net"
+  },
+  {
     "network": "2001:67c:5c::/48",
     "asn": "35627",
     "country_code": "BE",
@@ -16448,47 +16456,7 @@
     "domain": "nrb.be"
   },
   {
-    "network": "217.117.32.0/24",
-    "asn": "204013",
-    "country_code": "BE",
-    "name": "NRB",
-    "org": "Network Research Belgium S.A.",
-    "domain": "nrb.be"
-  },
-  {
-    "network": "217.117.34.0/24",
-    "asn": "204013",
-    "country_code": "BE",
-    "name": "NRB",
-    "org": "Network Research Belgium S.A.",
-    "domain": "nrb.be"
-  },
-  {
     "network": "217.117.36.0/24",
-    "asn": "204013",
-    "country_code": "BE",
-    "name": "NRB",
-    "org": "Network Research Belgium S.A.",
-    "domain": "nrb.be"
-  },
-  {
-    "network": "217.117.37.0/24",
-    "asn": "204013",
-    "country_code": "BE",
-    "name": "NRB",
-    "org": "Network Research Belgium S.A.",
-    "domain": "nrb.be"
-  },
-  {
-    "network": "217.117.38.0/24",
-    "asn": "204013",
-    "country_code": "BE",
-    "name": "NRB",
-    "org": "Network Research Belgium S.A.",
-    "domain": "nrb.be"
-  },
-  {
-    "network": "217.117.39.0/24",
     "asn": "204013",
     "country_code": "BE",
     "name": "NRB",
@@ -16528,14 +16496,6 @@
     "domain": "nrb.be"
   },
   {
-    "network": "217.117.46.0/24",
-    "asn": "204013",
-    "country_code": "BE",
-    "name": "NRB",
-    "org": "Network Research Belgium S.A.",
-    "domain": "nrb.be"
-  },
-  {
     "network": "217.117.48.0/20",
     "asn": "204013",
     "country_code": "BE",
@@ -16544,31 +16504,7 @@
     "domain": "nrb.be"
   },
   {
-    "network": "217.117.50.0/24",
-    "asn": "204013",
-    "country_code": "BE",
-    "name": "NRB",
-    "org": "Network Research Belgium S.A.",
-    "domain": "nrb.be"
-  },
-  {
-    "network": "217.117.56.0/24",
-    "asn": "204013",
-    "country_code": "BE",
-    "name": "NRB",
-    "org": "Network Research Belgium S.A.",
-    "domain": "nrb.be"
-  },
-  {
     "network": "217.117.61.0/24",
-    "asn": "204013",
-    "country_code": "BE",
-    "name": "NRB",
-    "org": "Network Research Belgium S.A.",
-    "domain": "nrb.be"
-  },
-  {
-    "network": "217.117.63.0/24",
     "asn": "204013",
     "country_code": "BE",
     "name": "NRB",
@@ -16588,6 +16524,70 @@
     "asn": "204013",
     "country_code": "BE",
     "name": "NRB",
+    "org": "Network Research Belgium S.A.",
+    "domain": "nrb.be"
+  },
+  {
+    "network": "217.117.32.0/24",
+    "asn": "12942",
+    "country_code": "BE",
+    "name": "NRB-AS",
+    "org": "Network Research Belgium S.A.",
+    "domain": "nrb.be"
+  },
+  {
+    "network": "217.117.34.0/24",
+    "asn": "12942",
+    "country_code": "BE",
+    "name": "NRB-AS",
+    "org": "Network Research Belgium S.A.",
+    "domain": "nrb.be"
+  },
+  {
+    "network": "217.117.37.0/24",
+    "asn": "12942",
+    "country_code": "BE",
+    "name": "NRB-AS",
+    "org": "Network Research Belgium S.A.",
+    "domain": "nrb.be"
+  },
+  {
+    "network": "217.117.38.0/24",
+    "asn": "12942",
+    "country_code": "BE",
+    "name": "NRB-AS",
+    "org": "Network Research Belgium S.A.",
+    "domain": "nrb.be"
+  },
+  {
+    "network": "217.117.39.0/24",
+    "asn": "12942",
+    "country_code": "BE",
+    "name": "NRB-AS",
+    "org": "Network Research Belgium S.A.",
+    "domain": "nrb.be"
+  },
+  {
+    "network": "217.117.50.0/24",
+    "asn": "12942",
+    "country_code": "BE",
+    "name": "NRB-AS",
+    "org": "Network Research Belgium S.A.",
+    "domain": "nrb.be"
+  },
+  {
+    "network": "217.117.56.0/24",
+    "asn": "12942",
+    "country_code": "BE",
+    "name": "NRB-AS",
+    "org": "Network Research Belgium S.A.",
+    "domain": "nrb.be"
+  },
+  {
+    "network": "217.117.63.0/24",
+    "asn": "12942",
+    "country_code": "BE",
+    "name": "NRB-AS",
     "org": "Network Research Belgium S.A.",
     "domain": "nrb.be"
   },

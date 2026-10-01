@@ -504,7 +504,7 @@
     "country_name": "U.S. Virgin Islands"
   },
   {
-    "network": "199.76.13.0/24",
+    "network": "199.76.12.0/23",
     "continent_code": "NA",
     "country_code": "VI",
     "country_name": "U.S. Virgin Islands"
@@ -2299,6 +2299,12 @@
   },
   {
     "network": "2a0d:d904::/48",
+    "continent_code": "NA",
+    "country_code": "VI",
+    "country_name": "U.S. Virgin Islands"
+  },
+  {
+    "network": "2a0d:d904:9::/48",
     "continent_code": "NA",
     "country_code": "VI",
     "country_name": "U.S. Virgin Islands"
