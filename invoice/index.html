@@ -3,12 +3,17 @@
 <html lang="fa" dir="rtl">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="light">
-<meta name="theme-color" content="#704c35">
+<meta name="theme-color" content="#4a3021">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="مدیریت کافه">
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="./icon-192.png">
+<link rel="apple-touch-icon" href="./icon-192.png">
 <title>مدیریت فروش کافه</title>
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet">
-<link rel="manifest" id="appManifest">
 <style>
 :root{
   --bg:#f3ede5;
@@ -52,11 +57,10 @@ body{
   background:var(--bg-gradient);
   background-attachment:fixed;
   color:var(--ink);
-  font:15px/1.75 Vazirmatn,'Vazirmatn FD',Tahoma,Arial,sans-serif;
+  font:15px/1.75 Tahoma,Arial,sans-serif;
   min-height:100vh;
   -webkit-font-smoothing:antialiased;
   text-rendering:optimizeLegibility;
-  overscroll-behavior-y:contain;
 }
 body::before{
   content:'';position:fixed;inset:0;pointer-events:none;z-index:0;
@@ -70,34 +74,6 @@ button:disabled{opacity:.45;cursor:not-allowed;transform:none!important}
 button:disabled:hover{box-shadow:none}
 
 .app{max-width:1480px;margin:0 auto;padding:24px;position:relative;z-index:1}
-.app.standalone{padding-top:env(safe-area-inset-top,24px)}
-
-.install-banner{
-  display:none;
-  align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;
-  padding:16px 20px;margin-bottom:18px;
-  background:linear-gradient(135deg,rgba(255,253,250,.95),rgba(250,244,237,.92));
-  backdrop-filter:blur(20px);
-  -webkit-backdrop-filter:blur(20px);
-  border:1.5px solid var(--gold);
-  border-radius:18px;
-  box-shadow:0 10px 30px -10px rgba(74,48,33,.3),inset 0 1px 0 rgba(255,255,255,.9);
-  animation:slideDown .4s cubic-bezier(.34,1.2,.64,1);
-  position:relative;z-index:2;
-}
-.install-banner.show{display:flex}
-@keyframes slideDown{from{opacity:0;transform:translateY(-12px)}to{opacity:1;transform:translateY(0)}}
-.install-banner-content{display:flex;align-items:center;gap:14px;flex:1;min-width:200px}
-.install-banner-icon{
-  width:48px;height:48px;flex-shrink:0;border-radius:14px;
-  background:linear-gradient(135deg,var(--coffee),var(--coffee-2));
-  display:grid;place-items:center;color:#fff;
-  box-shadow:0 8px 20px -6px rgba(74,48,33,.45);
-}
-.install-banner-icon svg{width:24px;height:24px}
-.install-banner-text h3{font-size:.95rem;font-weight:900;color:var(--coffee-3);margin-bottom:2px}
-.install-banner-text p{font-size:.8rem;color:var(--muted);line-height:1.5}
-.install-banner-actions{display:flex;gap:8px;flex-wrap:wrap}
 
 .topbar{
   display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;
@@ -555,47 +531,31 @@ tbody tr:hover{background:rgba(255,250,244,.9)}
 }
 .settings-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
 
-.toast-region{position:fixed;left:18px;bottom:18px;display:grid;gap:9px;z-index:2000;width:min(390px,calc(100vw - 36px));pointer-events:none}
+.toast-region{position:fixed;left:18px;bottom:calc(18px + env(safe-area-inset-bottom));display:grid;gap:9px;z-index:2000;width:min(390px,calc(100vw - 36px));pointer-events:none}
 .toast{
   padding:14px 17px;border:1px solid var(--border);border-radius:13px;
   background:rgba(255,254,250,.98);backdrop-filter:blur(12px);
   box-shadow:0 14px 40px -8px rgba(0,0,0,.18);
   font-size:.85rem;font-weight:750;pointer-events:auto;
   animation:toastIn .28s cubic-bezier(.34,1.2,.64,1);
-  display:flex;align-items:center;gap:10px;
 }
 @keyframes toastIn{from{opacity:0;transform:translateY(14px) scale(.96)}to{opacity:1;transform:translateY(0) scale(1)}}
-.toast.out{animation:toastOut .22s ease forwards}
-@keyframes toastOut{to{opacity:0;transform:translateY(10px) scale(.96)}}
-.toast-icon{width:20px;height:20px;flex-shrink:0}
-.toast-text{flex:1}
 .toast.success{border-color:#bfe3ca;color:var(--green);background:rgba(246,255,249,.98)}
 .toast.error{border-color:#efc2bb;color:var(--red);background:rgba(255,247,246,.98)}
 .toast.warn{border-color:#eed7a2;color:var(--amber);background:rgba(255,251,242,.98)}
-.toast.info{border-color:var(--border-strong);color:var(--coffee-2);background:rgba(255,253,250,.98)}
-.toast-close{background:transparent;border:none;padding:2px;border-radius:5px;display:grid;place-items:center;color:inherit;opacity:.5;transition:opacity .15s}
-.toast-close:hover{opacity:1}
-.toast-close svg{width:14px;height:14px}
 
-.confirm-overlay{
-  display:none;position:fixed;inset:0;
-  background:rgba(30,21,15,.55);
-  backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);
-  z-index:3000;padding:20px;align-items:center;justify-content:center;
-}
-.confirm-overlay.open{display:flex;animation:fadeIn .2s ease}
-.confirm-box{
-  background:var(--paper);border-radius:20px;padding:24px;
-  width:min(420px,100%);
-  box-shadow:var(--shadow-lg),inset 0 1px 0 rgba(255,255,255,.9);
-  border:1px solid rgba(255,255,255,.6);
-  animation:modalIn .28s cubic-bezier(.34,1.2,.64,1);
-}
-.confirm-box h3{font-size:1.05rem;font-weight:900;color:var(--coffee-3);margin-bottom:10px;display:flex;align-items:center;gap:10px}
-.confirm-box h3 svg{width:22px;height:22px;color:var(--amber);flex-shrink:0}
-.confirm-box p{font-size:.88rem;color:var(--muted);line-height:1.8;margin-bottom:20px;white-space:pre-line}
-.confirm-actions{display:flex;gap:10px;justify-content:flex-start;flex-wrap:wrap}
 
+.install-prompt{position:fixed;left:50%;bottom:calc(18px + env(safe-area-inset-bottom));transform:translateX(-50%);z-index:950;width:min(620px,calc(100vw - 32px));display:grid;grid-template-columns:auto minmax(0,1fr);align-items:center;gap:13px;padding:15px;border:1px solid rgba(230,217,203,.95);border-radius:20px;background:rgba(255,253,250,.97);backdrop-filter:blur(24px);-webkit-backdrop-filter:blur(24px);box-shadow:0 22px 70px -22px rgba(42,29,20,.38),inset 0 1px 0 rgba(255,255,255,.9);animation:modalIn .28s cubic-bezier(.34,1.2,.64,1)}
+.install-prompt[hidden]{display:none!important}
+.install-app-icon{width:52px;height:52px;border-radius:15px;overflow:hidden;background:var(--coffee-2);box-shadow:0 4px 12px rgba(74,48,33,.18)}
+.install-app-icon img{display:block;width:100%;height:100%;object-fit:cover}
+.install-copy{display:grid;gap:3px;min-width:0}
+.install-copy strong{font-size:.93rem;font-weight:900;color:var(--coffee-3)}
+.install-copy span{font-size:.76rem;color:var(--muted);line-height:1.65}
+.install-actions{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:7px}
+.install-actions .btn{min-height:38px}
+.install-never{margin-right:auto}
+.confirm-message{white-space:pre-line}
 .footnote{margin:24px 4px 0;color:var(--soft);font-size:.75rem;text-align:center;line-height:1.8}
 .hidden{display:none!important}
 .divider{height:1px;background:var(--border);margin:20px 0}
@@ -618,6 +578,7 @@ tbody tr:hover{background:rgba(255,250,244,.9)}
   border-color:var(--coffee);color:#fff;
   box-shadow:0 5px 14px -5px rgba(74,48,33,.45);
 }
+.kpi-note{font-size:.74rem;color:var(--muted);margin-top:4px}
 .text-red{color:var(--red)}
 .text-green{color:var(--green)}
 
@@ -633,17 +594,14 @@ tbody tr:hover{background:rgba(255,250,244,.9)}
   .invoice-layout{grid-template-columns:1fr}
 }
 @media(max-width:650px){
-  .app{padding:10px}
+  .app{padding:max(10px,env(safe-area-inset-top)) max(10px,env(safe-area-inset-right)) 14px max(10px,env(safe-area-inset-left))}
   .topbar{padding:18px;border-radius:20px}
   .brand{min-width:0;flex:1}
   .brand-mark{width:46px;height:46px;border-radius:14px}
   .brand h1{font-size:1.08rem}
   .brand p{font-size:.72rem}
   .top-actions{width:100%}
-  .top-actions .btn{flex:1}
-  .install-banner{padding:14px}
-  .install-banner-actions{width:100%}
-  .install-banner-actions .btn{flex:1}
+  .top-actions .btn{flex:1;min-height:46px}
   .tabs{gap:4px;padding:5px;border-radius:14px}
   .tab{flex:1 1 calc(50% - 4px);justify-content:center;padding:10px 7px;font-size:.77rem}
   .tab svg{width:16px;height:16px}
@@ -669,41 +627,31 @@ tbody tr:hover{background:rgba(255,250,244,.9)}
   .row-actions .btn{padding:6px 8px}
   .card-head{align-items:flex-start}
   .footnote{padding:0 12px}
+  .install-prompt{width:calc(100vw - 20px);bottom:calc(10px + env(safe-area-inset-bottom));padding:12px;border-radius:17px;gap:10px}
+  .install-copy strong{font-size:.86rem}
+  .install-copy span{font-size:.72rem}
+  .install-actions{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+  .install-actions #installNowBtn{grid-column:1/-1}
+  .install-never{margin-right:0}
+  .toast-region{left:10px;width:calc(100vw - 20px);bottom:calc(10px + env(safe-area-inset-bottom))}
+  .toast{padding:12px 14px}
   .filter-select{width:100%}
-  .toast-region{left:10px;right:10px;bottom:10px;width:auto}
-  .confirm-box{padding:20px}
 }
 @media(prefers-reduced-motion:reduce){
   *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.01ms!important}
 }
 @media print{
   body{background:white}
-  .app,.modal-layer,.toast-region,.confirm-overlay,.install-banner{display:none!important}
+  .app,.modal-layer,.toast-region,.install-prompt{display:none!important}
   #print-root{display:block!important}
 }
 </style>
 </head>
 <body>
 <div class="app" id="appRoot">
-  <div class="install-banner" id="installBanner">
-    <div class="install-banner-content">
-      <div class="install-banner-icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M5 21h14"/></svg>
-      </div>
-      <div class="install-banner-text">
-        <h3>نصب برنامه روی دستگاه</h3>
-        <p id="installBannerText">برای دسترسی سریع‌تر و کارکرد آفلاین، این برنامه را نصب کنید.</p>
-      </div>
-    </div>
-    <div class="install-banner-actions">
-      <button class="btn outline sm" id="installDismissBtn">بعداً</button>
-      <button class="btn primary sm" id="installActionBtn">نصب برنامه</button>
-    </div>
-  </div>
-
   <header class="topbar">
     <div class="brand"><div class="brand-mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1"/><path d="M2 8h16v8a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V8Z"/><path d="M6 2v3M10 2v3M14 2v3"/></svg></div><div><h1 id="brandTitle">مدیریت فروش کافه</h1><p>صندوق، فاکتور، گزارش و کنترل هزینه‌ها</p></div></div>
-    <div class="top-actions"><button class="btn outline" id="exportBtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5M12 15V3"/></svg>پشتیبان‌گیری</button><button class="btn outline" id="importBtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m17 8-5-5-5 5M12 3v12"/></svg>بازیابی</button><button class="btn primary" id="newInvoiceBtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>فاکتور جدید</button></div>
+    <div class="top-actions"><button class="btn primary" id="newInvoiceBtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>فاکتور جدید</button></div>
   </header>
   <nav class="tabs" aria-label="بخش‌های برنامه" role="tablist">
     <button class="tab active" data-view="dashboard" role="tab" aria-selected="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="8" rx="1"/><rect x="14" y="3" width="7" height="5" rx="1"/><rect x="14" y="11" width="7" height="10" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/></svg>داشبورد</button>
@@ -742,11 +690,11 @@ tbody tr:hover{background:rgba(255,250,244,.9)}
     </section>
 
     <section class="view" id="view-settings" role="tabpanel">
-      <article class="card"><div class="card-head"><h2 class="card-title">تنظیمات کافه</h2><button class="btn primary" id="saveSettingsBtn">ذخیره تنظیمات</button></div><div class="settings-grid"><div class="field"><label for="settingsCafeName">نام کافه / عنوان رسید</label><input id="settingsCafeName" maxlength="100" placeholder="مدیریت فروش کافه"></div><div class="field"><label for="settingsTaxRate">درصد مالیات (در صورت نیاز)</label><input id="settingsTaxRate" type="number" min="0" max="100" step="0.1" inputmode="decimal" value="0"><span class="hint">به‌صورت پیش‌فرض صفر است؛ قواعد مالیاتی محل فعالیت را بررسی کنید.</span></div><div class="field"><label for="settingsLowStock">آستانه هشدار موجودی</label><input id="settingsLowStock" type="number" min="0" max="1000000" step="1" value="5"></div><div class="field"><label>مدیریت موجودی</label><div class="switch-line"><span class="small subtle">کنترل و کسر موجودی هنگام فروش</span><input id="settingsInventoryEnabled" type="checkbox" aria-label="فعال‌سازی کنترل موجودی"></div></div></div><div class="divider"></div><div class="help-box" id="storageHelp"></div></article>
+      <article class="card"><div class="card-head"><h2 class="card-title">تنظیمات کافه</h2><button class="btn primary" id="saveSettingsBtn">ذخیره تنظیمات</button></div><div class="settings-grid"><div class="field"><label for="settingsCafeName">نام کافه / عنوان رسید</label><input id="settingsCafeName" maxlength="100" placeholder="مدیریت فروش کافه"></div><div class="field"><label for="settingsTaxRate">درصد مالیات (در صورت نیاز)</label><input id="settingsTaxRate" type="number" min="0" max="100" step="0.1" inputmode="decimal" value="0"><span class="hint">به‌صورت پیش‌فرض صفر است؛ قواعد مالیاتی محل فعالیت را بررسی کنید.</span></div><div class="field"><label for="settingsLowStock">آستانه هشدار موجودی</label><input id="settingsLowStock" type="number" min="0" max="1000000" step="1" value="5"></div><div class="field"><label>مدیریت موجودی</label><div class="switch-line"><span class="small subtle">کنترل و کسر موجودی هنگام فروش</span><input id="settingsInventoryEnabled" type="checkbox" aria-label="فعال‌سازی کنترل موجودی"></div></div></div></article>
       <article class="card"><div class="card-head"><h2 class="card-title">پشتیبان‌گیری و انتقال داده</h2></div><p class="subtle small">تمام اطلاعات برنامه در یک رکورد ذخیره‌سازی محلی نوشته می‌شود تا به‌روزرسانی محصولات، فاکتورها و هزینه‌ها تا حد ممکن یکپارچه باشد. این فایل HTML به سرور یا سرویس خارجی متصل نیست.</p><div class="toolbar"><button class="btn outline" id="exportBtn2">دانلود پشتیبان JSON</button><button class="btn outline" id="importBtn2">بازیابی از JSON</button><button class="btn outline" id="exportInvoicesCsv2">خروجی فاکتورها CSV</button></div><div class="divider"></div><div class="danger-zone"><h3 style="margin:0 0 6px;color:var(--red);font-size:.95rem">بازنشانی داده‌ها</h3><p class="small subtle" style="margin:0 0 12px">این عمل محصولات، فاکتورها، هزینه‌ها و تنظیمات ذخیره‌شده در این برنامه را بازنشانی می‌کند. پیش از انجام آن یک پشتیبان تهیه کنید.</p><button class="btn danger" id="resetAllBtn">بازنشانی همه داده‌ها</button></div></article>
     </section>
   </main>
-  <p class="footnote">نسخه مستقل و آفلاین · بدون کتابخانه خارجی · داده‌ها فقط در همین مرورگر ذخیره می‌شوند · همیشه پشتیبان جداگانه نگه دارید.</p>
+  <p class="footnote">قابل نصب روی گوشی و رایانه · اجرای آفلاین پس از اولین بارگذاری · داده‌ها در همین مرورگر ذخیره می‌شوند؛ پشتیبان جداگانه نگه دارید.</p>
 </div>
 
 <div class="modal-layer" id="invoiceModal" aria-hidden="true"><section class="modal wide" role="dialog" aria-modal="true" aria-labelledby="invoiceModalTitle"><div class="modal-head"><div><h2 id="invoiceModalTitle">ثبت فاکتور جدید</h2><div class="small subtle">قیمت و نام محصولات در لحظه‌ی ثبت داخل فاکتور ذخیره می‌شوند.</div></div><button class="close-btn" data-close="invoiceModal" aria-label="بستن پنجره"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m18 6-12 12M6 6l12 12"/></svg></button></div>
@@ -764,17 +712,12 @@ tbody tr:hover{background:rgba(255,250,244,.9)}
 
 <div class="modal-layer" id="importModal" aria-hidden="true"><section class="modal narrow" role="dialog" aria-modal="true" aria-labelledby="importModalTitle"><div class="modal-head"><h2 id="importModalTitle">بازیابی از فایل پشتیبان</h2><button class="close-btn" data-close="importModal" aria-label="بستن پنجره"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m18 6-12 12M6 6l12 12"/></svg></button></div><p class="small subtle">فایل پیش از اعمال اعتبارسنجی می‌شود. تا وقتی تأیید نکنید، اطلاعات فعلی تغییر نمی‌کنند.</p><div class="field"><label for="importFile">فایل پشتیبان JSON</label><input id="importFile" type="file" accept="application/json,.json"></div><div class="import-preview" id="importPreview">هنوز فایلی انتخاب نشده است.</div><div class="modal-foot"><button class="btn primary" id="applyImportBtn" disabled>جایگزینی با پشتیبان معتبر</button><button class="btn outline" data-close="importModal">انصراف</button></div></section></div>
 
-<div class="confirm-overlay" id="confirmOverlay">
-  <div class="confirm-box" role="alertdialog" aria-modal="true" aria-labelledby="confirmTitle">
-    <h3 id="confirmTitle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9v4M12 17h.01"/><path d="M10.3 3.9 2.6 17.2A2 2 0 0 0 4.3 20h15.4a2 2 0 0 0 1.7-2.8L13.7 3.9a2 2 0 0 0-3.4 0Z"/></svg>تأیید عملیات</h3>
-    <p id="confirmMessage"></p>
-    <div class="confirm-actions">
-      <button class="btn outline" id="confirmCancel">انصراف</button>
-      <button class="btn danger" id="confirmOk">تأیید</button>
-    </div>
-  </div>
-</div>
-
+<aside class="install-prompt" id="installPrompt" hidden role="region" aria-label="نصب برنامه">
+  <div class="install-app-icon"><img src="./icon-192.png" alt="" width="48" height="48"></div>
+  <div class="install-copy"><strong>مدیریت کافه را نصب کنید</strong><span>دسترسی سریع، اجرای مستقل و استفاده آفلاین روی گوشی یا رایانه</span></div>
+  <div class="install-actions"><button class="btn primary sm" id="installNowBtn">نصب برنامه</button><button class="btn ghost sm" id="installLaterBtn">بعداً</button><button class="btn ghost sm install-never" id="installNeverBtn">دیگر نشان نده</button></div>
+</aside>
+<div class="modal-layer" id="confirmModal" aria-hidden="true"><section class="modal narrow" role="dialog" aria-modal="true" aria-labelledby="confirmModalTitle"><div class="modal-head"><h2 id="confirmModalTitle">تأیید عملیات</h2><button class="close-btn" data-close="confirmModal" aria-label="بستن پنجره"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m18 6-12 12M6 6l12 12"/></svg></button></div><p class="subtle" id="confirmMessage"></p><div class="modal-foot"><button class="btn danger" id="confirmAcceptBtn">بله، ادامه بده</button><button class="btn outline" data-close="confirmModal">انصراف</button></div></section></div>
 <div class="toast-region" id="toastRegion" aria-live="polite" aria-atomic="false"></div><div id="print-root" class="hidden"></div>
 <script>
 'use strict';
@@ -799,16 +742,6 @@ let detailInvoiceId = null;
 let toastSequence = 0;
 let lastFocused = null;
 let filterCache = {};
-let deferredPrompt = null;
-let confirmResolver = null;
-let installDismissed = false;
-
-const TOAST_ICONS = {
-  success:'M20 6 9 17l-5-5',
-  error:'M18 6 6 18M6 6l12 12',
-  warn:'M12 9v4M12 17h.01M10.3 3.9 2.6 17.2A2 2 0 0 0 4.3 20h15.4a2 2 0 0 0 1.7-2.8L13.7 3.9a2 2 0 0 0-3.4 0Z',
-  info:'M12 16v-4M12 8h.01M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0Z'
-};
 
 function num(value){const n=Number(value);return Number.isFinite(n)?n:0}
 function fmtNum(value){const n=Number(value);if(!Number.isFinite(n))return '—';return moneyFormatter?moneyFormatter.format(n):Math.round(n).toString()}
@@ -821,62 +754,9 @@ function el(tag, className='', text=''){const n=document.createElement(tag);if(c
 function svgIcon(path){const s=document.createElementNS('http://www.w3.org/2000/svg','svg');s.setAttribute('viewBox','0 0 24 24');s.setAttribute('fill','none');s.setAttribute('stroke','currentColor');s.setAttribute('stroke-width','2');s.setAttribute('stroke-linecap','round');s.setAttribute('stroke-linejoin','round');const p=document.createElementNS('http://www.w3.org/2000/svg','path');p.setAttribute('d',path);s.append(p);return s}
 function replaceChildren(node,...children){node.replaceChildren(...children.filter(Boolean))}
 function setText(id,text){$(id).textContent=String(text)}
-
-function toast(message,type='success',duration=3800){
-  const region=$('toastRegion');
-  if(!region)return;
-  const wrap=el('div','toast '+type);
-  wrap.setAttribute('role', type==='error'?'alert':'status');
-  const icon=el('span','toast-icon');
-  icon.append(svgIcon(TOAST_ICONS[type]||TOAST_ICONS.info));
-  const text=el('span','toast-text',message);
-  const close=el('button','toast-close');
-  close.type='button';
-  close.setAttribute('aria-label','بستن');
-  close.append(svgIcon('M18 6 6 18M6 6l12 12'));
-  wrap.append(icon,text,close);
-  let removed=false;
-  const remove=()=>{
-    if(removed)return;
-    removed=true;
-    wrap.classList.add('out');
-    window.setTimeout(()=>wrap.remove(),220);
-  };
-  close.addEventListener('click',remove);
-  region.append(wrap);
-  if(duration>0)window.setTimeout(remove,duration);
-}
-
-function confirmDialog(message,{title='تأیید عملیات',okText='تأیید',cancelText='انصراف',danger=true}={}){
-  return new Promise(resolve=>{
-    confirmResolver=resolve;
-    $('confirmTitle').innerHTML='';
-    const titleIcon=svgIcon('M12 9v4M12 17h.01M10.3 3.9 2.6 17.2A2 2 0 0 0 4.3 20h15.4a2 2 0 0 0 1.7-2.8L13.7 3.9a2 2 0 0 0-3.4 0Z');
-    $('confirmTitle').append(titleIcon,document.createTextNode(title));
-    $('confirmMessage').textContent=message;
-    $('confirmOk').textContent=okText;
-    $('confirmCancel').textContent=cancelText;
-    $('confirmOk').className='btn '+(danger?'danger':'primary');
-    $('confirmOverlay').classList.add('open');
-    window.setTimeout(()=>$('confirmOk').focus(),50);
-  });
-}
-function closeConfirm(result){
-  $('confirmOverlay').classList.remove('open');
-  if(confirmResolver){confirmResolver(result);confirmResolver=null}
-}
-$('confirmOk').addEventListener('click',()=>closeConfirm(true));
-$('confirmCancel').addEventListener('click',()=>closeConfirm(false));
-$('confirmOverlay').addEventListener('click',e=>{if(e.target===$('confirmOverlay'))closeConfirm(false)});
-
-function setStorageHelp(){
-  const n=$('storageHelp');
-  if(!n)return;
-  if(storageCorrupt){n.textContent='هشدار: داده‌ی ذخیره‌شده‌ی قبلی قابل خواندن نیست. برای جلوگیری از بازنویسی ناخواسته، ذخیره‌سازی تغییرات تا زمان بازیابی یک پشتیبان معتبر یا بازنشانی صریح غیرفعال است.'}
-  else if(!storageAvailable){n.textContent='ذخیره‌سازی مرورگر در دسترس نیست. برنامه تا زمانی که صفحه باز است در حافظه کار می‌کند؛ تغییرات در صورت بستن یا تازه‌سازی صفحه از بین می‌روند.'}
-  else{n.textContent='ذخیره‌سازی محلی فعال است. داده‌ها به همین مرورگر و مبدأ این فایل وابسته‌اند؛ پاک‌کردن داده‌های سایت یا استفاده از دستگاه/مرورگر دیگر ممکن است دسترسی به آن‌ها را از بین ببرد. پشتیبان JSON را جداگانه نگه دارید.'}
-}
-
+function toast(message,type='success',duration=3600){const n=el('div','toast '+type,message);n.dataset.toast=String(++toastSequence);$('toastRegion').append(n);window.setTimeout(()=>n.remove(),duration)}
+let pendingConfirmAction=null;
+function ask(message,onConfirm){setText('confirmMessage',message);pendingConfirmAction=onConfirm;openModal('confirmModal')}
 function defaultState(){const t=nowIso();return{schemaVersion:SCHEMA_VERSION,settings:{cafeName:'مدیریت فروش کافه',taxRate:0,lowStockThreshold:5,inventoryEnabled:true},products:[{id:'p1',name:'تک ۷۰/۳۰',category:'قهوه',price:90000,costPrice:null,stock:null,active:true,createdAt:t},{id:'p2',name:'دبل ۷۰/۳۰',category:'قهوه',price:100000,costPrice:null,stock:null,active:true,createdAt:t},{id:'p3',name:'تک فول ۱۰۰٪',category:'قهوه',price:80000,costPrice:null,stock:null,active:true,createdAt:t},{id:'p4',name:'دبل فول ۱۰۰٪',category:'قهوه',price:90000,costPrice:null,stock:null,active:true,createdAt:t}],invoices:[],expenses:[],meta:{createdAt:t,updatedAt:t,exportedAt:null}}}
 
 function gregorianToJalali(gy,gm,gd){const gdm=[0,31,59,90,120,151,181,212,243,273,304,334];let gy2=gm>2?gy+1:gy;let days=355666+365*gy+Math.floor((gy2+3)/4)-Math.floor((gy2+99)/100)+Math.floor((gy2+399)/400)+gd+gdm[gm-1];let jy=-1595+33*Math.floor(days/12053);days%=12053;jy+=4*Math.floor(days/1461);days%=1461;if(days>365){jy+=Math.floor((days-1)/365);days=(days-1)%365}const jm=days<186?1+Math.floor(days/31):7+Math.floor((days-186)/30);const jd=1+(days<186?days%31:(days-186)%30);return[jy,jm,jd]}
@@ -913,7 +793,7 @@ function normalizeState(raw,{strict=true}={}){requireObject(raw,'ساختار ف
 function migrateLegacy(productsRaw,invoicesRaw){if(!Array.isArray(productsRaw)||!Array.isArray(invoicesRaw))throw new Error('داده‌های قدیمی ساختار معتبر ندارند.');const products=productsRaw.map((p,i)=>normalizeProduct({...p,category:p.category||'عمومی',costPrice:p.costPrice??null,stock:p.stock??null,active:p.active!==false},i));const map=new Map(products.map(p=>[p.id,p]));const invoices=invoicesRaw.map((inv,i)=>{const oldItems=Array.isArray(inv.items)?inv.items:[];const items=oldItems.map(it=>{const p=map.get(String(it.productId));return{...it,name:it.name||it.productName||p?.name||'محصول آرشیوشده',costPrice:it.costPrice??null,stockTrackedAtSale:false}});const sum=items.reduce((a,x)=>a+Number(x.quantity||0)*Number(x.unitPrice??x.price??0),0);return{...inv,id:inv.id||makeId('legacy-'),number:inv.number||inv.id||String(i+1),items,subtotal:sum,discount:0,tax:0,total:Number.isSafeInteger(inv.total)&&inv.total===sum?inv.total:sum,paidAmount:sum,status:'paid',paymentMethod:'other',stockApplied:false,stockRestored:false}});return normalizeState({schemaVersion:SCHEMA_VERSION,settings:{cafeName:'مدیریت فروش کافه',taxRate:0,lowStockThreshold:5,inventoryEnabled:true},products,invoices,expenses:[]},{strict:true})}
 function loadInitialState(){let raw=null;try{raw=localStorage.getItem(STORAGE_KEY)}catch(e){storageAvailable=false;lastStorageError=String(e)}if(raw!==null){try{return normalizeState(JSON.parse(raw),{strict:true})}catch(e){storageCorrupt=true;lastStorageError=e.message;return defaultState()}}let oldP=null,oldI=null;try{oldP=localStorage.getItem(LEGACY_PRODUCTS_KEY);oldI=localStorage.getItem(LEGACY_INVOICES_KEY)}catch(e){storageAvailable=false;lastStorageError=String(e)}if(oldP!==null||oldI!==null){try{const p=oldP===null?defaultState().products:JSON.parse(oldP);const i=oldI===null?[]:JSON.parse(oldI);const migrated=migrateLegacy(p,i);if(storageAvailable){try{localStorage.setItem(STORAGE_KEY,JSON.stringify(migrated))}catch(e){storageAvailable=false;lastStorageError=String(e)}}return migrated}catch(e){storageCorrupt=true;lastStorageError=e.message;return defaultState()}}const initial=defaultState();if(storageAvailable){try{localStorage.setItem(STORAGE_KEY,JSON.stringify(initial))}catch(e){storageAvailable=false;lastStorageError=String(e)}}return initial}
 function persistNext(next,{allowReplace=false}={}){if(storageCorrupt&&!allowReplace)throw new Error('ذخیره‌سازی قبلی خراب است؛ ابتدا یک پشتیبان معتبر بازیابی کنید یا بازنشانی صریح انجام دهید.');const normalized=normalizeState(next,{strict:true});normalized.meta.updatedAt=nowIso();if(storageAvailable){try{localStorage.setItem(STORAGE_KEY,JSON.stringify(normalized))}catch(e){lastStorageError=String(e);throw new Error('ذخیره‌سازی انجام نشد؛ احتمالاً فضای ذخیره‌سازی محدود است. داده‌ی فعلی تغییر نکرد.')}}state=normalized;return normalized}
-function transact(mutator,{allowReplace=false,silent=false}={}){try{const draft=clone(state);mutator(draft);persistNext(draft,{allowReplace});storageCorrupt=false;renderAll();setStorageHelp();if(!silent)toast(storageAvailable?'تغییرات ذخیره شد.':'تغییرات فقط در حافظه فعلی ثبت شد؛ امکان ذخیره دائمی وجود ندارد.',storageAvailable?'success':'warn');return true}catch(e){toast(e.message||'عملیات انجام نشد.', 'error',5200);setStorageHelp();return false}}
+function transact(mutator,{allowReplace=false,silent=false}={}){try{const draft=clone(state);mutator(draft);persistNext(draft,{allowReplace});storageCorrupt=false;renderAll();if(!silent)toast(storageAvailable?'تغییرات ذخیره شد.':'تغییرات فقط در حافظه فعلی ثبت شد؛ امکان ذخیره دائمی وجود ندارد.',storageAvailable?'success':'warn');return true}catch(e){toast(e.message||'عملیات انجام نشد.', 'error',5200);return false}}
 
 function nonVoidedInvoices(source=state){return source.invoices.filter(i=>i.status!=='void')}
 function invoiceOutstanding(inv){return Math.max(0,inv.total-inv.paidAmount)}
@@ -939,7 +819,7 @@ function normalizeText(s){return String(s??'').toLocaleLowerCase('fa').replace(/
 function matchesSearch(haystack,query){const q=normalizeText(query);if(!q)return true;const h=normalizeText(haystack);return q.split(' ').every(term=>h.includes(term))}
 
 function getFilteredProducts(){const q=$('productSearch').value.trim();const filter=$('productStatusFilter').value;const cacheKey=q+'|'+filter;if(filterCache.products&&filterCache.products.key===cacheKey)return filterCache.products.data;const items=state.products.filter(p=>{const match=matchesSearch(p.name+' '+p.category+' '+p.id,q);const flag=filter==='active'?p.active:filter==='inactive'?!p.active:filter==='low'?(p.active&&p.stock!==null&&p.stock<=state.settings.lowStockThreshold):true;return match&&flag}).sort((a,b)=>Number(b.active)-Number(a.active)||a.name.localeCompare(b.name,'fa'));filterCache.products={key:cacheKey,data:items};return items}
-function getFilteredInvoices(){const q=$('invoiceSearch').value.trim();const status=$('invoiceStatusFilter').value;const cacheKey=q+'|'+status;if(filterCache.invoices&&filterCache.invoices.key===cacheKey)return filterCache.invoices.data;const items=[...state.invoices].sort((a,b)=>new Date(b.date)-new Date(a.date)).filter(i=>{const itemText=i.items.map(x=>x.name).join(' ');return matchesSearch(i.number+' '+i.customer+' '+itemText,q)&&(status==='all'||i.status===status)});filterCache.invoices={key:cacheKey,data:items};return items}
+function getFilteredInvoices(){const q=$('invoiceSearch').value.trim();const status=$('invoiceStatusFilter').value;const cacheKey=q+'|'+status;if(filterCache.invoices&&filterCache.invoices.key===cacheKey)return filterCache.invoices.data;const items=[...state.invoices].sort((a,b)=>new Date(b.date)-new Date(a.date)).filter(i=>{const itemText=i.items.map(x=>x.name).join(' ');const match=matchesSearch(i.number+' '+i.customer+' '+itemText,i=>i,q);const statusMatch=status==='all'||i.status===status;return matchesSearch(i.number+' '+i.customer+' '+itemText,q)&&statusMatch});filterCache.invoices={key:cacheKey,data:items};return items}
 function getFilteredExpenses(){const q=$('expenseSearch').value.trim();const cacheKey=q;if(filterCache.expenses&&filterCache.expenses.key===cacheKey)return filterCache.expenses.data;const items=[...state.expenses].sort((a,b)=>new Date(b.date)-new Date(a.date)).filter(e=>matchesSearch(e.title+' '+e.category+' '+e.notes,q));filterCache.expenses={key:cacheKey,data:items};return items}
 function getFilteredInvoiceProducts(){const q=$('invoiceProductSearch').value.trim();const cacheKey=q;if(filterCache.invoiceProducts&&filterCache.invoiceProducts.key===cacheKey)return filterCache.invoiceProducts.data;const items=state.products.filter(p=>p.active&&matchesSearch(p.name+' '+p.category,q)).sort((a,b)=>a.name.localeCompare(b.name,'fa'));filterCache.invoiceProducts={key:cacheKey,data:items};return items}
 function invalidateFilterCache(type){if(type)delete filterCache[type];else filterCache={}}
@@ -951,14 +831,14 @@ function renderProducts(){const root=$('productsTable');const items=getFilteredP
 function renderInvoices(){const root=$('invoicesTable');const items=getFilteredInvoices();if(!items.length){replaceChildren(root,emptyBox('فاکتوری مطابق فیلترها یافت نشد','فیلتر را تغییر دهید یا فاکتور جدید ثبت کنید.'));return}const t=tableElement(['شماره / تاریخ','مشتری و اقلام','مبلغ کل','دریافتی / مانده','وضعیت','عملیات']);for(const inv of items){const tr=el('tr');const dateBox=el('div');dateBox.append(el('div','cell-main',inv.number),el('div','cell-sub',jalaliDisplay(new Date(inv.date),true)));tr.append(td(dateBox));const detail=el('div');detail.append(el('div','cell-main',inv.customer||'مشتری حضوری'),el('div','cell-sub',inv.items.map(x=>x.name+' ×'+fmtNum(x.quantity)).join('، ')));tr.append(td(detail),td(money(inv.total),'currency'));const payment=el('div');payment.append(el('div','cell-main',money(inv.paidAmount)),el('div','cell-sub','مانده: '+money(invoiceOutstanding(inv))));tr.append(td(payment),td(statusBadge(inv)));const ops=el('div','row-actions');ops.append(actionButton('جزئیات','outline','view-invoice',inv.id),actionButton('چاپ','outline','print-invoice',inv.id));if(inv.status!=='void')ops.append(actionButton('ابطال','danger','void-invoice',inv.id));tr.append(td(ops));t.tbody.append(tr)}replaceChildren(root,t.wrap)}
 function renderExpenses(){const root=$('expensesTable');const items=getFilteredExpenses();const now=new Date(),todayStart=periodStartForDay(now),tomorrow=addCalendarDays(todayStart,1),monthP=makePeriods('6months').at(-1);const today=state.expenses.filter(e=>inPeriod(e.date,todayStart,tomorrow)).reduce((a,e)=>a+e.amount,0);const month=state.expenses.filter(e=>monthP&&inPeriod(e.date,monthP.start,monthP.end)).reduce((a,e)=>a+e.amount,0);replaceChildren($('expenseStats'),statCard('هزینه امروز',money(today),'بر اساس تاریخ محلی','M3 3v18h18'),statCard('هزینه ماه جاری',money(month),'ماه شمسی جاری','M8 2v4M16 2v4M3 10h18'),statCard('تعداد هزینه‌ها',fmtNum(state.expenses.length),'تمام سوابق هزینه','M4 5h16M4 12h16M4 19h16'),statCard('مجموع هزینه‌ها',money(state.expenses.reduce((a,e)=>a+e.amount,0)),'از ابتدا تا امروز و آینده','M12 2v20'));if(!items.length){replaceChildren(root,emptyBox('هزینه‌ای یافت نشد','از دکمه ثبت هزینه برای افزودن هزینه استفاده کنید.'));return}const t=tableElement(['تاریخ','شرح هزینه','دسته‌بندی','مبلغ','عملیات']);for(const x of items){const tr=el('tr');tr.append(td(jalaliDisplay(new Date(x.date),true)));const title=el('div');title.append(el('div','cell-main',x.title));if(x.notes)title.append(el('div','cell-sub',x.notes));tr.append(td(title),td(x.category||'سایر'),td(money(x.amount),'currency'));const ops=el('div','row-actions');ops.append(actionButton('ویرایش','outline','edit-expense',x.id),actionButton('حذف','danger','delete-expense',x.id));tr.append(td(ops));t.tbody.append(tr)}replaceChildren(root,t.wrap)}
 function renderReport(){const periods=reportPeriods(reportRange);const totalSales=periods.reduce((a,p)=>a+p.sales,0),totalExpenses=periods.reduce((a,p)=>a+p.expenses,0),invoiceCount=periods.reduce((a,p)=>a+p.invoiceCount,0),totalDue=periods.reduce((a,p)=>a+p.due,0);replaceChildren($('reportStats'),statCard('مجموع فروش',money(totalSales),'فاکتورهای باطل‌شده محاسبه نمی‌شوند','M3 3v18h18'),statCard('تعداد فاکتورها',fmtNum(invoiceCount),'در بازه انتخاب‌شده','M6 2h9l5 5v15H6z'),statCard('هزینه ثبت‌شده',money(totalExpenses),'هزینه‌های ثبت‌شده در همین بازه','M4 5h16M4 12h16M4 19h16'),statCard('خالص عملیاتی تقریبی',money(totalSales-totalExpenses),'فروش منهای هزینه‌های ثبت‌شده','M12 2v20'));setText('reportSubtitle',periods.length?periods[0].label+' تا '+periods[periods.length-1].label:'');drawChart($('reportChart'),periods.map(p=>p.label),periods.map(p=>p.sales),reportRange==='daily'||reportRange==='weekly'?'bar':'line');const t=tableElement(['دوره','فروش','فاکتور','مطالبات','هزینه','خالص عملیاتی','سود ناخالص قابل محاسبه']);for(const p of [...periods].reverse()){const tr=el('tr');tr.append(td(p.label),td(money(p.sales),'currency'),td(fmtNum(p.invoiceCount)),td(money(p.due),'currency'),td(money(p.expenses),'currency'),td(money(p.net),'currency'),td(p.grossProfitCount?money(p.grossProfit)+' ('+fmtNum(p.grossProfitCount)+' فاکتور)':'اطلاعات بهای تمام‌شده کامل نیست'));t.tbody.append(tr)}replaceChildren($('reportDetails'),periods.length?t.wrap:emptyBox('داده‌ای برای گزارش موجود نیست'));}
-function renderAll(){if(!state)return;invalidateFilterCache();setText('brandTitle',state.settings.cafeName||'مدیریت فروش کافه');$('settingsCafeName').value=state.settings.cafeName;$('settingsTaxRate').value=String(state.settings.taxRate);$('settingsLowStock').value=String(state.settings.lowStockThreshold);$('settingsInventoryEnabled').checked=state.settings.inventoryEnabled;renderDashboard();renderInvoices();renderProducts();renderExpenses();renderReport();renderProductPicker();updateCartTotals();setStorageHelp()}
+function renderAll(){if(!state)return;invalidateFilterCache();setText('brandTitle',state.settings.cafeName||'مدیریت فروش کافه');$('settingsCafeName').value=state.settings.cafeName;$('settingsTaxRate').value=String(state.settings.taxRate);$('settingsLowStock').value=String(state.settings.lowStockThreshold);$('settingsInventoryEnabled').checked=state.settings.inventoryEnabled;renderDashboard();renderInvoices();renderProducts();renderExpenses();renderReport();renderProductPicker();updateCartTotals()}
 
 function drawChart(canvas,labels,values,type='bar'){if(!canvas)return;const width=Math.max(260,canvas.clientWidth||canvas.parentElement.clientWidth||600);const height=Math.max(190,canvas.clientHeight||300);const dpr=Math.min(window.devicePixelRatio||1,2);canvas.width=Math.floor(width*dpr);canvas.height=Math.floor(height*dpr);const ctx=canvas.getContext('2d');ctx.setTransform(dpr,0,0,dpr,0,0);ctx.clearRect(0,0,width,height);ctx.direction='rtl';ctx.font='11px Vazirmatn, Tahoma, Arial, sans-serif';const pad={top:18,right:18,bottom:48,left:66};const cw=width-pad.left-pad.right,ch=height-pad.top-pad.bottom;if(cw<=0||ch<=0)return;const maxVal=Math.max(0,...values.map(x=>num(x)));let niceMax=1;if(maxVal>0){const exponent=Math.floor(Math.log10(maxVal));const scale=Math.pow(10,exponent);const fraction=maxVal/scale;const niceFraction=fraction<=1?1:fraction<=2?2:fraction<=5?5:10;niceMax=niceFraction*scale;}ctx.strokeStyle='rgba(166,123,91,.2)';ctx.lineWidth=1;ctx.fillStyle='#8f7d6e';ctx.textAlign='left';ctx.textBaseline='middle';for(let i=0;i<=4;i++){const y=pad.top+ch-(ch*i/4);ctx.beginPath();ctx.moveTo(pad.left,y);ctx.lineTo(width-pad.right,y);ctx.stroke();const val=niceMax*i/4;ctx.fillText(compactMoney(val),4,y)}const count=values.length||1;const centers=values.map((_,i)=>pad.left+(i+.5)*cw/count);const yOf=v=>pad.top+ch-(num(v)/niceMax)*ch;if(type==='bar'){const slot=cw/count,barW=Math.max(4,Math.min(42,slot*.58));values.forEach((v,i)=>{const y=yOf(v),x=centers[i]-barW/2;const grad=ctx.createLinearGradient(0,y,0,pad.top+ch);grad.addColorStop(0,'#a87953');grad.addColorStop(1,'#60402b');ctx.fillStyle=grad;roundRect(ctx,x,y,barW,Math.max(0,pad.top+ch-y),Math.min(6,barW/2));ctx.fill()})}else{ctx.beginPath();values.forEach((v,i)=>{const x=centers[i],y=yOf(v);if(i===0)ctx.moveTo(x,y);else ctx.lineTo(x,y)});ctx.strokeStyle='#704c35';ctx.lineWidth=2.7;ctx.stroke();if(values.length>1){ctx.lineTo(centers.at(-1),pad.top+ch);ctx.lineTo(centers[0],pad.top+ch);ctx.closePath();const grad=ctx.createLinearGradient(0,pad.top,0,pad.top+ch);grad.addColorStop(0,'rgba(112,76,53,.22)');grad.addColorStop(1,'rgba(112,76,53,.015)');ctx.fillStyle=grad;ctx.fill();ctx.beginPath();values.forEach((v,i)=>{const x=centers[i],y=yOf(v);if(i===0)ctx.moveTo(x,y);else ctx.lineTo(x,y)});ctx.strokeStyle='#704c35';ctx.lineWidth=2.7;ctx.stroke()}values.forEach((v,i)=>{ctx.beginPath();ctx.arc(centers[i],yOf(v),3.5,0,Math.PI*2);ctx.fillStyle='#704c35';ctx.fill();ctx.strokeStyle='white';ctx.lineWidth=1.4;ctx.stroke()})}ctx.fillStyle='#78695c';ctx.font='10px Vazirmatn, Tahoma, Arial, sans-serif';ctx.textAlign='center';ctx.textBaseline='top';const step=count>9?Math.ceil(count/8):1;labels.forEach((label,i)=>{if(i%step!==0&&i!==count-1)return;let str=String(label);if(str.length>15)str=str.slice(0,13)+'…';ctx.fillText(str,centers[i],pad.top+ch+12,Math.max(30,cw/count+8))})}
 function compactMoney(n){const x=num(n);if(x>=1000000000)return fmtNum(Math.round(x/100000000)/10)+'B';if(x>=1000000)return fmtNum(Math.round(x/100000)/10)+'M';if(x>=1000)return fmtNum(Math.round(x/100)/10)+'K';return fmtNum(x)}
 function roundRect(ctx,x,y,w,h,r){if(h<=0)return;const rr=Math.min(r,w/2,h/2);ctx.beginPath();ctx.moveTo(x+rr,y);ctx.arcTo(x+w,y,x+w,y+h,rr);ctx.arcTo(x+w,y+h,x,y+h,rr);ctx.arcTo(x,y+h,x,y,rr);ctx.arcTo(x,y,x+w,y,rr);ctx.closePath()}
 
 function openModal(id){lastFocused=document.activeElement;const layer=$(id);layer.classList.add('open');layer.setAttribute('aria-hidden','false');const focusable=layer.querySelector('input:not([type=hidden]),select,textarea,button:not(:disabled)');if(focusable)window.setTimeout(()=>focusable.focus(),30)}
-async function closeModal(id,{force=false}={}){const layer=$(id);if(id==='invoiceModal'&&!force&&cart.size){const ok=await confirmDialog('سبد فاکتور ثبت نشده است. بدون ذخیره خارج می‌شوید؟',{title:'خروج از فاکتور',okText:'خروج',cancelText:'بمان'});if(!ok)return}layer.classList.remove('open');layer.setAttribute('aria-hidden','true');if(id==='importModal')clearImport();if(lastFocused&&typeof lastFocused.focus==='function')lastFocused.focus()}
+function closeModal(id,{force=false}={}){const layer=$(id);if(id==='invoiceModal'&&!force&&cart.size&& !ask('سبد فاکتور ثبت نشده است. بدون ذخیره خارج می‌شوید؟'))return;layer.classList.remove('open');layer.setAttribute('aria-hidden','true');if(id==='importModal')clearImport();if(lastFocused&&typeof lastFocused.focus==='function')lastFocused.focus()}
 function closeAll(){const open=document.querySelector('.modal-layer.open');if(open)closeModal(open.id)}
 function showInvoiceModal(){cart=new Map();$('invoiceCustomer').value='';$('invoicePaymentMethod').value='cash';$('invoiceDiscount').value='0';$('invoicePaid').value='';$('invoiceNotes').value='';$('invoiceProductSearch').value='';invalidateFilterCache('invoiceProducts');renderProductPicker();renderCart();openModal('invoiceModal');updateCartTotals()}
 function renderProductPicker(){const root=$('invoiceProductGrid');if(!root)return;const products=getFilteredInvoiceProducts();if(!products.length){replaceChildren(root,emptyBox('محصول فعالی پیدا نشد','ابتدا از بخش محصولات، محصول فعال اضافه کنید.'));return}const nodes=[];for(const p of products){const qty=cart.get(p.id)||0;const noStock=state.settings.inventoryEnabled&&p.stock!==null&&p.stock<=0;const b=el('button','product-pick');b.type='button';b.dataset.pickProduct=p.id;b.disabled=noStock;const name=el('span','pick-name',p.name);const price=el('span','pick-price',money(p.price));const stock=el('span','pick-stock',p.stock===null?'موجودی ثبت نشده':'موجودی: '+fmtNum(p.stock));b.append(name,price,stock);if(qty)b.append(el('span','count',fmtNum(qty)));nodes.push(b)}replaceChildren(root,...nodes)}
@@ -969,11 +849,11 @@ function saveInvoice(){if(storageCorrupt){toast('ذخیره‌سازی قفل ا
 function openProductModal(id=null){$('productForm').reset();$('productId').value='';$('productModalTitle').textContent=id?'ویرایش محصول':'محصول جدید';if(id){const p=state.products.find(x=>x.id===id);if(!p)return;$('productId').value=p.id;$('productName').value=p.name;$('productCategory').value=p.category;$('productPrice').value=String(p.price);$('productCost').value=p.costPrice===null?'':String(p.costPrice);$('productStock').value=p.stock===null?'':String(p.stock)}openModal('productModal')}
 function saveProductFromForm(event){event.preventDefault();const id=$('productId').value;const name=$('productName').value.trim();const category=$('productCategory').value.trim()||'عمومی';const price=requireMoney($('productPrice').value,'قیمت محصول');const costValue=$('productCost').value.trim();const stockValue=$('productStock').value.trim();const costPrice=costValue===''?null:requireMoney(costValue,'بهای تمام‌شده');const stock=stockValue===''?null:requireInteger(stockValue,'موجودی',0,100000000);if(!name||name.length>120)throw new Error('نام محصول را به‌صورت معتبر وارد کنید.');if(!Number.isSafeInteger(price))throw new Error('قیمت باید عدد صحیح باشد.');const product={id:id||makeId('prod-'),name,category,price,costPrice,stock,active:true,createdAt:nowIso()};const ok=transact(d=>{if(d.products.some(p=>p.id!==id&&p.active&&p.name.toLocaleLowerCase()===name.toLocaleLowerCase()))throw new Error('محصول فعال دیگری با این نام وجود دارد.');if(id){const ix=d.products.findIndex(p=>p.id===id);if(ix<0)throw new Error('محصول برای ویرایش یافت نشد.');product.active=d.products[ix].active;product.createdAt=d.products[ix].createdAt;d.products[ix]=product}else{d.products.push(product)}},{silent:true});if(ok){closeModal('productModal',{force:true});toast(id?'محصول ویرایش شد.':'محصول اضافه شد.','success')}}
 function toggleProduct(id){const p=state.products.find(x=>x.id===id);if(!p)return;transact(d=>{const x=d.products.find(y=>y.id===id);x.active=!x.active},{silent:true});toast(p.active?'محصول غیرفعال شد.':'محصول فعال شد.','success')}
-async function deleteProduct(id){const p=state.products.find(x=>x.id===id);if(!p)return;const used=state.invoices.some(inv=>inv.items.some(it=>it.productId===id));if(used){const ok=await confirmDialog('این محصول در سوابق فروش استفاده شده است. به‌جای حذف، غیرفعال شود تا تاریخچه حفظ شود؟',{title:'محصول در حال استفاده',okText:'غیرفعال کن',cancelText:'انصراف'});if(ok)transact(d=>{const x=d.products.find(y=>y.id===id);if(x)x.active=false});return}const ok=await confirmDialog('محصول «'+p.name+'» حذف شود؟',{title:'حذف محصول',okText:'حذف',cancelText:'انصراف'});if(ok)transact(d=>{d.products=d.products.filter(x=>x.id!==id)})}
+function deleteProduct(id){const p=state.products.find(x=>x.id===id);if(!p)return;const used=state.invoices.some(inv=>inv.items.some(it=>it.productId===id));if(used){if(ask('این محصول در سوابق فروش استفاده شده است. به‌جای حذف، غیرفعال شود تا تاریخچه حفظ شود؟'))transact(d=>{const x=d.products.find(y=>y.id===id);if(x)x.active=false});return}if(ask('محصول «'+p.name+'» حذف شود؟'))transact(d=>{d.products=d.products.filter(x=>x.id!==id)})}
 function openExpenseModal(id=null){$('expenseForm').reset();$('expenseId').value='';$('expenseDate').value=timeToLocalInput();$('expenseModalTitle').textContent=id?'ویرایش هزینه':'ثبت هزینه';if(id){const e=state.expenses.find(x=>x.id===id);if(!e)return;$('expenseId').value=id;$('expenseTitle').value=e.title;$('expenseAmount').value=String(e.amount);$('expenseCategory').value=e.category;$('expenseDate').value=timeToLocalInput(new Date(e.date));$('expenseNotes').value=e.notes}openModal('expenseModal')}
 function saveExpenseFromForm(event){event.preventDefault();const id=$('expenseId').value,title=$('expenseTitle').value.trim(),amount=requireMoney($('expenseAmount').value,'مبلغ هزینه'),category=$('expenseCategory').value,date=parseLocalDateTime($('expenseDate').value),notes=$('expenseNotes').value.trim();if(!title||title.length>120)throw new Error('عنوان هزینه معتبر نیست.');if(!Number.isSafeInteger(amount)||amount<=0)throw new Error('مبلغ هزینه باید عدد صحیح و بیشتر از صفر باشد.');if(!date)throw new Error('تاریخ هزینه معتبر نیست.');const expense={id:id||makeId('exp-'),title,amount,category,date:date.toISOString(),notes};const ok=transact(d=>{if(id){const i=d.expenses.findIndex(x=>x.id===id);if(i<0)throw new Error('هزینه یافت نشد.');d.expenses[i]=expense}else d.expenses.push(expense)},{silent:true});if(ok){closeModal('expenseModal',{force:true});toast(id?'هزینه ویرایش شد.':'هزینه ثبت شد.','success')}}
-async function deleteExpense(id){const exp=state.expenses.find(x=>x.id===id);if(!exp)return;const ok=await confirmDialog('هزینه «'+exp.title+'» حذف شود؟',{title:'حذف هزینه',okText:'حذف',cancelText:'انصراف'});if(ok)transact(d=>{d.expenses=d.expenses.filter(x=>x.id!==id)})}
-async function voidInvoice(id){const inv=state.invoices.find(x=>x.id===id);if(!inv||inv.status==='void')return;const msg='فاکتور '+inv.number+' باطل شود؟ فروش آن از گزارش‌ها خارج می‌شود.'+(inv.stockApplied&&!inv.stockRestored?' موجودی اقلامی که هنگام فروش از انبار کسر شده‌اند نیز برگردانده می‌شود.':'');const ok=await confirmDialog(msg,{title:'ابطال فاکتور',okText:'ابطال',cancelText:'انصراف'});if(!ok)return;transact(d=>{const x=d.invoices.find(v=>v.id===id);if(!x||x.status==='void')throw new Error('فاکتور دیگر قابل ابطال نیست.');x.status='void';x.voidedAt=nowIso();if(x.stockApplied&&!x.stockRestored){for(const item of x.items){if(!item.stockTrackedAtSale)continue;const p=d.products.find(y=>y.id===item.productId);if(p&&p.stock!==null)p.stock+=item.quantity}x.stockRestored=true}})}
+function deleteExpense(id){const exp=state.expenses.find(x=>x.id===id);if(exp&&ask('هزینه «'+exp.title+'» حذف شود؟'))transact(d=>{d.expenses=d.expenses.filter(x=>x.id!==id)})}
+function voidInvoice(id){const inv=state.invoices.find(x=>x.id===id);if(!inv||inv.status==='void')return;if(!ask('فاکتور '+inv.number+' باطل شود؟ فروش آن از گزارش‌ها خارج می‌شود.'+(inv.stockApplied&&!inv.stockRestored?' موجودی اقلامی که هنگام فروش از انبار کسر شده‌اند نیز برگردانده می‌شود.':'')))return;transact(d=>{const x=d.invoices.find(v=>v.id===id);if(!x||x.status==='void')throw new Error('فاکتور دیگر قابل ابطال نیست.');x.status='void';x.voidedAt=nowIso();if(x.stockApplied&&!x.stockRestored){for(const item of x.items){if(!item.stockTrackedAtSale)continue;const p=d.products.find(y=>y.id===item.productId);if(p&&p.stock!==null)p.stock+=item.quantity}x.stockRestored=true}})}
 
 function openInvoiceDetail(id){const inv=state.invoices.find(x=>x.id===id);if(!inv)return;detailInvoiceId=id;setText('detailModalTitle','فاکتور '+inv.number);const root=$('invoiceDetailContent');clear(root);const summary=el('div','form-grid');const info=[['تاریخ',jalaliDisplay(new Date(inv.date),true)],['مشتری',inv.customer||'مشتری حضوری'],['روش پرداخت',paymentLabel(inv.paymentMethod)],['وضعیت',STATUS_NAMES[inv.status]||inv.status],['شماره فاکتور',inv.number],['شناسه داخلی',inv.id]];for(const[k,v]of info){const box=el('div','help-box');box.append(el('div','small subtle',k),el('strong','',v));summary.append(box)}root.append(summary);root.append(el('h3','section-label','اقلام فاکتور'));const t=tableElement(['محصول','تعداد','قیمت واحد','جمع']);for(const item of inv.items){const tr=el('tr');tr.append(td(item.name),td(fmtNum(item.quantity)),td(money(item.unitPrice),'currency'),td(money(item.lineTotal??item.quantity*item.unitPrice),'currency'));t.tbody.append(tr)}root.append(t.wrap);const totals=el('div','totals');for(const[k,v]of [['جمع اقلام',inv.subtotal],['تخفیف',inv.discount],['مالیات',inv.tax],['مبلغ نهایی',inv.total],['پرداخت‌شده',inv.paidAmount],['مانده',invoiceOutstanding(inv)]]){const line=el('div','total-line'+(k==='مبلغ نهایی'?' final':''));line.append(el('span','',k),el('strong','',money(v)));totals.append(line)}root.append(totals);if(inv.notes)root.append(el('p','help-box','یادداشت: '+inv.notes));if(inv.status==='void')root.append(el('p','badge red','باطل‌شده در '+(inv.voidedAt?jalaliDisplay(new Date(inv.voidedAt),true):'—')));const actions=$('detailActions');clear(actions);actions.append(actionButton('چاپ رسید','primary','print-invoice',inv.id));if(inv.status!=='void')actions.append(actionButton('ابطال فاکتور','danger','void-invoice',inv.id));actions.append(el('button','btn outline','بستن'));actions.lastChild.type='button';actions.lastChild.dataset.close='detailModal';openModal('detailModal')}
 function escapeHtml(value){return String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
@@ -988,194 +868,61 @@ function exportReportCsv(){const rows=[['دوره','از','تا (غیرشامل)
 function clearImport(){importDraft=null;$('importFile').value='';setText('importPreview','هنوز فایلی انتخاب نشده است.');$('applyImportBtn').disabled=true}
 function openImport(){clearImport();openModal('importModal')}
 function onImportFile(event){const file=event.target.files&&event.target.files[0];if(!file)return;importDraft=null;$('applyImportBtn').disabled=true;if(file.size>10*1024*1024){setText('importPreview','فایل بزرگ‌تر از ۱۰ مگابایت است.');toast('فایل پشتیبان بیش از حد بزرگ است.','error');return}const reader=new FileReader();reader.onerror=()=>setText('importPreview','خواندن فایل ناموفق بود.');reader.onload=()=>{try{const raw=JSON.parse(String(reader.result));let normalized;if(raw&&raw.schemaVersion===SCHEMA_VERSION){normalized=normalizeState(raw,{strict:true})}else if(raw&&Array.isArray(raw.products)&&Array.isArray(raw.invoices)){if(Array.isArray(raw.expenses))normalized=normalizeState(raw,{strict:true});else normalized=migrateLegacy(raw.products,raw.invoices)}else throw new Error('ساختار پشتیبان شناخته‌شده نیست.');importDraft=normalized;const preview='فایل معتبر است.\nمحصولات: '+fmtNum(normalized.products.length)+'\nفاکتورها: '+fmtNum(normalized.invoices.length)+'\nهزینه‌ها: '+fmtNum(normalized.expenses.length)+'\nآخرین تغییر ثبت‌شده: '+jalaliDisplay(new Date(normalized.meta.updatedAt),true)+'\n\nتوجه: با تأیید، اطلاعات فعلی جایگزین می‌شوند.';setText('importPreview',preview);$('applyImportBtn').disabled=false}catch(e){setText('importPreview','فایل رد شد: '+e.message+'\n\nهیچ تغییری در اطلاعات فعلی ایجاد نشده است.');toast('فایل پشتیبان معتبر نیست.','error',5000)}};reader.readAsText(file)}
-async function applyImport(){if(!importDraft)return;const ok=await confirmDialog('داده‌های فعلی با محتوای فایل پشتیبان جایگزین شوند؟',{title:'بازیابی پشتیبان',okText:'جایگزینی',cancelText:'انصراف'});if(!ok)return;const d=clone(importDraft);const applied=transact(target=>{target.schemaVersion=d.schemaVersion;target.settings=d.settings;target.products=d.products;target.invoices=d.invoices;target.expenses=d.expenses;target.meta=d.meta},{allowReplace:true,silent:true});if(applied){storageCorrupt=false;closeModal('importModal',{force:true});toast('پشتیبان اعتبارسنجی شد و بازیابی انجام شد.','success')}}
-async function resetAll(){const ok=await confirmDialog('تمام محصولات، فاکتورها، هزینه‌ها و تنظیمات برنامه بازنشانی شوند؟\nاین عملیات اطلاعات فعلی را جایگزین می‌کند؛ ابتدا پشتیبان بگیرید.',{title:'بازنشانی داده‌ها',okText:'بازنشانی',cancelText:'انصراف'});if(!ok)return;const d=defaultState();try{const normalized=normalizeState(d,{strict:true});if(storageAvailable){localStorage.setItem(STORAGE_KEY,JSON.stringify(normalized));localStorage.removeItem(LEGACY_PRODUCTS_KEY);localStorage.removeItem(LEGACY_INVOICES_KEY)}state=normalized;storageCorrupt=false;renderAll();toast('داده‌ها بازنشانی شدند.','success')}catch(e){toast('بازنشانی انجام نشد: '+e.message,'error')}}
+function applyImport(){if(!importDraft)return;const d=clone(importDraft);const ok=transact(target=>{target.schemaVersion=d.schemaVersion;target.settings=d.settings;target.products=d.products;target.invoices=d.invoices;target.expenses=d.expenses;target.meta=d.meta},{allowReplace:true,silent:true});if(ok){storageCorrupt=false;closeModal('importModal',{force:true});toast('پشتیبان اعتبارسنجی شد و بازیابی انجام شد.','success')}}
+function resetAll(){ask('تمام محصولات، فاکتورها، هزینه‌ها و تنظیمات برنامه بازنشانی شوند؟\nاین عملیات اطلاعات فعلی را جایگزین می‌کند؛ ابتدا پشتیبان بگیرید.',()=>{const d=defaultState();try{const normalized=normalizeState(d,{strict:true});if(storageAvailable){localStorage.setItem(STORAGE_KEY,JSON.stringify(normalized));localStorage.removeItem(LEGACY_PRODUCTS_KEY);localStorage.removeItem(LEGACY_INVOICES_KEY)}state=normalized;storageCorrupt=false;renderAll();toast('داده‌ها بازنشانی شدند.','success')}catch(e){toast('بازنشانی انجام نشد: '+e.message,'error')}})}
 
 function switchView(name){const target=$('view-'+name);if(!target)return;document.querySelectorAll('.view').forEach(v=>v.classList.toggle('active',v===target));document.querySelectorAll('.tab[data-view]').forEach(b=>{const active=b.dataset.view===name;b.classList.toggle('active',active);b.setAttribute('aria-selected',String(active))});if(name==='dashboard')renderDashboard();if(name==='reports')renderReport();if(name==='products')renderProducts();if(name==='invoices')renderInvoices();if(name==='expenses')renderExpenses();window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})}
 function saveSettings(){const cafeName=$('settingsCafeName').value.trim()||'مدیریت فروش کافه';const taxRate=Number($('settingsTaxRate').value);const lowStockThreshold=Number($('settingsLowStock').value);if(!Number.isFinite(taxRate)||taxRate<0||taxRate>100){toast('درصد مالیات باید بین صفر تا صد باشد.','error');return}if(!Number.isSafeInteger(lowStockThreshold)||lowStockThreshold<0||lowStockThreshold>1000000){toast('آستانه هشدار موجودی نامعتبر است.','error');return}transact(d=>{d.settings={...d.settings,cafeName,taxRate,lowStockThreshold,inventoryEnabled:$('settingsInventoryEnabled').checked}})}
-function handleAction(action,id){switch(action){case'view-invoice':openInvoiceDetail(id);break;case'print-invoice':printInvoice(id);break;case'void-invoice':voidInvoice(id).then(()=>{if($('detailModal').classList.contains('open'))closeModal('detailModal',{force:true})});break;case'edit-product':openProductModal(id);break;case'toggle-product':toggleProduct(id);break;case'delete-product':deleteProduct(id);break;case'edit-expense':openExpenseModal(id);break;case'delete-expense':deleteExpense(id);break}}
-
-const MANIFEST_ICON_SVG='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#704c35"/><stop offset="1" stop-color="#2f1f15"/></linearGradient></defs><rect width="512" height="512" rx="112" fill="url(#g)"/><g fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"><path d="M384 176h24a56 56 0 0 1 0 112h-24"/><path d="M88 176h296v112a96 96 0 0 1-96 96H184a96 96 0 0 1-96-96V176z"/><path d="M152 96v40M224 96v40M296 96v40"/></g></svg>';
-const MANIFEST_ICON_DATA_URL='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(MANIFEST_ICON_SVG);
-
-function setupManifest(){
-  const manifest={
-    name:'مدیریت فروش کافه',
-    short_name:'کافه',
-    description:'سیستم مدیریت فروش، فاکتور، محصولات، هزینه‌ها و گزارش‌های کافه',
-    lang:'fa',
-    dir:'rtl',
-    start_url:'.',
-    scope:'.',
-    display:'standalone',
-    orientation:'portrait',
-    background_color:'#f3ede5',
-    theme_color:'#704c35',
-    icons:[
-      {src:MANIFEST_ICON_DATA_URL,sizes:'any',type:'image/svg+xml',purpose:'any'},
-      {src:MANIFEST_ICON_DATA_URL,sizes:'any',type:'image/svg+xml',purpose:'maskable'}
-    ]
-  };
-  const blob=new Blob([JSON.stringify(manifest)],{type:'application/manifest+json'});
-  const url=URL.createObjectURL(blob);
-  $('appManifest').setAttribute('href',url);
-}
-
-function isStandalone(){
-  return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone===true;
-}
-
-function detectPlatform(){
-  const ua=navigator.userAgent||'';
-  if(/iPad|iPhone|iPod/.test(ua)&&!window.MSStream)return 'ios';
-  if(/Android/.test(ua))return 'android';
-  return 'desktop';
-}
-
-function showInstallBanner(){
-  if(isStandalone()||installDismissed)return;
-  const banner=$('installBanner');
-  const text=$('installBannerText');
-  const action=$('installActionBtn');
-  const platform=detectPlatform();
-  if(deferredPrompt){
-    text.textContent='برای دسترسی سریع‌تر و کارکرد آفلاین، این برنامه را روی دستگاه نصب کنید.';
-    action.textContent='نصب برنامه';
-    action.disabled=false;
-    action.dataset.mode='prompt';
-  }else if(platform==='ios'){
-    text.textContent='در سافاری روی دکمه اشتراک‌گذاری بزنید و «افزودن به صفحه اصلی» را انتخاب کنید.';
-    action.textContent='راهنما';
-    action.disabled=false;
-    action.dataset.mode='ios-help';
-  }else if(platform==='desktop'){
-    text.textContent='از منوی مرورگر گزینه «نصب برنامه» یا «Create Shortcut» را انتخاب کنید تا به‌صورت اپ نصب شود.';
-    action.textContent='راهنما';
-    action.disabled=false;
-    action.dataset.mode='desktop-help';
-  }else{
-    text.textContent='مرورگر شما از نصب مستقیم پشتیبانی نمی‌کند؛ می‌توانید صفحه را به صفحه اصلی اضافه کنید.';
-    action.textContent='متوجه شدم';
-    action.disabled=false;
-    action.dataset.mode='noop';
-  }
-  banner.classList.add('show');
-}
-
-function hideInstallBanner(){
-  $('installBanner').classList.remove('show');
-}
-
-function setupInstallFlow(){
-  if(isStandalone()){
-    document.body.classList.add('standalone');
-    document.getElementById('appRoot').classList.add('standalone');
-    hideInstallBanner();
-    return;
-  }
-  window.addEventListener('beforeinstallprompt',e=>{
-    e.preventDefault();
-    deferredPrompt=e;
-    showInstallBanner();
-  });
-  window.addEventListener('appinstalled',()=>{
-    deferredPrompt=null;
-    installDismissed=true;
-    hideInstallBanner();
-    toast('برنامه با موفقیت نصب شد.','success',5000);
-  });
-  $('installActionBtn').addEventListener('click',async()=>{
-    const mode=$('installActionBtn').dataset.mode;
-    if(mode==='prompt'&&deferredPrompt){
-      try{
-        deferredPrompt.prompt();
-        const choice=await deferredPrompt.userChoice;
-        if(choice&&choice.outcome==='accepted'){
-          toast('نصب آغاز شد.','success');
-        }
-        deferredPrompt=null;
-      }catch(e){
-        toast('نصب انجام نشد.','error');
-      }
-      hideInstallBanner();
-    }else if(mode==='ios-help'){
-      toast('در سافاری دکمه اشتراک‌گذاری (مربع با فلش) پایین صفحه را بزنید، سپس «افزودن به صفحه اصلی» را انتخاب کنید.','info',8000);
-    }else if(mode==='desktop-help'){
-      toast('در کروم/اج از منوی سه‌نقطه بالای مرورگر گزینه «نصب برنامه» یا «Install app» را انتخاب کنید.','info',8000);
-    }else{
-      hideInstallBanner();
-    }
-  });
-  $('installDismissBtn').addEventListener('click',()=>{
-    installDismissed=true;
-    hideInstallBanner();
-  });
-  if(!deferredPrompt&&!isStandalone()){
-    window.setTimeout(()=>{
-      if(!deferredPrompt&&!isStandalone())showInstallBanner();
-    },1800);
-  }
-}
-
-function setupServiceWorker(){
-  if(!('serviceWorker' in navigator))return;
-  if(location.protocol!=='http:'&&location.protocol!=='https:')return;
-  const swCode=`
-    const CACHE='cafe-app-v1';
-    self.addEventListener('install',e=>{self.skipWaiting()});
-    self.addEventListener('activate',e=>{e.waitUntil(self.clients.claim())});
-    self.addEventListener('fetch',e=>{
-      if(e.request.method!=='GET')return;
-      e.respondWith(
-        caches.match(e.request).then(cached=>{
-          const fetchPromise=fetch(e.request).then(res=>{
-            if(res&&res.status===200&&res.type==='basic'){
-              const clone=res.clone();
-              caches.open(CACHE).then(c=>c.put(e.request,clone)).catch(()=>{});
-            }
-            return res;
-          }).catch(()=>cached);
-          return cached||fetchPromise;
-        })
-      );
-    });
-  `;
-  try{
-    const blob=new Blob([swCode],{type:'text/javascript'});
-    const url=URL.createObjectURL(blob);
-    navigator.serviceWorker.register(url).catch(()=>{});
-  }catch(e){}
-}
-
-function init(){
-  setupManifest();
-  state=loadInitialState();
-  if(storageCorrupt){toast('داده ذخیره‌شده قابل خواندن نیست. برای جلوگیری از بازنویسی خودکار، تغییرات قفل شدند.','error',8000)}
-  else if(!storageAvailable){toast('ذخیره‌سازی مرورگر در دسترس نیست؛ تغییرات ماندگار نخواهند بود.','warn',7000)}
-  setStorageHelp();
-  renderAll();
-  setupInstallFlow();
-  setupServiceWorker();
-  document.querySelectorAll('.tab[data-view]').forEach(b=>b.addEventListener('click',()=>switchView(b.dataset.view)));
-  document.querySelectorAll('[data-go]').forEach(b=>b.addEventListener('click',()=>switchView(b.dataset.go)));
-  $('newInvoiceBtn').addEventListener('click',showInvoiceModal);$('newInvoiceBtn2').addEventListener('click',showInvoiceModal);$('addProductBtn').addEventListener('click',()=>openProductModal());$('addExpenseBtn').addEventListener('click',()=>openExpenseModal());
-  $('exportBtn').addEventListener('click',exportData);$('exportBtn2').addEventListener('click',exportData);$('importBtn').addEventListener('click',openImport);$('importBtn2').addEventListener('click',openImport);$('importFile').addEventListener('change',onImportFile);$('applyImportBtn').addEventListener('click',applyImport);$('resetAllBtn').addEventListener('click',resetAll);$('saveSettingsBtn').addEventListener('click',saveSettings);
-  $('exportInvoicesCsv').addEventListener('click',exportInvoicesCsv);$('exportInvoicesCsv2').addEventListener('click',exportInvoicesCsv);$('exportExpensesCsv').addEventListener('click',exportExpensesCsv);$('exportReportCsv').addEventListener('click',exportReportCsv);
-  $('productForm').addEventListener('submit',e=>{try{saveProductFromForm(e)}catch(err){e.preventDefault();toast(err.message,'error')}});$('expenseForm').addEventListener('submit',e=>{try{saveExpenseFromForm(e)}catch(err){e.preventDefault();toast(err.message,'error')}});
-  $('productSearch').addEventListener('input',()=>{invalidateFilterCache('products');renderProducts()});
-  $('productStatusFilter').addEventListener('change',()=>{invalidateFilterCache('products');renderProducts()});
-  $('invoiceSearch').addEventListener('input',()=>{invalidateFilterCache('invoices');renderInvoices()});
-  $('invoiceStatusFilter').addEventListener('change',()=>{invalidateFilterCache('invoices');renderInvoices()});
-  $('expenseSearch').addEventListener('input',()=>{invalidateFilterCache('expenses');renderExpenses()});
-  $('invoiceProductSearch').addEventListener('input',()=>{invalidateFilterCache('invoiceProducts');renderProductPicker()});
-  $('invoiceDiscount').addEventListener('input',updateCartTotals);$('invoicePaid').addEventListener('input',updateCartTotals);$('saveInvoiceBtn').addEventListener('click',saveInvoice);
-  $('reportRanges').addEventListener('click',e=>{const b=e.target.closest('[data-range]');if(!b)return;reportRange=b.dataset.range;document.querySelectorAll('.range-btn').forEach(x=>x.classList.toggle('active',x===b));renderReport()});
-  document.addEventListener('click',e=>{const close=e.target.closest('[data-close]');if(close){closeModal(close.dataset.close);return}const b=e.target.closest('[data-action]');if(b){handleAction(b.dataset.action,b.dataset.id);return}const pick=e.target.closest('[data-pick-product]');if(pick){const id=pick.dataset.pickProduct;const p=state.products.find(x=>x.id===id&&x.active);if(!p)return;const next=(cart.get(id)||0)+1;if(state.settings.inventoryEnabled&&p.stock!==null&&next>p.stock){toast('موجودی «'+p.name+'» کافی نیست.','warn');return}cart.set(id,next);renderCart();return}const q=e.target.closest('[data-cart-action]');if(q){const id=q.dataset.id,mode=q.dataset.cartAction;const qty=cart.get(id)||0;if(mode==='plus'){const p=state.products.find(x=>x.id===id);if(p&&state.settings.inventoryEnabled&&p.stock!==null&&qty+1>p.stock){toast('موجودی کافی نیست.','warn');return}cart.set(id,qty+1)}else if(mode==='minus'){if(qty<=1)cart.delete(id);else cart.set(id,qty-1)}else if(mode==='remove')cart.delete(id);renderCart();return}});
-  document.querySelectorAll('.modal-layer').forEach(layer=>layer.addEventListener('mousedown',e=>{if(e.target===layer)closeModal(layer.id)}));
-  document.addEventListener('keydown',e=>{if(e.key==='Escape'){if($('confirmOverlay').classList.contains('open')){closeConfirm(false);return}const layer=document.querySelector('.modal-layer.open');if(layer)closeModal(layer.id);return}if(e.key==='Tab'){const layer=document.querySelector('.modal-layer.open');if(!layer)return;const list=[...layer.querySelectorAll('button:not(:disabled),input:not(:disabled),select:not(:disabled),textarea:not(:disabled),[tabindex]:not([tabindex="-1"])')].filter(x=>x.offsetParent!==null);if(!list.length)return;const first=list[0],last=list[list.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}}});
-  window.addEventListener('resize',()=>{if($('view-dashboard').classList.contains('active')){const p=makePeriods('daily');drawChart($('dashboardChart'),p.map(x=>x.label),p.map(x=>calcPeriod(state,x).sales),'bar')}if($('view-reports').classList.contains('active'))renderReport()});
+function handleAction(action,id){switch(action){case'view-invoice':openInvoiceDetail(id);break;case'print-invoice':printInvoice(id);break;case'void-invoice':voidInvoice(id);if($('detailModal').classList.contains('open'))closeModal('detailModal',{force:true});break;case'edit-product':openProductModal(id);break;case'toggle-product':toggleProduct(id);break;case'delete-product':deleteProduct(id);break;case'edit-expense':openExpenseModal(id);break;case'delete-expense':deleteExpense(id);break}}
+function init(){state=loadInitialState();if(storageCorrupt){toast('داده ذخیره‌شده قابل خواندن نیست. برای جلوگیری از بازنویسی خودکار، تغییرات قفل شدند.','error',8000)}else if(!storageAvailable){toast('ذخیره‌سازی مرورگر در دسترس نیست؛ تغییرات ماندگار نخواهند بود.','warn',7000)}renderAll();
+ document.querySelectorAll('.tab[data-view]').forEach(b=>b.addEventListener('click',()=>switchView(b.dataset.view)));
+ document.querySelectorAll('[data-go]').forEach(b=>b.addEventListener('click',()=>switchView(b.dataset.go)));
+ $('newInvoiceBtn').addEventListener('click',showInvoiceModal);$('newInvoiceBtn2').addEventListener('click',showInvoiceModal);$('addProductBtn').addEventListener('click',()=>openProductModal());$('addExpenseBtn').addEventListener('click',()=>openExpenseModal());
+ $('exportBtn2').addEventListener('click',exportData);$('importBtn2').addEventListener('click',openImport);$('importFile').addEventListener('change',onImportFile);$('applyImportBtn').addEventListener('click',applyImport);$('resetAllBtn').addEventListener('click',resetAll);$('saveSettingsBtn').addEventListener('click',saveSettings);
+ $('exportInvoicesCsv').addEventListener('click',exportInvoicesCsv);$('exportInvoicesCsv2').addEventListener('click',exportInvoicesCsv);$('exportExpensesCsv').addEventListener('click',exportExpensesCsv);$('exportReportCsv').addEventListener('click',exportReportCsv);
+ $('confirmAcceptBtn').addEventListener('click',()=>{const action=pendingConfirmAction;pendingConfirmAction=null;closeModal('confirmModal',{force:true});if(typeof action==='function')action()});
+ $('productForm').addEventListener('submit',e=>{try{saveProductFromForm(e)}catch(err){e.preventDefault();toast(err.message,'error')}});$('expenseForm').addEventListener('submit',e=>{try{saveExpenseFromForm(e)}catch(err){e.preventDefault();toast(err.message,'error')}});
+ $('productSearch').addEventListener('input',()=>{invalidateFilterCache('products');renderProducts()});
+ $('productStatusFilter').addEventListener('change',()=>{invalidateFilterCache('products');renderProducts()});
+ $('invoiceSearch').addEventListener('input',()=>{invalidateFilterCache('invoices');renderInvoices()});
+ $('invoiceStatusFilter').addEventListener('change',()=>{invalidateFilterCache('invoices');renderInvoices()});
+ $('expenseSearch').addEventListener('input',()=>{invalidateFilterCache('expenses');renderExpenses()});
+ $('invoiceProductSearch').addEventListener('input',()=>{invalidateFilterCache('invoiceProducts');renderProductPicker()});
+ $('invoiceDiscount').addEventListener('input',updateCartTotals);$('invoicePaid').addEventListener('input',updateCartTotals);$('saveInvoiceBtn').addEventListener('click',saveInvoice);
+ $('reportRanges').addEventListener('click',e=>{const b=e.target.closest('[data-range]');if(!b)return;reportRange=b.dataset.range;document.querySelectorAll('.range-btn').forEach(x=>x.classList.toggle('active',x===b));renderReport()});
+ document.addEventListener('click',e=>{const close=e.target.closest('[data-close]');if(close){closeModal(close.dataset.close);return}const b=e.target.closest('[data-action]');if(b){handleAction(b.dataset.action,b.dataset.id);return}const pick=e.target.closest('[data-pick-product]');if(pick){const id=pick.dataset.pickProduct;const p=state.products.find(x=>x.id===id&&x.active);if(!p)return;const next=(cart.get(id)||0)+1;if(state.settings.inventoryEnabled&&p.stock!==null&&next>p.stock){toast('موجودی «'+p.name+'» کافی نیست.','warn');return}cart.set(id,next);renderCart();return}const q=e.target.closest('[data-cart-action]');if(q){const id=q.dataset.id,mode=q.dataset.cartAction;const qty=cart.get(id)||0;if(mode==='plus'){const p=state.products.find(x=>x.id===id);if(p&&state.settings.inventoryEnabled&&p.stock!==null&&qty+1>p.stock){toast('موجودی کافی نیست.','warn');return}cart.set(id,qty+1)}else if(mode==='minus'){if(qty<=1)cart.delete(id);else cart.set(id,qty-1)}else if(mode==='remove')cart.delete(id);renderCart();return}});
+ document.querySelectorAll('.modal-layer').forEach(layer=>layer.addEventListener('mousedown',e=>{if(e.target===layer)closeModal(layer.id)}));document.addEventListener('keydown',e=>{if(e.key==='Escape'){const layer=document.querySelector('.modal-layer.open');if(layer)closeModal(layer.id);return}if(e.key==='Tab'){const layer=document.querySelector('.modal-layer.open');if(!layer)return;const list=[...layer.querySelectorAll('button:not(:disabled),input:not(:disabled),select:not(:disabled),textarea:not(:disabled),[tabindex]:not([tabindex="-1"])')].filter(x=>x.offsetParent!==null);if(!list.length)return;const first=list[0],last=list[list.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}}});
+ window.addEventListener('resize',()=>{if($('view-dashboard').classList.contains('active')){const p=makePeriods('daily');drawChart($('dashboardChart'),p.map(x=>x.label),p.map(x=>calcPeriod(state,x).sales),'bar')}if($('view-reports').classList.contains('active'))renderReport()});
 }
 init();
+</script>
+<script>
+(()=>{
+  const isSecureOrigin=window.isSecureContext&&(location.protocol==='https:'||location.hostname==='localhost'||location.hostname==='127.0.0.1');
+  if('serviceWorker' in navigator&&isSecureOrigin){window.addEventListener('load',()=>navigator.serviceWorker.register(new URL('./sw.js',location.href),{scope:'./'}).catch(()=>{}))}
+  const banner=document.getElementById('installPrompt');
+  const key='cafe_pwa_install_never';
+  let deferredPrompt=null;
+  let installSnoozed=false;
+  const installed=()=>window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;
+  const wasDismissed=()=>{try{return localStorage.getItem(key)==='1'}catch{return false}};
+  const showBanner=()=>{if(isSecureOrigin&&!installed()&&!wasDismissed()&&!installSnoozed)banner.hidden=false};
+  window.addEventListener('beforeinstallprompt',event=>{event.preventDefault();deferredPrompt=event;showBanner()});
+  window.addEventListener('appinstalled',()=>{installSnoozed=true;banner.hidden=true;toast('برنامه با موفقیت نصب شد.','success')});
+  document.getElementById('installNowBtn').addEventListener('click',async()=>{
+    if(deferredPrompt){
+      const event=deferredPrompt;deferredPrompt=null;
+      try{await event.prompt();const choice=await event.userChoice;if(choice&&choice.outcome==='accepted'){banner.hidden=true;installSnoozed=true;toast('درخواست نصب پذیرفته شد.','success')}else toast('نصب انجام نشد؛ هر زمان آماده بودید دوباره تلاش کنید.','warn')}catch{toast('درخواست نصب در این مرورگر در دسترس نیست. از منوی مرورگر گزینهٔ نصب برنامه را انتخاب کنید.','warn',6000)}
+      return;
+    }
+    const ua=navigator.userAgent||'';
+    if(/iphone|ipad|ipod/i.test(ua))toast('برای نصب در آیفون، در Safari گزینهٔ اشتراک‌گذاری را بزنید و «Add to Home Screen» را انتخاب کنید.','warn',7500);
+    else toast('از منوی مرورگر گزینهٔ «نصب برنامه» یا «Install app» را انتخاب کنید. در بعضی مرورگرها این گزینه کنار نوار نشانی است.','warn',7500);
+  });
+  document.getElementById('installLaterBtn').addEventListener('click',()=>{installSnoozed=true;banner.hidden=true});
+  document.getElementById('installNeverBtn').addEventListener('click',()=>{try{localStorage.setItem(key,'1')}catch{}installSnoozed=true;banner.hidden=true});
+  if(isSecureOrigin&&!installed()&&!wasDismissed())window.setTimeout(showBanner,1800);
+})();
 </script>
 </body>
 </html>
