@@ -252,7 +252,7 @@
     "country_name": "Ecuador"
   },
   {
-    "network": "38.97.235.144/28",
+    "network": "38.97.235.128/27",
     "continent_code": "SA",
     "country_code": "EC",
     "country_name": "Ecuador"
@@ -1212,7 +1212,43 @@
     "country_name": "Ecuador"
   },
   {
-    "network": "66.231.64.0/20",
+    "network": "66.231.64.0/24",
+    "continent_code": "SA",
+    "country_code": "EC",
+    "country_name": "Ecuador"
+  },
+  {
+    "network": "66.231.65.0/25",
+    "continent_code": "SA",
+    "country_code": "EC",
+    "country_name": "Ecuador"
+  },
+  {
+    "network": "66.231.65.160/27",
+    "continent_code": "SA",
+    "country_code": "EC",
+    "country_name": "Ecuador"
+  },
+  {
+    "network": "66.231.65.192/26",
+    "continent_code": "SA",
+    "country_code": "EC",
+    "country_name": "Ecuador"
+  },
+  {
+    "network": "66.231.66.0/23",
+    "continent_code": "SA",
+    "country_code": "EC",
+    "country_name": "Ecuador"
+  },
+  {
+    "network": "66.231.68.0/22",
+    "continent_code": "SA",
+    "country_code": "EC",
+    "country_name": "Ecuador"
+  },
+  {
+    "network": "66.231.72.0/21",
     "continent_code": "SA",
     "country_code": "EC",
     "country_name": "Ecuador"
@@ -8820,13 +8856,7 @@
     "country_name": "Ecuador"
   },
   {
-    "network": "200.76.112.0/26",
-    "continent_code": "SA",
-    "country_code": "EC",
-    "country_name": "Ecuador"
-  },
-  {
-    "network": "200.76.112.72/30",
+    "network": "200.76.112.0/25",
     "continent_code": "SA",
     "country_code": "EC",
     "country_name": "Ecuador"

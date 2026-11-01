@@ -44152,22 +44152,6 @@
     "domain": "zap-hosting.com"
   },
   {
-    "network": "5.83.143.0/24",
-    "asn": "201028",
-    "country_code": "DE",
-    "name": "VEXSHIELD",
-    "org": "Vexura UG (Haftungsbeschraenkt)",
-    "domain": "vexura.eu"
-  },
-  {
-    "network": "2a06:9801:1000::/40",
-    "asn": "201028",
-    "country_code": "DE",
-    "name": "VEXSHIELD",
-    "org": "Vexura UG (Haftungsbeschraenkt)",
-    "domain": "vexura.eu"
-  },
-  {
     "network": "5.83.151.0/24",
     "asn": "201790",
     "country_code": "DE",
@@ -60176,14 +60160,6 @@
     "domain": "versatel.de"
   },
   {
-    "network": "46.203.112.0/24",
-    "asn": "8881",
-    "country_code": "DE",
-    "name": "VERSATEL",
-    "org": "1&1 Versatel GmbH",
-    "domain": "versatel.de"
-  },
-  {
     "network": "46.203.152.0/24",
     "asn": "8881",
     "country_code": "DE",
@@ -60193,22 +60169,6 @@
   },
   {
     "network": "46.203.156.0/24",
-    "asn": "8881",
-    "country_code": "DE",
-    "name": "VERSATEL",
-    "org": "1&1 Versatel GmbH",
-    "domain": "versatel.de"
-  },
-  {
-    "network": "46.203.187.0/24",
-    "asn": "8881",
-    "country_code": "DE",
-    "name": "VERSATEL",
-    "org": "1&1 Versatel GmbH",
-    "domain": "versatel.de"
-  },
-  {
-    "network": "46.203.208.0/24",
     "asn": "8881",
     "country_code": "DE",
     "name": "VERSATEL",
@@ -61409,14 +61369,6 @@
   },
   {
     "network": "89.27.128.0/17",
-    "asn": "8881",
-    "country_code": "DE",
-    "name": "VERSATEL",
-    "org": "1&1 Versatel GmbH",
-    "domain": "versatel.de"
-  },
-  {
-    "network": "89.42.85.0/24",
     "asn": "8881",
     "country_code": "DE",
     "name": "VERSATEL",
@@ -81688,14 +81640,6 @@
     "domain": "soprado.com"
   },
   {
-    "network": "185.158.156.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
     "network": "193.0.248.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -83990,6 +83934,22 @@
     "name": "CAFFEINATED-LABS",
     "org": "Jadyn Emma Jaeger",
     "domain": "caffeinated-labs.org"
+  },
+  {
+    "network": "44.30.115.0/24",
+    "asn": "211370",
+    "country_code": "DE",
+    "name": "cve",
+    "org": "Clara Val Engler",
+    "domain": "as211370.net"
+  },
+  {
+    "network": "2a11:f2c0:ffe3::/48",
+    "asn": "211370",
+    "country_code": "DE",
+    "name": "cve",
+    "org": "Clara Val Engler",
+    "domain": "as211370.net"
   },
   {
     "network": "44.30.185.0/24",
@@ -97792,6 +97752,14 @@
     "domain": "posteo.net"
   },
   {
+    "network": "2a0e:9b42::/32",
+    "asn": "213342",
+    "country_code": "DE",
+    "name": "vifino",
+    "org": "Adrian Pistol",
+    "domain": "posteo.net"
+  },
+  {
     "network": "45.137.92.0/22",
     "asn": "61967",
     "country_code": "DE",
@@ -109704,6 +109672,38 @@
     "domain": "amazon.com"
   },
   {
+    "network": "51.74.224.0/24",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
+    "network": "51.74.225.0/24",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
+    "network": "51.74.226.0/24",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
+    "network": "51.74.227.0/24",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
     "network": "51.224.0.0/15",
     "asn": "214101",
     "country_code": "DE",
@@ -110065,6 +110065,46 @@
   },
   {
     "network": "2001:3fc6:f::/48",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
+    "network": "2001:3fc6:20::/48",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
+    "network": "2001:3fc6:30::/48",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
+    "network": "2001:3fc6:31::/48",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
+    "network": "2001:3fc6:32::/48",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
+    "network": "2001:3fc6:33::/48",
     "asn": "214101",
     "country_code": "DE",
     "name": "EU-SOVEREIGN-CLOUD",
@@ -173128,6 +173168,14 @@
     "domain": "leon-hubrich.de"
   },
   {
+    "network": "2a14:47c0:e005::/48",
+    "asn": "213579",
+    "country_code": "DE",
+    "name": "Leon-Hubrich",
+    "org": "Leon Hubrich",
+    "domain": "leon-hubrich.de"
+  },
+  {
     "network": "2a14:47c0:e006::/48",
     "asn": "213579",
     "country_code": "DE",
@@ -176936,6 +176984,14 @@
     "domain": "dinoex.de"
   },
   {
+    "network": "2a0b:f847::/32",
+    "asn": "205376",
+    "country_code": "DE",
+    "name": "DINOEX",
+    "org": "Dirk Meyer",
+    "domain": "dinoex.de"
+  },
+  {
     "network": "185.220.200.0/22",
     "asn": "24956",
     "country_code": "DE",
@@ -178136,31 +178192,7 @@
     "domain": "teamviewer.com"
   },
   {
-    "network": "2a09:1500::/48",
-    "asn": "208175",
-    "country_code": "DE",
-    "name": "TeamViewer-EU",
-    "org": "TeamViewer Germany GmbH",
-    "domain": "teamviewer.com"
-  },
-  {
-    "network": "2a09:1500:8::/48",
-    "asn": "208175",
-    "country_code": "DE",
-    "name": "TeamViewer-EU",
-    "org": "TeamViewer Germany GmbH",
-    "domain": "teamviewer.com"
-  },
-  {
     "network": "2a09:1500:13::/48",
-    "asn": "208175",
-    "country_code": "DE",
-    "name": "TeamViewer-EU",
-    "org": "TeamViewer Germany GmbH",
-    "domain": "teamviewer.com"
-  },
-  {
-    "network": "2a09:1500:20::/48",
     "asn": "208175",
     "country_code": "DE",
     "name": "TeamViewer-EU",
@@ -178809,6 +178841,14 @@
   },
   {
     "network": "188.137.155.0/24",
+    "asn": "218831",
+    "country_code": "DE",
+    "name": "NL-NET",
+    "org": "Noah Lingsminat",
+    "domain": "nl-net.de"
+  },
+  {
+    "network": "2a07:cec0:7::/48",
     "asn": "218831",
     "country_code": "DE",
     "name": "NL-NET",
@@ -181600,14 +181640,6 @@
     "domain": "teamviewer.com"
   },
   {
-    "network": "2a09:2701::/32",
-    "asn": "208187",
-    "country_code": "DE",
-    "name": "TeamViewer-APAC",
-    "org": "TeamViewer Germany GmbH",
-    "domain": "teamviewer.com"
-  },
-  {
     "network": "2a09:2701:6000::/40",
     "asn": "208187",
     "country_code": "DE",
@@ -182065,14 +182097,6 @@
   },
   {
     "network": "193.58.101.0/24",
-    "asn": "212710",
-    "country_code": "DE",
-    "name": "TeamViewer-AMEA",
-    "org": "TeamViewer Germany GmbH",
-    "domain": "teamviewer.com"
-  },
-  {
-    "network": "2a09:2900::/48",
     "asn": "212710",
     "country_code": "DE",
     "name": "TeamViewer-AMEA",
@@ -188488,6 +188512,14 @@
     "domain": "berli.net"
   },
   {
+    "network": "195.95.190.0/24",
+    "asn": "51576",
+    "country_code": "DE",
+    "name": "IPBROADCAST-AS",
+    "org": "IP Broadcast GmbH",
+    "domain": "ipbroadcast.de"
+  },
+  {
     "network": "195.110.60.0/23",
     "asn": "49885",
     "country_code": "DE",
@@ -191064,6 +191096,14 @@
     "domain": "freifunk-vechta.de"
   },
   {
+    "network": "2001:678:45c::/48",
+    "asn": "213237",
+    "country_code": "DE",
+    "name": "KOST-AS",
+    "org": "Joerg Kost",
+    "domain": "premium-datacenter.de"
+  },
+  {
     "network": "2001:678:4c0::/48",
     "asn": "41948",
     "country_code": "DE",
@@ -192792,6 +192832,14 @@
     "domain": "ramge.net"
   },
   {
+    "network": "2a06:9801:1000::/40",
+    "asn": "201028",
+    "country_code": "DE",
+    "name": "VEXSHIELD",
+    "org": "Vexura UG (Haftungsbeschraenkt)",
+    "domain": "vexura.eu"
+  },
+  {
     "network": "2a06:9801:156d::/48",
     "asn": "218571",
     "country_code": "DE",
@@ -192806,6 +192854,46 @@
     "name": "BENGOEPFERT",
     "org": "Ben Gopfert",
     "domain": "bengoe.tech"
+  },
+  {
+    "network": "2a06:9801:1597::/48",
+    "asn": "218243",
+    "country_code": "DE",
+    "name": "EPICJUMP-SYSTEMS",
+    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
+    "domain": "epicjump-systems.com"
+  },
+  {
+    "network": "2a0f:6280:2200::/40",
+    "asn": "218243",
+    "country_code": "DE",
+    "name": "EPICJUMP-SYSTEMS",
+    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
+    "domain": "epicjump-systems.com"
+  },
+  {
+    "network": "2a10:fa81:2c00::/40",
+    "asn": "218243",
+    "country_code": "DE",
+    "name": "EPICJUMP-SYSTEMS",
+    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
+    "domain": "epicjump-systems.com"
+  },
+  {
+    "network": "2a14:7581:5136::/48",
+    "asn": "218243",
+    "country_code": "DE",
+    "name": "EPICJUMP-SYSTEMS",
+    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
+    "domain": "epicjump-systems.com"
+  },
+  {
+    "network": "2a14:7581:5710::/44",
+    "asn": "218243",
+    "country_code": "DE",
+    "name": "EPICJUMP-SYSTEMS",
+    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
+    "domain": "epicjump-systems.com"
   },
   {
     "network": "2a06:9801:15bc::/48",
@@ -194112,6 +194200,14 @@
     "domain": "scherl.dev"
   },
   {
+    "network": "2a0c:b641:930::/48",
+    "asn": "201853",
+    "country_code": "DE",
+    "name": "CatgirlCloud",
+    "org": "Sophie Raven Tauchert",
+    "domain": "catgirl.cloud"
+  },
+  {
     "network": "2a0c:b641:931::/48",
     "asn": "201853",
     "country_code": "DE",
@@ -194390,6 +194486,22 @@
     "name": "asdfghasdfgh-as",
     "org": "Manuel Kuklinski",
     "domain": "asdfghasdfgh.de"
+  },
+  {
+    "network": "2a0e:8f02:2070::/48",
+    "asn": "215681",
+    "country_code": "DE",
+    "name": "FLOOFBALL-AS",
+    "org": "Lea Dickmann",
+    "domain": "as215681.de"
+  },
+  {
+    "network": "2a0e:8f02:2071::/48",
+    "asn": "215681",
+    "country_code": "DE",
+    "name": "FLOOFBALL-AS",
+    "org": "Lea Dickmann",
+    "domain": "as215681.de"
   },
   {
     "network": "2a0e:8f02:2072::/48",
@@ -194680,6 +194792,22 @@
     "domain": "ewsp.de"
   },
   {
+    "network": "2a0e:97c0:900::/48",
+    "asn": "209074",
+    "country_code": "DE",
+    "name": "x32",
+    "org": "Jonas Breuer",
+    "domain": "x32.me"
+  },
+  {
+    "network": "2a0e:97c0:90f::/48",
+    "asn": "209074",
+    "country_code": "DE",
+    "name": "x32",
+    "org": "Jonas Breuer",
+    "domain": "x32.me"
+  },
+  {
     "network": "2a0e:97c0:930::/44",
     "asn": "211626",
     "country_code": "DE",
@@ -194920,6 +195048,14 @@
     "domain": "secshell.de"
   },
   {
+    "network": "2a0f:b240:7c01::/48",
+    "asn": "210235",
+    "country_code": "DE",
+    "name": "JULIANKUHN",
+    "org": "Julian Kuhn",
+    "domain": "secshell.de"
+  },
+  {
     "network": "2a10:cc44:1d0::/48",
     "asn": "208454",
     "country_code": "DE",
@@ -194937,6 +195073,14 @@
   },
   {
     "network": "2a10:ccc3:ca75::/48",
+    "asn": "214513",
+    "country_code": "DE",
+    "name": "EEPYPAWS-AS",
+    "org": "Raven Catherine Zameitat",
+    "domain": "eepypaws.net"
+  },
+  {
+    "network": "2a10:ccc3:ca76::/48",
     "asn": "214513",
     "country_code": "DE",
     "name": "EEPYPAWS-AS",
@@ -195022,14 +195166,6 @@
     "name": "isa",
     "org": "Isabelle Kleinheuer",
     "domain": "as215500.net"
-  },
-  {
-    "network": "2a11:f2c0:ffe3::/48",
-    "asn": "211370",
-    "country_code": "DE",
-    "name": "cve",
-    "org": "Clara Val Engler",
-    "domain": "as211370.net"
   },
   {
     "network": "2a11:fe87::/32",
@@ -195272,6 +195408,14 @@
     "domain": "shrdserv.com"
   },
   {
+    "network": "2a14:7583:efc5::/48",
+    "asn": "218338",
+    "country_code": "DE",
+    "name": "GRIMM-AS",
+    "org": "Dominic Grimm",
+    "domain": "dergrimm.net"
+  },
+  {
     "network": "2a14:b500::/29",
     "asn": "213566",
     "country_code": "DE",
@@ -195305,6 +195449,14 @@
   },
   {
     "network": "2a14:d107:11::/48",
+    "asn": "207510",
+    "country_code": "DE",
+    "name": "luca",
+    "org": "Luca Strick",
+    "domain": "lucastrick.eu"
+  },
+  {
+    "network": "2a14:d107:12::/48",
     "asn": "207510",
     "country_code": "DE",
     "name": "luca",

@@ -5584,14 +5584,6 @@
     "domain": "inetia.pl"
   },
   {
-    "network": "91.208.78.0/24",
-    "asn": "12741",
-    "country_code": "PL",
-    "name": "AS-NETIA",
-    "org": "Netia SA",
-    "domain": "inetia.pl"
-  },
-  {
     "network": "91.217.142.0/24",
     "asn": "12741",
     "country_code": "PL",
@@ -6025,14 +6017,6 @@
   },
   {
     "network": "193.19.104.0/23",
-    "asn": "12741",
-    "country_code": "PL",
-    "name": "AS-NETIA",
-    "org": "Netia SA",
-    "domain": "inetia.pl"
-  },
-  {
-    "network": "193.41.192.0/24",
     "asn": "12741",
     "country_code": "PL",
     "name": "AS-NETIA",
@@ -43360,14 +43344,6 @@
     "domain": "cloudferro.com"
   },
   {
-    "network": "2a13:7bc0:a::/48",
-    "asn": "200217",
-    "country_code": "PL",
-    "name": "DataLake",
-    "org": "CloudFerro S.A",
-    "domain": "cloudferro.com"
-  },
-  {
     "network": "2a13:7bc0:b::/48",
     "asn": "200217",
     "country_code": "PL",
@@ -57344,14 +57320,6 @@
     "domain": "topdata.pl"
   },
   {
-    "network": "185.154.99.0/24",
-    "asn": "206896",
-    "country_code": "PL",
-    "name": "tdas",
-    "org": "TOPDATA SP. Z 0.0.",
-    "domain": "topdata.pl"
-  },
-  {
     "network": "185.157.172.0/22",
     "asn": "206563",
     "country_code": "PL",
@@ -59945,6 +59913,22 @@
   },
   {
     "network": "195.164.128.0/17",
+    "asn": "204679",
+    "country_code": "PL",
+    "name": "OSE",
+    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+    "domain": "nask.pl"
+  },
+  {
+    "network": "195.164.174.0/24",
+    "asn": "204679",
+    "country_code": "PL",
+    "name": "OSE",
+    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+    "domain": "nask.pl"
+  },
+  {
+    "network": "195.164.232.0/24",
     "asn": "204679",
     "country_code": "PL",
     "name": "OSE",
@@ -65568,7 +65552,23 @@
     "domain": "skylix.pl"
   },
   {
+    "network": "2a06:9801:1598::/48",
+    "asn": "218242",
+    "country_code": "PL",
+    "name": "ZDUNEK-DEV",
+    "org": "Adam Zdunek",
+    "domain": ""
+  },
+  {
     "network": "2a06:9801:1800::/48",
+    "asn": "209862",
+    "country_code": "PL",
+    "name": "SKBKI-AS",
+    "org": "Michal Skibicki trading as skibicki.net",
+    "domain": "skibicki.net"
+  },
+  {
+    "network": "2a06:9801:180a::/48",
     "asn": "209862",
     "country_code": "PL",
     "name": "SKBKI-AS",
@@ -65702,6 +65702,14 @@
     "name": "LEVEL-SERVICE-AS",
     "org": "IP SERVICES Sp. zo.o.",
     "domain": "ipservices.pl"
+  },
+  {
+    "network": "2a09:dd80::/32",
+    "asn": "209866",
+    "country_code": "PL",
+    "name": "VORT",
+    "org": "Piotr Macha trading as Vort Cloud",
+    "domain": "as209866.net"
   },
   {
     "network": "2a09:dd80:a::/48",

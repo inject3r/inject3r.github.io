@@ -108544,22 +108544,6 @@
     "domain": "parsun.com"
   },
   {
-    "network": "176.65.140.0/24",
-    "asn": "58232",
-    "country_code": "AU",
-    "name": "haderan",
-    "org": "Parsun Network Solutions PTY LTD",
-    "domain": "parsun.com"
-  },
-  {
-    "network": "176.65.141.0/24",
-    "asn": "58232",
-    "country_code": "AU",
-    "name": "haderan",
-    "org": "Parsun Network Solutions PTY LTD",
-    "domain": "parsun.com"
-  },
-  {
     "network": "176.117.107.0/24",
     "asn": "58232",
     "country_code": "AU",
@@ -118408,6 +118392,22 @@
     "domain": "vodafone.com.au"
   },
   {
+    "network": "2405:6e00:2234::/46",
+    "asn": "133612",
+    "country_code": "AU",
+    "name": "VODAFONE-AS-AP",
+    "org": "Vodafone Australia Pty Ltd",
+    "domain": "vodafone.com.au"
+  },
+  {
+    "network": "2405:6e00:2234::/47",
+    "asn": "133612",
+    "country_code": "AU",
+    "name": "VODAFONE-AS-AP",
+    "org": "Vodafone Australia Pty Ltd",
+    "domain": "vodafone.com.au"
+  },
+  {
     "network": "2405:6e00:2238::/46",
     "asn": "133612",
     "country_code": "AU",
@@ -120664,7 +120664,7 @@
     "domain": ""
   },
   {
-    "network": "103.0.45.0/24",
+    "network": "103.0.48.0/24",
     "asn": "131074",
     "country_code": "AU",
     "name": "APNIC-JP-RD",
@@ -129774,30 +129774,6 @@
     "name": "TELSTRA-AS-AP",
     "org": "Telstra Limited",
     "domain": "telstra.net"
-  },
-  {
-    "network": "103.43.178.0/23",
-    "asn": "133548",
-    "country_code": "AU",
-    "name": "RECSPL-AS-AP",
-    "org": "RDG Electrical & Communications Solutions Pty Ltd",
-    "domain": "rdg.com.au"
-  },
-  {
-    "network": "103.235.22.0/24",
-    "asn": "133548",
-    "country_code": "AU",
-    "name": "RECSPL-AS-AP",
-    "org": "RDG Electrical & Communications Solutions Pty Ltd",
-    "domain": "rdg.com.au"
-  },
-  {
-    "network": "103.254.5.0/24",
-    "asn": "133548",
-    "country_code": "AU",
-    "name": "RECSPL-AS-AP",
-    "org": "RDG Electrical & Communications Solutions Pty Ltd",
-    "domain": "rdg.com.au"
   },
   {
     "network": "103.44.24.0/24",
@@ -141840,6 +141816,14 @@
     "domain": "apcs.com.au"
   },
   {
+    "network": "210.79.19.0/24",
+    "asn": "45411",
+    "country_code": "AU",
+    "name": "APCSNET-AU",
+    "org": "Australia Power Control Systems",
+    "domain": "apcs.com.au"
+  },
+  {
     "network": "210.79.22.0/24",
     "asn": "45411",
     "country_code": "AU",
@@ -146646,6 +146630,22 @@
     "name": "LNH-AS-AP",
     "org": "Loreto Normanhurst Limited",
     "domain": "loretonh.nsw.edu.au"
+  },
+  {
+    "network": "103.235.22.0/24",
+    "asn": "133548",
+    "country_code": "AU",
+    "name": "RECSPL-AS-AP",
+    "org": "RDG Electrical & Communications Solutions Pty Ltd",
+    "domain": "rdg.com.au"
+  },
+  {
+    "network": "103.254.5.0/24",
+    "asn": "133548",
+    "country_code": "AU",
+    "name": "RECSPL-AS-AP",
+    "org": "RDG Electrical & Communications Solutions Pty Ltd",
+    "domain": "rdg.com.au"
   },
   {
     "network": "103.235.97.0/24",
@@ -167464,14 +167464,6 @@
     "domain": "foxtel.com.au"
   },
   {
-    "network": "203.22.6.0/24",
-    "asn": "24017",
-    "country_code": "AU",
-    "name": "FOXTEL-AS-AU-AP",
-    "org": "Foxtel Management Pty Ltd",
-    "domain": "foxtel.com.au"
-  },
-  {
     "network": "203.22.10.0/24",
     "asn": "24017",
     "country_code": "AU",
@@ -174176,14 +174168,6 @@
     "domain": "lotterywest.wa.gov.au"
   },
   {
-    "network": "203.147.108.0/23",
-    "asn": "24021",
-    "country_code": "AU",
-    "name": "APNICRANDNET-TUI-AU",
-    "org": "APNIC Research and Development",
-    "domain": ""
-  },
-  {
     "network": "203.160.2.0/23",
     "asn": "24517",
     "country_code": "AU",
@@ -174656,14 +174640,6 @@
     "domain": "joinmirage.online"
   },
   {
-    "network": "2400:58a0:1c0b::/48",
-    "asn": "151669",
-    "country_code": "AU",
-    "name": "XFXNET-AS-AU",
-    "org": "Xiaofei Xu",
-    "domain": "joinmirage.online"
-  },
-  {
     "network": "2400:58a0:1c0c::/48",
     "asn": "151669",
     "country_code": "AU",
@@ -174942,14 +174918,6 @@
     "name": "COGESTISAS-AS-AP",
     "org": "CO.GESTI SAS DI PIETRAVALLE MICHELE",
     "domain": "cogesti.net"
-  },
-  {
-    "network": "2a14:67c3:6880::/48",
-    "asn": "202464",
-    "country_code": "AU",
-    "name": "RongchangAS",
-    "org": "Rongchang Qu",
-    "domain": "ctydev.com"
   },
   {
     "network": "2a14:6f44:4400::/40",

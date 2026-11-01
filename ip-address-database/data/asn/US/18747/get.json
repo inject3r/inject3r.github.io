@@ -3696,14 +3696,6 @@
     "domain": "ifxnetworks.com"
   },
   {
-    "network": "200.110.128.0/19",
-    "asn": "18747",
-    "country_code": "US",
-    "name": "IFX18747",
-    "org": "IFX Corporation",
-    "domain": "ifxnetworks.com"
-  },
-  {
     "network": "200.110.128.0/20",
     "asn": "18747",
     "country_code": "US",
@@ -3752,7 +3744,7 @@
     "domain": "ifxnetworks.com"
   },
   {
-    "network": "200.110.144.0/20",
+    "network": "200.110.144.0/24",
     "asn": "18747",
     "country_code": "US",
     "name": "IFX18747",
@@ -3760,7 +3752,23 @@
     "domain": "ifxnetworks.com"
   },
   {
-    "network": "200.110.144.0/24",
+    "network": "200.110.145.0/24",
+    "asn": "18747",
+    "country_code": "US",
+    "name": "IFX18747",
+    "org": "IFX Corporation",
+    "domain": "ifxnetworks.com"
+  },
+  {
+    "network": "200.110.147.0/24",
+    "asn": "18747",
+    "country_code": "US",
+    "name": "IFX18747",
+    "org": "IFX Corporation",
+    "domain": "ifxnetworks.com"
+  },
+  {
+    "network": "200.110.149.0/24",
     "asn": "18747",
     "country_code": "US",
     "name": "IFX18747",
@@ -4313,14 +4321,6 @@
   },
   {
     "network": "2801:1d1::/44",
-    "asn": "18747",
-    "country_code": "US",
-    "name": "IFX18747",
-    "org": "IFX Corporation",
-    "domain": "ifxnetworks.com"
-  },
-  {
-    "network": "2801:1ec::/42",
     "asn": "18747",
     "country_code": "US",
     "name": "IFX18747",
