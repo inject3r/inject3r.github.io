@@ -112,6 +112,14 @@
     "domain": "viettel.com.vn"
   },
   {
+    "network": "38.108.112.0/24",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
     "network": "38.135.66.0/23",
     "asn": "131267",
     "country_code": "LA",
@@ -625,6 +633,102 @@
   },
   {
     "network": "2407:4280:4::/48",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c00::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c04::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c08::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c0c::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c10::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c14::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c18::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c1c::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c20::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c24::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c28::/46",
+    "asn": "131267",
+    "country_code": "LA",
+    "name": "UNITEL-LA",
+    "org": "Star Telecom",
+    "domain": "viettel.com.vn"
+  },
+  {
+    "network": "2407:4280:c2c::/46",
     "asn": "131267",
     "country_code": "LA",
     "name": "UNITEL-LA",
@@ -2096,38 +2200,6 @@
     "domain": "lmcc.la"
   },
   {
-    "network": "45.192.21.0/24",
-    "asn": "153347",
-    "country_code": "LA",
-    "name": "LCTLAOS-AS-AP",
-    "org": "Lao Communication Technology Sole Co., Ltd",
-    "domain": "lctlaos.com"
-  },
-  {
-    "network": "160.187.128.0/24",
-    "asn": "153347",
-    "country_code": "LA",
-    "name": "LCTLAOS-AS-AP",
-    "org": "Lao Communication Technology Sole Co., Ltd",
-    "domain": "lctlaos.com"
-  },
-  {
-    "network": "160.187.129.0/24",
-    "asn": "153347",
-    "country_code": "LA",
-    "name": "LCTLAOS-AS-AP",
-    "org": "Lao Communication Technology Sole Co., Ltd",
-    "domain": "lctlaos.com"
-  },
-  {
-    "network": "163.8.203.0/24",
-    "asn": "153347",
-    "country_code": "LA",
-    "name": "LCTLAOS-AS-AP",
-    "org": "Lao Communication Technology Sole Co., Ltd",
-    "domain": "lctlaos.com"
-  },
-  {
     "network": "45.195.145.0/24",
     "asn": "132513",
     "country_code": "LA",
@@ -2256,7 +2328,7 @@
     "domain": "lmcc.la"
   },
   {
-    "network": "2401:e9a0::/32",
+    "network": "203.77.174.0/23",
     "asn": "153526",
     "country_code": "LA",
     "name": "LMCSCL-AS-AP",
@@ -2264,28 +2336,12 @@
     "domain": "lmcc.la"
   },
   {
-    "network": "94.249.242.0/24",
-    "asn": "150716",
+    "network": "2401:e9a0::/32",
+    "asn": "153526",
     "country_code": "LA",
-    "name": "ANCTSC-AS-AP",
-    "org": "AP Network Communication & Technology Sole CO.,LTD",
-    "domain": "apnetwork.la"
-  },
-  {
-    "network": "103.66.238.0/24",
-    "asn": "150716",
-    "country_code": "LA",
-    "name": "ANCTSC-AS-AP",
-    "org": "AP Network Communication & Technology Sole CO.,LTD",
-    "domain": "apnetwork.la"
-  },
-  {
-    "network": "103.66.239.0/24",
-    "asn": "150716",
-    "country_code": "LA",
-    "name": "ANCTSC-AS-AP",
-    "org": "AP Network Communication & Technology Sole CO.,LTD",
-    "domain": "apnetwork.la"
+    "name": "LMCSCL-AS-AP",
+    "org": "Laos Mobile Communications Sole Co., Ltd",
+    "domain": "lmcc.la"
   },
   {
     "network": "103.1.232.0/22",
@@ -2305,6 +2361,14 @@
   },
   {
     "network": "103.1.234.0/24",
+    "asn": "55508",
+    "country_code": "LA",
+    "name": "INTERNET-LA",
+    "org": "National Internet Center (NIC)",
+    "domain": "lanic.gov.la"
+  },
+  {
+    "network": "103.1.235.0/24",
     "asn": "55508",
     "country_code": "LA",
     "name": "INTERNET-LA",
@@ -2454,6 +2518,22 @@
     "name": "DATACOM-AS-AP",
     "org": "Datacom Sole Co., Ltd",
     "domain": "datacom.la"
+  },
+  {
+    "network": "103.66.238.0/24",
+    "asn": "150716",
+    "country_code": "LA",
+    "name": "ANCTSC-AS-AP",
+    "org": "AP Network Communication & Technology Sole CO.,LTD",
+    "domain": "apnetwork.la"
+  },
+  {
+    "network": "103.66.239.0/24",
+    "asn": "150716",
+    "country_code": "LA",
+    "name": "ANCTSC-AS-AP",
+    "org": "AP Network Communication & Technology Sole CO.,LTD",
+    "domain": "apnetwork.la"
   },
   {
     "network": "103.95.24.0/22",
@@ -2640,6 +2720,14 @@
     "domain": "ltcctel.com"
   },
   {
+    "network": "103.228.252.0/22",
+    "asn": "24337",
+    "country_code": "LA",
+    "name": "SKYTelecom-AS-AP",
+    "org": "Sky Telecom State Company",
+    "domain": "besttelecom.la"
+  },
+  {
     "network": "103.228.252.0/24",
     "asn": "24337",
     "country_code": "LA",
@@ -2672,31 +2760,15 @@
     "domain": "besttelecom.la"
   },
   {
-    "network": "139.5.156.0/24",
-    "asn": "24337",
-    "country_code": "LA",
-    "name": "SKYTelecom-AS-AP",
-    "org": "Sky Telecom State Company",
-    "domain": "besttelecom.la"
-  },
-  {
-    "network": "139.5.157.0/24",
-    "asn": "24337",
-    "country_code": "LA",
-    "name": "SKYTelecom-AS-AP",
-    "org": "Sky Telecom State Company",
-    "domain": "besttelecom.la"
-  },
-  {
-    "network": "139.5.158.0/24",
-    "asn": "24337",
-    "country_code": "LA",
-    "name": "SKYTelecom-AS-AP",
-    "org": "Sky Telecom State Company",
-    "domain": "besttelecom.la"
-  },
-  {
     "network": "139.5.159.0/24",
+    "asn": "24337",
+    "country_code": "LA",
+    "name": "SKYTelecom-AS-AP",
+    "org": "Sky Telecom State Company",
+    "domain": "besttelecom.la"
+  },
+  {
+    "network": "141.164.96.0/20",
     "asn": "24337",
     "country_code": "LA",
     "name": "SKYTelecom-AS-AP",
@@ -2736,6 +2808,14 @@
     "domain": "besttelecom.la"
   },
   {
+    "network": "141.164.100.0/24",
+    "asn": "24337",
+    "country_code": "LA",
+    "name": "SKYTelecom-AS-AP",
+    "org": "Sky Telecom State Company",
+    "domain": "besttelecom.la"
+  },
+  {
     "network": "141.164.101.0/24",
     "asn": "24337",
     "country_code": "LA",
@@ -2761,14 +2841,6 @@
   },
   {
     "network": "141.164.105.0/24",
-    "asn": "24337",
-    "country_code": "LA",
-    "name": "SKYTelecom-AS-AP",
-    "org": "Sky Telecom State Company",
-    "domain": "besttelecom.la"
-  },
-  {
-    "network": "141.164.107.0/24",
     "asn": "24337",
     "country_code": "LA",
     "name": "SKYTelecom-AS-AP",
@@ -2808,6 +2880,14 @@
     "domain": "besttelecom.la"
   },
   {
+    "network": "185.126.144.0/22",
+    "asn": "24337",
+    "country_code": "LA",
+    "name": "SKYTelecom-AS-AP",
+    "org": "Sky Telecom State Company",
+    "domain": "besttelecom.la"
+  },
+  {
     "network": "185.126.144.0/24",
     "asn": "24337",
     "country_code": "LA",
@@ -2833,6 +2913,22 @@
   },
   {
     "network": "185.126.147.0/24",
+    "asn": "24337",
+    "country_code": "LA",
+    "name": "SKYTelecom-AS-AP",
+    "org": "Sky Telecom State Company",
+    "domain": "besttelecom.la"
+  },
+  {
+    "network": "185.129.143.0/24",
+    "asn": "24337",
+    "country_code": "LA",
+    "name": "SKYTelecom-AS-AP",
+    "org": "Sky Telecom State Company",
+    "domain": "besttelecom.la"
+  },
+  {
+    "network": "202.123.176.0/21",
     "asn": "24337",
     "country_code": "LA",
     "name": "SKYTelecom-AS-AP",
@@ -2942,6 +3038,30 @@
     "name": "LGW-AS-AP",
     "org": "Lao Gateway Co., Ltd",
     "domain": "laogw.la"
+  },
+  {
+    "network": "160.187.128.0/24",
+    "asn": "153347",
+    "country_code": "LA",
+    "name": "LCTLAOS-AS-AP",
+    "org": "Lao Communication Technology Sole Co., Ltd",
+    "domain": "lctlaos.com"
+  },
+  {
+    "network": "160.187.129.0/24",
+    "asn": "153347",
+    "country_code": "LA",
+    "name": "LCTLAOS-AS-AP",
+    "org": "Lao Communication Technology Sole Co., Ltd",
+    "domain": "lctlaos.com"
+  },
+  {
+    "network": "163.8.203.0/24",
+    "asn": "153347",
+    "country_code": "LA",
+    "name": "LCTLAOS-AS-AP",
+    "org": "Lao Communication Technology Sole Co., Ltd",
+    "domain": "lctlaos.com"
   },
   {
     "network": "160.191.178.0/24",
@@ -3064,7 +3184,23 @@
     "domain": "dodorama.com"
   },
   {
+    "network": "2a12:f8c0:2000::/48",
+    "asn": "10104",
+    "country_code": "LA",
+    "name": "BVKCOMPUTER-AS-AP",
+    "org": "BV K Computer",
+    "domain": "dodorama.com"
+  },
+  {
     "network": "2a12:f8c0:2100::/40",
+    "asn": "10104",
+    "country_code": "LA",
+    "name": "BVKCOMPUTER-AS-AP",
+    "org": "BV K Computer",
+    "domain": "dodorama.com"
+  },
+  {
+    "network": "2a12:f8c1::/48",
     "asn": "10104",
     "country_code": "LA",
     "name": "BVKCOMPUTER-AS-AP",

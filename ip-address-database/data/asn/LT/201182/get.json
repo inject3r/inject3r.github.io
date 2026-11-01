@@ -1,5 +1,13 @@
 [
   {
+    "network": "82.40.29.0/24",
+    "asn": "201182",
+    "country_code": "LT",
+    "name": "ITU",
+    "org": "IT Uoga MB",
+    "domain": "ituoga.lt"
+  },
+  {
     "network": "140.150.154.0/24",
     "asn": "201182",
     "country_code": "LT",
@@ -32,7 +40,31 @@
     "domain": "ituoga.lt"
   },
   {
-    "network": "2a06:9801:300::/40",
+    "network": "2a06:9801:300::/48",
+    "asn": "201182",
+    "country_code": "LT",
+    "name": "ITU",
+    "org": "IT Uoga MB",
+    "domain": "ituoga.lt"
+  },
+  {
+    "network": "2a06:9801:333::/48",
+    "asn": "201182",
+    "country_code": "LT",
+    "name": "ITU",
+    "org": "IT Uoga MB",
+    "domain": "ituoga.lt"
+  },
+  {
+    "network": "2a06:9801:3fe::/48",
+    "asn": "201182",
+    "country_code": "LT",
+    "name": "ITU",
+    "org": "IT Uoga MB",
+    "domain": "ituoga.lt"
+  },
+  {
+    "network": "2a06:9801:3ff::/48",
     "asn": "201182",
     "country_code": "LT",
     "name": "ITU",

@@ -1,5 +1,13 @@
 [
   {
+    "network": "186.219.160.0/24",
+    "asn": "262754",
+    "country_code": "BR",
+    "name": "FLIX FIBRA",
+    "org": "FLIX FIBRA",
+    "domain": ""
+  },
+  {
     "network": "186.219.162.0/24",
     "asn": "262754",
     "country_code": "BR",
@@ -48,7 +56,15 @@
     "domain": ""
   },
   {
-    "network": "2804:9778::/32",
+    "network": "2804:9778::/47",
+    "asn": "262754",
+    "country_code": "BR",
+    "name": "FLIX FIBRA",
+    "org": "FLIX FIBRA",
+    "domain": ""
+  },
+  {
+    "network": "2804:9778:2::/47",
     "asn": "262754",
     "country_code": "BR",
     "name": "FLIX FIBRA",

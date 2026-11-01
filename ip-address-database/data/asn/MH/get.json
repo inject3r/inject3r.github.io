@@ -16,6 +16,22 @@
     "domain": "hyperdatamanagement.com"
   },
   {
+    "network": "77.47.250.0/24",
+    "asn": "205009",
+    "country_code": "MH",
+    "name": "HDMS",
+    "org": "HDM Solutions LTD",
+    "domain": "hyperdatamanagement.com"
+  },
+  {
+    "network": "77.47.251.0/24",
+    "asn": "205009",
+    "country_code": "MH",
+    "name": "HDMS",
+    "org": "HDM Solutions LTD",
+    "domain": "hyperdatamanagement.com"
+  },
+  {
     "network": "91.200.57.0/24",
     "asn": "205009",
     "country_code": "MH",
@@ -57,6 +73,14 @@
   },
   {
     "network": "45.94.55.0/24",
+    "asn": "209194",
+    "country_code": "MH",
+    "name": "Hyper-Data-Transit",
+    "org": "Hyper Data Transit LTD",
+    "domain": "hyperdatamanagement.com"
+  },
+  {
+    "network": "77.47.178.0/24",
     "asn": "209194",
     "country_code": "MH",
     "name": "Hyper-Data-Transit",
@@ -110,6 +134,14 @@
     "name": "NTAMAR-AS-AP",
     "org": "National Telecommunications Authority",
     "domain": "nta.mh"
+  },
+  {
+    "network": "64.204.88.0/24",
+    "asn": "154410",
+    "country_code": "MH",
+    "name": "MTL-AS-AP",
+    "org": "Marshall Telecom LTD",
+    "domain": "marshalltelecom.com"
   },
   {
     "network": "82.21.29.0/24",
@@ -208,14 +240,6 @@
     "domain": "marshalltelecom.com"
   },
   {
-    "network": "151.247.194.0/24",
-    "asn": "154410",
-    "country_code": "MH",
-    "name": "MTL-AS-AP",
-    "org": "Marshall Telecom LTD",
-    "domain": "marshalltelecom.com"
-  },
-  {
     "network": "160.22.66.0/23",
     "asn": "154410",
     "country_code": "MH",
@@ -233,14 +257,6 @@
   },
   {
     "network": "178.83.178.0/24",
-    "asn": "154410",
-    "country_code": "MH",
-    "name": "MTL-AS-AP",
-    "org": "Marshall Telecom LTD",
-    "domain": "marshalltelecom.com"
-  },
-  {
-    "network": "178.93.117.0/24",
     "asn": "154410",
     "country_code": "MH",
     "name": "MTL-AS-AP",
@@ -273,22 +289,6 @@
   },
   {
     "network": "178.95.56.0/24",
-    "asn": "154410",
-    "country_code": "MH",
-    "name": "MTL-AS-AP",
-    "org": "Marshall Telecom LTD",
-    "domain": "marshalltelecom.com"
-  },
-  {
-    "network": "191.101.219.0/24",
-    "asn": "154410",
-    "country_code": "MH",
-    "name": "MTL-AS-AP",
-    "org": "Marshall Telecom LTD",
-    "domain": "marshalltelecom.com"
-  },
-  {
-    "network": "195.58.129.0/24",
     "asn": "154410",
     "country_code": "MH",
     "name": "MTL-AS-AP",
@@ -368,7 +368,31 @@
     "domain": "iseclayer.com"
   },
   {
-    "network": "85.149.185.0/24",
+    "network": "85.149.137.0/24",
+    "asn": "201501",
+    "country_code": "MH",
+    "name": "isec-asn",
+    "org": "ISECLAYER INC",
+    "domain": "iseclayer.com"
+  },
+  {
+    "network": "85.149.138.0/24",
+    "asn": "201501",
+    "country_code": "MH",
+    "name": "isec-asn",
+    "org": "ISECLAYER INC",
+    "domain": "iseclayer.com"
+  },
+  {
+    "network": "85.149.183.0/24",
+    "asn": "201501",
+    "country_code": "MH",
+    "name": "isec-asn",
+    "org": "ISECLAYER INC",
+    "domain": "iseclayer.com"
+  },
+  {
+    "network": "85.149.184.0/24",
     "asn": "201501",
     "country_code": "MH",
     "name": "isec-asn",

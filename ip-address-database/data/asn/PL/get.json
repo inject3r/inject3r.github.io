@@ -136,6 +136,22 @@
     "domain": "guardnet.work"
   },
   {
+    "network": "177.177.230.0/24",
+    "asn": "216129",
+    "country_code": "PL",
+    "name": "GuardNetwork-AS",
+    "org": "SEBEK sp. z o.o",
+    "domain": "guardnet.work"
+  },
+  {
+    "network": "177.177.237.0/24",
+    "asn": "216129",
+    "country_code": "PL",
+    "name": "GuardNetwork-AS",
+    "org": "SEBEK sp. z o.o",
+    "domain": "guardnet.work"
+  },
+  {
     "network": "185.28.84.0/24",
     "asn": "216129",
     "country_code": "PL",
@@ -209,14 +225,6 @@
   },
   {
     "network": "2a13:d201:1::/48",
-    "asn": "216129",
-    "country_code": "PL",
-    "name": "GuardNetwork-AS",
-    "org": "SEBEK sp. z o.o",
-    "domain": "guardnet.work"
-  },
-  {
-    "network": "2a13:d201:2::/48",
     "asn": "216129",
     "country_code": "PL",
     "name": "GuardNetwork-AS",
@@ -305,6 +313,14 @@
   },
   {
     "network": "38.190.92.0/23",
+    "asn": "205384",
+    "country_code": "PL",
+    "name": "WI-HURA",
+    "org": "WI-HURA.NET Sp. z o.o.",
+    "domain": "wi-hura.net"
+  },
+  {
+    "network": "38.226.192.0/23",
     "asn": "205384",
     "country_code": "PL",
     "name": "WI-HURA",
@@ -1072,14 +1088,6 @@
     "domain": "podkarpacki.net"
   },
   {
-    "network": "46.174.209.0/24",
-    "asn": "16110",
-    "country_code": "PL",
-    "name": "PODKARPACKI-NET-AS",
-    "org": "Podkarpacki.net Rafal Czarny",
-    "domain": "podkarpacki.net"
-  },
-  {
     "network": "46.174.211.0/24",
     "asn": "16110",
     "country_code": "PL",
@@ -1337,6 +1345,14 @@
   },
   {
     "network": "74.63.8.0/21",
+    "asn": "200999",
+    "country_code": "PL",
+    "name": "pl-cloudferro",
+    "org": "CloudFerro S.A",
+    "domain": "cloudferro.com"
+  },
+  {
+    "network": "79.135.108.0/22",
     "asn": "200999",
     "country_code": "PL",
     "name": "pl-cloudferro",
@@ -2224,14 +2240,6 @@
     "domain": "artnet.pl"
   },
   {
-    "network": "83.168.123.0/24",
-    "asn": "200088",
-    "country_code": "PL",
-    "name": "ARTNET2",
-    "org": "Artnet Sp. z o.o.",
-    "domain": "artnet.pl"
-  },
-  {
     "network": "88.216.19.0/24",
     "asn": "200088",
     "country_code": "PL",
@@ -2312,31 +2320,7 @@
     "domain": "artnet.pl"
   },
   {
-    "network": "185.226.106.0/24",
-    "asn": "200088",
-    "country_code": "PL",
-    "name": "ARTNET2",
-    "org": "Artnet Sp. z o.o.",
-    "domain": "artnet.pl"
-  },
-  {
-    "network": "185.228.74.0/24",
-    "asn": "200088",
-    "country_code": "PL",
-    "name": "ARTNET2",
-    "org": "Artnet Sp. z o.o.",
-    "domain": "artnet.pl"
-  },
-  {
     "network": "193.104.50.0/24",
-    "asn": "200088",
-    "country_code": "PL",
-    "name": "ARTNET2",
-    "org": "Artnet Sp. z o.o.",
-    "domain": "artnet.pl"
-  },
-  {
-    "network": "193.104.184.0/24",
     "asn": "200088",
     "country_code": "PL",
     "name": "ARTNET2",
@@ -2769,6 +2753,14 @@
   },
   {
     "network": "185.170.32.0/22",
+    "asn": "39039",
+    "country_code": "PL",
+    "name": "STANSAT",
+    "org": "Stansat Stanislaw Grzesik",
+    "domain": "stansat.pl"
+  },
+  {
+    "network": "195.136.190.0/23",
     "asn": "39039",
     "country_code": "PL",
     "name": "STANSAT",
@@ -3888,22 +3880,6 @@
     "domain": "mevspace.com"
   },
   {
-    "network": "195.3.220.0/23",
-    "asn": "201814",
-    "country_code": "PL",
-    "name": "Mevspace",
-    "org": "MEVSPACE sp. z o.o.",
-    "domain": "mevspace.com"
-  },
-  {
-    "network": "195.3.222.0/23",
-    "asn": "201814",
-    "country_code": "PL",
-    "name": "Mevspace",
-    "org": "MEVSPACE sp. z o.o.",
-    "domain": "mevspace.com"
-  },
-  {
     "network": "212.23.222.0/24",
     "asn": "201814",
     "country_code": "PL",
@@ -3984,6 +3960,14 @@
     "domain": "mevspace.com"
   },
   {
+    "network": "82.108.210.0/24",
+    "asn": "207208",
+    "country_code": "PL",
+    "name": "Mevspace-projects",
+    "org": "MEVSPACE sp. z o.o.",
+    "domain": "mevspace.com"
+  },
+  {
     "network": "149.50.120.0/24",
     "asn": "207208",
     "country_code": "PL",
@@ -4008,6 +3992,30 @@
     "domain": "mevspace.com"
   },
   {
+    "network": "178.95.185.0/24",
+    "asn": "207208",
+    "country_code": "PL",
+    "name": "Mevspace-projects",
+    "org": "MEVSPACE sp. z o.o.",
+    "domain": "mevspace.com"
+  },
+  {
+    "network": "217.60.92.0/24",
+    "asn": "207208",
+    "country_code": "PL",
+    "name": "Mevspace-projects",
+    "org": "MEVSPACE sp. z o.o.",
+    "domain": "mevspace.com"
+  },
+  {
+    "network": "217.60.93.0/24",
+    "asn": "207208",
+    "country_code": "PL",
+    "name": "Mevspace-projects",
+    "org": "MEVSPACE sp. z o.o.",
+    "domain": "mevspace.com"
+  },
+  {
     "network": "2001:67c:2498::/48",
     "asn": "207208",
     "country_code": "PL",
@@ -4024,7 +4032,23 @@
     "domain": "mevspace.com"
   },
   {
+    "network": "2a0f:2f80::/29",
+    "asn": "207208",
+    "country_code": "PL",
+    "name": "Mevspace-projects",
+    "org": "MEVSPACE sp. z o.o.",
+    "domain": "mevspace.com"
+  },
+  {
     "network": "2a10:fa81:1b00::/48",
+    "asn": "207208",
+    "country_code": "PL",
+    "name": "Mevspace-projects",
+    "org": "MEVSPACE sp. z o.o.",
+    "domain": "mevspace.com"
+  },
+  {
+    "network": "2a11:b100:e100::/48",
     "asn": "207208",
     "country_code": "PL",
     "name": "Mevspace-projects",
@@ -4857,6 +4881,14 @@
   },
   {
     "network": "212.182.64.0/20",
+    "asn": "12324",
+    "country_code": "PL",
+    "name": "LUBMAN-EDU-AS",
+    "org": "Maria Curie-Sklodowska University",
+    "domain": "umcs.pl"
+  },
+  {
+    "network": "2a04:440::/30",
     "asn": "12324",
     "country_code": "PL",
     "name": "LUBMAN-EDU-AS",
@@ -6248,54 +6280,6 @@
     "domain": "ghelamco.com"
   },
   {
-    "network": "5.231.240.0/24",
-    "asn": "209866",
-    "country_code": "PL",
-    "name": "VORT",
-    "org": "Piotr Macha trading as Vort Cloud",
-    "domain": "as209866.net"
-  },
-  {
-    "network": "201.3.120.0/23",
-    "asn": "209866",
-    "country_code": "PL",
-    "name": "VORT",
-    "org": "Piotr Macha trading as Vort Cloud",
-    "domain": "as209866.net"
-  },
-  {
-    "network": "201.3.121.0/24",
-    "asn": "209866",
-    "country_code": "PL",
-    "name": "VORT",
-    "org": "Piotr Macha trading as Vort Cloud",
-    "domain": "as209866.net"
-  },
-  {
-    "network": "2a09:dd80::/32",
-    "asn": "209866",
-    "country_code": "PL",
-    "name": "VORT",
-    "org": "Piotr Macha trading as Vort Cloud",
-    "domain": "as209866.net"
-  },
-  {
-    "network": "2a09:dd80:a::/48",
-    "asn": "209866",
-    "country_code": "PL",
-    "name": "VORT",
-    "org": "Piotr Macha trading as Vort Cloud",
-    "domain": "as209866.net"
-  },
-  {
-    "network": "2a09:dd80:b::/48",
-    "asn": "209866",
-    "country_code": "PL",
-    "name": "VORT",
-    "org": "Piotr Macha trading as Vort Cloud",
-    "domain": "as209866.net"
-  },
-  {
     "network": "5.252.108.0/22",
     "asn": "209086",
     "country_code": "PL",
@@ -6608,7 +6592,7 @@
     "domain": "alfa-system.pl"
   },
   {
-    "network": "2a0f:1700::/29",
+    "network": "217.197.102.0/24",
     "asn": "198050",
     "country_code": "PL",
     "name": "ALFA-SYSTEM-AS",
@@ -6616,76 +6600,12 @@
     "domain": "alfa-system.pl"
   },
   {
-    "network": "13.141.35.0/24",
-    "asn": "215133",
+    "network": "2a0f:1700::/29",
+    "asn": "198050",
     "country_code": "PL",
-    "name": "JAKUB-WITKOWSKI",
-    "org": "Jakub Witkowski",
-    "domain": "proton.me"
-  },
-  {
-    "network": "13.141.56.0/24",
-    "asn": "215133",
-    "country_code": "PL",
-    "name": "JAKUB-WITKOWSKI",
-    "org": "Jakub Witkowski",
-    "domain": "proton.me"
-  },
-  {
-    "network": "13.141.64.0/24",
-    "asn": "215133",
-    "country_code": "PL",
-    "name": "JAKUB-WITKOWSKI",
-    "org": "Jakub Witkowski",
-    "domain": "proton.me"
-  },
-  {
-    "network": "201.3.237.0/24",
-    "asn": "215133",
-    "country_code": "PL",
-    "name": "JAKUB-WITKOWSKI",
-    "org": "Jakub Witkowski",
-    "domain": "proton.me"
-  },
-  {
-    "network": "201.4.72.0/24",
-    "asn": "215133",
-    "country_code": "PL",
-    "name": "JAKUB-WITKOWSKI",
-    "org": "Jakub Witkowski",
-    "domain": "proton.me"
-  },
-  {
-    "network": "201.4.76.0/24",
-    "asn": "215133",
-    "country_code": "PL",
-    "name": "JAKUB-WITKOWSKI",
-    "org": "Jakub Witkowski",
-    "domain": "proton.me"
-  },
-  {
-    "network": "201.7.19.0/24",
-    "asn": "215133",
-    "country_code": "PL",
-    "name": "JAKUB-WITKOWSKI",
-    "org": "Jakub Witkowski",
-    "domain": "proton.me"
-  },
-  {
-    "network": "201.7.22.0/24",
-    "asn": "215133",
-    "country_code": "PL",
-    "name": "JAKUB-WITKOWSKI",
-    "org": "Jakub Witkowski",
-    "domain": "proton.me"
-  },
-  {
-    "network": "201.7.27.0/24",
-    "asn": "215133",
-    "country_code": "PL",
-    "name": "JAKUB-WITKOWSKI",
-    "org": "Jakub Witkowski",
-    "domain": "proton.me"
+    "name": "ALFA-SYSTEM-AS",
+    "org": "Marek Piwowarski trading as ALFA-SYSTEM M. Piwowarski, A. Widera s.j.",
+    "domain": "alfa-system.pl"
   },
   {
     "network": "23.230.101.0/24",
@@ -6785,6 +6705,14 @@
   },
   {
     "network": "79.172.218.0/24",
+    "asn": "43641",
+    "country_code": "PL",
+    "name": "Sollutium-NL",
+    "org": "SOLLUTIUM EU Sp z.o.o.",
+    "domain": "sollutium.com"
+  },
+  {
+    "network": "82.158.195.0/24",
     "asn": "43641",
     "country_code": "PL",
     "name": "Sollutium-NL",
@@ -7704,6 +7632,14 @@
     "domain": "sollutium.com"
   },
   {
+    "network": "2a06:9f47::/32",
+    "asn": "43641",
+    "country_code": "PL",
+    "name": "Sollutium-NL",
+    "org": "SOLLUTIUM EU Sp z.o.o.",
+    "domain": "sollutium.com"
+  },
+  {
     "network": "2a09:2dc1::/32",
     "asn": "43641",
     "country_code": "PL",
@@ -7737,14 +7673,6 @@
   },
   {
     "network": "2a11:6101::/32",
-    "asn": "43641",
-    "country_code": "PL",
-    "name": "Sollutium-NL",
-    "org": "SOLLUTIUM EU Sp z.o.o.",
-    "domain": "sollutium.com"
-  },
-  {
-    "network": "2a13:e104::/32",
     "asn": "43641",
     "country_code": "PL",
     "name": "Sollutium-NL",
@@ -8576,14 +8504,6 @@
     "domain": "vectra.pl"
   },
   {
-    "network": "78.88.123.0/24",
-    "asn": "29314",
-    "country_code": "PL",
-    "name": "VECTRANET-AS",
-    "org": "VECTRA S.A.",
-    "domain": "vectra.pl"
-  },
-  {
     "network": "78.88.128.0/17",
     "asn": "29314",
     "country_code": "PL",
@@ -8753,6 +8673,30 @@
   },
   {
     "network": "89.229.192.0/20",
+    "asn": "29314",
+    "country_code": "PL",
+    "name": "VECTRANET-AS",
+    "org": "VECTRA S.A.",
+    "domain": "vectra.pl"
+  },
+  {
+    "network": "89.229.232.0/21",
+    "asn": "29314",
+    "country_code": "PL",
+    "name": "VECTRANET-AS",
+    "org": "VECTRA S.A.",
+    "domain": "vectra.pl"
+  },
+  {
+    "network": "89.230.80.0/21",
+    "asn": "29314",
+    "country_code": "PL",
+    "name": "VECTRANET-AS",
+    "org": "VECTRA S.A.",
+    "domain": "vectra.pl"
+  },
+  {
+    "network": "89.231.48.0/21",
     "asn": "29314",
     "country_code": "PL",
     "name": "VECTRANET-AS",
@@ -10544,30 +10488,6 @@
     "domain": "an24.pl"
   },
   {
-    "network": "31.42.121.0/24",
-    "asn": "218932",
-    "country_code": "PL",
-    "name": "FURYNET",
-    "org": "RYBCZYNSKI KACPER",
-    "domain": "nexoracloud.pl"
-  },
-  {
-    "network": "130.78.9.0/24",
-    "asn": "218932",
-    "country_code": "PL",
-    "name": "FURYNET",
-    "org": "RYBCZYNSKI KACPER",
-    "domain": "nexoracloud.pl"
-  },
-  {
-    "network": "2a03:5840:15d::/48",
-    "asn": "218932",
-    "country_code": "PL",
-    "name": "FURYNET",
-    "org": "RYBCZYNSKI KACPER",
-    "domain": "nexoracloud.pl"
-  },
-  {
     "network": "31.56.26.0/24",
     "asn": "211011",
     "country_code": "PL",
@@ -10582,6 +10502,110 @@
     "name": "VoxiHost",
     "org": "DANIEL MARSZALKOWSKI trading as VoxiHost",
     "domain": "voxihost.pl"
+  },
+  {
+    "network": "31.57.12.0/24",
+    "asn": "215133",
+    "country_code": "PL",
+    "name": "JAKUB-WITKOWSKI",
+    "org": "Jakub Witkowski",
+    "domain": "proton.me"
+  },
+  {
+    "network": "77.216.4.0/24",
+    "asn": "215133",
+    "country_code": "PL",
+    "name": "JAKUB-WITKOWSKI",
+    "org": "Jakub Witkowski",
+    "domain": "proton.me"
+  },
+  {
+    "network": "79.182.27.0/24",
+    "asn": "215133",
+    "country_code": "PL",
+    "name": "JAKUB-WITKOWSKI",
+    "org": "Jakub Witkowski",
+    "domain": "proton.me"
+  },
+  {
+    "network": "130.78.11.0/24",
+    "asn": "215133",
+    "country_code": "PL",
+    "name": "JAKUB-WITKOWSKI",
+    "org": "Jakub Witkowski",
+    "domain": "proton.me"
+  },
+  {
+    "network": "191.44.90.0/24",
+    "asn": "215133",
+    "country_code": "PL",
+    "name": "JAKUB-WITKOWSKI",
+    "org": "Jakub Witkowski",
+    "domain": "proton.me"
+  },
+  {
+    "network": "201.4.72.0/24",
+    "asn": "215133",
+    "country_code": "PL",
+    "name": "JAKUB-WITKOWSKI",
+    "org": "Jakub Witkowski",
+    "domain": "proton.me"
+  },
+  {
+    "network": "31.57.66.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "45.158.11.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "79.98.36.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "104.234.156.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "130.78.186.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "201.3.229.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "2a0d:d940:9009::/48",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
   },
   {
     "network": "31.58.51.0/24",
@@ -11272,6 +11296,38 @@
     "domain": "beskidmedia.pl"
   },
   {
+    "network": "46.151.18.0/24",
+    "asn": "50467",
+    "country_code": "PL",
+    "name": "BESKID-MEDIA-AS",
+    "org": "Beskid Media Sp. z o.o.",
+    "domain": "beskidmedia.pl"
+  },
+  {
+    "network": "46.151.19.0/24",
+    "asn": "50467",
+    "country_code": "PL",
+    "name": "BESKID-MEDIA-AS",
+    "org": "Beskid Media Sp. z o.o.",
+    "domain": "beskidmedia.pl"
+  },
+  {
+    "network": "46.151.20.0/24",
+    "asn": "50467",
+    "country_code": "PL",
+    "name": "BESKID-MEDIA-AS",
+    "org": "Beskid Media Sp. z o.o.",
+    "domain": "beskidmedia.pl"
+  },
+  {
+    "network": "46.151.21.0/24",
+    "asn": "50467",
+    "country_code": "PL",
+    "name": "BESKID-MEDIA-AS",
+    "org": "Beskid Media Sp. z o.o.",
+    "domain": "beskidmedia.pl"
+  },
+  {
     "network": "87.239.168.0/21",
     "asn": "50467",
     "country_code": "PL",
@@ -11289,6 +11345,46 @@
   },
   {
     "network": "109.95.112.0/21",
+    "asn": "50467",
+    "country_code": "PL",
+    "name": "BESKID-MEDIA-AS",
+    "org": "Beskid Media Sp. z o.o.",
+    "domain": "beskidmedia.pl"
+  },
+  {
+    "network": "109.95.112.0/24",
+    "asn": "50467",
+    "country_code": "PL",
+    "name": "BESKID-MEDIA-AS",
+    "org": "Beskid Media Sp. z o.o.",
+    "domain": "beskidmedia.pl"
+  },
+  {
+    "network": "109.95.113.0/24",
+    "asn": "50467",
+    "country_code": "PL",
+    "name": "BESKID-MEDIA-AS",
+    "org": "Beskid Media Sp. z o.o.",
+    "domain": "beskidmedia.pl"
+  },
+  {
+    "network": "109.95.114.0/24",
+    "asn": "50467",
+    "country_code": "PL",
+    "name": "BESKID-MEDIA-AS",
+    "org": "Beskid Media Sp. z o.o.",
+    "domain": "beskidmedia.pl"
+  },
+  {
+    "network": "109.95.115.0/24",
+    "asn": "50467",
+    "country_code": "PL",
+    "name": "BESKID-MEDIA-AS",
+    "org": "Beskid Media Sp. z o.o.",
+    "domain": "beskidmedia.pl"
+  },
+  {
+    "network": "109.95.116.0/24",
     "asn": "50467",
     "country_code": "PL",
     "name": "BESKID-MEDIA-AS",
@@ -11433,6 +11529,22 @@
   },
   {
     "network": "31.171.212.0/24",
+    "asn": "214397",
+    "country_code": "PL",
+    "name": "HOSTOVITA-AS",
+    "org": "Hostovita sp. z o.o.",
+    "domain": "hostovita.pl"
+  },
+  {
+    "network": "77.83.100.0/24",
+    "asn": "214397",
+    "country_code": "PL",
+    "name": "HOSTOVITA-AS",
+    "org": "Hostovita sp. z o.o.",
+    "domain": "hostovita.pl"
+  },
+  {
+    "network": "77.83.101.0/24",
     "asn": "214397",
     "country_code": "PL",
     "name": "HOSTOVITA-AS",
@@ -15645,7 +15757,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.3.0/24",
@@ -15653,7 +15765,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.6.0/24",
@@ -15661,7 +15773,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.14.0/24",
@@ -15669,7 +15781,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.33.0/24",
@@ -15677,7 +15789,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.36.0/24",
@@ -15685,7 +15797,15 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
+  },
+  {
+    "network": "37.130.38.0/24",
+    "asn": "210104",
+    "country_code": "PL",
+    "name": "WAWTEL-AS",
+    "org": "Timplus sp. z o.o.",
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.48.0/24",
@@ -15693,7 +15813,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.52.0/24",
@@ -15701,7 +15821,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.53.0/24",
@@ -15709,7 +15829,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.54.0/24",
@@ -15717,7 +15837,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.57.0/24",
@@ -15725,7 +15845,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.62.0/24",
@@ -15733,7 +15853,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "85.115.212.0/22",
@@ -15741,7 +15861,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "93.177.88.0/22",
@@ -15749,7 +15869,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "185.215.74.0/24",
@@ -15757,7 +15877,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "185.215.75.0/24",
@@ -15765,7 +15885,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "185.237.56.0/22",
@@ -15773,7 +15893,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "194.1.246.0/24",
@@ -15781,7 +15901,7 @@
     "country_code": "PL",
     "name": "WAWTEL-AS",
     "org": "Timplus sp. z o.o.",
-    "domain": "itvmedia.pl"
+    "domain": "timplus.pl"
   },
   {
     "network": "37.130.8.0/22",
@@ -16632,6 +16752,14 @@
     "domain": "kamnet.pl"
   },
   {
+    "network": "2a07:4bc0::/29",
+    "asn": "198537",
+    "country_code": "PL",
+    "name": "PL-KAMNET",
+    "org": "Kamil Turon trading as KAMNET",
+    "domain": "kamnet.pl"
+  },
+  {
     "network": "37.230.131.0/24",
     "asn": "200197",
     "country_code": "PL",
@@ -16665,6 +16793,14 @@
   },
   {
     "network": "37.247.246.0/23",
+    "asn": "21243",
+    "country_code": "PL",
+    "name": "PLUSNET",
+    "org": "Polkomtel Sp. z o.o.",
+    "domain": "plus.pl"
+  },
+  {
+    "network": "212.2.105.0/24",
     "asn": "21243",
     "country_code": "PL",
     "name": "PLUSNET",
@@ -16721,6 +16857,14 @@
   },
   {
     "network": "185.49.14.0/24",
+    "asn": "29205",
+    "country_code": "PL",
+    "name": "VERCOM",
+    "org": "VERCOM S.A.",
+    "domain": "vercom.pl"
+  },
+  {
+    "network": "185.49.15.0/24",
     "asn": "29205",
     "country_code": "PL",
     "name": "VERCOM",
@@ -16896,6 +17040,14 @@
     "domain": "mathost.eu"
   },
   {
+    "network": "145.79.141.0/24",
+    "asn": "214762",
+    "country_code": "PL",
+    "name": "MATHOST",
+    "org": "Sebastian Stefanek trading as MatHost.eu",
+    "domain": "mathost.eu"
+  },
+  {
     "network": "2a05:dfc1:1410::/44",
     "asn": "214762",
     "country_code": "PL",
@@ -16974,6 +17126,22 @@
     "name": "CODEBY",
     "org": "Mariusz Mikolajczak trading as CodeBy",
     "domain": "codeby.pl"
+  },
+  {
+    "network": "44.32.184.0/24",
+    "asn": "218781",
+    "country_code": "PL",
+    "name": "SQ5FOX",
+    "org": "Adrian Grzeca",
+    "domain": "grzeca.me"
+  },
+  {
+    "network": "2a14:7583:efd0::/48",
+    "asn": "218781",
+    "country_code": "PL",
+    "name": "SQ5FOX",
+    "org": "Adrian Grzeca",
+    "domain": "grzeca.me"
   },
   {
     "network": "44.32.186.0/24",
@@ -17145,14 +17313,6 @@
   },
   {
     "network": "45.9.235.0/24",
-    "asn": "57608",
-    "country_code": "PL",
-    "name": "DGNET",
-    "org": "FIBO SA",
-    "domain": "dg-net.pl"
-  },
-  {
-    "network": "84.205.168.0/24",
     "asn": "57608",
     "country_code": "PL",
     "name": "DGNET",
@@ -18400,14 +18560,6 @@
     "domain": "techgroup.pl"
   },
   {
-    "network": "217.197.102.0/24",
-    "asn": "201990",
-    "country_code": "PL",
-    "name": "Techgroup_NET",
-    "org": "Jakub Bartlomiej Osuch trading as Techgroup",
-    "domain": "techgroup.pl"
-  },
-  {
     "network": "45.90.164.0/22",
     "asn": "47755",
     "country_code": "PL",
@@ -18460,7 +18612,7 @@
     "asn": "43073",
     "country_code": "PL",
     "name": "DANAR-WOJTYSIAK-AS",
-    "org": "Artur Wojtysiak trading as Danar Wojtysiak Sp. z o.o.",
+    "org": "Artur Wojtysiak trading as Danar Sp. z o.o.",
     "domain": "danar.net.pl"
   },
   {
@@ -19408,14 +19560,6 @@
     "domain": "telnaptelecom.pl"
   },
   {
-    "network": "87.199.165.0/24",
-    "asn": "43372",
-    "country_code": "PL",
-    "name": "TELNAP",
-    "org": "TELNAP TELECOM Sp. z o.o.",
-    "domain": "telnaptelecom.pl"
-  },
-  {
     "network": "88.220.112.0/24",
     "asn": "43372",
     "country_code": "PL",
@@ -20213,7 +20357,7 @@
     "country_code": "PL",
     "name": "MULTINET",
     "org": "Multinet Krzysztof Kupiec",
-    "domain": "szara.net"
+    "domain": "s-net.pl"
   },
   {
     "network": "46.22.172.0/24",
@@ -20221,7 +20365,7 @@
     "country_code": "PL",
     "name": "MULTINET",
     "org": "Multinet Krzysztof Kupiec",
-    "domain": "szara.net"
+    "domain": "s-net.pl"
   },
   {
     "network": "46.22.166.0/24",
@@ -20592,54 +20736,6 @@
     "domain": "home.pl"
   },
   {
-    "network": "46.45.64.0/18",
-    "asn": "51484",
-    "country_code": "PL",
-    "name": "BLOKOWE",
-    "org": "Sieci Blokowe S.C.",
-    "domain": "blokowe.pl"
-  },
-  {
-    "network": "46.45.80.0/20",
-    "asn": "51484",
-    "country_code": "PL",
-    "name": "BLOKOWE",
-    "org": "Sieci Blokowe S.C.",
-    "domain": "blokowe.pl"
-  },
-  {
-    "network": "46.45.96.0/20",
-    "asn": "51484",
-    "country_code": "PL",
-    "name": "BLOKOWE",
-    "org": "Sieci Blokowe S.C.",
-    "domain": "blokowe.pl"
-  },
-  {
-    "network": "46.45.104.0/23",
-    "asn": "51484",
-    "country_code": "PL",
-    "name": "BLOKOWE",
-    "org": "Sieci Blokowe S.C.",
-    "domain": "blokowe.pl"
-  },
-  {
-    "network": "46.45.112.0/20",
-    "asn": "51484",
-    "country_code": "PL",
-    "name": "BLOKOWE",
-    "org": "Sieci Blokowe S.C.",
-    "domain": "blokowe.pl"
-  },
-  {
-    "network": "2a03:24c0::/48",
-    "asn": "51484",
-    "country_code": "PL",
-    "name": "BLOKOWE",
-    "org": "Sieci Blokowe S.C.",
-    "domain": "blokowe.pl"
-  },
-  {
     "network": "46.45.64.0/20",
     "asn": "208066",
     "country_code": "PL",
@@ -20696,12 +20792,44 @@
     "domain": "ksiezyc.pl"
   },
   {
-    "network": "2a03:24c0:ffcf::/48",
-    "asn": "208066",
+    "network": "46.45.80.0/20",
+    "asn": "51484",
     "country_code": "PL",
-    "name": "KSIEZYC",
-    "org": "Aves Sp. z o.o.",
-    "domain": "ksiezyc.pl"
+    "name": "BLOKOWE",
+    "org": "Sieci Blokowe S.C.",
+    "domain": "blokowe.pl"
+  },
+  {
+    "network": "46.45.96.0/20",
+    "asn": "51484",
+    "country_code": "PL",
+    "name": "BLOKOWE",
+    "org": "Sieci Blokowe S.C.",
+    "domain": "blokowe.pl"
+  },
+  {
+    "network": "46.45.104.0/23",
+    "asn": "51484",
+    "country_code": "PL",
+    "name": "BLOKOWE",
+    "org": "Sieci Blokowe S.C.",
+    "domain": "blokowe.pl"
+  },
+  {
+    "network": "46.45.112.0/20",
+    "asn": "51484",
+    "country_code": "PL",
+    "name": "BLOKOWE",
+    "org": "Sieci Blokowe S.C.",
+    "domain": "blokowe.pl"
+  },
+  {
+    "network": "2a03:24c0::/48",
+    "asn": "51484",
+    "country_code": "PL",
+    "name": "BLOKOWE",
+    "org": "Sieci Blokowe S.C.",
+    "domain": "blokowe.pl"
   },
   {
     "network": "46.45.116.0/24",
@@ -20788,7 +20916,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20796,7 +20924,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20804,7 +20932,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20812,7 +20940,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20820,7 +20948,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20828,7 +20956,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20836,7 +20964,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20844,7 +20972,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20852,7 +20980,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20860,7 +20988,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20868,7 +20996,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20876,7 +21004,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20884,7 +21012,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20892,7 +21020,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20900,7 +21028,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20908,7 +21036,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20916,7 +21044,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20924,7 +21052,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20932,7 +21060,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20940,7 +21068,7 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -20948,7 +21076,15 @@
     "asn": "35491",
     "country_code": "PL",
     "name": "TPNETS",
-    "org": "TPnets.com Sp. z o.o.",
+    "org": "TPnets.com sp. z o.o.",
+    "domain": "tpnets.com"
+  },
+  {
+    "network": "2a12:1e40::/29",
+    "asn": "35491",
+    "country_code": "PL",
+    "name": "TPNETS",
+    "org": "TPnets.com sp. z o.o.",
     "domain": "tpnets.com"
   },
   {
@@ -21448,14 +21584,6 @@
     "domain": "vbiz.pl"
   },
   {
-    "network": "2001:678:d40::/48",
-    "asn": "198430",
-    "country_code": "PL",
-    "name": "VBIZ-PL",
-    "org": "vSolutions Pawel Gruszecki",
-    "domain": "vbiz.pl"
-  },
-  {
     "network": "46.174.176.0/21",
     "asn": "52142",
     "country_code": "PL",
@@ -21648,7 +21776,7 @@
     "domain": "lcs.net.pl"
   },
   {
-    "network": "2a0c:ce80::/44",
+    "network": "185.242.152.0/23",
     "asn": "197113",
     "country_code": "PL",
     "name": "LCSNET-AS",
@@ -21656,47 +21784,7 @@
     "domain": "lcs.net.pl"
   },
   {
-    "network": "2a0c:ce80:10::/44",
-    "asn": "197113",
-    "country_code": "PL",
-    "name": "LCSNET-AS",
-    "org": "MAGDALENA ZANETA MARCZUK trading as LCS SYSTEMY TELEINFORMATYCZNE",
-    "domain": "lcs.net.pl"
-  },
-  {
-    "network": "2a0c:ce80:20::/44",
-    "asn": "197113",
-    "country_code": "PL",
-    "name": "LCSNET-AS",
-    "org": "MAGDALENA ZANETA MARCZUK trading as LCS SYSTEMY TELEINFORMATYCZNE",
-    "domain": "lcs.net.pl"
-  },
-  {
-    "network": "2a0c:ce80:30::/44",
-    "asn": "197113",
-    "country_code": "PL",
-    "name": "LCSNET-AS",
-    "org": "MAGDALENA ZANETA MARCZUK trading as LCS SYSTEMY TELEINFORMATYCZNE",
-    "domain": "lcs.net.pl"
-  },
-  {
-    "network": "2a0c:ce80:40::/44",
-    "asn": "197113",
-    "country_code": "PL",
-    "name": "LCSNET-AS",
-    "org": "MAGDALENA ZANETA MARCZUK trading as LCS SYSTEMY TELEINFORMATYCZNE",
-    "domain": "lcs.net.pl"
-  },
-  {
-    "network": "2a0c:ce80:50::/44",
-    "asn": "197113",
-    "country_code": "PL",
-    "name": "LCSNET-AS",
-    "org": "MAGDALENA ZANETA MARCZUK trading as LCS SYSTEMY TELEINFORMATYCZNE",
-    "domain": "lcs.net.pl"
-  },
-  {
-    "network": "2a0c:ce80:60::/44",
+    "network": "185.242.154.0/23",
     "asn": "197113",
     "country_code": "PL",
     "name": "LCSNET-AS",
@@ -21872,7 +21960,135 @@
     "domain": "metrointernet.pl"
   },
   {
+    "network": "46.227.104.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "46.227.105.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "46.227.106.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "46.227.107.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "46.227.108.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "46.227.109.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "46.227.110.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "46.227.111.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
     "network": "83.142.192.0/21",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "83.142.192.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "83.142.193.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "83.142.194.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "83.142.195.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "83.142.196.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "83.142.197.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "83.142.198.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "83.142.199.0/24",
     "asn": "8819",
     "country_code": "PL",
     "name": "PL-METROINTERNET",
@@ -21888,7 +22104,103 @@
     "domain": "metrointernet.pl"
   },
   {
+    "network": "91.189.24.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "91.189.25.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "91.189.26.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "91.189.27.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "91.189.28.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "91.189.29.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "91.189.30.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "91.189.31.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
     "network": "185.188.68.0/22",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "185.188.68.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "185.188.69.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "185.188.70.0/24",
+    "asn": "8819",
+    "country_code": "PL",
+    "name": "PL-METROINTERNET",
+    "org": "Metro Internet Sp. z o.o.",
+    "domain": "metrointernet.pl"
+  },
+  {
+    "network": "185.188.71.0/24",
     "asn": "8819",
     "country_code": "PL",
     "name": "PL-METROINTERNET",
@@ -22448,6 +22760,14 @@
     "domain": "atman.pl"
   },
   {
+    "network": "2001:1a68:e::/48",
+    "asn": "15694",
+    "country_code": "PL",
+    "name": "ATMAN-ISP-AS",
+    "org": "Atman Sp. z o.o.",
+    "domain": "atman.pl"
+  },
+  {
     "network": "2001:1a68:18::/48",
     "asn": "15694",
     "country_code": "PL",
@@ -22497,22 +22817,6 @@
   },
   {
     "network": "77.79.198.0/24",
-    "asn": "24723",
-    "country_code": "PL",
-    "name": "ATMAN-OFFICE-INTERNET-AS",
-    "org": "Atman Sp. z o.o.",
-    "domain": "atman.pl"
-  },
-  {
-    "network": "77.83.100.0/24",
-    "asn": "24723",
-    "country_code": "PL",
-    "name": "ATMAN-OFFICE-INTERNET-AS",
-    "org": "Atman Sp. z o.o.",
-    "domain": "atman.pl"
-  },
-  {
-    "network": "77.83.101.0/24",
     "asn": "24723",
     "country_code": "PL",
     "name": "ATMAN-OFFICE-INTERNET-AS",
@@ -22721,6 +23025,14 @@
   },
   {
     "network": "185.6.52.0/22",
+    "asn": "56391",
+    "country_code": "PL",
+    "name": "VTELECOM",
+    "org": "VIRTUAL TELECOM SP. Z O.O.",
+    "domain": "vtelecom.pl"
+  },
+  {
+    "network": "185.24.88.0/22",
     "asn": "56391",
     "country_code": "PL",
     "name": "VTELECOM",
@@ -23876,7 +24188,7 @@
     "asn": "49290",
     "country_code": "PL",
     "name": "WIESZOWANET-AS",
-    "org": "ALICJA MANIERA trading as MANIERA SERVICE",
+    "org": "ALICJA MANIERA trading as WieszowaNET Media",
     "domain": "wieszowa.pl"
   },
   {
@@ -23884,7 +24196,7 @@
     "asn": "49290",
     "country_code": "PL",
     "name": "WIESZOWANET-AS",
-    "org": "ALICJA MANIERA trading as MANIERA SERVICE",
+    "org": "ALICJA MANIERA trading as WieszowaNET Media",
     "domain": "wieszowa.pl"
   },
   {
@@ -23892,7 +24204,7 @@
     "asn": "49290",
     "country_code": "PL",
     "name": "WIESZOWANET-AS",
-    "org": "ALICJA MANIERA trading as MANIERA SERVICE",
+    "org": "ALICJA MANIERA trading as WieszowaNET Media",
     "domain": "wieszowa.pl"
   },
   {
@@ -23900,7 +24212,7 @@
     "asn": "49290",
     "country_code": "PL",
     "name": "WIESZOWANET-AS",
-    "org": "ALICJA MANIERA trading as MANIERA SERVICE",
+    "org": "ALICJA MANIERA trading as WieszowaNET Media",
     "domain": "wieszowa.pl"
   },
   {
@@ -23908,7 +24220,7 @@
     "asn": "49290",
     "country_code": "PL",
     "name": "WIESZOWANET-AS",
-    "org": "ALICJA MANIERA trading as MANIERA SERVICE",
+    "org": "ALICJA MANIERA trading as WieszowaNET Media",
     "domain": "wieszowa.pl"
   },
   {
@@ -24248,12 +24560,28 @@
     "domain": "stockspirits.com"
   },
   {
+    "network": "64.7.33.0/24",
+    "asn": "200118",
+    "country_code": "PL",
+    "name": "asstock",
+    "org": "Stock Polska Sp zoo",
+    "domain": "stockspirits.com"
+  },
+  {
     "network": "64.39.228.0/24",
     "asn": "213940",
     "country_code": "PL",
     "name": "RADIOAGORA-AS",
     "org": "Grupa Radiowa Agory Sp. z o.o.",
     "domain": "radioagora.pl"
+  },
+  {
+    "network": "64.204.238.0/24",
+    "asn": "218803",
+    "country_code": "PL",
+    "name": "TECHLEXITY-NET",
+    "org": "Techlexity Myroslav Koval",
+    "domain": "goundetected.io"
   },
   {
     "network": "65.87.223.0/24",
@@ -24280,7 +24608,23 @@
     "domain": "3k33.pl"
   },
   {
+    "network": "156.9.60.0/22",
+    "asn": "203662",
+    "country_code": "PL",
+    "name": "PL-3K33",
+    "org": "3K33 sp. z o.o.",
+    "domain": "3k33.pl"
+  },
+  {
     "network": "199.19.77.0/24",
+    "asn": "203662",
+    "country_code": "PL",
+    "name": "PL-3K33",
+    "org": "3K33 sp. z o.o.",
+    "domain": "3k33.pl"
+  },
+  {
+    "network": "2602:f2d5::/40",
     "asn": "203662",
     "country_code": "PL",
     "name": "PL-3K33",
@@ -25400,6 +25744,14 @@
     "domain": "softcomtech.pl"
   },
   {
+    "network": "77.65.218.0/24",
+    "asn": "204730",
+    "country_code": "PL",
+    "name": "Flashnet",
+    "org": "PHU Flashnet - Mariusz Sikora",
+    "domain": "flashnet.legnica.pl"
+  },
+  {
     "network": "77.65.220.0/23",
     "asn": "211516",
     "country_code": "PL",
@@ -26304,6 +26656,14 @@
     "domain": "ucloud.eu"
   },
   {
+    "network": "2a14:2c00::/29",
+    "asn": "31445",
+    "country_code": "PL",
+    "name": "Cloud-AS",
+    "org": "Fiberax sp. z o.o.",
+    "domain": "ucloud.eu"
+  },
+  {
     "network": "2a14:2c02::/32",
     "asn": "31445",
     "country_code": "PL",
@@ -27000,6 +27360,14 @@
     "domain": "prosta.pl"
   },
   {
+    "network": "85.202.98.0/24",
+    "asn": "44692",
+    "country_code": "PL",
+    "name": "DOMTEL-PL-AS",
+    "org": "\"Domtel Telecom\" Dariusz Dombek",
+    "domain": "prosta.pl"
+  },
+  {
     "network": "85.202.107.0/24",
     "asn": "44692",
     "country_code": "PL",
@@ -27291,57 +27659,57 @@
     "network": "78.133.144.0/22",
     "asn": "2590",
     "country_code": "PL",
-    "name": "DTP-AS",
-    "org": "Data Techno Park Sp. z o. o.",
-    "domain": "dtpark.pl"
+    "name": "SUNTAR-AS",
+    "org": "Suntar Sp. z o.o.",
+    "domain": "suntar.pl"
   },
   {
     "network": "85.219.244.0/22",
     "asn": "2590",
     "country_code": "PL",
-    "name": "DTP-AS",
-    "org": "Data Techno Park Sp. z o. o.",
-    "domain": "dtpark.pl"
+    "name": "SUNTAR-AS",
+    "org": "Suntar Sp. z o.o.",
+    "domain": "suntar.pl"
   },
   {
     "network": "85.219.247.0/24",
     "asn": "2590",
     "country_code": "PL",
-    "name": "DTP-AS",
-    "org": "Data Techno Park Sp. z o. o.",
-    "domain": "dtpark.pl"
+    "name": "SUNTAR-AS",
+    "org": "Suntar Sp. z o.o.",
+    "domain": "suntar.pl"
   },
   {
     "network": "89.174.32.0/23",
     "asn": "2590",
     "country_code": "PL",
-    "name": "DTP-AS",
-    "org": "Data Techno Park Sp. z o. o.",
-    "domain": "dtpark.pl"
+    "name": "SUNTAR-AS",
+    "org": "Suntar Sp. z o.o.",
+    "domain": "suntar.pl"
   },
   {
     "network": "89.174.33.0/24",
     "asn": "2590",
     "country_code": "PL",
-    "name": "DTP-AS",
-    "org": "Data Techno Park Sp. z o. o.",
-    "domain": "dtpark.pl"
+    "name": "SUNTAR-AS",
+    "org": "Suntar Sp. z o.o.",
+    "domain": "suntar.pl"
   },
   {
     "network": "89.174.229.0/24",
     "asn": "2590",
     "country_code": "PL",
-    "name": "DTP-AS",
-    "org": "Data Techno Park Sp. z o. o.",
-    "domain": "dtpark.pl"
+    "name": "SUNTAR-AS",
+    "org": "Suntar Sp. z o.o.",
+    "domain": "suntar.pl"
   },
   {
     "network": "185.125.124.0/22",
     "asn": "2590",
     "country_code": "PL",
-    "name": "DTP-AS",
-    "org": "Data Techno Park Sp. z o. o.",
-    "domain": "dtpark.pl"
+    "name": "SUNTAR-AS",
+    "org": "Suntar Sp. z o.o.",
+    "domain": "suntar.pl"
   },
   {
     "network": "78.133.166.0/24",
@@ -27576,14 +27944,6 @@
     "domain": "lexell.com.pl"
   },
   {
-    "network": "193.28.158.0/24",
-    "asn": "209892",
-    "country_code": "PL",
-    "name": "PL-LEXELL-AS",
-    "org": "LEXELL MICHAL SZYDLOWSKI",
-    "domain": "lexell.com.pl"
-  },
-  {
     "network": "78.155.96.0/19",
     "asn": "43435",
     "country_code": "PL",
@@ -27766,54 +28126,6 @@
     "name": "NETGP-AS",
     "org": "Lukasz Galon trading as Netgp System",
     "domain": "netgp.pl"
-  },
-  {
-    "network": "79.98.36.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "130.78.11.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "130.78.186.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "177.1.201.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "201.3.229.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "2a0d:d940:9009::/48",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
   },
   {
     "network": "79.98.144.0/21",
@@ -28001,6 +28313,22 @@
   },
   {
     "network": "83.168.72.0/21",
+    "asn": "35179",
+    "country_code": "PL",
+    "name": "KORBANK-AS",
+    "org": "Korbank S. A.",
+    "domain": "korbank.pl"
+  },
+  {
+    "network": "83.168.77.0/24",
+    "asn": "35179",
+    "country_code": "PL",
+    "name": "KORBANK-AS",
+    "org": "Korbank S. A.",
+    "domain": "korbank.pl"
+  },
+  {
+    "network": "83.168.79.0/24",
     "asn": "35179",
     "country_code": "PL",
     "name": "KORBANK-AS",
@@ -29040,6 +29368,70 @@
     "domain": "man.szczecin.pl"
   },
   {
+    "network": "80.94.16.0/23",
+    "asn": "13119",
+    "country_code": "PL",
+    "name": "ACI-COM-AS",
+    "org": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Akademickie Centrum Informatyki",
+    "domain": "man.szczecin.pl"
+  },
+  {
+    "network": "80.94.18.0/24",
+    "asn": "13119",
+    "country_code": "PL",
+    "name": "ACI-COM-AS",
+    "org": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Akademickie Centrum Informatyki",
+    "domain": "man.szczecin.pl"
+  },
+  {
+    "network": "80.94.20.0/24",
+    "asn": "13119",
+    "country_code": "PL",
+    "name": "ACI-COM-AS",
+    "org": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Akademickie Centrum Informatyki",
+    "domain": "man.szczecin.pl"
+  },
+  {
+    "network": "80.94.21.0/24",
+    "asn": "13119",
+    "country_code": "PL",
+    "name": "ACI-COM-AS",
+    "org": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Akademickie Centrum Informatyki",
+    "domain": "man.szczecin.pl"
+  },
+  {
+    "network": "80.94.25.0/24",
+    "asn": "13119",
+    "country_code": "PL",
+    "name": "ACI-COM-AS",
+    "org": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Akademickie Centrum Informatyki",
+    "domain": "man.szczecin.pl"
+  },
+  {
+    "network": "80.94.26.0/24",
+    "asn": "13119",
+    "country_code": "PL",
+    "name": "ACI-COM-AS",
+    "org": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Akademickie Centrum Informatyki",
+    "domain": "man.szczecin.pl"
+  },
+  {
+    "network": "80.94.30.0/24",
+    "asn": "13119",
+    "country_code": "PL",
+    "name": "ACI-COM-AS",
+    "org": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Akademickie Centrum Informatyki",
+    "domain": "man.szczecin.pl"
+  },
+  {
+    "network": "80.94.31.0/24",
+    "asn": "13119",
+    "country_code": "PL",
+    "name": "ACI-COM-AS",
+    "org": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Akademickie Centrum Informatyki",
+    "domain": "man.szczecin.pl"
+  },
+  {
     "network": "212.14.50.0/24",
     "asn": "13119",
     "country_code": "PL",
@@ -29816,14 +30208,6 @@
     "domain": "intera.com.pl"
   },
   {
-    "network": "91.225.157.0/24",
-    "asn": "56449",
-    "country_code": "PL",
-    "name": "INTERA-AS",
-    "org": "INTERA SP.zoo",
-    "domain": "intera.com.pl"
-  },
-  {
     "network": "91.225.158.0/24",
     "asn": "56449",
     "country_code": "PL",
@@ -29953,6 +30337,14 @@
   },
   {
     "network": "91.200.37.0/24",
+    "asn": "43769",
+    "country_code": "PL",
+    "name": "EUROLAN-AS",
+    "org": "Eurolan Sp. zoo",
+    "domain": "euro-lan.pl"
+  },
+  {
+    "network": "194.183.50.0/24",
     "asn": "43769",
     "country_code": "PL",
     "name": "EUROLAN-AS",
@@ -30520,14 +30912,6 @@
     "domain": "toneticgroup.pl"
   },
   {
-    "network": "109.95.142.0/23",
-    "asn": "44086",
-    "country_code": "PL",
-    "name": "TONETIC-AS",
-    "org": "Tonetic Group Sp z o.o.",
-    "domain": "toneticgroup.pl"
-  },
-  {
     "network": "185.122.88.0/24",
     "asn": "44086",
     "country_code": "PL",
@@ -30736,6 +31120,14 @@
     "domain": "interwan.pl"
   },
   {
+    "network": "2a0a:6340::/29",
+    "asn": "197177",
+    "country_code": "PL",
+    "name": "INTERWAN-AS",
+    "org": "InterWan Sp. z o.o.",
+    "domain": "interwan.pl"
+  },
+  {
     "network": "81.161.102.0/23",
     "asn": "208861",
     "country_code": "PL",
@@ -30864,7 +31256,79 @@
     "domain": "exatel.pl"
   },
   {
+    "network": "81.163.200.0/24",
+    "asn": "59782",
+    "country_code": "PL",
+    "name": "InterBlock-ASN",
+    "org": "ITB Sp. z o.o.",
+    "domain": "exatel.pl"
+  },
+  {
+    "network": "81.163.201.0/24",
+    "asn": "59782",
+    "country_code": "PL",
+    "name": "InterBlock-ASN",
+    "org": "ITB Sp. z o.o.",
+    "domain": "exatel.pl"
+  },
+  {
+    "network": "81.163.202.0/24",
+    "asn": "59782",
+    "country_code": "PL",
+    "name": "InterBlock-ASN",
+    "org": "ITB Sp. z o.o.",
+    "domain": "exatel.pl"
+  },
+  {
+    "network": "81.163.203.0/24",
+    "asn": "59782",
+    "country_code": "PL",
+    "name": "InterBlock-ASN",
+    "org": "ITB Sp. z o.o.",
+    "domain": "exatel.pl"
+  },
+  {
+    "network": "81.163.204.0/24",
+    "asn": "59782",
+    "country_code": "PL",
+    "name": "InterBlock-ASN",
+    "org": "ITB Sp. z o.o.",
+    "domain": "exatel.pl"
+  },
+  {
+    "network": "81.163.205.0/24",
+    "asn": "59782",
+    "country_code": "PL",
+    "name": "InterBlock-ASN",
+    "org": "ITB Sp. z o.o.",
+    "domain": "exatel.pl"
+  },
+  {
+    "network": "81.163.206.0/24",
+    "asn": "59782",
+    "country_code": "PL",
+    "name": "InterBlock-ASN",
+    "org": "ITB Sp. z o.o.",
+    "domain": "exatel.pl"
+  },
+  {
     "network": "81.168.87.0/24",
+    "asn": "219121",
+    "country_code": "PL",
+    "name": "CLOUFINITY",
+    "org": "CLOUFINITY Sp. z o.o.",
+    "domain": "cloufinity.com"
+  },
+  {
+    "network": "191.44.85.0/24",
+    "asn": "219121",
+    "country_code": "PL",
+    "name": "CLOUFINITY",
+    "org": "CLOUFINITY Sp. z o.o.",
+    "domain": "cloufinity.com"
+  },
+  {
+    "network": "2a14:1ec7:8000::/40",
     "asn": "219121",
     "country_code": "PL",
     "name": "CLOUFINITY",
@@ -31225,14 +31689,6 @@
   },
   {
     "network": "195.136.78.0/24",
-    "asn": "199260",
-    "country_code": "PL",
-    "name": "AS-FOXLAN-PL",
-    "org": "Krzysztof Lis trading as FOX-IT",
-    "domain": "foxlan.pl"
-  },
-  {
-    "network": "195.136.158.0/23",
     "asn": "199260",
     "country_code": "PL",
     "name": "AS-FOXLAN-PL",
@@ -31745,6 +32201,14 @@
   },
   {
     "network": "193.218.148.0/22",
+    "asn": "38923",
+    "country_code": "PL",
+    "name": "OSIEDLOWA",
+    "org": "Pawel Kowalski BGCOM",
+    "domain": "bgcom.pl"
+  },
+  {
+    "network": "193.218.149.0/24",
     "asn": "38923",
     "country_code": "PL",
     "name": "OSIEDLOWA",
@@ -33640,6 +34104,14 @@
     "domain": "anwim.pl"
   },
   {
+    "network": "84.205.168.0/24",
+    "asn": "206679",
+    "country_code": "PL",
+    "name": "ELCUK-AS",
+    "org": "ELCUK Sp. z o.o.",
+    "domain": "itservice4u.pl"
+  },
+  {
     "network": "84.205.169.0/24",
     "asn": "206679",
     "country_code": "PL",
@@ -33782,46 +34254,6 @@
     "name": "ASPLJ",
     "org": "PLJ TELECOM sp. z o.o.",
     "domain": "plj.pl"
-  },
-  {
-    "network": "84.234.114.0/23",
-    "asn": "205679",
-    "country_code": "PL",
-    "name": "ACNG",
-    "org": "AC Systemy Sp. z o.o.",
-    "domain": "acsystemy.pl"
-  },
-  {
-    "network": "88.218.252.0/22",
-    "asn": "205679",
-    "country_code": "PL",
-    "name": "ACNG",
-    "org": "AC Systemy Sp. z o.o.",
-    "domain": "acsystemy.pl"
-  },
-  {
-    "network": "92.118.164.0/22",
-    "asn": "205679",
-    "country_code": "PL",
-    "name": "ACNG",
-    "org": "AC Systemy Sp. z o.o.",
-    "domain": "acsystemy.pl"
-  },
-  {
-    "network": "185.210.36.0/22",
-    "asn": "205679",
-    "country_code": "PL",
-    "name": "ACNG",
-    "org": "AC Systemy Sp. z o.o.",
-    "domain": "acsystemy.pl"
-  },
-  {
-    "network": "2a0b:51c0::/29",
-    "asn": "205679",
-    "country_code": "PL",
-    "name": "ACNG",
-    "org": "AC Systemy Sp. z o.o.",
-    "domain": "acsystemy.pl"
   },
   {
     "network": "84.234.118.0/23",
@@ -34022,22 +34454,6 @@
     "name": "Art-Media-Skawina",
     "org": "Stowarzyszenie Artystyczno Medialne Art Media",
     "domain": "osiedlowa.net"
-  },
-  {
-    "network": "85.118.167.0/24",
-    "asn": "219455",
-    "country_code": "PL",
-    "name": "ALEKSWILC",
-    "org": "Aleksander Wilczynski trading as ALEKSWILC",
-    "domain": "alekswilc.dev"
-  },
-  {
-    "network": "2a06:9801:79d::/48",
-    "asn": "219455",
-    "country_code": "PL",
-    "name": "ALEKSWILC",
-    "org": "Aleksander Wilczynski trading as ALEKSWILC",
-    "domain": "alekswilc.dev"
   },
   {
     "network": "85.155.248.0/22",
@@ -34760,14 +35176,6 @@
     "domain": "tw.waw.pl"
   },
   {
-    "network": "85.219.216.0/24",
-    "asn": "205738",
-    "country_code": "PL",
-    "name": "Marmite",
-    "org": "Marmite Sp. z o.o.",
-    "domain": "t-mobile.pl"
-  },
-  {
     "network": "85.232.225.0/24",
     "asn": "197431",
     "country_code": "PL",
@@ -34929,6 +35337,22 @@
   },
   {
     "network": "2a06:9801:79c::/48",
+    "asn": "219481",
+    "country_code": "PL",
+    "name": "Sinlege",
+    "org": "Krzysztof Manczak",
+    "domain": "sinlege.com"
+  },
+  {
+    "network": "2a06:9801:1562::/48",
+    "asn": "219481",
+    "country_code": "PL",
+    "name": "Sinlege",
+    "org": "Krzysztof Manczak",
+    "domain": "sinlege.com"
+  },
+  {
+    "network": "2a06:9801:1e00::/40",
     "asn": "219481",
     "country_code": "PL",
     "name": "Sinlege",
@@ -36416,7 +36840,87 @@
     "domain": "rewolucja-net.pl"
   },
   {
+    "network": "91.237.72.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "91.237.73.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
     "network": "178.217.112.0/21",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "178.217.112.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "178.217.113.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "178.217.114.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "178.217.115.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "178.217.116.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "178.217.117.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "178.217.118.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "178.217.119.0/24",
     "asn": "51101",
     "country_code": "PL",
     "name": "Rewolucja-net",
@@ -36432,7 +36936,55 @@
     "domain": "rewolucja-net.pl"
   },
   {
+    "network": "185.230.224.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "185.230.225.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "185.230.226.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "185.230.227.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
     "network": "195.43.66.0/23",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "195.43.66.0/24",
+    "asn": "51101",
+    "country_code": "PL",
+    "name": "Rewolucja-net",
+    "org": "Marceli Kaczo trading as Rewolucja-NET",
+    "domain": "rewolucja-net.pl"
+  },
+  {
+    "network": "195.43.67.0/24",
     "asn": "51101",
     "country_code": "PL",
     "name": "Rewolucja-net",
@@ -36590,6 +37142,38 @@
     "name": "KSISC-AS",
     "org": "Multimedia Polska Sp. z o.o.",
     "domain": "multimedia.pl"
+  },
+  {
+    "network": "88.218.252.0/22",
+    "asn": "205679",
+    "country_code": "PL",
+    "name": "ACNG",
+    "org": "AC Systemy Sp. z o.o.",
+    "domain": "acsystemy.pl"
+  },
+  {
+    "network": "92.118.164.0/22",
+    "asn": "205679",
+    "country_code": "PL",
+    "name": "ACNG",
+    "org": "AC Systemy Sp. z o.o.",
+    "domain": "acsystemy.pl"
+  },
+  {
+    "network": "185.210.36.0/22",
+    "asn": "205679",
+    "country_code": "PL",
+    "name": "ACNG",
+    "org": "AC Systemy Sp. z o.o.",
+    "domain": "acsystemy.pl"
+  },
+  {
+    "network": "2a0b:51c0::/29",
+    "asn": "205679",
+    "country_code": "PL",
+    "name": "ACNG",
+    "org": "AC Systemy Sp. z o.o.",
+    "domain": "acsystemy.pl"
   },
   {
     "network": "88.220.55.0/24",
@@ -38288,14 +38872,6 @@
     "domain": "ippnet.pl"
   },
   {
-    "network": "91.90.95.0/24",
-    "asn": "218917",
-    "country_code": "PL",
-    "name": "IPPNET",
-    "org": "Krzysztof Taraszka trading as ipp.net",
-    "domain": "ippnet.pl"
-  },
-  {
     "network": "2a0c:ec01:1000::/36",
     "asn": "218917",
     "country_code": "PL",
@@ -38305,6 +38881,14 @@
   },
   {
     "network": "2a0c:ec03:1000::/36",
+    "asn": "218917",
+    "country_code": "PL",
+    "name": "IPPNET",
+    "org": "Krzysztof Taraszka trading as ipp.net",
+    "domain": "ippnet.pl"
+  },
+  {
+    "network": "2a0c:ec03:2000::/48",
     "asn": "218917",
     "country_code": "PL",
     "name": "IPPNET",
@@ -38345,6 +38929,14 @@
   },
   {
     "network": "91.90.160.0/24",
+    "asn": "33901",
+    "country_code": "PL",
+    "name": "CONNECTA-AS",
+    "org": "Connecta sp. z o.o.",
+    "domain": "connecta.pl"
+  },
+  {
+    "network": "91.90.172.0/22",
     "asn": "33901",
     "country_code": "PL",
     "name": "CONNECTA-AS",
@@ -38494,6 +39086,14 @@
     "name": "DEDISERV",
     "org": "Lukman Multimedia Sp. z o.o",
     "domain": "lukman.pl"
+  },
+  {
+    "network": "91.106.30.0/24",
+    "asn": "210256",
+    "country_code": "PL",
+    "name": "ETMEDIA",
+    "org": "ET-MEDIA Krzysztof Palka, Ewa Palka S.C.",
+    "domain": "elbi.pl"
   },
   {
     "network": "91.123.178.0/24",
@@ -38936,14 +39536,6 @@
     "domain": "gausus.net"
   },
   {
-    "network": "2001:678:664::/48",
-    "asn": "42576",
-    "country_code": "PL",
-    "name": "INTRSC-AS",
-    "org": "Maciej Jan Broniarz trading as CERT NGO",
-    "domain": "gausus.net"
-  },
-  {
     "network": "91.192.228.0/22",
     "asn": "48157",
     "country_code": "PL",
@@ -39016,7 +39608,23 @@
     "domain": "4web.pl"
   },
   {
+    "network": "95.175.1.0/24",
+    "asn": "33951",
+    "country_code": "PL",
+    "name": "FORWEB",
+    "org": "\"FORWEB\" S.C. Monika Bodetko, Tomasz Pawlowski",
+    "domain": "4web.pl"
+  },
+  {
     "network": "95.175.5.0/24",
+    "asn": "33951",
+    "country_code": "PL",
+    "name": "FORWEB",
+    "org": "\"FORWEB\" S.C. Monika Bodetko, Tomasz Pawlowski",
+    "domain": "4web.pl"
+  },
+  {
+    "network": "95.175.10.0/24",
     "asn": "33951",
     "country_code": "PL",
     "name": "FORWEB",
@@ -40312,6 +40920,14 @@
     "domain": "kprm.gov.pl"
   },
   {
+    "network": "178.212.54.0/24",
+    "asn": "43867",
+    "country_code": "PL",
+    "name": "KPRM-AS",
+    "org": "Kancelaria Prezesa Rady Ministrow",
+    "domain": "kprm.gov.pl"
+  },
+  {
     "network": "91.198.209.0/24",
     "asn": "49743",
     "country_code": "PL",
@@ -40433,6 +41049,14 @@
   },
   {
     "network": "178.250.40.0/21",
+    "asn": "41079",
+    "country_code": "PL",
+    "name": "CF-GDA",
+    "org": "Cyber_Folks S.A.",
+    "domain": "cyberfolks.pl"
+  },
+  {
+    "network": "185.5.96.0/22",
     "asn": "41079",
     "country_code": "PL",
     "name": "CF-GDA",
@@ -40704,22 +41328,6 @@
     "domain": "uksw.edu.pl"
   },
   {
-    "network": "91.199.203.0/25",
-    "asn": "44959",
-    "country_code": "PL",
-    "name": "UKSW-AS",
-    "org": "Uniwersytet Kardynala Stefana Wyszynskiego",
-    "domain": "uksw.edu.pl"
-  },
-  {
-    "network": "91.199.203.128/25",
-    "asn": "44959",
-    "country_code": "PL",
-    "name": "UKSW-AS",
-    "org": "Uniwersytet Kardynala Stefana Wyszynskiego",
-    "domain": "uksw.edu.pl"
-  },
-  {
     "network": "195.42.152.0/23",
     "asn": "44959",
     "country_code": "PL",
@@ -40808,7 +41416,23 @@
     "domain": "ckpartnet.pl"
   },
   {
-    "network": "185.21.36.0/22",
+    "network": "185.21.36.0/24",
+    "asn": "199250",
+    "country_code": "PL",
+    "name": "CKPARTNET",
+    "org": "CENTRUM KOMPUTEROWE \"PARTNET\" MIROSLAW WOLSZLEGIER",
+    "domain": "ckpartnet.pl"
+  },
+  {
+    "network": "185.21.37.0/24",
+    "asn": "199250",
+    "country_code": "PL",
+    "name": "CKPARTNET",
+    "org": "CENTRUM KOMPUTEROWE \"PARTNET\" MIROSLAW WOLSZLEGIER",
+    "domain": "ckpartnet.pl"
+  },
+  {
+    "network": "185.21.38.0/24",
     "asn": "199250",
     "country_code": "PL",
     "name": "CKPARTNET",
@@ -40817,6 +41441,14 @@
   },
   {
     "network": "185.21.39.0/24",
+    "asn": "199250",
+    "country_code": "PL",
+    "name": "CKPARTNET",
+    "org": "CENTRUM KOMPUTEROWE \"PARTNET\" MIROSLAW WOLSZLEGIER",
+    "domain": "ckpartnet.pl"
+  },
+  {
+    "network": "185.212.66.0/24",
     "asn": "199250",
     "country_code": "PL",
     "name": "CKPARTNET",
@@ -40985,6 +41617,30 @@
   },
   {
     "network": "195.88.144.0/23",
+    "asn": "198317",
+    "country_code": "PL",
+    "name": "KOMPEX",
+    "org": "Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX Gabriel Sulka",
+    "domain": "kompex.pl"
+  },
+  {
+    "network": "2a05:ffc0::/32",
+    "asn": "198317",
+    "country_code": "PL",
+    "name": "KOMPEX",
+    "org": "Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX Gabriel Sulka",
+    "domain": "kompex.pl"
+  },
+  {
+    "network": "2a05:ffc1::/32",
+    "asn": "198317",
+    "country_code": "PL",
+    "name": "KOMPEX",
+    "org": "Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX Gabriel Sulka",
+    "domain": "kompex.pl"
+  },
+  {
+    "network": "2a05:ffc2::/32",
     "asn": "198317",
     "country_code": "PL",
     "name": "KOMPEX",
@@ -41744,22 +42400,6 @@
     "domain": "multifox.pl"
   },
   {
-    "network": "91.207.126.0/24",
-    "asn": "48119",
-    "country_code": "PL",
-    "name": "MULTIFOX",
-    "org": "Firma Handlowo - Uslugowa MultiFOX",
-    "domain": "multifox.pl"
-  },
-  {
-    "network": "91.207.127.0/24",
-    "asn": "48119",
-    "country_code": "PL",
-    "name": "MULTIFOX",
-    "org": "Firma Handlowo - Uslugowa MultiFOX",
-    "domain": "multifox.pl"
-  },
-  {
     "network": "91.207.148.0/23",
     "asn": "48311",
     "country_code": "PL",
@@ -42134,6 +42774,22 @@
     "name": "AP-AS",
     "org": "Uniwersytet Przyrodniczo Humanistyczny w Siedlcach",
     "domain": "uph.edu.pl"
+  },
+  {
+    "network": "91.209.22.0/24",
+    "asn": "218530",
+    "country_code": "PL",
+    "name": "MASSIVEMAKER",
+    "org": "Massive Maker sp. z o.o.",
+    "domain": "massivemaker.com"
+  },
+  {
+    "network": "2a06:c740::/29",
+    "asn": "218530",
+    "country_code": "PL",
+    "name": "MASSIVEMAKER",
+    "org": "Massive Maker sp. z o.o.",
+    "domain": "massivemaker.com"
   },
   {
     "network": "91.209.27.0/24",
@@ -43469,7 +44125,7 @@
     "country_code": "PL",
     "name": "ENEA-POLANIEC-AS",
     "org": "ENEA ELEKTROWNIA POLANIEC Sp. z o.o.",
-    "domain": "exatel.pl"
+    "domain": "enea.pl"
   },
   {
     "network": "91.216.204.0/24",
@@ -43912,14 +44568,6 @@
     "domain": "optikabel.pl"
   },
   {
-    "network": "2a05:2c7:c000::/34",
-    "asn": "201966",
-    "country_code": "PL",
-    "name": "OPTIKABELPL",
-    "org": "OptiKabel Telecom Sp. z o.o.",
-    "domain": "optikabel.pl"
-  },
-  {
     "network": "2a14:8900::/32",
     "asn": "201966",
     "country_code": "PL",
@@ -44028,7 +44676,7 @@
     "asn": "197447",
     "country_code": "PL",
     "name": "ITTMEDIA-AS",
-    "org": "ITTMEDIA telecom Marcin Lubelski",
+    "org": "ITTMEDIA TELECOM sp. z o.o.",
     "domain": "ittmedia.pl"
   },
   {
@@ -44036,7 +44684,7 @@
     "asn": "197447",
     "country_code": "PL",
     "name": "ITTMEDIA-AS",
-    "org": "ITTMEDIA telecom Marcin Lubelski",
+    "org": "ITTMEDIA TELECOM sp. z o.o.",
     "domain": "ittmedia.pl"
   },
   {
@@ -44345,14 +44993,6 @@
   },
   {
     "network": "91.222.192.0/22",
-    "asn": "52153",
-    "country_code": "PL",
-    "name": "BGCOM",
-    "org": "Pawel Kowalski BGCOM",
-    "domain": "bgcom.pl"
-  },
-  {
-    "network": "193.218.149.0/24",
     "asn": "52153",
     "country_code": "PL",
     "name": "BGCOM",
@@ -45992,6 +46632,14 @@
     "domain": "connected.pl"
   },
   {
+    "network": "2a00:1578::/29",
+    "asn": "49102",
+    "country_code": "PL",
+    "name": "CONNECTED",
+    "org": "Connected sp. z o. o.",
+    "domain": "connected.pl"
+  },
+  {
     "network": "91.230.148.0/24",
     "asn": "57556",
     "country_code": "PL",
@@ -46248,6 +46896,30 @@
     "domain": "okitech.pl"
   },
   {
+    "network": "91.231.100.0/24",
+    "asn": "15624",
+    "country_code": "PL",
+    "name": "OKITECH-AS",
+    "org": "OKITECH Krzysztof Kusnierczyk",
+    "domain": "okitech.pl"
+  },
+  {
+    "network": "91.231.101.0/24",
+    "asn": "15624",
+    "country_code": "PL",
+    "name": "OKITECH-AS",
+    "org": "OKITECH Krzysztof Kusnierczyk",
+    "domain": "okitech.pl"
+  },
+  {
+    "network": "91.231.103.0/24",
+    "asn": "15624",
+    "country_code": "PL",
+    "name": "OKITECH-AS",
+    "org": "OKITECH Krzysztof Kusnierczyk",
+    "domain": "okitech.pl"
+  },
+  {
     "network": "91.231.110.0/23",
     "asn": "198067",
     "country_code": "PL",
@@ -46361,14 +47033,6 @@
   },
   {
     "network": "91.237.71.0/24",
-    "asn": "198611",
-    "country_code": "PL",
-    "name": "M-NETWORKS-AS",
-    "org": "M-Networks Sp. z o.o.",
-    "domain": "m-networks.pl"
-  },
-  {
-    "network": "91.240.131.0/24",
     "asn": "198611",
     "country_code": "PL",
     "name": "M-NETWORKS-AS",
@@ -46598,14 +47262,6 @@
     "name": "CITYLAN-AS",
     "org": "CITYLAN Sp. z o.o.",
     "domain": "inea.com.pl"
-  },
-  {
-    "network": "91.232.112.0/24",
-    "asn": "49149",
-    "country_code": "PL",
-    "name": "EDFPL-NET",
-    "org": "PGE Energia Ciepla S.A.",
-    "domain": "gkpge.pl"
   },
   {
     "network": "91.232.140.0/22",
@@ -47412,7 +48068,7 @@
     "asn": "198595",
     "country_code": "PL",
     "name": "FOCUS-AS",
-    "org": "Focus Telecom Polska S.A.",
+    "org": "WELYO S.A.",
     "domain": "focustelecom.pl"
   },
   {
@@ -47420,7 +48076,7 @@
     "asn": "198595",
     "country_code": "PL",
     "name": "FOCUS-AS",
-    "org": "Focus Telecom Polska S.A.",
+    "org": "WELYO S.A.",
     "domain": "focustelecom.pl"
   },
   {
@@ -47428,7 +48084,7 @@
     "asn": "198595",
     "country_code": "PL",
     "name": "FOCUS-AS",
-    "org": "Focus Telecom Polska S.A.",
+    "org": "WELYO S.A.",
     "domain": "focustelecom.pl"
   },
   {
@@ -47436,7 +48092,7 @@
     "asn": "198595",
     "country_code": "PL",
     "name": "FOCUS-AS",
-    "org": "Focus Telecom Polska S.A.",
+    "org": "WELYO S.A.",
     "domain": "focustelecom.pl"
   },
   {
@@ -47444,7 +48100,7 @@
     "asn": "198595",
     "country_code": "PL",
     "name": "FOCUS-AS",
-    "org": "Focus Telecom Polska S.A.",
+    "org": "WELYO S.A.",
     "domain": "focustelecom.pl"
   },
   {
@@ -47452,7 +48108,7 @@
     "asn": "198595",
     "country_code": "PL",
     "name": "FOCUS-AS",
-    "org": "Focus Telecom Polska S.A.",
+    "org": "WELYO S.A.",
     "domain": "focustelecom.pl"
   },
   {
@@ -47485,7 +48141,7 @@
     "country_code": "PL",
     "name": "MYNETPL-AS",
     "org": "MyNET Sp. z o.o.",
-    "domain": "mynet.com.pl"
+    "domain": "mynet.pl"
   },
   {
     "network": "91.236.86.0/23",
@@ -47493,7 +48149,7 @@
     "country_code": "PL",
     "name": "MYNETPL-AS",
     "org": "MyNET Sp. z o.o.",
-    "domain": "mynet.com.pl"
+    "domain": "mynet.pl"
   },
   {
     "network": "185.28.248.0/22",
@@ -47501,7 +48157,7 @@
     "country_code": "PL",
     "name": "MYNETPL-AS",
     "org": "MyNET Sp. z o.o.",
-    "domain": "mynet.com.pl"
+    "domain": "mynet.pl"
   },
   {
     "network": "185.172.87.0/24",
@@ -47509,7 +48165,7 @@
     "country_code": "PL",
     "name": "MYNETPL-AS",
     "org": "MyNET Sp. z o.o.",
-    "domain": "mynet.com.pl"
+    "domain": "mynet.pl"
   },
   {
     "network": "91.236.125.0/24",
@@ -48680,14 +49336,6 @@
     "domain": "summerhosting.pl"
   },
   {
-    "network": "2a14:1ec7:1100::/40",
-    "asn": "215437",
-    "country_code": "PL",
-    "name": "Summerhosting",
-    "org": "SummerHosting sp. z o. o.",
-    "domain": "summerhosting.pl"
-  },
-  {
     "network": "93.105.75.0/24",
     "asn": "210019",
     "country_code": "PL",
@@ -49496,6 +50144,102 @@
     "domain": "lukman.pl"
   },
   {
+    "network": "94.240.8.0/22",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "193.84.182.0/24",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "193.192.62.0/23",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "194.169.228.0/24",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "213.108.152.0/24",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "213.108.153.0/24",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "213.108.154.0/24",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "213.108.155.0/24",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "213.108.156.0/24",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "213.108.157.0/24",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "213.108.158.0/24",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
+    "network": "213.108.159.0/24",
+    "asn": "49715",
+    "country_code": "PL",
+    "name": "PL-WLANTECH-AS",
+    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
+    "domain": "wlantech.pl"
+  },
+  {
     "network": "94.240.12.0/24",
     "asn": "203985",
     "country_code": "PL",
@@ -49640,6 +50384,14 @@
     "domain": "artcom.pl"
   },
   {
+    "network": "95.130.4.0/23",
+    "asn": "201514",
+    "country_code": "PL",
+    "name": "KASPOL-AS",
+    "org": "KASPOL.NET Sp. z o.o.",
+    "domain": "kaspol.pl"
+  },
+  {
     "network": "95.130.4.0/24",
     "asn": "201514",
     "country_code": "PL",
@@ -49649,6 +50401,14 @@
   },
   {
     "network": "95.130.5.0/24",
+    "asn": "201514",
+    "country_code": "PL",
+    "name": "KASPOL-AS",
+    "org": "KASPOL.NET Sp. z o.o.",
+    "domain": "kaspol.pl"
+  },
+  {
+    "network": "95.130.6.0/23",
     "asn": "201514",
     "country_code": "PL",
     "name": "KASPOL-AS",
@@ -49814,22 +50574,6 @@
     "name": "TREFL",
     "org": "TREFL SA",
     "domain": "trefl.com"
-  },
-  {
-    "network": "95.164.80.0/23",
-    "asn": "218803",
-    "country_code": "PL",
-    "name": "GOUNDETECTED-AS",
-    "org": "Techlexity Myroslav Koval",
-    "domain": "goundetected.io"
-  },
-  {
-    "network": "95.164.82.0/23",
-    "asn": "218803",
-    "country_code": "PL",
-    "name": "GOUNDETECTED-AS",
-    "org": "Techlexity Myroslav Koval",
-    "domain": "goundetected.io"
   },
   {
     "network": "95.178.120.0/24",
@@ -51232,14 +51976,6 @@
     "domain": "mofnet.gov.pl"
   },
   {
-    "network": "145.237.222.0/24",
-    "asn": "34339",
-    "country_code": "PL",
-    "name": "POLFIN-AS",
-    "org": "Centrum Przetwarzania Danych Ministerstwa Finansow",
-    "domain": "mofnet.gov.pl"
-  },
-  {
     "network": "145.237.224.0/19",
     "asn": "34339",
     "country_code": "PL",
@@ -52408,6 +53144,14 @@
     "domain": "zamosc.pl"
   },
   {
+    "network": "162.27.160.0/24",
+    "asn": "39174",
+    "country_code": "PL",
+    "name": "RRD-AS",
+    "org": "Walstead Krakow Sp. z o.o.",
+    "domain": "walstead-ce.com"
+  },
+  {
     "network": "162.27.161.0/24",
     "asn": "39174",
     "country_code": "PL",
@@ -52761,6 +53505,14 @@
   },
   {
     "network": "185.183.226.0/23",
+    "asn": "206454",
+    "country_code": "PL",
+    "name": "JaworNet-AS",
+    "org": "Jawornet Sp. z o.o.",
+    "domain": "jawornet.com"
+  },
+  {
+    "network": "2a06:2b00::/29",
     "asn": "206454",
     "country_code": "PL",
     "name": "JaworNet-AS",
@@ -53750,46 +54502,6 @@
     "name": "yesNET-AS",
     "org": "Grzegorz Jessa trading as \"Jessa\" Przedsiebiorstwo",
     "domain": "jessa.pl"
-  },
-  {
-    "network": "185.3.112.0/24",
-    "asn": "59686",
-    "country_code": "PL",
-    "name": "GEMINI-PL",
-    "org": "Gemini Internet Sp. z o.o.",
-    "domain": "gemini.net.pl"
-  },
-  {
-    "network": "185.3.113.0/24",
-    "asn": "59686",
-    "country_code": "PL",
-    "name": "GEMINI-PL",
-    "org": "Gemini Internet Sp. z o.o.",
-    "domain": "gemini.net.pl"
-  },
-  {
-    "network": "185.3.114.0/24",
-    "asn": "59686",
-    "country_code": "PL",
-    "name": "GEMINI-PL",
-    "org": "Gemini Internet Sp. z o.o.",
-    "domain": "gemini.net.pl"
-  },
-  {
-    "network": "185.3.115.0/24",
-    "asn": "59686",
-    "country_code": "PL",
-    "name": "GEMINI-PL",
-    "org": "Gemini Internet Sp. z o.o.",
-    "domain": "gemini.net.pl"
-  },
-  {
-    "network": "193.25.0.0/21",
-    "asn": "59686",
-    "country_code": "PL",
-    "name": "GEMINI-PL",
-    "org": "Gemini Internet Sp. z o.o.",
-    "domain": "gemini.net.pl"
   },
   {
     "network": "185.6.0.0/24",
@@ -55176,14 +55888,6 @@
     "domain": "oxynetonline.pl"
   },
   {
-    "network": "2a06:1e00:27::/48",
-    "asn": "210075",
-    "country_code": "PL",
-    "name": "PL-GUMIS-AS",
-    "org": "Michal Gluminski trading as Firma Handlowa Gumis",
-    "domain": "oxynetonline.pl"
-  },
-  {
     "network": "185.69.192.0/22",
     "asn": "16138",
     "country_code": "PL",
@@ -55297,14 +56001,6 @@
   },
   {
     "network": "188.64.80.0/23",
-    "asn": "57811",
-    "country_code": "PL",
-    "name": "RedgeTechnologies",
-    "org": "Redge Technologies sp. z o.o.",
-    "domain": "redge.com"
-  },
-  {
-    "network": "188.64.82.0/24",
     "asn": "57811",
     "country_code": "PL",
     "name": "RedgeTechnologies",
@@ -55448,6 +56144,14 @@
     "domain": "redge.com"
   },
   {
+    "network": "185.77.77.0/24",
+    "asn": "201029",
+    "country_code": "PL",
+    "name": "RedgeGuardian-AntiDDOS",
+    "org": "Redge Technologies sp. z o.o.",
+    "domain": "redge.com"
+  },
+  {
     "network": "2a00:8dc0:ff00::/48",
     "asn": "201029",
     "country_code": "PL",
@@ -55473,6 +56177,14 @@
   },
   {
     "network": "2a00:8dc0:ff05::/48",
+    "asn": "201029",
+    "country_code": "PL",
+    "name": "RedgeGuardian-AntiDDOS",
+    "org": "Redge Technologies sp. z o.o.",
+    "domain": "redge.com"
+  },
+  {
+    "network": "2a00:8dc0:ff06::/48",
     "asn": "201029",
     "country_code": "PL",
     "name": "RedgeGuardian-AntiDDOS",
@@ -56080,14 +56792,6 @@
     "domain": "cyfrotel.pl"
   },
   {
-    "network": "2a06:dec0::/32",
-    "asn": "203937",
-    "country_code": "PL",
-    "name": "Cyfrotel",
-    "org": "MAREK BZDZIUCH trading as CYFROTEL Sp. J.",
-    "domain": "cyfrotel.pl"
-  },
-  {
     "network": "185.119.148.0/22",
     "asn": "43253",
     "country_code": "PL",
@@ -56169,6 +56873,14 @@
   },
   {
     "network": "185.125.132.0/22",
+    "asn": "203742",
+    "country_code": "PL",
+    "name": "cshrub",
+    "org": "Hrubieszowska Telewizja Kablowa Sp. z o.o.",
+    "domain": "htk.net.pl"
+  },
+  {
+    "network": "185.125.134.0/24",
     "asn": "203742",
     "country_code": "PL",
     "name": "cshrub",
@@ -56360,6 +57072,14 @@
     "domain": "macrosat.pl"
   },
   {
+    "network": "2a11:3380::/29",
+    "asn": "202126",
+    "country_code": "PL",
+    "name": "ASN-Macrosat",
+    "org": "MACROSAT Sp. z o.o.",
+    "domain": "macrosat.pl"
+  },
+  {
     "network": "185.139.124.0/22",
     "asn": "203302",
     "country_code": "PL",
@@ -56460,7 +57180,7 @@
     "asn": "203977",
     "country_code": "PL",
     "name": "DARNET",
-    "org": "Przedsiebiorstwo Uslugowo-Handlowe \"DARNET\" Czerkies Dariusz",
+    "org": "PUH DARNET SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
     "domain": "darnet.net.pl"
   },
   {
@@ -57920,14 +58640,6 @@
     "domain": "fidro.pl"
   },
   {
-    "network": "185.254.7.0/24",
-    "asn": "210256",
-    "country_code": "PL",
-    "name": "ETMEDIA",
-    "org": "ET-MEDIA Krzysztof Palka, Ewa Palka S.C.",
-    "domain": "elbi.pl"
-  },
-  {
     "network": "185.254.64.0/24",
     "asn": "202572",
     "country_code": "PL",
@@ -58142,6 +58854,30 @@
     "name": "VLINE-AS",
     "org": "Toya sp.z.o.o",
     "domain": "toya.net.pl"
+  },
+  {
+    "network": "191.44.18.0/24",
+    "asn": "218722",
+    "country_code": "PL",
+    "name": "SLOUDHOST",
+    "org": "Dawid Slowik",
+    "domain": "sloudhost.ovh"
+  },
+  {
+    "network": "2a06:9801:1516::/48",
+    "asn": "218722",
+    "country_code": "PL",
+    "name": "SLOUDHOST",
+    "org": "Dawid Slowik",
+    "domain": "sloudhost.ovh"
+  },
+  {
+    "network": "191.44.64.0/24",
+    "asn": "198894",
+    "country_code": "PL",
+    "name": "GIGAGROUP",
+    "org": "GIGAGROUP Sp. z o.o.",
+    "domain": "dtk.digital"
   },
   {
     "network": "192.68.51.0/24",
@@ -58637,7 +59373,7 @@
     "country_code": "PL",
     "name": "AS_MI_RIPE",
     "org": "MINISTERSTWO INFRASTRUKTURY",
-    "domain": "mir.gov.pl"
+    "domain": "mi.gov.pl"
   },
   {
     "network": "193.24.14.0/24",
@@ -58662,6 +59398,14 @@
     "name": "NETSERVIS-ISP",
     "org": "NETSERVIS Michal Kur",
     "domain": "netservis.com.pl"
+  },
+  {
+    "network": "193.25.0.0/21",
+    "asn": "59686",
+    "country_code": "PL",
+    "name": "GEMINI-PL",
+    "org": "Gemini Internet Sp. z o.o.",
+    "domain": "gemini.net.pl"
   },
   {
     "network": "193.25.160.0/23",
@@ -59208,30 +59952,6 @@
     "domain": "nask.pl"
   },
   {
-    "network": "195.164.160.0/24",
-    "asn": "204679",
-    "country_code": "PL",
-    "name": "OSE",
-    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-    "domain": "nask.pl"
-  },
-  {
-    "network": "195.164.169.0/24",
-    "asn": "204679",
-    "country_code": "PL",
-    "name": "OSE",
-    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-    "domain": "nask.pl"
-  },
-  {
-    "network": "195.164.175.0/24",
-    "asn": "204679",
-    "country_code": "PL",
-    "name": "OSE",
-    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-    "domain": "nask.pl"
-  },
-  {
     "network": "2001:a17::/32",
     "asn": "204679",
     "country_code": "PL",
@@ -59392,78 +60112,6 @@
     "domain": "snt.pl"
   },
   {
-    "network": "193.84.182.0/24",
-    "asn": "49715",
-    "country_code": "PL",
-    "name": "PL-WLANTECH-AS",
-    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
-    "domain": "wlantech.pl"
-  },
-  {
-    "network": "193.192.62.0/23",
-    "asn": "49715",
-    "country_code": "PL",
-    "name": "PL-WLANTECH-AS",
-    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
-    "domain": "wlantech.pl"
-  },
-  {
-    "network": "194.169.228.0/24",
-    "asn": "49715",
-    "country_code": "PL",
-    "name": "PL-WLANTECH-AS",
-    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
-    "domain": "wlantech.pl"
-  },
-  {
-    "network": "213.108.152.0/24",
-    "asn": "49715",
-    "country_code": "PL",
-    "name": "PL-WLANTECH-AS",
-    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
-    "domain": "wlantech.pl"
-  },
-  {
-    "network": "213.108.153.0/24",
-    "asn": "49715",
-    "country_code": "PL",
-    "name": "PL-WLANTECH-AS",
-    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
-    "domain": "wlantech.pl"
-  },
-  {
-    "network": "213.108.154.0/24",
-    "asn": "49715",
-    "country_code": "PL",
-    "name": "PL-WLANTECH-AS",
-    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
-    "domain": "wlantech.pl"
-  },
-  {
-    "network": "213.108.155.0/24",
-    "asn": "49715",
-    "country_code": "PL",
-    "name": "PL-WLANTECH-AS",
-    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
-    "domain": "wlantech.pl"
-  },
-  {
-    "network": "213.108.156.0/24",
-    "asn": "49715",
-    "country_code": "PL",
-    "name": "PL-WLANTECH-AS",
-    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
-    "domain": "wlantech.pl"
-  },
-  {
-    "network": "213.108.157.0/24",
-    "asn": "49715",
-    "country_code": "PL",
-    "name": "PL-WLANTECH-AS",
-    "org": "PTU WLAN-TECH PLUS JACEK SOLTYS",
-    "domain": "wlantech.pl"
-  },
-  {
     "network": "193.84.246.0/24",
     "asn": "39403",
     "country_code": "PL",
@@ -59566,6 +60214,22 @@
     "name": "KNF-AS",
     "org": "Urzad Komisji Nadzoru Finansowego",
     "domain": "knf.gov.pl"
+  },
+  {
+    "network": "193.104.184.0/24",
+    "asn": "50243",
+    "country_code": "PL",
+    "name": "YDP-AS",
+    "org": "4Tonet Grzegorz Krezalek",
+    "domain": "4tonet.pl"
+  },
+  {
+    "network": "193.104.235.0/24",
+    "asn": "196882",
+    "country_code": "PL",
+    "name": "Global-O",
+    "org": "Global Outsourcing Sp. z o.o",
+    "domain": "global-it.pl"
   },
   {
     "network": "193.104.239.0/24",
@@ -61016,6 +61680,14 @@
     "domain": "grupawp.pl"
   },
   {
+    "network": "2001:67c:234c::/48",
+    "asn": "42204",
+    "country_code": "PL",
+    "name": "dobreprogramy-AS",
+    "org": "Wirtualna Polska Media S.A.",
+    "domain": "grupawp.pl"
+  },
+  {
     "network": "194.0.181.0/24",
     "asn": "42272",
     "country_code": "PL",
@@ -61264,14 +61936,6 @@
     "domain": "pol-skone.pl"
   },
   {
-    "network": "194.31.48.0/23",
-    "asn": "57715",
-    "country_code": "PL",
-    "name": "CAFE-NET-AS",
-    "org": "Rojek Emil \"CAFE-NET\"",
-    "domain": "unc.pl"
-  },
-  {
     "network": "194.33.72.0/22",
     "asn": "58237",
     "country_code": "PL",
@@ -61385,6 +62049,14 @@
   },
   {
     "network": "194.41.12.0/22",
+    "asn": "25495",
+    "country_code": "PL",
+    "name": "SEJM-AS",
+    "org": "Kancelaria Sejmu",
+    "domain": "sejm.gov.pl"
+  },
+  {
+    "network": "194.41.12.0/24",
     "asn": "25495",
     "country_code": "PL",
     "name": "SEJM-AS",
@@ -63216,14 +63888,6 @@
     "domain": "amrest.eu"
   },
   {
-    "network": "195.191.8.0/24",
-    "asn": "50253",
-    "country_code": "PL",
-    "name": "CONNECTEDHOME",
-    "org": "PLAY5 S.A.",
-    "domain": "metro-networks.pl"
-  },
-  {
     "network": "195.191.63.0/24",
     "asn": "50444",
     "country_code": "PL",
@@ -63517,7 +64181,7 @@
     "country_code": "PL",
     "name": "NETNITE",
     "org": "NETNITE SP. Z O.O.",
-    "domain": "lukman.pl"
+    "domain": "netnite.pl"
   },
   {
     "network": "212.7.218.0/23",
@@ -64760,22 +65424,6 @@
     "domain": "jkc.pl"
   },
   {
-    "network": "2a05:dfc1:6510::/48",
-    "asn": "203539",
-    "country_code": "PL",
-    "name": "MAXMATI-AS",
-    "org": "Mateusz Nowotynski",
-    "domain": "maxmati.pl"
-  },
-  {
-    "network": "2a06:9801:e::/48",
-    "asn": "201075",
-    "country_code": "PL",
-    "name": "FLASHING-LIGHTS",
-    "org": "Taras Kinash",
-    "domain": "1766606611.space"
-  },
-  {
     "network": "2a06:9801:8e::/48",
     "asn": "200625",
     "country_code": "PL",
@@ -64904,12 +65552,12 @@
     "domain": "andreansx.net"
   },
   {
-    "network": "2a06:9801:1516::/48",
-    "asn": "218722",
+    "network": "2a06:9801:151b::/48",
+    "asn": "218730",
     "country_code": "PL",
-    "name": "SLOUDHOST",
-    "org": "Dawid Slowik",
-    "domain": "sloudhost.ovh"
+    "name": "JAKUBSZEWCZYK",
+    "org": "Jakub Szewczyk",
+    "domain": "tofikhost.ovh"
   },
   {
     "network": "2a06:9801:1563::/48",
@@ -64928,31 +65576,7 @@
     "domain": "skibicki.net"
   },
   {
-    "network": "2a06:9801:180a::/48",
-    "asn": "209862",
-    "country_code": "PL",
-    "name": "SKBKI-AS",
-    "org": "Michal Skibicki trading as skibicki.net",
-    "domain": "skibicki.net"
-  },
-  {
-    "network": "2a06:9801:1814::/48",
-    "asn": "209862",
-    "country_code": "PL",
-    "name": "SKBKI-AS",
-    "org": "Michal Skibicki trading as skibicki.net",
-    "domain": "skibicki.net"
-  },
-  {
     "network": "2a06:9801:181e::/48",
-    "asn": "209862",
-    "country_code": "PL",
-    "name": "SKBKI-AS",
-    "org": "Michal Skibicki trading as skibicki.net",
-    "domain": "skibicki.net"
-  },
-  {
-    "network": "2a06:9801:18ff::/48",
     "asn": "209862",
     "country_code": "PL",
     "name": "SKBKI-AS",
@@ -65080,7 +65704,31 @@
     "domain": "ipservices.pl"
   },
   {
+    "network": "2a09:dd80:a::/48",
+    "asn": "209866",
+    "country_code": "PL",
+    "name": "VORT",
+    "org": "Piotr Macha trading as Vort Cloud",
+    "domain": "as209866.net"
+  },
+  {
+    "network": "2a09:dd80:b::/48",
+    "asn": "209866",
+    "country_code": "PL",
+    "name": "VORT",
+    "org": "Piotr Macha trading as Vort Cloud",
+    "domain": "as209866.net"
+  },
+  {
     "network": "2a0a:6040:4600::/45",
+    "asn": "200201",
+    "country_code": "PL",
+    "name": "JOT23-VPS",
+    "org": "Tomasz Kepczynski",
+    "domain": "jot23.org"
+  },
+  {
+    "network": "2a0a:6040:4601::/48",
     "asn": "200201",
     "country_code": "PL",
     "name": "JOT23-VPS",
@@ -65110,6 +65758,14 @@
     "name": "JOT23-VPS",
     "org": "Tomasz Kepczynski",
     "domain": "jot23.org"
+  },
+  {
+    "network": "2a0a:87c0:fff7::/48",
+    "asn": "218375",
+    "country_code": "PL",
+    "name": "CALGANAYGUN-AS",
+    "org": "Calgan Muharrem Aygun",
+    "domain": "calgan.dev"
   },
   {
     "network": "2a0b:b87:ffe2::/48",
@@ -65144,20 +65800,20 @@
     "domain": "kszczot.pl"
   },
   {
+    "network": "2a0c:9a40:8881::/48",
+    "asn": "199680",
+    "country_code": "PL",
+    "name": "Filip-Kszczot",
+    "org": "Filip Kszczot",
+    "domain": "kszczot.pl"
+  },
+  {
     "network": "2a0d:d780::/29",
     "asn": "204470",
     "country_code": "PL",
     "name": "NETART-TK",
     "org": "NetArt Telekom Sp. z o.o.",
     "domain": "netart.pl"
-  },
-  {
-    "network": "2a0d:eb04:c::/48",
-    "asn": "218679",
-    "country_code": "PL",
-    "name": "SERVFAIL",
-    "org": "Dominique Liberda",
-    "domain": "servfail.network"
   },
   {
     "network": "2a0d:eb04:d::/48",
@@ -65256,28 +65912,12 @@
     "domain": "as199763.net"
   },
   {
-    "network": "2a14:7581:3977::/48",
-    "asn": "199763",
-    "country_code": "PL",
-    "name": "PCELA-AS",
-    "org": "Piotr Chrzanowski",
-    "domain": "as199763.net"
-  },
-  {
     "network": "2a14:7581:39ff::/48",
     "asn": "199763",
     "country_code": "PL",
     "name": "PCELA-AS",
     "org": "Piotr Chrzanowski",
     "domain": "as199763.net"
-  },
-  {
-    "network": "2a14:7583:efd0::/48",
-    "asn": "218781",
-    "country_code": "PL",
-    "name": "SQ5FOX",
-    "org": "Adrian Grzeca",
-    "domain": "grzeca.me"
   },
   {
     "network": "2a14:7584:2fff::/48",

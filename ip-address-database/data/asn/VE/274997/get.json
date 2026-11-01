@@ -1,6 +1,6 @@
 [
   {
-    "network": "153.51.212.0/24",
+    "network": "153.51.212.0/23",
     "asn": "274997",
     "country_code": "VE",
     "name": "HYPER LINK TELECOM, C.A.",
@@ -8,7 +8,15 @@
     "domain": "hyperlink.com.ve"
   },
   {
-    "network": "2803:c330::/32",
+    "network": "2803:c330::/36",
+    "asn": "274997",
+    "country_code": "VE",
+    "name": "HYPER LINK TELECOM, C.A.",
+    "org": "HYPER LINK TELECOM, C.A.",
+    "domain": "hyperlink.com.ve"
+  },
+  {
+    "network": "2803:c330:1000::/36",
     "asn": "274997",
     "country_code": "VE",
     "name": "HYPER LINK TELECOM, C.A.",

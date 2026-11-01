@@ -1,6 +1,6 @@
 [
   {
-    "network": "2602:f2ff:2::/48",
+    "network": "23.163.116.0/24",
     "asn": "402968",
     "country_code": "CA",
     "name": "SNP-CLOUD-ASN-01",
@@ -8,7 +8,15 @@
     "domain": "spearandpeacock.com"
   },
   {
-    "network": "2602:f2ff:3::/48",
+    "network": "2602:f2ff:1::/48",
+    "asn": "402968",
+    "country_code": "CA",
+    "name": "SNP-CLOUD-ASN-01",
+    "org": "Spear & Peacock Inc.",
+    "domain": "spearandpeacock.com"
+  },
+  {
+    "network": "2602:f2ff:2::/48",
     "asn": "402968",
     "country_code": "CA",
     "name": "SNP-CLOUD-ASN-01",

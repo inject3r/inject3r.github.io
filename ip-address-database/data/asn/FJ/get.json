@@ -224,14 +224,6 @@
     "domain": "vodafone.com.fj"
   },
   {
-    "network": "2401:5100:2300::/46",
-    "asn": "38442",
-    "country_code": "FJ",
-    "name": "VODAFONEFIJI-AS-FJ",
-    "org": "Vodafone Fiji Limited",
-    "domain": "vodafone.com.fj"
-  },
-  {
     "network": "45.112.224.0/22",
     "asn": "4638",
     "country_code": "FJ",
@@ -1009,6 +1001,14 @@
   },
   {
     "network": "210.7.31.0/24",
+    "asn": "4638",
+    "country_code": "FJ",
+    "name": "IS-FJ-AS",
+    "org": "Connect Internet Services",
+    "domain": "connect.com.fj"
+  },
+  {
+    "network": "2403:4600::/32",
     "asn": "4638",
     "country_code": "FJ",
     "name": "IS-FJ-AS",

@@ -1,5 +1,13 @@
 [
   {
+    "network": "5.175.172.0/24",
+    "asn": "62904",
+    "country_code": "US",
+    "name": "AS62904",
+    "org": "Eonix Corporation",
+    "domain": "eonix.net"
+  },
+  {
     "network": "5.175.209.0/24",
     "asn": "62904",
     "country_code": "US",
@@ -16,7 +24,7 @@
     "domain": "eonix.net"
   },
   {
-    "network": "5.231.110.0/24",
+    "network": "5.175.229.0/24",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -24,7 +32,7 @@
     "domain": "eonix.net"
   },
   {
-    "network": "5.231.115.0/24",
+    "network": "5.231.110.0/24",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -672,14 +680,6 @@
     "domain": "eonix.net"
   },
   {
-    "network": "50.2.26.0/23",
-    "asn": "62904",
-    "country_code": "US",
-    "name": "AS62904",
-    "org": "Eonix Corporation",
-    "domain": "eonix.net"
-  },
-  {
     "network": "50.2.29.0/24",
     "asn": "62904",
     "country_code": "US",
@@ -944,7 +944,7 @@
     "domain": "eonix.net"
   },
   {
-    "network": "50.2.136.0/21",
+    "network": "50.2.140.0/23",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -1200,7 +1200,7 @@
     "domain": "eonix.net"
   },
   {
-    "network": "50.3.0.0/22",
+    "network": "50.3.0.0/23",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -1432,7 +1432,7 @@
     "domain": "eonix.net"
   },
   {
-    "network": "50.3.136.0/21",
+    "network": "50.3.136.0/23",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -1441,6 +1441,14 @@
   },
   {
     "network": "50.3.139.0/24",
+    "asn": "62904",
+    "country_code": "US",
+    "name": "AS62904",
+    "org": "Eonix Corporation",
+    "domain": "eonix.net"
+  },
+  {
+    "network": "50.3.140.0/23",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -1777,14 +1785,6 @@
   },
   {
     "network": "94.249.181.0/24",
-    "asn": "62904",
-    "country_code": "US",
-    "name": "AS62904",
-    "org": "Eonix Corporation",
-    "domain": "eonix.net"
-  },
-  {
-    "network": "94.249.183.0/24",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -2680,7 +2680,7 @@
     "domain": "eonix.net"
   },
   {
-    "network": "104.206.168.0/21",
+    "network": "104.206.168.0/22",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -2792,14 +2792,6 @@
     "domain": "eonix.net"
   },
   {
-    "network": "104.206.216.0/22",
-    "asn": "62904",
-    "country_code": "US",
-    "name": "AS62904",
-    "org": "Eonix Corporation",
-    "domain": "eonix.net"
-  },
-  {
     "network": "104.206.220.0/22",
     "asn": "62904",
     "country_code": "US",
@@ -2849,14 +2841,6 @@
   },
   {
     "network": "104.206.252.0/22",
-    "asn": "62904",
-    "country_code": "US",
-    "name": "AS62904",
-    "org": "Eonix Corporation",
-    "domain": "eonix.net"
-  },
-  {
-    "network": "107.158.0.0/20",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -4416,7 +4400,7 @@
     "domain": "eonix.net"
   },
   {
-    "network": "173.213.80.0/21",
+    "network": "173.213.80.0/22",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -4432,7 +4416,7 @@
     "domain": "eonix.net"
   },
   {
-    "network": "173.213.96.0/21",
+    "network": "173.213.100.0/24",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -4456,7 +4440,7 @@
     "domain": "eonix.net"
   },
   {
-    "network": "173.213.104.0/21",
+    "network": "173.213.103.0/24",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -4464,7 +4448,7 @@
     "domain": "eonix.net"
   },
   {
-    "network": "173.213.112.0/21",
+    "network": "173.213.108.0/22",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -4473,22 +4457,6 @@
   },
   {
     "network": "173.213.118.0/23",
-    "asn": "62904",
-    "country_code": "US",
-    "name": "AS62904",
-    "org": "Eonix Corporation",
-    "domain": "eonix.net"
-  },
-  {
-    "network": "173.213.120.0/21",
-    "asn": "62904",
-    "country_code": "US",
-    "name": "AS62904",
-    "org": "Eonix Corporation",
-    "domain": "eonix.net"
-  },
-  {
-    "network": "173.213.120.0/24",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",
@@ -4888,14 +4856,6 @@
     "domain": "eonix.net"
   },
   {
-    "network": "173.232.123.0/24",
-    "asn": "62904",
-    "country_code": "US",
-    "name": "AS62904",
-    "org": "Eonix Corporation",
-    "domain": "eonix.net"
-  },
-  {
     "network": "173.232.124.0/22",
     "asn": "62904",
     "country_code": "US",
@@ -5249,6 +5209,22 @@
   },
   {
     "network": "178.18.152.0/24",
+    "asn": "62904",
+    "country_code": "US",
+    "name": "AS62904",
+    "org": "Eonix Corporation",
+    "domain": "eonix.net"
+  },
+  {
+    "network": "187.52.47.0/24",
+    "asn": "62904",
+    "country_code": "US",
+    "name": "AS62904",
+    "org": "Eonix Corporation",
+    "domain": "eonix.net"
+  },
+  {
+    "network": "191.217.163.0/24",
     "asn": "62904",
     "country_code": "US",
     "name": "AS62904",

@@ -1128,14 +1128,6 @@
     "domain": "infomaniak.ch"
   },
   {
-    "network": "83.228.193.0/24",
-    "asn": "29222",
-    "country_code": "CH",
-    "name": "Infomaniak-AS",
-    "org": "Infomaniak Network SA",
-    "domain": "infomaniak.ch"
-  },
-  {
     "network": "84.16.64.0/19",
     "asn": "29222",
     "country_code": "CH",
@@ -1161,14 +1153,6 @@
   },
   {
     "network": "91.214.188.0/22",
-    "asn": "29222",
-    "country_code": "CH",
-    "name": "Infomaniak-AS",
-    "org": "Infomaniak Network SA",
-    "domain": "infomaniak.ch"
-  },
-  {
-    "network": "91.214.190.0/24",
     "asn": "29222",
     "country_code": "CH",
     "name": "Infomaniak-AS",
@@ -1321,6 +1305,14 @@
   },
   {
     "network": "195.15.192.0/18",
+    "asn": "29222",
+    "country_code": "CH",
+    "name": "Infomaniak-AS",
+    "org": "Infomaniak Network SA",
+    "domain": "infomaniak.ch"
+  },
+  {
+    "network": "200.234.64.0/18",
     "asn": "29222",
     "country_code": "CH",
     "name": "Infomaniak-AS",
@@ -3040,6 +3032,14 @@
     "domain": "init7.net"
   },
   {
+    "network": "217.118.192.0/20",
+    "asn": "13030",
+    "country_code": "CH",
+    "name": "INIT7",
+    "org": "Init7 (Switzerland) Ltd.",
+    "domain": "init7.net"
+  },
+  {
     "network": "217.118.192.0/21",
     "asn": "13030",
     "country_code": "CH",
@@ -3464,6 +3464,14 @@
     "domain": "cortex-it.ch"
   },
   {
+    "network": "2a01:41c0::/32",
+    "asn": "213298",
+    "country_code": "CH",
+    "name": "CTX-BRN-AS",
+    "org": "Cortex IT SA",
+    "domain": "cortex-it.ch"
+  },
+  {
     "network": "5.226.144.0/21",
     "asn": "58299",
     "country_code": "CH",
@@ -3544,14 +3552,6 @@
     "domain": "openfactory.ch"
   },
   {
-    "network": "2001:678:ca0::/48",
-    "asn": "58299",
-    "country_code": "CH",
-    "name": "OPENFACTORY-AS",
-    "org": "Openfactory GmbH",
-    "domain": "openfactory.ch"
-  },
-  {
     "network": "2a00:6340::/32",
     "asn": "58299",
     "country_code": "CH",
@@ -3593,14 +3593,6 @@
   },
   {
     "network": "2a0e:8f06::/32",
-    "asn": "58299",
-    "country_code": "CH",
-    "name": "OPENFACTORY-AS",
-    "org": "Openfactory GmbH",
-    "domain": "openfactory.ch"
-  },
-  {
-    "network": "2a0e:8f06:4000::/37",
     "asn": "58299",
     "country_code": "CH",
     "name": "OPENFACTORY-AS",
@@ -4736,6 +4728,14 @@
     "domain": "exion.ch"
   },
   {
+    "network": "31.3.130.0/24",
+    "asn": "199662",
+    "country_code": "CH",
+    "name": "EXION",
+    "org": "Exion Networks SA",
+    "domain": "exion.ch"
+  },
+  {
     "network": "31.3.131.0/24",
     "asn": "199662",
     "country_code": "CH",
@@ -5633,6 +5633,22 @@
   },
   {
     "network": "193.222.106.0/23",
+    "asn": "6730",
+    "country_code": "CH",
+    "name": "SUNRISE",
+    "org": "Sunrise GmbH",
+    "domain": "sunrise.net"
+  },
+  {
+    "network": "193.222.106.0/24",
+    "asn": "6730",
+    "country_code": "CH",
+    "name": "SUNRISE",
+    "org": "Sunrise GmbH",
+    "domain": "sunrise.net"
+  },
+  {
+    "network": "193.222.107.0/24",
     "asn": "6730",
     "country_code": "CH",
     "name": "SUNRISE",
@@ -8304,6 +8320,14 @@
     "domain": "kaspersky.com"
   },
   {
+    "network": "195.64.114.0/24",
+    "asn": "200107",
+    "country_code": "CH",
+    "name": "KL-EXT",
+    "org": "Kaspersky Lab Switzerland GmbH",
+    "domain": "kaspersky.com"
+  },
+  {
     "network": "195.128.246.0/24",
     "asn": "200107",
     "country_code": "CH",
@@ -8742,6 +8766,46 @@
     "name": "NEOCARRIER",
     "org": "Neocarrier Communications Sarl",
     "domain": "neocarrier.com"
+  },
+  {
+    "network": "44.30.232.0/24",
+    "asn": "204082",
+    "country_code": "CH",
+    "name": "Galphanet",
+    "org": "Philippe Bonvin",
+    "domain": "as204082.net"
+  },
+  {
+    "network": "185.109.240.0/23",
+    "asn": "204082",
+    "country_code": "CH",
+    "name": "Galphanet",
+    "org": "Philippe Bonvin",
+    "domain": "as204082.net"
+  },
+  {
+    "network": "185.109.242.0/24",
+    "asn": "204082",
+    "country_code": "CH",
+    "name": "Galphanet",
+    "org": "Philippe Bonvin",
+    "domain": "as204082.net"
+  },
+  {
+    "network": "185.109.243.0/24",
+    "asn": "204082",
+    "country_code": "CH",
+    "name": "Galphanet",
+    "org": "Philippe Bonvin",
+    "domain": "as204082.net"
+  },
+  {
+    "network": "2001:67c:2f88::/48",
+    "asn": "204082",
+    "country_code": "CH",
+    "name": "Galphanet",
+    "org": "Philippe Bonvin",
+    "domain": "as204082.net"
   },
   {
     "network": "44.31.107.0/24",
@@ -9416,6 +9480,14 @@
     "domain": "ravana.me"
   },
   {
+    "network": "2a11:f400::/29",
+    "asn": "42032",
+    "country_code": "CH",
+    "name": "ASCOMMUNITY",
+    "org": "Sandro Bolliger trading as Bolliger Network Solutions",
+    "domain": "ravana.me"
+  },
+  {
     "network": "45.14.128.0/24",
     "asn": "44938",
     "country_code": "CH",
@@ -9581,7 +9653,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "45.86.36.0/24",
@@ -9589,7 +9661,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "91.108.184.0/24",
@@ -9597,7 +9669,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "91.200.144.0/24",
@@ -9605,7 +9677,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "91.207.207.0/24",
@@ -9613,7 +9685,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "91.223.132.0/24",
@@ -9621,7 +9693,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "185.34.102.0/24",
@@ -9629,7 +9701,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "185.54.7.0/24",
@@ -9637,7 +9709,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "185.169.94.0/24",
@@ -9645,7 +9717,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "193.17.33.0/24",
@@ -9653,7 +9725,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "195.8.203.0/24",
@@ -9661,7 +9733,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "195.114.125.0/24",
@@ -9669,7 +9741,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "2a0f:9180:1::/48",
@@ -9677,7 +9749,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "2a10:d440:1::/48",
@@ -9685,7 +9757,7 @@
     "country_code": "CH",
     "name": "Hidora",
     "org": "HIDORA SA",
-    "domain": "hidora.com"
+    "domain": "hidora.io"
   },
   {
     "network": "45.66.232.0/23",
@@ -10416,6 +10488,14 @@
     "domain": "ifog.ch"
   },
   {
+    "network": "143.246.143.0/24",
+    "asn": "34927",
+    "country_code": "CH",
+    "name": "iFog-GmbH",
+    "org": "iFog GmbH",
+    "domain": "ifog.ch"
+  },
+  {
     "network": "147.160.138.0/24",
     "asn": "34927",
     "country_code": "CH",
@@ -10665,14 +10745,6 @@
   },
   {
     "network": "2602:fed2:711e::/48",
-    "asn": "34927",
-    "country_code": "CH",
-    "name": "iFog-GmbH",
-    "org": "iFog GmbH",
-    "domain": "ifog.ch"
-  },
-  {
-    "network": "2a06:9801:c6::/48",
     "asn": "34927",
     "country_code": "CH",
     "name": "iFog-GmbH",
@@ -11272,6 +11344,14 @@
     "domain": "ifog.ch"
   },
   {
+    "network": "2a0c:9a40:238f::/48",
+    "asn": "34927",
+    "country_code": "CH",
+    "name": "iFog-GmbH",
+    "org": "iFog GmbH",
+    "domain": "ifog.ch"
+  },
+  {
     "network": "2a0c:9a40:2395::/48",
     "asn": "34927",
     "country_code": "CH",
@@ -11632,14 +11712,6 @@
     "domain": "ifog.ch"
   },
   {
-    "network": "2a0c:9a40:2f00::/40",
-    "asn": "34927",
-    "country_code": "CH",
-    "name": "iFog-GmbH",
-    "org": "iFog GmbH",
-    "domain": "ifog.ch"
-  },
-  {
     "network": "2a0c:9a40:3000::/40",
     "asn": "34927",
     "country_code": "CH",
@@ -11664,7 +11736,31 @@
     "domain": "ifog.ch"
   },
   {
+    "network": "2a0c:9a40:3300::/40",
+    "asn": "34927",
+    "country_code": "CH",
+    "name": "iFog-GmbH",
+    "org": "iFog GmbH",
+    "domain": "ifog.ch"
+  },
+  {
+    "network": "2a0c:9a40:3500::/40",
+    "asn": "34927",
+    "country_code": "CH",
+    "name": "iFog-GmbH",
+    "org": "iFog GmbH",
+    "domain": "ifog.ch"
+  },
+  {
     "network": "2a0c:9a40:8670::/44",
+    "asn": "34927",
+    "country_code": "CH",
+    "name": "iFog-GmbH",
+    "org": "iFog GmbH",
+    "domain": "ifog.ch"
+  },
+  {
+    "network": "2a0c:9a40:e060::/44",
     "asn": "34927",
     "country_code": "CH",
     "name": "iFog-GmbH",
@@ -11752,7 +11848,23 @@
     "domain": "stucchi.ch"
   },
   {
+    "network": "45.129.227.0/24",
+    "asn": "58280",
+    "country_code": "CH",
+    "name": "STUCCHIMAX-AS",
+    "org": "Massimiliano Andrea Stucchi",
+    "domain": "stucchi.ch"
+  },
+  {
     "network": "2a0e:5040::/29",
+    "asn": "58280",
+    "country_code": "CH",
+    "name": "STUCCHIMAX-AS",
+    "org": "Massimiliano Andrea Stucchi",
+    "domain": "stucchi.ch"
+  },
+  {
+    "network": "2a0e:5041::/32",
     "asn": "58280",
     "country_code": "CH",
     "name": "STUCCHIMAX-AS",
@@ -11841,14 +11953,6 @@
   },
   {
     "network": "171.22.12.0/23",
-    "asn": "206123",
-    "country_code": "CH",
-    "name": "xelon",
-    "org": "Xelon AG",
-    "domain": "xelon.ch"
-  },
-  {
-    "network": "171.22.13.0/24",
     "asn": "206123",
     "country_code": "CH",
     "name": "xelon",
@@ -12072,7 +12176,31 @@
     "domain": "hosttech.eu"
   },
   {
+    "network": "95.36.100.0/23",
+    "asn": "207143",
+    "country_code": "CH",
+    "name": "hosttech-AS",
+    "org": "hosttech GmbH",
+    "domain": "hosttech.eu"
+  },
+  {
+    "network": "95.36.102.0/23",
+    "asn": "207143",
+    "country_code": "CH",
+    "name": "hosttech-AS",
+    "org": "hosttech GmbH",
+    "domain": "hosttech.eu"
+  },
+  {
     "network": "185.35.28.0/22",
+    "asn": "207143",
+    "country_code": "CH",
+    "name": "hosttech-AS",
+    "org": "hosttech GmbH",
+    "domain": "hosttech.eu"
+  },
+  {
+    "network": "185.77.0.0/24",
     "asn": "207143",
     "country_code": "CH",
     "name": "hosttech-AS",
@@ -12201,6 +12329,14 @@
   },
   {
     "network": "185.229.88.0/24",
+    "asn": "207143",
+    "country_code": "CH",
+    "name": "hosttech-AS",
+    "org": "hosttech GmbH",
+    "domain": "hosttech.eu"
+  },
+  {
+    "network": "185.229.89.0/24",
     "asn": "207143",
     "country_code": "CH",
     "name": "hosttech-AS",
@@ -13600,6 +13736,14 @@
     "domain": "ip-plus.net"
   },
   {
+    "network": "193.135.31.0/24",
+    "asn": "3303",
+    "country_code": "CH",
+    "name": "SWISSCOM",
+    "org": "Swisscom (Schweiz) AG",
+    "domain": "ip-plus.net"
+  },
+  {
     "network": "193.135.100.0/24",
     "asn": "3303",
     "country_code": "CH",
@@ -13681,6 +13825,14 @@
   },
   {
     "network": "193.135.144.0/23",
+    "asn": "3303",
+    "country_code": "CH",
+    "name": "SWISSCOM",
+    "org": "Swisscom (Schweiz) AG",
+    "domain": "ip-plus.net"
+  },
+  {
+    "network": "193.135.148.0/23",
     "asn": "3303",
     "country_code": "CH",
     "name": "SWISSCOM",
@@ -15152,6 +15304,22 @@
     "domain": "tinext.com"
   },
   {
+    "network": "195.72.40.0/22",
+    "asn": "197352",
+    "country_code": "CH",
+    "name": "TINEXT",
+    "org": "Tinext Cloud SA",
+    "domain": "tinext.com"
+  },
+  {
+    "network": "2a0a:d280::/29",
+    "asn": "197352",
+    "country_code": "CH",
+    "name": "TINEXT",
+    "org": "Tinext Cloud SA",
+    "domain": "tinext.com"
+  },
+  {
     "network": "46.102.234.0/24",
     "asn": "213913",
     "country_code": "CH",
@@ -15649,6 +15817,14 @@
   },
   {
     "network": "57.190.17.0/24",
+    "asn": "206433",
+    "country_code": "CH",
+    "name": "SITA-SFA",
+    "org": "SITA Switzerland Sarl",
+    "domain": "sitaonair.aero"
+  },
+  {
+    "network": "57.190.64.0/20",
     "asn": "206433",
     "country_code": "CH",
     "name": "SITA-SFA",
@@ -16488,6 +16664,14 @@
     "domain": "meta10.com"
   },
   {
+    "network": "62.129.136.0/23",
+    "asn": "218941",
+    "country_code": "CH",
+    "name": "FOELLMI",
+    "org": "Foellmi ICT AG",
+    "domain": "foellmiag.ch"
+  },
+  {
     "network": "62.133.56.0/24",
     "asn": "207395",
     "country_code": "CH",
@@ -16680,6 +16864,14 @@
     "domain": "wwztelekom.ch"
   },
   {
+    "network": "2a0d:7a00:4101::/48",
+    "asn": "8821",
+    "country_code": "CH",
+    "name": "TELEZUG",
+    "org": "WWZ Telekom AG",
+    "domain": "wwztelekom.ch"
+  },
+  {
     "network": "62.192.11.0/24",
     "asn": "206484",
     "country_code": "CH",
@@ -16792,14 +16984,6 @@
     "domain": "ip-plus.net"
   },
   {
-    "network": "193.134.248.0/23",
-    "asn": "8300",
-    "country_code": "CH",
-    "name": "Test-AS-Main",
-    "org": "Swisscom (Schweiz) AG",
-    "domain": "ip-plus.net"
-  },
-  {
     "network": "194.209.74.0/24",
     "asn": "8300",
     "country_code": "CH",
@@ -16825,14 +17009,6 @@
   },
   {
     "network": "2001:918:f00::/40",
-    "asn": "8300",
-    "country_code": "CH",
-    "name": "Test-AS-Main",
-    "org": "Swisscom (Schweiz) AG",
-    "domain": "ip-plus.net"
-  },
-  {
-    "network": "2001:918:ff74::/48",
     "asn": "8300",
     "country_code": "CH",
     "name": "Test-AS-Main",
@@ -18072,14 +18248,6 @@
     "domain": "proton.ch"
   },
   {
-    "network": "80.47.41.0/24",
-    "asn": "208172",
-    "country_code": "CH",
-    "name": "PV-HOSTED",
-    "org": "Proton AG",
-    "domain": "proton.ch"
-  },
-  {
     "network": "80.47.42.0/24",
     "asn": "208172",
     "country_code": "CH",
@@ -18281,6 +18449,22 @@
   },
   {
     "network": "153.75.53.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "153.75.60.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "153.75.61.0/24",
     "asn": "208172",
     "country_code": "CH",
     "name": "PV-HOSTED",
@@ -19408,30 +19592,6 @@
     "domain": "everyware.ch"
   },
   {
-    "network": "185.50.224.0/24",
-    "asn": "24951",
-    "country_code": "CH",
-    "name": "EVERYWARE-NET",
-    "org": "EveryWare AG",
-    "domain": "everyware.ch"
-  },
-  {
-    "network": "185.50.225.0/24",
-    "asn": "24951",
-    "country_code": "CH",
-    "name": "EVERYWARE-NET",
-    "org": "EveryWare AG",
-    "domain": "everyware.ch"
-  },
-  {
-    "network": "185.50.226.0/24",
-    "asn": "24951",
-    "country_code": "CH",
-    "name": "EVERYWARE-NET",
-    "org": "EveryWare AG",
-    "domain": "everyware.ch"
-  },
-  {
     "network": "185.154.36.0/22",
     "asn": "24951",
     "country_code": "CH",
@@ -19456,15 +19616,7 @@
     "domain": "everyware.ch"
   },
   {
-    "network": "193.169.2.0/24",
-    "asn": "24951",
-    "country_code": "CH",
-    "name": "EVERYWARE-NET",
-    "org": "EveryWare AG",
-    "domain": "everyware.ch"
-  },
-  {
-    "network": "193.169.3.0/24",
+    "network": "193.169.2.0/23",
     "asn": "24951",
     "country_code": "CH",
     "name": "EVERYWARE-NET",
@@ -20376,14 +20528,6 @@
     "domain": "protonmail.ch"
   },
   {
-    "network": "109.224.247.0/24",
-    "asn": "62371",
-    "country_code": "CH",
-    "name": "PROTON",
-    "org": "Proton AG",
-    "domain": "protonmail.ch"
-  },
-  {
     "network": "176.119.200.0/24",
     "asn": "62371",
     "country_code": "CH",
@@ -20473,6 +20617,14 @@
   },
   {
     "network": "2a05:2701:f50::/44",
+    "asn": "62371",
+    "country_code": "CH",
+    "name": "PROTON",
+    "org": "Proton AG",
+    "domain": "protonmail.ch"
+  },
+  {
+    "network": "2a05:2701:fe00::/48",
     "asn": "62371",
     "country_code": "CH",
     "name": "PROTON",
@@ -22992,7 +23144,23 @@
     "domain": "solnet.ch"
   },
   {
+    "network": "185.203.90.0/24",
+    "asn": "9044",
+    "country_code": "CH",
+    "name": "SOLNET",
+    "org": "BSE Software GmbH",
+    "domain": "solnet.ch"
+  },
+  {
     "network": "185.252.240.0/22",
+    "asn": "9044",
+    "country_code": "CH",
+    "name": "SOLNET",
+    "org": "BSE Software GmbH",
+    "domain": "solnet.ch"
+  },
+  {
+    "network": "185.252.240.0/24",
     "asn": "9044",
     "country_code": "CH",
     "name": "SOLNET",
@@ -23408,14 +23576,6 @@
     "domain": "sns.ag"
   },
   {
-    "network": "2a00:a920:400::/40",
-    "asn": "60486",
-    "country_code": "CH",
-    "name": "SNS",
-    "org": "Swiss Networking Solutions AG",
-    "domain": "sns.ag"
-  },
-  {
     "network": "2a00:a920:900::/40",
     "asn": "60486",
     "country_code": "CH",
@@ -23481,6 +23641,14 @@
   },
   {
     "network": "195.162.166.0/24",
+    "asn": "33965",
+    "country_code": "CH",
+    "name": "LITECOM",
+    "org": "LITECOM AG",
+    "domain": "litecom.ch"
+  },
+  {
+    "network": "195.225.61.0/24",
     "asn": "33965",
     "country_code": "CH",
     "name": "LITECOM",
@@ -23654,6 +23822,38 @@
     "name": "CH-POSTNETZ",
     "org": "Die Schweizerische Post AG",
     "domain": "post.ch"
+  },
+  {
+    "network": "85.31.144.0/22",
+    "asn": "207335",
+    "country_code": "CH",
+    "name": "i-Community",
+    "org": "i-Community AG",
+    "domain": "i-community.ch"
+  },
+  {
+    "network": "185.106.133.0/24",
+    "asn": "207335",
+    "country_code": "CH",
+    "name": "i-Community",
+    "org": "i-Community AG",
+    "domain": "i-community.ch"
+  },
+  {
+    "network": "185.243.64.0/22",
+    "asn": "207335",
+    "country_code": "CH",
+    "name": "i-Community",
+    "org": "i-Community AG",
+    "domain": "i-community.ch"
+  },
+  {
+    "network": "2a10:1380::/29",
+    "asn": "207335",
+    "country_code": "CH",
+    "name": "i-Community",
+    "org": "i-Community AG",
+    "domain": "i-community.ch"
   },
   {
     "network": "85.119.232.0/23",
@@ -24225,6 +24425,14 @@
   },
   {
     "network": "2a07:6cc0:80::/44",
+    "asn": "61098",
+    "country_code": "CH",
+    "name": "exoscale",
+    "org": "Akenes SA",
+    "domain": "exoscale.ch"
+  },
+  {
+    "network": "2a07:6cc0:a0::/44",
     "asn": "61098",
     "country_code": "CH",
     "name": "exoscale",
@@ -25760,6 +25968,22 @@
     "domain": "zscaler.com"
   },
   {
+    "network": "153.69.20.0/24",
+    "asn": "62044",
+    "country_code": "CH",
+    "name": "ZSCALER-EMEA",
+    "org": "Zscaler Switzerland GmbH",
+    "domain": "zscaler.com"
+  },
+  {
+    "network": "153.69.22.0/24",
+    "asn": "62044",
+    "country_code": "CH",
+    "name": "ZSCALER-EMEA",
+    "org": "Zscaler Switzerland GmbH",
+    "domain": "zscaler.com"
+  },
+  {
     "network": "159.254.13.0/24",
     "asn": "62044",
     "country_code": "CH",
@@ -25841,6 +26065,14 @@
   },
   {
     "network": "159.254.24.0/24",
+    "asn": "62044",
+    "country_code": "CH",
+    "name": "ZSCALER-EMEA",
+    "org": "Zscaler Switzerland GmbH",
+    "domain": "zscaler.com"
+  },
+  {
+    "network": "159.254.27.0/24",
     "asn": "62044",
     "country_code": "CH",
     "name": "ZSCALER-EMEA",
@@ -29200,6 +29432,14 @@
     "domain": "tgp-gmbh.ch"
   },
   {
+    "network": "2a07:dfc0::/32",
+    "asn": "212944",
+    "country_code": "CH",
+    "name": "THUR-AS",
+    "org": "Thurgroup Partners GmbH",
+    "domain": "tgp-gmbh.ch"
+  },
+  {
     "network": "89.35.226.0/24",
     "asn": "212014",
     "country_code": "CH",
@@ -29976,46 +30216,6 @@
     "domain": "mobi.ch"
   },
   {
-    "network": "91.194.139.0/24",
-    "asn": "209898",
-    "country_code": "CH",
-    "name": "ungleich-ungleich-upstream",
-    "org": "ungleich glarus ag",
-    "domain": "ungleich.ch"
-  },
-  {
-    "network": "2a0a:e5c0:21::/48",
-    "asn": "209898",
-    "country_code": "CH",
-    "name": "ungleich-ungleich-upstream",
-    "org": "ungleich glarus ag",
-    "domain": "ungleich.ch"
-  },
-  {
-    "network": "2a0a:e5c0:49::/48",
-    "asn": "209898",
-    "country_code": "CH",
-    "name": "ungleich-ungleich-upstream",
-    "org": "ungleich glarus ag",
-    "domain": "ungleich.ch"
-  },
-  {
-    "network": "2a0a:e5c0:74::/48",
-    "asn": "209898",
-    "country_code": "CH",
-    "name": "ungleich-ungleich-upstream",
-    "org": "ungleich glarus ag",
-    "domain": "ungleich.ch"
-  },
-  {
-    "network": "2a0a:e5c0:76::/48",
-    "asn": "209898",
-    "country_code": "CH",
-    "name": "ungleich-ungleich-upstream",
-    "org": "ungleich glarus ag",
-    "domain": "ungleich.ch"
-  },
-  {
     "network": "91.194.146.0/23",
     "asn": "43183",
     "country_code": "CH",
@@ -30593,6 +30793,14 @@
   },
   {
     "network": "154.44.129.0/24",
+    "asn": "203660",
+    "country_code": "CH",
+    "name": "Plesk-Int-GmbH-AS",
+    "org": "WebPros International GmbH",
+    "domain": "plesk.com"
+  },
+  {
+    "network": "184.94.200.0/24",
     "asn": "203660",
     "country_code": "CH",
     "name": "Plesk-Int-GmbH-AS",
@@ -32216,6 +32424,14 @@
     "domain": "aveniq.ch"
   },
   {
+    "network": "93.191.255.0/24",
+    "asn": "28686",
+    "country_code": "CH",
+    "name": "AVENIQ-AS",
+    "org": "Aveniq AG",
+    "domain": "aveniq.ch"
+  },
+  {
     "network": "103.55.232.0/22",
     "asn": "28686",
     "country_code": "CH",
@@ -33256,14 +33472,6 @@
     "domain": "securebit.ch"
   },
   {
-    "network": "2a09:4c0::/32",
-    "asn": "58057",
-    "country_code": "CH",
-    "name": "SECUREBIT",
-    "org": "Securebit AG",
-    "domain": "securebit.ch"
-  },
-  {
     "network": "2a09:4c0:100::/48",
     "asn": "58057",
     "country_code": "CH",
@@ -33361,6 +33569,14 @@
   },
   {
     "network": "2a09:4c0:2d00::/48",
+    "asn": "58057",
+    "country_code": "CH",
+    "name": "SECUREBIT",
+    "org": "Securebit AG",
+    "domain": "securebit.ch"
+  },
+  {
+    "network": "2a09:4c0:5100::/48",
     "asn": "58057",
     "country_code": "CH",
     "name": "SECUREBIT",
@@ -33502,22 +33718,6 @@
     "name": "SECUREBIT",
     "org": "Securebit AG",
     "domain": "securebit.ch"
-  },
-  {
-    "network": "104.132.59.0/24",
-    "asn": "41264",
-    "country_code": "CH",
-    "name": "GOOGLE-IT-RO-ISP",
-    "org": "Google Switzerland GmbH",
-    "domain": "google.com"
-  },
-  {
-    "network": "104.132.214.0/24",
-    "asn": "41264",
-    "country_code": "CH",
-    "name": "GOOGLE-IT-RO-ISP",
-    "org": "Google Switzerland GmbH",
-    "domain": "google.com"
   },
   {
     "network": "104.134.240.0/24",
@@ -34049,14 +34249,6 @@
   },
   {
     "network": "132.243.200.0/24",
-    "asn": "197791",
-    "country_code": "CH",
-    "name": "Danylo_Tereshchenko",
-    "org": "Danylo Tereshchenko",
-    "domain": "mystral.ch"
-  },
-  {
-    "network": "2001:67c:88::/48",
     "asn": "197791",
     "country_code": "CH",
     "name": "Danylo_Tereshchenko",
@@ -34992,28 +35184,12 @@
     "domain": "ubs.com"
   },
   {
-    "network": "2a02:c187:5f00::/48",
-    "asn": "10100",
-    "country_code": "CH",
-    "name": "UBSGROUPAG-AS-AP",
-    "org": "UBS Group AG",
-    "domain": "ubs.com"
-  },
-  {
     "network": "2a02:c187:5f04::/48",
     "asn": "10100",
     "country_code": "CH",
     "name": "UBSGROUPAG-AS-AP",
     "org": "UBS Group AG",
     "domain": "ubs.com"
-  },
-  {
-    "network": "138.222.64.0/24",
-    "asn": "214849",
-    "country_code": "CH",
-    "name": "SA-1",
-    "org": "Hitachi Energy Holdings Ltd",
-    "domain": "hitachienergy.com"
   },
   {
     "network": "138.222.68.0/24",
@@ -36208,6 +36384,14 @@
     "domain": "rulematch.com"
   },
   {
+    "network": "185.42.161.0/24",
+    "asn": "208731",
+    "country_code": "CH",
+    "name": "RULEMATCH",
+    "org": "RULEMATCH AG",
+    "domain": "rulematch.com"
+  },
+  {
     "network": "185.203.112.0/24",
     "asn": "208731",
     "country_code": "CH",
@@ -36393,6 +36577,14 @@
   },
   {
     "network": "2a0a:e5c0:305::/48",
+    "asn": "213081",
+    "country_code": "CH",
+    "name": "ungleich-place10",
+    "org": "ungleich glarus ag",
+    "domain": "ungleich.ch"
+  },
+  {
+    "network": "2a0a:e5c1:200::/48",
     "asn": "213081",
     "country_code": "CH",
     "name": "ungleich-place10",
@@ -37128,6 +37320,14 @@
     "domain": "telecom26.ch"
   },
   {
+    "network": "194.48.103.0/24",
+    "asn": "58193",
+    "country_code": "CH",
+    "name": "T26",
+    "org": "Telecom26 AG",
+    "domain": "telecom26.ch"
+  },
+  {
     "network": "2a02:fae0::/29",
     "asn": "58193",
     "country_code": "CH",
@@ -37185,6 +37385,14 @@
   },
   {
     "network": "185.6.169.0/24",
+    "asn": "199661",
+    "country_code": "CH",
+    "name": "KAYAKEU",
+    "org": "KAYAK Europe GmbH",
+    "domain": "kayak.com"
+  },
+  {
+    "network": "185.6.170.0/23",
     "asn": "199661",
     "country_code": "CH",
     "name": "KAYAKEU",
@@ -37417,6 +37625,14 @@
   },
   {
     "network": "185.22.52.0/22",
+    "asn": "60728",
+    "country_code": "CH",
+    "name": "FINK",
+    "org": "Andreas Fink",
+    "domain": "fink.org"
+  },
+  {
+    "network": "185.22.53.0/24",
     "asn": "60728",
     "country_code": "CH",
     "name": "FINK",
@@ -37984,6 +38200,14 @@
     "domain": "gottexbrokers.com"
   },
   {
+    "network": "185.50.224.0/22",
+    "asn": "48983",
+    "country_code": "CH",
+    "name": "LETZI",
+    "org": "Artmotion AG",
+    "domain": "artmotion.ch"
+  },
+  {
     "network": "185.51.68.0/22",
     "asn": "202123",
     "country_code": "CH",
@@ -38104,6 +38328,14 @@
     "domain": "tridexon.com"
   },
   {
+    "network": "185.58.128.0/24",
+    "asn": "51798",
+    "country_code": "CH",
+    "name": "MSWSI",
+    "org": "Tridexon AG",
+    "domain": "tridexon.com"
+  },
+  {
     "network": "185.59.52.0/22",
     "asn": "200286",
     "country_code": "CH",
@@ -38185,14 +38417,6 @@
   },
   {
     "network": "185.65.104.0/24",
-    "asn": "207624",
-    "country_code": "CH",
-    "name": "as_tdc-ch",
-    "org": "Signalhorn AG",
-    "domain": "signalhorn.com"
-  },
-  {
-    "network": "2a12:9a40:1000::/48",
     "asn": "207624",
     "country_code": "CH",
     "name": "as_tdc-ch",
@@ -38596,7 +38820,7 @@
     "asn": "8453",
     "country_code": "CH",
     "name": "ECONIS-AS",
-    "org": "Econis AG",
+    "org": "WIIT Schweiz AG",
     "domain": "econis.ch"
   },
   {
@@ -38604,7 +38828,7 @@
     "asn": "8453",
     "country_code": "CH",
     "name": "ECONIS-AS",
-    "org": "Econis AG",
+    "org": "WIIT Schweiz AG",
     "domain": "econis.ch"
   },
   {
@@ -38612,7 +38836,7 @@
     "asn": "8453",
     "country_code": "CH",
     "name": "ECONIS-AS",
-    "org": "Econis AG",
+    "org": "WIIT Schweiz AG",
     "domain": "econis.ch"
   },
   {
@@ -38620,7 +38844,7 @@
     "asn": "8453",
     "country_code": "CH",
     "name": "ECONIS-AS",
-    "org": "Econis AG",
+    "org": "WIIT Schweiz AG",
     "domain": "econis.ch"
   },
   {
@@ -38628,7 +38852,7 @@
     "asn": "8453",
     "country_code": "CH",
     "name": "ECONIS-AS",
-    "org": "Econis AG",
+    "org": "WIIT Schweiz AG",
     "domain": "econis.ch"
   },
   {
@@ -38784,6 +39008,22 @@
     "domain": "sbb.ch"
   },
   {
+    "network": "185.95.217.0/24",
+    "asn": "39540",
+    "country_code": "CH",
+    "name": "COMMUNITYRACK-RMA",
+    "org": "CommunityRack.org Verein",
+    "domain": "communityrack.org"
+  },
+  {
+    "network": "2a05:fc85::/32",
+    "asn": "39540",
+    "country_code": "CH",
+    "name": "COMMUNITYRACK-RMA",
+    "org": "CommunityRack.org Verein",
+    "domain": "communityrack.org"
+  },
+  {
     "network": "185.98.28.0/22",
     "asn": "34271",
     "country_code": "CH",
@@ -38824,60 +39064,12 @@
     "domain": "scdag.net"
   },
   {
-    "network": "185.106.133.0/24",
-    "asn": "207335",
-    "country_code": "CH",
-    "name": "i-Community",
-    "org": "i-Community AG",
-    "domain": "i-community.ch"
-  },
-  {
-    "network": "185.243.64.0/22",
-    "asn": "207335",
-    "country_code": "CH",
-    "name": "i-Community",
-    "org": "i-Community AG",
-    "domain": "i-community.ch"
-  },
-  {
-    "network": "2a10:1380::/29",
-    "asn": "207335",
-    "country_code": "CH",
-    "name": "i-Community",
-    "org": "i-Community AG",
-    "domain": "i-community.ch"
-  },
-  {
     "network": "185.109.0.0/22",
     "asn": "204178",
     "country_code": "CH",
     "name": "WINET",
     "org": "Winet Voicetec Solutions AG",
     "domain": "winet.ch"
-  },
-  {
-    "network": "185.109.242.0/24",
-    "asn": "204082",
-    "country_code": "CH",
-    "name": "Galphanet",
-    "org": "Philippe Bonvin",
-    "domain": "as204082.net"
-  },
-  {
-    "network": "185.109.243.0/24",
-    "asn": "204082",
-    "country_code": "CH",
-    "name": "Galphanet",
-    "org": "Philippe Bonvin",
-    "domain": "as204082.net"
-  },
-  {
-    "network": "2001:67c:2f88::/48",
-    "asn": "204082",
-    "country_code": "CH",
-    "name": "Galphanet",
-    "org": "Philippe Bonvin",
-    "domain": "as204082.net"
   },
   {
     "network": "185.112.52.0/24",
@@ -39134,38 +39326,6 @@
     "name": "setaiga",
     "org": "setaiga GmbH",
     "domain": "setaiga.com"
-  },
-  {
-    "network": "185.135.189.0/24",
-    "asn": "206330",
-    "country_code": "CH",
-    "name": "MERKLI",
-    "org": "Manuel Merkli",
-    "domain": "merkli.org"
-  },
-  {
-    "network": "2a10:1646::/32",
-    "asn": "206330",
-    "country_code": "CH",
-    "name": "MERKLI",
-    "org": "Manuel Merkli",
-    "domain": "merkli.org"
-  },
-  {
-    "network": "2a10:1647::/32",
-    "asn": "206330",
-    "country_code": "CH",
-    "name": "MERKLI",
-    "org": "Manuel Merkli",
-    "domain": "merkli.org"
-  },
-  {
-    "network": "185.136.120.0/22",
-    "asn": "204631",
-    "country_code": "CH",
-    "name": "VIVANET-AS",
-    "org": "VIVANET GmbH",
-    "domain": "vivanet.com"
   },
   {
     "network": "185.136.120.0/24",
@@ -40292,7 +40452,7 @@
     "asn": "206969",
     "country_code": "CH",
     "name": "HPE-CIC",
-    "org": "Hewlett Packard International Sarl",
+    "org": "Hewlett-Packard International Sarl",
     "domain": "hpe.com"
   },
   {
@@ -40300,7 +40460,7 @@
     "asn": "206969",
     "country_code": "CH",
     "name": "HPE-CIC",
-    "org": "Hewlett Packard International Sarl",
+    "org": "Hewlett-Packard International Sarl",
     "domain": "hpe.com"
   },
   {
@@ -41104,6 +41264,14 @@
     "domain": "digitalesuisse.com"
   },
   {
+    "network": "185.227.150.0/24",
+    "asn": "43440",
+    "country_code": "CH",
+    "name": "digitalesuisse",
+    "org": "Digitale Suisse AG",
+    "domain": "digitalesuisse.com"
+  },
+  {
     "network": "185.227.151.0/24",
     "asn": "43440",
     "country_code": "CH",
@@ -41116,7 +41284,7 @@
     "asn": "39671",
     "country_code": "CH",
     "name": "AS-STONEHAGEFLEMING",
-    "org": "Stonehage Fleming SA",
+    "org": "Corient SA",
     "domain": "stonehagefleming.com"
   },
   {
@@ -41124,7 +41292,7 @@
     "asn": "39671",
     "country_code": "CH",
     "name": "AS-STONEHAGEFLEMING",
-    "org": "Stonehage Fleming SA",
+    "org": "Corient SA",
     "domain": "stonehagefleming.com"
   },
   {
@@ -41132,7 +41300,7 @@
     "asn": "39671",
     "country_code": "CH",
     "name": "AS-STONEHAGEFLEMING",
-    "org": "Stonehage Fleming SA",
+    "org": "Corient SA",
     "domain": "stonehagefleming.com"
   },
   {
@@ -41140,7 +41308,7 @@
     "asn": "39671",
     "country_code": "CH",
     "name": "AS-STONEHAGEFLEMING",
-    "org": "Stonehage Fleming SA",
+    "org": "Corient SA",
     "domain": "stonehagefleming.com"
   },
   {
@@ -41148,7 +41316,7 @@
     "asn": "39671",
     "country_code": "CH",
     "name": "AS-STONEHAGEFLEMING",
-    "org": "Stonehage Fleming SA",
+    "org": "Corient SA",
     "domain": "stonehagefleming.com"
   },
   {
@@ -41585,6 +41753,14 @@
   },
   {
     "network": "2a13:5681:1::/48",
+    "asn": "204333",
+    "country_code": "CH",
+    "name": "REJECTY",
+    "org": "Witalij Koweschnikow",
+    "domain": "rejecty.com"
+  },
+  {
+    "network": "2a13:5681:2::/48",
     "asn": "204333",
     "country_code": "CH",
     "name": "REJECTY",
@@ -42384,6 +42560,14 @@
     "domain": "rayhaan.ch"
   },
   {
+    "network": "2a0d:d740:105::/48",
+    "asn": "210036",
+    "country_code": "CH",
+    "name": "RAYHAANNET",
+    "org": "Rayhaan Ahmad Jaufeerally",
+    "domain": "rayhaan.ch"
+  },
+  {
     "network": "2a0d:d742::/45",
     "asn": "210036",
     "country_code": "CH",
@@ -42808,14 +42992,6 @@
     "domain": "wwztelekom.ch"
   },
   {
-    "network": "193.134.163.0/24",
-    "asn": "201223",
-    "country_code": "CH",
-    "name": "SWISSRE-AS-HONGKONG",
-    "org": "Schweizerische Rueckversicherungs-Gesellschaft AG",
-    "domain": "swissre.com"
-  },
-  {
     "network": "193.134.192.0/21",
     "asn": "28916",
     "country_code": "CH",
@@ -42998,6 +43174,14 @@
     "name": "CLUE",
     "org": "Clue Security Services AG",
     "domain": "clue.ch"
+  },
+  {
+    "network": "193.188.11.0/24",
+    "asn": "39037",
+    "country_code": "CH",
+    "name": "MTO",
+    "org": "Metal Trade Overseas AG",
+    "domain": "nornickel.net"
   },
   {
     "network": "193.200.144.0/24",
@@ -43904,6 +44088,14 @@
     "domain": "talus.ch"
   },
   {
+    "network": "2001:67c:2030::/48",
+    "asn": "202035",
+    "country_code": "CH",
+    "name": "TALUS-AS",
+    "org": "Talus Informatik AG",
+    "domain": "talus.ch"
+  },
+  {
     "network": "194.56.248.0/23",
     "asn": "50805",
     "country_code": "CH",
@@ -43996,7 +44188,7 @@
     "asn": "34514",
     "country_code": "CH",
     "name": "FUTURECOM",
-    "org": "INGO Zurich AG",
+    "org": "WPP Creative Switzerland AG",
     "domain": "futurecom.ch"
   },
   {
@@ -44400,7 +44592,7 @@
     "domain": "thunderhosting.cloud"
   },
   {
-    "network": "2a0e:97c0:c00::/48",
+    "network": "2a0e:97c0:dc0::/48",
     "asn": "202458",
     "country_code": "CH",
     "name": "ThunderHostingNetwork",
@@ -44408,7 +44600,15 @@
     "domain": "thunderhosting.cloud"
   },
   {
-    "network": "2a0e:97c0:dc0::/48",
+    "network": "2a0e:97c0:dc1::/48",
+    "asn": "202458",
+    "country_code": "CH",
+    "name": "ThunderHostingNetwork",
+    "org": "ThunderHosting GmbH",
+    "domain": "thunderhosting.cloud"
+  },
+  {
+    "network": "2a0e:97c0:dc2::/48",
     "asn": "202458",
     "country_code": "CH",
     "name": "ThunderHostingNetwork",
@@ -44832,6 +45032,14 @@
     "domain": "sasag.ch"
   },
   {
+    "network": "2a07:291c::/32",
+    "asn": "196651",
+    "country_code": "CH",
+    "name": "ITSH",
+    "org": "Informatik Schaffhausen (ITSH)",
+    "domain": "sasag.ch"
+  },
+  {
     "network": "195.250.52.0/24",
     "asn": "39296",
     "country_code": "CH",
@@ -44997,102 +45205,6 @@
     "country_code": "CH",
     "name": "UNSPECIFIED",
     "org": "UBS Group AG",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "198.240.130.0/24",
-    "asn": "3412",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "198.240.148.0/24",
-    "asn": "3412",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "198.240.151.0/24",
-    "asn": "3412",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "199.53.16.0/24",
-    "asn": "3412",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "199.53.25.0/24",
-    "asn": "3412",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "199.53.107.0/24",
-    "asn": "3412",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "199.53.108.0/24",
-    "asn": "3412",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "199.53.183.0/24",
-    "asn": "3412",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "199.53.186.0/24",
-    "asn": "3412",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "199.53.17.0/24",
-    "asn": "3087",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "199.53.79.0/24",
-    "asn": "3087",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
-    "domain": "credit-suisse.com"
-  },
-  {
-    "network": "199.53.184.0/24",
-    "asn": "3087",
-    "country_code": "CH",
-    "name": "CreditSuisseGroup-AS",
-    "org": "Credit Suisse Group",
     "domain": "credit-suisse.com"
   },
   {
@@ -45672,14 +45784,6 @@
     "domain": "ip-plus.net"
   },
   {
-    "network": "2001:678:918::/48",
-    "asn": "57166",
-    "country_code": "CH",
-    "name": "STE",
-    "org": "Stefan Brand-Epprecht",
-    "domain": "stelia.ch"
-  },
-  {
     "network": "2001:678:b24::/48",
     "asn": "210360",
     "country_code": "CH",
@@ -45742,6 +45846,14 @@
     "name": "Maklerzentrum-Schweiz-AS",
     "org": "Maklerzentrum Schweiz AG",
     "domain": "maklerzentrum.ch"
+  },
+  {
+    "network": "2001:67c:1948::/48",
+    "asn": "203496",
+    "country_code": "CH",
+    "name": "OBNH-NETWORK",
+    "org": "Olaf Bernhard Rudolf Baumert",
+    "domain": "obr.sh"
   },
   {
     "network": "2001:67c:22dc::/48",
@@ -45944,14 +46056,6 @@
     "domain": "ungleich.ch"
   },
   {
-    "network": "2a0a:e5c0:16::/48",
-    "asn": "199553",
-    "country_code": "CH",
-    "name": "ungleich-place5",
-    "org": "ungleich glarus ag",
-    "domain": "ungleich.ch"
-  },
-  {
     "network": "2a0a:e5c0:42::/48",
     "asn": "199553",
     "country_code": "CH",
@@ -46036,6 +46140,22 @@
     "asn": "207996",
     "country_code": "CH",
     "name": "ungleich-place6",
+    "org": "ungleich glarus ag",
+    "domain": "ungleich.ch"
+  },
+  {
+    "network": "2a0a:e5c0:74::/48",
+    "asn": "209898",
+    "country_code": "CH",
+    "name": "ungleich-ungleich-upstream",
+    "org": "ungleich glarus ag",
+    "domain": "ungleich.ch"
+  },
+  {
+    "network": "2a0a:e5c0:76::/48",
+    "asn": "209898",
+    "country_code": "CH",
+    "name": "ungleich-ungleich-upstream",
     "org": "ungleich glarus ag",
     "domain": "ungleich.ch"
   },
@@ -46176,14 +46296,6 @@
     "domain": "elia.network"
   },
   {
-    "network": "2a0e:8f02:2200::/44",
-    "asn": "49192",
-    "country_code": "CH",
-    "name": "OPENFACTORY-SECONDARY",
-    "org": "Openfactory GmbH",
-    "domain": "openfactory.ch"
-  },
-  {
     "network": "2a0e:8f02:f068::/48",
     "asn": "215448",
     "country_code": "CH",
@@ -46216,14 +46328,6 @@
     "domain": "stoege.ch"
   },
   {
-    "network": "2a0e:97c0:742::/48",
-    "asn": "208260",
-    "country_code": "CH",
-    "name": "STOEGE",
-    "org": "Daniel Stocker",
-    "domain": "stoege.ch"
-  },
-  {
     "network": "2a0e:97c0:743::/48",
     "asn": "208260",
     "country_code": "CH",
@@ -46238,6 +46342,22 @@
     "name": "kilobyte",
     "org": "Benjamin Marty",
     "domain": "kilobyte.ch"
+  },
+  {
+    "network": "2a10:1646::/32",
+    "asn": "206330",
+    "country_code": "CH",
+    "name": "MERKLI",
+    "org": "Manuel Merkli",
+    "domain": "merkli.org"
+  },
+  {
+    "network": "2a10:1647::/32",
+    "asn": "206330",
+    "country_code": "CH",
+    "name": "MERKLI",
+    "org": "Manuel Merkli",
+    "domain": "merkli.org"
   },
   {
     "network": "2a10:2f00:123::/48",
@@ -46302,5 +46422,13 @@
     "name": "itship",
     "org": "itship GmbH",
     "domain": "itship.ch"
+  },
+  {
+    "network": "2a13:bc2:1053::/48",
+    "asn": "202647",
+    "country_code": "CH",
+    "name": "SIMPLYSOFT-SRV",
+    "org": "Simplysoft GmbH",
+    "domain": "simplysoft.ch"
   }
 ]

@@ -24,7 +24,7 @@
     "domain": ""
   },
   {
-    "network": "45.164.3.0/24",
+    "network": "2804:5390::/34",
     "asn": "268592",
     "country_code": "BR",
     "name": "M A Conexao Eletrotecnica Multimidia Ltda ME",
@@ -32,7 +32,15 @@
     "domain": ""
   },
   {
-    "network": "2804:5390::/32",
+    "network": "2804:5390:8000::/34",
+    "asn": "268592",
+    "country_code": "BR",
+    "name": "M A Conexao Eletrotecnica Multimidia Ltda ME",
+    "org": "M A Conexao Eletrotecnica Multimidia Ltda ME",
+    "domain": ""
+  },
+  {
+    "network": "2804:5390:c000::/34",
     "asn": "268592",
     "country_code": "BR",
     "name": "M A Conexao Eletrotecnica Multimidia Ltda ME",

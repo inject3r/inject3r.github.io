@@ -496,14 +496,6 @@
     "domain": "orange.sk"
   },
   {
-    "network": "213.151.248.0/24",
-    "asn": "15962",
-    "country_code": "SK",
-    "name": "OSK-DNI",
-    "org": "Orange Slovensko a.s.",
-    "domain": "orange.sk"
-  },
-  {
     "network": "2a01:c840::/28",
     "asn": "15962",
     "country_code": "SK",
@@ -649,14 +641,6 @@
   },
   {
     "network": "2a06:a180:60::/48",
-    "asn": "59796",
-    "country_code": "SK",
-    "name": "STORMWALL-AS",
-    "org": "StormWall s.r.o.",
-    "domain": "stormwall.sk"
-  },
-  {
-    "network": "2a06:a180:70::/48",
     "asn": "59796",
     "country_code": "SK",
     "name": "STORMWALL-AS",
@@ -1612,7 +1596,7 @@
     "asn": "208882",
     "country_code": "SK",
     "name": "AS-COOLNET1-SK",
-    "org": "Automation & Business, s.r.o.",
+    "org": "CoolNet, s.r.o.",
     "domain": "coolnet.sk"
   },
   {
@@ -1620,7 +1604,7 @@
     "asn": "208882",
     "country_code": "SK",
     "name": "AS-COOLNET1-SK",
-    "org": "Automation & Business, s.r.o.",
+    "org": "CoolNet, s.r.o.",
     "domain": "coolnet.sk"
   },
   {
@@ -1628,7 +1612,7 @@
     "asn": "208882",
     "country_code": "SK",
     "name": "AS-COOLNET1-SK",
-    "org": "Automation & Business, s.r.o.",
+    "org": "CoolNet, s.r.o.",
     "domain": "coolnet.sk"
   },
   {
@@ -1636,7 +1620,7 @@
     "asn": "208882",
     "country_code": "SK",
     "name": "AS-COOLNET1-SK",
-    "org": "Automation & Business, s.r.o.",
+    "org": "CoolNet, s.r.o.",
     "domain": "coolnet.sk"
   },
   {
@@ -1662,6 +1646,102 @@
     "name": "Samanet",
     "org": "Sama Tech s.r.o.",
     "domain": "samatech.sk"
+  },
+  {
+    "network": "45.129.197.0/24",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "154.59.110.0/23",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "154.59.225.0/24",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "185.23.236.0/24",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "188.119.112.0/24",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "193.42.112.0/24",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "209.131.70.0/24",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "217.78.239.0/24",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "2001:978:1001::/48",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "2001:978:3c0f::/48",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "2a01:48a0:4301::/48",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
+  },
+  {
+    "network": "2a06:1301:4100::/48",
+    "asn": "199144",
+    "country_code": "SK",
+    "name": "HEXCORECLOUD-AS",
+    "org": "HexCore cloud s.r.o.",
+    "domain": "hexcore.cloud"
   },
   {
     "network": "45.136.132.0/23",
@@ -5816,94 +5896,6 @@
     "domain": "choice.sk"
   },
   {
-    "network": "154.59.110.0/23",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
-    "network": "154.59.225.0/24",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
-    "network": "185.23.236.0/24",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
-    "network": "188.119.112.0/24",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
-    "network": "193.42.112.0/24",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
-    "network": "209.131.70.0/24",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
-    "network": "217.78.239.0/24",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
-    "network": "2001:978:1001::/48",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
-    "network": "2001:978:3c0f::/48",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
-    "network": "2a01:48a0:4301::/48",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
-    "network": "2a06:1301:4100::/48",
-    "asn": "199144",
-    "country_code": "SK",
-    "name": "HEXCORECLOUD-AS",
-    "org": "HexCore cloud s.r.o.",
-    "domain": "hexcore.cloud"
-  },
-  {
     "network": "158.255.16.0/24",
     "asn": "211689",
     "country_code": "SK",
@@ -8054,14 +8046,6 @@
     "name": "Grandify",
     "org": "Grandify s.r.o.",
     "domain": "grandify.eu"
-  },
-  {
-    "network": "2a06:9801:f1d::/48",
-    "asn": "219148",
-    "country_code": "SK",
-    "name": "AURONYS",
-    "org": "Jan Danko trading as BitsLab.io",
-    "domain": "auronys.com"
   },
   {
     "network": "2a0d:3700::/29",

@@ -1,17 +1,25 @@
 [
   {
-    "network": "208.66.108.0/22",
+    "network": "207.174.22.0/24",
     "asn": "31916",
     "country_code": "US",
-    "name": "LAYERONE",
+    "name": "LAYERONE-LLC",
     "org": "ReviveHost",
     "domain": "layeronecloud.com"
   },
   {
-    "network": "208.66.111.0/24",
+    "network": "208.66.108.0/22",
     "asn": "31916",
     "country_code": "US",
-    "name": "LAYERONE",
+    "name": "LAYERONE-LLC",
+    "org": "ReviveHost",
+    "domain": "layeronecloud.com"
+  },
+  {
+    "network": "2602:fa81::/40",
+    "asn": "31916",
+    "country_code": "US",
+    "name": "LAYERONE-LLC",
     "org": "ReviveHost",
     "domain": "layeronecloud.com"
   }

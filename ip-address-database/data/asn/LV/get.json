@@ -280,7 +280,7 @@
     "domain": "qwins.co"
   },
   {
-    "network": "178.17.59.0/24",
+    "network": "179.253.162.0/24",
     "asn": "218731",
     "country_code": "LV",
     "name": "Andris-Jakovlevs",
@@ -288,7 +288,15 @@
     "domain": "qwins.co"
   },
   {
-    "network": "185.238.191.0/24",
+    "network": "179.253.166.0/24",
+    "asn": "218731",
+    "country_code": "LV",
+    "name": "Andris-Jakovlevs",
+    "org": "Andris Jakovlevs",
+    "domain": "qwins.co"
+  },
+  {
+    "network": "179.253.167.0/24",
     "asn": "218731",
     "country_code": "LV",
     "name": "Andris-Jakovlevs",
@@ -297,14 +305,6 @@
   },
   {
     "network": "194.87.24.0/24",
-    "asn": "218731",
-    "country_code": "LV",
-    "name": "Andris-Jakovlevs",
-    "org": "Andris Jakovlevs",
-    "domain": "qwins.co"
-  },
-  {
-    "network": "195.66.27.0/24",
     "asn": "218731",
     "country_code": "LV",
     "name": "Andris-Jakovlevs",
@@ -416,6 +416,14 @@
     "domain": "ascl.sh"
   },
   {
+    "network": "177.1.193.0/24",
+    "asn": "219443",
+    "country_code": "LV",
+    "name": "Daneberg-AS",
+    "org": "Ints Danebergs",
+    "domain": "ascl.sh"
+  },
+  {
     "network": "177.1.194.0/24",
     "asn": "219443",
     "country_code": "LV",
@@ -433,6 +441,22 @@
   },
   {
     "network": "177.1.197.0/24",
+    "asn": "219443",
+    "country_code": "LV",
+    "name": "Daneberg-AS",
+    "org": "Ints Danebergs",
+    "domain": "ascl.sh"
+  },
+  {
+    "network": "191.217.236.0/24",
+    "asn": "219443",
+    "country_code": "LV",
+    "name": "Daneberg-AS",
+    "org": "Ints Danebergs",
+    "domain": "ascl.sh"
+  },
+  {
+    "network": "191.217.242.0/24",
     "asn": "219443",
     "country_code": "LV",
     "name": "Daneberg-AS",
@@ -616,23 +640,7 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "5.181.183.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "5.182.117.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "31.40.250.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -1680,14 +1688,6 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "50.114.163.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "50.114.168.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -1705,14 +1705,6 @@
   },
   {
     "network": "50.114.170.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "62.68.87.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -1744,23 +1736,7 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "62.204.52.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "62.233.56.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "62.233.60.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -1784,31 +1760,7 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "78.17.19.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "78.17.115.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "78.142.216.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "80.68.145.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -1848,14 +1800,6 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "84.21.191.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "85.90.208.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -1865,30 +1809,6 @@
   },
   {
     "network": "85.90.209.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "87.58.220.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "88.214.54.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "88.216.43.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -1928,30 +1848,6 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "89.125.120.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "89.125.129.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "89.125.168.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "89.187.73.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -1969,14 +1865,6 @@
   },
   {
     "network": "89.249.202.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "91.147.121.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -2088,38 +1976,6 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "93.177.104.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "94.143.226.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "95.81.92.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "95.81.117.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "103.101.86.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -2129,14 +1985,6 @@
   },
   {
     "network": "103.104.141.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "104.143.218.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -2184,14 +2032,6 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "128.0.41.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "130.193.79.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -2224,23 +2064,7 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "146.19.137.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "146.19.148.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "146.19.150.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -2528,6 +2352,14 @@
     "domain": "scalaxy.com"
   },
   {
+    "network": "149.33.58.0/24",
+    "asn": "58061",
+    "country_code": "LV",
+    "name": "SCALAXY-AS",
+    "org": "Scalaxy B.V.",
+    "domain": "scalaxy.com"
+  },
+  {
     "network": "159.148.253.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -2632,14 +2464,6 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "166.1.33.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "166.1.63.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -2657,14 +2481,6 @@
   },
   {
     "network": "166.1.79.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "166.1.93.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -2752,14 +2568,6 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "176.101.62.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "176.101.63.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -2801,22 +2609,6 @@
   },
   {
     "network": "185.93.107.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "185.106.95.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "185.109.21.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -2928,14 +2720,6 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "187.5.229.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "188.116.20.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -3032,22 +2816,6 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "193.42.119.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "193.124.91.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "193.178.134.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -3057,14 +2825,6 @@
   },
   {
     "network": "193.243.191.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "194.69.164.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -3097,14 +2857,6 @@
   },
   {
     "network": "194.87.124.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "194.156.94.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -3176,14 +2928,6 @@
     "domain": "scalaxy.com"
   },
   {
-    "network": "195.96.157.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
     "network": "195.133.6.0/24",
     "asn": "58061",
     "country_code": "LV",
@@ -3193,14 +2937,6 @@
   },
   {
     "network": "195.133.85.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "195.226.93.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -3225,14 +2961,6 @@
   },
   {
     "network": "212.52.18.0/24",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "212.107.26.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -3265,14 +2993,6 @@
   },
   {
     "network": "213.142.146.0/23",
-    "asn": "58061",
-    "country_code": "LV",
-    "name": "SCALAXY-AS",
-    "org": "Scalaxy B.V.",
-    "domain": "scalaxy.com"
-  },
-  {
-    "network": "217.114.32.0/24",
     "asn": "58061",
     "country_code": "LV",
     "name": "SCALAXY-AS",
@@ -5560,6 +5280,38 @@
     "domain": "xdaemon.com"
   },
   {
+    "network": "5.230.31.0/24",
+    "asn": "197411",
+    "country_code": "LV",
+    "name": "ALEKSEJS-AS",
+    "org": "Aleksejs Trufans",
+    "domain": "proton.me"
+  },
+  {
+    "network": "77.90.21.0/24",
+    "asn": "197411",
+    "country_code": "LV",
+    "name": "ALEKSEJS-AS",
+    "org": "Aleksejs Trufans",
+    "domain": "proton.me"
+  },
+  {
+    "network": "178.18.144.0/24",
+    "asn": "197411",
+    "country_code": "LV",
+    "name": "ALEKSEJS-AS",
+    "org": "Aleksejs Trufans",
+    "domain": "proton.me"
+  },
+  {
+    "network": "2a02:2fc0:22::/48",
+    "asn": "197411",
+    "country_code": "LV",
+    "name": "ALEKSEJS-AS",
+    "org": "Aleksejs Trufans",
+    "domain": "proton.me"
+  },
+  {
     "network": "5.252.168.0/22",
     "asn": "24921",
     "country_code": "LV",
@@ -6272,6 +6024,14 @@
     "domain": "telenet.lv"
   },
   {
+    "network": "185.220.198.0/24",
+    "asn": "24589",
+    "country_code": "LV",
+    "name": "TELENETSIA-AS",
+    "org": "Telenet SIA",
+    "domain": "telenet.lv"
+  },
+  {
     "network": "193.0.239.0/24",
     "asn": "24589",
     "country_code": "LV",
@@ -6337,6 +6097,14 @@
   },
   {
     "network": "213.110.80.0/20",
+    "asn": "24589",
+    "country_code": "LV",
+    "name": "TELENETSIA-AS",
+    "org": "Telenet SIA",
+    "domain": "telenet.lv"
+  },
+  {
+    "network": "2a01:8ca0::/32",
     "asn": "24589",
     "country_code": "LV",
     "name": "TELENETSIA-AS",
@@ -6480,6 +6248,14 @@
     "domain": ""
   },
   {
+    "network": "31.59.195.0/24",
+    "asn": "201269",
+    "country_code": "LV",
+    "name": "IVANS-AS",
+    "org": "Ivans Lavrentjevs",
+    "domain": ""
+  },
+  {
     "network": "94.183.245.0/24",
     "asn": "201269",
     "country_code": "LV",
@@ -6496,52 +6272,20 @@
     "domain": ""
   },
   {
-    "network": "31.59.165.0/24",
-    "asn": "201861",
+    "network": "151.242.237.0/24",
+    "asn": "201269",
     "country_code": "LV",
-    "name": "GEODEMA-AS",
-    "org": "Aleksejs Pinajevs",
-    "domain": "proton.me"
+    "name": "IVANS-AS",
+    "org": "Ivans Lavrentjevs",
+    "domain": ""
   },
   {
-    "network": "94.183.156.0/24",
-    "asn": "201861",
+    "network": "179.236.133.0/24",
+    "asn": "201269",
     "country_code": "LV",
-    "name": "GEODEMA-AS",
-    "org": "Aleksejs Pinajevs",
-    "domain": "proton.me"
-  },
-  {
-    "network": "94.183.193.0/24",
-    "asn": "201861",
-    "country_code": "LV",
-    "name": "GEODEMA-AS",
-    "org": "Aleksejs Pinajevs",
-    "domain": "proton.me"
-  },
-  {
-    "network": "94.183.199.0/24",
-    "asn": "201861",
-    "country_code": "LV",
-    "name": "GEODEMA-AS",
-    "org": "Aleksejs Pinajevs",
-    "domain": "proton.me"
-  },
-  {
-    "network": "178.95.155.0/24",
-    "asn": "201861",
-    "country_code": "LV",
-    "name": "GEODEMA-AS",
-    "org": "Aleksejs Pinajevs",
-    "domain": "proton.me"
-  },
-  {
-    "network": "217.60.70.0/24",
-    "asn": "201861",
-    "country_code": "LV",
-    "name": "GEODEMA-AS",
-    "org": "Aleksejs Pinajevs",
-    "domain": "proton.me"
+    "name": "IVANS-AS",
+    "org": "Ivans Lavrentjevs",
+    "domain": ""
   },
   {
     "network": "31.76.104.0/24",
@@ -6625,6 +6369,14 @@
   },
   {
     "network": "185.240.107.0/24",
+    "asn": "202280",
+    "country_code": "LV",
+    "name": "skandinetworks",
+    "org": "NBI SIA",
+    "domain": "nbi.lv"
+  },
+  {
+    "network": "212.103.44.0/24",
     "asn": "202280",
     "country_code": "LV",
     "name": "skandinetworks",
@@ -7624,6 +7376,22 @@
     "domain": "podaon.com"
   },
   {
+    "network": "145.63.142.0/24",
+    "asn": "210895",
+    "country_code": "LV",
+    "name": "podaon-pl-1",
+    "org": "Podaon SIA",
+    "domain": "podaon.com"
+  },
+  {
+    "network": "145.63.143.0/24",
+    "asn": "210895",
+    "country_code": "LV",
+    "name": "podaon-pl-1",
+    "org": "Podaon SIA",
+    "domain": "podaon.com"
+  },
+  {
     "network": "185.203.240.0/24",
     "asn": "210895",
     "country_code": "LV",
@@ -7689,6 +7457,22 @@
   },
   {
     "network": "2a13:4ac0:c::/46",
+    "asn": "210895",
+    "country_code": "LV",
+    "name": "podaon-pl-1",
+    "org": "Podaon SIA",
+    "domain": "podaon.com"
+  },
+  {
+    "network": "2a13:4ac0:34::/46",
+    "asn": "210895",
+    "country_code": "LV",
+    "name": "podaon-pl-1",
+    "org": "Podaon SIA",
+    "domain": "podaon.com"
+  },
+  {
+    "network": "2a13:4ac0:38::/46",
     "asn": "210895",
     "country_code": "LV",
     "name": "podaon-pl-1",
@@ -10840,7 +10624,7 @@
     "domain": "telenet.lv"
   },
   {
-    "network": "68.164.58.0/24",
+    "network": "68.164.56.0/24",
     "asn": "198924",
     "country_code": "LV",
     "name": "SUGAILO-AS",
@@ -10848,7 +10632,7 @@
     "domain": "proton.me"
   },
   {
-    "network": "69.33.168.0/24",
+    "network": "68.164.143.0/24",
     "asn": "198924",
     "country_code": "LV",
     "name": "SUGAILO-AS",
@@ -10856,15 +10640,7 @@
     "domain": "proton.me"
   },
   {
-    "network": "94.118.118.0/24",
-    "asn": "198924",
-    "country_code": "LV",
-    "name": "SUGAILO-AS",
-    "org": "Sugailo Raitis",
-    "domain": "proton.me"
-  },
-  {
-    "network": "94.118.152.0/24",
+    "network": "94.118.97.0/24",
     "asn": "198924",
     "country_code": "LV",
     "name": "SUGAILO-AS",
@@ -10950,30 +10726,6 @@
     "name": "VEESP-AS",
     "org": "SIA VEESP",
     "domain": "veesp.com"
-  },
-  {
-    "network": "77.90.21.0/24",
-    "asn": "197411",
-    "country_code": "LV",
-    "name": "ALEKSEJS-AS",
-    "org": "Aleksejs Trufans",
-    "domain": "proton.me"
-  },
-  {
-    "network": "178.18.144.0/24",
-    "asn": "197411",
-    "country_code": "LV",
-    "name": "ALEKSEJS-AS",
-    "org": "Aleksejs Trufans",
-    "domain": "proton.me"
-  },
-  {
-    "network": "2a02:2fc0:22::/48",
-    "asn": "197411",
-    "country_code": "LV",
-    "name": "ALEKSEJS-AS",
-    "org": "Aleksejs Trufans",
-    "domain": "proton.me"
   },
   {
     "network": "77.240.244.0/22",
@@ -11190,6 +10942,22 @@
     "name": "RTU",
     "org": "Rigas Tehniska Universitate",
     "domain": "rtu.lv"
+  },
+  {
+    "network": "79.182.14.0/24",
+    "asn": "218527",
+    "country_code": "LV",
+    "name": "Igors-AS",
+    "org": "Igors Cernavskis",
+    "domain": "glorzomail.com"
+  },
+  {
+    "network": "201.58.153.0/24",
+    "asn": "218527",
+    "country_code": "LV",
+    "name": "Igors-AS",
+    "org": "Igors Cernavskis",
+    "domain": "glorzomail.com"
   },
   {
     "network": "80.70.16.0/20",
@@ -13512,6 +13280,14 @@
     "domain": "nano.lv"
   },
   {
+    "network": "94.183.199.0/24",
+    "asn": "201861",
+    "country_code": "LV",
+    "name": "GEODEMA-AS",
+    "org": "Aleksejs Pinajevs",
+    "domain": "proton.me"
+  },
+  {
     "network": "109.205.126.0/24",
     "asn": "28699",
     "country_code": "LV",
@@ -13597,7 +13373,15 @@
     "country_code": "LV",
     "name": "Anastasia-AS",
     "org": "Anastasia Cernavska",
-    "domain": "glorzomail.com"
+    "domain": "gru1.cloud"
+  },
+  {
+    "network": "151.247.86.0/24",
+    "asn": "218583",
+    "country_code": "LV",
+    "name": "Anastasia-AS",
+    "org": "Anastasia Cernavska",
+    "domain": "gru1.cloud"
   },
   {
     "network": "158.255.56.0/24",
@@ -13808,6 +13592,22 @@
     "domain": "telenet.lv"
   },
   {
+    "network": "177.202.96.0/24",
+    "asn": "218490",
+    "country_code": "LV",
+    "name": "Olegs-AS",
+    "org": "Olegs Cvetkovs",
+    "domain": "gru1.cloud"
+  },
+  {
+    "network": "201.58.150.0/24",
+    "asn": "218490",
+    "country_code": "LV",
+    "name": "Olegs-AS",
+    "org": "Olegs Cvetkovs",
+    "domain": "gru1.cloud"
+  },
+  {
     "network": "178.212.252.0/24",
     "asn": "59658",
     "country_code": "LV",
@@ -13838,6 +13638,14 @@
     "name": "RIGA",
     "org": "Standart AG, LLC",
     "domain": "standart.lv"
+  },
+  {
+    "network": "179.253.175.0/24",
+    "asn": "218517",
+    "country_code": "LV",
+    "name": "Dmitrijs-AS",
+    "org": "Dmitrijs Bolasnikovs",
+    "domain": "gru1.cloud"
   },
   {
     "network": "185.37.100.0/24",
@@ -14521,6 +14329,14 @@
   },
   {
     "network": "2a00:1780:dc00::/40",
+    "asn": "210213",
+    "country_code": "LV",
+    "name": "STATE-ICT-AS",
+    "org": "VAS \"Latvijas Valsts radio un televizijas centrs\"",
+    "domain": "lvrtc.lv"
+  },
+  {
+    "network": "2a14:5680:a006::/48",
     "asn": "210213",
     "country_code": "LV",
     "name": "STATE-ICT-AS",

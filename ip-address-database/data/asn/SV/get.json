@@ -200,7 +200,7 @@
     "domain": "coatl.com.sv"
   },
   {
-    "network": "204.157.224.0/24",
+    "network": "204.157.224.0/22",
     "asn": "271948",
     "country_code": "SV",
     "name": "COATL, S.A. de C.V.",
@@ -305,14 +305,6 @@
   },
   {
     "network": "45.81.127.0/24",
-    "asn": "273171",
-    "country_code": "SV",
-    "name": "SERVICIOS Y ADMINISTRACIÓN DE DATOS Y VIDEO, SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
-    "org": "SERVICIOS Y ADMINISTRACIÓN DE DATOS Y VIDEO, SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
-    "domain": "netone.com.sv"
-  },
-  {
-    "network": "185.240.214.0/24",
     "asn": "273171",
     "country_code": "SV",
     "name": "SERVICIOS Y ADMINISTRACIÓN DE DATOS Y VIDEO, SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
@@ -478,6 +470,14 @@
     "name": "LIBERTY NETWORKS EL SALVADOR SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",
     "org": "LIBERTY NETWORKS EL SALVADOR SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",
     "domain": "libertynet.com"
+  },
+  {
+    "network": "45.161.24.0/22",
+    "asn": "266893",
+    "country_code": "SV",
+    "name": "MULTIMEDIA NETWORK, S.A. DE C.V.",
+    "org": "MULTIMEDIA NETWORK, S.A. DE C.V.",
+    "domain": "multinetcorp.net"
   },
   {
     "network": "45.161.24.0/24",
@@ -5184,14 +5184,6 @@
     "domain": "movistar.com.sv"
   },
   {
-    "network": "190.57.65.0/24",
-    "asn": "12127",
-    "country_code": "SV",
-    "name": "Telefonica Moviles El Salvador S.A. de C.V.",
-    "org": "Telefonica Moviles El Salvador S.A. de C.V.",
-    "domain": "movistar.com.sv"
-  },
-  {
     "network": "190.57.67.0/24",
     "asn": "12127",
     "country_code": "SV",
@@ -5593,6 +5585,14 @@
   },
   {
     "network": "190.57.61.0/24",
+    "asn": "263783",
+    "country_code": "SV",
+    "name": "Telefonica Moviles El Salvador S.A. de C.V.",
+    "org": "Telefonica Moviles El Salvador S.A. de C.V.",
+    "domain": "movistar.com.sv"
+  },
+  {
+    "network": "190.57.65.0/24",
     "asn": "263783",
     "country_code": "SV",
     "name": "Telefonica Moviles El Salvador S.A. de C.V.",
@@ -7544,23 +7544,7 @@
     "domain": "osinearshore.com"
   },
   {
-    "network": "170.239.236.0/23",
-    "asn": "264813",
-    "country_code": "SV",
-    "name": "Outsourcing Services International",
-    "org": "Outsourcing Services International",
-    "domain": "osinearshore.com"
-  },
-  {
     "network": "170.239.238.0/23",
-    "asn": "264813",
-    "country_code": "SV",
-    "name": "Outsourcing Services International",
-    "org": "Outsourcing Services International",
-    "domain": "osinearshore.com"
-  },
-  {
-    "network": "2803:6cc0::/32",
     "asn": "264813",
     "country_code": "SV",
     "name": "Outsourcing Services International",

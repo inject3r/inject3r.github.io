@@ -2648,14 +2648,6 @@
     "domain": ""
   },
   {
-    "network": "218.208.160.0/19",
-    "asn": "4788",
-    "country_code": "MY",
-    "name": "TTSSB-MY",
-    "org": "TM TECHNOLOGY SERVICES SDN BHD",
-    "domain": ""
-  },
-  {
     "network": "218.208.192.0/18",
     "asn": "4788",
     "country_code": "MY",
@@ -5888,6 +5880,14 @@
     "domain": "ytlcomms.my"
   },
   {
+    "network": "77.111.108.0/24",
+    "asn": "45960",
+    "country_code": "MY",
+    "name": "YTLCOMMS-AS-AP",
+    "org": "YTL Communications Sdn Bhd",
+    "domain": "ytlcomms.my"
+  },
+  {
     "network": "103.1.68.0/22",
     "asn": "45960",
     "country_code": "MY",
@@ -6025,6 +6025,14 @@
   },
   {
     "network": "183.78.4.0/24",
+    "asn": "45960",
+    "country_code": "MY",
+    "name": "YTLCOMMS-AS-AP",
+    "org": "YTL Communications Sdn Bhd",
+    "domain": "ytlcomms.my"
+  },
+  {
+    "network": "183.78.5.0/24",
     "asn": "45960",
     "country_code": "MY",
     "name": "YTLCOMMS-AS-AP",
@@ -6545,14 +6553,6 @@
   },
   {
     "network": "14.192.64.0/24",
-    "asn": "45352",
-    "country_code": "MY",
-    "name": "IPSERVERONE-AS-AP",
-    "org": "IP ServerOne Solutions Sdn Bhd",
-    "domain": "ipserverone.com"
-  },
-  {
-    "network": "14.192.65.0/24",
     "asn": "45352",
     "country_code": "MY",
     "name": "IPSERVERONE-AS-AP",
@@ -8032,14 +8032,6 @@
     "domain": "ipserverone.com"
   },
   {
-    "network": "2403:1cc0:4101::/48",
-    "asn": "45352",
-    "country_code": "MY",
-    "name": "IPSERVERONE-AS-AP",
-    "org": "IP ServerOne Solutions Sdn Bhd",
-    "domain": "ipserverone.com"
-  },
-  {
     "network": "2403:1cc0:5201::/48",
     "asn": "45352",
     "country_code": "MY",
@@ -8784,6 +8776,14 @@
     "domain": "evoxt.com"
   },
   {
+    "network": "23.26.251.0/24",
+    "asn": "149440",
+    "country_code": "MY",
+    "name": "EVOXTSDNBHD-AS-AP",
+    "org": "Evoxt Sdn. Bhd.",
+    "domain": "evoxt.com"
+  },
+  {
     "network": "23.27.0.0/24",
     "asn": "149440",
     "country_code": "MY",
@@ -8929,6 +8929,14 @@
   },
   {
     "network": "23.27.96.0/24",
+    "asn": "149440",
+    "country_code": "MY",
+    "name": "EVOXTSDNBHD-AS-AP",
+    "org": "Evoxt Sdn. Bhd.",
+    "domain": "evoxt.com"
+  },
+  {
+    "network": "23.27.97.0/24",
     "asn": "149440",
     "country_code": "MY",
     "name": "EVOXTSDNBHD-AS-AP",
@@ -10312,6 +10320,14 @@
     "domain": "evoxt.com"
   },
   {
+    "network": "2400:8d60:19::/48",
+    "asn": "149440",
+    "country_code": "MY",
+    "name": "EVOXTSDNBHD-AS-AP",
+    "org": "Evoxt Sdn. Bhd.",
+    "domain": "evoxt.com"
+  },
+  {
     "network": "23.156.132.0/24",
     "asn": "24062",
     "country_code": "MY",
@@ -10568,6 +10584,22 @@
     "domain": "u.com.my"
   },
   {
+    "network": "27.125.224.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "27.125.225.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
     "network": "27.125.240.0/24",
     "asn": "38466",
     "country_code": "MY",
@@ -10664,6 +10696,30 @@
     "domain": "u.com.my"
   },
   {
+    "network": "27.125.252.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "27.125.253.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "27.125.254.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
     "network": "66.23.160.0/19",
     "asn": "38466",
     "country_code": "MY",
@@ -10672,7 +10728,159 @@
     "domain": "u.com.my"
   },
   {
+    "network": "66.23.160.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.161.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.162.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.163.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.164.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.165.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.166.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.167.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.168.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.169.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.170.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.171.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.172.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.173.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "66.23.174.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
     "network": "103.1.144.0/22",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "103.1.144.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "103.1.145.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "103.1.146.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "103.1.147.0/24",
     "asn": "38466",
     "country_code": "MY",
     "name": "UMOBILE-AS-AP",
@@ -10720,6 +10928,14 @@
     "domain": "u.com.my"
   },
   {
+    "network": "123.136.104.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
     "network": "123.136.105.0/24",
     "asn": "38466",
     "country_code": "MY",
@@ -10729,6 +10945,14 @@
   },
   {
     "network": "123.136.106.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "123.136.110.0/24",
     "asn": "38466",
     "country_code": "MY",
     "name": "UMOBILE-AS-AP",
@@ -11824,6 +12048,14 @@
     "domain": "ks-itsolutions.com"
   },
   {
+    "network": "103.95.32.0/24",
+    "asn": "136749",
+    "country_code": "MY",
+    "name": "KS-AS-AP",
+    "org": "KS IT SOLUTIONS SDN BHD",
+    "domain": "ks-itsolutions.com"
+  },
+  {
     "network": "103.95.33.0/24",
     "asn": "136749",
     "country_code": "MY",
@@ -12744,14 +12976,6 @@
     "domain": "astro.com.my"
   },
   {
-    "network": "2401:e120:104f::/48",
-    "asn": "56231",
-    "country_code": "MY",
-    "name": "ASTRO-MY-AS-AP",
-    "org": "MEASAT Broadcast Network Systems Sdn. Bhd.",
-    "domain": "astro.com.my"
-  },
-  {
     "network": "2401:e120:1055::/48",
     "asn": "56231",
     "country_code": "MY",
@@ -13305,14 +13529,6 @@
   },
   {
     "network": "2401:e120:2043::/48",
-    "asn": "56231",
-    "country_code": "MY",
-    "name": "ASTRO-MY-AS-AP",
-    "org": "MEASAT Broadcast Network Systems Sdn. Bhd.",
-    "domain": "astro.com.my"
-  },
-  {
-    "network": "2401:e120:204f::/48",
     "asn": "56231",
     "country_code": "MY",
     "name": "ASTRO-MY-AS-AP",
@@ -14176,6 +14392,30 @@
     "domain": "greatforti.com"
   },
   {
+    "network": "45.86.244.0/24",
+    "asn": "133847",
+    "country_code": "MY",
+    "name": "ICT-AS-AP",
+    "org": "Anpple Tech Enterprise",
+    "domain": "greatforti.com"
+  },
+  {
+    "network": "45.95.97.0/24",
+    "asn": "133847",
+    "country_code": "MY",
+    "name": "ICT-AS-AP",
+    "org": "Anpple Tech Enterprise",
+    "domain": "greatforti.com"
+  },
+  {
+    "network": "45.130.128.0/24",
+    "asn": "133847",
+    "country_code": "MY",
+    "name": "ICT-AS-AP",
+    "org": "Anpple Tech Enterprise",
+    "domain": "greatforti.com"
+  },
+  {
     "network": "45.200.64.0/20",
     "asn": "133847",
     "country_code": "MY",
@@ -14784,6 +15024,14 @@
     "domain": "greatforti.com"
   },
   {
+    "network": "103.207.73.0/24",
+    "asn": "133847",
+    "country_code": "MY",
+    "name": "ICT-AS-AP",
+    "org": "Anpple Tech Enterprise",
+    "domain": "greatforti.com"
+  },
+  {
     "network": "103.207.74.0/24",
     "asn": "133847",
     "country_code": "MY",
@@ -15065,6 +15313,22 @@
   },
   {
     "network": "154.83.112.0/24",
+    "asn": "133847",
+    "country_code": "MY",
+    "name": "ICT-AS-AP",
+    "org": "Anpple Tech Enterprise",
+    "domain": "greatforti.com"
+  },
+  {
+    "network": "154.89.2.0/24",
+    "asn": "133847",
+    "country_code": "MY",
+    "name": "ICT-AS-AP",
+    "org": "Anpple Tech Enterprise",
+    "domain": "greatforti.com"
+  },
+  {
+    "network": "154.89.3.0/24",
     "asn": "133847",
     "country_code": "MY",
     "name": "ICT-AS-AP",
@@ -15576,6 +15840,14 @@
     "domain": "greatforti.com"
   },
   {
+    "network": "185.164.59.0/24",
+    "asn": "133847",
+    "country_code": "MY",
+    "name": "ICT-AS-AP",
+    "org": "Anpple Tech Enterprise",
+    "domain": "greatforti.com"
+  },
+  {
     "network": "205.198.0.0/19",
     "asn": "133847",
     "country_code": "MY",
@@ -15848,6 +16120,14 @@
     "domain": "greatforti.com"
   },
   {
+    "network": "208.81.118.0/24",
+    "asn": "133847",
+    "country_code": "MY",
+    "name": "ICT-AS-AP",
+    "org": "Anpple Tech Enterprise",
+    "domain": "greatforti.com"
+  },
+  {
     "network": "208.81.119.0/24",
     "asn": "133847",
     "country_code": "MY",
@@ -15928,22 +16208,6 @@
     "domain": "eworld.com.my"
   },
   {
-    "network": "45.117.228.0/24",
-    "asn": "134202",
-    "country_code": "MY",
-    "name": "EWORLD-AS-AP",
-    "org": "E-WORLD COMMUNICATION SDN BHD",
-    "domain": "eworld.com.my"
-  },
-  {
-    "network": "45.117.229.0/24",
-    "asn": "134202",
-    "country_code": "MY",
-    "name": "EWORLD-AS-AP",
-    "org": "E-WORLD COMMUNICATION SDN BHD",
-    "domain": "eworld.com.my"
-  },
-  {
     "network": "45.117.231.0/24",
     "asn": "134202",
     "country_code": "MY",
@@ -15961,30 +16225,6 @@
   },
   {
     "network": "103.58.16.0/22",
-    "asn": "134202",
-    "country_code": "MY",
-    "name": "EWORLD-AS-AP",
-    "org": "E-WORLD COMMUNICATION SDN BHD",
-    "domain": "eworld.com.my"
-  },
-  {
-    "network": "103.58.16.0/24",
-    "asn": "134202",
-    "country_code": "MY",
-    "name": "EWORLD-AS-AP",
-    "org": "E-WORLD COMMUNICATION SDN BHD",
-    "domain": "eworld.com.my"
-  },
-  {
-    "network": "103.58.17.0/24",
-    "asn": "134202",
-    "country_code": "MY",
-    "name": "EWORLD-AS-AP",
-    "org": "E-WORLD COMMUNICATION SDN BHD",
-    "domain": "eworld.com.my"
-  },
-  {
-    "network": "103.58.18.0/24",
     "asn": "134202",
     "country_code": "MY",
     "name": "EWORLD-AS-AP",
@@ -16560,23 +16800,23 @@
     "domain": "stackpork.com"
   },
   {
-    "network": "43.231.72.0/24",
-    "asn": "56229",
+    "network": "2402:7fa0:1000::/36",
+    "asn": "153706",
     "country_code": "MY",
-    "name": "LNS8-MY",
-    "org": "LightsUp Network Solution Sdn. Bhd.",
-    "domain": "lns.com.my"
+    "name": "STACKNETWORK-AS-AP",
+    "org": "Stack Network Sdn. Bhd.",
+    "domain": "stackpork.com"
+  },
+  {
+    "network": "2402:7fa0:2000::/36",
+    "asn": "153706",
+    "country_code": "MY",
+    "name": "STACKNETWORK-AS-AP",
+    "org": "Stack Network Sdn. Bhd.",
+    "domain": "stackpork.com"
   },
   {
     "network": "43.231.73.0/24",
-    "asn": "56229",
-    "country_code": "MY",
-    "name": "LNS8-MY",
-    "org": "LightsUp Network Solution Sdn. Bhd.",
-    "domain": "lns.com.my"
-  },
-  {
-    "network": "43.231.74.0/24",
     "asn": "56229",
     "country_code": "MY",
     "name": "LNS8-MY",
@@ -16857,6 +17097,14 @@
   },
   {
     "network": "203.115.211.0/24",
+    "asn": "10204",
+    "country_code": "MY",
+    "name": "ARCNET-NTTMSC-MY",
+    "org": "NTT MSC Sdn Bhd",
+    "domain": "global.ntt"
+  },
+  {
+    "network": "203.115.223.0/24",
     "asn": "10204",
     "country_code": "MY",
     "name": "ARCNET-NTTMSC-MY",
@@ -20256,6 +20504,174 @@
     "domain": "i-skill.com"
   },
   {
+    "network": "45.155.242.0/24",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "77.216.0.0/24",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "89.23.82.0/24",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "172.83.188.0/24",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab1::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab2::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab3::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab4::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab5::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab6::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab7::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab8::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab9::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:babc::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a12:cb43::/36",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "45.197.68.0/24",
+    "asn": "154711",
+    "country_code": "MY",
+    "name": "ANYLINKNET-AS-AP",
+    "org": "ANYLINK NET SDN. BHD.",
+    "domain": "anylink.my"
+  },
+  {
+    "network": "45.204.76.0/24",
+    "asn": "154711",
+    "country_code": "MY",
+    "name": "ANYLINKNET-AS-AP",
+    "org": "ANYLINK NET SDN. BHD.",
+    "domain": "anylink.my"
+  },
+  {
+    "network": "45.204.77.0/24",
+    "asn": "154711",
+    "country_code": "MY",
+    "name": "ANYLINKNET-AS-AP",
+    "org": "ANYLINK NET SDN. BHD.",
+    "domain": "anylink.my"
+  },
+  {
+    "network": "85.189.60.0/24",
+    "asn": "154711",
+    "country_code": "MY",
+    "name": "ANYLINKNET-AS-AP",
+    "org": "ANYLINK NET SDN. BHD.",
+    "domain": "anylink.my"
+  },
+  {
+    "network": "85.189.82.0/24",
+    "asn": "154711",
+    "country_code": "MY",
+    "name": "ANYLINKNET-AS-AP",
+    "org": "ANYLINK NET SDN. BHD.",
+    "domain": "anylink.my"
+  },
+  {
+    "network": "160.236.38.0/23",
+    "asn": "154711",
+    "country_code": "MY",
+    "name": "ANYLINKNET-AS-AP",
+    "org": "ANYLINK NET SDN. BHD.",
+    "domain": "anylink.my"
+  },
+  {
     "network": "45.200.86.0/23",
     "asn": "148994",
     "country_code": "MY",
@@ -20462,46 +20878,6 @@
     "name": "JHSB-AS-AP",
     "org": "JENEXUS HOLDING SDN BHD",
     "domain": "jenexusholding.com"
-  },
-  {
-    "network": "45.204.76.0/24",
-    "asn": "154711",
-    "country_code": "MY",
-    "name": "ANYLINKNET-AS-AP",
-    "org": "ANYLINK NET SDN. BHD.",
-    "domain": "anylink.my"
-  },
-  {
-    "network": "45.204.77.0/24",
-    "asn": "154711",
-    "country_code": "MY",
-    "name": "ANYLINKNET-AS-AP",
-    "org": "ANYLINK NET SDN. BHD.",
-    "domain": "anylink.my"
-  },
-  {
-    "network": "85.189.60.0/24",
-    "asn": "154711",
-    "country_code": "MY",
-    "name": "ANYLINKNET-AS-AP",
-    "org": "ANYLINK NET SDN. BHD.",
-    "domain": "anylink.my"
-  },
-  {
-    "network": "85.189.82.0/24",
-    "asn": "154711",
-    "country_code": "MY",
-    "name": "ANYLINKNET-AS-AP",
-    "org": "ANYLINK NET SDN. BHD.",
-    "domain": "anylink.my"
-  },
-  {
-    "network": "160.236.38.0/23",
-    "asn": "154711",
-    "country_code": "MY",
-    "name": "ANYLINKNET-AS-AP",
-    "org": "ANYLINK NET SDN. BHD.",
-    "domain": "anylink.my"
   },
   {
     "network": "45.249.91.0/24",
@@ -21449,14 +21825,6 @@
   },
   {
     "network": "202.71.101.0/24",
-    "asn": "18206",
-    "country_code": "MY",
-    "name": "TTSSB-MY",
-    "org": "TM TECHNOLOGY SERVICES SDN BHD",
-    "domain": "tmone.com.my"
-  },
-  {
-    "network": "202.75.33.0/24",
     "asn": "18206",
     "country_code": "MY",
     "name": "TTSSB-MY",
@@ -23296,6 +23664,14 @@
     "domain": "nebula-sys.com"
   },
   {
+    "network": "103.110.230.0/24",
+    "asn": "147040",
+    "country_code": "MY",
+    "name": "NEBULA-AS-AP",
+    "org": "NEBULA SYSTEMS SDN BHD",
+    "domain": "nebula-sys.com"
+  },
+  {
     "network": "103.173.114.0/23",
     "asn": "147040",
     "country_code": "MY",
@@ -23689,6 +24065,14 @@
   },
   {
     "network": "151.245.110.0/24",
+    "asn": "132372",
+    "country_code": "MY",
+    "name": "GBNETWORK-AS-AP",
+    "org": "GB Network Solutions Sdn. Bhd.",
+    "domain": "gbnetwork.my"
+  },
+  {
+    "network": "151.246.162.0/24",
     "asn": "132372",
     "country_code": "MY",
     "name": "GBNETWORK-AS-AP",
@@ -24568,6 +24952,14 @@
     "domain": "ixtelecom.net"
   },
   {
+    "network": "2403:1300:8004::/48",
+    "asn": "56286",
+    "country_code": "MY",
+    "name": "IXTELECOM-MY",
+    "org": "IX Telecom SDN. BHD.",
+    "domain": "ixtelecom.net"
+  },
+  {
     "network": "85.137.16.0/23",
     "asn": "132625",
     "country_code": "MY",
@@ -24638,22 +25030,6 @@
     "name": "SVR4U-AS",
     "org": "BRANDON MAXWELL LOOI",
     "domain": "svr4u.com"
-  },
-  {
-    "network": "89.23.82.0/24",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:bab1::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
   },
   {
     "network": "102.204.222.0/24",
@@ -26744,14 +27120,6 @@
     "domain": "maxis.com.my"
   },
   {
-    "network": "2405:3240::/36",
-    "asn": "132434",
-    "country_code": "MY",
-    "name": "MAXIS-AS2-AP",
-    "org": "Maxis Broadband Sdn Bhd",
-    "domain": "maxis.com.my"
-  },
-  {
     "network": "103.22.148.0/24",
     "asn": "131330",
     "country_code": "MY",
@@ -26929,6 +27297,270 @@
   },
   {
     "network": "138.252.107.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.224.0/19",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.224.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.225.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.226.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.227.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.228.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.229.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.230.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.231.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.232.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.233.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.234.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.235.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.236.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.237.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.238.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.239.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.240.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.241.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.242.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.243.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.244.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.245.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.246.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.247.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.248.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.249.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.250.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.251.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.252.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.253.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.254.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "152.175.255.0/24",
     "asn": "154321",
     "country_code": "MY",
     "name": "CCSB-AS-AP",
@@ -27529,14 +28161,6 @@
   },
   {
     "network": "191.40.47.0/24",
-    "asn": "154321",
-    "country_code": "MY",
-    "name": "CCSB-AS-AP",
-    "org": "CORENET CLOUD SDN. BHD.",
-    "domain": "corenetcloud.com"
-  },
-  {
-    "network": "198.44.170.0/24",
     "asn": "154321",
     "country_code": "MY",
     "name": "CCSB-AS-AP",
@@ -28992,6 +29616,14 @@
     "domain": "xmt.com.my"
   },
   {
+    "network": "202.68.124.0/22",
+    "asn": "134152",
+    "country_code": "MY",
+    "name": "XTSB-AS-AP",
+    "org": "XMT Technologies Sdn Bhd",
+    "domain": "xmt.com.my"
+  },
+  {
     "network": "2403:2540::/32",
     "asn": "134152",
     "country_code": "MY",
@@ -29481,6 +30113,14 @@
   },
   {
     "network": "103.133.192.0/24",
+    "asn": "38868",
+    "country_code": "MY",
+    "name": "UPM-AS-AP",
+    "org": "UNIVERSITI PUTRA MALAYSIA",
+    "domain": "upm.edu.my"
+  },
+  {
+    "network": "103.133.193.0/24",
     "asn": "38868",
     "country_code": "MY",
     "name": "UPM-AS-AP",
@@ -30096,14 +30736,6 @@
     "domain": "sea.com"
   },
   {
-    "network": "103.165.164.0/24",
-    "asn": "134168",
-    "country_code": "MY",
-    "name": "CBSMSB-AS-AP",
-    "org": "Conduent Business Services Malaysia Sdn. Bhd",
-    "domain": "conduent.com"
-  },
-  {
     "network": "103.167.117.0/24",
     "asn": "142288",
     "country_code": "MY",
@@ -30134,14 +30766,6 @@
     "name": "NEXWORKS-AS-AP",
     "org": "NEXWORKS COMMUNICATIONS SDN. BHD.",
     "domain": "nexworks.com.my"
-  },
-  {
-    "network": "103.170.171.0/24",
-    "asn": "142607",
-    "country_code": "MY",
-    "name": "SIZAF-AS-AP",
-    "org": "Sizaf InfoComm SDN. BHD.",
-    "domain": "sizaf.com"
   },
   {
     "network": "103.170.206.0/23",
@@ -30752,6 +31376,14 @@
     "domain": "i-sentrix.com"
   },
   {
+    "network": "202.171.40.0/24",
+    "asn": "23659",
+    "country_code": "MY",
+    "name": "HEITECH-AS-AP",
+    "org": "HeiTech Padu Bhd.",
+    "domain": "i-sentrix.com"
+  },
+  {
     "network": "202.171.41.0/24",
     "asn": "23659",
     "country_code": "MY",
@@ -30769,6 +31401,14 @@
   },
   {
     "network": "202.171.43.0/24",
+    "asn": "23659",
+    "country_code": "MY",
+    "name": "HEITECH-AS-AP",
+    "org": "HeiTech Padu Bhd.",
+    "domain": "i-sentrix.com"
+  },
+  {
+    "network": "202.171.44.0/24",
     "asn": "23659",
     "country_code": "MY",
     "name": "HEITECH-AS-AP",
@@ -31105,6 +31745,22 @@
   },
   {
     "network": "153.76.236.0/22",
+    "asn": "24321",
+    "country_code": "MY",
+    "name": "OCENET-AS-AP",
+    "org": "Optical Communication Engineering Sdn Bhd",
+    "domain": "ocesb.com.my"
+  },
+  {
+    "network": "161.248.9.0/24",
+    "asn": "24321",
+    "country_code": "MY",
+    "name": "OCENET-AS-AP",
+    "org": "Optical Communication Engineering Sdn Bhd",
+    "domain": "ocesb.com.my"
+  },
+  {
+    "network": "202.73.8.0/22",
     "asn": "24321",
     "country_code": "MY",
     "name": "OCENET-AS-AP",
@@ -31728,6 +32384,78 @@
     "domain": "allo.my"
   },
   {
+    "network": "2401:b780:68::/48",
+    "asn": "45410",
+    "country_code": "MY",
+    "name": "ALLOTECH-AS-MY",
+    "org": "ALLO TECHNOLOGY SDN. BHD.",
+    "domain": "allo.my"
+  },
+  {
+    "network": "2401:b780:69::/48",
+    "asn": "45410",
+    "country_code": "MY",
+    "name": "ALLOTECH-AS-MY",
+    "org": "ALLO TECHNOLOGY SDN. BHD.",
+    "domain": "allo.my"
+  },
+  {
+    "network": "2401:b780:2000::/48",
+    "asn": "45410",
+    "country_code": "MY",
+    "name": "ALLOTECH-AS-MY",
+    "org": "ALLO TECHNOLOGY SDN. BHD.",
+    "domain": "allo.my"
+  },
+  {
+    "network": "2401:b780:5000::/48",
+    "asn": "45410",
+    "country_code": "MY",
+    "name": "ALLOTECH-AS-MY",
+    "org": "ALLO TECHNOLOGY SDN. BHD.",
+    "domain": "allo.my"
+  },
+  {
+    "network": "2401:b780:5002::/48",
+    "asn": "45410",
+    "country_code": "MY",
+    "name": "ALLOTECH-AS-MY",
+    "org": "ALLO TECHNOLOGY SDN. BHD.",
+    "domain": "allo.my"
+  },
+  {
+    "network": "2401:b780:5003::/48",
+    "asn": "45410",
+    "country_code": "MY",
+    "name": "ALLOTECH-AS-MY",
+    "org": "ALLO TECHNOLOGY SDN. BHD.",
+    "domain": "allo.my"
+  },
+  {
+    "network": "2401:b780:5010::/48",
+    "asn": "45410",
+    "country_code": "MY",
+    "name": "ALLOTECH-AS-MY",
+    "org": "ALLO TECHNOLOGY SDN. BHD.",
+    "domain": "allo.my"
+  },
+  {
+    "network": "2401:b780:5011::/48",
+    "asn": "45410",
+    "country_code": "MY",
+    "name": "ALLOTECH-AS-MY",
+    "org": "ALLO TECHNOLOGY SDN. BHD.",
+    "domain": "allo.my"
+  },
+  {
+    "network": "2401:b780:5012::/48",
+    "asn": "45410",
+    "country_code": "MY",
+    "name": "ALLOTECH-AS-MY",
+    "org": "ALLO TECHNOLOGY SDN. BHD.",
+    "domain": "allo.my"
+  },
+  {
     "network": "163.223.158.0/23",
     "asn": "153710",
     "country_code": "MY",
@@ -31873,30 +32601,6 @@
   },
   {
     "network": "182.255.20.0/22",
-    "asn": "55520",
-    "country_code": "MY",
-    "name": "GENTINGMALAYSIA-AS-AP",
-    "org": "Genting Malaysia Berhad",
-    "domain": "rwgenting.com"
-  },
-  {
-    "network": "182.255.20.0/24",
-    "asn": "55520",
-    "country_code": "MY",
-    "name": "GENTINGMALAYSIA-AS-AP",
-    "org": "Genting Malaysia Berhad",
-    "domain": "rwgenting.com"
-  },
-  {
-    "network": "182.255.22.0/24",
-    "asn": "55520",
-    "country_code": "MY",
-    "name": "GENTINGMALAYSIA-AS-AP",
-    "org": "Genting Malaysia Berhad",
-    "domain": "rwgenting.com"
-  },
-  {
-    "network": "182.255.23.0/24",
     "asn": "55520",
     "country_code": "MY",
     "name": "GENTINGMALAYSIA-AS-AP",
@@ -32496,6 +33200,14 @@
     "domain": "usm.my"
   },
   {
+    "network": "202.170.54.0/23",
+    "asn": "24090",
+    "country_code": "MY",
+    "name": "UNISAINS-AS-AP",
+    "org": "Universiti Sains Malaysia",
+    "domain": "usm.my"
+  },
+  {
     "network": "202.170.56.0/21",
     "asn": "24090",
     "country_code": "MY",
@@ -32833,6 +33545,14 @@
   },
   {
     "network": "203.217.128.0/23",
+    "asn": "45810",
+    "country_code": "MY",
+    "name": "UNMC-MY",
+    "org": "University of Nottingham Malaysia Campus",
+    "domain": "nottingham.edu.my"
+  },
+  {
+    "network": "203.217.129.0/24",
     "asn": "45810",
     "country_code": "MY",
     "name": "UNMC-MY",
@@ -33360,6 +34080,14 @@
     "domain": "chong601.cloud"
   },
   {
+    "network": "2a01:a40::/29",
+    "asn": "198010",
+    "country_code": "MY",
+    "name": "TelecomMalaysia",
+    "org": "KINHOSHI COMMUNICATION SDN. BHD",
+    "domain": ""
+  },
+  {
     "network": "2a01:e281:aa00::/40",
     "asn": "207852",
     "country_code": "MY",
@@ -33400,6 +34128,38 @@
     "domain": "y525.net"
   },
   {
+    "network": "2a01:e281:aac1::/48",
+    "asn": "207852",
+    "country_code": "MY",
+    "name": "Y525-Network",
+    "org": "Yonghan Ching",
+    "domain": "y525.net"
+  },
+  {
+    "network": "2a01:e281:aac2::/48",
+    "asn": "207852",
+    "country_code": "MY",
+    "name": "Y525-Network",
+    "org": "Yonghan Ching",
+    "domain": "y525.net"
+  },
+  {
+    "network": "2a01:e281:aac3::/48",
+    "asn": "207852",
+    "country_code": "MY",
+    "name": "Y525-Network",
+    "org": "Yonghan Ching",
+    "domain": "y525.net"
+  },
+  {
+    "network": "2a01:e281:aac4::/48",
+    "asn": "207852",
+    "country_code": "MY",
+    "name": "Y525-Network",
+    "org": "Yonghan Ching",
+    "domain": "y525.net"
+  },
+  {
     "network": "2a06:a005:4b0::/44",
     "asn": "207852",
     "country_code": "MY",
@@ -33424,12 +34184,52 @@
     "domain": "y525.net"
   },
   {
+    "network": "2a06:a005:4b3::/48",
+    "asn": "207852",
+    "country_code": "MY",
+    "name": "Y525-Network",
+    "org": "Yonghan Ching",
+    "domain": "y525.net"
+  },
+  {
     "network": "2a0e:b107:270::/48",
     "asn": "207852",
     "country_code": "MY",
     "name": "Y525-Network",
     "org": "Yonghan Ching",
     "domain": "y525.net"
+  },
+  {
+    "network": "2a0c:9a40:8b60::/48",
+    "asn": "198679",
+    "country_code": "MY",
+    "name": "MRF",
+    "org": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
+    "domain": "makan.cc"
+  },
+  {
+    "network": "2a0f:6284:74::/48",
+    "asn": "198679",
+    "country_code": "MY",
+    "name": "MRF",
+    "org": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
+    "domain": "makan.cc"
+  },
+  {
+    "network": "2a0f:6284:75::/48",
+    "asn": "198679",
+    "country_code": "MY",
+    "name": "MRF",
+    "org": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
+    "domain": "makan.cc"
+  },
+  {
+    "network": "2a0f:6284:77::/48",
+    "asn": "198679",
+    "country_code": "MY",
+    "name": "MRF",
+    "org": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
+    "domain": "makan.cc"
   },
   {
     "network": "2a0f:1cc5:3100::/48",
@@ -33462,46 +34262,6 @@
     "name": "SHENMING-AS",
     "org": "Ch'ng Shen Ming",
     "domain": "shenming.my"
-  },
-  {
-    "network": "2a0f:6284:71::/48",
-    "asn": "198679",
-    "country_code": "MY",
-    "name": "RADZI",
-    "org": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
-    "domain": "makan.cc"
-  },
-  {
-    "network": "2a0f:6284:72::/48",
-    "asn": "198679",
-    "country_code": "MY",
-    "name": "RADZI",
-    "org": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
-    "domain": "makan.cc"
-  },
-  {
-    "network": "2a0f:6284:73::/48",
-    "asn": "198679",
-    "country_code": "MY",
-    "name": "RADZI",
-    "org": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
-    "domain": "makan.cc"
-  },
-  {
-    "network": "2a0f:6284:75::/48",
-    "asn": "198679",
-    "country_code": "MY",
-    "name": "RADZI",
-    "org": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
-    "domain": "makan.cc"
-  },
-  {
-    "network": "2a0f:6284:77::/48",
-    "asn": "198679",
-    "country_code": "MY",
-    "name": "RADZI",
-    "org": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
-    "domain": "makan.cc"
   },
   {
     "network": "2a13:a5c7:2000::/48",

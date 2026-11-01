@@ -1,6 +1,14 @@
 [
   {
-    "network": "45.179.106.0/23",
+    "network": "45.179.106.0/24",
+    "asn": "271024",
+    "country_code": "BR",
+    "name": "WLNET TELECON",
+    "org": "WLNET TELECON",
+    "domain": "wlnet.net.br"
+  },
+  {
+    "network": "45.179.107.0/24",
     "asn": "271024",
     "country_code": "BR",
     "name": "WLNET TELECON",
@@ -56,7 +64,15 @@
     "domain": "wlnet.net.br"
   },
   {
-    "network": "2804:751c:2000::/39",
+    "network": "2804:751c:2000::/40",
+    "asn": "271024",
+    "country_code": "BR",
+    "name": "WLNET TELECON",
+    "org": "WLNET TELECON",
+    "domain": "wlnet.net.br"
+  },
+  {
+    "network": "2804:751c:2100::/40",
     "asn": "271024",
     "country_code": "BR",
     "name": "WLNET TELECON",

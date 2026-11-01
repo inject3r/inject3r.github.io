@@ -656,7 +656,15 @@
     "domain": "worldphone.in"
   },
   {
-    "network": "103.162.196.0/23",
+    "network": "103.162.196.0/24",
+    "asn": "18002",
+    "country_code": "IN",
+    "name": "WORLDPHONE-IN",
+    "org": "AS Number for Interdomain Routing",
+    "domain": "worldphone.in"
+  },
+  {
+    "network": "103.162.197.0/24",
     "asn": "18002",
     "country_code": "IN",
     "name": "WORLDPHONE-IN",
@@ -665,6 +673,14 @@
   },
   {
     "network": "103.173.200.0/24",
+    "asn": "18002",
+    "country_code": "IN",
+    "name": "WORLDPHONE-IN",
+    "org": "AS Number for Interdomain Routing",
+    "domain": "worldphone.in"
+  },
+  {
+    "network": "103.184.73.0/24",
     "asn": "18002",
     "country_code": "IN",
     "name": "WORLDPHONE-IN",

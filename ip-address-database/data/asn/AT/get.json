@@ -1728,6 +1728,14 @@
     "domain": "anexia.at"
   },
   {
+    "network": "185.116.98.0/24",
+    "asn": "42473",
+    "country_code": "AT",
+    "name": "AS-ANEXIA",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
     "network": "185.116.99.0/24",
     "asn": "42473",
     "country_code": "AT",
@@ -2193,14 +2201,6 @@
   },
   {
     "network": "212.32.27.0/24",
-    "asn": "42473",
-    "country_code": "AT",
-    "name": "AS-ANEXIA",
-    "org": "Anexia Cloud Solutions GmbH",
-    "domain": "anexia.at"
-  },
-  {
-    "network": "213.227.161.0/24",
     "asn": "42473",
     "country_code": "AT",
     "name": "AS-ANEXIA",
@@ -4208,6 +4208,14 @@
     "domain": "ecomdata.de"
   },
   {
+    "network": "38.27.38.0/24",
+    "asn": "211582",
+    "country_code": "AT",
+    "name": "ecomDATA-AS",
+    "org": "ecomDATA GmbH",
+    "domain": "ecomdata.de"
+  },
+  {
     "network": "80.243.224.0/22",
     "asn": "211582",
     "country_code": "AT",
@@ -4273,6 +4281,14 @@
   },
   {
     "network": "2a10:b040:5::/48",
+    "asn": "211582",
+    "country_code": "AT",
+    "name": "ecomDATA-AS",
+    "org": "ecomDATA GmbH",
+    "domain": "ecomdata.de"
+  },
+  {
+    "network": "2a10:b040:100::/48",
     "asn": "211582",
     "country_code": "AT",
     "name": "ecomDATA-AS",
@@ -4350,6 +4366,22 @@
     "name": "Ryzehosting",
     "org": "Finn Hess trading as Ryzehosting",
     "domain": "ryzehosting.com"
+  },
+  {
+    "network": "5.83.158.0/24",
+    "asn": "218500",
+    "country_code": "AT",
+    "name": "Krottisrv-Wartenstein",
+    "org": "David Trolp",
+    "domain": "wartenstein.com"
+  },
+  {
+    "network": "2a0b:4e07:290::/44",
+    "asn": "218500",
+    "country_code": "AT",
+    "name": "Krottisrv-Wartenstein",
+    "org": "David Trolp",
+    "domain": "wartenstein.com"
   },
   {
     "network": "5.104.216.0/21",
@@ -5320,14 +5352,6 @@
     "domain": "mynet.at"
   },
   {
-    "network": "185.124.144.0/22",
-    "asn": "31543",
-    "country_code": "AT",
-    "name": "MYNET-AS",
-    "org": "myNet GmbH",
-    "domain": "mynet.at"
-  },
-  {
     "network": "185.154.64.0/22",
     "asn": "31543",
     "country_code": "AT",
@@ -5721,30 +5745,6 @@
   },
   {
     "network": "5.175.221.0/24",
-    "asn": "211066",
-    "country_code": "AT",
-    "name": "RYZEHOSTING-TRADING",
-    "org": "Simon Mariacher",
-    "domain": "ryzehosting.com"
-  },
-  {
-    "network": "94.249.247.0/24",
-    "asn": "211066",
-    "country_code": "AT",
-    "name": "RYZEHOSTING-TRADING",
-    "org": "Simon Mariacher",
-    "domain": "ryzehosting.com"
-  },
-  {
-    "network": "169.128.69.0/24",
-    "asn": "211066",
-    "country_code": "AT",
-    "name": "RYZEHOSTING-TRADING",
-    "org": "Simon Mariacher",
-    "domain": "ryzehosting.com"
-  },
-  {
-    "network": "185.47.141.0/24",
     "asn": "211066",
     "country_code": "AT",
     "name": "RYZEHOSTING-TRADING",
@@ -6464,14 +6464,6 @@
     "domain": "edis.at"
   },
   {
-    "network": "188.190.1.0/24",
-    "asn": "57169",
-    "country_code": "AT",
-    "name": "EDIS-AS-EU",
-    "org": "EDIS GmbH",
-    "domain": "edis.at"
-  },
-  {
     "network": "188.190.3.0/24",
     "asn": "57169",
     "country_code": "AT",
@@ -6600,6 +6592,14 @@
     "domain": "edis.at"
   },
   {
+    "network": "188.190.25.0/24",
+    "asn": "57169",
+    "country_code": "AT",
+    "name": "EDIS-AS-EU",
+    "org": "EDIS GmbH",
+    "domain": "edis.at"
+  },
+  {
     "network": "188.190.26.0/24",
     "asn": "57169",
     "country_code": "AT",
@@ -6673,6 +6673,14 @@
   },
   {
     "network": "192.36.38.0/24",
+    "asn": "57169",
+    "country_code": "AT",
+    "name": "EDIS-AS-EU",
+    "org": "EDIS GmbH",
+    "domain": "edis.at"
+  },
+  {
+    "network": "192.36.39.0/24",
     "asn": "57169",
     "country_code": "AT",
     "name": "EDIS-AS-EU",
@@ -6953,6 +6961,14 @@
   },
   {
     "network": "2a03:f80:70::/48",
+    "asn": "57169",
+    "country_code": "AT",
+    "name": "EDIS-AS-EU",
+    "org": "EDIS GmbH",
+    "domain": "edis.at"
+  },
+  {
+    "network": "2a03:f80:331::/48",
     "asn": "57169",
     "country_code": "AT",
     "name": "EDIS-AS-EU",
@@ -7600,7 +7616,7 @@
     "domain": "huemer-dc.com"
   },
   {
-    "network": "9.247.60.0/24",
+    "network": "9.247.43.0/24",
     "asn": "40994",
     "country_code": "AT",
     "name": "Alwyzon",
@@ -7704,15 +7720,7 @@
     "domain": "alwyzon.net"
   },
   {
-    "network": "132.243.203.0/24",
-    "asn": "40994",
-    "country_code": "AT",
-    "name": "Alwyzon",
-    "org": "Hohl IT e.U.",
-    "domain": "alwyzon.net"
-  },
-  {
-    "network": "163.245.58.0/24",
+    "network": "163.245.59.0/24",
     "asn": "40994",
     "country_code": "AT",
     "name": "Alwyzon",
@@ -8110,6 +8118,54 @@
     "name": "SALZBURG-AG-AS",
     "org": "SALZBURG AG fur Energie, Verkehr und Telekommunikation",
     "domain": "salzburg-ag.at"
+  },
+  {
+    "network": "16.220.157.0/24",
+    "asn": "64457",
+    "country_code": "AT",
+    "name": "PIPEHOST-AS",
+    "org": "Matteo Fruhwald trading as PipeHost e.U.",
+    "domain": "pipe.email"
+  },
+  {
+    "network": "151.242.144.0/24",
+    "asn": "64457",
+    "country_code": "AT",
+    "name": "PIPEHOST-AS",
+    "org": "Matteo Fruhwald trading as PipeHost e.U.",
+    "domain": "pipe.email"
+  },
+  {
+    "network": "185.224.3.0/24",
+    "asn": "64457",
+    "country_code": "AT",
+    "name": "PIPEHOST-AS",
+    "org": "Matteo Fruhwald trading as PipeHost e.U.",
+    "domain": "pipe.email"
+  },
+  {
+    "network": "188.137.158.0/24",
+    "asn": "64457",
+    "country_code": "AT",
+    "name": "PIPEHOST-AS",
+    "org": "Matteo Fruhwald trading as PipeHost e.U.",
+    "domain": "pipe.email"
+  },
+  {
+    "network": "2a14:7c0:f100::/40",
+    "asn": "64457",
+    "country_code": "AT",
+    "name": "PIPEHOST-AS",
+    "org": "Matteo Fruhwald trading as PipeHost e.U.",
+    "domain": "pipe.email"
+  },
+  {
+    "network": "2a14:7c0:f300::/40",
+    "asn": "64457",
+    "country_code": "AT",
+    "name": "PIPEHOST-AS",
+    "org": "Matteo Fruhwald trading as PipeHost e.U.",
+    "domain": "pipe.email"
   },
   {
     "network": "20.154.66.0/23",
@@ -10305,6 +10361,14 @@
   },
   {
     "network": "62.240.137.0/24",
+    "asn": "51265",
+    "country_code": "AT",
+    "name": "MASSRESPONSE-AS",
+    "org": "Mass Response Service GmbH",
+    "domain": "massresponse.com"
+  },
+  {
+    "network": "62.240.140.0/22",
     "asn": "51265",
     "country_code": "AT",
     "name": "MASSRESPONSE-AS",
@@ -12560,14 +12624,6 @@
     "domain": "ip-it.com"
   },
   {
-    "network": "2a04:d200::/29",
-    "asn": "61438",
-    "country_code": "AT",
-    "name": "IP-IT-AS",
-    "org": "ip-it consult GmbH",
-    "domain": "ip-it.com"
-  },
-  {
     "network": "2a04:d200::/32",
     "asn": "61438",
     "country_code": "AT",
@@ -12784,6 +12840,22 @@
     "domain": "aon.at"
   },
   {
+    "network": "79.132.66.0/24",
+    "asn": "8447",
+    "country_code": "AT",
+    "name": "A1TELEKOM-AT",
+    "org": "A1 Telekom Austria AG",
+    "domain": "aon.at"
+  },
+  {
+    "network": "79.132.67.0/24",
+    "asn": "8447",
+    "country_code": "AT",
+    "name": "A1TELEKOM-AT",
+    "org": "A1 Telekom Austria AG",
+    "domain": "aon.at"
+  },
+  {
     "network": "80.75.32.0/19",
     "asn": "8447",
     "country_code": "AT",
@@ -12825,6 +12897,14 @@
   },
   {
     "network": "81.5.192.0/18",
+    "asn": "8447",
+    "country_code": "AT",
+    "name": "A1TELEKOM-AT",
+    "org": "A1 Telekom Austria AG",
+    "domain": "aon.at"
+  },
+  {
+    "network": "83.148.156.0/22",
     "asn": "8447",
     "country_code": "AT",
     "name": "A1TELEKOM-AT",
@@ -13264,14 +13344,6 @@
     "domain": "aon.at"
   },
   {
-    "network": "193.84.94.0/24",
-    "asn": "8447",
-    "country_code": "AT",
-    "name": "A1TELEKOM-AT",
-    "org": "A1 Telekom Austria AG",
-    "domain": "aon.at"
-  },
-  {
     "network": "193.149.217.0/24",
     "asn": "8447",
     "country_code": "AT",
@@ -13505,6 +13577,14 @@
   },
   {
     "network": "195.64.0.0/19",
+    "asn": "8447",
+    "country_code": "AT",
+    "name": "A1TELEKOM-AT",
+    "org": "A1 Telekom Austria AG",
+    "domain": "aon.at"
+  },
+  {
+    "network": "195.72.176.0/22",
     "asn": "8447",
     "country_code": "AT",
     "name": "A1TELEKOM-AT",
@@ -13910,6 +13990,22 @@
     "name": "frauscher",
     "org": "Frauscher Sensor Technology Group GmbH",
     "domain": "frauscher.com"
+  },
+  {
+    "network": "45.143.26.0/24",
+    "asn": "207929",
+    "country_code": "AT",
+    "name": "IPA-AT-AS",
+    "org": "IP Austria Communication GmbH",
+    "domain": "ipaustria.com"
+  },
+  {
+    "network": "195.85.27.0/24",
+    "asn": "207929",
+    "country_code": "AT",
+    "name": "IPA-AT-AS",
+    "org": "IP Austria Communication GmbH",
+    "domain": "ipaustria.com"
   },
   {
     "network": "45.143.44.0/22",
@@ -14665,14 +14761,6 @@
   },
   {
     "network": "45.152.52.0/22",
-    "asn": "48362",
-    "country_code": "AT",
-    "name": "TKSWF-AS",
-    "org": "Stadtwerke Feldkirch",
-    "domain": "tkswf.at"
-  },
-  {
-    "network": "86.111.44.0/22",
     "asn": "48362",
     "country_code": "AT",
     "name": "TKSWF-AS",
@@ -15881,14 +15969,6 @@
   },
   {
     "network": "2001:938:4017::/48",
-    "asn": "8437",
-    "country_code": "AT",
-    "name": "UTA-AS",
-    "org": "Hutchison Drei Austria GmbH",
-    "domain": "drei.com"
-  },
-  {
-    "network": "2001:938:4018::/48",
     "asn": "8437",
     "country_code": "AT",
     "name": "UTA-AS",
@@ -17736,6 +17816,214 @@
     "domain": "kwb.net"
   },
   {
+    "network": "78.17.92.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "89.126.226.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "91.227.33.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "91.244.70.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "91.244.71.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "93.157.138.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "93.157.139.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "157.173.28.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "188.220.50.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "193.178.186.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "195.72.167.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "201.3.224.0/24",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a07:cec0:5::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a07:cec0:4500::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a07:cec0:4600::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a07:cec0:4700::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a07:cec0:4800::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a07:cec0:4900::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a07:cec4::/30",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a0c:9a40:8570::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a12:bec4:19a0::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a12:bec4:19a1::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a12:bec4:19a2::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a12:bec4:19a3::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a12:bec4:19a4::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
+    "network": "2a12:bec4:19a5::/48",
+    "asn": "215120",
+    "country_code": "AT",
+    "name": "Evolus-IX",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolus-ix.com"
+  },
+  {
     "network": "78.40.212.0/24",
     "asn": "31239",
     "country_code": "AT",
@@ -18504,108 +18792,164 @@
     "domain": "ainet.at"
   },
   {
-    "network": "79.183.89.0/24",
-    "asn": "64457",
+    "network": "79.175.102.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "94.194.144.0/24",
-    "asn": "64457",
+    "network": "82.108.128.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "94.194.145.0/24",
-    "asn": "64457",
+    "network": "82.108.132.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "94.194.146.0/24",
-    "asn": "64457",
+    "network": "83.143.119.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "94.194.147.0/24",
-    "asn": "64457",
+    "network": "92.42.201.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "109.65.46.0/24",
-    "asn": "64457",
+    "network": "94.194.84.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "141.11.192.0/24",
-    "asn": "64457",
+    "network": "94.194.85.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "151.242.144.0/24",
-    "asn": "64457",
+    "network": "94.194.86.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "185.224.3.0/24",
-    "asn": "64457",
+    "network": "94.194.87.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "188.137.158.0/24",
-    "asn": "64457",
+    "network": "157.173.3.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "217.216.172.0/24",
-    "asn": "64457",
+    "network": "157.173.4.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "2a14:7c0:f100::/40",
-    "asn": "64457",
+    "network": "157.173.7.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
-    "network": "2a14:7c0:f300::/40",
-    "asn": "64457",
+    "network": "192.88.181.0/24",
+    "asn": "49592",
     "country_code": "AT",
-    "name": "PIPEHOST-AS",
-    "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
+  },
+  {
+    "network": "192.88.182.0/24",
+    "asn": "49592",
+    "country_code": "AT",
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
+  },
+  {
+    "network": "2602:fa0a:10::/44",
+    "asn": "49592",
+    "country_code": "AT",
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
+  },
+  {
+    "network": "2602:fa0a:20::/44",
+    "asn": "49592",
+    "country_code": "AT",
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
+  },
+  {
+    "network": "2602:fa0a:50::/44",
+    "asn": "49592",
+    "country_code": "AT",
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
+  },
+  {
+    "network": "2a07:cec0:4403::/48",
+    "asn": "49592",
+    "country_code": "AT",
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
+  },
+  {
+    "network": "2a07:cec0:4404::/48",
+    "asn": "49592",
+    "country_code": "AT",
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
+  },
+  {
+    "network": "2a12:bec0:340::/44",
+    "asn": "49592",
+    "country_code": "AT",
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
   },
   {
     "network": "80.64.140.0/22",
@@ -18641,6 +18985,14 @@
   },
   {
     "network": "157.97.68.0/22",
+    "asn": "24953",
+    "country_code": "AT",
+    "name": "ASN-NETPLANET",
+    "org": "NETPLANET GmbH",
+    "domain": "netplanet.at"
+  },
+  {
+    "network": "159.200.209.0/24",
     "asn": "24953",
     "country_code": "AT",
     "name": "ASN-NETPLANET",
@@ -20232,6 +20584,14 @@
     "domain": "ikbnet.at"
   },
   {
+    "network": "212.56.188.0/24",
+    "asn": "31510",
+    "country_code": "AT",
+    "name": "IKB-AS",
+    "org": "Innsbrucker Kommunalbetriebe AG",
+    "domain": "ikbnet.at"
+  },
+  {
     "network": "2a02:6180::/32",
     "asn": "31510",
     "country_code": "AT",
@@ -20544,14 +20904,6 @@
     "domain": "wibs.at"
   },
   {
-    "network": "85.255.144.0/24",
-    "asn": "43848",
-    "country_code": "AT",
-    "name": "GAMSJAEGER",
-    "org": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
-    "domain": "wibs.at"
-  },
-  {
     "network": "85.255.145.0/24",
     "asn": "43848",
     "country_code": "AT",
@@ -20569,14 +20921,6 @@
   },
   {
     "network": "85.255.149.0/24",
-    "asn": "43848",
-    "country_code": "AT",
-    "name": "GAMSJAEGER",
-    "org": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
-    "domain": "wibs.at"
-  },
-  {
-    "network": "85.255.150.0/24",
     "asn": "43848",
     "country_code": "AT",
     "name": "GAMSJAEGER",
@@ -20726,6 +21070,30 @@
     "name": "GAMSJAEGER-WIEN",
     "org": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
     "domain": "wibs.at"
+  },
+  {
+    "network": "86.54.4.0/24",
+    "asn": "60742",
+    "country_code": "AT",
+    "name": "dawox",
+    "org": "dawox GmbH",
+    "domain": "dawox.net"
+  },
+  {
+    "network": "2a14:6780:d::/48",
+    "asn": "60742",
+    "country_code": "AT",
+    "name": "dawox",
+    "org": "dawox GmbH",
+    "domain": "dawox.net"
+  },
+  {
+    "network": "2a14:6787::/32",
+    "asn": "60742",
+    "country_code": "AT",
+    "name": "dawox",
+    "org": "dawox GmbH",
+    "domain": "dawox.net"
   },
   {
     "network": "86.111.32.0/21",
@@ -20968,6 +21336,14 @@
     "domain": "iplace.at"
   },
   {
+    "network": "86.111.44.0/22",
+    "asn": "47161",
+    "country_code": "AT",
+    "name": "TKSWF-LABS",
+    "org": "Stadtwerke Feldkirch",
+    "domain": "tkswf.at"
+  },
+  {
     "network": "86.111.52.0/23",
     "asn": "44472",
     "country_code": "AT",
@@ -21208,6 +21584,14 @@
     "domain": "evolusfibre.com"
   },
   {
+    "network": "185.207.137.0/24",
+    "asn": "216416",
+    "country_code": "AT",
+    "name": "Evolus-Fibre",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolusfibre.com"
+  },
+  {
     "network": "185.207.138.0/24",
     "asn": "216416",
     "country_code": "AT",
@@ -21225,6 +21609,14 @@
   },
   {
     "network": "188.137.152.0/24",
+    "asn": "216416",
+    "country_code": "AT",
+    "name": "Evolus-Fibre",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolusfibre.com"
+  },
+  {
+    "network": "188.137.153.0/24",
     "asn": "216416",
     "country_code": "AT",
     "name": "Evolus-Fibre",
@@ -21256,204 +21648,28 @@
     "domain": "evolusfibre.com"
   },
   {
-    "network": "89.126.226.0/24",
-    "asn": "215120",
+    "network": "89.106.208.0/21",
+    "asn": "39837",
     "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
+    "name": "MUR",
+    "org": "mur.at - Verein zur Foerderung von Netzwerkkunst",
+    "domain": "mur.at"
   },
   {
-    "network": "91.227.33.0/24",
-    "asn": "215120",
+    "network": "185.130.252.0/22",
+    "asn": "39837",
     "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
+    "name": "MUR",
+    "org": "mur.at - Verein zur Foerderung von Netzwerkkunst",
+    "domain": "mur.at"
   },
   {
-    "network": "91.244.70.0/24",
-    "asn": "215120",
+    "network": "2a02:3e0::/32",
+    "asn": "39837",
     "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "91.244.71.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "93.157.138.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "93.157.139.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "157.173.28.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "188.220.50.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "193.178.186.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "195.72.167.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "201.3.224.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a07:cec0:5::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a07:cec0:4500::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a07:cec0:4600::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a07:cec0:4700::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a07:cec0:4800::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a07:cec0:4900::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a07:cec4::/30",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a0c:9a40:8570::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a12:bec4:19a0::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a12:bec4:19a1::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a12:bec4:19a2::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a12:bec4:19a3::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a12:bec4:19a4::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "2a12:bec4:19a5::/48",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
+    "name": "MUR",
+    "org": "mur.at - Verein zur Foerderung von Netzwerkkunst",
+    "domain": "mur.at"
   },
   {
     "network": "89.207.120.0/21",
@@ -23608,30 +23824,6 @@
     "domain": "anexia.at"
   },
   {
-    "network": "152.53.60.0/24",
-    "asn": "47147",
-    "country_code": "AT",
-    "name": "AS-ANX",
-    "org": "Anexia Cloud Solutions GmbH",
-    "domain": "anexia.at"
-  },
-  {
-    "network": "152.53.104.0/22",
-    "asn": "47147",
-    "country_code": "AT",
-    "name": "AS-ANX",
-    "org": "Anexia Cloud Solutions GmbH",
-    "domain": "anexia.at"
-  },
-  {
-    "network": "152.53.200.0/24",
-    "asn": "47147",
-    "country_code": "AT",
-    "name": "AS-ANX",
-    "org": "Anexia Cloud Solutions GmbH",
-    "domain": "anexia.at"
-  },
-  {
     "network": "213.227.190.0/24",
     "asn": "47147",
     "country_code": "AT",
@@ -24000,39 +24192,7 @@
     "domain": "as214929.net"
   },
   {
-    "network": "154.208.114.0/24",
-    "asn": "214929",
-    "country_code": "AT",
-    "name": "LastResponse",
-    "org": "Lukas Wenzl trading as LastResponse",
-    "domain": "as214929.net"
-  },
-  {
     "network": "2602:f9ba:b1::/48",
-    "asn": "214929",
-    "country_code": "AT",
-    "name": "LastResponse",
-    "org": "Lukas Wenzl trading as LastResponse",
-    "domain": "as214929.net"
-  },
-  {
-    "network": "2a06:9f41:300::/40",
-    "asn": "214929",
-    "country_code": "AT",
-    "name": "LastResponse",
-    "org": "Lukas Wenzl trading as LastResponse",
-    "domain": "as214929.net"
-  },
-  {
-    "network": "2a06:9f41:500::/40",
-    "asn": "214929",
-    "country_code": "AT",
-    "name": "LastResponse",
-    "org": "Lukas Wenzl trading as LastResponse",
-    "domain": "as214929.net"
-  },
-  {
-    "network": "2a06:9f41:900::/40",
     "asn": "214929",
     "country_code": "AT",
     "name": "LastResponse",
@@ -24368,6 +24528,62 @@
     "domain": "wu.ac.at"
   },
   {
+    "network": "138.200.12.0/23",
+    "asn": "39508",
+    "country_code": "AT",
+    "name": "C07-AS",
+    "org": "AXIANS ICT Austria GmbH",
+    "domain": "axians.at"
+  },
+  {
+    "network": "194.0.222.0/24",
+    "asn": "39508",
+    "country_code": "AT",
+    "name": "C07-AS",
+    "org": "AXIANS ICT Austria GmbH",
+    "domain": "axians.at"
+  },
+  {
+    "network": "194.107.82.0/23",
+    "asn": "39508",
+    "country_code": "AT",
+    "name": "C07-AS",
+    "org": "AXIANS ICT Austria GmbH",
+    "domain": "axians.at"
+  },
+  {
+    "network": "195.177.198.0/24",
+    "asn": "39508",
+    "country_code": "AT",
+    "name": "C07-AS",
+    "org": "AXIANS ICT Austria GmbH",
+    "domain": "axians.at"
+  },
+  {
+    "network": "195.177.199.0/24",
+    "asn": "39508",
+    "country_code": "AT",
+    "name": "C07-AS",
+    "org": "AXIANS ICT Austria GmbH",
+    "domain": "axians.at"
+  },
+  {
+    "network": "195.234.58.0/24",
+    "asn": "39508",
+    "country_code": "AT",
+    "name": "C07-AS",
+    "org": "AXIANS ICT Austria GmbH",
+    "domain": "axians.at"
+  },
+  {
+    "network": "2001:678:3dc::/48",
+    "asn": "39508",
+    "country_code": "AT",
+    "name": "C07-AS",
+    "org": "AXIANS ICT Austria GmbH",
+    "domain": "axians.at"
+  },
+  {
     "network": "138.232.0.0/16",
     "asn": "1110",
     "country_code": "AT",
@@ -24696,6 +24912,14 @@
     "domain": "anexia.at"
   },
   {
+    "network": "2a01:aea0:300::/40",
+    "asn": "40980",
+    "country_code": "AT",
+    "name": "TELEMATICA",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
     "network": "2a01:aea0:dd3::/48",
     "asn": "40980",
     "country_code": "AT",
@@ -24777,14 +25001,6 @@
   },
   {
     "network": "145.244.0.0/16",
-    "asn": "210543",
-    "country_code": "AT",
-    "name": "KAGES",
-    "org": "Steiermaerkische Krankenanstaltengesellschaft mbH",
-    "domain": "kages.at"
-  },
-  {
-    "network": "145.244.199.0/24",
     "asn": "210543",
     "country_code": "AT",
     "name": "KAGES",
@@ -25440,6 +25656,14 @@
     "domain": "tnr.at"
   },
   {
+    "network": "185.124.144.0/22",
+    "asn": "198950",
+    "country_code": "AT",
+    "name": "OAB-AF",
+    "org": "Telenet Systems GmbH",
+    "domain": "tnr.at"
+  },
+  {
     "network": "2a06:b340::/29",
     "asn": "198950",
     "country_code": "AT",
@@ -25856,6 +26080,22 @@
     "domain": "got-itt.at"
   },
   {
+    "network": "185.44.48.0/22",
+    "asn": "24824",
+    "country_code": "AT",
+    "name": "WEISS-ASN",
+    "org": "Gebrueder-Weiss GmbH",
+    "domain": "gw-world.com"
+  },
+  {
+    "network": "185.44.48.0/23",
+    "asn": "24824",
+    "country_code": "AT",
+    "name": "WEISS-ASN",
+    "org": "Gebrueder-Weiss GmbH",
+    "domain": "gw-world.com"
+  },
+  {
     "network": "185.44.48.0/24",
     "asn": "24824",
     "country_code": "AT",
@@ -25865,6 +26105,14 @@
   },
   {
     "network": "185.44.49.0/24",
+    "asn": "24824",
+    "country_code": "AT",
+    "name": "WEISS-ASN",
+    "org": "Gebrueder-Weiss GmbH",
+    "domain": "gw-world.com"
+  },
+  {
+    "network": "185.44.50.0/23",
     "asn": "24824",
     "country_code": "AT",
     "name": "WEISS-ASN",
@@ -27336,6 +27584,22 @@
     "domain": "spar-ics.com"
   },
   {
+    "network": "185.129.163.0/24",
+    "asn": "205989",
+    "country_code": "AT",
+    "name": "RELAXT",
+    "org": "relaxt Webdienstleistungsagentur GmbH",
+    "domain": "relaxt.at"
+  },
+  {
+    "network": "2a0d:5280:f003::/48",
+    "asn": "205989",
+    "country_code": "AT",
+    "name": "RELAXT",
+    "org": "relaxt Webdienstleistungsagentur GmbH",
+    "domain": "relaxt.at"
+  },
+  {
     "network": "185.133.126.0/24",
     "asn": "199437",
     "country_code": "AT",
@@ -28532,7 +28796,7 @@
     "asn": "209934",
     "country_code": "AT",
     "name": "ZLINE",
-    "org": "WIERER GmbH & Co KG",
+    "org": "Wierer GmbH",
     "domain": "zline.at"
   },
   {
@@ -28540,7 +28804,7 @@
     "asn": "209934",
     "country_code": "AT",
     "name": "ZLINE",
-    "org": "WIERER GmbH & Co KG",
+    "org": "Wierer GmbH",
     "domain": "zline.at"
   },
   {
@@ -28548,7 +28812,7 @@
     "asn": "209934",
     "country_code": "AT",
     "name": "ZLINE",
-    "org": "WIERER GmbH & Co KG",
+    "org": "Wierer GmbH",
     "domain": "zline.at"
   },
   {
@@ -29177,14 +29441,6 @@
   },
   {
     "network": "192.164.167.0/24",
-    "asn": "47477",
-    "country_code": "AT",
-    "name": "REWEA-AS",
-    "org": "REWE International Dienstleistungs GmbH",
-    "domain": "rewe-group.at"
-  },
-  {
-    "network": "192.164.170.0/24",
     "asn": "47477",
     "country_code": "AT",
     "name": "REWEA-AS",
@@ -30144,46 +30400,6 @@
     "domain": "ripe.at"
   },
   {
-    "network": "193.194.157.0/24",
-    "asn": "41817",
-    "country_code": "AT",
-    "name": "VFNK",
-    "org": "Rocket NG GmbH",
-    "domain": "rocket-ng.at"
-  },
-  {
-    "network": "193.200.2.0/24",
-    "asn": "41817",
-    "country_code": "AT",
-    "name": "VFNK",
-    "org": "Rocket NG GmbH",
-    "domain": "rocket-ng.at"
-  },
-  {
-    "network": "193.200.8.0/24",
-    "asn": "41817",
-    "country_code": "AT",
-    "name": "VFNK",
-    "org": "Rocket NG GmbH",
-    "domain": "rocket-ng.at"
-  },
-  {
-    "network": "193.200.24.0/24",
-    "asn": "41817",
-    "country_code": "AT",
-    "name": "VFNK",
-    "org": "Rocket NG GmbH",
-    "domain": "rocket-ng.at"
-  },
-  {
-    "network": "2a0f:97c0::/29",
-    "asn": "41817",
-    "country_code": "AT",
-    "name": "VFNK",
-    "org": "Rocket NG GmbH",
-    "domain": "rocket-ng.at"
-  },
-  {
     "network": "193.200.228.0/24",
     "asn": "31374",
     "country_code": "AT",
@@ -30550,54 +30766,6 @@
     "name": "TSG-AS",
     "org": "TSG Tourismus Salzburg GmbH",
     "domain": "salzburg.info"
-  },
-  {
-    "network": "194.0.222.0/24",
-    "asn": "39508",
-    "country_code": "AT",
-    "name": "C07-AS",
-    "org": "AXIANS ICT Austria GmbH",
-    "domain": "axians.at"
-  },
-  {
-    "network": "194.107.82.0/23",
-    "asn": "39508",
-    "country_code": "AT",
-    "name": "C07-AS",
-    "org": "AXIANS ICT Austria GmbH",
-    "domain": "axians.at"
-  },
-  {
-    "network": "195.177.198.0/24",
-    "asn": "39508",
-    "country_code": "AT",
-    "name": "C07-AS",
-    "org": "AXIANS ICT Austria GmbH",
-    "domain": "axians.at"
-  },
-  {
-    "network": "195.177.199.0/24",
-    "asn": "39508",
-    "country_code": "AT",
-    "name": "C07-AS",
-    "org": "AXIANS ICT Austria GmbH",
-    "domain": "axians.at"
-  },
-  {
-    "network": "195.234.58.0/24",
-    "asn": "39508",
-    "country_code": "AT",
-    "name": "C07-AS",
-    "org": "AXIANS ICT Austria GmbH",
-    "domain": "axians.at"
-  },
-  {
-    "network": "2001:678:3dc::/48",
-    "asn": "39508",
-    "country_code": "AT",
-    "name": "C07-AS",
-    "org": "AXIANS ICT Austria GmbH",
-    "domain": "axians.at"
   },
   {
     "network": "194.8.61.0/24",
@@ -31196,7 +31364,7 @@
     "asn": "56424",
     "country_code": "AT",
     "name": "TYROLIT-AT-AS",
-    "org": "Tyrolit - Schleifmittelwerke Swarovski K.G.",
+    "org": "Tyrolit - Schleifmittelwerke Swarovski GmbH & Co K.G.",
     "domain": "tyrolit.com"
   },
   {
@@ -31328,14 +31496,6 @@
     "domain": "salzburg-airport.at"
   },
   {
-    "network": "195.110.192.0/19",
-    "asn": "12971",
-    "country_code": "AT",
-    "name": "BIOS-AT",
-    "org": "Internet Viennaweb Service GmbH",
-    "domain": "azista.net"
-  },
-  {
     "network": "195.110.192.0/20",
     "asn": "12971",
     "country_code": "AT",
@@ -31369,14 +31529,6 @@
   },
   {
     "network": "195.110.212.0/22",
-    "asn": "12971",
-    "country_code": "AT",
-    "name": "BIOS-AT",
-    "org": "Internet Viennaweb Service GmbH",
-    "domain": "azista.net"
-  },
-  {
-    "network": "195.110.216.0/22",
     "asn": "12971",
     "country_code": "AT",
     "name": "BIOS-AT",
@@ -32112,6 +32264,22 @@
     "domain": "chaosfield.at"
   },
   {
+    "network": "2001:67c:644::/48",
+    "asn": "219240",
+    "country_code": "AT",
+    "name": "YUKI-AS",
+    "org": "Yuki Haigner",
+    "domain": "as219240.net"
+  },
+  {
+    "network": "2a06:9801:1100::/40",
+    "asn": "219240",
+    "country_code": "AT",
+    "name": "YUKI-AS",
+    "org": "Yuki Haigner",
+    "domain": "as219240.net"
+  },
+  {
     "network": "2001:67c:d10::/48",
     "asn": "215689",
     "country_code": "AT",
@@ -32240,6 +32408,22 @@
     "domain": "sm00th.me"
   },
   {
+    "network": "2a06:1283:c050::/44",
+    "asn": "197634",
+    "country_code": "AT",
+    "name": "ALECH",
+    "org": "Alec Hoefler",
+    "domain": "a-hoefler.eu"
+  },
+  {
+    "network": "2a0e:97c0:ce0::/44",
+    "asn": "197634",
+    "country_code": "AT",
+    "name": "ALECH",
+    "org": "Alec Hoefler",
+    "domain": "a-hoefler.eu"
+  },
+  {
     "network": "2a06:9801:7ff::/48",
     "asn": "219214",
     "country_code": "AT",
@@ -32264,20 +32448,20 @@
     "domain": "tuwien.ac.at"
   },
   {
+    "network": "2a0c:9a40:e170::/44",
+    "asn": "218456",
+    "country_code": "AT",
+    "name": "Mizelli",
+    "org": "Simon Mizelli",
+    "domain": "thedino.net"
+  },
+  {
     "network": "2a0c:b641:a30::/44",
     "asn": "198603",
     "country_code": "AT",
     "name": "SinovaTec",
     "org": "Herbert Kaiser",
     "domain": "sinovatec.com"
-  },
-  {
-    "network": "2a0c:b641:a50::/44",
-    "asn": "200262",
-    "country_code": "AT",
-    "name": "GRIESHOFER-AS",
-    "org": "Philipp Grieshofer",
-    "domain": "grieshofer.com"
   },
   {
     "network": "2a0e:8f02:f06c::/48",
@@ -32294,6 +32478,14 @@
     "name": "DTGBS2-AT",
     "org": "Deutsche Telekom Global Business Solutions GmbH",
     "domain": "telekom.com"
+  },
+  {
+    "network": "2a11:b44:c004::/48",
+    "asn": "214502",
+    "country_code": "AT",
+    "name": "FIFTYFIVE-2-AS",
+    "org": "55 IT Services GmbH",
+    "domain": "55it.at"
   },
   {
     "network": "2a12:e500::/29",

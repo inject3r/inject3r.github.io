@@ -1,6 +1,6 @@
 [
   {
-    "network": "193.168.8.0/23",
+    "network": "193.168.8.0/24",
     "asn": "210872",
     "country_code": "LU",
     "name": "NSPA",
@@ -8,7 +8,15 @@
     "domain": "nato.int"
   },
   {
-    "network": "193.168.12.0/23",
+    "network": "193.168.11.0/24",
+    "asn": "210872",
+    "country_code": "LU",
+    "name": "NSPA",
+    "org": "NATO SUPPORT AND PROCUREMENT AGENCY",
+    "domain": "nato.int"
+  },
+  {
+    "network": "193.168.15.0/24",
     "asn": "210872",
     "country_code": "LU",
     "name": "NSPA",

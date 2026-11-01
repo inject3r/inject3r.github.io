@@ -1,6 +1,14 @@
 [
   {
-    "network": "185.6.200.0/22",
+    "network": "185.6.200.0/24",
+    "asn": "203603",
+    "country_code": "ES",
+    "name": "AS-INTERNETDIRECTO",
+    "org": "Antonio Lobato Trujillo",
+    "domain": "lobato.eu"
+  },
+  {
+    "network": "185.6.201.0/24",
     "asn": "203603",
     "country_code": "ES",
     "name": "AS-INTERNETDIRECTO",

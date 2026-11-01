@@ -384,14 +384,6 @@
     "domain": "telkos.net"
   },
   {
-    "network": "185.191.167.0/24",
-    "asn": "206262",
-    "country_code": "AL",
-    "name": "Telkos",
-    "org": "TelKos L.L.C",
-    "domain": "telkos.net"
-  },
-  {
     "network": "2a0c:b340::/29",
     "asn": "206262",
     "country_code": "AL",
@@ -1017,11 +1009,51 @@
   },
   {
     "network": "31.57.56.0/24",
-    "asn": "210464",
+    "asn": "213900",
     "country_code": "AL",
-    "name": "AVSISP",
-    "org": "ANDREW KRISTULI",
-    "domain": "avsisp.com"
+    "name": "rs",
+    "org": "RS Computers L.L.C",
+    "domain": "rscomputers-ks.com"
+  },
+  {
+    "network": "217.60.96.0/24",
+    "asn": "213900",
+    "country_code": "AL",
+    "name": "rs",
+    "org": "RS Computers L.L.C",
+    "domain": "rscomputers-ks.com"
+  },
+  {
+    "network": "217.60.194.0/24",
+    "asn": "213900",
+    "country_code": "AL",
+    "name": "rs",
+    "org": "RS Computers L.L.C",
+    "domain": "rscomputers-ks.com"
+  },
+  {
+    "network": "2a13:c8c3:cf43::/48",
+    "asn": "213900",
+    "country_code": "AL",
+    "name": "rs",
+    "org": "RS Computers L.L.C",
+    "domain": "rscomputers-ks.com"
+  },
+  {
+    "network": "2a13:c8c3:e8ff::/48",
+    "asn": "213900",
+    "country_code": "AL",
+    "name": "rs",
+    "org": "RS Computers L.L.C",
+    "domain": "rscomputers-ks.com"
+  },
+  {
+    "network": "2a14:7580:c000::/40",
+    "asn": "213900",
+    "country_code": "AL",
+    "name": "rs",
+    "org": "RS Computers L.L.C",
+    "domain": "rscomputers-ks.com"
   },
   {
     "network": "31.59.141.0/24",
@@ -1072,7 +1104,7 @@
     "domain": "avsisp.com"
   },
   {
-    "network": "217.60.96.0/24",
+    "network": "217.216.230.0/24",
     "asn": "210464",
     "country_code": "AL",
     "name": "AVSISP",
@@ -1168,6 +1200,14 @@
     "domain": "avsisp.com"
   },
   {
+    "network": "2a0a:79c7:fc00::/40",
+    "asn": "210464",
+    "country_code": "AL",
+    "name": "AVSISP",
+    "org": "ANDREW KRISTULI",
+    "domain": "avsisp.com"
+  },
+  {
     "network": "2a0a:79c7:ff00::/40",
     "asn": "210464",
     "country_code": "AL",
@@ -1185,14 +1225,6 @@
   },
   {
     "network": "2a10:fa81:b00::/40",
-    "asn": "210464",
-    "country_code": "AL",
-    "name": "AVSISP",
-    "org": "ANDREW KRISTULI",
-    "domain": "avsisp.com"
-  },
-  {
-    "network": "2a14:7580:c000::/40",
     "asn": "210464",
     "country_code": "AL",
     "name": "AVSISP",
@@ -1225,6 +1257,14 @@
   },
   {
     "network": "2a14:7583:200::/39",
+    "asn": "210464",
+    "country_code": "AL",
+    "name": "AVSISP",
+    "org": "ANDREW KRISTULI",
+    "domain": "avsisp.com"
+  },
+  {
+    "network": "2a14:7583:700::/40",
     "asn": "210464",
     "country_code": "AL",
     "name": "AVSISP",
@@ -1344,38 +1384,6 @@
     "domain": "keminet.net"
   },
   {
-    "network": "45.74.144.0/24",
-    "asn": "197706",
-    "country_code": "AL",
-    "name": "Keminet",
-    "org": "Keminet SHPK",
-    "domain": "keminet.net"
-  },
-  {
-    "network": "45.74.145.0/24",
-    "asn": "197706",
-    "country_code": "AL",
-    "name": "Keminet",
-    "org": "Keminet SHPK",
-    "domain": "keminet.net"
-  },
-  {
-    "network": "45.74.146.0/24",
-    "asn": "197706",
-    "country_code": "AL",
-    "name": "Keminet",
-    "org": "Keminet SHPK",
-    "domain": "keminet.net"
-  },
-  {
-    "network": "45.74.147.0/24",
-    "asn": "197706",
-    "country_code": "AL",
-    "name": "Keminet",
-    "org": "Keminet SHPK",
-    "domain": "keminet.net"
-  },
-  {
     "network": "45.142.26.0/24",
     "asn": "197706",
     "country_code": "AL",
@@ -1385,14 +1393,6 @@
   },
   {
     "network": "62.101.165.0/24",
-    "asn": "197706",
-    "country_code": "AL",
-    "name": "Keminet",
-    "org": "Keminet SHPK",
-    "domain": "keminet.net"
-  },
-  {
-    "network": "103.124.165.0/24",
     "asn": "197706",
     "country_code": "AL",
     "name": "Keminet",
@@ -2320,6 +2320,14 @@
     "domain": "rash.al"
   },
   {
+    "network": "37.139.114.0/24",
+    "asn": "57961",
+    "country_code": "AL",
+    "name": "RASH-AS",
+    "org": "RASH - Rrjeti Akademik Shqiptar",
+    "domain": "rash.al"
+  },
+  {
     "network": "37.139.116.0/22",
     "asn": "57961",
     "country_code": "AL",
@@ -2597,7 +2605,7 @@
     "country_code": "AL",
     "name": "EDMA-NET",
     "org": "Edma Net SHPK",
-    "domain": ""
+    "domain": "edma.al"
   },
   {
     "network": "45.90.82.0/24",
@@ -3048,14 +3056,6 @@
     "domain": "kujtesa.com"
   },
   {
-    "network": "46.19.230.0/24",
-    "asn": "29170",
-    "country_code": "AL",
-    "name": "KUJTESA-AS",
-    "org": "Kujtesa Net Sh.p.k.",
-    "domain": "kujtesa.com"
-  },
-  {
     "network": "82.114.64.0/19",
     "asn": "29170",
     "country_code": "AL",
@@ -3136,6 +3136,14 @@
     "domain": "kujtesa.com"
   },
   {
+    "network": "178.132.219.0/24",
+    "asn": "29170",
+    "country_code": "AL",
+    "name": "KUJTESA-AS",
+    "org": "Kujtesa Net Sh.p.k.",
+    "domain": "kujtesa.com"
+  },
+  {
     "network": "185.67.176.0/22",
     "asn": "29170",
     "country_code": "AL",
@@ -3144,7 +3152,23 @@
     "domain": "kujtesa.com"
   },
   {
+    "network": "185.67.177.0/24",
+    "asn": "29170",
+    "country_code": "AL",
+    "name": "KUJTESA-AS",
+    "org": "Kujtesa Net Sh.p.k.",
+    "domain": "kujtesa.com"
+  },
+  {
     "network": "185.67.178.0/24",
+    "asn": "29170",
+    "country_code": "AL",
+    "name": "KUJTESA-AS",
+    "org": "Kujtesa Net Sh.p.k.",
+    "domain": "kujtesa.com"
+  },
+  {
+    "network": "185.67.179.0/24",
     "asn": "29170",
     "country_code": "AL",
     "name": "KUJTESA-AS",
@@ -4224,6 +4248,166 @@
     "domain": "tring.al"
   },
   {
+    "network": "62.101.161.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "62.101.162.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "62.101.163.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "62.101.164.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "62.101.166.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "62.101.167.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "82.198.32.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "82.198.33.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "82.198.34.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "82.198.35.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "185.53.102.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "185.53.103.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "195.146.17.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "195.146.19.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "195.146.21.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "195.146.23.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "195.146.25.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "195.146.27.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "195.146.29.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
+    "network": "195.146.31.0/24",
+    "asn": "205025",
+    "country_code": "AL",
+    "name": "iRegister",
+    "org": "Ilir Kurti",
+    "domain": "keminet.net"
+  },
+  {
     "network": "70.40.188.0/24",
     "asn": "31130",
     "country_code": "AL",
@@ -4278,14 +4462,6 @@
     "name": "RapidSpace",
     "org": "Albanian Hosting SH.P.K.",
     "domain": "albahost.net"
-  },
-  {
-    "network": "77.83.120.0/24",
-    "asn": "213363",
-    "country_code": "AL",
-    "name": "Fiberconn-AS",
-    "org": "FiberConn (SH.P.K)",
-    "domain": ""
   },
   {
     "network": "77.83.121.0/24",
@@ -4664,6 +4840,14 @@
     "domain": "one.al"
   },
   {
+    "network": "79.106.79.0/24",
+    "asn": "42313",
+    "country_code": "AL",
+    "name": "ONEALBANIA-AS",
+    "org": "ONE ALBANIA SH.A.",
+    "domain": "one.al"
+  },
+  {
     "network": "79.106.84.0/24",
     "asn": "42313",
     "country_code": "AL",
@@ -4817,22 +5001,6 @@
   },
   {
     "network": "79.106.160.0/19",
-    "asn": "42313",
-    "country_code": "AL",
-    "name": "ONEALBANIA-AS",
-    "org": "ONE ALBANIA SH.A.",
-    "domain": "one.al"
-  },
-  {
-    "network": "79.106.162.0/24",
-    "asn": "42313",
-    "country_code": "AL",
-    "name": "ONEALBANIA-AS",
-    "org": "ONE ALBANIA SH.A.",
-    "domain": "one.al"
-  },
-  {
-    "network": "79.106.176.0/21",
     "asn": "42313",
     "country_code": "AL",
     "name": "ONEALBANIA-AS",
@@ -5288,6 +5456,14 @@
     "domain": "vodafone.com"
   },
   {
+    "network": "95.133.132.0/22",
+    "asn": "50973",
+    "country_code": "AL",
+    "name": "VODAFONE-AL-ASN",
+    "org": "Vodafone Albania Sh.A.",
+    "domain": "vodafone.com"
+  },
+  {
     "network": "188.172.96.0/24",
     "asn": "50973",
     "country_code": "AL",
@@ -5454,158 +5630,6 @@
     "name": "OBA",
     "org": "OTP Bank Albania Sh.A.",
     "domain": "otpbank.al"
-  },
-  {
-    "network": "82.22.239.0/24",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "82.24.231.0/24",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "91.239.6.0/24",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "91.239.7.0/24",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "157.173.39.0/24",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "166.0.4.0/22",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "203.12.28.0/24",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "203.30.219.0/24",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2001:67c:fd0::/48",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2602:f700:1::/48",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2602:f700:4::/48",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2602:f700:5::/48",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2602:f700:6::/48",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2602:f700:7::/48",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2602:f700:8::/48",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2602:f700:9::/48",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2602:f700:10::/44",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2602:f700:80::/42",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
-  },
-  {
-    "network": "2602:f700:e0::/43",
-    "asn": "213683",
-    "country_code": "AL",
-    "name": "host-al-asn",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
   },
   {
     "network": "84.20.64.0/22",
@@ -5896,6 +5920,14 @@
     "domain": "pronet.al"
   },
   {
+    "network": "84.20.94.0/24",
+    "asn": "33924",
+    "country_code": "AL",
+    "name": "PRONET-AL-AS",
+    "org": "Pronet sh.p.k.",
+    "domain": "pronet.al"
+  },
+  {
     "network": "84.20.95.0/24",
     "asn": "33924",
     "country_code": "AL",
@@ -5982,22 +6014,6 @@
     "name": "BANK-OF-ALBANIA",
     "org": "Banka e Shqiperise",
     "domain": "bankofalbania.org"
-  },
-  {
-    "network": "84.20.94.0/24",
-    "asn": "216280",
-    "country_code": "AL",
-    "name": "bkt",
-    "org": "Banka Kombetare Tregtare Sh.A.",
-    "domain": "bkt.com.al"
-  },
-  {
-    "network": "185.97.212.0/24",
-    "asn": "216280",
-    "country_code": "AL",
-    "name": "bkt",
-    "org": "Banka Kombetare Tregtare Sh.A.",
-    "domain": "bkt.com.al"
   },
   {
     "network": "85.137.214.0/24",
@@ -6278,6 +6294,182 @@
     "name": "Mobitel-BGP",
     "org": "Mobitel sh.p.k.",
     "domain": "mobitel.al"
+  },
+  {
+    "network": "91.239.6.0/24",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "91.239.7.0/24",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "157.173.39.0/24",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "166.0.4.0/22",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "199.244.181.0/24",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "199.244.182.0/24",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "199.244.183.0/24",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "203.12.28.0/24",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "203.30.219.0/24",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2001:67c:fd0::/48",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:1::/48",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:4::/48",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:5::/48",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:6::/48",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:7::/48",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:8::/48",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:9::/48",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:a::/48",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:b::/48",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:10::/44",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:80::/42",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:e0::/43",
+    "asn": "213683",
+    "country_code": "AL",
+    "name": "host-al-asn",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
   },
   {
     "network": "91.239.145.0/24",
@@ -6736,6 +6928,14 @@
     "domain": "ibc.al"
   },
   {
+    "network": "157.173.38.0/24",
+    "asn": "57388",
+    "country_code": "AL",
+    "name": "IBC-AS",
+    "org": "I.B.C - Telecom Sh.p.k.",
+    "domain": "ibc.al"
+  },
+  {
     "network": "185.85.152.0/22",
     "asn": "57388",
     "country_code": "AL",
@@ -7029,7 +7229,7 @@
     "country_code": "AL",
     "name": "OPTIXCOM-AS",
     "org": "Optixcom sh.p.k.",
-    "domain": "optixcom.net"
+    "domain": "optixcom.al"
   },
   {
     "network": "171.22.151.0/24",
@@ -7105,14 +7305,6 @@
   },
   {
     "network": "213.163.98.0/24",
-    "asn": "8661",
-    "country_code": "AL",
-    "name": "PTK",
-    "org": "Telekomi i Kosoves SH.A.",
-    "domain": "kosovotelecom.com"
-  },
-  {
-    "network": "213.163.99.0/24",
     "asn": "8661",
     "country_code": "AL",
     "name": "PTK",
@@ -7214,6 +7406,14 @@
     "name": "Selcom-AL-AS",
     "org": "S E L C O M SHPK",
     "domain": "selcom.al"
+  },
+  {
+    "network": "185.33.32.0/22",
+    "asn": "60304",
+    "country_code": "AL",
+    "name": "STARNET",
+    "org": "Starnet Sh.p.k.",
+    "domain": "starnet.al"
   },
   {
     "network": "185.33.32.0/24",
@@ -7440,6 +7640,14 @@
     "domain": "ids.al"
   },
   {
+    "network": "2a01:a960::/32",
+    "asn": "202179",
+    "country_code": "AL",
+    "name": "IDS-AS",
+    "org": "Intercom Data Service sh.p.k",
+    "domain": "ids.al"
+  },
+  {
     "network": "2a01:a960::/48",
     "asn": "202179",
     "country_code": "AL",
@@ -7505,6 +7713,14 @@
   },
   {
     "network": "185.71.180.0/22",
+    "asn": "201524",
+    "country_code": "AL",
+    "name": "ASP",
+    "org": "Albania State Police",
+    "domain": "asp.gov.al"
+  },
+  {
+    "network": "185.71.181.0/24",
     "asn": "201524",
     "country_code": "AL",
     "name": "ASP",
@@ -7622,6 +7838,14 @@
     "name": "NETWORK-ALBANIA",
     "org": "NETWORKALBANIA Sh.p.k",
     "domain": "networkalbania.al"
+  },
+  {
+    "network": "185.97.212.0/24",
+    "asn": "216280",
+    "country_code": "AL",
+    "name": "bkt",
+    "org": "Banka Kombetare Tregtare Sh.A.",
+    "domain": "bkt.com.al"
   },
   {
     "network": "185.114.112.0/22",
@@ -8024,6 +8248,30 @@
     "domain": "netcom.al"
   },
   {
+    "network": "185.237.18.0/23",
+    "asn": "38916",
+    "country_code": "AL",
+    "name": "FBD-AL-AS",
+    "org": "FBD shpk",
+    "domain": "planet.al"
+  },
+  {
+    "network": "185.237.18.0/24",
+    "asn": "38916",
+    "country_code": "AL",
+    "name": "FBD-AL-AS",
+    "org": "FBD shpk",
+    "domain": "planet.al"
+  },
+  {
+    "network": "185.237.19.0/24",
+    "asn": "38916",
+    "country_code": "AL",
+    "name": "FBD-AL-AS",
+    "org": "FBD shpk",
+    "domain": "planet.al"
+  },
+  {
     "network": "185.254.116.0/23",
     "asn": "204285",
     "country_code": "AL",
@@ -8124,7 +8372,7 @@
     "asn": "212766",
     "country_code": "AL",
     "name": "Netsyscom",
-    "org": "NetSysCom sh.p.k",
+    "org": "NetSysCom shpk",
     "domain": "netsyscom.al"
   },
   {
@@ -8132,7 +8380,7 @@
     "asn": "212766",
     "country_code": "AL",
     "name": "Netsyscom",
-    "org": "NetSysCom sh.p.k",
+    "org": "NetSysCom shpk",
     "domain": "netsyscom.al"
   },
   {
@@ -8209,6 +8457,22 @@
   },
   {
     "network": "194.35.249.0/24",
+    "asn": "202433",
+    "country_code": "AL",
+    "name": "Acenet",
+    "org": "Acenet sh.p.k.",
+    "domain": "acenet.al"
+  },
+  {
+    "network": "194.35.250.0/24",
+    "asn": "202433",
+    "country_code": "AL",
+    "name": "Acenet",
+    "org": "Acenet sh.p.k.",
+    "domain": "acenet.al"
+  },
+  {
+    "network": "194.35.251.0/24",
     "asn": "202433",
     "country_code": "AL",
     "name": "Acenet",
@@ -8350,37 +8614,5 @@
     "name": "VANI",
     "org": "VANI SHPK",
     "domain": "nsc.al"
-  },
-  {
-    "network": "217.60.194.0/24",
-    "asn": "213900",
-    "country_code": "AL",
-    "name": "rs",
-    "org": "RS Computers L.L.C",
-    "domain": "rscomputers-ks.com"
-  },
-  {
-    "network": "2a13:c8c3:cf43::/48",
-    "asn": "213900",
-    "country_code": "AL",
-    "name": "rs",
-    "org": "RS Computers L.L.C",
-    "domain": "rscomputers-ks.com"
-  },
-  {
-    "network": "2a13:c8c3:cf44::/48",
-    "asn": "213900",
-    "country_code": "AL",
-    "name": "rs",
-    "org": "RS Computers L.L.C",
-    "domain": "rscomputers-ks.com"
-  },
-  {
-    "network": "2a13:c8c3:e8ff::/48",
-    "asn": "213900",
-    "country_code": "AL",
-    "name": "rs",
-    "org": "RS Computers L.L.C",
-    "domain": "rscomputers-ks.com"
   }
 ]

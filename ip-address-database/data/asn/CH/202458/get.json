@@ -16,7 +16,7 @@
     "domain": "thunderhosting.cloud"
   },
   {
-    "network": "2a0e:97c0:c00::/48",
+    "network": "2a0e:97c0:dc0::/48",
     "asn": "202458",
     "country_code": "CH",
     "name": "ThunderHostingNetwork",
@@ -24,7 +24,15 @@
     "domain": "thunderhosting.cloud"
   },
   {
-    "network": "2a0e:97c0:dc0::/48",
+    "network": "2a0e:97c0:dc1::/48",
+    "asn": "202458",
+    "country_code": "CH",
+    "name": "ThunderHostingNetwork",
+    "org": "ThunderHosting GmbH",
+    "domain": "thunderhosting.cloud"
+  },
+  {
+    "network": "2a0e:97c0:dc2::/48",
     "asn": "202458",
     "country_code": "CH",
     "name": "ThunderHostingNetwork",

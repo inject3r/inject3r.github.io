@@ -8,7 +8,7 @@
     "domain": "verla.com.co"
   },
   {
-    "network": "89.190.152.0/22",
+    "network": "89.190.152.0/24",
     "asn": "274208",
     "country_code": "CO",
     "name": "VERLA S.A.S.",
@@ -24,7 +24,15 @@
     "domain": "verla.com.co"
   },
   {
-    "network": "2803:e3d0::/32",
+    "network": "2803:e3d0::/34",
+    "asn": "274208",
+    "country_code": "CO",
+    "name": "VERLA S.A.S.",
+    "org": "VERLA S.A.S.",
+    "domain": "verla.com.co"
+  },
+  {
+    "network": "2803:e3d0:4000::/40",
     "asn": "274208",
     "country_code": "CO",
     "name": "VERLA S.A.S.",

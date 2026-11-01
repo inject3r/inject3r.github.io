@@ -32,7 +32,7 @@
     "domain": "uls.co.za"
   },
   {
-    "network": "165.16.206.0/23",
+    "network": "165.16.207.0/24",
     "asn": "327767",
     "country_code": "ZA",
     "name": "ULTIMATE-LINUX",
@@ -41,6 +41,14 @@
   },
   {
     "network": "2c0f:f720::/32",
+    "asn": "327767",
+    "country_code": "ZA",
+    "name": "ULTIMATE-LINUX",
+    "org": "Ultimate Linux Solutions (Pty) Ltd",
+    "domain": "uls.co.za"
+  },
+  {
+    "network": "2c0f:f720:1000::/40",
     "asn": "327767",
     "country_code": "ZA",
     "name": "ULTIMATE-LINUX",

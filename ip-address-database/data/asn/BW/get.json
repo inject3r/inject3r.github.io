@@ -765,7 +765,7 @@
     "country_code": "BW",
     "name": "BBI",
     "org": "Broadband Botswana Internet",
-    "domain": "bbi.co.bw"
+    "domain": "paratus.africa"
   },
   {
     "network": "41.87.160.0/21",
@@ -773,7 +773,7 @@
     "country_code": "BW",
     "name": "BBI",
     "org": "Broadband Botswana Internet",
-    "domain": "bbi.co.bw"
+    "domain": "paratus.africa"
   },
   {
     "network": "41.87.168.0/22",
@@ -781,7 +781,7 @@
     "country_code": "BW",
     "name": "BBI",
     "org": "Broadband Botswana Internet",
-    "domain": "bbi.co.bw"
+    "domain": "paratus.africa"
   },
   {
     "network": "41.87.172.0/23",
@@ -789,7 +789,7 @@
     "country_code": "BW",
     "name": "BBI",
     "org": "Broadband Botswana Internet",
-    "domain": "bbi.co.bw"
+    "domain": "paratus.africa"
   },
   {
     "network": "41.87.190.0/23",
@@ -797,10 +797,18 @@
     "country_code": "BW",
     "name": "BBI",
     "org": "Broadband Botswana Internet",
-    "domain": "bbi.co.bw"
+    "domain": "paratus.africa"
   },
   {
     "network": "41.191.64.0/22",
+    "asn": "37604",
+    "country_code": "BW",
+    "name": "Zebranet-AS",
+    "org": "Desert Road Pty Ltd t/a Zebranet",
+    "domain": "zebranet.co.bw"
+  },
+  {
+    "network": "41.191.64.0/24",
     "asn": "37604",
     "country_code": "BW",
     "name": "Zebranet-AS",
@@ -985,14 +993,6 @@
   },
   {
     "network": "41.223.73.0/24",
-    "asn": "37014",
-    "country_code": "BW",
-    "name": "Mascom-Wireless-Botswana",
-    "org": "Mascom Wireless Ltd",
-    "domain": "mascom.bw"
-  },
-  {
-    "network": "41.223.74.0/24",
     "asn": "37014",
     "country_code": "BW",
     "name": "Mascom-Wireless-Botswana",
@@ -2201,6 +2201,14 @@
   },
   {
     "network": "154.73.36.0/22",
+    "asn": "327757",
+    "country_code": "BW",
+    "name": "ICT-DYNAMIX",
+    "org": "ICT DYNAMIX (Pty) Limited",
+    "domain": "ictdynamix.co.bw"
+  },
+  {
+    "network": "2c0f:f728::/32",
     "asn": "327757",
     "country_code": "BW",
     "name": "ICT-DYNAMIX",

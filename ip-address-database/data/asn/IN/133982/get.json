@@ -152,7 +152,7 @@
     "domain": "excitel.com"
   },
   {
-    "network": "38.254.186.0/24",
+    "network": "38.254.186.0/23",
     "asn": "133982",
     "country_code": "IN",
     "name": "EXCITEL-AS-IN",
@@ -160,7 +160,7 @@
     "domain": "excitel.com"
   },
   {
-    "network": "38.254.187.0/24",
+    "network": "38.254.186.0/24",
     "asn": "133982",
     "country_code": "IN",
     "name": "EXCITEL-AS-IN",
@@ -1480,15 +1480,7 @@
     "domain": "excitel.com"
   },
   {
-    "network": "205.254.188.0/24",
-    "asn": "133982",
-    "country_code": "IN",
-    "name": "EXCITEL-AS-IN",
-    "org": "Excitel Broadband Private Limited",
-    "domain": "excitel.com"
-  },
-  {
-    "network": "205.254.189.0/24",
+    "network": "205.254.188.0/23",
     "asn": "133982",
     "country_code": "IN",
     "name": "EXCITEL-AS-IN",
@@ -1529,6 +1521,14 @@
   },
   {
     "network": "2401:9640:2::/48",
+    "asn": "133982",
+    "country_code": "IN",
+    "name": "EXCITEL-AS-IN",
+    "org": "Excitel Broadband Private Limited",
+    "domain": "excitel.com"
+  },
+  {
+    "network": "2401:9640:3::/48",
     "asn": "133982",
     "country_code": "IN",
     "name": "EXCITEL-AS-IN",
@@ -2121,6 +2121,14 @@
   },
   {
     "network": "2401:9640:7801::/48",
+    "asn": "133982",
+    "country_code": "IN",
+    "name": "EXCITEL-AS-IN",
+    "org": "Excitel Broadband Private Limited",
+    "domain": "excitel.com"
+  },
+  {
+    "network": "2401:9640:7802::/48",
     "asn": "133982",
     "country_code": "IN",
     "name": "EXCITEL-AS-IN",

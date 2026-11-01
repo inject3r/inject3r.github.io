@@ -32,7 +32,7 @@
     "domain": "rnids.rs"
   },
   {
-    "network": "2001:67c:69c::/48",
+    "network": "185.182.163.0/24",
     "asn": "47267",
     "country_code": "RS",
     "name": "RNIDS-AS",
@@ -40,7 +40,7 @@
     "domain": "rnids.rs"
   },
   {
-    "network": "2a0f:eb80::/32",
+    "network": "2001:67c:69c::/48",
     "asn": "47267",
     "country_code": "RS",
     "name": "RNIDS-AS",
@@ -65,6 +65,14 @@
   },
   {
     "network": "2a0f:eb80:1::/48",
+    "asn": "47267",
+    "country_code": "RS",
+    "name": "RNIDS-AS",
+    "org": "Serbian National Internet Domain Registry Foundation",
+    "domain": "rnids.rs"
+  },
+  {
+    "network": "2a0f:eb80:10::/48",
     "asn": "47267",
     "country_code": "RS",
     "name": "RNIDS-AS",

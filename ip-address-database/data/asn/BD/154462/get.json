@@ -1,13 +1,5 @@
 [
   {
-    "network": "59.153.30.0/23",
-    "asn": "154462",
-    "country_code": "BD",
-    "name": "YOURNET-AS-AP",
-    "org": "Yournet Communications",
-    "domain": "yournetcommunications.net"
-  },
-  {
     "network": "59.153.30.0/24",
     "asn": "154462",
     "country_code": "BD",
@@ -49,6 +41,14 @@
   },
   {
     "network": "2402:4320:2::/48",
+    "asn": "154462",
+    "country_code": "BD",
+    "name": "YOURNET-AS-AP",
+    "org": "Yournet Communications",
+    "domain": "yournetcommunications.net"
+  },
+  {
+    "network": "2402:4320:3::/48",
     "asn": "154462",
     "country_code": "BD",
     "name": "YOURNET-AS-AP",

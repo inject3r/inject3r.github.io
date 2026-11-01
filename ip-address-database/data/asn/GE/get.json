@@ -328,6 +328,22 @@
     "domain": "senko.digital"
   },
   {
+    "network": "179.254.166.0/23",
+    "asn": "213520",
+    "country_code": "GE",
+    "name": "SENKO-AS",
+    "org": "Senko Digital LLC",
+    "domain": "senko.digital"
+  },
+  {
+    "network": "179.254.168.0/23",
+    "asn": "213520",
+    "country_code": "GE",
+    "name": "SENKO-AS",
+    "org": "Senko Digital LLC",
+    "domain": "senko.digital"
+  },
+  {
     "network": "193.23.197.0/24",
     "asn": "213520",
     "country_code": "GE",
@@ -360,23 +376,15 @@
     "domain": "senko.digital"
   },
   {
+    "network": "201.58.172.0/23",
+    "asn": "213520",
+    "country_code": "GE",
+    "name": "SENKO-AS",
+    "org": "Senko Digital LLC",
+    "domain": "senko.digital"
+  },
+  {
     "network": "2a06:9f43::/32",
-    "asn": "213520",
-    "country_code": "GE",
-    "name": "SENKO-AS",
-    "org": "Senko Digital LLC",
-    "domain": "senko.digital"
-  },
-  {
-    "network": "2a0d:d902::/32",
-    "asn": "213520",
-    "country_code": "GE",
-    "name": "SENKO-AS",
-    "org": "Senko Digital LLC",
-    "domain": "senko.digital"
-  },
-  {
-    "network": "2a0d:d903::/32",
     "asn": "213520",
     "country_code": "GE",
     "name": "SENKO-AS",
@@ -464,31 +472,7 @@
     "domain": "aliusvpn.com"
   },
   {
-    "network": "141.0.190.0/24",
-    "asn": "207057",
-    "country_code": "GE",
-    "name": "Alius",
-    "org": "Murtazali Ustarov trading as Alius",
-    "domain": "aliusvpn.com"
-  },
-  {
-    "network": "163.5.223.0/24",
-    "asn": "207057",
-    "country_code": "GE",
-    "name": "Alius",
-    "org": "Murtazali Ustarov trading as Alius",
-    "domain": "aliusvpn.com"
-  },
-  {
-    "network": "167.17.191.0/24",
-    "asn": "207057",
-    "country_code": "GE",
-    "name": "Alius",
-    "org": "Murtazali Ustarov trading as Alius",
-    "domain": "aliusvpn.com"
-  },
-  {
-    "network": "201.10.93.0/24",
+    "network": "153.52.79.0/24",
     "asn": "207057",
     "country_code": "GE",
     "name": "Alius",
@@ -608,12 +592,60 @@
     "domain": "servicebox.ge"
   },
   {
-    "network": "5.10.32.0/21",
-    "asn": "199045",
+    "network": "5.10.32.0/24",
+    "asn": "208744",
     "country_code": "GE",
-    "name": "SKYNET-AS",
-    "org": "LTD Sky-Net",
-    "domain": "skynet.ge"
+    "name": "UGTCLOUD",
+    "org": "UGT LLC",
+    "domain": "ugt.ge"
+  },
+  {
+    "network": "46.31.64.0/24",
+    "asn": "208744",
+    "country_code": "GE",
+    "name": "UGTCLOUD",
+    "org": "UGT LLC",
+    "domain": "ugt.ge"
+  },
+  {
+    "network": "154.6.140.0/23",
+    "asn": "208744",
+    "country_code": "GE",
+    "name": "UGTCLOUD",
+    "org": "UGT LLC",
+    "domain": "ugt.ge"
+  },
+  {
+    "network": "154.6.141.0/24",
+    "asn": "208744",
+    "country_code": "GE",
+    "name": "UGTCLOUD",
+    "org": "UGT LLC",
+    "domain": "ugt.ge"
+  },
+  {
+    "network": "185.202.110.0/24",
+    "asn": "208744",
+    "country_code": "GE",
+    "name": "UGTCLOUD",
+    "org": "UGT LLC",
+    "domain": "ugt.ge"
+  },
+  {
+    "network": "185.247.94.0/24",
+    "asn": "208744",
+    "country_code": "GE",
+    "name": "UGTCLOUD",
+    "org": "UGT LLC",
+    "domain": "ugt.ge"
+  },
+  {
+    "network": "185.247.95.0/24",
+    "asn": "208744",
+    "country_code": "GE",
+    "name": "UGTCLOUD",
+    "org": "UGT LLC",
+    "domain": "ugt.ge"
   },
   {
     "network": "5.10.33.0/24",
@@ -632,7 +664,7 @@
     "domain": "skynet.ge"
   },
   {
-    "network": "5.10.36.0/24",
+    "network": "5.10.35.0/24",
     "asn": "199045",
     "country_code": "GE",
     "name": "SKYNET-AS",
@@ -640,7 +672,7 @@
     "domain": "skynet.ge"
   },
   {
-    "network": "5.10.37.0/24",
+    "network": "5.10.36.0/24",
     "asn": "199045",
     "country_code": "GE",
     "name": "SKYNET-AS",
@@ -688,140 +720,204 @@
     "domain": "justice.gov.ge"
   },
   {
-    "network": "5.59.0.0/23",
-    "asn": "203136",
+    "network": "5.104.72.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "5.59.0.0/24",
-    "asn": "203136",
+    "network": "5.104.73.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "5.59.1.0/24",
-    "asn": "203136",
+    "network": "5.252.155.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "74.1.222.0/23",
-    "asn": "203136",
+    "network": "45.12.62.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "74.1.222.0/24",
-    "asn": "203136",
+    "network": "45.95.99.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "74.1.223.0/24",
-    "asn": "203136",
+    "network": "45.131.214.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "85.117.53.0/24",
-    "asn": "203136",
+    "network": "45.139.84.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "185.143.176.0/22",
-    "asn": "203136",
+    "network": "45.151.106.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "185.143.176.0/24",
-    "asn": "203136",
+    "network": "45.153.219.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "185.143.177.0/24",
-    "asn": "203136",
+    "network": "84.252.66.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "185.143.178.0/24",
-    "asn": "203136",
+    "network": "93.190.247.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "185.143.179.0/24",
-    "asn": "203136",
+    "network": "95.85.236.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "2a0e:2700::/29",
-    "asn": "203136",
+    "network": "95.85.237.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "2a0e:2700::/32",
-    "asn": "203136",
+    "network": "95.85.239.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "2a0e:2701::/32",
-    "asn": "203136",
+    "network": "103.114.43.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "2a0e:2702::/32",
-    "asn": "203136",
+    "network": "103.139.48.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
-    "network": "2a0e:2703::/32",
-    "asn": "203136",
+    "network": "103.227.84.0/24",
+    "asn": "200823",
     "country_code": "GE",
-    "name": "ordunet",
-    "org": "LLC Ordunet",
-    "domain": "ordunet.ge"
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
+  },
+  {
+    "network": "109.107.168.0/24",
+    "asn": "200823",
+    "country_code": "GE",
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
+  },
+  {
+    "network": "178.17.62.0/24",
+    "asn": "200823",
+    "country_code": "GE",
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
+  },
+  {
+    "network": "193.41.68.0/24",
+    "asn": "200823",
+    "country_code": "GE",
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
+  },
+  {
+    "network": "194.33.61.0/24",
+    "asn": "200823",
+    "country_code": "GE",
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
+  },
+  {
+    "network": "194.35.226.0/24",
+    "asn": "200823",
+    "country_code": "GE",
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
+  },
+  {
+    "network": "2a14:a087:8::/48",
+    "asn": "200823",
+    "country_code": "GE",
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
+  },
+  {
+    "network": "2a14:a087:9::/48",
+    "asn": "200823",
+    "country_code": "GE",
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
+  },
+  {
+    "network": "2a14:a087:d::/48",
+    "asn": "200823",
+    "country_code": "GE",
+    "name": "MHost-AS",
+    "org": "MHost LLC",
+    "domain": "mhost.ee"
   },
   {
     "network": "5.104.74.0/24",
@@ -1233,6 +1329,14 @@
   },
   {
     "network": "188.169.0.0/16",
+    "asn": "35805",
+    "country_code": "GE",
+    "name": "SILKNET-AS",
+    "org": "JSC \"Silknet\"",
+    "domain": "silknet.com"
+  },
+  {
+    "network": "188.169.56.0/24",
     "asn": "35805",
     "country_code": "GE",
     "name": "SILKNET-AS",
@@ -1760,166 +1864,6 @@
     "domain": "magticom.ge"
   },
   {
-    "network": "5.181.43.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "23.252.75.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "45.9.122.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "45.118.250.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "45.137.84.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "45.139.86.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "45.146.89.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "45.151.104.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "85.209.128.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "103.91.146.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "103.229.28.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "113.203.211.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "113.203.212.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "167.94.162.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "175.110.106.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "175.110.108.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "175.110.109.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "175.110.110.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "175.110.111.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "185.9.52.0/24",
-    "asn": "199899",
-    "country_code": "GE",
-    "name": "GORIWEB",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
     "network": "5.187.8.0/21",
     "asn": "49628",
     "country_code": "GE",
@@ -2360,174 +2304,6 @@
     "domain": "skytel.ge"
   },
   {
-    "network": "5.252.155.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "45.12.62.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "45.95.99.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "45.131.214.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "45.139.84.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "45.151.106.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "45.153.219.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "93.190.247.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "95.85.236.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "95.85.237.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "95.85.239.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "103.114.43.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "103.227.84.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "109.107.168.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "178.17.62.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "193.41.68.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "194.33.61.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "194.35.226.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "2a14:a087:8::/48",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "2a14:a087:9::/48",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "2a14:a087:d::/48",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
     "network": "5.255.57.0/24",
     "asn": "197328",
     "country_code": "GE",
@@ -2600,23 +2376,7 @@
     "domain": "geokomi.net"
   },
   {
-    "network": "115.167.50.0/24",
-    "asn": "197328",
-    "country_code": "GE",
-    "name": "ISTANBULDC1",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
     "network": "167.160.11.0/24",
-    "asn": "197328",
-    "country_code": "GE",
-    "name": "ISTANBULDC1",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
-  },
-  {
-    "network": "175.110.99.0/24",
     "asn": "197328",
     "country_code": "GE",
     "name": "ISTANBULDC1",
@@ -2664,228 +2424,12 @@
     "domain": "geokomi.net"
   },
   {
-    "network": "5.255.61.0/24",
-    "asn": "199242",
+    "network": "13.143.144.0/24",
+    "asn": "219010",
     "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "23.252.79.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "31.222.234.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "37.72.142.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "46.245.239.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "62.3.11.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "62.106.90.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "62.233.61.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "80.71.144.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "91.246.50.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "146.19.4.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "146.19.199.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "146.19.203.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "162.222.90.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "176.97.217.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "176.126.101.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "185.234.12.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "185.252.210.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "188.244.119.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "193.9.48.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "193.162.132.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "193.162.133.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "194.26.230.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "194.26.231.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "194.99.158.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "195.96.130.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "195.96.131.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
-  },
-  {
-    "network": "212.52.28.0/24",
-    "asn": "199242",
-    "country_code": "GE",
-    "name": "malakmadze",
-    "org": "Malakmadze Web LLC",
-    "domain": ""
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
   },
   {
     "network": "13.143.148.0/24",
@@ -2897,6 +2441,14 @@
   },
   {
     "network": "45.130.186.0/24",
+    "asn": "219010",
+    "country_code": "GE",
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
+  },
+  {
+    "network": "79.182.189.0/24",
     "asn": "219010",
     "country_code": "GE",
     "name": "Prosto-AS",
@@ -2960,6 +2512,22 @@
     "domain": "prostosolution.com"
   },
   {
+    "network": "179.236.142.0/24",
+    "asn": "219010",
+    "country_code": "GE",
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
+  },
+  {
+    "network": "179.253.189.0/24",
+    "asn": "219010",
+    "country_code": "GE",
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
+  },
+  {
     "network": "179.254.105.0/24",
     "asn": "219010",
     "country_code": "GE",
@@ -2976,12 +2544,76 @@
     "domain": "prostosolution.com"
   },
   {
+    "network": "193.124.119.0/24",
+    "asn": "219010",
+    "country_code": "GE",
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
+  },
+  {
+    "network": "194.87.53.0/24",
+    "asn": "219010",
+    "country_code": "GE",
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
+  },
+  {
     "network": "194.87.59.0/24",
     "asn": "219010",
     "country_code": "GE",
     "name": "Prosto-AS",
     "org": "Prosto Solution LLC",
     "domain": "prostosolution.com"
+  },
+  {
+    "network": "194.87.142.0/24",
+    "asn": "219010",
+    "country_code": "GE",
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
+  },
+  {
+    "network": "195.58.33.0/24",
+    "asn": "219010",
+    "country_code": "GE",
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
+  },
+  {
+    "network": "195.133.72.0/24",
+    "asn": "219010",
+    "country_code": "GE",
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
+  },
+  {
+    "network": "201.58.159.0/24",
+    "asn": "219010",
+    "country_code": "GE",
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
+  },
+  {
+    "network": "201.58.171.0/24",
+    "asn": "219010",
+    "country_code": "GE",
+    "name": "Prosto-AS",
+    "org": "Prosto Solution LLC",
+    "domain": "prostosolution.com"
+  },
+  {
+    "network": "23.252.75.0/24",
+    "asn": "199899",
+    "country_code": "GE",
+    "name": "GORIWEB",
+    "org": "GEOCOM LLC",
+    "domain": "geokomi.net"
   },
   {
     "network": "23.252.76.0/24",
@@ -3728,14 +3360,6 @@
     "domain": "abkhazmedia.ru"
   },
   {
-    "network": "77.221.144.0/24",
-    "asn": "216300",
-    "country_code": "GE",
-    "name": "AbkhazMedia-As",
-    "org": "Closed Joint Stock Company \"AbkhazMedia\"",
-    "domain": "abkhazmedia.ru"
-  },
-  {
     "network": "78.40.211.0/24",
     "asn": "216300",
     "country_code": "GE",
@@ -3928,7 +3552,23 @@
     "domain": "tochkanetwork.com"
   },
   {
+    "network": "78.17.193.0/24",
+    "asn": "207359",
+    "country_code": "GE",
+    "name": "TochkaNetwork-AS",
+    "org": "Tochka Network LLC",
+    "domain": "tochkanetwork.com"
+  },
+  {
     "network": "80.71.228.0/24",
+    "asn": "207359",
+    "country_code": "GE",
+    "name": "TochkaNetwork-AS",
+    "org": "Tochka Network LLC",
+    "domain": "tochkanetwork.com"
+  },
+  {
+    "network": "87.58.200.0/24",
     "asn": "207359",
     "country_code": "GE",
     "name": "TochkaNetwork-AS",
@@ -3992,6 +3632,14 @@
     "domain": "tochkanetwork.com"
   },
   {
+    "network": "185.238.191.0/24",
+    "asn": "207359",
+    "country_code": "GE",
+    "name": "TochkaNetwork-AS",
+    "org": "Tochka Network LLC",
+    "domain": "tochkanetwork.com"
+  },
+  {
     "network": "194.58.43.0/24",
     "asn": "207359",
     "country_code": "GE",
@@ -4009,6 +3657,14 @@
   },
   {
     "network": "213.182.209.0/24",
+    "asn": "207359",
+    "country_code": "GE",
+    "name": "TochkaNetwork-AS",
+    "org": "Tochka Network LLC",
+    "domain": "tochkanetwork.com"
+  },
+  {
+    "network": "213.182.214.0/24",
     "asn": "207359",
     "country_code": "GE",
     "name": "TochkaNetwork-AS",
@@ -4072,12 +3728,68 @@
     "domain": "m2.ge"
   },
   {
-    "network": "45.90.253.0/24",
+    "network": "45.90.254.0/24",
     "asn": "208603",
     "country_code": "GE",
     "name": "ge-m2",
     "org": "Real Estate of Georgia JSC",
     "domain": "m2.ge"
+  },
+  {
+    "network": "45.90.255.0/24",
+    "asn": "208603",
+    "country_code": "GE",
+    "name": "ge-m2",
+    "org": "Real Estate of Georgia JSC",
+    "domain": "m2.ge"
+  },
+  {
+    "network": "45.91.208.0/24",
+    "asn": "199595",
+    "country_code": "GE",
+    "name": "GTELCOM-AS",
+    "org": "GTELCOM LLC",
+    "domain": "robomail.biz"
+  },
+  {
+    "network": "45.137.40.0/24",
+    "asn": "199595",
+    "country_code": "GE",
+    "name": "GTELCOM-AS",
+    "org": "GTELCOM LLC",
+    "domain": "robomail.biz"
+  },
+  {
+    "network": "45.158.187.0/24",
+    "asn": "199595",
+    "country_code": "GE",
+    "name": "GTELCOM-AS",
+    "org": "GTELCOM LLC",
+    "domain": "robomail.biz"
+  },
+  {
+    "network": "113.30.153.0/24",
+    "asn": "199595",
+    "country_code": "GE",
+    "name": "GTELCOM-AS",
+    "org": "GTELCOM LLC",
+    "domain": "robomail.biz"
+  },
+  {
+    "network": "153.79.175.0/24",
+    "asn": "199595",
+    "country_code": "GE",
+    "name": "GTELCOM-AS",
+    "org": "GTELCOM LLC",
+    "domain": "robomail.biz"
+  },
+  {
+    "network": "2a03:e340:7::/48",
+    "asn": "199595",
+    "country_code": "GE",
+    "name": "GTELCOM-AS",
+    "org": "GTELCOM LLC",
+    "domain": "robomail.biz"
   },
   {
     "network": "45.95.20.0/24",
@@ -4384,44 +4096,36 @@
     "domain": "green.net.ge"
   },
   {
-    "network": "45.137.40.0/24",
-    "asn": "199595",
+    "network": "45.137.116.0/24",
+    "asn": "218322",
     "country_code": "GE",
-    "name": "GTELCOM-AS",
-    "org": "GTELCOM LLC",
-    "domain": "robomail.biz"
+    "name": "VNL-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
   },
   {
-    "network": "45.158.187.0/24",
-    "asn": "199595",
+    "network": "82.38.20.0/24",
+    "asn": "218322",
     "country_code": "GE",
-    "name": "GTELCOM-AS",
-    "org": "GTELCOM LLC",
-    "domain": "robomail.biz"
+    "name": "VNL-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
   },
   {
-    "network": "113.30.153.0/24",
-    "asn": "199595",
+    "network": "143.20.244.0/24",
+    "asn": "218322",
     "country_code": "GE",
-    "name": "GTELCOM-AS",
-    "org": "GTELCOM LLC",
-    "domain": "robomail.biz"
+    "name": "VNL-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
   },
   {
-    "network": "153.79.175.0/24",
-    "asn": "199595",
+    "network": "178.92.13.0/24",
+    "asn": "218322",
     "country_code": "GE",
-    "name": "GTELCOM-AS",
-    "org": "GTELCOM LLC",
-    "domain": "robomail.biz"
-  },
-  {
-    "network": "2a03:e340:7::/48",
-    "asn": "199595",
-    "country_code": "GE",
-    "name": "GTELCOM-AS",
-    "org": "GTELCOM LLC",
-    "domain": "robomail.biz"
+    "name": "VNL-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
   },
   {
     "network": "45.141.217.0/24",
@@ -4648,60 +4352,20 @@
     "domain": "enetwork.ge"
   },
   {
-    "network": "46.31.64.0/24",
-    "asn": "208744",
-    "country_code": "GE",
-    "name": "UGTCLOUD",
-    "org": "UGT LLC",
-    "domain": "ugt.ge"
-  },
-  {
-    "network": "154.6.140.0/23",
-    "asn": "208744",
-    "country_code": "GE",
-    "name": "UGTCLOUD",
-    "org": "UGT LLC",
-    "domain": "ugt.ge"
-  },
-  {
-    "network": "154.6.141.0/24",
-    "asn": "208744",
-    "country_code": "GE",
-    "name": "UGTCLOUD",
-    "org": "UGT LLC",
-    "domain": "ugt.ge"
-  },
-  {
-    "network": "185.202.110.0/24",
-    "asn": "208744",
-    "country_code": "GE",
-    "name": "UGTCLOUD",
-    "org": "UGT LLC",
-    "domain": "ugt.ge"
-  },
-  {
-    "network": "185.247.94.0/24",
-    "asn": "208744",
-    "country_code": "GE",
-    "name": "UGTCLOUD",
-    "org": "UGT LLC",
-    "domain": "ugt.ge"
-  },
-  {
-    "network": "185.247.95.0/24",
-    "asn": "208744",
-    "country_code": "GE",
-    "name": "UGTCLOUD",
-    "org": "UGT LLC",
-    "domain": "ugt.ge"
-  },
-  {
     "network": "46.175.134.0/24",
     "asn": "210923",
     "country_code": "GE",
     "name": "netservice-AS",
     "org": "LTD NETSERVICE",
     "domain": "netsrv.ge"
+  },
+  {
+    "network": "62.3.11.0/24",
+    "asn": "199242",
+    "country_code": "GE",
+    "name": "malakmadze",
+    "org": "Malakmadze Web LLC",
+    "domain": ""
   },
   {
     "network": "62.3.30.0/24",
@@ -5064,35 +4728,123 @@
     "domain": "ulta.team"
   },
   {
-    "network": "77.110.66.0/24",
-    "asn": "59447",
+    "network": "74.1.222.0/23",
+    "asn": "203136",
     "country_code": "GE",
-    "name": "GEOCOM",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
   },
   {
-    "network": "77.110.75.0/24",
-    "asn": "59447",
+    "network": "74.1.222.0/24",
+    "asn": "203136",
     "country_code": "GE",
-    "name": "GEOCOM",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
   },
   {
-    "network": "77.110.77.0/24",
-    "asn": "59447",
+    "network": "74.1.223.0/24",
+    "asn": "203136",
     "country_code": "GE",
-    "name": "GEOCOM",
-    "org": "GEOCOM LLC",
-    "domain": "geokomi.net"
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "85.117.53.0/24",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "185.143.176.0/22",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "185.143.176.0/24",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "185.143.177.0/24",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "185.143.178.0/24",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "185.143.179.0/24",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "2a0e:2700::/29",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "2a0e:2700::/32",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "2a0e:2701::/32",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "2a0e:2702::/32",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
+  },
+  {
+    "network": "2a0e:2703::/32",
+    "asn": "203136",
+    "country_code": "GE",
+    "name": "ordunet",
+    "org": "LLC Ordunet",
+    "domain": "ordunet.ge"
   },
   {
     "network": "79.99.92.0/24",
     "asn": "9144",
     "country_code": "GE",
     "name": "CHEMPIONEBI-AS",
-    "org": "Europabet LLC",
+    "org": "Europebet LLC",
     "domain": "europebet.com"
   },
   {
@@ -5100,7 +4852,7 @@
     "asn": "9144",
     "country_code": "GE",
     "name": "CHEMPIONEBI-AS",
-    "org": "Europabet LLC",
+    "org": "Europebet LLC",
     "domain": "europebet.com"
   },
   {
@@ -5108,7 +4860,7 @@
     "asn": "9144",
     "country_code": "GE",
     "name": "CHEMPIONEBI-AS",
-    "org": "Europabet LLC",
+    "org": "Europebet LLC",
     "domain": "europebet.com"
   },
   {
@@ -5116,7 +4868,7 @@
     "asn": "9144",
     "country_code": "GE",
     "name": "CHEMPIONEBI-AS",
-    "org": "Europabet LLC",
+    "org": "Europebet LLC",
     "domain": "europebet.com"
   },
   {
@@ -5124,8 +4876,104 @@
     "asn": "9144",
     "country_code": "GE",
     "name": "CHEMPIONEBI-AS",
-    "org": "Europabet LLC",
+    "org": "Europebet LLC",
     "domain": "europebet.com"
+  },
+  {
+    "network": "80.71.237.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "81.29.157.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "89.125.238.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "93.190.8.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "93.190.9.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "94.156.14.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "104.143.219.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "153.76.185.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "195.216.175.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "206.245.137.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "213.182.201.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
+  },
+  {
+    "network": "213.182.206.0/24",
+    "asn": "218687",
+    "country_code": "GE",
+    "name": "VNL25-AS",
+    "org": "Vsem Network LLC",
+    "domain": ""
   },
   {
     "network": "80.83.128.0/20",
@@ -6248,30 +6096,6 @@
     "domain": "xsg.ge"
   },
   {
-    "network": "93.190.8.0/24",
-    "asn": "218687",
-    "country_code": "GE",
-    "name": "VNL25-AS",
-    "org": "Vsem Network LLC",
-    "domain": ""
-  },
-  {
-    "network": "93.190.9.0/24",
-    "asn": "218687",
-    "country_code": "GE",
-    "name": "VNL25-AS",
-    "org": "Vsem Network LLC",
-    "domain": ""
-  },
-  {
-    "network": "153.76.185.0/24",
-    "asn": "218687",
-    "country_code": "GE",
-    "name": "VNL25-AS",
-    "org": "Vsem Network LLC",
-    "domain": ""
-  },
-  {
     "network": "109.68.223.0/24",
     "asn": "209263",
     "country_code": "GE",
@@ -6584,15 +6408,15 @@
     "domain": "spargeorgia.com"
   },
   {
-    "network": "148.59.160.0/24",
-    "asn": "219096",
+    "network": "147.90.183.0/24",
+    "asn": "218574",
     "country_code": "GE",
-    "name": "HOSDEX",
-    "org": "HOSDEX LLC",
-    "domain": "hosdex.com"
+    "name": "PrimeNet",
+    "org": "Primenet LLC",
+    "domain": "primenet.ge"
   },
   {
-    "network": "2602:f61e:40::/44",
+    "network": "148.59.160.0/24",
     "asn": "219096",
     "country_code": "GE",
     "name": "HOSDEX",
@@ -6630,6 +6454,22 @@
     "name": "METRONET",
     "org": "METRONET LLC",
     "domain": "metronet.ge"
+  },
+  {
+    "network": "176.73.0.0/17",
+    "asn": "28751",
+    "country_code": "GE",
+    "name": "CAUCASUS-NET-AS",
+    "org": "Caucasus Online Ltd.",
+    "domain": "co.ge"
+  },
+  {
+    "network": "176.73.128.0/17",
+    "asn": "28751",
+    "country_code": "GE",
+    "name": "CAUCASUS-NET-AS",
+    "org": "Caucasus Online Ltd.",
+    "domain": "co.ge"
   },
   {
     "network": "178.22.27.0/24",

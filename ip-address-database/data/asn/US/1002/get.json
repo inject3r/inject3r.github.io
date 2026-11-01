@@ -24,7 +24,15 @@
     "domain": "bytefilter.com"
   },
   {
-    "network": "155.103.80.0/22",
+    "network": "155.103.80.0/24",
+    "asn": "1002",
+    "country_code": "US",
+    "name": "BYTEFILTER-AS",
+    "org": "Bytefilter LLC",
+    "domain": "bytefilter.com"
+  },
+  {
+    "network": "155.103.81.0/24",
     "asn": "1002",
     "country_code": "US",
     "name": "BYTEFILTER-AS",

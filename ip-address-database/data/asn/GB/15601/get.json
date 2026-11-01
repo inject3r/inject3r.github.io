@@ -1,6 +1,14 @@
 [
   {
-    "network": "130.32.0.0/16",
+    "network": "130.32.0.0/18",
+    "asn": "15601",
+    "country_code": "GB",
+    "name": "UNSPECIFIED",
+    "org": "Baring Investment Services Ltd",
+    "domain": "baring-asset.com"
+  },
+  {
+    "network": "130.32.164.0/22",
     "asn": "15601",
     "country_code": "GB",
     "name": "UNSPECIFIED",

@@ -1176,30 +1176,6 @@
     "domain": "vidnoe.net"
   },
   {
-    "network": "94.143.40.0/22",
-    "asn": "48573",
-    "country_code": "SI",
-    "name": "VIDNOENET",
-    "org": "PHAETON PLUS d.o.o",
-    "domain": "vidnoe.net"
-  },
-  {
-    "network": "94.143.40.0/24",
-    "asn": "48573",
-    "country_code": "SI",
-    "name": "VIDNOENET",
-    "org": "PHAETON PLUS d.o.o",
-    "domain": "vidnoe.net"
-  },
-  {
-    "network": "94.143.42.0/23",
-    "asn": "48573",
-    "country_code": "SI",
-    "name": "VIDNOENET",
-    "org": "PHAETON PLUS d.o.o",
-    "domain": "vidnoe.net"
-  },
-  {
     "network": "94.143.42.0/24",
     "asn": "48573",
     "country_code": "SI",
@@ -1216,23 +1192,7 @@
     "domain": "vidnoe.net"
   },
   {
-    "network": "94.143.44.0/22",
-    "asn": "48573",
-    "country_code": "SI",
-    "name": "VIDNOENET",
-    "org": "PHAETON PLUS d.o.o",
-    "domain": "vidnoe.net"
-  },
-  {
     "network": "95.215.136.0/23",
-    "asn": "48573",
-    "country_code": "SI",
-    "name": "VIDNOENET",
-    "org": "PHAETON PLUS d.o.o",
-    "domain": "vidnoe.net"
-  },
-  {
-    "network": "95.215.138.0/23",
     "asn": "48573",
     "country_code": "SI",
     "name": "VIDNOENET",
@@ -1248,23 +1208,7 @@
     "domain": "vidnoe.net"
   },
   {
-    "network": "185.43.8.0/23",
-    "asn": "48573",
-    "country_code": "SI",
-    "name": "VIDNOENET",
-    "org": "PHAETON PLUS d.o.o",
-    "domain": "vidnoe.net"
-  },
-  {
     "network": "185.43.8.0/24",
-    "asn": "48573",
-    "country_code": "SI",
-    "name": "VIDNOENET",
-    "org": "PHAETON PLUS d.o.o",
-    "domain": "vidnoe.net"
-  },
-  {
-    "network": "185.43.10.0/23",
     "asn": "48573",
     "country_code": "SI",
     "name": "VIDNOENET",
@@ -1553,6 +1497,14 @@
   },
   {
     "network": "178.58.0.0/16",
+    "asn": "5603",
+    "country_code": "SI",
+    "name": "SIOL-NET",
+    "org": "Telekom Slovenije, d.d.",
+    "domain": "telekom.si"
+  },
+  {
+    "network": "185.46.140.0/24",
     "asn": "5603",
     "country_code": "SI",
     "name": "SIOL-NET",
@@ -2712,6 +2664,22 @@
     "domain": "kralj.io"
   },
   {
+    "network": "44.30.168.0/24",
+    "asn": "205211",
+    "country_code": "SI",
+    "name": "TCLOUNET",
+    "org": "Tilen Barbiric",
+    "domain": "barbiric.eu"
+  },
+  {
+    "network": "2a0c:b641:4c0::/44",
+    "asn": "205211",
+    "country_code": "SI",
+    "name": "TCLOUNET",
+    "org": "Tilen Barbiric",
+    "domain": "barbiric.eu"
+  },
+  {
     "network": "44.31.167.0/24",
     "asn": "212405",
     "country_code": "SI",
@@ -3760,6 +3728,14 @@
     "domain": "humanfrog.com"
   },
   {
+    "network": "45.157.6.0/24",
+    "asn": "60435",
+    "country_code": "SI",
+    "name": "HUMANFROG-AS",
+    "org": "Humanfrog d.o.o.",
+    "domain": "humanfrog.com"
+  },
+  {
     "network": "185.29.16.0/24",
     "asn": "60435",
     "country_code": "SI",
@@ -3793,22 +3769,6 @@
   },
   {
     "network": "193.242.154.0/24",
-    "asn": "60435",
-    "country_code": "SI",
-    "name": "HUMANFROG-AS",
-    "org": "Humanfrog d.o.o.",
-    "domain": "humanfrog.com"
-  },
-  {
-    "network": "2a00:a360::/32",
-    "asn": "60435",
-    "country_code": "SI",
-    "name": "HUMANFROG-AS",
-    "org": "Humanfrog d.o.o.",
-    "domain": "humanfrog.com"
-  },
-  {
-    "network": "2a00:a362::/32",
     "asn": "60435",
     "country_code": "SI",
     "name": "HUMANFROG-AS",
@@ -4993,6 +4953,14 @@
   },
   {
     "network": "152.89.235.0/24",
+    "asn": "48894",
+    "country_code": "SI",
+    "name": "OPTIMUS-AS",
+    "org": "Optimus IT d.o.o.",
+    "domain": "optimus.si"
+  },
+  {
+    "network": "188.190.0.0/24",
     "asn": "48894",
     "country_code": "SI",
     "name": "OPTIMUS-AS",
@@ -6548,16 +6516,8 @@
     "asn": "209411",
     "country_code": "SI",
     "name": "D1-SI",
-    "org": "D1, informacijske tehnologije, d.o.o.",
-    "domain": "d1.si"
-  },
-  {
-    "network": "209.16.142.0/24",
-    "asn": "209411",
-    "country_code": "SI",
-    "name": "D1-SI",
-    "org": "D1, informacijske tehnologije, d.o.o.",
-    "domain": "d1.si"
+    "org": "RETIP Informacijske Storitve d.o.o.",
+    "domain": "bss.si"
   },
   {
     "network": "185.133.184.0/24",
@@ -6601,14 +6561,6 @@
   },
   {
     "network": "185.153.24.0/23",
-    "asn": "202840",
-    "country_code": "SI",
-    "name": "elmitel",
-    "org": "ELMITEL d.o.o.",
-    "domain": "elmitel.com"
-  },
-  {
-    "network": "185.153.26.0/23",
     "asn": "202840",
     "country_code": "SI",
     "name": "elmitel",
@@ -7616,14 +7568,6 @@
     "domain": "generali.com"
   },
   {
-    "network": "195.170.177.0/24",
-    "asn": "39872",
-    "country_code": "SI",
-    "name": "SODO-AS",
-    "org": "ELES, d.o.o.",
-    "domain": "eles.si"
-  },
-  {
     "network": "195.178.118.0/23",
     "asn": "39387",
     "country_code": "SI",
@@ -7697,30 +7641,6 @@
   },
   {
     "network": "195.234.169.0/24",
-    "asn": "207774",
-    "country_code": "SI",
-    "name": "NETCOM",
-    "org": "INNET STREAMING network services d.o.o.",
-    "domain": "innet.si"
-  },
-  {
-    "network": "195.234.179.0/24",
-    "asn": "207774",
-    "country_code": "SI",
-    "name": "NETCOM",
-    "org": "INNET STREAMING network services d.o.o.",
-    "domain": "innet.si"
-  },
-  {
-    "network": "195.234.181.0/24",
-    "asn": "207774",
-    "country_code": "SI",
-    "name": "NETCOM",
-    "org": "INNET STREAMING network services d.o.o.",
-    "domain": "innet.si"
-  },
-  {
-    "network": "195.234.189.0/24",
     "asn": "207774",
     "country_code": "SI",
     "name": "NETCOM",
@@ -7816,6 +7736,14 @@
     "domain": "coneris.com"
   },
   {
+    "network": "209.16.142.0/24",
+    "asn": "35471",
+    "country_code": "SI",
+    "name": "D1",
+    "org": "D1, informacijske tehnologije, d.o.o.",
+    "domain": "d1.si"
+  },
+  {
     "network": "212.232.20.0/23",
     "asn": "214499",
     "country_code": "SI",
@@ -7833,14 +7761,6 @@
   },
   {
     "network": "213.142.224.0/19",
-    "asn": "44993",
-    "country_code": "SI",
-    "name": "MOBIK-AS",
-    "org": "Mobik d.o.o.",
-    "domain": "mobik.com"
-  },
-  {
-    "network": "213.142.224.0/20",
     "asn": "44993",
     "country_code": "SI",
     "name": "MOBIK-AS",
@@ -7952,7 +7872,7 @@
     "domain": "konzola.net"
   },
   {
-    "network": "2a14:6781:ff02::/48",
+    "network": "2a14:6781:ff01::/48",
     "asn": "59449",
     "country_code": "SI",
     "name": "KonzolaNET",
@@ -7960,7 +7880,7 @@
     "domain": "konzola.net"
   },
   {
-    "network": "2a14:6781:ff03::/48",
+    "network": "2a14:6781:ff02::/48",
     "asn": "59449",
     "country_code": "SI",
     "name": "KonzolaNET",
