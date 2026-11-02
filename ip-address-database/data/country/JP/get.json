@@ -7758,12 +7758,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "27.123.208.0/22",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "27.123.228.100/32",
     "continent_code": "AS",
     "country_code": "JP",
@@ -11940,7 +11934,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "43.229.240.0/21",
+    "network": "43.229.244.0/22",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -13104,7 +13098,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "45.115.32.0/22",
+    "network": "45.115.32.0/24",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "45.115.34.0/23",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -25794,6 +25794,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "93.177.92.0/23",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "93.185.161.0/24",
     "continent_code": "AS",
     "country_code": "JP",
@@ -30204,12 +30210,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "103.19.50.0/23",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "103.19.116.0/22",
     "continent_code": "AS",
     "country_code": "JP",
@@ -31686,12 +31686,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "103.63.102.0/24",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "103.64.132.0/22",
     "continent_code": "AS",
     "country_code": "JP",
@@ -31812,7 +31806,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "103.72.5.0/24",
+    "network": "103.72.4.0/23",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -33558,6 +33552,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "103.179.148.0/23",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "103.179.158.0/23",
     "continent_code": "AS",
     "country_code": "JP",
@@ -34249,6 +34249,12 @@
   },
   {
     "network": "103.227.8.0/22",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "103.227.40.0/22",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -45942,6 +45948,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "118.107.10.0/23",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "118.107.58.130/32",
     "continent_code": "AS",
     "country_code": "JP",
@@ -47413,12 +47425,6 @@
   },
   {
     "network": "122.202.16.0/20",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "122.202.96.0/19",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -49350,61 +49356,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "126.0.0.0/11",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "126.32.0.0/12",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "126.48.0.0/14",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "126.52.0.0/17",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "126.52.160.0/19",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "126.52.192.0/18",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "126.53.0.0/16",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "126.54.0.0/15",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "126.56.0.0/13",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "126.64.0.0/10",
+    "network": "126.0.0.0/9",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -54924,6 +54876,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "149.234.184.0/23",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "149.234.188.0/24",
     "continent_code": "AS",
     "country_code": "JP",
@@ -58854,7 +58812,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "156.59.228.0/22",
+    "network": "156.59.228.0/23",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -67345,12 +67303,6 @@
   },
   {
     "network": "176.103.242.0/24",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "176.113.66.0/23",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -79962,12 +79914,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "199.166.24.0/21",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "199.182.239.0/24",
     "continent_code": "AS",
     "country_code": "JP",
@@ -80094,7 +80040,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "201.4.32.0/21",
+    "network": "201.4.34.0/23",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "201.4.36.0/22",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -138228,12 +138180,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b984:6020::/59",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b984:6140::/59",
     "continent_code": "AS",
     "country_code": "JP",
@@ -138241,18 +138187,6 @@
   },
   {
     "network": "2a02:26f7:b985:6020::/59",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b985:60c0::/59",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b985:6140::/59",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -138282,13 +138216,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98a:60c0::/59",
+    "network": "2a02:26f7:b98a:6140::/59",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98a:6140::/59",
+    "network": "2a02:26f7:b98c:60c0::/59",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -138336,7 +138270,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a4:60c0::/59",
+    "network": "2a02:26f7:b9a4:6020::/59",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -138384,13 +138318,19 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b9b0:60c0::/59",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b9b0:6140::/59",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9b4:60c0::/59",
+    "network": "2a02:26f7:b9b4:6020::/59",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -138642,13 +138582,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b984:6060::/60",
+    "network": "2a02:26f7:b984:6020::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b984:60d0::/60",
+    "network": "2a02:26f7:b984:6060::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -138660,19 +138600,31 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b984:6120::/60",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b985:6060::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b985:6090::/60",
+    "network": "2a02:26f7:b985:60d0::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b985:6120::/60",
+    "network": "2a02:26f7:b985:6110::/60",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b985:6150::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -138708,6 +138660,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b98a:60c0::/60",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b98a:6110::/60",
     "continent_code": "AS",
     "country_code": "JP",
@@ -138726,31 +138684,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98c:6090::/60",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b98c:60b0::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98c:60d0::/60",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b98c:6110::/60",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b98c:6120::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -138822,19 +138762,19 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a0:60d0::/60",
+    "network": "2a02:26f7:b9a0:60c0::/60",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b9a0:6110::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
     "network": "2a02:26f7:b9a0:6120::/60",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b9a4:6020::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -138847,6 +138787,12 @@
   },
   {
     "network": "2a02:26f7:b9a4:6090::/60",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b9a4:60c0::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -138930,12 +138876,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9b0:60c0::/60",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9b0:6110::/60",
     "continent_code": "AS",
     "country_code": "JP",
@@ -138948,12 +138888,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9b4:6020::/60",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9b4:6060::/60",
     "continent_code": "AS",
     "country_code": "JP",
@@ -138961,6 +138895,12 @@
   },
   {
     "network": "2a02:26f7:b9b4:6090::/60",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b9b4:60c0::/60",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139404,6 +139344,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b984:6030::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b984:6050::/61",
     "continent_code": "AS",
     "country_code": "JP",
@@ -139416,13 +139362,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b984:6088::/61",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b984:6090::/61",
+    "network": "2a02:26f7:b984:6098::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139440,6 +139380,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b984:60d8::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b984:60e0::/61",
     "continent_code": "AS",
     "country_code": "JP",
@@ -139447,12 +139393,6 @@
   },
   {
     "network": "2a02:26f7:b984:60f8::/61",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b984:6128::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139488,7 +139428,19 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b985:6090::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b985:60b8::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b985:60c0::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139500,13 +139452,25 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b985:6118::/61",
+    "network": "2a02:26f7:b985:60f8::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b985:6120::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
     "network": "2a02:26f7:b985:6138::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b985:6140::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139537,6 +139501,12 @@
   },
   {
     "network": "2a02:26f7:b988:6078::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b988:6088::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139602,6 +139572,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b98a:60d8::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b98a:60e0::/61",
     "continent_code": "AS",
     "country_code": "JP",
@@ -139638,13 +139614,31 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98c:60c0::/61",
+    "network": "2a02:26f7:b98c:6088::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b98c:6090::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
     "network": "2a02:26f7:b98c:60e0::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b98c:60f8::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b98c:6120::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139711,6 +139705,12 @@
   },
   {
     "network": "2a02:26f7:b994:6000::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b994:6050::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139794,7 +139794,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a0:60c0::/61",
+    "network": "2a02:26f7:b9a0:60d8::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139807,12 +139807,6 @@
   },
   {
     "network": "2a02:26f7:b9a0:60f8::/61",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b9a0:6118::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139836,7 +139830,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a4:6030::/61",
+    "network": "2a02:26f7:b9a4:6050::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139860,13 +139854,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a4:60e0::/61",
+    "network": "2a02:26f7:b9a4:60d8::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a4:60f8::/61",
+    "network": "2a02:26f7:b9a4:60e0::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -139897,6 +139891,12 @@
   },
   {
     "network": "2a02:26f7:b9a8:6078::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b9a8:6088::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -140010,13 +140010,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9b0:60b8::/61",
+    "network": "2a02:26f7:b9b0:6088::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9b0:60d8::/61",
+    "network": "2a02:26f7:b9b0:60b8::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -140052,12 +140052,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9b4:6030::/61",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9b4:6050::/61",
     "continent_code": "AS",
     "country_code": "JP",
@@ -140082,7 +140076,19 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b9b4:60d8::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b9b4:60e0::/61",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b9b4:60f8::/61",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -140976,6 +140982,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b984:603c::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b984:6044::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -141006,7 +141018,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b984:609c::/62",
+    "network": "2a02:26f7:b984:608c::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b984:6090::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141030,7 +141048,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b984:60c8::/62",
+    "network": "2a02:26f7:b984:60cc::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b984:60d0::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141055,12 +141079,6 @@
   },
   {
     "network": "2a02:26f7:b984:6108::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b984:6124::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141126,7 +141144,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b985:608c::/62",
+    "network": "2a02:26f7:b985:6088::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b985:609c::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141150,6 +141174,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b985:60c8::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b985:60ec::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -141157,12 +141187,6 @@
   },
   {
     "network": "2a02:26f7:b985:60f0::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b985:60fc::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141180,13 +141204,19 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b985:6114::/62",
+    "network": "2a02:26f7:b985:612c::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
     "network": "2a02:26f7:b985:6130::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b985:6148::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141247,12 +141277,6 @@
   },
   {
     "network": "2a02:26f7:b988:6084::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b988:608c::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141378,6 +141402,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b98a:60d0::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b98a:60ec::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -141444,7 +141474,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98c:608c::/62",
+    "network": "2a02:26f7:b98c:609c::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141462,12 +141492,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98c:60c8::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b98c:60ec::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -141480,12 +141504,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98c:60fc::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b98c:6104::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -141493,6 +141511,12 @@
   },
   {
     "network": "2a02:26f7:b98c:6108::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b98c:612c::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141612,6 +141636,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b994:6014::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b994:6018::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -141625,12 +141655,6 @@
   },
   {
     "network": "2a02:26f7:b994:604c::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b994:6050::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141672,7 +141696,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b994:60d0::/62",
+    "network": "2a02:26f7:b994:60d4::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141780,7 +141804,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a0:60c8::/62",
+    "network": "2a02:26f7:b9a0:60d0::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141810,12 +141834,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a0:6114::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9a0:6130::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -141840,7 +141858,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a4:603c::/62",
+    "network": "2a02:26f7:b9a4:6018::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141853,12 +141871,6 @@
   },
   {
     "network": "2a02:26f7:b9a4:604c::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b9a4:6050::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141900,6 +141912,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b9a4:60d4::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b9a4:60ec::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -141907,6 +141925,12 @@
   },
   {
     "network": "2a02:26f7:b9a4:60f0::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b9a4:60fc::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -141979,12 +142003,6 @@
   },
   {
     "network": "2a02:26f7:b9a8:6084::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b9a8:6088::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -142200,12 +142218,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9b0:6088::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9b0:60a0::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -142219,12 +142231,6 @@
   },
   {
     "network": "2a02:26f7:b9b0:60b0::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b9b0:60d0::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -142284,12 +142290,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9b4:603c::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9b4:6044::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -142338,6 +142338,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b9b4:60d0::/62",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b9b4:60ec::/62",
     "continent_code": "AS",
     "country_code": "JP",
@@ -142345,12 +142351,6 @@
   },
   {
     "network": "2a02:26f7:b9b4:60f0::/62",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b9b4:60f8::/62",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -144924,6 +144924,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b984:6038::/63",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b984:6042::/63",
     "continent_code": "AS",
     "country_code": "JP",
@@ -144948,7 +144954,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b984:6098::/63",
+    "network": "2a02:26f7:b984:6088::/63",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b984:6094::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -144972,7 +144984,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b984:60cc::/63",
+    "network": "2a02:26f7:b984:60c8::/63",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b984:60d4::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -144991,12 +145009,6 @@
   },
   {
     "network": "2a02:26f7:b984:610e::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b984:6120::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145050,7 +145062,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b985:6088::/63",
+    "network": "2a02:26f7:b985:608c::/63",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b985:6098::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145074,6 +145092,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b985:60cc::/63",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b985:60ea::/63",
     "continent_code": "AS",
     "country_code": "JP",
@@ -145086,25 +145110,25 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b985:60f8::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b985:610e::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b985:6110::/63",
+    "network": "2a02:26f7:b985:6128::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
     "network": "2a02:26f7:b985:6136::/63",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b985:614c::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145153,12 +145177,6 @@
   },
   {
     "network": "2a02:26f7:b988:6082::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b988:6088::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145266,6 +145284,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b98a:60d4::/63",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b98a:60ea::/63",
     "continent_code": "AS",
     "country_code": "JP",
@@ -145314,7 +145338,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98c:6088::/63",
+    "network": "2a02:26f7:b98c:6098::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145332,12 +145356,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98c:60cc::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b98c:60ea::/63",
     "continent_code": "AS",
     "country_code": "JP",
@@ -145350,13 +145368,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98c:60f8::/63",
+    "network": "2a02:26f7:b98c:610e::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b98c:610e::/63",
+    "network": "2a02:26f7:b98c:6128::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145464,12 +145482,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b994:6014::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b994:601e::/63",
     "continent_code": "AS",
     "country_code": "JP",
@@ -145477,12 +145489,6 @@
   },
   {
     "network": "2a02:26f7:b994:6042::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b994:6054::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145524,7 +145530,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b994:60d4::/63",
+    "network": "2a02:26f7:b994:60d0::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145614,7 +145620,7 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a0:60cc::/63",
+    "network": "2a02:26f7:b9a0:60d4::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145638,12 +145644,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a0:6110::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9a0:6136::/63",
     "continent_code": "AS",
     "country_code": "JP",
@@ -145662,31 +145662,13 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a4:6018::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9a4:601e::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9a4:6038::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9a4:6042::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b9a4:6054::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145728,6 +145710,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b9a4:60d0::/63",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b9a4:60ea::/63",
     "continent_code": "AS",
     "country_code": "JP",
@@ -145735,6 +145723,12 @@
   },
   {
     "network": "2a02:26f7:b9a4:60f6::/63",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
+    "network": "2a02:26f7:b9a4:60f8::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145789,12 +145783,6 @@
   },
   {
     "network": "2a02:26f7:b9a8:6082::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b9a8:608c::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -145974,12 +145962,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9b0:608c::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9b0:60a6::/63",
     "continent_code": "AS",
     "country_code": "JP",
@@ -145993,12 +145975,6 @@
   },
   {
     "network": "2a02:26f7:b9b0:60b6::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b9b0:60d4::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
@@ -146046,12 +146022,6 @@
     "country_name": "Japan"
   },
   {
-    "network": "2a02:26f7:b9b4:6038::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
     "network": "2a02:26f7:b9b4:6042::/63",
     "continent_code": "AS",
     "country_code": "JP",
@@ -146094,6 +146064,12 @@
     "country_name": "Japan"
   },
   {
+    "network": "2a02:26f7:b9b4:60d4::/63",
+    "continent_code": "AS",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  {
     "network": "2a02:26f7:b9b4:60ea::/63",
     "continent_code": "AS",
     "country_code": "JP",
@@ -146101,12 +146077,6 @@
   },
   {
     "network": "2a02:26f7:b9b4:60f6::/63",
-    "continent_code": "AS",
-    "country_code": "JP",
-    "country_name": "Japan"
-  },
-  {
-    "network": "2a02:26f7:b9b4:60fc::/63",
     "continent_code": "AS",
     "country_code": "JP",
     "country_name": "Japan"
