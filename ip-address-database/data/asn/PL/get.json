@@ -5584,6 +5584,14 @@
     "domain": "inetia.pl"
   },
   {
+    "network": "91.208.78.0/24",
+    "asn": "12741",
+    "country_code": "PL",
+    "name": "AS-NETIA",
+    "org": "Netia SA",
+    "domain": "inetia.pl"
+  },
+  {
     "network": "91.217.142.0/24",
     "asn": "12741",
     "country_code": "PL",
@@ -6017,6 +6025,14 @@
   },
   {
     "network": "193.19.104.0/23",
+    "asn": "12741",
+    "country_code": "PL",
+    "name": "AS-NETIA",
+    "org": "Netia SA",
+    "domain": "inetia.pl"
+  },
+  {
+    "network": "193.41.192.0/24",
     "asn": "12741",
     "country_code": "PL",
     "name": "AS-NETIA",
@@ -19688,38 +19704,6 @@
     "domain": "paduchnet.pl"
   },
   {
-    "network": "45.158.108.0/22",
-    "asn": "199585",
-    "country_code": "PL",
-    "name": "TELNET",
-    "org": "TELNET Ropczyce Sp. z o.o.",
-    "domain": "r-ce.pl"
-  },
-  {
-    "network": "80.68.146.0/24",
-    "asn": "199585",
-    "country_code": "PL",
-    "name": "TELNET",
-    "org": "TELNET Ropczyce Sp. z o.o.",
-    "domain": "r-ce.pl"
-  },
-  {
-    "network": "81.162.208.0/21",
-    "asn": "199585",
-    "country_code": "PL",
-    "name": "TELNET",
-    "org": "TELNET Ropczyce Sp. z o.o.",
-    "domain": "r-ce.pl"
-  },
-  {
-    "network": "194.93.99.0/24",
-    "asn": "199585",
-    "country_code": "PL",
-    "name": "TELNET",
-    "org": "TELNET Ropczyce Sp. z o.o.",
-    "domain": "r-ce.pl"
-  },
-  {
     "network": "45.159.80.0/24",
     "asn": "31116",
     "country_code": "PL",
@@ -29096,6 +29080,30 @@
     "domain": "syrion.pl"
   },
   {
+    "network": "80.68.146.0/24",
+    "asn": "199585",
+    "country_code": "PL",
+    "name": "TELNET",
+    "org": "TELNET Ropczyce Sp. z o.o.",
+    "domain": "r-ce.pl"
+  },
+  {
+    "network": "81.162.208.0/21",
+    "asn": "199585",
+    "country_code": "PL",
+    "name": "TELNET",
+    "org": "TELNET Ropczyce Sp. z o.o.",
+    "domain": "r-ce.pl"
+  },
+  {
+    "network": "194.93.99.0/24",
+    "asn": "199585",
+    "country_code": "PL",
+    "name": "TELNET",
+    "org": "TELNET Ropczyce Sp. z o.o.",
+    "domain": "r-ce.pl"
+  },
+  {
     "network": "80.68.224.0/21",
     "asn": "49242",
     "country_code": "PL",
@@ -31305,6 +31313,14 @@
   },
   {
     "network": "81.163.206.0/24",
+    "asn": "59782",
+    "country_code": "PL",
+    "name": "InterBlock-ASN",
+    "org": "ITB Sp. z o.o.",
+    "domain": "exatel.pl"
+  },
+  {
+    "network": "81.163.207.0/24",
     "asn": "59782",
     "country_code": "PL",
     "name": "InterBlock-ASN",
@@ -49336,30 +49352,6 @@
     "domain": "koleje-wielkopolskie.com.pl"
   },
   {
-    "network": "93.113.182.0/24",
-    "asn": "199439",
-    "country_code": "PL",
-    "name": "DREAMLINK-AS",
-    "org": "Dreamlink sp. z o.o.",
-    "domain": "dreamlink.pl"
-  },
-  {
-    "network": "107.6.104.0/22",
-    "asn": "199439",
-    "country_code": "PL",
-    "name": "DREAMLINK-AS",
-    "org": "Dreamlink sp. z o.o.",
-    "domain": "dreamlink.pl"
-  },
-  {
-    "network": "141.11.102.0/24",
-    "asn": "199439",
-    "country_code": "PL",
-    "name": "DREAMLINK-AS",
-    "org": "Dreamlink sp. z o.o.",
-    "domain": "dreamlink.pl"
-  },
-  {
     "network": "93.157.69.0/24",
     "asn": "199023",
     "country_code": "PL",
@@ -50856,6 +50848,22 @@
     "domain": "epix.net.pl"
   },
   {
+    "network": "107.6.104.0/22",
+    "asn": "199439",
+    "country_code": "PL",
+    "name": "DREAMLINK-AS",
+    "org": "Dreamlink sp. z o.o.",
+    "domain": "dreamlink.pl"
+  },
+  {
+    "network": "141.11.102.0/24",
+    "asn": "199439",
+    "country_code": "PL",
+    "name": "DREAMLINK-AS",
+    "org": "Dreamlink sp. z o.o.",
+    "domain": "dreamlink.pl"
+  },
+  {
     "network": "109.94.240.0/20",
     "asn": "50086",
     "country_code": "PL",
@@ -50958,6 +50966,30 @@
     "name": "NETKOMP-AS",
     "org": "PHU \"NETKOMP\" Zbigniew Kucmierowski",
     "domain": "netkomp.net"
+  },
+  {
+    "network": "109.95.142.0/24",
+    "asn": "51465",
+    "country_code": "PL",
+    "name": "FIXMAP-M3NET-TRANSIT",
+    "org": "M3.NET Sp. zoo",
+    "domain": "m3.net.pl"
+  },
+  {
+    "network": "2a03:ae40::/48",
+    "asn": "51465",
+    "country_code": "PL",
+    "name": "FIXMAP-M3NET-TRANSIT",
+    "org": "M3.NET Sp. zoo",
+    "domain": "m3.net.pl"
+  },
+  {
+    "network": "2a13:2800::/32",
+    "asn": "51465",
+    "country_code": "PL",
+    "name": "FIXMAP-M3NET-TRANSIT",
+    "org": "M3.NET Sp. zoo",
+    "domain": "m3.net.pl"
   },
   {
     "network": "109.95.176.0/21",
@@ -59936,14 +59968,6 @@
     "domain": "nask.pl"
   },
   {
-    "network": "195.164.232.0/24",
-    "asn": "204679",
-    "country_code": "PL",
-    "name": "OSE",
-    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-    "domain": "nask.pl"
-  },
-  {
     "network": "2001:a17::/32",
     "asn": "204679",
     "country_code": "PL",
@@ -65376,22 +65400,6 @@
     "domain": "allegro.pl"
   },
   {
-    "network": "2a03:ae40::/48",
-    "asn": "51465",
-    "country_code": "PL",
-    "name": "FIXMAP-M3NET-TRANSIT",
-    "org": "M3.NET Sp. zoo",
-    "domain": "m3.net.pl"
-  },
-  {
-    "network": "2a13:2800::/32",
-    "asn": "51465",
-    "country_code": "PL",
-    "name": "FIXMAP-M3NET-TRANSIT",
-    "org": "M3.NET Sp. zoo",
-    "domain": "m3.net.pl"
-  },
-  {
     "network": "2a05:dfc1:1100::/40",
     "asn": "199097",
     "country_code": "PL",
@@ -65550,14 +65558,6 @@
     "name": "SKYLIX",
     "org": "Michal Widak",
     "domain": "skylix.pl"
-  },
-  {
-    "network": "2a06:9801:1598::/48",
-    "asn": "218242",
-    "country_code": "PL",
-    "name": "ZDUNEK-DEV",
-    "org": "Adam Zdunek",
-    "domain": ""
   },
   {
     "network": "2a06:9801:1800::/48",

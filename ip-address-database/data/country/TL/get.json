@@ -72,7 +72,19 @@
     "country_name": "Timor Leste"
   },
   {
-    "network": "103.30.112.0/22",
+    "network": "103.30.112.0/23",
+    "continent_code": "OC",
+    "country_code": "TL",
+    "country_name": "Timor Leste"
+  },
+  {
+    "network": "103.30.114.0/24",
+    "continent_code": "OC",
+    "country_code": "TL",
+    "country_name": "Timor Leste"
+  },
+  {
+    "network": "103.55.48.0/23",
     "continent_code": "OC",
     "country_code": "TL",
     "country_name": "Timor Leste"
@@ -577,12 +589,6 @@
   },
   {
     "network": "2401:f720::/32",
-    "continent_code": "OC",
-    "country_code": "TL",
-    "country_name": "Timor Leste"
-  },
-  {
-    "network": "2402:51e0::/32",
     "continent_code": "OC",
     "country_code": "TL",
     "country_name": "Timor Leste"

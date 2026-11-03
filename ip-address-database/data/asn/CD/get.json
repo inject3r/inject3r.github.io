@@ -760,6 +760,14 @@
     "domain": "orange.com"
   },
   {
+    "network": "197.29.122.0/24",
+    "asn": "37447",
+    "country_code": "CD",
+    "name": "ORANGE-RDC",
+    "org": "ORANGE RDC",
+    "domain": "orange.com"
+  },
+  {
     "network": "197.157.208.0/24",
     "asn": "37447",
     "country_code": "CD",
@@ -1320,15 +1328,7 @@
     "domain": "fastnet.cd"
   },
   {
-    "network": "41.189.206.0/23",
-    "asn": "37102",
-    "country_code": "CD",
-    "name": "CIELUX-RDC",
-    "org": "CIELUX TELECOM RDC",
-    "domain": "fastnet.cd"
-  },
-  {
-    "network": "41.189.208.0/23",
+    "network": "41.189.206.0/24",
     "asn": "37102",
     "country_code": "CD",
     "name": "CIELUX-RDC",
@@ -1424,14 +1424,6 @@
     "domain": "orion-rdc.com"
   },
   {
-    "network": "102.213.198.0/23",
-    "asn": "37638",
-    "country_code": "CD",
-    "name": "Orioncom",
-    "org": "Orioncom SPRL",
-    "domain": "orion-rdc.com"
-  },
-  {
     "network": "102.213.198.0/24",
     "asn": "37638",
     "country_code": "CD",
@@ -1457,14 +1449,6 @@
   },
   {
     "network": "102.222.229.0/24",
-    "asn": "37638",
-    "country_code": "CD",
-    "name": "Orioncom",
-    "org": "Orioncom SPRL",
-    "domain": "orion-rdc.com"
-  },
-  {
-    "network": "102.222.230.0/23",
     "asn": "37638",
     "country_code": "CD",
     "name": "Orioncom",
@@ -2190,6 +2174,22 @@
     "name": "AFRICELL-DRC",
     "org": "STE AFRICELL RDC SPRL",
     "domain": "africell.cd"
+  },
+  {
+    "network": "102.23.116.0/24",
+    "asn": "328566",
+    "country_code": "CD",
+    "name": "Elite-Networks-AS",
+    "org": "STE ELITE NETWORKS SARL",
+    "domain": "eliterdc.net"
+  },
+  {
+    "network": "102.23.118.0/24",
+    "asn": "328566",
+    "country_code": "CD",
+    "name": "Elite-Networks-AS",
+    "org": "STE ELITE NETWORKS SARL",
+    "domain": "eliterdc.net"
   },
   {
     "network": "102.23.119.0/24",

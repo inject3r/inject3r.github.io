@@ -1080,7 +1080,13 @@
     "country_name": "Colombia"
   },
   {
-    "network": "8.242.120.0/23",
+    "network": "8.242.120.0/24",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "8.242.121.0/28",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -1182,7 +1188,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "8.243.67.0/30",
+    "network": "8.243.67.0/31",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -1230,13 +1236,19 @@
     "country_name": "Colombia"
   },
   {
-    "network": "8.243.73.0/27",
+    "network": "8.243.73.0/29",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "8.243.73.64/27",
+    "network": "8.243.73.8/31",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "8.243.73.64/26",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -2256,7 +2268,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "38.19.212.0/23",
+    "network": "38.19.212.0/24",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -2352,7 +2364,13 @@
     "country_name": "Colombia"
   },
   {
-    "network": "38.51.244.32/27",
+    "network": "38.51.244.46/31",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "38.51.244.48/28",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -2376,19 +2394,13 @@
     "country_name": "Colombia"
   },
   {
-    "network": "38.51.244.128/27",
+    "network": "38.51.244.128/26",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "38.51.244.176/28",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "38.51.244.224/27",
+    "network": "38.51.244.248/29",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -2760,7 +2772,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "38.191.199.0/26",
+    "network": "38.191.199.0/27",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -2772,31 +2784,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "38.191.208.0/24",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "38.191.209.216/29",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "38.191.210.0/23",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "38.191.212.0/22",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "38.191.216.0/21",
+    "network": "38.191.208.0/20",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -2820,7 +2808,31 @@
     "country_name": "Colombia"
   },
   {
-    "network": "38.199.16.0/20",
+    "network": "38.199.16.0/21",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "38.199.24.0/23",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "38.199.26.0/25",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "38.199.27.0/24",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "38.199.28.0/22",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -2970,6 +2982,12 @@
     "country_name": "Colombia"
   },
   {
+    "network": "38.211.68.0/22",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "38.211.76.0/22",
     "continent_code": "SA",
     "country_code": "CO",
@@ -3114,7 +3132,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "38.225.40.68/30",
+    "network": "38.225.40.0/24",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -3204,7 +3222,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "38.236.106.128/27",
+    "network": "38.236.106.128/26",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -3324,13 +3342,19 @@
     "country_name": "Colombia"
   },
   {
+    "network": "43.152.184.0/23",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "43.168.73.0/24",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "43.175.28.0/24",
+    "network": "43.174.185.0/24",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -3522,7 +3546,13 @@
     "country_name": "Colombia"
   },
   {
-    "network": "45.81.105.16/28",
+    "network": "45.81.105.16/31",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "45.81.105.24/29",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -3534,7 +3564,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "45.81.105.56/29",
+    "network": "45.81.105.56/30",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -4284,12 +4314,6 @@
     "country_name": "Colombia"
   },
   {
-    "network": "45.192.130.80/29",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
     "network": "45.192.130.96/27",
     "continent_code": "SA",
     "country_code": "CO",
@@ -4842,24 +4866,6 @@
     "country_name": "Colombia"
   },
   {
-    "network": "66.35.22.241/32",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "66.35.27.72/32",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "66.35.27.96/32",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
     "network": "66.35.27.121/32",
     "continent_code": "SA",
     "country_code": "CO",
@@ -5316,7 +5322,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "72.46.230.0/23",
+    "network": "72.46.230.0/24",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -5778,6 +5784,12 @@
     "country_name": "Colombia"
   },
   {
+    "network": "92.112.214.0/24",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "92.113.179.0/24",
     "continent_code": "SA",
     "country_code": "CO",
@@ -5845,12 +5857,6 @@
   },
   {
     "network": "96.7.0.0/20",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "96.45.38.11/32",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -9234,7 +9240,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "140.150.9.0/24",
+    "network": "140.150.37.0/24",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -9456,6 +9462,48 @@
     "country_name": "Colombia"
   },
   {
+    "network": "148.222.230.0/26",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "148.222.230.128/27",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "148.222.230.160/30",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "148.222.230.164/31",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "148.222.230.168/29",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "148.222.230.176/28",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "148.222.230.192/26",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "148.222.238.0/23",
     "continent_code": "SA",
     "country_code": "CO",
@@ -9540,19 +9588,13 @@
     "country_name": "Colombia"
   },
   {
-    "network": "149.78.168.24/29",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
     "network": "149.78.168.32/27",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "149.78.168.72/29",
+    "network": "149.78.168.72/30",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -9564,7 +9606,13 @@
     "country_name": "Colombia"
   },
   {
-    "network": "149.78.168.128/25",
+    "network": "149.78.168.136/30",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "149.78.168.144/30",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -9858,7 +9906,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "153.67.113.72/29",
+    "network": "153.67.113.64/28",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -9900,7 +9948,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "153.67.115.96/29",
+    "network": "153.67.115.96/30",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -11125,6 +11173,12 @@
   },
   {
     "network": "167.250.134.128/25",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "168.0.245.0/24",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -15018,7 +15072,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "181.78.20.128/25",
+    "network": "181.78.20.128/26",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -15030,7 +15084,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "181.78.21.240/29",
+    "network": "181.78.21.244/30",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -15042,13 +15096,19 @@
     "country_name": "Colombia"
   },
   {
+    "network": "181.78.23.16/28",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "181.78.23.32/27",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "181.78.23.64/28",
+    "network": "181.78.23.64/26",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -15066,7 +15126,19 @@
     "country_name": "Colombia"
   },
   {
-    "network": "181.78.28.0/24",
+    "network": "181.78.28.0/25",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "181.78.28.128/26",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "181.78.28.224/27",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -15138,13 +15210,13 @@
     "country_name": "Colombia"
   },
   {
-    "network": "181.78.211.64/27",
+    "network": "181.78.211.0/25",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "181.78.211.240/28",
+    "network": "181.78.211.224/27",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -16986,7 +17058,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "185.240.88.240/29",
+    "network": "185.240.88.128/25",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -17112,25 +17184,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "186.33.57.24/29",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "186.33.57.40/29",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "186.33.57.64/29",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "186.33.57.128/25",
+    "network": "186.33.57.0/24",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -21078,6 +21132,30 @@
     "country_name": "Colombia"
   },
   {
+    "network": "190.60.160.0/21",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "190.60.168.0/22",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "190.60.172.0/23",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "190.60.176.0/20",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "190.60.192.0/18",
     "continent_code": "SA",
     "country_code": "CO",
@@ -21192,6 +21270,12 @@
     "country_name": "Colombia"
   },
   {
+    "network": "190.61.20.0/23",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "190.61.25.0/24",
     "continent_code": "SA",
     "country_code": "CO",
@@ -21288,85 +21372,13 @@
     "country_name": "Colombia"
   },
   {
-    "network": "190.61.81.0/25",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.81.128/26",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.81.224/27",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
     "network": "190.61.92.0/22",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "190.61.116.59/32",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.128.0/19",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.161.0/24",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.162.0/23",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.164.0/22",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.168.0/21",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.176.0/22",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.181.0/24",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.182.0/23",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.184.0/21",
+    "network": "190.61.128.0/18",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -21426,13 +21438,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "190.61.221.0/24",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.61.222.0/23",
+    "network": "190.61.220.0/22",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -28218,13 +28224,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "190.109.5.0/28",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.5.16/29",
+    "network": "190.109.5.0/26",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -28416,61 +28416,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "190.109.10.0/27",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.10.32/29",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.10.40/31",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.10.48/28",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.10.64/27",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.10.104/29",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.10.128/26",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.10.200/29",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.10.240/28",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.11.0/24",
+    "network": "190.109.10.0/23",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -28554,7 +28500,13 @@
     "country_name": "Colombia"
   },
   {
-    "network": "190.109.15.32/29",
+    "network": "190.109.15.32/30",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "190.109.15.36/31",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -28795,12 +28747,6 @@
   },
   {
     "network": "190.109.25.64/30",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "190.109.25.70/31",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -29113,6 +29059,12 @@
   },
   {
     "network": "190.122.80.252/30",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "190.124.40.0/29",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -30300,49 +30252,55 @@
     "country_name": "Colombia"
   },
   {
-    "network": "190.242.108.0/24",
+    "network": "190.242.108.0/22",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "190.242.109.8/29",
+    "network": "190.242.112.0/22",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "190.242.109.16/28",
+    "network": "190.242.116.0/23",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "190.242.109.32/27",
+    "network": "190.242.118.0/24",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "190.242.109.64/26",
+    "network": "190.242.119.8/29",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "190.242.109.128/25",
+    "network": "190.242.119.16/28",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "190.242.110.0/23",
+    "network": "190.242.119.32/27",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "190.242.112.0/21",
+    "network": "190.242.119.64/26",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "190.242.119.128/25",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -30468,7 +30426,25 @@
     "country_name": "Colombia"
   },
   {
-    "network": "190.242.157.0/24",
+    "network": "190.242.157.0/26",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "190.242.157.80/28",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "190.242.157.96/27",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "190.242.157.128/25",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -30972,7 +30948,31 @@
     "country_name": "Colombia"
   },
   {
-    "network": "199.100.8.0/24",
+    "network": "199.100.8.0/25",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "199.100.8.128/26",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "199.100.8.192/27",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "199.100.8.224/28",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "199.100.8.240/29",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -32064,6 +32064,30 @@
     "country_name": "Colombia"
   },
   {
+    "network": "200.25.106.0/26",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "200.25.106.96/27",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "200.25.106.128/25",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "200.25.107.0/24",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "200.25.108.0/22",
     "continent_code": "SA",
     "country_code": "CO",
@@ -32665,6 +32689,12 @@
   },
   {
     "network": "200.73.16.224/27",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "200.73.19.0/24",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -34746,13 +34776,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "204.157.228.0/23",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "204.157.231.0/24",
+    "network": "204.157.228.0/22",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -35238,7 +35262,7 @@
     "country_name": "Colombia"
   },
   {
-    "network": "209.14.115.32/30",
+    "network": "209.14.115.32/27",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -35268,13 +35292,19 @@
     "country_name": "Colombia"
   },
   {
+    "network": "209.14.117.160/27",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "209.14.117.192/26",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "209.14.118.32/28",
+    "network": "209.14.118.32/27",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -35286,13 +35316,13 @@
     "country_name": "Colombia"
   },
   {
-    "network": "209.14.118.128/27",
+    "network": "209.14.118.128/26",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
   },
   {
-    "network": "209.14.118.246/31",
+    "network": "209.14.118.244/30",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -35311,12 +35341,6 @@
   },
   {
     "network": "209.14.120.0/21",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "209.40.109.172/32",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -35563,6 +35587,12 @@
   },
   {
     "network": "2803:d80::/29",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "2a06:b3c0::/29",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -46122,6 +46152,18 @@
     "country_name": "Colombia"
   },
   {
+    "network": "2620:138:301c::/48",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "2620:138:301f::/48",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "2620:171:c0::/48",
     "continent_code": "SA",
     "country_code": "CO",
@@ -48132,6 +48174,12 @@
     "country_name": "Colombia"
   },
   {
+    "network": "2803:b9c0:90c3:8000::/49",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "2a02:26f7:f7c0::/49",
     "continent_code": "SA",
     "country_code": "CO",
@@ -48211,6 +48259,12 @@
   },
   {
     "network": "2800:490:8001:c000::/51",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "2803:b9c0:90c3:6000::/51",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -48990,24 +49044,6 @@
     "country_name": "Colombia"
   },
   {
-    "network": "2a02:26f7:f7d0:e110::/61",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "2a02:26f7:f7d0:e148::/61",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
-    "network": "2a02:26f7:f7d0:e158::/61",
-    "continent_code": "SA",
-    "country_code": "CO",
-    "country_name": "Colombia"
-  },
-  {
     "network": "2a02:26f7:f7d0:e188::/61",
     "continent_code": "SA",
     "country_code": "CO",
@@ -49140,6 +49176,12 @@
     "country_name": "Colombia"
   },
   {
+    "network": "2a02:26f7:f7d0:e110::/62",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "2a02:26f7:f7d0:e11c::/62",
     "continent_code": "SA",
     "country_code": "CO",
@@ -49158,7 +49200,19 @@
     "country_name": "Colombia"
   },
   {
+    "network": "2a02:26f7:f7d0:e148::/62",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "2a02:26f7:f7d0:e154::/62",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "2a02:26f7:f7d0:e158::/62",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -49320,6 +49374,12 @@
     "country_name": "Colombia"
   },
   {
+    "network": "2a02:26f7:f7d0:e116::/63",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "2a02:26f7:f7d0:e118::/63",
     "continent_code": "SA",
     "country_code": "CO",
@@ -49362,7 +49422,19 @@
     "country_name": "Colombia"
   },
   {
+    "network": "2a02:26f7:f7d0:e14c::/63",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "2a02:26f7:f7d0:e150::/63",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "2a02:26f7:f7d0:e15e::/63",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"
@@ -50922,6 +50994,12 @@
     "country_name": "Colombia"
   },
   {
+    "network": "2a02:26f7:f7d0:e114::/64",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "2a02:26f7:f7d0:e11b::/64",
     "continent_code": "SA",
     "country_code": "CO",
@@ -50988,7 +51066,19 @@
     "country_name": "Colombia"
   },
   {
+    "network": "2a02:26f7:f7d0:e14e::/64",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
     "network": "2a02:26f7:f7d0:e152::/64",
+    "continent_code": "SA",
+    "country_code": "CO",
+    "country_name": "Colombia"
+  },
+  {
+    "network": "2a02:26f7:f7d0:e15c::/64",
     "continent_code": "SA",
     "country_code": "CO",
     "country_name": "Colombia"

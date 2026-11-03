@@ -392,14 +392,6 @@
     "domain": "cht.com.tw"
   },
   {
-    "network": "59.124.26.0/24",
-    "asn": "3462",
-    "country_code": "TW",
-    "name": "HINET",
-    "org": "Chunghwa Telecom Co., Ltd.",
-    "domain": "cht.com.tw"
-  },
-  {
     "network": "59.125.0.0/16",
     "asn": "3462",
     "country_code": "TW",
@@ -11768,15 +11760,7 @@
     "domain": "fttx.tw"
   },
   {
-    "network": "124.155.168.0/23",
-    "asn": "18429",
-    "country_code": "TW",
-    "name": "EXTRALAN-TW",
-    "org": "Extra-Lan Technologies Co., LTD",
-    "domain": "fttx.tw"
-  },
-  {
-    "network": "124.155.170.0/23",
+    "network": "124.155.168.0/22",
     "asn": "18429",
     "country_code": "TW",
     "name": "EXTRALAN-TW",
@@ -11952,6 +11936,70 @@
     "domain": "cochentek.com"
   },
   {
+    "network": "31.59.72.0/24",
+    "asn": "49608",
+    "country_code": "TW",
+    "name": "COCHENTEK-AS-UK",
+    "org": "CoChen Technology LTD.",
+    "domain": "cochentek.com"
+  },
+  {
+    "network": "31.77.245.0/24",
+    "asn": "49608",
+    "country_code": "TW",
+    "name": "COCHENTEK-AS-UK",
+    "org": "CoChen Technology LTD.",
+    "domain": "cochentek.com"
+  },
+  {
+    "network": "87.76.216.0/24",
+    "asn": "49608",
+    "country_code": "TW",
+    "name": "COCHENTEK-AS-UK",
+    "org": "CoChen Technology LTD.",
+    "domain": "cochentek.com"
+  },
+  {
+    "network": "88.209.247.0/24",
+    "asn": "49608",
+    "country_code": "TW",
+    "name": "COCHENTEK-AS-UK",
+    "org": "CoChen Technology LTD.",
+    "domain": "cochentek.com"
+  },
+  {
+    "network": "96.126.144.0/24",
+    "asn": "49608",
+    "country_code": "TW",
+    "name": "COCHENTEK-AS-UK",
+    "org": "CoChen Technology LTD.",
+    "domain": "cochentek.com"
+  },
+  {
+    "network": "109.64.8.0/24",
+    "asn": "49608",
+    "country_code": "TW",
+    "name": "COCHENTEK-AS-UK",
+    "org": "CoChen Technology LTD.",
+    "domain": "cochentek.com"
+  },
+  {
+    "network": "109.64.25.0/24",
+    "asn": "49608",
+    "country_code": "TW",
+    "name": "COCHENTEK-AS-UK",
+    "org": "CoChen Technology LTD.",
+    "domain": "cochentek.com"
+  },
+  {
+    "network": "201.4.22.0/24",
+    "asn": "49608",
+    "country_code": "TW",
+    "name": "COCHENTEK-AS-UK",
+    "org": "CoChen Technology LTD.",
+    "domain": "cochentek.com"
+  },
+  {
     "network": "31.59.166.0/24",
     "asn": "63902",
     "country_code": "TW",
@@ -12118,38 +12166,6 @@
     "name": "SHINETEL-AS-TW",
     "org": "SHINE TELECOM CO., LTD.",
     "domain": "shine-telecom.com"
-  },
-  {
-    "network": "31.77.245.0/24",
-    "asn": "49608",
-    "country_code": "TW",
-    "name": "COCHENTEK-AS-UK",
-    "org": "CoChen Technology LTD.",
-    "domain": "cochentek.com"
-  },
-  {
-    "network": "87.76.216.0/24",
-    "asn": "49608",
-    "country_code": "TW",
-    "name": "COCHENTEK-AS-UK",
-    "org": "CoChen Technology LTD.",
-    "domain": "cochentek.com"
-  },
-  {
-    "network": "88.209.247.0/24",
-    "asn": "49608",
-    "country_code": "TW",
-    "name": "COCHENTEK-AS-UK",
-    "org": "CoChen Technology LTD.",
-    "domain": "cochentek.com"
-  },
-  {
-    "network": "96.126.144.0/24",
-    "asn": "49608",
-    "country_code": "TW",
-    "name": "COCHENTEK-AS-UK",
-    "org": "CoChen Technology LTD.",
-    "domain": "cochentek.com"
   },
   {
     "network": "36.50.228.0/24",
@@ -27328,6 +27344,14 @@
     "domain": "seed.net.tw"
   },
   {
+    "network": "42.66.0.0/16",
+    "asn": "17421",
+    "country_code": "TW",
+    "name": "EMOME-NET",
+    "org": "Mobile Business Group",
+    "domain": "hinet.net"
+  },
+  {
     "network": "42.70.0.0/18",
     "asn": "17421",
     "country_code": "TW",
@@ -29521,6 +29545,14 @@
   },
   {
     "network": "103.36.116.0/22",
+    "asn": "17709",
+    "country_code": "TW",
+    "name": "APT",
+    "org": "Asia Pacific Telecom",
+    "domain": "fareastone.com.tw"
+  },
+  {
+    "network": "116.241.220.0/24",
     "asn": "17709",
     "country_code": "TW",
     "name": "APT",
@@ -33312,6 +33344,14 @@
     "domain": "kbro.com.tw"
   },
   {
+    "network": "106.1.40.0/22",
+    "asn": "38841",
+    "country_code": "TW",
+    "name": "kbro-AS-TW",
+    "org": "kbro CO. Ltd.",
+    "domain": "kbro.com.tw"
+  },
+  {
     "network": "106.1.48.0/23",
     "asn": "38841",
     "country_code": "TW",
@@ -34888,6 +34928,14 @@
     "domain": "kbro.com.tw"
   },
   {
+    "network": "123.193.8.0/22",
+    "asn": "38841",
+    "country_code": "TW",
+    "name": "kbro-AS-TW",
+    "org": "kbro CO. Ltd.",
+    "domain": "kbro.com.tw"
+  },
+  {
     "network": "123.193.16.0/21",
     "asn": "38841",
     "country_code": "TW",
@@ -35585,6 +35633,22 @@
   },
   {
     "network": "123.194.200.0/21",
+    "asn": "38841",
+    "country_code": "TW",
+    "name": "kbro-AS-TW",
+    "org": "kbro CO. Ltd.",
+    "domain": "kbro.com.tw"
+  },
+  {
+    "network": "123.194.216.0/22",
+    "asn": "38841",
+    "country_code": "TW",
+    "name": "kbro-AS-TW",
+    "org": "kbro CO. Ltd.",
+    "domain": "kbro.com.tw"
+  },
+  {
+    "network": "123.194.224.0/22",
     "asn": "38841",
     "country_code": "TW",
     "name": "kbro-AS-TW",
@@ -51224,22 +51288,6 @@
     "domain": "tbc.net.tw"
   },
   {
-    "network": "116.241.136.0/22",
-    "asn": "131596",
-    "country_code": "TW",
-    "name": "TBCOM-NET",
-    "org": "TBC",
-    "domain": "tbc.net.tw"
-  },
-  {
-    "network": "116.241.140.0/22",
-    "asn": "131596",
-    "country_code": "TW",
-    "name": "TBCOM-NET",
-    "org": "TBC",
-    "domain": "tbc.net.tw"
-  },
-  {
     "network": "116.241.144.0/22",
     "asn": "131596",
     "country_code": "TW",
@@ -51440,14 +51488,6 @@
     "domain": "tbc.net.tw"
   },
   {
-    "network": "116.241.200.0/23",
-    "asn": "131596",
-    "country_code": "TW",
-    "name": "TBCOM-NET",
-    "org": "TBC",
-    "domain": "tbc.net.tw"
-  },
-  {
     "network": "116.241.202.0/23",
     "asn": "131596",
     "country_code": "TW",
@@ -51457,22 +51497,6 @@
   },
   {
     "network": "116.241.204.0/22",
-    "asn": "131596",
-    "country_code": "TW",
-    "name": "TBCOM-NET",
-    "org": "TBC",
-    "domain": "tbc.net.tw"
-  },
-  {
-    "network": "116.241.204.0/23",
-    "asn": "131596",
-    "country_code": "TW",
-    "name": "TBCOM-NET",
-    "org": "TBC",
-    "domain": "tbc.net.tw"
-  },
-  {
-    "network": "116.241.206.0/23",
     "asn": "131596",
     "country_code": "TW",
     "name": "TBCOM-NET",
@@ -53673,14 +53697,6 @@
   },
   {
     "network": "123.240.244.0/22",
-    "asn": "131596",
-    "country_code": "TW",
-    "name": "TBCOM-NET",
-    "org": "TBC",
-    "domain": "tbc.net.tw"
-  },
-  {
-    "network": "123.240.244.0/23",
     "asn": "131596",
     "country_code": "TW",
     "name": "TBCOM-NET",
@@ -56673,6 +56689,14 @@
   },
   {
     "network": "113.196.142.0/24",
+    "asn": "9919",
+    "country_code": "TW",
+    "name": "NCIC-TW",
+    "org": "New Century InfoComm Tech Co., Ltd.",
+    "domain": "seed.net.tw"
+  },
+  {
+    "network": "113.196.145.0/24",
     "asn": "9919",
     "country_code": "TW",
     "name": "NCIC-TW",
@@ -74104,6 +74128,14 @@
     "domain": "wanin.tw"
   },
   {
+    "network": "103.130.236.0/24",
+    "asn": "63910",
+    "country_code": "TW",
+    "name": "CLARK-AS",
+    "org": "Clark Technology Ltd.",
+    "domain": "clark-chen.com"
+  },
+  {
     "network": "103.130.237.0/24",
     "asn": "63910",
     "country_code": "TW",
@@ -75534,14 +75566,6 @@
     "name": "CHUAN-CHAN-NET-B",
     "org": "Chuan Chan Co. Ltd.",
     "domain": "chuan-chan.com.tw"
-  },
-  {
-    "network": "103.235.6.0/23",
-    "asn": "7656",
-    "country_code": "TW",
-    "name": "TWNAP-ADMIN-AS-AP",
-    "org": "SaveCom International Inc.",
-    "domain": "savecom.net.tw"
   },
   {
     "network": "103.235.7.0/24",
@@ -77760,6 +77784,30 @@
     "domain": "moe.gov.tw"
   },
   {
+    "network": "210.60.80.0/21",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
+    "network": "210.60.88.0/22",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
+    "network": "210.60.92.0/24",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
     "network": "210.60.119.0/24",
     "asn": "1659",
     "country_code": "TW",
@@ -79896,6 +79944,22 @@
     "domain": "my-sdwan.com"
   },
   {
+    "network": "163.52.140.0/23",
+    "asn": "154902",
+    "country_code": "TW",
+    "name": "SIGNALPRO",
+    "org": "SignalPro Technology Co., Ltd.",
+    "domain": "signalpro.com.tw"
+  },
+  {
+    "network": "163.52.140.0/24",
+    "asn": "154902",
+    "country_code": "TW",
+    "name": "SIGNALPRO",
+    "org": "SignalPro Technology Co., Ltd.",
+    "domain": "signalpro.com.tw"
+  },
+  {
     "network": "163.61.60.0/23",
     "asn": "152622",
     "country_code": "TW",
@@ -81792,6 +81856,14 @@
     "domain": "imcloud.tw"
   },
   {
+    "network": "2406:840:9862::/48",
+    "asn": "210384",
+    "country_code": "TW",
+    "name": "KUDOS-AS",
+    "org": "MAOLIN HUANG",
+    "domain": "kudos.eu.org"
+  },
+  {
     "network": "2406:840:9863::/48",
     "asn": "210384",
     "country_code": "TW",
@@ -81809,6 +81881,14 @@
   },
   {
     "network": "2a06:a001:a101::/48",
+    "asn": "210384",
+    "country_code": "TW",
+    "name": "KUDOS-AS",
+    "org": "MAOLIN HUANG",
+    "domain": "kudos.eu.org"
+  },
+  {
+    "network": "2a06:a001:a102::/48",
     "asn": "210384",
     "country_code": "TW",
     "name": "KUDOS-AS",

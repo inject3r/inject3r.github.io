@@ -228,13 +228,13 @@
     "country_name": "Latvia"
   },
   {
-    "network": "5.241.129.0/24",
+    "network": "5.241.129.96/28",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
   },
   {
-    "network": "5.241.131.16/28",
+    "network": "5.241.131.0/27",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -270,7 +270,7 @@
     "country_name": "Latvia"
   },
   {
-    "network": "5.241.133.112/30",
+    "network": "5.241.133.112/28",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -288,7 +288,7 @@
     "country_name": "Latvia"
   },
   {
-    "network": "5.241.136.0/27",
+    "network": "5.241.136.0/28",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -306,7 +306,7 @@
     "country_name": "Latvia"
   },
   {
-    "network": "5.241.137.48/28",
+    "network": "5.241.137.32/27",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -427,12 +427,6 @@
   },
   {
     "network": "13.143.176.0/24",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "13.143.219.0/24",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -744,31 +738,7 @@
     "country_name": "Latvia"
   },
   {
-    "network": "37.203.34.0/24",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "37.203.35.16/28",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "37.203.35.32/27",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "37.203.35.64/26",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "37.203.35.128/25",
+    "network": "37.203.34.0/23",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -1123,6 +1093,12 @@
   },
   {
     "network": "45.152.87.0/24",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "45.153.209.0/24",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -1902,12 +1878,6 @@
     "country_name": "Latvia"
   },
   {
-    "network": "83.178.50.0/24",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
     "network": "83.178.51.128/28",
     "continent_code": "EU",
     "country_code": "LV",
@@ -2130,6 +2100,12 @@
     "country_name": "Latvia"
   },
   {
+    "network": "84.15.130.0/24",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
     "network": "84.15.136.0/21",
     "continent_code": "EU",
     "country_code": "LV",
@@ -2142,7 +2118,7 @@
     "country_name": "Latvia"
   },
   {
-    "network": "84.15.216.0/21",
+    "network": "84.15.208.0/20",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -2239,6 +2215,24 @@
   },
   {
     "network": "85.209.43.81/32",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "85.234.160.0/22",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "85.234.168.0/23",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "85.234.170.0/24",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -2850,6 +2844,12 @@
     "country_name": "Latvia"
   },
   {
+    "network": "89.191.124.0/22",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
     "network": "89.201.0.0/17",
     "continent_code": "EU",
     "country_code": "LV",
@@ -3012,7 +3012,31 @@
     "country_name": "Latvia"
   },
   {
-    "network": "90.133.192.0/19",
+    "network": "90.133.192.0/20",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "90.133.208.0/22",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "90.133.213.0/24",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "90.133.214.0/23",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "90.133.216.0/21",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -4453,12 +4477,6 @@
   },
   {
     "network": "141.98.184.0/22",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "141.101.134.0/24",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -6000,7 +6018,7 @@
     "country_name": "Latvia"
   },
   {
-    "network": "178.212.252.0/24",
+    "network": "178.212.252.0/23",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -7123,18 +7141,6 @@
   },
   {
     "network": "193.27.19.0/30",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "193.27.19.8/29",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "193.27.19.96/29",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -8310,12 +8316,6 @@
     "country_name": "Latvia"
   },
   {
-    "network": "212.73.248.32/30",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
     "network": "212.74.231.0/24",
     "continent_code": "EU",
     "country_code": "LV",
@@ -8622,7 +8622,19 @@
     "country_name": "Latvia"
   },
   {
-    "network": "213.101.208.0/21",
+    "network": "213.101.208.0/24",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "213.101.210.0/23",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "213.101.212.0/22",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -8634,13 +8646,7 @@
     "country_name": "Latvia"
   },
   {
-    "network": "213.101.219.0/29",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "213.101.219.128/25",
+    "network": "213.101.219.8/29",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -9678,18 +9684,6 @@
     "country_name": "Latvia"
   },
   {
-    "network": "2a11:7e43::/32",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "2a11:7e45::/32",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
     "network": "2a11:df41::/32",
     "continent_code": "EU",
     "country_code": "LV",
@@ -10284,12 +10278,6 @@
     "country_name": "Latvia"
   },
   {
-    "network": "2a09:3f00:3540::/42",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
     "network": "2a0a:6040:b180::/42",
     "continent_code": "EU",
     "country_code": "LV",
@@ -10357,12 +10345,6 @@
   },
   {
     "network": "2a06:a005:2e00::/43",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "2a09:3f00:3520::/43",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -10567,12 +10549,6 @@
   },
   {
     "network": "2a02:7aa0:5008::/45",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
-    "network": "2a09:3f00:3518::/45",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -15540,12 +15516,6 @@
     "country_name": "Latvia"
   },
   {
-    "network": "2a09:3f00:3514::/46",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
     "network": "2a0a:6040:b1fc::/46",
     "continent_code": "EU",
     "country_code": "LV",
@@ -15648,12 +15618,6 @@
     "country_name": "Latvia"
   },
   {
-    "network": "2a09:3f00:3512::/47",
-    "continent_code": "EU",
-    "country_code": "LV",
-    "country_name": "Latvia"
-  },
-  {
     "network": "2a09:a702:b0::/47",
     "continent_code": "EU",
     "country_code": "LV",
@@ -15697,6 +15661,18 @@
   },
   {
     "network": "2a0f:cdc6:1002::/47",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "2a0f:cdc6:2030::/47",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "2a0f:cdc6:2036::/47",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"
@@ -16681,6 +16657,18 @@
   },
   {
     "network": "2a0f:cdc6:2025::/48",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "2a0f:cdc6:2032::/48",
+    "continent_code": "EU",
+    "country_code": "LV",
+    "country_name": "Latvia"
+  },
+  {
+    "network": "2a0f:cdc6:2035::/48",
     "continent_code": "EU",
     "country_code": "LV",
     "country_name": "Latvia"

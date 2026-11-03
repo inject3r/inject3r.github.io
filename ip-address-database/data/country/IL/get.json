@@ -636,7 +636,19 @@
     "country_name": "Israel"
   },
   {
-    "network": "17.78.160.0/23",
+    "network": "17.78.160.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "17.78.161.160/27",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "17.78.161.224/27",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -660,25 +672,19 @@
     "country_name": "Israel"
   },
   {
-    "network": "17.78.168.0/22",
+    "network": "17.78.169.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "17.78.170.0/23",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
   },
   {
     "network": "17.78.172.0/24",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "17.78.174.0/24",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "17.78.177.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -1231,12 +1237,6 @@
   },
   {
     "network": "32.112.13.0/28",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "32.112.131.88/30",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -1842,49 +1842,13 @@
     "country_name": "Israel"
   },
   {
-    "network": "40.223.132.118/31",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "40.223.135.182/31",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "40.223.138.68/31",
+    "network": "40.223.135.180/30",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
   },
   {
     "network": "40.223.140.250/31",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "40.223.141.218/31",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "40.223.154.108/31",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "40.223.170.92/31",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "40.223.170.96/31",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -1987,12 +1951,6 @@
   },
   {
     "network": "45.80.88.0/22",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "45.82.106.0/23",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -3222,25 +3180,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "64.177.64.0/23",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "64.177.66.0/24",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "64.177.68.0/22",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "64.177.72.0/21",
+    "network": "64.177.64.0/20",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -3828,7 +3768,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.108.166.0/23",
+    "network": "79.108.167.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -3870,19 +3810,19 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.176.19.0/24",
+    "network": "79.176.17.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
   },
   {
-    "network": "79.176.20.0/24",
+    "network": "79.176.18.0/23",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
   },
   {
-    "network": "79.176.22.0/24",
+    "network": "79.176.20.0/22",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -3906,7 +3846,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.176.32.0/24",
+    "network": "79.176.32.0/23",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -3942,13 +3882,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.176.52.0/24",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "79.176.54.0/23",
+    "network": "79.176.52.0/22",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -3978,7 +3912,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.176.66.0/24",
+    "network": "79.176.66.0/23",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4002,7 +3936,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.176.76.0/24",
+    "network": "79.176.76.0/23",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4032,25 +3966,13 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.176.86.0/24",
+    "network": "79.176.86.0/23",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
   },
   {
-    "network": "79.176.88.0/22",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "79.176.93.0/24",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "79.176.95.0/24",
+    "network": "79.176.88.0/21",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4062,7 +3984,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.176.98.0/24",
+    "network": "79.176.98.0/23",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4188,19 +4110,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.176.160.0/21",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "79.176.168.0/22",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "79.176.174.0/23",
+    "network": "79.176.160.0/20",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4219,6 +4129,12 @@
   },
   {
     "network": "79.176.202.0/23",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.176.204.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4327,6 +4243,12 @@
   },
   {
     "network": "79.180.32.0/23",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.180.46.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4608,25 +4530,43 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.182.6.0/23",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "79.182.8.0/23",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "79.182.13.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
   },
   {
+    "network": "79.182.15.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.22.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.28.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "79.182.31.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.37.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.38.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4644,25 +4584,49 @@
     "country_name": "Israel"
   },
   {
+    "network": "79.182.48.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.50.0/23",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.61.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.63.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "79.182.67.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
   },
   {
-    "network": "79.182.70.136/29",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "79.182.70.144/29",
+    "network": "79.182.71.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
   },
   {
     "network": "79.182.77.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.78.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4705,6 +4669,18 @@
   },
   {
     "network": "79.182.121.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.125.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.129.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4770,6 +4746,12 @@
     "country_name": "Israel"
   },
   {
+    "network": "79.182.165.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "79.182.166.0/23",
     "continent_code": "AS",
     "country_code": "IL",
@@ -4807,6 +4789,12 @@
   },
   {
     "network": "79.182.199.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.182.201.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -4884,6 +4872,12 @@
     "country_name": "Israel"
   },
   {
+    "network": "79.183.0.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "79.183.2.0/24",
     "continent_code": "AS",
     "country_code": "IL",
@@ -4909,6 +4903,12 @@
   },
   {
     "network": "79.183.18.0/23",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.183.24.0/22",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -5220,7 +5220,13 @@
     "country_name": "Israel"
   },
   {
-    "network": "79.183.232.0/22",
+    "network": "79.183.232.0/23",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "79.183.234.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -5514,7 +5520,25 @@
     "country_name": "Israel"
   },
   {
-    "network": "81.199.48.0/20",
+    "network": "81.199.48.0/21",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "81.199.56.0/22",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "81.199.60.0/23",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "81.199.63.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -6096,12 +6120,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "83.142.54.64/26",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "83.142.54.128/25",
     "continent_code": "AS",
     "country_code": "IL",
@@ -6438,7 +6456,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "88.202.218.0/24",
+    "network": "88.202.218.0/23",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -7440,12 +7458,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "94.118.96.0/24",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "94.131.114.0/24",
     "continent_code": "AS",
     "country_code": "IL",
@@ -7933,6 +7945,12 @@
   },
   {
     "network": "104.28.60.70/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "104.28.80.122/31",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -8472,12 +8490,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "104.132.36.0/24",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "104.134.242.0/24",
     "continent_code": "AS",
     "country_code": "IL",
@@ -8970,6 +8982,12 @@
     "country_name": "Israel"
   },
   {
+    "network": "109.65.0.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "109.65.2.0/24",
     "continent_code": "AS",
     "country_code": "IL",
@@ -8977,6 +8995,12 @@
   },
   {
     "network": "109.65.4.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "109.65.11.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -9000,7 +9024,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "109.65.28.0/23",
+    "network": "109.65.28.0/22",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -9312,6 +9336,12 @@
     "country_name": "Israel"
   },
   {
+    "network": "109.65.191.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "109.65.192.0/23",
     "continent_code": "AS",
     "country_code": "IL",
@@ -9343,6 +9373,18 @@
   },
   {
     "network": "109.65.204.0/22",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "109.65.209.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "109.65.211.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -9492,6 +9534,12 @@
     "country_name": "Israel"
   },
   {
+    "network": "109.66.70.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "109.66.78.0/23",
     "continent_code": "AS",
     "country_code": "IL",
@@ -9505,6 +9553,12 @@
   },
   {
     "network": "109.66.86.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "109.66.88.0/23",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -9553,6 +9607,12 @@
   },
   {
     "network": "109.66.137.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "109.66.139.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -9714,6 +9774,24 @@
     "country_name": "Israel"
   },
   {
+    "network": "109.66.232.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "109.66.237.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "109.66.242.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "109.66.250.0/23",
     "continent_code": "AS",
     "country_code": "IL",
@@ -9847,24 +9925,6 @@
   },
   {
     "network": "128.94.22.172/31",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "128.94.22.178/31",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "128.94.22.180/30",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "128.94.22.184/29",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -11070,6 +11130,12 @@
     "country_name": "Israel"
   },
   {
+    "network": "143.20.191.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "143.204.217.0/24",
     "continent_code": "AS",
     "country_code": "IL",
@@ -11119,24 +11185,6 @@
   },
   {
     "network": "143.246.248.0/21",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "144.2.229.11/32",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "144.2.229.139/32",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "144.2.229.203/32",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -11736,12 +11784,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "151.242.192.0/24",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "151.245.72.0/24",
     "continent_code": "AS",
     "country_code": "IL",
@@ -12199,12 +12241,6 @@
   },
   {
     "network": "156.109.35.48/29",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "156.229.118.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -13026,7 +13062,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "169.224.158.176/29",
+    "network": "169.224.158.128/25",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -13230,6 +13266,120 @@
     "country_name": "Israel"
   },
   {
+    "network": "172.252.28.20/30",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.28.44/30",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.28.52/30",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.28.62/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.28.82/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.28.132/30",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.28.146/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.28.176/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.55.252/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.135.6/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.135.16/30",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.135.84/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.135.136/30",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.135.172/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.135.180/30",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.135.188/30",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.135.214/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.135.246/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "172.252.135.248/29",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "172.252.139.56/30",
     "continent_code": "AS",
     "country_code": "IL",
@@ -13248,7 +13398,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "172.252.139.144/30",
+    "network": "172.252.139.146/31",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -13908,12 +14058,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "185.108.84.0/23",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "185.108.148.0/22",
     "continent_code": "AS",
     "country_code": "IL",
@@ -14436,7 +14580,13 @@
     "country_name": "Israel"
   },
   {
-    "network": "185.159.72.0/22",
+    "network": "185.159.72.0/23",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "185.159.74.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -15624,6 +15774,12 @@
     "country_name": "Israel"
   },
   {
+    "network": "193.200.30.0/24",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "193.201.147.0/26",
     "continent_code": "AS",
     "country_code": "IL",
@@ -15667,6 +15823,18 @@
   },
   {
     "network": "193.202.13.64/28",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "193.202.13.84/30",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "193.202.13.88/29",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -15756,12 +15924,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "193.202.80.192/27",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "193.202.81.0/24",
     "continent_code": "AS",
     "country_code": "IL",
@@ -15786,12 +15948,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "193.202.83.224/27",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "193.202.86.0/23",
     "continent_code": "AS",
     "country_code": "IL",
@@ -15799,12 +15955,6 @@
   },
   {
     "network": "193.203.8.0/26",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "193.203.8.64/28",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -16884,6 +17034,12 @@
     "country_name": "Israel"
   },
   {
+    "network": "195.216.131.160/27",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "195.216.131.192/26",
     "continent_code": "AS",
     "country_code": "IL",
@@ -17053,12 +17209,6 @@
   },
   {
     "network": "198.143.36.0/32",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "198.143.51.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -17323,12 +17473,6 @@
   },
   {
     "network": "206.182.92.0/24",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "206.201.197.0/24",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -18013,12 +18157,6 @@
   },
   {
     "network": "212.119.47.0/25",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "212.119.47.160/27",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -18900,30 +19038,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "216.252.176.80/29",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "216.252.176.88/30",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "216.252.176.104/29",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "216.252.176.112/28",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "216.252.176.128/25",
     "continent_code": "AS",
     "country_code": "IL",
@@ -18954,7 +19068,31 @@
     "country_name": "Israel"
   },
   {
-    "network": "216.252.178.128/26",
+    "network": "216.252.178.128/27",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "216.252.178.160/28",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "216.252.178.178/31",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "216.252.178.180/30",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "216.252.178.184/29",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -19117,12 +19255,6 @@
   },
   {
     "network": "217.156.136.104/30",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "217.156.169.8/29",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -20304,12 +20436,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a07:7b04:8000::/33",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "2a0a:3980:8000::/33",
     "continent_code": "AS",
     "country_code": "IL",
@@ -20388,12 +20514,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a07:7b04:4000::/34",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "2a0a:3980:4000::/34",
     "continent_code": "AS",
     "country_code": "IL",
@@ -20467,12 +20587,6 @@
   },
   {
     "network": "2a07:1980:2000::/35",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:2000::/35",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -20730,18 +20844,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a07:7b04:800::/37",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1800::/37",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "2a0a:3980:800::/37",
     "continent_code": "AS",
     "country_code": "IL",
@@ -20857,18 +20959,6 @@
   },
   {
     "network": "2a07:1980:400::/38",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:400::/38",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1400::/38",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -21013,18 +21103,6 @@
   },
   {
     "network": "2a07:1980:200::/39",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:200::/39",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1200::/39",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -21534,18 +21612,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a07:7b04:100::/40",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1100::/40",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "2a07:d887:6600::/40",
     "continent_code": "AS",
     "country_code": "IL",
@@ -21840,18 +21906,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a07:7b04:80::/41",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1080::/41",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "2a09:bac1:3580::/41",
     "continent_code": "AS",
     "country_code": "IL",
@@ -22075,18 +22129,6 @@
   },
   {
     "network": "2a07:1980:140::/42",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:40::/42",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1040::/42",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -22351,18 +22393,6 @@
   },
   {
     "network": "2a07:1980:120::/43",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:20::/43",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1020::/43",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -22692,18 +22722,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a07:7b04:10::/44",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1010::/44",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "2a09:bac5:3a90::/44",
     "continent_code": "AS",
     "country_code": "IL",
@@ -22968,12 +22986,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a14:7c0:40::/44",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "2a14:7c0:c0::/44",
     "continent_code": "AS",
     "country_code": "IL",
@@ -23100,6 +23112,12 @@
     "country_name": "Israel"
   },
   {
+    "network": "2a03:cac0::/45",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "2a05:b4c0:8::/45",
     "continent_code": "AS",
     "country_code": "IL",
@@ -23161,18 +23179,6 @@
   },
   {
     "network": "2a07:1980:108::/45",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:8::/45",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1008::/45",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -28344,13 +28350,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a03:cac0:4::/46",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a03:cac0:8::/46",
+    "network": "2a03:cac0:c::/46",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -28411,18 +28411,6 @@
   },
   {
     "network": "2a07:1980:100::/46",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:4::/46",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1004::/46",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -28495,12 +28483,6 @@
   },
   {
     "network": "2a0b:4e07:c::/46",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a0b:4e07:84::/46",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -29064,13 +29046,7 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a03:cac0::/47",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a03:cac0:e::/47",
+    "network": "2a03:cac0:8::/47",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -29137,18 +29113,6 @@
   },
   {
     "network": "2a07:1980:106::/47",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:2::/47",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1002::/47",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -29869,6 +29833,12 @@
   },
   {
     "network": "2600:f0fb:f10f::/48",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2602:f34c:f112::/48",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -31200,18 +31170,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a03:cac0:3::/48",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a03:cac0:d::/48",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "2a04:4e41:80c::/48",
     "continent_code": "AS",
     "country_code": "IL",
@@ -31255,6 +31213,24 @@
   },
   {
     "network": "2a05:b4c0:1::/48",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a06:c5c:4::/48",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a06:c5c:7::/48",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a06:c5c:9::/48",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -31392,18 +31368,6 @@
     "country_name": "Israel"
   },
   {
-    "network": "2a07:7b04:1::/48",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a07:7b04:1001::/48",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
     "network": "2a09:bac0:149::/48",
     "continent_code": "AS",
     "country_code": "IL",
@@ -31531,12 +31495,6 @@
   },
   {
     "network": "2a0b:4e07:44::/48",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a0b:4e07:82::/48",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -31837,12 +31795,6 @@
   },
   {
     "network": "2a11:46c0:2e::/48",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a12:a5c7:ff2b::/48",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -34398,6 +34350,12 @@
     "country_name": "Israel"
   },
   {
+    "network": "2401:2060:b10e:132::/64",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "2401:3620:231:6f::/64",
     "continent_code": "AS",
     "country_code": "IL",
@@ -34711,18 +34669,6 @@
   },
   {
     "network": "2a01:111:f403:e20e::/64",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a01:b740:16::/64",
-    "continent_code": "AS",
-    "country_code": "IL",
-    "country_name": "Israel"
-  },
-  {
-    "network": "2a01:b740:16:10::/64",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"
@@ -35298,6 +35244,66 @@
     "country_name": "Israel"
   },
   {
+    "network": "2a01:b740:16:10::780/122",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16::800/125",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16:10::800/125",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16::100/126",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16:10::740/126",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16:10::770/126",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16:10::900/126",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16:10::910/126",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16:10::920/126",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16:10::928/126",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
     "network": "2001:678:1184::972:1/128",
     "continent_code": "AS",
     "country_code": "IL",
@@ -35305,6 +35311,18 @@
   },
   {
     "network": "2001:678:1184:0:972:1:0:1/128",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16:10::1/128",
+    "continent_code": "AS",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  {
+    "network": "2a01:b740:16:10::2/128",
     "continent_code": "AS",
     "country_code": "IL",
     "country_name": "Israel"

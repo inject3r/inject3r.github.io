@@ -162,7 +162,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "36.50.13.240/28",
+    "network": "36.50.13.192/26",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -240,7 +240,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "38.100.223.0/27",
+    "network": "38.100.223.0/28",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "38.100.223.64/28",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -624,43 +630,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "45.201.64.0/23",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "45.201.68.0/23",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "45.201.76.0/22",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "45.201.84.0/23",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "45.201.88.0/22",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "45.201.92.0/23",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "45.206.110.0/24",
+    "network": "45.201.64.0/19",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -685,6 +655,12 @@
   },
   {
     "network": "46.229.253.192/27",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "54.39.174.0/24",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -1662,12 +1638,6 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "79.182.70.128/29",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
     "network": "80.77.8.0/22",
     "continent_code": "AS",
     "country_code": "PK",
@@ -2353,12 +2323,6 @@
   },
   {
     "network": "92.118.68.0/24",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "94.154.160.0/24",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -3768,7 +3732,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "103.148.162.36/30",
+    "network": "103.148.162.36/31",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -3786,13 +3750,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "103.148.162.116/30",
+    "network": "103.148.162.112/28",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "103.148.162.140/30",
+    "network": "103.148.162.136/29",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -3810,25 +3774,25 @@
     "country_name": "Pakistan"
   },
   {
+    "network": "103.148.162.192/31",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
     "network": "103.148.162.208/29",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "103.148.162.228/30",
+    "network": "103.148.162.224/29",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "103.148.163.32/28",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "103.148.163.56/29",
+    "network": "103.148.163.32/27",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -3840,13 +3804,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "103.148.163.128/29",
+    "network": "103.148.163.132/30",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "103.148.163.220/30",
+    "network": "103.148.163.216/29",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -3949,6 +3913,12 @@
   },
   {
     "network": "103.151.46.0/23",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "103.151.110.0/23",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -4710,7 +4680,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "103.209.127.0/24",
+    "network": "103.209.126.0/23",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -6414,7 +6384,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "115.167.24.0/22",
+    "network": "115.167.24.0/21",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -6547,12 +6517,6 @@
   },
   {
     "network": "116.58.0.0/17",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "116.66.236.0/23",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7170,19 +7134,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "139.190.208.0/23",
+    "network": "139.190.208.0/22",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
     "network": "139.190.212.0/24",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "139.190.214.0/23",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7249,6 +7207,12 @@
   },
   {
     "network": "139.190.242.0/23",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "139.190.244.0/22",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7572,19 +7536,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "149.40.240.96/29",
+    "network": "149.40.240.96/28",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "149.40.240.136/29",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "149.40.240.144/29",
+    "network": "149.40.240.128/27",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7698,13 +7656,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "151.123.225.24/29",
+    "network": "151.123.225.28/30",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "151.123.225.32/28",
+    "network": "151.123.225.40/29",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7806,7 +7764,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.16.64/29",
+    "network": "153.117.16.20/30",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "153.117.16.68/30",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7854,13 +7818,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.20.72/30",
+    "network": "153.117.20.74/31",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.20.184/30",
+    "network": "153.117.20.184/31",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7872,7 +7836,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.21.0/24",
+    "network": "153.117.21.16/30",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7908,7 +7872,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.22.188/30",
+    "network": "153.117.22.180/30",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "153.117.22.188/31",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7932,7 +7902,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.23.192/29",
+    "network": "153.117.23.192/28",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7956,19 +7926,19 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.26.240/29",
+    "network": "153.117.26.244/30",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.27.18/31",
+    "network": "153.117.27.16/29",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.28.72/30",
+    "network": "153.117.28.0/24",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -7980,7 +7950,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.29.112/29",
+    "network": "153.117.29.114/31",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -8010,6 +7980,12 @@
     "country_name": "Pakistan"
   },
   {
+    "network": "153.117.35.28/31",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
     "network": "153.117.35.32/29",
     "continent_code": "AS",
     "country_code": "PK",
@@ -8022,7 +7998,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.35.66/31",
+    "network": "153.117.35.64/30",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -8058,18 +8034,6 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.38.120/31",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "153.117.38.148/31",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
     "network": "153.117.38.156/30",
     "continent_code": "AS",
     "country_code": "PK",
@@ -8088,37 +8052,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.42.60/30",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
     "network": "153.117.42.84/30",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.42.108/30",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "153.117.42.112/30",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "153.117.42.152/30",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "153.117.42.206/31",
+    "network": "153.117.42.110/31",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -8142,37 +8082,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "153.117.64.0/19",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "153.117.96.0/20",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "153.117.112.0/21",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "153.117.120.0/22",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "153.117.126.0/24",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "153.117.127.4/30",
+    "network": "153.117.64.0/18",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -8232,19 +8142,19 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "154.57.220.100/31",
-    "continent_code": "AS",
-    "country_code": "PK",
-    "country_name": "Pakistan"
-  },
-  {
-    "network": "154.57.220.112/29",
+    "network": "154.57.220.114/31",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
     "network": "154.57.220.192/28",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "154.57.220.224/28",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -8262,25 +8172,61 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "154.59.40.0/22",
+    "network": "154.59.41.0/24",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "154.59.44.0/24",
+    "network": "154.59.42.28/30",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "154.59.45.0/25",
+    "network": "154.59.42.42/31",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
   },
   {
-    "network": "154.59.45.128/28",
+    "network": "154.59.42.64/28",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "154.59.42.112/28",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "154.59.42.148/30",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "154.59.42.152/29",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "154.59.42.192/27",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "154.59.43.0/24",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "154.59.45.116/30",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -10008,6 +9954,12 @@
     "country_name": "Pakistan"
   },
   {
+    "network": "185.228.92.0/24",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
     "network": "185.239.148.0/24",
     "continent_code": "AS",
     "country_code": "PK",
@@ -10128,7 +10080,13 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "187.78.144.0/20",
+    "network": "187.78.144.0/22",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "187.78.152.0/21",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -10369,6 +10327,12 @@
   },
   {
     "network": "195.79.220.128/27",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "195.137.206.0/24",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -11184,7 +11148,7 @@
     "country_name": "Pakistan"
   },
   {
-    "network": "206.168.200.0/23",
+    "network": "206.168.200.0/24",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"
@@ -19855,6 +19819,12 @@
   },
   {
     "network": "2a11:840:71::/48",
+    "continent_code": "AS",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  {
+    "network": "2a12:bec0:397::/48",
     "continent_code": "AS",
     "country_code": "PK",
     "country_name": "Pakistan"

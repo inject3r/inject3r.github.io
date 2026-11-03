@@ -2838,7 +2838,13 @@
     "country_name": "Nepal"
   },
   {
-    "network": "188.253.96.0/22",
+    "network": "188.253.96.0/23",
+    "continent_code": "AS",
+    "country_code": "NP",
+    "country_name": "Nepal"
+  },
+  {
+    "network": "188.253.99.0/24",
     "continent_code": "AS",
     "country_code": "NP",
     "country_name": "Nepal"
@@ -4831,12 +4837,6 @@
   },
   {
     "network": "2a10:fa81:18a7::/48",
-    "continent_code": "AS",
-    "country_code": "NP",
-    "country_name": "Nepal"
-  },
-  {
-    "network": "2a13:82c4:ff1f::/48",
     "continent_code": "AS",
     "country_code": "NP",
     "country_name": "Nepal"

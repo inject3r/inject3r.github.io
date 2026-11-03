@@ -96,7 +96,15 @@
     "domain": "softnet.si"
   },
   {
-    "network": "46.163.60.0/22",
+    "network": "46.163.60.0/23",
+    "asn": "9119",
+    "country_code": "SI",
+    "name": "SOFTNET-AS",
+    "org": "SOFTNET d.o.o.",
+    "domain": "softnet.si"
+  },
+  {
+    "network": "46.163.62.0/23",
     "asn": "9119",
     "country_code": "SI",
     "name": "SOFTNET-AS",
@@ -721,14 +729,6 @@
   },
   {
     "network": "194.247.162.0/23",
-    "asn": "44549",
-    "country_code": "SI",
-    "name": "MEGA-M-AS",
-    "org": "MEGA M, d.o.o.",
-    "domain": "mega-m.net"
-  },
-  {
-    "network": "2a06:c180::/29",
     "asn": "44549",
     "country_code": "SI",
     "name": "MEGA-M-AS",
@@ -7523,9 +7523,9 @@
     "network": "195.95.161.0/24",
     "asn": "49590",
     "country_code": "SI",
-    "name": "SI-TRENDNET",
-    "org": "TRENDNET d.o.o.",
-    "domain": "trendnet.si"
+    "name": "SI-IN_SIST",
+    "org": "IN.SIST d.o.o.",
+    "domain": "in-sist.si"
   },
   {
     "network": "195.95.173.0/24",
@@ -7921,14 +7921,6 @@
   },
   {
     "network": "2a14:6781:ff04::/48",
-    "asn": "59449",
-    "country_code": "SI",
-    "name": "KonzolaNET",
-    "org": "Mitja Herbaj",
-    "domain": "konzola.net"
-  },
-  {
-    "network": "2a14:6781:ff05::/48",
     "asn": "59449",
     "country_code": "SI",
     "name": "KonzolaNET",
