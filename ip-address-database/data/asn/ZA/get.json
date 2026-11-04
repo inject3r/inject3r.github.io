@@ -43872,7 +43872,7 @@
     "domain": "iuncapped.co.za"
   },
   {
-    "network": "102.200.188.0/24",
+    "network": "102.200.188.0/22",
     "asn": "329126",
     "country_code": "ZA",
     "name": "IIP-AS",
@@ -46568,6 +46568,14 @@
     "domain": "marveltec.co.za"
   },
   {
+    "network": "2c0f:2f40::/36",
+    "asn": "329408",
+    "country_code": "ZA",
+    "name": "Marveltec",
+    "org": "Marveltec",
+    "domain": "marveltec.co.za"
+  },
+  {
     "network": "102.209.191.0/24",
     "asn": "329402",
     "country_code": "ZA",
@@ -47886,6 +47894,14 @@
     "name": "NA31-AS",
     "org": "Netmetrix",
     "domain": "netmetrix.co.za"
+  },
+  {
+    "network": "102.214.172.0/22",
+    "asn": "329143",
+    "country_code": "ZA",
+    "name": "LCSL2-AS",
+    "org": "Limpopo Connexion SOC Ltd",
+    "domain": "lcx.co.za"
   },
   {
     "network": "102.214.176.0/22",
@@ -57320,6 +57336,14 @@
     "domain": "gsol.co.za"
   },
   {
+    "network": "164.160.25.0/24",
+    "asn": "328020",
+    "country_code": "ZA",
+    "name": "Gardale-Solutions",
+    "org": "Gardale Solutions",
+    "domain": "gsol.co.za"
+  },
+  {
     "network": "164.160.26.0/24",
     "asn": "328020",
     "country_code": "ZA",
@@ -57345,22 +57369,6 @@
   },
   {
     "network": "2c0f:f148::/32",
-    "asn": "328218",
-    "country_code": "ZA",
-    "name": "WASP-AS",
-    "org": "Wireless Associate Service Providers CC",
-    "domain": "wasp-sa.co.za"
-  },
-  {
-    "network": "2c0f:f148::/33",
-    "asn": "328218",
-    "country_code": "ZA",
-    "name": "WASP-AS",
-    "org": "Wireless Associate Service Providers CC",
-    "domain": "wasp-sa.co.za"
-  },
-  {
-    "network": "2c0f:f148:8000::/33",
     "asn": "328218",
     "country_code": "ZA",
     "name": "WASP-AS",

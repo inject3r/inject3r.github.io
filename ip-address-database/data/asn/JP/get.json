@@ -31352,6 +31352,14 @@
     "domain": "astrix.email"
   },
   {
+    "network": "82.26.72.0/23",
+    "asn": "212259",
+    "country_code": "JP",
+    "name": "ASTRIX-EU",
+    "org": "Astrix Co., Ltd.",
+    "domain": "astrix.email"
+  },
+  {
     "network": "198.135.36.0/22",
     "asn": "212259",
     "country_code": "JP",
@@ -50745,6 +50753,22 @@
   },
   {
     "network": "2402:3160:100::/40",
+    "asn": "63806",
+    "country_code": "JP",
+    "name": "MENHERA",
+    "org": "Human-life Information Platforms Institute",
+    "domain": "menhera.com"
+  },
+  {
+    "network": "2402:3160:400::/40",
+    "asn": "63806",
+    "country_code": "JP",
+    "name": "MENHERA",
+    "org": "Human-life Information Platforms Institute",
+    "domain": "menhera.com"
+  },
+  {
+    "network": "2402:3160:500::/40",
     "asn": "63806",
     "country_code": "JP",
     "name": "MENHERA",
@@ -71000,7 +71024,15 @@
     "domain": "akari.hk"
   },
   {
-    "network": "160.21.68.0/22",
+    "network": "160.21.68.0/23",
+    "asn": "211252",
+    "country_code": "JP",
+    "name": "AKARI-AS-JP",
+    "org": "Marushin K.K.",
+    "domain": "akari.hk"
+  },
+  {
+    "network": "160.21.70.0/23",
     "asn": "211252",
     "country_code": "JP",
     "name": "AKARI-AS-JP",
@@ -103000,12 +103032,44 @@
     "domain": ""
   },
   {
-    "network": "2602:f2dc:95::/48",
-    "asn": "213471",
+    "network": "2602:feda:ae2::/47",
+    "asn": "138181",
     "country_code": "JP",
-    "name": "IPPNOC",
-    "org": "YAMAMOTO Hiroshi",
-    "domain": "marbacka.org"
+    "name": "HEXHU",
+    "org": "Cat Networks K.K.",
+    "domain": "hexhu.net"
+  },
+  {
+    "network": "2602:feda:ae3::/48",
+    "asn": "138181",
+    "country_code": "JP",
+    "name": "HEXHU",
+    "org": "Cat Networks K.K.",
+    "domain": "hexhu.net"
+  },
+  {
+    "network": "2602:feda:af2::/48",
+    "asn": "138038",
+    "country_code": "JP",
+    "name": "WOLFLAB-AS-AP",
+    "org": "Wolf Network Lab",
+    "domain": "wolflab.net"
+  },
+  {
+    "network": "2a01:e281:a100::/40",
+    "asn": "214430",
+    "country_code": "JP",
+    "name": "xronos",
+    "org": "Takahiro Fukushima",
+    "domain": "xronos-msys.com"
+  },
+  {
+    "network": "2a01:e281:ae00::/40",
+    "asn": "214430",
+    "country_code": "JP",
+    "name": "xronos",
+    "org": "Takahiro Fukushima",
+    "domain": "xronos-msys.com"
   },
   {
     "network": "2a06:41::/44",
@@ -103046,46 +103110,6 @@
     "name": "IPPNOC",
     "org": "YAMAMOTO Hiroshi",
     "domain": "marbacka.org"
-  },
-  {
-    "network": "2602:feda:ae2::/47",
-    "asn": "138181",
-    "country_code": "JP",
-    "name": "HEXHU",
-    "org": "Cat Networks K.K.",
-    "domain": "hexhu.net"
-  },
-  {
-    "network": "2602:feda:ae3::/48",
-    "asn": "138181",
-    "country_code": "JP",
-    "name": "HEXHU",
-    "org": "Cat Networks K.K.",
-    "domain": "hexhu.net"
-  },
-  {
-    "network": "2602:feda:af2::/48",
-    "asn": "138038",
-    "country_code": "JP",
-    "name": "WOLFLAB-AS-AP",
-    "org": "Wolf Network Lab",
-    "domain": "wolflab.net"
-  },
-  {
-    "network": "2a01:e281:a100::/40",
-    "asn": "214430",
-    "country_code": "JP",
-    "name": "xronos",
-    "org": "Takahiro Fukushima",
-    "domain": "xronos-msys.com"
-  },
-  {
-    "network": "2a01:e281:ae00::/40",
-    "asn": "214430",
-    "country_code": "JP",
-    "name": "xronos",
-    "org": "Takahiro Fukushima",
-    "domain": "xronos-msys.com"
   },
   {
     "network": "2a0b:4e07:94::/46",

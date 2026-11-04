@@ -2872,6 +2872,14 @@
     "domain": "norteconecta.net"
   },
   {
+    "network": "38.41.43.0/24",
+    "asn": "271791",
+    "country_code": "VE",
+    "name": "CABLE NORTE CA.",
+    "org": "CABLE NORTE CA.",
+    "domain": "norteconecta.net"
+  },
+  {
     "network": "82.86.104.0/24",
     "asn": "271791",
     "country_code": "VE",
@@ -3065,6 +3073,14 @@
   },
   {
     "network": "2803:bfe0:208::/48",
+    "asn": "271791",
+    "country_code": "VE",
+    "name": "CABLE NORTE CA.",
+    "org": "CABLE NORTE CA.",
+    "domain": "norteconecta.net"
+  },
+  {
+    "network": "2803:bfe0:400::/48",
     "asn": "271791",
     "country_code": "VE",
     "name": "CABLE NORTE CA.",
@@ -4320,46 +4336,6 @@
     "domain": "airlink.com.ve"
   },
   {
-    "network": "38.50.160.0/23",
-    "asn": "271939",
-    "country_code": "VE",
-    "name": "REDES ELIAS, C.A.",
-    "org": "REDES ELIAS, C.A.",
-    "domain": "redeselias.com"
-  },
-  {
-    "network": "38.50.160.0/24",
-    "asn": "271939",
-    "country_code": "VE",
-    "name": "REDES ELIAS, C.A.",
-    "org": "REDES ELIAS, C.A.",
-    "domain": "redeselias.com"
-  },
-  {
-    "network": "38.50.161.0/24",
-    "asn": "271939",
-    "country_code": "VE",
-    "name": "REDES ELIAS, C.A.",
-    "org": "REDES ELIAS, C.A.",
-    "domain": "redeselias.com"
-  },
-  {
-    "network": "38.50.162.0/24",
-    "asn": "271939",
-    "country_code": "VE",
-    "name": "REDES ELIAS, C.A.",
-    "org": "REDES ELIAS, C.A.",
-    "domain": "redeselias.com"
-  },
-  {
-    "network": "38.50.163.0/24",
-    "asn": "271939",
-    "country_code": "VE",
-    "name": "REDES ELIAS, C.A.",
-    "org": "REDES ELIAS, C.A.",
-    "domain": "redeselias.com"
-  },
-  {
     "network": "38.51.56.0/22",
     "asn": "272119",
     "country_code": "VE",
@@ -4512,23 +4488,7 @@
     "domain": "bessersolutions.com"
   },
   {
-    "network": "38.51.124.0/24",
-    "asn": "274874",
-    "country_code": "VE",
-    "name": "LITHIUM TELECOM, C.A",
-    "org": "LITHIUM TELECOM, C.A",
-    "domain": "litiumtelecom.net"
-  },
-  {
     "network": "38.51.125.0/24",
-    "asn": "274874",
-    "country_code": "VE",
-    "name": "LITHIUM TELECOM, C.A",
-    "org": "LITHIUM TELECOM, C.A",
-    "domain": "litiumtelecom.net"
-  },
-  {
-    "network": "38.51.126.0/24",
     "asn": "274874",
     "country_code": "VE",
     "name": "LITHIUM TELECOM, C.A",
@@ -4576,14 +4536,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.51.157.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.51.158.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -4608,22 +4560,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.51.176.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.51.177.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.51.178.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -4640,7 +4576,31 @@
     "domain": "thundernet.com.ve"
   },
   {
+    "network": "38.51.180.0/24",
+    "asn": "272809",
+    "country_code": "VE",
+    "name": "THUNDERNET, C.A.",
+    "org": "THUNDERNET, C.A.",
+    "domain": "thundernet.com.ve"
+  },
+  {
     "network": "38.51.181.0/24",
+    "asn": "272809",
+    "country_code": "VE",
+    "name": "THUNDERNET, C.A.",
+    "org": "THUNDERNET, C.A.",
+    "domain": "thundernet.com.ve"
+  },
+  {
+    "network": "38.51.182.0/24",
+    "asn": "272809",
+    "country_code": "VE",
+    "name": "THUNDERNET, C.A.",
+    "org": "THUNDERNET, C.A.",
+    "domain": "thundernet.com.ve"
+  },
+  {
+    "network": "38.51.183.0/24",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -5304,14 +5264,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.248.128.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.248.128.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -5321,14 +5273,6 @@
   },
   {
     "network": "38.248.129.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.130.0/23",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -5368,39 +5312,7 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.248.132.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.133.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.248.134.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.134.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.135.0/24",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -5417,30 +5329,6 @@
   },
   {
     "network": "38.248.136.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.136.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.137.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.138.0/23",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -5648,14 +5536,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.248.168.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.248.168.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -5672,14 +5552,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.248.170.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.248.170.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -5689,14 +5561,6 @@
   },
   {
     "network": "38.248.171.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.172.0/22",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -5736,14 +5600,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.248.176.0/22",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.248.176.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -5769,14 +5625,6 @@
   },
   {
     "network": "38.248.179.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.180.0/22",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -5832,39 +5680,7 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.248.184.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.185.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.248.186.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.186.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.187.0/24",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -5888,39 +5704,7 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.248.188.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.189.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.248.190.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.190.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.191.0/24",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -5968,14 +5752,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.68.0/22",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.68.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6016,6 +5792,22 @@
     "domain": "thundernet.com.ve"
   },
   {
+    "network": "82.86.72.0/24",
+    "asn": "272809",
+    "country_code": "VE",
+    "name": "THUNDERNET, C.A.",
+    "org": "THUNDERNET, C.A.",
+    "domain": "thundernet.com.ve"
+  },
+  {
+    "network": "82.86.73.0/24",
+    "asn": "272809",
+    "country_code": "VE",
+    "name": "THUNDERNET, C.A.",
+    "org": "THUNDERNET, C.A.",
+    "domain": "thundernet.com.ve"
+  },
+  {
     "network": "82.86.74.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6033,30 +5825,6 @@
   },
   {
     "network": "82.86.76.0/22",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.76.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.77.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.78.0/24",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6096,6 +5864,22 @@
     "domain": "thundernet.com.ve"
   },
   {
+    "network": "82.86.82.0/24",
+    "asn": "272809",
+    "country_code": "VE",
+    "name": "THUNDERNET, C.A.",
+    "org": "THUNDERNET, C.A.",
+    "domain": "thundernet.com.ve"
+  },
+  {
+    "network": "82.86.83.0/24",
+    "asn": "272809",
+    "country_code": "VE",
+    "name": "THUNDERNET, C.A.",
+    "org": "THUNDERNET, C.A.",
+    "domain": "thundernet.com.ve"
+  },
+  {
     "network": "82.86.84.0/22",
     "asn": "272809",
     "country_code": "VE",
@@ -6112,39 +5896,7 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.84.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.85.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.86.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.86.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.87.0/24",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6200,6 +5952,14 @@
     "domain": "thundernet.com.ve"
   },
   {
+    "network": "82.86.94.0/24",
+    "asn": "272809",
+    "country_code": "VE",
+    "name": "THUNDERNET, C.A.",
+    "org": "THUNDERNET, C.A.",
+    "domain": "thundernet.com.ve"
+  },
+  {
     "network": "82.86.95.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6240,14 +6000,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.99.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.100.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6273,14 +6025,6 @@
   },
   {
     "network": "82.86.103.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.128.0/22",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6329,14 +6073,6 @@
   },
   {
     "network": "82.86.131.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.132.0/22",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6760,22 +6496,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.224.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.225.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.228.0/23",
     "asn": "272809",
     "country_code": "VE",
@@ -6801,166 +6521,6 @@
   },
   {
     "network": "82.86.230.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.231.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.234.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.235.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.236.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.237.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.238.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.239.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.240.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.241.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.242.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.243.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.244.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.245.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.246.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.247.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.248.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.249.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.250.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.251.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.252.0/24",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -7616,14 +7176,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "161.22.34.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "161.22.34.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -7873,6 +7425,14 @@
   },
   {
     "network": "2803:3890:620::/43",
+    "asn": "272809",
+    "country_code": "VE",
+    "name": "THUNDERNET, C.A.",
+    "org": "THUNDERNET, C.A.",
+    "domain": "thundernet.com.ve"
+  },
+  {
+    "network": "2803:3890:6e0::/43",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -10472,6 +10032,14 @@
     "domain": "inter.com.ve"
   },
   {
+    "network": "181.208.194.0/24",
+    "asn": "21826",
+    "country_code": "VE",
+    "name": "Corporación Telemic C.A.",
+    "org": "Corporación Telemic C.A.",
+    "domain": "inter.com.ve"
+  },
+  {
     "network": "181.208.195.0/24",
     "asn": "21826",
     "country_code": "VE",
@@ -11848,23 +11416,7 @@
     "domain": "inter.com.ve"
   },
   {
-    "network": "186.188.16.0/22",
-    "asn": "21826",
-    "country_code": "VE",
-    "name": "Corporación Telemic C.A.",
-    "org": "Corporación Telemic C.A.",
-    "domain": "inter.com.ve"
-  },
-  {
     "network": "186.188.20.0/22",
-    "asn": "21826",
-    "country_code": "VE",
-    "name": "Corporación Telemic C.A.",
-    "org": "Corporación Telemic C.A.",
-    "domain": "inter.com.ve"
-  },
-  {
-    "network": "186.188.24.0/22",
     "asn": "21826",
     "country_code": "VE",
     "name": "Corporación Telemic C.A.",
@@ -11881,14 +11433,6 @@
   },
   {
     "network": "186.188.29.0/24",
-    "asn": "21826",
-    "country_code": "VE",
-    "name": "Corporación Telemic C.A.",
-    "org": "Corporación Telemic C.A.",
-    "domain": "inter.com.ve"
-  },
-  {
-    "network": "186.188.30.0/24",
     "asn": "21826",
     "country_code": "VE",
     "name": "Corporación Telemic C.A.",
@@ -13201,6 +12745,14 @@
   },
   {
     "network": "190.142.252.0/24",
+    "asn": "21826",
+    "country_code": "VE",
+    "name": "Corporación Telemic C.A.",
+    "org": "Corporación Telemic C.A.",
+    "domain": "inter.com.ve"
+  },
+  {
+    "network": "190.142.253.0/24",
     "asn": "21826",
     "country_code": "VE",
     "name": "Corporación Telemic C.A.",
@@ -15832,14 +15384,6 @@
     "domain": "inter.com.ve"
   },
   {
-    "network": "200.82.253.0/24",
-    "asn": "21826",
-    "country_code": "VE",
-    "name": "Corporación Telemic C.A.",
-    "org": "Corporación Telemic C.A.",
-    "domain": "inter.com.ve"
-  },
-  {
     "network": "200.82.254.0/24",
     "asn": "21826",
     "country_code": "VE",
@@ -16232,6 +15776,22 @@
     "domain": "multitel.com.ve"
   },
   {
+    "network": "38.114.75.0/24",
+    "asn": "274910",
+    "country_code": "VE",
+    "name": "INTRASAT, S.A.",
+    "org": "INTRASAT, S.A.",
+    "domain": "intrasat.net"
+  },
+  {
+    "network": "2803:5e30::/32",
+    "asn": "274910",
+    "country_code": "VE",
+    "name": "INTRASAT, S.A.",
+    "org": "INTRASAT, S.A.",
+    "domain": "intrasat.net"
+  },
+  {
     "network": "38.121.208.0/24",
     "asn": "266841",
     "country_code": "VE",
@@ -16480,6 +16040,14 @@
     "domain": "smartbyte.com.ve"
   },
   {
+    "network": "38.127.220.0/24",
+    "asn": "274202",
+    "country_code": "VE",
+    "name": "GRUPO MULTIMEDIA S&G, C.A",
+    "org": "GRUPO MULTIMEDIA S&G, C.A",
+    "domain": "conet.com.ve"
+  },
+  {
     "network": "38.127.221.0/24",
     "asn": "274202",
     "country_code": "VE",
@@ -16497,14 +16065,6 @@
   },
   {
     "network": "154.40.143.0/24",
-    "asn": "274202",
-    "country_code": "VE",
-    "name": "GRUPO MULTIMEDIA S&G, C.A",
-    "org": "GRUPO MULTIMEDIA S&G, C.A",
-    "domain": "conet.com.ve"
-  },
-  {
-    "network": "2803:9c30::/36",
     "asn": "274202",
     "country_code": "VE",
     "name": "GRUPO MULTIMEDIA S&G, C.A",
@@ -16686,6 +16246,126 @@
     "name": "POWER LINK CORP, C.A.",
     "org": "POWER LINK CORP, C.A.",
     "domain": "grupohedez.com"
+  },
+  {
+    "network": "38.130.64.0/24",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "38.130.65.0/24",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "91.109.161.0/24",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "91.109.163.0/24",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "217.76.248.0/24",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "217.76.249.0/24",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "217.76.250.0/24",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "217.76.251.0/24",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "2803:7790:1000::/36",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "2803:7790:2000::/36",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "2803:7790:4000::/36",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "2803:7790:5000::/36",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "2803:7790:6000::/36",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "2803:7790:7000::/36",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
+  },
+  {
+    "network": "2803:7790:f000::/40",
+    "asn": "273069",
+    "country_code": "VE",
+    "name": "MINET, C.A",
+    "org": "MINET, C.A",
+    "domain": "minet.com.ve"
   },
   {
     "network": "38.134.172.0/24",
@@ -17464,6 +17144,22 @@
     "domain": "servitel.net.ve"
   },
   {
+    "network": "38.172.188.0/24",
+    "asn": "270026",
+    "country_code": "VE",
+    "name": "RED SERVITEL, CA",
+    "org": "RED SERVITEL, CA",
+    "domain": "servitel.net.ve"
+  },
+  {
+    "network": "38.172.189.0/24",
+    "asn": "270026",
+    "country_code": "VE",
+    "name": "RED SERVITEL, CA",
+    "org": "RED SERVITEL, CA",
+    "domain": "servitel.net.ve"
+  },
+  {
     "network": "181.41.152.0/24",
     "asn": "270026",
     "country_code": "VE",
@@ -17513,6 +17209,14 @@
   },
   {
     "network": "2803:f9e0:2000::/36",
+    "asn": "270026",
+    "country_code": "VE",
+    "name": "RED SERVITEL, CA",
+    "org": "RED SERVITEL, CA",
+    "domain": "servitel.net.ve"
+  },
+  {
+    "network": "2803:f9e0:3000::/36",
     "asn": "270026",
     "country_code": "VE",
     "name": "RED SERVITEL, CA",
@@ -18160,6 +17864,14 @@
     "domain": ""
   },
   {
+    "network": "2803:5dd0::/32",
+    "asn": "273197",
+    "country_code": "VE",
+    "name": "HHNETWORK T, C.A.",
+    "org": "HHNETWORK T, C.A.",
+    "domain": ""
+  },
+  {
     "network": "38.188.52.0/24",
     "asn": "273144",
     "country_code": "VE",
@@ -18569,14 +18281,6 @@
   },
   {
     "network": "38.224.159.0/24",
-    "asn": "273203",
-    "country_code": "VE",
-    "name": "CABLE PAR, C.A.",
-    "org": "CABLE PAR, C.A.",
-    "domain": "cablepar.com"
-  },
-  {
-    "network": "2803:d4d0::/32",
     "asn": "273203",
     "country_code": "VE",
     "name": "CABLE PAR, C.A.",
@@ -19392,6 +19096,38 @@
     "domain": "intersatlosandes.com"
   },
   {
+    "network": "45.137.15.0/24",
+    "asn": "272063",
+    "country_code": "VE",
+    "name": "PROVEEDORES TECNOLOGICOS PK, C.A.",
+    "org": "PROVEEDORES TECNOLOGICOS PK, C.A.",
+    "domain": "protecnonetworks.com"
+  },
+  {
+    "network": "2803:6310:1111::/48",
+    "asn": "272063",
+    "country_code": "VE",
+    "name": "PROVEEDORES TECNOLOGICOS PK, C.A.",
+    "org": "PROVEEDORES TECNOLOGICOS PK, C.A.",
+    "domain": "protecnonetworks.com"
+  },
+  {
+    "network": "2803:6310:5555::/48",
+    "asn": "272063",
+    "country_code": "VE",
+    "name": "PROVEEDORES TECNOLOGICOS PK, C.A.",
+    "org": "PROVEEDORES TECNOLOGICOS PK, C.A.",
+    "domain": "protecnonetworks.com"
+  },
+  {
+    "network": "2803:6310:8055::/48",
+    "asn": "272063",
+    "country_code": "VE",
+    "name": "PROVEEDORES TECNOLOGICOS PK, C.A.",
+    "org": "PROVEEDORES TECNOLOGICOS PK, C.A.",
+    "domain": "protecnonetworks.com"
+  },
+  {
     "network": "45.160.224.0/24",
     "asn": "267693",
     "country_code": "VE",
@@ -19656,14 +19392,6 @@
     "domain": "360net.com.ve"
   },
   {
-    "network": "2803:1060::/32",
-    "asn": "267809",
-    "country_code": "VE",
-    "name": "360NET C.A.",
-    "org": "360NET C.A.",
-    "domain": "360net.com.ve"
-  },
-  {
     "network": "45.173.204.0/24",
     "asn": "267813",
     "country_code": "VE",
@@ -19921,14 +19649,6 @@
   },
   {
     "network": "201.222.14.0/24",
-    "asn": "27648",
-    "country_code": "VE",
-    "name": "TELECOMUNICACIONES BANTEL, C.A.",
-    "org": "TELECOMUNICACIONES BANTEL, C.A.",
-    "domain": "bantel.net.ve"
-  },
-  {
-    "network": "2803:5e60::/32",
     "asn": "27648",
     "country_code": "VE",
     "name": "TELECOMUNICACIONES BANTEL, C.A.",
@@ -21080,6 +20800,14 @@
     "domain": "vnet.com.ve"
   },
   {
+    "network": "154.39.128.0/18",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
     "network": "154.39.128.0/24",
     "asn": "263703",
     "country_code": "VE",
@@ -21720,6 +21448,14 @@
     "domain": "vnet.com.ve"
   },
   {
+    "network": "190.97.243.0/24",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
     "network": "190.97.244.0/24",
     "asn": "263703",
     "country_code": "VE",
@@ -21849,6 +21585,22 @@
   },
   {
     "network": "2803:7800:8001::/48",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
+    "network": "2803:7800:8200::/40",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
+    "network": "2803:7800:8201::/48",
     "asn": "263703",
     "country_code": "VE",
     "name": "VIGINET C.A",
@@ -21992,6 +21744,30 @@
     "domain": "vnet.com.ve"
   },
   {
+    "network": "2803:d760:3900::/40",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
+    "network": "2803:d760:39d0::/44",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
+    "network": "2803:d760:39d0::/45",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
     "network": "2803:d760:3a00::/40",
     "asn": "263703",
     "country_code": "VE",
@@ -22032,7 +21808,23 @@
     "domain": "vnet.com.ve"
   },
   {
+    "network": "2803:d760:3e00::/40",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
     "network": "2803:d760:3ee0::/45",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
+    "network": "2803:d760:3eff::/48",
     "asn": "263703",
     "country_code": "VE",
     "name": "VIGINET C.A",
@@ -22080,6 +21872,14 @@
     "domain": "vnet.com.ve"
   },
   {
+    "network": "2803:d760:6003::/48",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
     "network": "2803:d760:7000::/36",
     "asn": "263703",
     "country_code": "VE",
@@ -22113,6 +21913,38 @@
   },
   {
     "network": "2803:d760:79e0::/45",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
+    "network": "2803:d760:7b00::/40",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
+    "network": "2803:d760:7c00::/40",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
+    "network": "2803:d760:7d00::/40",
+    "asn": "263703",
+    "country_code": "VE",
+    "name": "VIGINET C.A",
+    "org": "VIGINET C.A",
+    "domain": "vnet.com.ve"
+  },
+  {
+    "network": "2803:d760:7e00::/40",
     "asn": "263703",
     "country_code": "VE",
     "name": "VIGINET C.A",
@@ -23560,6 +23392,14 @@
     "domain": "gandalfca.com"
   },
   {
+    "network": "138.186.177.0/24",
+    "asn": "269750",
+    "country_code": "VE",
+    "name": "Gandalf Comunicaciones C.A.",
+    "org": "Gandalf Comunicaciones C.A.",
+    "domain": "gandalfca.com"
+  },
+  {
     "network": "138.186.178.0/24",
     "asn": "269750",
     "country_code": "VE",
@@ -23577,6 +23417,14 @@
   },
   {
     "network": "168.194.108.0/24",
+    "asn": "269750",
+    "country_code": "VE",
+    "name": "Gandalf Comunicaciones C.A.",
+    "org": "Gandalf Comunicaciones C.A.",
+    "domain": "gandalfca.com"
+  },
+  {
+    "network": "168.194.109.0/24",
     "asn": "269750",
     "country_code": "VE",
     "name": "Gandalf Comunicaciones C.A.",
@@ -24030,110 +23878,6 @@
     "name": "TELECOMUNICACIONES MARA,CA. (TELMACA)",
     "org": "TELECOMUNICACIONES MARA,CA. (TELMACA)",
     "domain": "telmaca.com.ve"
-  },
-  {
-    "network": "91.109.161.0/24",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "91.109.163.0/24",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "217.76.248.0/24",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "217.76.249.0/24",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "217.76.250.0/24",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "217.76.251.0/24",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "2803:7790:1000::/36",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "2803:7790:2000::/36",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "2803:7790:4000::/36",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "2803:7790:5000::/36",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "2803:7790:6000::/36",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "2803:7790:7000::/36",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
-  },
-  {
-    "network": "2803:7790:f000::/40",
-    "asn": "273069",
-    "country_code": "VE",
-    "name": "MINET, C.A",
-    "org": "MINET, C.A",
-    "domain": "minet.com.ve"
   },
   {
     "network": "103.83.193.0/24",
@@ -25960,6 +25704,30 @@
     "domain": "ula.ve"
   },
   {
+    "network": "150.185.222.0/24",
+    "asn": "27892",
+    "country_code": "VE",
+    "name": "Universidad del Zulia",
+    "org": "Universidad del Zulia",
+    "domain": "luz.edu.ve"
+  },
+  {
+    "network": "190.170.0.0/18",
+    "asn": "27892",
+    "country_code": "VE",
+    "name": "Universidad del Zulia",
+    "org": "Universidad del Zulia",
+    "domain": "luz.edu.ve"
+  },
+  {
+    "network": "190.170.0.0/22",
+    "asn": "27892",
+    "country_code": "VE",
+    "name": "Universidad del Zulia",
+    "org": "Universidad del Zulia",
+    "domain": "luz.edu.ve"
+  },
+  {
     "network": "150.186.96.0/19",
     "asn": "27686",
     "country_code": "VE",
@@ -26705,6 +26473,14 @@
   },
   {
     "network": "186.167.83.0/24",
+    "asn": "27717",
+    "country_code": "VE",
+    "name": "Corporacion Digitel C.A.",
+    "org": "Corporacion Digitel C.A.",
+    "domain": "digitel.com.ve"
+  },
+  {
+    "network": "186.167.84.0/24",
     "asn": "27717",
     "country_code": "VE",
     "name": "Corporacion Digitel C.A.",
@@ -34382,6 +34158,102 @@
     "name": "Universidad Central de Venezuela",
     "org": "Universidad Central de Venezuela",
     "domain": "ucv.ve"
+  },
+  {
+    "network": "190.170.64.0/18",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.68.0/22",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.72.0/22",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.82.0/23",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.84.0/22",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.88.0/21",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.96.0/20",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.112.0/22",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.116.0/24",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.121.0/24",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.125.0/24",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
+  },
+  {
+    "network": "190.170.127.0/24",
+    "asn": "27893",
+    "country_code": "VE",
+    "name": "Universidad de Carabobo",
+    "org": "Universidad de Carabobo",
+    "domain": "uc.edu.ve"
   },
   {
     "network": "190.170.128.0/18",

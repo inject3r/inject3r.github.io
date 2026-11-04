@@ -248,22 +248,6 @@
     "domain": "dataforest.net"
   },
   {
-    "network": "89.106.77.0/24",
-    "asn": "215607",
-    "country_code": "DE",
-    "name": "DF-Transit",
-    "org": "dataforest GmbH",
-    "domain": "dataforest.net"
-  },
-  {
-    "network": "89.106.82.0/24",
-    "asn": "215607",
-    "country_code": "DE",
-    "name": "DF-Transit",
-    "org": "dataforest GmbH",
-    "domain": "dataforest.net"
-  },
-  {
     "network": "89.106.89.0/24",
     "asn": "215607",
     "country_code": "DE",
@@ -737,6 +721,14 @@
   },
   {
     "network": "77.42.0.0/17",
+    "asn": "24940",
+    "country_code": "DE",
+    "name": "HETZNER-AS",
+    "org": "Hetzner Online GmbH",
+    "domain": "hetzner.com"
+  },
+  {
+    "network": "78.18.0.0/15",
     "asn": "24940",
     "country_code": "DE",
     "name": "HETZNER-AS",
@@ -1369,6 +1361,14 @@
   },
   {
     "network": "45.151.215.0/24",
+    "asn": "34854",
+    "country_code": "DE",
+    "name": "BLAHAJ-CLOUD",
+    "org": "Maria Merkel trading as Blahaj Studio",
+    "domain": "blahajcloud.net"
+  },
+  {
+    "network": "2a0c:6500:1::/48",
     "asn": "34854",
     "country_code": "DE",
     "name": "BLAHAJ-CLOUD",
@@ -23296,6 +23296,14 @@
     "domain": "dataforest.net"
   },
   {
+    "network": "45.86.158.0/24",
+    "asn": "58212",
+    "country_code": "DE",
+    "name": "DATAFOREST",
+    "org": "dataforest GmbH",
+    "domain": "dataforest.net"
+  },
+  {
     "network": "45.140.56.0/24",
     "asn": "58212",
     "country_code": "DE",
@@ -27312,6 +27320,14 @@
     "domain": "kyberio.com"
   },
   {
+    "network": "83.246.16.0/24",
+    "asn": "24679",
+    "country_code": "DE",
+    "name": "SSERV-AS",
+    "org": "kyberio GmbH",
+    "domain": "kyberio.com"
+  },
+  {
     "network": "83.246.48.0/24",
     "asn": "24679",
     "country_code": "DE",
@@ -28601,14 +28617,6 @@
   },
   {
     "network": "185.143.164.0/22",
-    "asn": "47215",
-    "country_code": "DE",
-    "name": "FILOO-ASN",
-    "org": "dogado GmbH",
-    "domain": "dogado.de"
-  },
-  {
-    "network": "192.76.135.0/24",
     "asn": "47215",
     "country_code": "DE",
     "name": "FILOO-ASN",
@@ -31795,7 +31803,7 @@
     "network": "5.42.136.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31803,7 +31811,7 @@
     "network": "5.42.140.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31811,7 +31819,7 @@
     "network": "31.25.40.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31819,7 +31827,7 @@
     "network": "31.25.46.0/23",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31827,7 +31835,7 @@
     "network": "37.25.48.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31835,7 +31843,7 @@
     "network": "37.60.168.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31843,7 +31851,7 @@
     "network": "37.228.176.0/20",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31851,7 +31859,7 @@
     "network": "46.182.136.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31859,7 +31867,7 @@
     "network": "62.152.160.0/19",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31867,7 +31875,7 @@
     "network": "83.242.36.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31875,7 +31883,7 @@
     "network": "83.242.40.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31883,7 +31891,7 @@
     "network": "83.242.48.0/20",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31891,7 +31899,7 @@
     "network": "88.218.208.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31899,7 +31907,7 @@
     "network": "91.103.112.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31907,7 +31915,7 @@
     "network": "93.118.0.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31915,7 +31923,7 @@
     "network": "93.118.8.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31923,7 +31931,7 @@
     "network": "93.118.16.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31931,7 +31939,7 @@
     "network": "93.118.24.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31939,7 +31947,7 @@
     "network": "93.184.176.0/20",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31947,7 +31955,7 @@
     "network": "94.124.208.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31955,7 +31963,7 @@
     "network": "94.176.240.0/20",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31963,7 +31971,7 @@
     "network": "145.14.192.0/20",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31971,7 +31979,7 @@
     "network": "149.249.56.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31979,7 +31987,7 @@
     "network": "153.92.80.0/20",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31987,7 +31995,7 @@
     "network": "171.33.176.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -31995,7 +32003,7 @@
     "network": "171.33.180.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32003,7 +32011,7 @@
     "network": "178.212.90.0/23",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32011,7 +32019,7 @@
     "network": "178.212.94.0/23",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32019,7 +32027,7 @@
     "network": "185.3.80.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32027,7 +32035,7 @@
     "network": "185.6.96.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32035,7 +32043,7 @@
     "network": "185.7.68.0/24",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32043,7 +32051,7 @@
     "network": "185.36.120.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32051,7 +32059,7 @@
     "network": "185.61.28.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32059,7 +32067,7 @@
     "network": "185.107.4.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32067,7 +32075,7 @@
     "network": "185.108.230.0/23",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32075,7 +32083,7 @@
     "network": "185.160.200.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32083,7 +32091,7 @@
     "network": "185.210.8.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32091,7 +32099,7 @@
     "network": "185.244.200.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32099,7 +32107,7 @@
     "network": "188.93.216.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32107,7 +32115,7 @@
     "network": "188.244.100.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32115,7 +32123,7 @@
     "network": "193.31.20.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32123,7 +32131,7 @@
     "network": "193.31.44.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32131,7 +32139,7 @@
     "network": "193.84.240.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32139,7 +32147,7 @@
     "network": "193.106.32.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32147,7 +32155,7 @@
     "network": "193.151.4.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32155,7 +32163,7 @@
     "network": "193.238.104.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32163,7 +32171,7 @@
     "network": "194.76.2.0/24",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32171,7 +32179,7 @@
     "network": "194.76.3.0/24",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32179,7 +32187,7 @@
     "network": "194.76.4.0/24",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32187,7 +32195,7 @@
     "network": "194.76.5.0/24",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32195,7 +32203,7 @@
     "network": "194.76.6.0/24",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32203,7 +32211,7 @@
     "network": "194.76.7.0/24",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32211,7 +32219,7 @@
     "network": "194.76.222.0/24",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32219,7 +32227,7 @@
     "network": "194.140.112.0/20",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32227,7 +32235,7 @@
     "network": "212.86.176.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32235,7 +32243,7 @@
     "network": "212.86.184.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32243,7 +32251,7 @@
     "network": "213.153.68.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32251,7 +32259,7 @@
     "network": "213.153.76.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32259,7 +32267,7 @@
     "network": "213.153.80.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32267,7 +32275,7 @@
     "network": "213.153.84.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32275,7 +32283,7 @@
     "network": "213.153.88.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32283,7 +32291,7 @@
     "network": "213.153.92.0/22",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32291,7 +32299,7 @@
     "network": "217.66.136.0/21",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32299,7 +32307,7 @@
     "network": "217.78.160.0/20",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32307,7 +32315,7 @@
     "network": "2a00:79c0::/32",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32315,7 +32323,7 @@
     "network": "2a02:17b0::/32",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -32323,7 +32331,7 @@
     "network": "2a03:b880::/29",
     "asn": "41998",
     "country_code": "DE",
-    "name": "NetComBW-AS",
+    "name": "NetCom-BW",
     "org": "NetCom BW GmbH",
     "domain": "netcom-bw.de"
   },
@@ -43312,14 +43320,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "217.69.165.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "217.69.168.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -44321,6 +44321,14 @@
   },
   {
     "network": "77.90.12.0/24",
+    "asn": "207252",
+    "country_code": "DE",
+    "name": "Realtox-Media",
+    "org": "Felix Gassan",
+    "domain": "realtoxmedia.de"
+  },
+  {
+    "network": "77.90.42.0/24",
     "asn": "207252",
     "country_code": "DE",
     "name": "Realtox-Media",
@@ -48358,38 +48366,6 @@
     "name": "FLIXHOST-FRA4",
     "org": "FlixHost GmbH",
     "domain": "flixhost.de"
-  },
-  {
-    "network": "5.175.142.0/24",
-    "asn": "213512",
-    "country_code": "DE",
-    "name": "Lorenz-Knak",
-    "org": "Lorenz Knak trading as IT-adjutor GmbH",
-    "domain": "it-adjutor.de"
-  },
-  {
-    "network": "2a14:47c0:fe01::/48",
-    "asn": "213512",
-    "country_code": "DE",
-    "name": "Lorenz-Knak",
-    "org": "Lorenz Knak trading as IT-adjutor GmbH",
-    "domain": "it-adjutor.de"
-  },
-  {
-    "network": "2a14:47c0:fe02::/48",
-    "asn": "213512",
-    "country_code": "DE",
-    "name": "Lorenz-Knak",
-    "org": "Lorenz Knak trading as IT-adjutor GmbH",
-    "domain": "it-adjutor.de"
-  },
-  {
-    "network": "2a14:47c0:fe04::/48",
-    "asn": "213512",
-    "country_code": "DE",
-    "name": "Lorenz-Knak",
-    "org": "Lorenz Knak trading as IT-adjutor GmbH",
-    "domain": "it-adjutor.de"
   },
   {
     "network": "5.175.160.0/24",
@@ -53974,22 +53950,6 @@
     "name": "INSTANTNODE-AS",
     "org": "Ben Oliver Mallow",
     "domain": "instantnode.eu"
-  },
-  {
-    "network": "5.230.184.0/24",
-    "asn": "215093",
-    "country_code": "DE",
-    "name": "Niklas-Wecker",
-    "org": "Niklas Wecker",
-    "domain": "6v4.de"
-  },
-  {
-    "network": "2a14:1ec1:7b20::/44",
-    "asn": "215093",
-    "country_code": "DE",
-    "name": "Niklas-Wecker",
-    "org": "Niklas Wecker",
-    "domain": "6v4.de"
   },
   {
     "network": "5.230.200.0/24",
@@ -65560,6 +65520,14 @@
     "domain": "digits.schwarz"
   },
   {
+    "network": "9.211.242.0/23",
+    "asn": "218503",
+    "country_code": "DE",
+    "name": "STACKIT-ZSCALER",
+    "org": "INTAC Services GmbH",
+    "domain": "digits.schwarz"
+  },
+  {
     "network": "9.211.244.0/24",
     "asn": "218503",
     "country_code": "DE",
@@ -65569,6 +65537,14 @@
   },
   {
     "network": "9.211.245.0/24",
+    "asn": "218503",
+    "country_code": "DE",
+    "name": "STACKIT-ZSCALER",
+    "org": "INTAC Services GmbH",
+    "domain": "digits.schwarz"
+  },
+  {
+    "network": "9.211.246.0/24",
     "asn": "218503",
     "country_code": "DE",
     "name": "STACKIT-ZSCALER",
@@ -65593,6 +65569,14 @@
   },
   {
     "network": "2a05:b540:f001::/48",
+    "asn": "218503",
+    "country_code": "DE",
+    "name": "STACKIT-ZSCALER",
+    "org": "INTAC Services GmbH",
+    "domain": "digits.schwarz"
+  },
+  {
+    "network": "2a05:b540:f002::/48",
     "asn": "218503",
     "country_code": "DE",
     "name": "STACKIT-ZSCALER",
@@ -68126,6 +68110,142 @@
     "name": "PFCLOUD",
     "org": "Pfcloud UG (haftungsbeschrankt)",
     "domain": "pfcloud.io"
+  },
+  {
+    "network": "23.226.138.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "45.89.244.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "50.114.190.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "83.147.33.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "85.204.142.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "104.238.3.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "179.254.213.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "189.12.178.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "189.12.191.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "189.30.113.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "189.31.30.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "191.44.99.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "200.138.26.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "200.180.190.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "204.57.220.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "208.90.253.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "2001:67c:e40::/48",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
   },
   {
     "network": "23.252.72.0/24",
@@ -72502,6 +72622,430 @@
     "name": "MavNetworks-AS",
     "org": "Ksenia Becker",
     "domain": "mavnetworks.com"
+  },
+  {
+    "network": "31.99.199.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "37.44.0.0/21",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "37.44.1.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "37.49.152.0/21",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "37.49.152.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "37.49.153.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "37.49.159.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "37.123.104.0/21",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "37.123.106.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "37.123.108.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "37.123.109.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "77.247.80.0/21",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "77.247.81.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "77.247.82.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "77.247.84.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "109.68.224.0/21",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "109.68.224.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "109.68.225.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "109.68.228.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "109.68.229.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "109.68.230.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "147.93.208.0/22",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "147.93.210.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "151.252.40.0/21",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "151.252.45.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "176.74.56.0/21",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "176.74.58.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "176.74.59.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "176.74.62.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "185.46.136.0/22",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "185.54.232.0/22",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "185.56.104.0/23",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "185.56.128.0/21",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "185.245.101.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "185.245.102.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "185.245.103.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "195.192.128.0/18",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "195.192.128.0/21",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "195.192.143.0/24",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a00:13c8::/32",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a00:13c8:f5::/48",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a00:7fc0::/33",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480::/38",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480:400::/38",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480:800::/38",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480:2400::/38",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480:2c00::/38",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480:4400::/38",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480:4400::/48",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480:4402::/48",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480:4800::/38",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480:4800::/48",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
+  },
+  {
+    "network": "2a04:d480:4802::/48",
+    "asn": "25291",
+    "country_code": "DE",
+    "name": "SYSELEVEN",
+    "org": "SysEleven GmbH",
+    "domain": "syseleven.de"
   },
   {
     "network": "31.99.208.0/21",
@@ -77720,422 +78264,6 @@
     "domain": "grouplink-its.de"
   },
   {
-    "network": "37.44.0.0/21",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "37.44.1.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "37.49.152.0/21",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "37.49.152.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "37.49.153.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "37.49.159.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "37.123.104.0/21",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "37.123.106.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "37.123.108.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "37.123.109.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "77.247.80.0/21",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "77.247.81.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "77.247.82.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "77.247.84.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "109.68.224.0/21",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "109.68.224.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "109.68.225.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "109.68.228.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "109.68.229.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "109.68.230.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "147.93.208.0/22",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "147.93.210.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "151.252.40.0/21",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "151.252.45.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "176.74.56.0/21",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "176.74.58.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "176.74.59.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "176.74.62.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "185.46.136.0/22",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "185.54.232.0/22",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "185.56.104.0/23",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "185.56.128.0/21",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "185.245.101.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "185.245.102.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "185.245.103.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "195.192.128.0/18",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "195.192.128.0/21",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "195.192.143.0/24",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a00:13c8::/32",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a00:13c8:f5::/48",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a00:7fc0::/33",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480::/38",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480:400::/38",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480:800::/38",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480:2400::/38",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480:2c00::/38",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480:4400::/38",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480:4400::/48",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480:4402::/48",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480:4800::/38",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480:4800::/48",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
-    "network": "2a04:d480:4802::/48",
-    "asn": "25291",
-    "country_code": "DE",
-    "name": "SYSELEVEN",
-    "org": "SysEleven GmbH",
-    "domain": "syseleven.de"
-  },
-  {
     "network": "37.46.8.0/22",
     "asn": "43193",
     "country_code": "DE",
@@ -81640,6 +81768,14 @@
     "domain": "soprado.com"
   },
   {
+    "network": "185.158.156.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
     "network": "193.0.248.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -83936,22 +84072,6 @@
     "domain": "caffeinated-labs.org"
   },
   {
-    "network": "44.30.115.0/24",
-    "asn": "211370",
-    "country_code": "DE",
-    "name": "cve",
-    "org": "Clara Val Engler",
-    "domain": "as211370.net"
-  },
-  {
-    "network": "2a11:f2c0:ffe3::/48",
-    "asn": "211370",
-    "country_code": "DE",
-    "name": "cve",
-    "org": "Clara Val Engler",
-    "domain": "as211370.net"
-  },
-  {
     "network": "44.30.185.0/24",
     "asn": "210132",
     "country_code": "DE",
@@ -86177,6 +86297,14 @@
   },
   {
     "network": "96.62.100.0/24",
+    "asn": "205840",
+    "country_code": "DE",
+    "name": "FONECLOUD",
+    "org": "Fonecloud GmbH",
+    "domain": "comtalk.tel"
+  },
+  {
+    "network": "104.234.29.0/24",
     "asn": "205840",
     "country_code": "DE",
     "name": "FONECLOUD",
@@ -93718,54 +93846,6 @@
     "name": "rdt",
     "org": "Rekers Digitaltechnik Beteiligungsgesellschaft mbH trading as Rekers Digitaltechnik GmbH & Co.KG",
     "domain": "rdt.online"
-  },
-  {
-    "network": "45.89.244.0/24",
-    "asn": "215197",
-    "country_code": "DE",
-    "name": "ZEROSERVICESGMBH-AS",
-    "org": "Zero Services GmbH",
-    "domain": "zeroservices.eu"
-  },
-  {
-    "network": "50.114.190.0/24",
-    "asn": "215197",
-    "country_code": "DE",
-    "name": "ZEROSERVICESGMBH-AS",
-    "org": "Zero Services GmbH",
-    "domain": "zeroservices.eu"
-  },
-  {
-    "network": "85.204.142.0/24",
-    "asn": "215197",
-    "country_code": "DE",
-    "name": "ZEROSERVICESGMBH-AS",
-    "org": "Zero Services GmbH",
-    "domain": "zeroservices.eu"
-  },
-  {
-    "network": "104.238.3.0/24",
-    "asn": "215197",
-    "country_code": "DE",
-    "name": "ZEROSERVICESGMBH-AS",
-    "org": "Zero Services GmbH",
-    "domain": "zeroservices.eu"
-  },
-  {
-    "network": "204.57.220.0/24",
-    "asn": "215197",
-    "country_code": "DE",
-    "name": "ZEROSERVICESGMBH-AS",
-    "org": "Zero Services GmbH",
-    "domain": "zeroservices.eu"
-  },
-  {
-    "network": "2001:67c:e40::/48",
-    "asn": "215197",
-    "country_code": "DE",
-    "name": "ZEROSERVICESGMBH-AS",
-    "org": "Zero Services GmbH",
-    "domain": "zeroservices.eu"
   },
   {
     "network": "45.90.64.0/22",
@@ -117176,6 +117256,14 @@
     "domain": "nerdscave.de"
   },
   {
+    "network": "94.249.132.0/24",
+    "asn": "197477",
+    "country_code": "DE",
+    "name": "NERDSCAVE",
+    "org": "Moritz Mantel trading as Nerdscave",
+    "domain": "nerdscave.de"
+  },
+  {
     "network": "95.214.172.0/24",
     "asn": "197477",
     "country_code": "DE",
@@ -117681,6 +117769,14 @@
   },
   {
     "network": "193.169.72.0/23",
+    "asn": "8899",
+    "country_code": "DE",
+    "name": "DEUTSCHE-GLASFASER",
+    "org": "inexio Informationstechnologie und Telekommunikation Gmbh",
+    "domain": "inexio.net"
+  },
+  {
+    "network": "193.178.38.0/24",
     "asn": "8899",
     "country_code": "DE",
     "name": "DEUTSCHE-GLASFASER",
@@ -125256,14 +125352,6 @@
     "domain": "wx1.de"
   },
   {
-    "network": "2a06:9801:101::/48",
-    "asn": "204261",
-    "country_code": "DE",
-    "name": "WX-ONE",
-    "org": "WizardTales GmbH",
-    "domain": "wx1.de"
-  },
-  {
     "network": "2a06:9801:111::/48",
     "asn": "204261",
     "country_code": "DE",
@@ -132496,54 +132584,6 @@
     "domain": "wortmann.de"
   },
   {
-    "network": "89.106.75.0/24",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
-    "network": "2a06:1283:8919::/48",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
-    "network": "2a0f:6280:1600::/48",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
-    "network": "2a0f:6280:1601::/48",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
-    "network": "2a13:c8c4:7018::/48",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
-    "network": "2a13:c8c4:7019::/48",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
     "network": "89.106.152.0/21",
     "asn": "41213",
     "country_code": "DE",
@@ -136317,7 +136357,7 @@
     "country_code": "DE",
     "name": "KKH-A",
     "org": "Kaufmaennische Krankenkasse - KKH",
-    "domain": "kkh.de"
+    "domain": "ewetel.de"
   },
   {
     "network": "2001:67c:52c::/48",
@@ -136325,7 +136365,7 @@
     "country_code": "DE",
     "name": "KKH-A",
     "org": "Kaufmaennische Krankenkasse - KKH",
-    "domain": "kkh.de"
+    "domain": "ewetel.de"
   },
   {
     "network": "91.213.98.0/24",
@@ -140905,22 +140945,6 @@
   },
   {
     "network": "109.236.144.0/20",
-    "asn": "62023",
-    "country_code": "DE",
-    "name": "NYNEX",
-    "org": "NYNEX satellite OHG",
-    "domain": "nynex.de"
-  },
-  {
-    "network": "109.236.144.0/21",
-    "asn": "62023",
-    "country_code": "DE",
-    "name": "NYNEX",
-    "org": "NYNEX satellite OHG",
-    "domain": "nynex.de"
-  },
-  {
-    "network": "109.236.144.0/24",
     "asn": "62023",
     "country_code": "DE",
     "name": "NYNEX",
@@ -152619,7 +152643,7 @@
     "network": "139.27.0.0/16",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152627,7 +152651,7 @@
     "network": "149.206.0.0/16",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152635,7 +152659,7 @@
     "network": "149.211.0.0/16",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152643,7 +152667,7 @@
     "network": "149.250.0.0/16",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152651,7 +152675,7 @@
     "network": "170.56.0.0/16",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152659,7 +152683,7 @@
     "network": "192.109.236.0/24",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152667,7 +152691,7 @@
     "network": "195.203.0.0/17",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152675,7 +152699,7 @@
     "network": "195.203.128.0/17",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152683,7 +152707,7 @@
     "network": "195.203.152.0/23",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152691,7 +152715,7 @@
     "network": "195.203.156.0/22",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152699,7 +152723,7 @@
     "network": "217.27.0.0/23",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -152707,7 +152731,7 @@
     "network": "217.27.2.0/23",
     "asn": "15854",
     "country_code": "DE",
-    "name": "DXC_Customer",
+    "name": "DXC-AS15854",
     "org": "EntServ Deutschland GmbH",
     "domain": "dxc.com"
   },
@@ -154832,6 +154856,14 @@
     "domain": "4b42.com"
   },
   {
+    "network": "143.246.240.0/21",
+    "asn": "211428",
+    "country_code": "DE",
+    "name": "keyf",
+    "org": "Keyfinanz Gesellschaft mbH",
+    "domain": "keyfinanz.de"
+  },
+  {
     "network": "143.246.240.0/23",
     "asn": "211428",
     "country_code": "DE",
@@ -155264,6 +155296,14 @@
     "domain": "wiit.cloud"
   },
   {
+    "network": "164.37.48.0/24",
+    "asn": "13301",
+    "country_code": "DE",
+    "name": "WIIT",
+    "org": "WIIT AG",
+    "domain": "wiit.cloud"
+  },
+  {
     "network": "185.45.248.0/22",
     "asn": "13301",
     "country_code": "DE",
@@ -155273,6 +155313,22 @@
   },
   {
     "network": "194.126.198.0/24",
+    "asn": "13301",
+    "country_code": "DE",
+    "name": "WIIT",
+    "org": "WIIT AG",
+    "domain": "wiit.cloud"
+  },
+  {
+    "network": "217.66.128.0/21",
+    "asn": "13301",
+    "country_code": "DE",
+    "name": "WIIT",
+    "org": "WIIT AG",
+    "domain": "wiit.cloud"
+  },
+  {
+    "network": "2a07:2c40::/29",
     "asn": "13301",
     "country_code": "DE",
     "name": "WIIT",
@@ -162616,6 +162672,22 @@
     "domain": "as211635.net"
   },
   {
+    "network": "2a0e:8f02:212d::/48",
+    "asn": "211635",
+    "country_code": "DE",
+    "name": "AS211635-AS",
+    "org": "Stefan Nagel",
+    "domain": "as211635.net"
+  },
+  {
+    "network": "2a0e:8f02:212e::/48",
+    "asn": "211635",
+    "country_code": "DE",
+    "name": "AS211635-AS",
+    "org": "Stefan Nagel",
+    "domain": "as211635.net"
+  },
+  {
     "network": "2a0e:8f02:212f::/48",
     "asn": "211635",
     "country_code": "DE",
@@ -167816,6 +167888,14 @@
     "domain": "barolagerhaus.de"
   },
   {
+    "network": "185.70.204.0/22",
+    "asn": "8731",
+    "country_code": "DE",
+    "name": "BISPING",
+    "org": "Bisping & Bisping GmbH & Co KG",
+    "domain": "bisping.de"
+  },
+  {
     "network": "185.71.4.0/24",
     "asn": "49296",
     "country_code": "DE",
@@ -171424,30 +171504,6 @@
     "domain": "knipp.de"
   },
   {
-    "network": "195.253.105.0/24",
-    "asn": "50611",
-    "country_code": "DE",
-    "name": "KNIPP-IRONDNS1-AS",
-    "org": "Knipp Medien und Kommunikation GmbH",
-    "domain": "knipp.de"
-  },
-  {
-    "network": "195.253.106.0/24",
-    "asn": "50611",
-    "country_code": "DE",
-    "name": "KNIPP-IRONDNS1-AS",
-    "org": "Knipp Medien und Kommunikation GmbH",
-    "domain": "knipp.de"
-  },
-  {
-    "network": "195.253.107.0/24",
-    "asn": "50611",
-    "country_code": "DE",
-    "name": "KNIPP-IRONDNS1-AS",
-    "org": "Knipp Medien und Kommunikation GmbH",
-    "domain": "knipp.de"
-  },
-  {
     "network": "195.253.110.0/24",
     "asn": "50611",
     "country_code": "DE",
@@ -171456,23 +171512,7 @@
     "domain": "knipp.de"
   },
   {
-    "network": "195.253.112.0/24",
-    "asn": "50611",
-    "country_code": "DE",
-    "name": "KNIPP-IRONDNS1-AS",
-    "org": "Knipp Medien und Kommunikation GmbH",
-    "domain": "knipp.de"
-  },
-  {
     "network": "195.253.124.0/23",
-    "asn": "50611",
-    "country_code": "DE",
-    "name": "KNIPP-IRONDNS1-AS",
-    "org": "Knipp Medien und Kommunikation GmbH",
-    "domain": "knipp.de"
-  },
-  {
-    "network": "195.253.126.0/24",
     "asn": "50611",
     "country_code": "DE",
     "name": "KNIPP-IRONDNS1-AS",
@@ -171520,39 +171560,7 @@
     "domain": "knipp.de"
   },
   {
-    "network": "2a01:5b0:29::/48",
-    "asn": "50611",
-    "country_code": "DE",
-    "name": "KNIPP-IRONDNS1-AS",
-    "org": "Knipp Medien und Kommunikation GmbH",
-    "domain": "knipp.de"
-  },
-  {
-    "network": "2a01:5b0:2a::/48",
-    "asn": "50611",
-    "country_code": "DE",
-    "name": "KNIPP-IRONDNS1-AS",
-    "org": "Knipp Medien und Kommunikation GmbH",
-    "domain": "knipp.de"
-  },
-  {
-    "network": "2a01:5b0:2b::/48",
-    "asn": "50611",
-    "country_code": "DE",
-    "name": "KNIPP-IRONDNS1-AS",
-    "org": "Knipp Medien und Kommunikation GmbH",
-    "domain": "knipp.de"
-  },
-  {
     "network": "2a01:5b0:2e::/48",
-    "asn": "50611",
-    "country_code": "DE",
-    "name": "KNIPP-IRONDNS1-AS",
-    "org": "Knipp Medien und Kommunikation GmbH",
-    "domain": "knipp.de"
-  },
-  {
-    "network": "2a01:5b0:30::/48",
     "asn": "50611",
     "country_code": "DE",
     "name": "KNIPP-IRONDNS1-AS",
@@ -175937,6 +175945,14 @@
   },
   {
     "network": "193.138.156.0/22",
+    "asn": "58265",
+    "country_code": "DE",
+    "name": "LEVEL421",
+    "org": "city-netze GmbH",
+    "domain": "city-netze.de"
+  },
+  {
+    "network": "193.138.156.0/24",
     "asn": "58265",
     "country_code": "DE",
     "name": "LEVEL421",
@@ -182072,14 +182088,6 @@
     "domain": "teamviewer.com"
   },
   {
-    "network": "2a09:2900:6800::/40",
-    "asn": "212710",
-    "country_code": "DE",
-    "name": "TeamViewer-AMEA",
-    "org": "TeamViewer Germany GmbH",
-    "domain": "teamviewer.com"
-  },
-  {
     "network": "2a09:2900:8400::/40",
     "asn": "212710",
     "country_code": "DE",
@@ -187168,14 +187176,6 @@
     "domain": "freifunk.net"
   },
   {
-    "network": "194.156.23.0/24",
-    "asn": "212989",
-    "country_code": "DE",
-    "name": "FFRGB",
-    "org": "Freifunk Regensburg e.V.",
-    "domain": "freifunk.net"
-  },
-  {
     "network": "2001:678:ddc::/48",
     "asn": "212989",
     "country_code": "DE",
@@ -190713,6 +190713,14 @@
   },
   {
     "network": "217.30.22.0/23",
+    "asn": "198727",
+    "country_code": "DE",
+    "name": "STAKINGFACILITIES",
+    "org": "Staking Facilities GmbH",
+    "domain": "stakingfacilities.com"
+  },
+  {
+    "network": "217.30.22.0/24",
     "asn": "198727",
     "country_code": "DE",
     "name": "STAKINGFACILITIES",
@@ -194267,7 +194275,7 @@
     "network": "2a0c:b641:f61::/48",
     "asn": "218279",
     "country_code": "DE",
-    "name": "DE-LEVINSCHROER-20261024",
+    "name": "DERLEV",
     "org": "Levin Schroeren",
     "domain": "derlev.net"
   },
@@ -194944,6 +194952,38 @@
     "domain": "devstorage.eu"
   },
   {
+    "network": "2a0f:6280:1600::/48",
+    "asn": "219418",
+    "country_code": "DE",
+    "name": "eHILL-MEDIA",
+    "org": "Jan Hill",
+    "domain": "abuse-monitor.de"
+  },
+  {
+    "network": "2a0f:6280:1601::/48",
+    "asn": "219418",
+    "country_code": "DE",
+    "name": "eHILL-MEDIA",
+    "org": "Jan Hill",
+    "domain": "abuse-monitor.de"
+  },
+  {
+    "network": "2a13:c8c4:7018::/48",
+    "asn": "219418",
+    "country_code": "DE",
+    "name": "eHILL-MEDIA",
+    "org": "Jan Hill",
+    "domain": "abuse-monitor.de"
+  },
+  {
+    "network": "2a13:c8c4:7019::/48",
+    "asn": "219418",
+    "country_code": "DE",
+    "name": "eHILL-MEDIA",
+    "org": "Jan Hill",
+    "domain": "abuse-monitor.de"
+  },
+  {
     "network": "2a0f:6283:1400::/48",
     "asn": "213422",
     "country_code": "DE",
@@ -195224,12 +195264,44 @@
     "domain": "tyebo.de"
   },
   {
+    "network": "2a14:1ec1:7b20::/44",
+    "asn": "215093",
+    "country_code": "DE",
+    "name": "Niklas-Wecker",
+    "org": "Niklas Wecker",
+    "domain": "6v4.de"
+  },
+  {
     "network": "2a14:1ec1:7b40::/48",
     "asn": "219539",
     "country_code": "DE",
     "name": "Lucasserver",
     "org": "Lucas Pfister",
     "domain": "lucasserver.de"
+  },
+  {
+    "network": "2a14:47c0:fe01::/48",
+    "asn": "213512",
+    "country_code": "DE",
+    "name": "Lorenz-Knak",
+    "org": "Lorenz Knak trading as IT-adjutor GmbH",
+    "domain": "it-adjutor.de"
+  },
+  {
+    "network": "2a14:47c0:fe02::/48",
+    "asn": "213512",
+    "country_code": "DE",
+    "name": "Lorenz-Knak",
+    "org": "Lorenz Knak trading as IT-adjutor GmbH",
+    "domain": "it-adjutor.de"
+  },
+  {
+    "network": "2a14:47c0:fe04::/48",
+    "asn": "213512",
+    "country_code": "DE",
+    "name": "Lorenz-Knak",
+    "org": "Lorenz Knak trading as IT-adjutor GmbH",
+    "domain": "it-adjutor.de"
   },
   {
     "network": "2a14:6980:20::/44",
