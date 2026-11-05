@@ -3120,7 +3120,7 @@
     "domain": ""
   },
   {
-    "network": "2407:5200:54::/48",
+    "network": "2407:5200:4c::/48",
     "asn": "55915",
     "country_code": "NP",
     "name": "CLASSIC-NP",
@@ -3241,22 +3241,6 @@
   },
   {
     "network": "43.231.211.0/24",
-    "asn": "132017",
-    "country_code": "NP",
-    "name": "N-AS-AP",
-    "org": "N. Net Pvt. Ltd.",
-    "domain": ""
-  },
-  {
-    "network": "144.79.238.0/24",
-    "asn": "132017",
-    "country_code": "NP",
-    "name": "N-AS-AP",
-    "org": "N. Net Pvt. Ltd.",
-    "domain": ""
-  },
-  {
-    "network": "144.79.239.0/24",
     "asn": "132017",
     "country_code": "NP",
     "name": "N-AS-AP",
@@ -3856,6 +3840,14 @@
     "domain": ""
   },
   {
+    "network": "49.244.160.0/19",
+    "asn": "23752",
+    "country_code": "NP",
+    "name": "NPTELECOM-NP-AS",
+    "org": "Nepal Telecommunications Corporation",
+    "domain": ""
+  },
+  {
     "network": "49.244.160.0/21",
     "asn": "23752",
     "country_code": "NP",
@@ -3937,6 +3929,14 @@
   },
   {
     "network": "49.244.228.0/22",
+    "asn": "23752",
+    "country_code": "NP",
+    "name": "NPTELECOM-NP-AS",
+    "org": "Nepal Telecommunications Corporation",
+    "domain": ""
+  },
+  {
+    "network": "49.244.236.0/22",
     "asn": "23752",
     "country_code": "NP",
     "name": "NPTELECOM-NP-AS",
@@ -6201,6 +6201,30 @@
   },
   {
     "network": "103.96.32.0/24",
+    "asn": "136794",
+    "country_code": "NP",
+    "name": "ADBL-AS-AP",
+    "org": "Agricultural Development Bank Ltd",
+    "domain": ""
+  },
+  {
+    "network": "103.96.34.0/23",
+    "asn": "136794",
+    "country_code": "NP",
+    "name": "ADBL-AS-AP",
+    "org": "Agricultural Development Bank Ltd",
+    "domain": ""
+  },
+  {
+    "network": "103.96.34.0/24",
+    "asn": "136794",
+    "country_code": "NP",
+    "name": "ADBL-AS-AP",
+    "org": "Agricultural Development Bank Ltd",
+    "domain": ""
+  },
+  {
+    "network": "103.96.35.0/24",
     "asn": "136794",
     "country_code": "NP",
     "name": "ADBL-AS-AP",
@@ -10681,6 +10705,14 @@
   },
   {
     "network": "160.22.164.0/24",
+    "asn": "138933",
+    "country_code": "NP",
+    "name": "FNCPL-AS-AP",
+    "org": "Fiber Net Communication Pvt. Ltd.",
+    "domain": ""
+  },
+  {
+    "network": "160.22.165.0/24",
     "asn": "138933",
     "country_code": "NP",
     "name": "FNCPL-AS-AP",

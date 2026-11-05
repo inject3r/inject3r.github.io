@@ -2624,14 +2624,6 @@
     "domain": "ucom.am"
   },
   {
-    "network": "2a00:cc40::/29",
-    "asn": "44395",
-    "country_code": "AM",
-    "name": "ORG-UL31-RIPE",
-    "org": "Ucom CJSC",
-    "domain": "ucom.am"
-  },
-  {
     "network": "2a00:cc40:300::/44",
     "asn": "44395",
     "country_code": "AM",
@@ -2809,22 +2801,6 @@
   },
   {
     "network": "2a00:cc47:3c01::/48",
-    "asn": "44395",
-    "country_code": "AM",
-    "name": "ORG-UL31-RIPE",
-    "org": "Ucom CJSC",
-    "domain": "ucom.am"
-  },
-  {
-    "network": "2a01:4a00::/32",
-    "asn": "44395",
-    "country_code": "AM",
-    "name": "ORG-UL31-RIPE",
-    "org": "Ucom CJSC",
-    "domain": "ucom.am"
-  },
-  {
-    "network": "2a03:1080::/32",
     "asn": "44395",
     "country_code": "AM",
     "name": "ORG-UL31-RIPE",
@@ -3289,6 +3265,14 @@
   },
   {
     "network": "45.159.74.0/23",
+    "asn": "207810",
+    "country_code": "AM",
+    "name": "VTelecom",
+    "org": "\"Virus Net\" LLC",
+    "domain": "virusnet.am"
+  },
+  {
+    "network": "46.70.252.0/24",
     "asn": "207810",
     "country_code": "AM",
     "name": "VTelecom",
@@ -4944,12 +4928,28 @@
     "domain": "telecomarmenia.am"
   },
   {
-    "network": "46.70.252.0/24",
-    "asn": "12297",
+    "network": "46.70.253.0/24",
+    "asn": "202740",
     "country_code": "AM",
-    "name": "TELECOM-ARMENIA",
-    "org": "Telecom Armenia OJSC",
+    "name": "IMID-AS",
+    "org": "IM ID CJSC",
     "domain": "telecomarmenia.am"
+  },
+  {
+    "network": "46.70.255.0/24",
+    "asn": "201063",
+    "country_code": "AM",
+    "name": "ameria-as",
+    "org": "Ameriabank CJSC",
+    "domain": "ameriabank.am"
+  },
+  {
+    "network": "185.3.189.0/24",
+    "asn": "201063",
+    "country_code": "AM",
+    "name": "ameria-as",
+    "org": "Ameriabank CJSC",
+    "domain": "ameriabank.am"
   },
   {
     "network": "46.71.0.0/16",
@@ -5334,30 +5334,6 @@
     "name": "TELECOM-ARMENIA",
     "org": "Telecom Armenia OJSC",
     "domain": "telecomarmenia.am"
-  },
-  {
-    "network": "46.70.253.0/24",
-    "asn": "202740",
-    "country_code": "AM",
-    "name": "IMID-AS",
-    "org": "IM ID CJSC",
-    "domain": "telecomarmenia.am"
-  },
-  {
-    "network": "46.70.255.0/24",
-    "asn": "201063",
-    "country_code": "AM",
-    "name": "ameria-as",
-    "org": "Ameriabank CJSC",
-    "domain": "ameriabank.am"
-  },
-  {
-    "network": "185.3.189.0/24",
-    "asn": "201063",
-    "country_code": "AM",
-    "name": "ameria-as",
-    "org": "Ameriabank CJSC",
-    "domain": "ameriabank.am"
   },
   {
     "network": "46.182.172.0/23",
@@ -6694,6 +6670,22 @@
     "name": "MEDIALIFE-AS",
     "org": "MEDIA LIFE LLC",
     "domain": "medialive.am"
+  },
+  {
+    "network": "93.185.152.0/24",
+    "asn": "49037",
+    "country_code": "AM",
+    "name": "A1-TELECOM",
+    "org": "A1 TELECOM LLC",
+    "domain": "a1-telecom.am"
+  },
+  {
+    "network": "2a00:8740:2100::/40",
+    "asn": "49037",
+    "country_code": "AM",
+    "name": "A1-TELECOM",
+    "org": "A1 TELECOM LLC",
+    "domain": "a1-telecom.am"
   },
   {
     "network": "93.185.153.0/24",

@@ -1626,7 +1626,13 @@
     "country_name": "Malta"
   },
   {
-    "network": "185.25.171.0/24",
+    "network": "185.25.171.64/26",
+    "continent_code": "EU",
+    "country_code": "MT",
+    "country_name": "Malta"
+  },
+  {
+    "network": "185.25.171.128/25",
     "continent_code": "EU",
     "country_code": "MT",
     "country_name": "Malta"
@@ -2797,12 +2803,6 @@
   },
   {
     "network": "2a0c:c281::/32",
-    "continent_code": "EU",
-    "country_code": "MT",
-    "country_name": "Malta"
-  },
-  {
-    "network": "2a10:fa85::/32",
     "continent_code": "EU",
     "country_code": "MT",
     "country_name": "Malta"

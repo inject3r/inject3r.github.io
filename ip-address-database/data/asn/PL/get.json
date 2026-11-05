@@ -40,6 +40,14 @@
     "domain": "guardnet.work"
   },
   {
+    "network": "31.58.155.0/24",
+    "asn": "216129",
+    "country_code": "PL",
+    "name": "GuardNetwork-AS",
+    "org": "SEBEK sp. z o.o",
+    "domain": "guardnet.work"
+  },
+  {
     "network": "31.77.241.0/24",
     "asn": "216129",
     "country_code": "PL",
@@ -2257,14 +2265,6 @@
   },
   {
     "network": "91.200.35.0/24",
-    "asn": "200088",
-    "country_code": "PL",
-    "name": "ARTNET2",
-    "org": "Artnet Sp. z o.o.",
-    "domain": "artnet.pl"
-  },
-  {
-    "network": "91.206.179.0/24",
     "asn": "200088",
     "country_code": "PL",
     "name": "ARTNET2",
@@ -10368,14 +10368,6 @@
     "domain": "main.pl"
   },
   {
-    "network": "2a0b:5740::/29",
-    "asn": "205671",
-    "country_code": "PL",
-    "name": "MAINPL",
-    "org": "MAIN Sp. z o.o.",
-    "domain": "main.pl"
-  },
-  {
     "network": "31.41.168.0/24",
     "asn": "197811",
     "country_code": "PL",
@@ -10513,14 +10505,6 @@
   },
   {
     "network": "77.216.4.0/24",
-    "asn": "215133",
-    "country_code": "PL",
-    "name": "JAKUB-WITKOWSKI",
-    "org": "Jakub Witkowski",
-    "domain": "proton.me"
-  },
-  {
-    "network": "79.182.27.0/24",
     "asn": "215133",
     "country_code": "PL",
     "name": "JAKUB-WITKOWSKI",
@@ -15288,39 +15272,7 @@
     "domain": "gigabitowy.net"
   },
   {
-    "network": "45.90.0.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "45.90.1.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
     "network": "91.207.52.0/23",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.207.52.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.207.53.0/24",
     "asn": "48956",
     "country_code": "PL",
     "name": "HYPERNET-AS",
@@ -15336,87 +15288,7 @@
     "domain": "gigabitowy.net"
   },
   {
-    "network": "91.230.42.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.230.43.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
     "network": "91.246.104.0/21",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.246.104.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.246.105.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.246.106.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.246.107.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.246.108.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.246.109.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.246.110.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "91.246.111.0/24",
     "asn": "48956",
     "country_code": "PL",
     "name": "HYPERNET-AS",
@@ -15433,22 +15305,6 @@
   },
   {
     "network": "195.88.114.0/23",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "195.88.114.0/24",
-    "asn": "48956",
-    "country_code": "PL",
-    "name": "HYPERNET-AS",
-    "org": "HyperNET sp. z o.o.",
-    "domain": "gigabitowy.net"
-  },
-  {
-    "network": "195.88.115.0/24",
     "asn": "48956",
     "country_code": "PL",
     "name": "HYPERNET-AS",
@@ -20808,14 +20664,6 @@
     "domain": "blokowe.pl"
   },
   {
-    "network": "2a03:24c0::/48",
-    "asn": "51484",
-    "country_code": "PL",
-    "name": "BLOKOWE",
-    "org": "Sieci Blokowe S.C.",
-    "domain": "blokowe.pl"
-  },
-  {
     "network": "46.45.116.0/24",
     "asn": "201091",
     "country_code": "PL",
@@ -24528,14 +24376,6 @@
     "domain": "leon.pl"
   },
   {
-    "network": "2a02:c40:8100::/48",
-    "asn": "13000",
-    "country_code": "PL",
-    "name": "LEON-AS",
-    "org": "Leon Sp. z o.o.",
-    "domain": "leon.pl"
-  },
-  {
     "network": "64.7.32.0/24",
     "asn": "200118",
     "country_code": "PL",
@@ -27456,6 +27296,14 @@
     "domain": "prosta.pl"
   },
   {
+    "network": "109.125.253.0/24",
+    "asn": "44692",
+    "country_code": "PL",
+    "name": "DOMTEL-PL-AS",
+    "org": "\"Domtel Telecom\" Dariusz Dombek",
+    "domain": "prosta.pl"
+  },
+  {
     "network": "109.125.254.0/24",
     "asn": "44692",
     "country_code": "PL",
@@ -27760,14 +27608,6 @@
     "domain": "kario-sat.pl"
   },
   {
-    "network": "91.222.140.0/22",
-    "asn": "206957",
-    "country_code": "PL",
-    "name": "KARIO-SAT",
-    "org": "PHU Kario-Sat Sp. z o.o.",
-    "domain": "kario-sat.pl"
-  },
-  {
     "network": "91.222.140.0/24",
     "asn": "206957",
     "country_code": "PL",
@@ -27800,23 +27640,7 @@
     "domain": "kario-sat.pl"
   },
   {
-    "network": "176.112.72.0/21",
-    "asn": "206957",
-    "country_code": "PL",
-    "name": "KARIO-SAT",
-    "org": "PHU Kario-Sat Sp. z o.o.",
-    "domain": "kario-sat.pl"
-  },
-  {
     "network": "176.112.75.0/24",
-    "asn": "206957",
-    "country_code": "PL",
-    "name": "KARIO-SAT",
-    "org": "PHU Kario-Sat Sp. z o.o.",
-    "domain": "kario-sat.pl"
-  },
-  {
-    "network": "185.79.240.0/22",
     "asn": "206957",
     "country_code": "PL",
     "name": "KARIO-SAT",
@@ -27857,14 +27681,6 @@
   },
   {
     "network": "195.128.135.0/24",
-    "asn": "206957",
-    "country_code": "PL",
-    "name": "KARIO-SAT",
-    "org": "PHU Kario-Sat Sp. z o.o.",
-    "domain": "kario-sat.pl"
-  },
-  {
-    "network": "195.246.224.0/23",
     "asn": "206957",
     "country_code": "PL",
     "name": "KARIO-SAT",
@@ -30528,6 +30344,14 @@
     "domain": "montmay.pl"
   },
   {
+    "network": "185.204.192.0/24",
+    "asn": "205813",
+    "country_code": "PL",
+    "name": "MONTMAY",
+    "org": "Montmay Sp. z o.o.",
+    "domain": "montmay.pl"
+  },
+  {
     "network": "185.204.193.0/24",
     "asn": "205813",
     "country_code": "PL",
@@ -30537,6 +30361,14 @@
   },
   {
     "network": "185.204.194.0/24",
+    "asn": "205813",
+    "country_code": "PL",
+    "name": "MONTMAY",
+    "org": "Montmay Sp. z o.o.",
+    "domain": "montmay.pl"
+  },
+  {
+    "network": "185.204.195.0/24",
     "asn": "205813",
     "country_code": "PL",
     "name": "MONTMAY",
@@ -39777,6 +39609,14 @@
   },
   {
     "network": "91.194.140.0/24",
+    "asn": "207413",
+    "country_code": "PL",
+    "name": "CONTACTPL",
+    "org": "CONTACT.PL SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "domain": "ccontact.pl"
+  },
+  {
+    "network": "91.194.141.0/24",
     "asn": "207413",
     "country_code": "PL",
     "name": "CONTACTPL",
@@ -51808,14 +51648,6 @@
     "domain": "artus.net.pl"
   },
   {
-    "network": "139.28.42.0/23",
-    "asn": "207736",
-    "country_code": "PL",
-    "name": "SUPERNET24-AS",
-    "org": "Supernet24 Marek Dyrcz",
-    "domain": "supernet24.pl"
-  },
-  {
     "network": "140.150.158.0/23",
     "asn": "215291",
     "country_code": "PL",
@@ -54536,6 +54368,22 @@
     "domain": "jessa.pl"
   },
   {
+    "network": "185.3.112.0/22",
+    "asn": "59686",
+    "country_code": "PL",
+    "name": "GEMINI-PL",
+    "org": "Gemini Internet Sp. z o.o.",
+    "domain": "gemini.net.pl"
+  },
+  {
+    "network": "193.25.0.0/21",
+    "asn": "59686",
+    "country_code": "PL",
+    "name": "GEMINI-PL",
+    "org": "Gemini Internet Sp. z o.o.",
+    "domain": "gemini.net.pl"
+  },
+  {
     "network": "185.6.0.0/24",
     "asn": "209964",
     "country_code": "PL",
@@ -55489,6 +55337,14 @@
   },
   {
     "network": "185.52.192.0/22",
+    "asn": "201262",
+    "country_code": "PL",
+    "name": "ECIS-project",
+    "org": "CloudFerro S.A",
+    "domain": "cloudferro.com"
+  },
+  {
+    "network": "185.52.195.0/24",
     "asn": "201262",
     "country_code": "PL",
     "name": "ECIS-project",
@@ -57824,6 +57680,14 @@
     "domain": "vercom.pl"
   },
   {
+    "network": "185.192.240.0/22",
+    "asn": "206094",
+    "country_code": "PL",
+    "name": "TELBESKID",
+    "org": "TELBESKID Sp. z o.o.",
+    "domain": "telbeskid.com.pl"
+  },
+  {
     "network": "185.193.160.0/24",
     "asn": "211797",
     "country_code": "PL",
@@ -57862,14 +57726,6 @@
     "name": "theridion-as",
     "org": "RODZIEWICZ, BORKOWSKI, MISZTAL trading as \"THERIDION\" SPOLKA JAWNA",
     "domain": "theridion.pl"
-  },
-  {
-    "network": "185.200.48.0/24",
-    "asn": "205783",
-    "country_code": "PL",
-    "name": "PL-IDEMIA-AS205783",
-    "org": "IDEMIA POLAND Sp. z o.o.",
-    "domain": "idemia.com"
   },
   {
     "network": "185.200.50.0/24",
@@ -58265,6 +58121,14 @@
   },
   {
     "network": "185.231.14.0/24",
+    "asn": "205074",
+    "country_code": "PL",
+    "name": "MEDIASYSTEM",
+    "org": "Robert Marek Bukowski trading as Media System",
+    "domain": "mediasystem-tdi.pl"
+  },
+  {
+    "network": "185.231.15.0/24",
     "asn": "205074",
     "country_code": "PL",
     "name": "MEDIASYSTEM",
@@ -59406,14 +59270,6 @@
     "name": "NETSERVIS-ISP",
     "org": "NETSERVIS Michal Kur",
     "domain": "netservis.com.pl"
-  },
-  {
-    "network": "193.25.0.0/21",
-    "asn": "59686",
-    "country_code": "PL",
-    "name": "GEMINI-PL",
-    "org": "Gemini Internet Sp. z o.o.",
-    "domain": "gemini.net.pl"
   },
   {
     "network": "193.25.160.0/23",
@@ -62672,14 +62528,6 @@
     "domain": "stat.gov.pl"
   },
   {
-    "network": "2001:678:5c4::/48",
-    "asn": "48534",
-    "country_code": "PL",
-    "name": "GUS-AS",
-    "org": "Centrum Informatyki Statystycznej",
-    "domain": "stat.gov.pl"
-  },
-  {
     "network": "194.165.54.0/24",
     "asn": "39243",
     "country_code": "PL",
@@ -64664,6 +64512,14 @@
     "domain": "uz.zgora.pl"
   },
   {
+    "network": "212.110.128.0/24",
+    "asn": "5593",
+    "country_code": "PL",
+    "name": "UNITED-AS",
+    "org": "Load.me sp. z o. o.",
+    "domain": "w-net.eu"
+  },
+  {
     "network": "212.115.119.0/24",
     "asn": "207352",
     "country_code": "PL",
@@ -65188,7 +65044,7 @@
     "asn": "201581",
     "country_code": "PL",
     "name": "ORLENOCHRONA-AS",
-    "org": "ENERGA INFORMATYKA I TECHNOLOGIE SP. Z O.O.",
+    "org": "Orlen S.A.",
     "domain": "t-mobile.pl"
   },
   {
@@ -65201,6 +65057,14 @@
   },
   {
     "network": "217.153.154.0/23",
+    "asn": "199410",
+    "country_code": "PL",
+    "name": "ASN-TMF",
+    "org": "TMF Poland TruNet Maciej Filipowicz",
+    "domain": "tmf.net.pl"
+  },
+  {
+    "network": "2a02:e30:f030::/48",
     "asn": "199410",
     "country_code": "PL",
     "name": "ASN-TMF",
@@ -65294,14 +65158,6 @@
     "name": "MIKA-PRO-AS",
     "org": "MIKA.PRO Przemyslaw Mika",
     "domain": "mika.pro"
-  },
-  {
-    "network": "2001:67c:cbc::/48",
-    "asn": "197983",
-    "country_code": "PL",
-    "name": "MONOGO-AS",
-    "org": "MONOGO SP. Z O.O.",
-    "domain": "monogo.pl"
   },
   {
     "network": "2001:67c:d60::/48",

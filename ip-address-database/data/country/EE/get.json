@@ -702,6 +702,12 @@
     "country_name": "Estonia"
   },
   {
+    "network": "45.134.112.0/22",
+    "continent_code": "EU",
+    "country_code": "EE",
+    "country_name": "Estonia"
+  },
+  {
     "network": "45.138.101.0/24",
     "continent_code": "EU",
     "country_code": "EE",
@@ -907,12 +913,6 @@
   },
   {
     "network": "46.22.210.128/25",
-    "continent_code": "EU",
-    "country_code": "EE",
-    "country_name": "Estonia"
-  },
-  {
-    "network": "46.22.211.0/25",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -3426,37 +3426,37 @@
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.0.88/29",
+    "network": "91.95.0.64/27",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.0.120/29",
+    "network": "91.95.0.120/30",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.1.32/27",
+    "network": "91.95.1.48/28",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.1.64/26",
+    "network": "91.95.1.80/30",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.1.128/29",
+    "network": "91.95.1.128/28",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.1.168/29",
+    "network": "91.95.1.160/28",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -3468,7 +3468,7 @@
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.2.0/26",
+    "network": "91.95.2.0/25",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -3480,7 +3480,7 @@
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.3.224/28",
+    "network": "91.95.3.232/30",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -3498,7 +3498,7 @@
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.4.224/27",
+    "network": "91.95.4.224/28",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -3516,19 +3516,13 @@
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.6.80/28",
+    "network": "91.95.6.64/27",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.6.128/27",
-    "continent_code": "EU",
-    "country_code": "EE",
-    "country_name": "Estonia"
-  },
-  {
-    "network": "91.95.6.192/26",
+    "network": "91.95.6.128/25",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -3546,7 +3540,7 @@
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.10.96/27",
+    "network": "91.95.10.96/28",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -3558,31 +3552,25 @@
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.10.192/26",
+    "network": "91.95.10.224/27",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.11.224/27",
+    "network": "91.95.11.192/26",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.13.144/28",
+    "network": "91.95.13.152/29",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.13.192/28",
-    "continent_code": "EU",
-    "country_code": "EE",
-    "country_name": "Estonia"
-  },
-  {
-    "network": "91.95.13.210/31",
+    "network": "91.95.13.192/27",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -3600,7 +3588,7 @@
     "country_name": "Estonia"
   },
   {
-    "network": "91.95.15.144/28",
+    "network": "91.95.15.128/26",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -4494,7 +4482,25 @@
     "country_name": "Estonia"
   },
   {
-    "network": "132.243.64.0/20",
+    "network": "132.243.64.0/21",
+    "continent_code": "EU",
+    "country_code": "EE",
+    "country_name": "Estonia"
+  },
+  {
+    "network": "132.243.72.0/24",
+    "continent_code": "EU",
+    "country_code": "EE",
+    "country_name": "Estonia"
+  },
+  {
+    "network": "132.243.74.0/23",
+    "continent_code": "EU",
+    "country_code": "EE",
+    "country_name": "Estonia"
+  },
+  {
+    "network": "132.243.76.0/22",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -4585,12 +4591,6 @@
   },
   {
     "network": "138.249.128.0/24",
-    "continent_code": "EU",
-    "country_code": "EE",
-    "country_name": "Estonia"
-  },
-  {
-    "network": "138.249.161.0/24",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -5304,7 +5304,7 @@
     "country_name": "Estonia"
   },
   {
-    "network": "158.173.75.248/29",
+    "network": "158.173.75.240/28",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -7812,6 +7812,12 @@
     "country_name": "Estonia"
   },
   {
+    "network": "201.7.36.0/22",
+    "continent_code": "EU",
+    "country_code": "EE",
+    "country_name": "Estonia"
+  },
+  {
     "network": "201.7.40.0/21",
     "continent_code": "EU",
     "country_code": "EE",
@@ -9348,13 +9354,7 @@
     "country_name": "Estonia"
   },
   {
-    "network": "217.142.27.208/29",
-    "continent_code": "EU",
-    "country_code": "EE",
-    "country_name": "Estonia"
-  },
-  {
-    "network": "217.142.27.248/30",
+    "network": "217.142.27.248/29",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -20292,6 +20292,12 @@
     "country_name": "Estonia"
   },
   {
+    "network": "2001:470:28:125b::/64",
+    "continent_code": "EU",
+    "country_code": "EE",
+    "country_name": "Estonia"
+  },
+  {
     "network": "2001:470:36:5dc::/64",
     "continent_code": "EU",
     "country_code": "EE",
@@ -20527,6 +20533,12 @@
   },
   {
     "network": "2001:470:1f29:132::/64",
+    "continent_code": "EU",
+    "country_code": "EE",
+    "country_name": "Estonia"
+  },
+  {
+    "network": "2001:470:1f29:218::/64",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"
@@ -20911,6 +20923,12 @@
   },
   {
     "network": "2a0a:6044:77fe:3f::/64",
+    "continent_code": "EU",
+    "country_code": "EE",
+    "country_name": "Estonia"
+  },
+  {
+    "network": "2a0b:4e07:d3:13::/64",
     "continent_code": "EU",
     "country_code": "EE",
     "country_name": "Estonia"

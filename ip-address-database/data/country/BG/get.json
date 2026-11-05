@@ -1908,7 +1908,7 @@
     "country_name": "Bulgaria"
   },
   {
-    "network": "66.92.2.0/24",
+    "network": "66.92.2.128/25",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
@@ -2833,12 +2833,6 @@
   },
   {
     "network": "81.161.229.0/24",
-    "continent_code": "EU",
-    "country_code": "BG",
-    "country_name": "Bulgaria"
-  },
-  {
-    "network": "81.161.231.0/24",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
@@ -4692,7 +4686,7 @@
     "country_name": "Bulgaria"
   },
   {
-    "network": "88.80.145.0/24",
+    "network": "88.80.145.0/26",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
@@ -4963,12 +4957,6 @@
   },
   {
     "network": "91.92.68.0/23",
-    "continent_code": "EU",
-    "country_code": "BG",
-    "country_name": "Bulgaria"
-  },
-  {
-    "network": "91.92.71.0/24",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
@@ -5970,6 +5958,12 @@
     "country_name": "Bulgaria"
   },
   {
+    "network": "93.123.109.128/25",
+    "continent_code": "EU",
+    "country_code": "BG",
+    "country_name": "Bulgaria"
+  },
+  {
     "network": "93.123.110.0/24",
     "continent_code": "EU",
     "country_code": "BG",
@@ -6834,12 +6828,6 @@
     "country_name": "Bulgaria"
   },
   {
-    "network": "94.156.113.0/24",
-    "continent_code": "EU",
-    "country_code": "BG",
-    "country_name": "Bulgaria"
-  },
-  {
     "network": "94.156.123.0/24",
     "continent_code": "EU",
     "country_code": "BG",
@@ -6900,6 +6888,12 @@
     "country_name": "Bulgaria"
   },
   {
+    "network": "94.156.166.42/31",
+    "continent_code": "EU",
+    "country_code": "BG",
+    "country_name": "Bulgaria"
+  },
+  {
     "network": "94.156.166.44/30",
     "continent_code": "EU",
     "country_code": "BG",
@@ -6924,12 +6918,6 @@
     "country_name": "Bulgaria"
   },
   {
-    "network": "94.156.166.142/31",
-    "continent_code": "EU",
-    "country_code": "BG",
-    "country_name": "Bulgaria"
-  },
-  {
     "network": "94.156.166.144/28",
     "continent_code": "EU",
     "country_code": "BG",
@@ -6942,19 +6930,13 @@
     "country_name": "Bulgaria"
   },
   {
-    "network": "94.156.166.192/31",
+    "network": "94.156.166.192/28",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
   },
   {
-    "network": "94.156.166.196/30",
-    "continent_code": "EU",
-    "country_code": "BG",
-    "country_name": "Bulgaria"
-  },
-  {
-    "network": "94.156.166.200/29",
+    "network": "94.156.166.212/30",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
@@ -10068,13 +10050,7 @@
     "country_name": "Bulgaria"
   },
   {
-    "network": "158.173.89.56/30",
-    "continent_code": "EU",
-    "country_code": "BG",
-    "country_name": "Bulgaria"
-  },
-  {
-    "network": "158.173.89.192/29",
+    "network": "158.173.89.58/31",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
@@ -10141,6 +10117,18 @@
   },
   {
     "network": "162.158.208.0/22",
+    "continent_code": "EU",
+    "country_code": "BG",
+    "country_name": "Bulgaria"
+  },
+  {
+    "network": "163.116.178.179/32",
+    "continent_code": "EU",
+    "country_code": "BG",
+    "country_name": "Bulgaria"
+  },
+  {
+    "network": "163.116.178.189/32",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
@@ -14238,7 +14226,7 @@
     "country_name": "Bulgaria"
   },
   {
-    "network": "195.42.142.36/31",
+    "network": "195.42.142.36/30",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
@@ -14413,12 +14401,6 @@
   },
   {
     "network": "195.130.208.0/24",
-    "continent_code": "EU",
-    "country_code": "BG",
-    "country_name": "Bulgaria"
-  },
-  {
-    "network": "195.130.215.0/24",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
@@ -14724,19 +14706,13 @@
     "country_name": "Bulgaria"
   },
   {
-    "network": "195.178.110.16/28",
+    "network": "195.178.110.32/27",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
   },
   {
-    "network": "195.178.110.32/28",
-    "continent_code": "EU",
-    "country_code": "BG",
-    "country_name": "Bulgaria"
-  },
-  {
-    "network": "195.178.110.48/29",
+    "network": "195.178.110.80/28",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"
@@ -15480,7 +15456,31 @@
     "country_name": "Bulgaria"
   },
   {
-    "network": "209.170.79.0/24",
+    "network": "209.170.79.0/25",
+    "continent_code": "EU",
+    "country_code": "BG",
+    "country_name": "Bulgaria"
+  },
+  {
+    "network": "209.170.79.128/26",
+    "continent_code": "EU",
+    "country_code": "BG",
+    "country_name": "Bulgaria"
+  },
+  {
+    "network": "209.170.79.192/28",
+    "continent_code": "EU",
+    "country_code": "BG",
+    "country_name": "Bulgaria"
+  },
+  {
+    "network": "209.170.79.208/29",
+    "continent_code": "EU",
+    "country_code": "BG",
+    "country_name": "Bulgaria"
+  },
+  {
+    "network": "209.170.79.224/27",
     "continent_code": "EU",
     "country_code": "BG",
     "country_name": "Bulgaria"

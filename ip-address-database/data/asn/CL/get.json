@@ -15520,7 +15520,15 @@
     "domain": "tecnoera.com"
   },
   {
-    "network": "190.113.24.0/23",
+    "network": "190.113.23.0/24",
+    "asn": "22860",
+    "country_code": "CL",
+    "name": "SERVICIOS INTERNET LTDA",
+    "org": "SERVICIOS INTERNET LTDA",
+    "domain": "tecnoera.com"
+  },
+  {
+    "network": "190.113.24.0/24",
     "asn": "22860",
     "country_code": "CL",
     "name": "SERVICIOS INTERNET LTDA",
@@ -15753,14 +15761,6 @@
   },
   {
     "network": "2803:f20::/41",
-    "asn": "266765",
-    "country_code": "CL",
-    "name": "INTELCOM TELECOMUNICACIONES CHILE LTDA",
-    "org": "INTELCOM TELECOMUNICACIONES CHILE LTDA",
-    "domain": "intelcom.cl"
-  },
-  {
-    "network": "2803:f20:80::/41",
     "asn": "266765",
     "country_code": "CL",
     "name": "INTELCOM TELECOMUNICACIONES CHILE LTDA",
@@ -27464,30 +27464,6 @@
     "domain": "uc.cl"
   },
   {
-    "network": "2800:1b0::/32",
-    "asn": "20191",
-    "country_code": "CL",
-    "name": "Pontificia Universidad Catolica de Chile",
-    "org": "Pontificia Universidad Catolica de Chile",
-    "domain": "uc.cl"
-  },
-  {
-    "network": "2800:1b0:5000::/36",
-    "asn": "20191",
-    "country_code": "CL",
-    "name": "Pontificia Universidad Catolica de Chile",
-    "org": "Pontificia Universidad Catolica de Chile",
-    "domain": "uc.cl"
-  },
-  {
-    "network": "2800:1b0:6000::/36",
-    "asn": "20191",
-    "country_code": "CL",
-    "name": "Pontificia Universidad Catolica de Chile",
-    "org": "Pontificia Universidad Catolica de Chile",
-    "domain": "uc.cl"
-  },
-  {
     "network": "148.143.127.0/24",
     "asn": "271871",
     "country_code": "CL",
@@ -29865,6 +29841,14 @@
   },
   {
     "network": "190.96.59.0/24",
+    "asn": "18822",
+    "country_code": "CL",
+    "name": "Manquehuenet",
+    "org": "Manquehuenet",
+    "domain": "gtdmanquehue.com"
+  },
+  {
+    "network": "190.96.63.0/24",
     "asn": "18822",
     "country_code": "CL",
     "name": "Manquehuenet",
@@ -33793,6 +33777,14 @@
   },
   {
     "network": "190.171.188.0/24",
+    "asn": "16629",
+    "country_code": "CL",
+    "name": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
+    "org": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
+    "domain": "movistar.cl"
+  },
+  {
+    "network": "200.0.116.0/24",
     "asn": "16629",
     "country_code": "CL",
     "name": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
@@ -38385,6 +38377,14 @@
   },
   {
     "network": "200.27.97.0/24",
+    "asn": "6429",
+    "country_code": "CL",
+    "name": "Telmex Chile Internet S.A.",
+    "org": "Telmex Chile Internet S.A.",
+    "domain": "clarovtr.cl"
+  },
+  {
+    "network": "200.27.99.0/24",
     "asn": "6429",
     "country_code": "CL",
     "name": "Telmex Chile Internet S.A.",

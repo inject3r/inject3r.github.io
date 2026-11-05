@@ -906,7 +906,7 @@
     "country_name": "Liechtenstein"
   },
   {
-    "network": "135.136.18.18/31",
+    "network": "135.136.18.0/25",
     "continent_code": "EU",
     "country_code": "LI",
     "country_name": "Liechtenstein"
@@ -1075,6 +1075,12 @@
   },
   {
     "network": "162.120.215.193/32",
+    "continent_code": "EU",
+    "country_code": "LI",
+    "country_name": "Liechtenstein"
+  },
+  {
+    "network": "163.116.163.162/31",
     "continent_code": "EU",
     "country_code": "LI",
     "country_name": "Liechtenstein"

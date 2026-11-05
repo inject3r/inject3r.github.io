@@ -3472,6 +3472,14 @@
     "domain": "interlir.com"
   },
   {
+    "network": "37.235.204.0/24",
+    "asn": "207700",
+    "country_code": "CZ",
+    "name": "Reliable-Communications",
+    "org": "Reliable Communications s.r.o.",
+    "domain": "interlir.com"
+  },
+  {
     "network": "78.17.94.0/23",
     "asn": "207700",
     "country_code": "CZ",
@@ -8672,6 +8680,14 @@
     "domain": "wedos.com"
   },
   {
+    "network": "2a0e:acc0:ac46::/48",
+    "asn": "208414",
+    "country_code": "CZ",
+    "name": "WEDOS-GLOBAL",
+    "org": "WEDOS Internet, a.s.",
+    "domain": "wedos.com"
+  },
+  {
     "network": "2a0e:acc0:ac47::/48",
     "asn": "208414",
     "country_code": "CZ",
@@ -9664,23 +9680,7 @@
     "domain": "fibertelecom.cz"
   },
   {
-    "network": "2a10:24c0:6c2::/48",
-    "asn": "50833",
-    "country_code": "CZ",
-    "name": "FIBERTEL-AS",
-    "org": "FIBER TELECOM s.r.o.",
-    "domain": "fibertelecom.cz"
-  },
-  {
     "network": "2a10:24c0:ad1b::/48",
-    "asn": "50833",
-    "country_code": "CZ",
-    "name": "FIBERTEL-AS",
-    "org": "FIBER TELECOM s.r.o.",
-    "domain": "fibertelecom.cz"
-  },
-  {
-    "network": "2a10:24c0:ada1::/48",
     "asn": "50833",
     "country_code": "CZ",
     "name": "FIBERTEL-AS",
@@ -12576,6 +12576,14 @@
     "domain": "kubeone.cloud"
   },
   {
+    "network": "93.189.224.0/23",
+    "asn": "214032",
+    "country_code": "CZ",
+    "name": "KUBE1-CLOUD-AS",
+    "org": "BUDOVIT s.r.o",
+    "domain": "kubeone.cloud"
+  },
+  {
     "network": "2a01:8740:20::/48",
     "asn": "214032",
     "country_code": "CZ",
@@ -13800,14 +13808,6 @@
     "domain": "forpsi.com"
   },
   {
-    "network": "80.211.209.0/24",
-    "asn": "24806",
-    "country_code": "CZ",
-    "name": "INTERNET-CZ",
-    "org": "INTERNET CZ, a.s.",
-    "domain": "forpsi.com"
-  },
-  {
     "network": "81.2.192.0/18",
     "asn": "24806",
     "country_code": "CZ",
@@ -14897,14 +14897,6 @@
   },
   {
     "network": "86.54.11.0/24",
-    "asn": "198121",
-    "country_code": "CZ",
-    "name": "DNS4EU",
-    "org": "Whalebone, s.r.o.",
-    "domain": "whalebone.io"
-  },
-  {
-    "network": "2a13:1000:fff1::/48",
     "asn": "198121",
     "country_code": "CZ",
     "name": "DNS4EU",
@@ -18168,22 +18160,6 @@
     "domain": "strlcat.eu"
   },
   {
-    "network": "2602:fbec:2000::/44",
-    "asn": "197806",
-    "country_code": "CZ",
-    "name": "STRLCAT",
-    "org": "Andrei Rys",
-    "domain": "strlcat.eu"
-  },
-  {
-    "network": "2602:fbec:2010::/44",
-    "asn": "197806",
-    "country_code": "CZ",
-    "name": "STRLCAT",
-    "org": "Andrei Rys",
-    "domain": "strlcat.eu"
-  },
-  {
     "network": "2602:fbec:2040::/42",
     "asn": "197806",
     "country_code": "CZ",
@@ -18192,23 +18168,7 @@
     "domain": "strlcat.eu"
   },
   {
-    "network": "2a13:c8c4:2100::/42",
-    "asn": "197806",
-    "country_code": "CZ",
-    "name": "STRLCAT",
-    "org": "Andrei Rys",
-    "domain": "strlcat.eu"
-  },
-  {
-    "network": "2a13:c8c4:2140::/42",
-    "asn": "197806",
-    "country_code": "CZ",
-    "name": "STRLCAT",
-    "org": "Andrei Rys",
-    "domain": "strlcat.eu"
-  },
-  {
-    "network": "2a13:c8c4:21c0::/42",
+    "network": "2a13:c8c4:2100::/40",
     "asn": "197806",
     "country_code": "CZ",
     "name": "STRLCAT",
@@ -22537,14 +22497,6 @@
   },
   {
     "network": "185.156.36.0/22",
-    "asn": "202605",
-    "country_code": "CZ",
-    "name": "MORNet-CZ",
-    "org": "EMPECOM, s.r.o.",
-    "domain": "empecom.cz"
-  },
-  {
-    "network": "2a07:9a00::/29",
     "asn": "202605",
     "country_code": "CZ",
     "name": "MORNet-CZ",

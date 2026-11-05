@@ -5728,14 +5728,6 @@
     "domain": "black.host"
   },
   {
-    "network": "163.8.33.0/24",
-    "asn": "12989",
-    "country_code": "CA",
-    "name": "BlackHOST",
-    "org": "Black HOST Ltd",
-    "domain": "black.host"
-  },
-  {
     "network": "168.222.185.0/24",
     "asn": "12989",
     "country_code": "CA",
@@ -10161,6 +10153,14 @@
   },
   {
     "network": "88.216.99.0/24",
+    "asn": "62164",
+    "country_code": "CA",
+    "name": "HEYMMAN-2",
+    "org": "Heymman Servers Corporation",
+    "domain": "heymman.com"
+  },
+  {
+    "network": "96.62.217.0/24",
     "asn": "62164",
     "country_code": "CA",
     "name": "HEYMMAN-2",
@@ -17440,14 +17440,6 @@
     "domain": "indexexchange.com"
   },
   {
-    "network": "2a05:79c0:2::/48",
-    "asn": "27381",
-    "country_code": "CA",
-    "name": "CASALE-MEDIA",
-    "org": "Index Exchange Inc.",
-    "domain": "indexexchange.com"
-  },
-  {
     "network": "8.37.238.0/24",
     "asn": "54994",
     "country_code": "CA",
@@ -18433,6 +18425,14 @@
   },
   {
     "network": "101.79.168.0/24",
+    "asn": "54994",
+    "country_code": "CA",
+    "name": "ML-1432-54994",
+    "org": "Meteverse Limited.",
+    "domain": "meteversecloud.com"
+  },
+  {
+    "network": "101.79.169.0/24",
     "asn": "54994",
     "country_code": "CA",
     "name": "ML-1432-54994",
@@ -23153,6 +23153,30 @@
   },
   {
     "network": "153.43.201.0/24",
+    "asn": "54994",
+    "country_code": "CA",
+    "name": "ML-1432-54994",
+    "org": "Meteverse Limited.",
+    "domain": "meteversecloud.com"
+  },
+  {
+    "network": "153.43.202.0/24",
+    "asn": "54994",
+    "country_code": "CA",
+    "name": "ML-1432-54994",
+    "org": "Meteverse Limited.",
+    "domain": "meteversecloud.com"
+  },
+  {
+    "network": "153.43.203.0/24",
+    "asn": "54994",
+    "country_code": "CA",
+    "name": "ML-1432-54994",
+    "org": "Meteverse Limited.",
+    "domain": "meteversecloud.com"
+  },
+  {
+    "network": "153.43.204.0/24",
     "asn": "54994",
     "country_code": "CA",
     "name": "ML-1432-54994",
@@ -52480,6 +52504,14 @@
     "domain": "servermania.com"
   },
   {
+    "network": "2a0f:63c0::/29",
+    "asn": "55286",
+    "country_code": "CA",
+    "name": "SERVER-MANIA",
+    "org": "B2 Net Solutions Inc.",
+    "domain": "servermania.com"
+  },
+  {
     "network": "2a10:fa80:7000::/36",
     "asn": "55286",
     "country_code": "CA",
@@ -52488,7 +52520,7 @@
     "domain": "servermania.com"
   },
   {
-    "network": "2a13:bd40::/29",
+    "network": "2a14:4380::/29",
     "asn": "55286",
     "country_code": "CA",
     "name": "SERVER-MANIA",
@@ -55384,7 +55416,7 @@
     "domain": "astuteinternet.com"
   },
   {
-    "network": "104.37.72.0/23",
+    "network": "104.37.73.0/24",
     "asn": "63213",
     "country_code": "CA",
     "name": "ASTUTEHOSTING-VALUE",
@@ -69192,7 +69224,31 @@
     "domain": "speedfi.net"
   },
   {
-    "network": "204.154.24.0/22",
+    "network": "204.154.24.0/24",
+    "asn": "399226",
+    "country_code": "CA",
+    "name": "SPEEDFI",
+    "org": "SpeedFI Inc.",
+    "domain": "speedfi.net"
+  },
+  {
+    "network": "204.154.25.0/24",
+    "asn": "399226",
+    "country_code": "CA",
+    "name": "SPEEDFI",
+    "org": "SpeedFI Inc.",
+    "domain": "speedfi.net"
+  },
+  {
+    "network": "204.154.26.0/24",
+    "asn": "399226",
+    "country_code": "CA",
+    "name": "SPEEDFI",
+    "org": "SpeedFI Inc.",
+    "domain": "speedfi.net"
+  },
+  {
+    "network": "204.154.27.0/24",
     "asn": "399226",
     "country_code": "CA",
     "name": "SPEEDFI",
@@ -71181,7 +71237,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "23.155.129.0/24",
@@ -71189,7 +71245,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "23.155.130.0/24",
@@ -71197,7 +71253,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "23.155.131.0/24",
@@ -71205,7 +71261,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "45.59.96.0/22",
@@ -71213,7 +71269,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "104.247.100.0/22",
@@ -71221,7 +71277,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "136.175.68.0/22",
@@ -71229,7 +71285,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "163.182.228.0/22",
@@ -71237,7 +71293,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "163.182.232.0/22",
@@ -71245,7 +71301,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "163.182.236.0/22",
@@ -71253,7 +71309,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "163.182.240.0/22",
@@ -71261,7 +71317,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "163.182.247.0/24",
@@ -71269,7 +71325,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "163.182.248.0/22",
@@ -71277,7 +71333,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "163.182.252.0/22",
@@ -71285,7 +71341,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "2607:4980::/32",
@@ -71293,7 +71349,7 @@
     "country_code": "CA",
     "name": "AS-HCCL-7",
     "org": "Hay Communications Co-operative Limited",
-    "domain": "haymail.ca"
+    "domain": "hay.net"
   },
   {
     "network": "23.155.144.0/24",
@@ -112232,6 +112288,14 @@
     "domain": "shaw.ca"
   },
   {
+    "network": "2607:ffb0:3086::/48",
+    "asn": "6327",
+    "country_code": "CA",
+    "name": "SHAW",
+    "org": "Shaw Communications",
+    "domain": "shaw.ca"
+  },
+  {
     "network": "2607:ffb0:4002::/48",
     "asn": "6327",
     "country_code": "CA",
@@ -129144,6 +129208,22 @@
     "domain": "bell.ca"
   },
   {
+    "network": "207.164.170.0/24",
+    "asn": "577",
+    "country_code": "CA",
+    "name": "BACOM",
+    "org": "Bell Canada",
+    "domain": "bell.ca"
+  },
+  {
+    "network": "207.164.173.0/24",
+    "asn": "577",
+    "country_code": "CA",
+    "name": "BACOM",
+    "org": "Bell Canada",
+    "domain": "bell.ca"
+  },
+  {
     "network": "207.231.231.0/24",
     "asn": "577",
     "country_code": "CA",
@@ -129617,6 +129697,22 @@
   },
   {
     "network": "2605:b100:500::/41",
+    "asn": "577",
+    "country_code": "CA",
+    "name": "BACOM",
+    "org": "Bell Canada",
+    "domain": "bell.ca"
+  },
+  {
+    "network": "2605:b100:53a::/48",
+    "asn": "577",
+    "country_code": "CA",
+    "name": "BACOM",
+    "org": "Bell Canada",
+    "domain": "bell.ca"
+  },
+  {
+    "network": "2605:b100:53b::/48",
     "asn": "577",
     "country_code": "CA",
     "name": "BACOM",
@@ -135349,7 +135445,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.20.135.0/24",
@@ -135357,7 +135453,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.129.0/24",
@@ -135365,7 +135461,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.142.0/23",
@@ -135373,7 +135469,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.142.0/24",
@@ -135381,7 +135477,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.143.0/24",
@@ -135389,7 +135485,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.148.0/22",
@@ -135397,7 +135493,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.148.0/24",
@@ -135405,7 +135501,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.149.0/24",
@@ -135413,7 +135509,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.150.0/24",
@@ -135421,7 +135517,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.151.0/24",
@@ -135429,7 +135525,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.156.0/22",
@@ -135437,7 +135533,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.156.0/24",
@@ -135445,7 +135541,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.157.0/24",
@@ -135453,7 +135549,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.196.0/22",
@@ -135461,7 +135557,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.196.0/24",
@@ -135469,7 +135565,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.197.0/24",
@@ -135477,7 +135573,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.198.0/24",
@@ -135485,7 +135581,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.199.0/24",
@@ -135493,7 +135589,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.252.0/23",
@@ -135501,7 +135597,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.252.0/24",
@@ -135509,7 +135605,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.64.253.0/24",
@@ -135517,7 +135613,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.111.122.0/24",
@@ -135525,7 +135621,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.111.123.0/24",
@@ -135533,7 +135629,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.113.168.0/24",
@@ -135541,7 +135637,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.113.169.0/24",
@@ -135549,7 +135645,7 @@
     "country_code": "CA",
     "name": "MHT-ASN",
     "org": "Manitoba Hydro International LTD",
-    "domain": "hydro.mb.ca"
+    "domain": "mht.mb.ca"
   },
   {
     "network": "38.20.176.0/24",
@@ -141880,14 +141976,6 @@
     "domain": "netskrt.io"
   },
   {
-    "network": "2607:8240:2::/48",
-    "asn": "46265",
-    "country_code": "CA",
-    "name": "NETSKRTSYSTEMS-CANADA",
-    "org": "Netskrt",
-    "domain": "netskrt.io"
-  },
-  {
     "network": "2607:8240:101::/48",
     "asn": "46265",
     "country_code": "CA",
@@ -144501,7 +144589,7 @@
     "country_code": "CA",
     "name": "ALGONQUIN-FIBER",
     "org": "Algonquin Fiber Incorporated",
-    "domain": "telonix.ca"
+    "domain": ""
   },
   {
     "network": "38.192.128.0/22",
@@ -164213,7 +164301,7 @@
     "country_code": "CA",
     "name": "OESUS",
     "org": "OnX Enterprise Solutions (US) Ltd.",
-    "domain": "onx.com"
+    "domain": "cbts.com"
   },
   {
     "network": "64.130.214.0/24",
@@ -164221,7 +164309,7 @@
     "country_code": "CA",
     "name": "OESUS",
     "org": "OnX Enterprise Solutions (US) Ltd.",
-    "domain": "onx.com"
+    "domain": "cbts.com"
   },
   {
     "network": "64.130.216.0/24",
@@ -164229,7 +164317,7 @@
     "country_code": "CA",
     "name": "OESUS",
     "org": "OnX Enterprise Solutions (US) Ltd.",
-    "domain": "onx.com"
+    "domain": "cbts.com"
   },
   {
     "network": "64.130.217.0/24",
@@ -164237,7 +164325,7 @@
     "country_code": "CA",
     "name": "OESUS",
     "org": "OnX Enterprise Solutions (US) Ltd.",
-    "domain": "onx.com"
+    "domain": "cbts.com"
   },
   {
     "network": "64.141.12.0/24",
@@ -166869,7 +166957,7 @@
     "country_code": "CA",
     "name": "GATEWEST-AS",
     "org": "Gate West Communications Inc.",
-    "domain": "gatewest.net"
+    "domain": "provtel.com"
   },
   {
     "network": "64.201.179.0/24",
@@ -166877,7 +166965,7 @@
     "country_code": "CA",
     "name": "GATEWEST-AS",
     "org": "Gate West Communications Inc.",
-    "domain": "gatewest.net"
+    "domain": "provtel.com"
   },
   {
     "network": "64.201.180.0/24",
@@ -166885,7 +166973,7 @@
     "country_code": "CA",
     "name": "GATEWEST-AS",
     "org": "Gate West Communications Inc.",
-    "domain": "gatewest.net"
+    "domain": "provtel.com"
   },
   {
     "network": "198.163.227.0/24",
@@ -166893,7 +166981,7 @@
     "country_code": "CA",
     "name": "GATEWEST-AS",
     "org": "Gate West Communications Inc.",
-    "domain": "gatewest.net"
+    "domain": "provtel.com"
   },
   {
     "network": "64.202.144.0/20",
@@ -169598,6 +169686,14 @@
     "name": "SG-ASN",
     "org": "Supreme Group LP",
     "domain": "supremegroup.com"
+  },
+  {
+    "network": "66.85.252.0/23",
+    "asn": "63318",
+    "country_code": "CA",
+    "name": "INFOTEC-MANITOBA",
+    "org": "Infotec Manitoba",
+    "domain": "infotec.ca"
   },
   {
     "network": "66.85.252.0/24",
@@ -172857,22 +172953,6 @@
   },
   {
     "network": "207.164.73.0/24",
-    "asn": "36522",
-    "country_code": "CA",
-    "name": "BELLMOBILITY-1",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "207.164.170.0/24",
-    "asn": "36522",
-    "country_code": "CA",
-    "name": "BELLMOBILITY-1",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "207.164.173.0/24",
     "asn": "36522",
     "country_code": "CA",
     "name": "BELLMOBILITY-1",
@@ -177349,7 +177429,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.50.0/24",
@@ -177357,7 +177437,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.51.0/24",
@@ -177365,7 +177445,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.52.0/24",
@@ -177373,7 +177453,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.53.0/24",
@@ -177381,7 +177461,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.54.0/24",
@@ -177389,7 +177469,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.55.0/24",
@@ -177397,7 +177477,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.56.0/24",
@@ -177405,7 +177485,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.57.0/24",
@@ -177413,7 +177493,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.58.0/24",
@@ -177421,7 +177501,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.59.0/24",
@@ -177429,7 +177509,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.60.0/24",
@@ -177437,7 +177517,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.61.0/24",
@@ -177445,7 +177525,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "192.199.63.0/24",
@@ -177453,7 +177533,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d800::/32",
@@ -177461,7 +177541,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801::/44",
@@ -177469,7 +177549,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:10::/44",
@@ -177477,7 +177557,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:30::/44",
@@ -177485,7 +177565,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:50::/44",
@@ -177493,7 +177573,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:60::/44",
@@ -177501,7 +177581,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:70::/44",
@@ -177509,7 +177589,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:80::/44",
@@ -177517,7 +177597,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:90::/44",
@@ -177525,7 +177605,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:a0::/44",
@@ -177533,7 +177613,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:b0::/44",
@@ -177541,7 +177621,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:c0::/44",
@@ -177549,7 +177629,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:e0::/44",
@@ -177557,7 +177637,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:100::/44",
@@ -177565,7 +177645,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:140::/44",
@@ -177573,7 +177653,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:170::/44",
@@ -177581,7 +177661,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:190::/44",
@@ -177589,7 +177669,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "2600:d801:1b0::/44",
@@ -177597,7 +177677,7 @@
     "country_code": "CA",
     "name": "ARROW-TECHNOLOGY-GROUP",
     "org": "ATG Arrow Technology Group Limited Partnership",
-    "domain": "atg.net"
+    "domain": "vinedesign.ca"
   },
   {
     "network": "70.33.225.0/24",
@@ -183416,6 +183496,22 @@
     "domain": "haltonhealthcare.com"
   },
   {
+    "network": "99.214.136.0/24",
+    "asn": "402974",
+    "country_code": "CA",
+    "name": "SEHC-ON-11",
+    "org": "SE Health",
+    "domain": "sehc.com"
+  },
+  {
+    "network": "199.233.205.0/24",
+    "asn": "402974",
+    "country_code": "CA",
+    "name": "SEHC-ON-11",
+    "org": "SE Health",
+    "domain": "sehc.com"
+  },
+  {
     "network": "99.217.128.0/18",
     "asn": "15128",
     "country_code": "CA",
@@ -188904,14 +189000,6 @@
     "domain": "gozoom.ca"
   },
   {
-    "network": "104.245.67.0/24",
-    "asn": "21925",
-    "country_code": "CA",
-    "name": "RIM",
-    "org": "Reseau Internet Maskoutain",
-    "domain": "rimnet.ca"
-  },
-  {
     "network": "104.245.200.0/22",
     "asn": "63447",
     "country_code": "CA",
@@ -192717,7 +192805,7 @@
     "country_code": "CA",
     "name": "ARNET",
     "org": "Alberta Research Council",
-    "domain": "albertainnovates.ca"
+    "domain": "arc.ab.ca"
   },
   {
     "network": "128.189.16.0/20",
@@ -193902,6 +193990,54 @@
     "name": "QUEENSU-KINGSTON",
     "org": "Queen's University at Kingston",
     "domain": "queensu.ca"
+  },
+  {
+    "network": "130.51.72.0/24",
+    "asn": "7883",
+    "country_code": "CA",
+    "name": "FLEETTEL-AS02",
+    "org": "Fleettel INC.",
+    "domain": "fleetinfo.info"
+  },
+  {
+    "network": "130.51.73.0/24",
+    "asn": "7883",
+    "country_code": "CA",
+    "name": "FLEETTEL-AS02",
+    "org": "Fleettel INC.",
+    "domain": "fleetinfo.info"
+  },
+  {
+    "network": "130.51.74.0/24",
+    "asn": "7883",
+    "country_code": "CA",
+    "name": "FLEETTEL-AS02",
+    "org": "Fleettel INC.",
+    "domain": "fleetinfo.info"
+  },
+  {
+    "network": "130.51.75.0/24",
+    "asn": "7883",
+    "country_code": "CA",
+    "name": "FLEETTEL-AS02",
+    "org": "Fleettel INC.",
+    "domain": "fleetinfo.info"
+  },
+  {
+    "network": "165.140.102.0/24",
+    "asn": "7883",
+    "country_code": "CA",
+    "name": "FLEETTEL-AS02",
+    "org": "Fleettel INC.",
+    "domain": "fleetinfo.info"
+  },
+  {
+    "network": "199.119.72.0/24",
+    "asn": "7883",
+    "country_code": "CA",
+    "name": "FLEETTEL-AS02",
+    "org": "Fleettel INC.",
+    "domain": "fleetinfo.info"
   },
   {
     "network": "130.51.184.0/22",
@@ -197937,6 +198073,14 @@
   },
   {
     "network": "142.19.108.0/22",
+    "asn": "398833",
+    "country_code": "CA",
+    "name": "BIS-BOMBARDIER-INFORMATION-SOLUTIONS-PUBLIC-ASN-01",
+    "org": "Bombardier Inc.",
+    "domain": "bombardier.com"
+  },
+  {
+    "network": "142.19.112.0/24",
     "asn": "398833",
     "country_code": "CA",
     "name": "BIS-BOMBARDIER-INFORMATION-SOLUTIONS-PUBLIC-ASN-01",
@@ -205757,7 +205901,7 @@
     "country_code": "CA",
     "name": "GLA-EU1",
     "org": "The Great-West Life Assurance Company",
-    "domain": "gwl.ca"
+    "domain": "canadalife.com"
   },
   {
     "network": "156.11.242.0/23",
@@ -205765,7 +205909,7 @@
     "country_code": "CA",
     "name": "GLA-EU1",
     "org": "The Great-West Life Assurance Company",
-    "domain": "gwl.ca"
+    "domain": "canadalife.com"
   },
   {
     "network": "156.11.244.0/23",
@@ -205773,7 +205917,7 @@
     "country_code": "CA",
     "name": "GLA-EU1",
     "org": "The Great-West Life Assurance Company",
-    "domain": "gwl.ca"
+    "domain": "canadalife.com"
   },
   {
     "network": "156.44.32.0/24",
@@ -210112,22 +210256,6 @@
     "domain": "exoon.ca"
   },
   {
-    "network": "165.140.102.0/24",
-    "asn": "7883",
-    "country_code": "CA",
-    "name": "FLEETTEL-AS02",
-    "org": "Fleettel INC.",
-    "domain": "fleetinfo.info"
-  },
-  {
-    "network": "199.119.72.0/24",
-    "asn": "7883",
-    "country_code": "CA",
-    "name": "FLEETTEL-AS02",
-    "org": "Fleettel INC.",
-    "domain": "fleetinfo.info"
-  },
-  {
     "network": "166.88.20.0/24",
     "asn": "397441",
     "country_code": "CA",
@@ -210493,7 +210621,7 @@
     "country_code": "CA",
     "name": "FIBERSPEED",
     "org": "FiberSpeed",
-    "domain": "fiberspeed.ca"
+    "domain": "eurotv.ca"
   },
   {
     "network": "170.39.33.0/24",
@@ -210501,7 +210629,7 @@
     "country_code": "CA",
     "name": "FIBERSPEED",
     "org": "FiberSpeed",
-    "domain": "fiberspeed.ca"
+    "domain": "eurotv.ca"
   },
   {
     "network": "170.39.34.0/24",
@@ -210509,7 +210637,7 @@
     "country_code": "CA",
     "name": "FIBERSPEED",
     "org": "FiberSpeed",
-    "domain": "fiberspeed.ca"
+    "domain": "eurotv.ca"
   },
   {
     "network": "170.39.35.0/24",
@@ -210517,7 +210645,7 @@
     "country_code": "CA",
     "name": "FIBERSPEED",
     "org": "FiberSpeed",
-    "domain": "fiberspeed.ca"
+    "domain": "eurotv.ca"
   },
   {
     "network": "172.81.0.0/24",
@@ -210525,7 +210653,7 @@
     "country_code": "CA",
     "name": "FIBERSPEED",
     "org": "FiberSpeed",
-    "domain": "fiberspeed.ca"
+    "domain": "eurotv.ca"
   },
   {
     "network": "172.81.1.0/24",
@@ -210533,7 +210661,7 @@
     "country_code": "CA",
     "name": "FIBERSPEED",
     "org": "FiberSpeed",
-    "domain": "fiberspeed.ca"
+    "domain": "eurotv.ca"
   },
   {
     "network": "172.81.2.0/24",
@@ -210541,7 +210669,7 @@
     "country_code": "CA",
     "name": "FIBERSPEED",
     "org": "FiberSpeed",
-    "domain": "fiberspeed.ca"
+    "domain": "eurotv.ca"
   },
   {
     "network": "172.81.3.0/24",
@@ -210549,7 +210677,7 @@
     "country_code": "CA",
     "name": "FIBERSPEED",
     "org": "FiberSpeed",
-    "domain": "fiberspeed.ca"
+    "domain": "eurotv.ca"
   },
   {
     "network": "170.39.48.0/24",
@@ -212065,6 +212193,14 @@
   },
   {
     "network": "185.155.75.0/24",
+    "asn": "49867",
+    "country_code": "CA",
+    "name": "SUISEI-AS-AP",
+    "org": "Shuji Ito",
+    "domain": "sccsn.jp"
+  },
+  {
+    "network": "2602:f9ba:a9::/48",
     "asn": "49867",
     "country_code": "CA",
     "name": "SUISEI-AS-AP",
@@ -213894,6 +214030,14 @@
     "name": "OAHPP",
     "org": "Ontario Agency for Health Protection and Promotion",
     "domain": "oahpp.ca"
+  },
+  {
+    "network": "192.119.160.0/24",
+    "asn": "402620",
+    "country_code": "CA",
+    "name": "NIMBUS-LIMIETED",
+    "org": "Nimbus Limited.",
+    "domain": "nimbus-limited.com"
   },
   {
     "network": "192.131.109.0/24",
@@ -216648,14 +216792,6 @@
     "domain": "jw.org"
   },
   {
-    "network": "2803:5ce0:d00::/40",
-    "asn": "54235",
-    "country_code": "CA",
-    "name": "WTBTSC-AS",
-    "org": "Watch Tower Bible and Tract Society of Canada",
-    "domain": "jw.org"
-  },
-  {
     "network": "2803:5ce0:e00::/40",
     "asn": "54235",
     "country_code": "CA",
@@ -217309,7 +217445,7 @@
     "country_code": "CA",
     "name": "MHI-LTD",
     "org": "Manitoba Hydro International LTD",
-    "domain": "mht.mb.ca"
+    "domain": "hydro.mb.ca"
   },
   {
     "network": "198.163.221.0/24",
@@ -219837,7 +219973,7 @@
     "country_code": "CA",
     "name": "AIRNET-01",
     "org": "Airnet Wireless Inc.",
-    "domain": "nexwire.ca"
+    "domain": "airnet.ca"
   },
   {
     "network": "206.220.188.0/22",
@@ -219845,7 +219981,7 @@
     "country_code": "CA",
     "name": "AIRNET-01",
     "org": "Airnet Wireless Inc.",
-    "domain": "nexwire.ca"
+    "domain": "airnet.ca"
   },
   {
     "network": "199.188.32.0/24",
@@ -220414,14 +220550,6 @@
     "name": "QUEBECINTERNET",
     "org": "Quebec Internet Inc",
     "domain": "quebecinternet.com"
-  },
-  {
-    "network": "199.233.205.0/24",
-    "asn": "402974",
-    "country_code": "CA",
-    "name": "SEHC-ON-11",
-    "org": "SE Health",
-    "domain": "sehc.com"
   },
   {
     "network": "199.241.160.0/21",
@@ -224136,6 +224264,14 @@
     "domain": "datahive.ca"
   },
   {
+    "network": "216.171.228.0/24",
+    "asn": "18638",
+    "country_code": "CA",
+    "name": "DHDC-CA",
+    "org": "Datahive.ca",
+    "domain": "datahive.ca"
+  },
+  {
     "network": "216.176.42.0/24",
     "asn": "401938",
     "country_code": "CA",
@@ -224269,7 +224405,7 @@
     "country_code": "CA",
     "name": "MMB-ASN-01",
     "org": "MMB Networks",
-    "domain": "mmbresearch.com"
+    "domain": "mmbnetworks.com"
   },
   {
     "network": "2602:816:4000::/48",
@@ -224277,7 +224413,7 @@
     "country_code": "CA",
     "name": "MMB-ASN-01",
     "org": "MMB Networks",
-    "domain": "mmbresearch.com"
+    "domain": "mmbnetworks.com"
   },
   {
     "network": "2602:81d::/48",
@@ -224566,6 +224702,14 @@
     "name": "AS-DEVICOM",
     "org": "Devicom Inc.",
     "domain": "devicom.com"
+  },
+  {
+    "network": "2620:7e:90a0::/48",
+    "asn": "403152",
+    "country_code": "CA",
+    "name": "ACORN-NET",
+    "org": "Acorn Data Solutions Inc.",
+    "domain": "protonmail.com"
   },
   {
     "network": "2620:137:a001::/48",
