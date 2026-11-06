@@ -6560,6 +6560,14 @@
     "domain": "ipserverone.com"
   },
   {
+    "network": "14.192.65.0/24",
+    "asn": "45352",
+    "country_code": "MY",
+    "name": "IPSERVERONE-AS-AP",
+    "org": "IP ServerOne Solutions Sdn Bhd",
+    "domain": "ipserverone.com"
+  },
+  {
     "network": "14.192.66.0/24",
     "asn": "45352",
     "country_code": "MY",
@@ -8952,14 +8960,6 @@
     "domain": "evoxt.com"
   },
   {
-    "network": "23.27.97.0/24",
-    "asn": "149440",
-    "country_code": "MY",
-    "name": "EVOXTSDNBHD-AS-AP",
-    "org": "Evoxt Sdn. Bhd.",
-    "domain": "evoxt.com"
-  },
-  {
     "network": "23.27.98.0/24",
     "asn": "149440",
     "country_code": "MY",
@@ -10289,6 +10289,14 @@
   },
   {
     "network": "2400:8d60:11::/48",
+    "asn": "149440",
+    "country_code": "MY",
+    "name": "EVOXTSDNBHD-AS-AP",
+    "org": "Evoxt Sdn. Bhd.",
+    "domain": "evoxt.com"
+  },
+  {
+    "network": "2400:8d60:12::/48",
     "asn": "149440",
     "country_code": "MY",
     "name": "EVOXTSDNBHD-AS-AP",
@@ -16192,14 +16200,6 @@
     "domain": "greatforti.com"
   },
   {
-    "network": "2402:4ba0::/48",
-    "asn": "133847",
-    "country_code": "MY",
-    "name": "ICT-AS-AP",
-    "org": "Anpple Tech Enterprise",
-    "domain": "greatforti.com"
-  },
-  {
     "network": "43.225.39.0/24",
     "asn": "134202",
     "country_code": "MY",
@@ -17049,14 +17049,6 @@
   },
   {
     "network": "203.115.192.0/19",
-    "asn": "10204",
-    "country_code": "MY",
-    "name": "ARCNET-NTTMSC-MY",
-    "org": "NTT MSC Sdn Bhd",
-    "domain": "global.ntt"
-  },
-  {
-    "network": "203.115.192.0/20",
     "asn": "10204",
     "country_code": "MY",
     "name": "ARCNET-NTTMSC-MY",
@@ -25032,14 +25024,6 @@
     "domain": "svr4u.com"
   },
   {
-    "network": "2a13:c8c3:e8fe::/48",
-    "asn": "219206",
-    "country_code": "MY",
-    "name": "SVR4U-AS",
-    "org": "BRANDON MAXWELL LOOI",
-    "domain": "svr4u.com"
-  },
-  {
     "network": "102.204.222.0/24",
     "asn": "139923",
     "country_code": "MY",
@@ -32401,78 +32385,6 @@
   },
   {
     "network": "2401:b780::/32",
-    "asn": "45410",
-    "country_code": "MY",
-    "name": "ALLOTECH-AS-MY",
-    "org": "ALLO TECHNOLOGY SDN. BHD.",
-    "domain": "allo.my"
-  },
-  {
-    "network": "2401:b780:68::/48",
-    "asn": "45410",
-    "country_code": "MY",
-    "name": "ALLOTECH-AS-MY",
-    "org": "ALLO TECHNOLOGY SDN. BHD.",
-    "domain": "allo.my"
-  },
-  {
-    "network": "2401:b780:69::/48",
-    "asn": "45410",
-    "country_code": "MY",
-    "name": "ALLOTECH-AS-MY",
-    "org": "ALLO TECHNOLOGY SDN. BHD.",
-    "domain": "allo.my"
-  },
-  {
-    "network": "2401:b780:2000::/48",
-    "asn": "45410",
-    "country_code": "MY",
-    "name": "ALLOTECH-AS-MY",
-    "org": "ALLO TECHNOLOGY SDN. BHD.",
-    "domain": "allo.my"
-  },
-  {
-    "network": "2401:b780:5000::/48",
-    "asn": "45410",
-    "country_code": "MY",
-    "name": "ALLOTECH-AS-MY",
-    "org": "ALLO TECHNOLOGY SDN. BHD.",
-    "domain": "allo.my"
-  },
-  {
-    "network": "2401:b780:5002::/48",
-    "asn": "45410",
-    "country_code": "MY",
-    "name": "ALLOTECH-AS-MY",
-    "org": "ALLO TECHNOLOGY SDN. BHD.",
-    "domain": "allo.my"
-  },
-  {
-    "network": "2401:b780:5003::/48",
-    "asn": "45410",
-    "country_code": "MY",
-    "name": "ALLOTECH-AS-MY",
-    "org": "ALLO TECHNOLOGY SDN. BHD.",
-    "domain": "allo.my"
-  },
-  {
-    "network": "2401:b780:5010::/48",
-    "asn": "45410",
-    "country_code": "MY",
-    "name": "ALLOTECH-AS-MY",
-    "org": "ALLO TECHNOLOGY SDN. BHD.",
-    "domain": "allo.my"
-  },
-  {
-    "network": "2401:b780:5011::/48",
-    "asn": "45410",
-    "country_code": "MY",
-    "name": "ALLOTECH-AS-MY",
-    "org": "ALLO TECHNOLOGY SDN. BHD.",
-    "domain": "allo.my"
-  },
-  {
-    "network": "2401:b780:5012::/48",
     "asn": "45410",
     "country_code": "MY",
     "name": "ALLOTECH-AS-MY",

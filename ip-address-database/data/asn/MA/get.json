@@ -2448,7 +2448,7 @@
     "domain": "orange.ma"
   },
   {
-    "network": "2c0e:6080::/40",
+    "network": "2c0e:6080::/42",
     "asn": "36925",
     "country_code": "MA",
     "name": "ASMedi",
@@ -2456,7 +2456,7 @@
     "domain": "orange.ma"
   },
   {
-    "network": "2c0e:6080:1000::/40",
+    "network": "2c0e:6080:1000::/42",
     "asn": "36925",
     "country_code": "MA",
     "name": "ASMedi",
@@ -2464,7 +2464,31 @@
     "domain": "orange.ma"
   },
   {
-    "network": "2c0e:6084::/40",
+    "network": "2c0e:6080:2000::/36",
+    "asn": "36925",
+    "country_code": "MA",
+    "name": "ASMedi",
+    "org": "MEDITELECOM",
+    "domain": "orange.ma"
+  },
+  {
+    "network": "2c0e:6080:3000::/36",
+    "asn": "36925",
+    "country_code": "MA",
+    "name": "ASMedi",
+    "org": "MEDITELECOM",
+    "domain": "orange.ma"
+  },
+  {
+    "network": "2c0e:6084::/42",
+    "asn": "36925",
+    "country_code": "MA",
+    "name": "ASMedi",
+    "org": "MEDITELECOM",
+    "domain": "orange.ma"
+  },
+  {
+    "network": "2c0e:6084:1000::/42",
     "asn": "36925",
     "country_code": "MA",
     "name": "ASMedi",

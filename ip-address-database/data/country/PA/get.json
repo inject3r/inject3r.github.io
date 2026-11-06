@@ -1344,7 +1344,7 @@
     "country_name": "Panama"
   },
   {
-    "network": "82.23.186.0/23",
+    "network": "82.23.186.0/24",
     "continent_code": "NA",
     "country_code": "PA",
     "country_name": "Panama"
@@ -1566,13 +1566,13 @@
     "country_name": "Panama"
   },
   {
-    "network": "89.187.14.0/23",
+    "network": "89.187.14.0/24",
     "continent_code": "NA",
     "country_code": "PA",
     "country_name": "Panama"
   },
   {
-    "network": "89.187.18.0/23",
+    "network": "89.187.18.0/24",
     "continent_code": "NA",
     "country_code": "PA",
     "country_name": "Panama"
@@ -1669,12 +1669,6 @@
   },
   {
     "network": "92.249.38.0/24",
-    "continent_code": "NA",
-    "country_code": "PA",
-    "country_name": "Panama"
-  },
-  {
-    "network": "93.127.152.0/22",
     "continent_code": "NA",
     "country_code": "PA",
     "country_name": "Panama"
@@ -2940,6 +2934,12 @@
     "country_name": "Panama"
   },
   {
+    "network": "172.216.32.0/20",
+    "continent_code": "NA",
+    "country_code": "PA",
+    "country_name": "Panama"
+  },
+  {
     "network": "172.216.50.64/26",
     "continent_code": "NA",
     "country_code": "PA",
@@ -4104,7 +4104,49 @@
     "country_name": "Panama"
   },
   {
-    "network": "190.9.32.0/20",
+    "network": "190.9.32.128/25",
+    "continent_code": "NA",
+    "country_code": "PA",
+    "country_name": "Panama"
+  },
+  {
+    "network": "190.9.33.0/24",
+    "continent_code": "NA",
+    "country_code": "PA",
+    "country_name": "Panama"
+  },
+  {
+    "network": "190.9.34.0/23",
+    "continent_code": "NA",
+    "country_code": "PA",
+    "country_name": "Panama"
+  },
+  {
+    "network": "190.9.36.0/23",
+    "continent_code": "NA",
+    "country_code": "PA",
+    "country_name": "Panama"
+  },
+  {
+    "network": "190.9.38.0/26",
+    "continent_code": "NA",
+    "country_code": "PA",
+    "country_name": "Panama"
+  },
+  {
+    "network": "190.9.38.96/27",
+    "continent_code": "NA",
+    "country_code": "PA",
+    "country_name": "Panama"
+  },
+  {
+    "network": "190.9.39.0/24",
+    "continent_code": "NA",
+    "country_code": "PA",
+    "country_name": "Panama"
+  },
+  {
+    "network": "190.9.40.0/21",
     "continent_code": "NA",
     "country_code": "PA",
     "country_name": "Panama"
@@ -4243,6 +4285,12 @@
   },
   {
     "network": "190.61.124.0/22",
+    "continent_code": "NA",
+    "country_code": "PA",
+    "country_name": "Panama"
+  },
+  {
+    "network": "190.61.164.0/22",
     "continent_code": "NA",
     "country_code": "PA",
     "country_name": "Panama"

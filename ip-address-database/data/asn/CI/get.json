@@ -9464,7 +9464,7 @@
     "domain": "mtn.com"
   },
   {
-    "network": "154.232.16.0/21",
+    "network": "154.232.0.0/16",
     "asn": "36974",
     "country_code": "CI",
     "name": "MTNCI-AS",
@@ -9472,7 +9472,7 @@
     "domain": "mtn.com"
   },
   {
-    "network": "154.232.24.0/23",
+    "network": "154.233.0.0/16",
     "asn": "36974",
     "country_code": "CI",
     "name": "MTNCI-AS",
@@ -10857,14 +10857,6 @@
   },
   {
     "network": "154.73.103.0/24",
-    "asn": "327746",
-    "country_code": "CI",
-    "name": "DATACONNECT-AS",
-    "org": "DATACONNECT COTE D'IVOIRE",
-    "domain": "dataconnect.africa"
-  },
-  {
-    "network": "2c0f:e800::/32",
     "asn": "327746",
     "country_code": "CI",
     "name": "DATACONNECT-AS",
