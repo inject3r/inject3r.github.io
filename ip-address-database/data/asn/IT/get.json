@@ -13064,14 +13064,6 @@
     "domain": "opnet.it"
   },
   {
-    "network": "51.179.16.0/20",
-    "asn": "198471",
-    "country_code": "IT",
-    "name": "OPNET-AS",
-    "org": "Opnet Srl",
-    "domain": "opnet.it"
-  },
-  {
     "network": "51.179.32.0/24",
     "asn": "198471",
     "country_code": "IT",
@@ -17105,6 +17097,14 @@
   },
   {
     "network": "95.210.61.0/24",
+    "asn": "29286",
+    "country_code": "IT",
+    "name": "SKYLOGIC-AS",
+    "org": "SKYLOGIC S.P.A.",
+    "domain": "skylogic.it"
+  },
+  {
+    "network": "95.210.63.0/24",
     "asn": "29286",
     "country_code": "IT",
     "name": "SKYLOGIC-AS",
@@ -21448,14 +21448,6 @@
     "domain": "reevo.cloud"
   },
   {
-    "network": "151.1.68.0/24",
-    "asn": "3242",
-    "country_code": "IT",
-    "name": "ASN-ITNET",
-    "org": "REEVO S.P.A.",
-    "domain": "reevo.cloud"
-  },
-  {
     "network": "151.1.72.0/24",
     "asn": "3242",
     "country_code": "IT",
@@ -24912,14 +24904,6 @@
     "domain": "timenet.it"
   },
   {
-    "network": "89.105.78.0/24",
-    "asn": "51580",
-    "country_code": "IT",
-    "name": "TIMENET-AS",
-    "org": "TIMENET SPA",
-    "domain": "timenet.it"
-  },
-  {
     "network": "91.220.83.0/24",
     "asn": "51580",
     "country_code": "IT",
@@ -25680,39 +25664,7 @@
     "domain": "springo.it"
   },
   {
-    "network": "5.180.168.0/23",
-    "asn": "209137",
-    "country_code": "IT",
-    "name": "Springo",
-    "org": "Springo Srl",
-    "domain": "springo.it"
-  },
-  {
-    "network": "5.180.170.0/23",
-    "asn": "209137",
-    "country_code": "IT",
-    "name": "Springo",
-    "org": "Springo Srl",
-    "domain": "springo.it"
-  },
-  {
     "network": "185.170.136.0/22",
-    "asn": "209137",
-    "country_code": "IT",
-    "name": "Springo",
-    "org": "Springo Srl",
-    "domain": "springo.it"
-  },
-  {
-    "network": "185.170.136.0/23",
-    "asn": "209137",
-    "country_code": "IT",
-    "name": "Springo",
-    "org": "Springo Srl",
-    "domain": "springo.it"
-  },
-  {
-    "network": "185.170.138.0/23",
     "asn": "209137",
     "country_code": "IT",
     "name": "Springo",
@@ -27846,22 +27798,6 @@
     "name": "Gabriele-Sabatino",
     "org": "Gabriele Sabatino",
     "domain": "as198180.net"
-  },
-  {
-    "network": "13.143.171.0/24",
-    "asn": "219336",
-    "country_code": "IT",
-    "name": "popsuiko-AS",
-    "org": "Olha Popsuiko",
-    "domain": "asn219336.xyz"
-  },
-  {
-    "network": "2a0d:d940:2019::/48",
-    "asn": "219336",
-    "country_code": "IT",
-    "name": "popsuiko-AS",
-    "org": "Olha Popsuiko",
-    "domain": "asn219336.xyz"
   },
   {
     "network": "31.6.80.0/20",
@@ -30337,14 +30273,6 @@
   },
   {
     "network": "89.36.204.0/24",
-    "asn": "48544",
-    "country_code": "IT",
-    "name": "TECNOADSL-AS",
-    "org": "Tecnotel Servizi Tecnologici srl",
-    "domain": "tecnoadsl.it"
-  },
-  {
-    "network": "89.36.205.0/24",
     "asn": "48544",
     "country_code": "IT",
     "name": "TECNOADSL-AS",
@@ -45880,6 +45808,14 @@
     "domain": "panservice.it"
   },
   {
+    "network": "212.66.118.0/23",
+    "asn": "20912",
+    "country_code": "IT",
+    "name": "ASN-PANSERVICE",
+    "org": "Giuliano Claudio Peritore trading as \"Panservice s.a.s. di Cuseo Fabrizio & C.\"",
+    "domain": "panservice.it"
+  },
+  {
     "network": "212.66.118.0/24",
     "asn": "20912",
     "country_code": "IT",
@@ -45929,6 +45865,14 @@
   },
   {
     "network": "212.66.122.0/24",
+    "asn": "20912",
+    "country_code": "IT",
+    "name": "ASN-PANSERVICE",
+    "org": "Giuliano Claudio Peritore trading as \"Panservice s.a.s. di Cuseo Fabrizio & C.\"",
+    "domain": "panservice.it"
+  },
+  {
+    "network": "212.66.123.0/24",
     "asn": "20912",
     "country_code": "IT",
     "name": "ASN-PANSERVICE",
@@ -54697,6 +54641,14 @@
   },
   {
     "network": "83.220.0.0/21",
+    "asn": "49215",
+    "country_code": "IT",
+    "name": "BURGO-AS",
+    "org": "Burgo Group S.p.A",
+    "domain": "mens.it"
+  },
+  {
+    "network": "83.220.9.0/24",
     "asn": "49215",
     "country_code": "IT",
     "name": "BURGO-AS",
@@ -76320,6 +76272,14 @@
     "domain": "dangelo.mobi"
   },
   {
+    "network": "2406:840:eeb2::/48",
+    "asn": "208753",
+    "country_code": "IT",
+    "name": "NETSIX",
+    "org": "Marco d'Angelo",
+    "domain": "dangelo.mobi"
+  },
+  {
     "network": "2a05:b0c6:200a::/48",
     "asn": "208753",
     "country_code": "IT",
@@ -76441,6 +76401,14 @@
   },
   {
     "network": "2a0e:b107:384::/48",
+    "asn": "208753",
+    "country_code": "IT",
+    "name": "NETSIX",
+    "org": "Marco d'Angelo",
+    "domain": "dangelo.mobi"
+  },
+  {
+    "network": "2a0f:1cc5:61::/48",
     "asn": "208753",
     "country_code": "IT",
     "name": "NETSIX",
@@ -76633,6 +76601,14 @@
   },
   {
     "network": "212.94.128.0/23",
+    "asn": "25301",
+    "country_code": "IT",
+    "name": "WINDNET-AS",
+    "org": "Sr Net S.R.L.",
+    "domain": "windnet.it"
+  },
+  {
+    "network": "212.94.130.0/23",
     "asn": "25301",
     "country_code": "IT",
     "name": "WINDNET-AS",
@@ -78216,14 +78192,6 @@
     "domain": "dispaisy.systems"
   },
   {
-    "network": "2a14:67c3:1b2::/48",
-    "asn": "204085",
-    "country_code": "IT",
-    "name": "DISPAISY-AS2",
-    "org": "Adam Grazioli",
-    "domain": "dispaisy.systems"
-  },
-  {
     "network": "2a14:7583:e111::/48",
     "asn": "204085",
     "country_code": "IT",
@@ -78233,14 +78201,6 @@
   },
   {
     "network": "2a06:a002:153::/48",
-    "asn": "215760",
-    "country_code": "IT",
-    "name": "DISPAISY-AS",
-    "org": "Adam Grazioli",
-    "domain": "dispaisy.systems"
-  },
-  {
-    "network": "2a06:a002:a010::/44",
     "asn": "215760",
     "country_code": "IT",
     "name": "DISPAISY-AS",
@@ -78430,6 +78390,14 @@
     "name": "DanieleFerrara",
     "org": "Daniele Ferrara",
     "domain": "gbclionishop.com"
+  },
+  {
+    "network": "2a0d:d940:2019::/48",
+    "asn": "219336",
+    "country_code": "IT",
+    "name": "popsuiko-AS",
+    "org": "Olha Popsuiko",
+    "domain": "asn219336.xyz"
   },
   {
     "network": "2a0e:8f02:21d0::/44",

@@ -9656,14 +9656,6 @@
     "domain": "tedata.net"
   },
   {
-    "network": "154.176.12.0/22",
-    "asn": "8452",
-    "country_code": "EG",
-    "name": "TE-AS",
-    "org": "TE-AS",
-    "domain": "tedata.net"
-  },
-  {
     "network": "154.176.16.0/22",
     "asn": "8452",
     "country_code": "EG",
@@ -9697,6 +9689,14 @@
   },
   {
     "network": "154.176.32.0/19",
+    "asn": "8452",
+    "country_code": "EG",
+    "name": "TE-AS",
+    "org": "TE-AS",
+    "domain": "tedata.net"
+  },
+  {
+    "network": "154.176.64.0/18",
     "asn": "8452",
     "country_code": "EG",
     "name": "TE-AS",
@@ -11640,7 +11640,31 @@
     "domain": "tedata.net"
   },
   {
-    "network": "156.213.128.0/17",
+    "network": "156.213.128.0/19",
+    "asn": "8452",
+    "country_code": "EG",
+    "name": "TE-AS",
+    "org": "TE-AS",
+    "domain": "tedata.net"
+  },
+  {
+    "network": "156.213.160.0/19",
+    "asn": "8452",
+    "country_code": "EG",
+    "name": "TE-AS",
+    "org": "TE-AS",
+    "domain": "tedata.net"
+  },
+  {
+    "network": "156.213.192.0/19",
+    "asn": "8452",
+    "country_code": "EG",
+    "name": "TE-AS",
+    "org": "TE-AS",
+    "domain": "tedata.net"
+  },
+  {
+    "network": "156.213.224.0/19",
     "asn": "8452",
     "country_code": "EG",
     "name": "TE-AS",
@@ -13160,7 +13184,15 @@
     "domain": "tedata.net"
   },
   {
-    "network": "197.52.128.0/17",
+    "network": "197.52.128.0/18",
+    "asn": "8452",
+    "country_code": "EG",
+    "name": "TE-AS",
+    "org": "TE-AS",
+    "domain": "tedata.net"
+  },
+  {
+    "network": "197.52.192.0/18",
     "asn": "8452",
     "country_code": "EG",
     "name": "TE-AS",
@@ -13673,38 +13705,6 @@
   },
   {
     "network": "197.60.224.0/19",
-    "asn": "8452",
-    "country_code": "EG",
-    "name": "TE-AS",
-    "org": "TE-AS",
-    "domain": "tedata.net"
-  },
-  {
-    "network": "197.61.0.0/18",
-    "asn": "8452",
-    "country_code": "EG",
-    "name": "TE-AS",
-    "org": "TE-AS",
-    "domain": "tedata.net"
-  },
-  {
-    "network": "197.61.64.0/18",
-    "asn": "8452",
-    "country_code": "EG",
-    "name": "TE-AS",
-    "org": "TE-AS",
-    "domain": "tedata.net"
-  },
-  {
-    "network": "197.61.128.0/18",
-    "asn": "8452",
-    "country_code": "EG",
-    "name": "TE-AS",
-    "org": "TE-AS",
-    "domain": "tedata.net"
-  },
-  {
-    "network": "197.61.192.0/18",
     "asn": "8452",
     "country_code": "EG",
     "name": "TE-AS",
@@ -17840,14 +17840,6 @@
     "domain": "etisalat.com"
   },
   {
-    "network": "80.75.161.0/24",
-    "asn": "36992",
-    "country_code": "EG",
-    "name": "ETISALAT-MISR",
-    "org": "ETISALAT MISR",
-    "domain": "etisalat.com"
-  },
-  {
     "network": "80.75.164.0/24",
     "asn": "36992",
     "country_code": "EG",
@@ -17872,14 +17864,6 @@
     "domain": "etisalat.com"
   },
   {
-    "network": "80.75.167.0/24",
-    "asn": "36992",
-    "country_code": "EG",
-    "name": "ETISALAT-MISR",
-    "org": "ETISALAT MISR",
-    "domain": "etisalat.com"
-  },
-  {
     "network": "80.75.168.0/24",
     "asn": "36992",
     "country_code": "EG",
@@ -17897,14 +17881,6 @@
   },
   {
     "network": "80.75.171.0/24",
-    "asn": "36992",
-    "country_code": "EG",
-    "name": "ETISALAT-MISR",
-    "org": "ETISALAT MISR",
-    "domain": "etisalat.com"
-  },
-  {
-    "network": "80.75.172.0/24",
     "asn": "36992",
     "country_code": "EG",
     "name": "ETISALAT-MISR",
@@ -26921,14 +26897,6 @@
   },
   {
     "network": "213.152.83.0/24",
-    "asn": "36992",
-    "country_code": "EG",
-    "name": "ETISALAT-MISR",
-    "org": "ETISALAT MISR",
-    "domain": "etisalat.com"
-  },
-  {
-    "network": "213.152.85.0/24",
     "asn": "36992",
     "country_code": "EG",
     "name": "ETISALAT-MISR",
@@ -73017,6 +72985,14 @@
   },
   {
     "network": "45.245.33.0/24",
+    "asn": "24863",
+    "country_code": "EG",
+    "name": "LINKdotNET-AS",
+    "org": "Link Egypt (Link.NET)",
+    "domain": "link.net"
+  },
+  {
+    "network": "45.245.34.0/24",
     "asn": "24863",
     "country_code": "EG",
     "name": "LINKdotNET-AS",

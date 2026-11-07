@@ -1328,6 +1328,14 @@
     "domain": "stc.com.sa"
   },
   {
+    "network": "2.91.143.0/24",
+    "asn": "25019",
+    "country_code": "SA",
+    "name": "SAUDINETSTC-AS",
+    "org": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa"
+  },
+  {
     "network": "2.91.144.0/24",
     "asn": "25019",
     "country_code": "SA",
@@ -1641,6 +1649,14 @@
   },
   {
     "network": "9.165.43.0/24",
+    "asn": "25019",
+    "country_code": "SA",
+    "name": "SAUDINETSTC-AS",
+    "org": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa"
+  },
+  {
+    "network": "9.165.44.0/24",
     "asn": "25019",
     "country_code": "SA",
     "name": "SAUDINETSTC-AS",
@@ -2857,14 +2873,6 @@
   },
   {
     "network": "9.165.252.0/24",
-    "asn": "25019",
-    "country_code": "SA",
-    "name": "SAUDINETSTC-AS",
-    "org": "Saudi Telecom Company JSC",
-    "domain": "stc.com.sa"
-  },
-  {
-    "network": "9.165.253.0/24",
     "asn": "25019",
     "country_code": "SA",
     "name": "SAUDINETSTC-AS",
@@ -9249,14 +9257,6 @@
   },
   {
     "network": "94.99.142.0/24",
-    "asn": "25019",
-    "country_code": "SA",
-    "name": "SAUDINETSTC-AS",
-    "org": "Saudi Telecom Company JSC",
-    "domain": "stc.com.sa"
-  },
-  {
-    "network": "94.99.143.0/24",
     "asn": "25019",
     "country_code": "SA",
     "name": "SAUDINETSTC-AS",
@@ -17480,7 +17480,7 @@
     "domain": "stc.com.sa"
   },
   {
-    "network": "2001:16a2:bc9c::/48",
+    "network": "2001:16a2:bc9d::/48",
     "asn": "25019",
     "country_code": "SA",
     "name": "SAUDINETSTC-AS",
@@ -96192,46 +96192,6 @@
     "domain": "mobily.com.sa"
   },
   {
-    "network": "2a02:9b0:402d::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:402e::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:402f::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:4030::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:4031::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
     "network": "2a02:9b0:4037::/48",
     "asn": "35819",
     "country_code": "SA",
@@ -97057,110 +97017,6 @@
   },
   {
     "network": "2a02:9b0:4165::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:4166::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:4167::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:4168::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:4169::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:416a::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:416b::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:416c::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:416d::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:416e::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:416f::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:4170::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:4171::/48",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "2a02:9b0:4172::/48",
     "asn": "35819",
     "country_code": "SA",
     "name": "Mobily-AS",
@@ -101817,14 +101673,6 @@
   },
   {
     "network": "188.248.66.0/24",
-    "asn": "48695",
-    "country_code": "SA",
-    "name": "ATHEEB-AS",
-    "org": "Etihad GO Company For communications",
-    "domain": "go.com.sa"
-  },
-  {
-    "network": "188.248.67.0/24",
     "asn": "48695",
     "country_code": "SA",
     "name": "ATHEEB-AS",

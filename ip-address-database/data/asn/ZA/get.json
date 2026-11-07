@@ -1368,22 +1368,6 @@
     "domain": "vodacom.co.za"
   },
   {
-    "network": "105.246.32.0/20",
-    "asn": "36994",
-    "country_code": "ZA",
-    "name": "Vodacom-VB",
-    "org": "Vodacom",
-    "domain": "vodacom.co.za"
-  },
-  {
-    "network": "105.246.48.0/20",
-    "asn": "36994",
-    "country_code": "ZA",
-    "name": "Vodacom-VB",
-    "org": "Vodacom",
-    "domain": "vodacom.co.za"
-  },
-  {
     "network": "105.246.64.0/19",
     "asn": "36994",
     "country_code": "ZA",
@@ -18176,22 +18160,6 @@
     "domain": "mtn.com"
   },
   {
-    "network": "105.208.209.0/24",
-    "asn": "16637",
-    "country_code": "ZA",
-    "name": "MTNNS-AS",
-    "org": "MTN SA",
-    "domain": "mtn.com"
-  },
-  {
-    "network": "105.208.210.0/24",
-    "asn": "16637",
-    "country_code": "ZA",
-    "name": "MTNNS-AS",
-    "org": "MTN SA",
-    "domain": "mtn.com"
-  },
-  {
     "network": "105.208.211.0/24",
     "asn": "16637",
     "country_code": "ZA",
@@ -18776,6 +18744,14 @@
     "domain": "mtn.com"
   },
   {
+    "network": "105.215.0.0/23",
+    "asn": "16637",
+    "country_code": "ZA",
+    "name": "MTNNS-AS",
+    "org": "MTN SA",
+    "domain": "mtn.com"
+  },
+  {
     "network": "105.216.0.0/13",
     "asn": "16637",
     "country_code": "ZA",
@@ -19177,6 +19153,22 @@
   },
   {
     "network": "196.7.0.0/16",
+    "asn": "16637",
+    "country_code": "ZA",
+    "name": "MTNNS-AS",
+    "org": "MTN SA",
+    "domain": "mtn.com"
+  },
+  {
+    "network": "196.7.10.0/24",
+    "asn": "16637",
+    "country_code": "ZA",
+    "name": "MTNNS-AS",
+    "org": "MTN SA",
+    "domain": "mtn.com"
+  },
+  {
+    "network": "196.7.11.0/24",
     "asn": "16637",
     "country_code": "ZA",
     "name": "MTNNS-AS",
@@ -39416,6 +39408,14 @@
     "domain": "yourcommunications.co.za"
   },
   {
+    "network": "2c0f:ecf8:200::/40",
+    "asn": "328441",
+    "country_code": "ZA",
+    "name": "Your-Communications",
+    "org": "Your Communications Pty Ltd",
+    "domain": "yourcommunications.co.za"
+  },
+  {
     "network": "102.68.40.0/21",
     "asn": "328434",
     "country_code": "ZA",
@@ -43920,7 +43920,39 @@
     "domain": "fibertime.com"
   },
   {
+    "network": "102.200.188.0/24",
+    "asn": "329126",
+    "country_code": "ZA",
+    "name": "IIP-AS",
+    "org": "IIP1 Pty Ltd",
+    "domain": "fibertime.com"
+  },
+  {
+    "network": "102.200.189.0/24",
+    "asn": "329126",
+    "country_code": "ZA",
+    "name": "IIP-AS",
+    "org": "IIP1 Pty Ltd",
+    "domain": "fibertime.com"
+  },
+  {
     "network": "102.200.190.0/23",
+    "asn": "329126",
+    "country_code": "ZA",
+    "name": "IIP-AS",
+    "org": "IIP1 Pty Ltd",
+    "domain": "fibertime.com"
+  },
+  {
+    "network": "102.200.190.0/24",
+    "asn": "329126",
+    "country_code": "ZA",
+    "name": "IIP-AS",
+    "org": "IIP1 Pty Ltd",
+    "domain": "fibertime.com"
+  },
+  {
+    "network": "102.200.191.0/24",
     "asn": "329126",
     "country_code": "ZA",
     "name": "IIP-AS",

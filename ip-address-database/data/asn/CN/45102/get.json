@@ -3912,14 +3912,6 @@
     "domain": "alibaba-inc.com"
   },
   {
-    "network": "43.118.168.0/24",
-    "asn": "45102",
-    "country_code": "CN",
-    "name": "ALIBABA-CN-NET",
-    "org": "Alibaba (US) Technology Co., Ltd.",
-    "domain": "alibaba-inc.com"
-  },
-  {
     "network": "43.119.0.0/17",
     "asn": "45102",
     "country_code": "CN",
@@ -9944,7 +9936,7 @@
     "domain": "alibaba-inc.com"
   },
   {
-    "network": "240b:4010:fffe::/48",
+    "network": "240b:4010::/32",
     "asn": "45102",
     "country_code": "CN",
     "name": "ALIBABA-CN-NET",
@@ -9952,7 +9944,15 @@
     "domain": "alibaba-inc.com"
   },
   {
-    "network": "240b:4010:ffff::/48",
+    "network": "240b:4010::/33",
+    "asn": "45102",
+    "country_code": "CN",
+    "name": "ALIBABA-CN-NET",
+    "org": "Alibaba (US) Technology Co., Ltd.",
+    "domain": "alibaba-inc.com"
+  },
+  {
+    "network": "240b:4010:8000::/33",
     "asn": "45102",
     "country_code": "CN",
     "name": "ALIBABA-CN-NET",

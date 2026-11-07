@@ -1648,6 +1648,22 @@
     "domain": "telenor.dk"
   },
   {
+    "network": "2.128.0.0/15",
+    "asn": "9158",
+    "country_code": "DK",
+    "name": "TELENOR_DANMARK_AS",
+    "org": "Telenor A/S",
+    "domain": "telenor.dk"
+  },
+  {
+    "network": "2.130.0.0/16",
+    "asn": "9158",
+    "country_code": "DK",
+    "name": "TELENOR_DANMARK_AS",
+    "org": "Telenor A/S",
+    "domain": "telenor.dk"
+  },
+  {
     "network": "5.33.0.0/16",
     "asn": "9158",
     "country_code": "DK",
@@ -10312,7 +10328,7 @@
     "domain": "norlys.dk"
   },
   {
-    "network": "85.27.172.0/24",
+    "network": "2a13:8a00::/29",
     "asn": "213320",
     "country_code": "DK",
     "name": "NORLYS-DIGITAL",
@@ -10320,8 +10336,16 @@
     "domain": "norlys.dk"
   },
   {
-    "network": "2a13:8a00::/29",
-    "asn": "213320",
+    "network": "85.27.172.0/24",
+    "asn": "197288",
+    "country_code": "DK",
+    "name": "NORLYS-DIGITAL",
+    "org": "Norlys Telco A/S",
+    "domain": "norlys.dk"
+  },
+  {
+    "network": "2a13:8a07::/32",
+    "asn": "197288",
     "country_code": "DK",
     "name": "NORLYS-DIGITAL",
     "org": "Norlys Telco A/S",
@@ -15438,30 +15462,6 @@
     "name": "Typoconsult",
     "org": "IST ApS",
     "domain": "tabulex.dk"
-  },
-  {
-    "network": "192.165.120.0/24",
-    "asn": "41240",
-    "country_code": "DK",
-    "name": "SE-ALMBRAND",
-    "org": "Advania Sverige AB",
-    "domain": "advania.se"
-  },
-  {
-    "network": "194.88.234.0/24",
-    "asn": "41240",
-    "country_code": "DK",
-    "name": "SE-ALMBRAND",
-    "org": "Advania Sverige AB",
-    "domain": "advania.se"
-  },
-  {
-    "network": "194.88.235.0/24",
-    "asn": "41240",
-    "country_code": "DK",
-    "name": "SE-ALMBRAND",
-    "org": "Advania Sverige AB",
-    "domain": "advania.se"
   },
   {
     "network": "192.165.250.0/24",

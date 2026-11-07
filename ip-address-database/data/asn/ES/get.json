@@ -17064,14 +17064,6 @@
     "domain": "cotatelecom.com"
   },
   {
-    "network": "2a0a:6280::/29",
-    "asn": "199434",
-    "country_code": "ES",
-    "name": "COTA-AS",
-    "org": "CONSORCIO DE TELECOMUNICACIONES AVANZADA S.A.",
-    "domain": "cotatelecom.com"
-  },
-  {
     "network": "5.59.11.0/24",
     "asn": "25589",
     "country_code": "ES",
@@ -21681,14 +21673,6 @@
   },
   {
     "network": "185.101.224.0/22",
-    "asn": "50926",
-    "country_code": "ES",
-    "name": "AXARNET-AS",
-    "org": "AXARNET COMUNICACIONES, S.L.",
-    "domain": "axarnet.es"
-  },
-  {
-    "network": "185.101.224.0/24",
     "asn": "50926",
     "country_code": "ES",
     "name": "AXARNET-AS",
@@ -87768,14 +87752,6 @@
     "domain": "masorange.es"
   },
   {
-    "network": "2a01:c50e:4a00::/40",
-    "asn": "12479",
-    "country_code": "ES",
-    "name": "UNI2-AS",
-    "org": "Orange Espagne SA",
-    "domain": "masorange.es"
-  },
-  {
     "network": "2a01:c50e:4c00::/40",
     "asn": "12479",
     "country_code": "ES",
@@ -88129,6 +88105,14 @@
   },
   {
     "network": "2a01:c50f:c0::/42",
+    "asn": "12479",
+    "country_code": "ES",
+    "name": "UNI2-AS",
+    "org": "Orange Espagne SA",
+    "domain": "masorange.es"
+  },
+  {
+    "network": "2a01:c50f:180::/42",
     "asn": "12479",
     "country_code": "ES",
     "name": "UNI2-AS",
@@ -112072,6 +112056,14 @@
     "domain": "afr-ix.com"
   },
   {
+    "network": "102.69.152.0/24",
+    "asn": "60171",
+    "country_code": "ES",
+    "name": "AFRIX-AS",
+    "org": "AFR-IX TELECOM S.A.",
+    "domain": "afr-ix.com"
+  },
+  {
     "network": "102.69.153.0/24",
     "asn": "60171",
     "country_code": "ES",
@@ -123464,6 +123456,14 @@
     "domain": "seidor.com"
   },
   {
+    "network": "86.104.30.0/24",
+    "asn": "205506",
+    "country_code": "ES",
+    "name": "AS-SAYTEL-01",
+    "org": "Seidor Soluciones Globales SL",
+    "domain": "seidor.com"
+  },
+  {
     "network": "86.104.31.0/24",
     "asn": "205506",
     "country_code": "ES",
@@ -131648,22 +131648,6 @@
     "domain": "perfprod.com"
   },
   {
-    "network": "2001:3786:1650::/48",
-    "asn": "205563",
-    "country_code": "ES",
-    "name": "zGato",
-    "org": "Marc Gomez",
-    "domain": "perfprod.com"
-  },
-  {
-    "network": "2001:3786:1877::/48",
-    "asn": "205563",
-    "country_code": "ES",
-    "name": "zGato",
-    "org": "Marc Gomez",
-    "domain": "perfprod.com"
-  },
-  {
     "network": "2001:3786:1997::/48",
     "asn": "205563",
     "country_code": "ES",
@@ -131713,6 +131697,14 @@
   },
   {
     "network": "2001:3786:2005::/48",
+    "asn": "205563",
+    "country_code": "ES",
+    "name": "zGato",
+    "org": "Marc Gomez",
+    "domain": "perfprod.com"
+  },
+  {
+    "network": "2001:3786:2006::/48",
     "asn": "205563",
     "country_code": "ES",
     "name": "zGato",
@@ -132017,6 +132009,14 @@
   },
   {
     "network": "2001:3786:5005::/48",
+    "asn": "205563",
+    "country_code": "ES",
+    "name": "zGato",
+    "org": "Marc Gomez",
+    "domain": "perfprod.com"
+  },
+  {
+    "network": "2001:3786:5006::/48",
     "asn": "205563",
     "country_code": "ES",
     "name": "zGato",
@@ -138088,6 +138088,14 @@
     "domain": "7play.es"
   },
   {
+    "network": "185.178.163.0/24",
+    "asn": "206702",
+    "country_code": "ES",
+    "name": "cliko",
+    "org": "7P SERVICIOS INTEGRADOS SLU",
+    "domain": "7play.es"
+  },
+  {
     "network": "185.194.192.0/24",
     "asn": "206702",
     "country_code": "ES",
@@ -138097,6 +138105,14 @@
   },
   {
     "network": "185.194.193.0/24",
+    "asn": "206702",
+    "country_code": "ES",
+    "name": "cliko",
+    "org": "7P SERVICIOS INTEGRADOS SLU",
+    "domain": "7play.es"
+  },
+  {
+    "network": "185.194.195.0/24",
     "asn": "206702",
     "country_code": "ES",
     "name": "cliko",
@@ -144144,7 +144160,7 @@
     "domain": "devrex.es"
   },
   {
-    "network": "2001:4030:8000::/33",
+    "network": "2001:4030:8000::/34",
     "asn": "205170",
     "country_code": "ES",
     "name": "TELINNOVA",
@@ -144310,6 +144326,14 @@
     "name": "BEPROIT",
     "org": "Pedro Antonio Collado Fernandez",
     "domain": "beproit.com"
+  },
+  {
+    "network": "2a06:9801:749::/48",
+    "asn": "197237",
+    "country_code": "ES",
+    "name": "BELGGNET",
+    "org": "Beltran Gallego Gutierrez",
+    "domain": "belgg.net"
   },
   {
     "network": "2a06:9801:7d5::/48",

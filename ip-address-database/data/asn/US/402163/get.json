@@ -8,7 +8,15 @@
     "domain": "skyv.ai"
   },
   {
-    "network": "2602:f464::/40",
+    "network": "2602:f464:2::/48",
+    "asn": "402163",
+    "country_code": "US",
+    "name": "AS-SKYVAULT",
+    "org": "SkyVault AI",
+    "domain": "skyv.ai"
+  },
+  {
+    "network": "2602:f464:10::/48",
     "asn": "402163",
     "country_code": "US",
     "name": "AS-SKYVAULT",
