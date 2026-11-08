@@ -876,7 +876,7 @@
     "country_name": "Vietnam"
   },
   {
-    "network": "43.152.150.0/24",
+    "network": "43.152.150.24/30",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
@@ -1314,6 +1314,12 @@
     "country_name": "Vietnam"
   },
   {
+    "network": "45.198.201.0/24",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
     "network": "45.251.112.0/22",
     "continent_code": "AS",
     "country_code": "VN",
@@ -1356,7 +1362,7 @@
     "country_name": "Vietnam"
   },
   {
-    "network": "47.246.66.0/24",
+    "network": "47.246.66.112/29",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
@@ -1399,6 +1405,12 @@
   },
   {
     "network": "51.194.172.0/24",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "51.194.247.0/24",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
@@ -2035,6 +2047,12 @@
   },
   {
     "network": "94.190.195.240/28",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "94.194.192.0/22",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
@@ -9570,6 +9588,12 @@
     "country_name": "Vietnam"
   },
   {
+    "network": "154.81.142.0/24",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
     "network": "154.82.23.0/24",
     "continent_code": "AS",
     "country_code": "VN",
@@ -9714,25 +9738,7 @@
     "country_name": "Vietnam"
   },
   {
-    "network": "154.200.1.0/24",
-    "continent_code": "AS",
-    "country_code": "VN",
-    "country_name": "Vietnam"
-  },
-  {
-    "network": "154.200.2.0/23",
-    "continent_code": "AS",
-    "country_code": "VN",
-    "country_name": "Vietnam"
-  },
-  {
-    "network": "154.200.4.0/22",
-    "continent_code": "AS",
-    "country_code": "VN",
-    "country_name": "Vietnam"
-  },
-  {
-    "network": "154.200.8.0/21",
+    "network": "154.200.0.0/20",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
@@ -9762,13 +9768,13 @@
     "country_name": "Vietnam"
   },
   {
-    "network": "154.200.37.0/24",
+    "network": "154.200.35.0/24",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
   },
   {
-    "network": "154.200.38.0/23",
+    "network": "154.200.36.0/22",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
@@ -9835,6 +9841,18 @@
   },
   {
     "network": "154.200.80.0/21",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "154.200.92.0/22",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "154.200.100.0/22",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
@@ -14058,7 +14076,43 @@
     "country_name": "Vietnam"
   },
   {
-    "network": "208.127.218.128/25",
+    "network": "208.127.218.128/26",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "208.127.218.192/27",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "208.127.218.224/28",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "208.127.218.240/29",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "208.127.218.248/30",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "208.127.218.252/31",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "208.127.218.254/32",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
@@ -17418,12 +17472,6 @@
     "country_name": "Vietnam"
   },
   {
-    "network": "2a0a:79c0:a00::/44",
-    "continent_code": "AS",
-    "country_code": "VN",
-    "country_name": "Vietnam"
-  },
-  {
     "network": "2a0e:b107:1730::/44",
     "continent_code": "AS",
     "country_code": "VN",
@@ -17478,12 +17526,6 @@
     "country_name": "Vietnam"
   },
   {
-    "network": "2a09:bac3:d4c0::/45",
-    "continent_code": "AS",
-    "country_code": "VN",
-    "country_name": "Vietnam"
-  },
-  {
     "network": "2a09:bac4:778::/45",
     "continent_code": "AS",
     "country_code": "VN",
@@ -17521,6 +17563,12 @@
   },
   {
     "network": "2a0a:6044:f368::/45",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "2a0a:79c0:a08::/45",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
@@ -22494,6 +22542,12 @@
     "country_name": "Vietnam"
   },
   {
+    "network": "2a0a:79c0:a04::/46",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
     "network": "2a0b:4e07:9c::/46",
     "continent_code": "AS",
     "country_code": "VN",
@@ -22626,6 +22680,12 @@
     "country_name": "Vietnam"
   },
   {
+    "network": "2a09:bac3:d4c4::/47",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
     "network": "2a0a:6044:6362::/47",
     "continent_code": "AS",
     "country_code": "VN",
@@ -22633,6 +22693,12 @@
   },
   {
     "network": "2a0a:6044:f362::/47",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "2a0a:79c0:a02::/47",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
@@ -26790,6 +26856,12 @@
     "country_name": "Vietnam"
   },
   {
+    "network": "2a0a:79c0:a01::/48",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
     "network": "2a0a:ce07:b002::/48",
     "continent_code": "AS",
     "country_code": "VN",
@@ -27132,6 +27204,12 @@
     "country_name": "Vietnam"
   },
   {
+    "network": "2a0e:4001:910:ae00::/55",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
     "network": "2403:300:718:100::/56",
     "continent_code": "AS",
     "country_code": "VN",
@@ -27157,6 +27235,12 @@
   },
   {
     "network": "2a02:26f7:c5c8:400::/56",
+    "continent_code": "AS",
+    "country_code": "VN",
+    "country_name": "Vietnam"
+  },
+  {
+    "network": "2a0e:4001:910:b000::/56",
     "continent_code": "AS",
     "country_code": "VN",
     "country_name": "Vietnam"
