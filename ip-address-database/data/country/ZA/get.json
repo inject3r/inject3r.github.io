@@ -5640,12 +5640,6 @@
     "country_name": "South Africa"
   },
   {
-    "network": "41.206.186.0/23",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
     "network": "41.206.188.0/25",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -6426,12 +6420,6 @@
     "country_name": "South Africa"
   },
   {
-    "network": "45.221.104.0/21",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
     "network": "45.221.112.0/23",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -6985,12 +6973,6 @@
   },
   {
     "network": "52.239.232.0/24",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
-    "network": "54.25.77.0/24",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -9667,6 +9649,12 @@
   },
   {
     "network": "91.148.244.112/28",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "91.242.245.0/24",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -13674,7 +13662,7 @@
     "country_name": "South Africa"
   },
   {
-    "network": "102.212.88.0/22",
+    "network": "102.212.90.0/23",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -15451,6 +15439,12 @@
   },
   {
     "network": "102.248.0.0/13",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "103.240.156.0/22",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -17658,7 +17652,7 @@
     "country_name": "South Africa"
   },
   {
-    "network": "119.13.66.0/23",
+    "network": "119.13.64.0/22",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -17677,6 +17671,12 @@
   },
   {
     "network": "128.1.154.0/24",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "128.1.230.0/24",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -20676,18 +20676,6 @@
     "country_name": "South Africa"
   },
   {
-    "network": "154.200.250.0/23",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
-    "network": "154.200.252.0/22",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
     "network": "154.203.81.0/24",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -20796,7 +20784,7 @@
     "country_name": "South Africa"
   },
   {
-    "network": "154.214.236.0/22",
+    "network": "154.214.236.0/23",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -29382,7 +29370,13 @@
     "country_name": "South Africa"
   },
   {
-    "network": "196.61.64.0/21",
+    "network": "196.61.66.0/23",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "196.61.68.0/22",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -47316,6 +47310,18 @@
     "country_name": "South Africa"
   },
   {
+    "network": "2a0e:4003:bb96:4000::/52",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:7000::/52",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
     "network": "2c0f:e9a0:2:1000::/52",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -47491,6 +47497,24 @@
   },
   {
     "network": "2a09:bac1:7ee0:800::/53",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1800::/53",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3000::/53",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9000::/53",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -47683,6 +47707,84 @@
   },
   {
     "network": "2a09:bac1:7e60:400::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2400::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2c00::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3800::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5400::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5c00::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6400::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6800::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ac00::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b400::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c400::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c800::/54",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d400::/54",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -48013,6 +48115,174 @@
   },
   {
     "network": "2a09:bac1:7ee0:400::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1000::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1600::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2200::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2a00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3c00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5200::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5a00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6200::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6c00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8800::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8e00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9e00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a400::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a800::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ba00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:be00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c200::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ce00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d000::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d800::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:de00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e400::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e800::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ec00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f600::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fa00::/55",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fe00::/55",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -48486,6 +48756,252 @@
     "country_name": "South Africa"
   },
   {
+    "network": "2a0e:4003:bb96:400::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:900::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1200::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1400::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2100::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3e00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5100::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6000::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6e00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8100::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8200::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8500::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8700::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8b00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8d00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9900::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9b00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9c00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a000::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a300::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a700::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b000::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b200::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b900::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bc00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c000::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:cc00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d300::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:db00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:dc00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e000::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e300::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e700::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:eb00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ee00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f100::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f300::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f800::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fd00::/56",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
     "network": "2a13:a5c7:25ff:f700::/56",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -48696,6 +49212,276 @@
     "country_name": "South Africa"
   },
   {
+    "network": "2a0e:4003:bb96:500::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:600::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:780::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:880::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d80::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1500::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2080::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2880::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2980::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3f00::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5880::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5900::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6100::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6f80::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8000::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8300::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8480::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8680::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8a80::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8c00::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9800::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9a80::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9d00::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a180::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a200::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a600::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:aa80::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b180::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b300::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b880::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bd00::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c180::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:cd80::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d200::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:da00::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:dd00::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e180::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e200::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e680::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ea00::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ef00::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f000::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f200::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f580::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f900::/57",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
     "network": "2c0f:e9a0:2:80::/57",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -48864,6 +49650,348 @@
     "country_name": "South Africa"
   },
   {
+    "network": "2a0e:4003:bb96:5c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:680::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:740::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:800::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b40::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bc0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d40::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1340::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1380::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1580::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2000::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2840::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2940::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3f80::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5000::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:50c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5800::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5980::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:61c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6f40::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:80c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:83c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8400::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8600::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8a40::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8cc0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9880::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9a00::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9dc0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a140::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a2c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a6c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:aa00::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab40::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:abc0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b100::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b380::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b800::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bdc0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c140::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:cd00::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d2c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:da80::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:dd80::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e140::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e2c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e640::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ea80::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ef80::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f080::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f2c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f400::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f480::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f500::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f9c0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc40::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fcc0::/58",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
     "network": "2c0f:e9a0:2:40::/58",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -49021,6 +50149,348 @@
   },
   {
     "network": "2a09:bac1:7ee0:7e0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5a0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6e0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:700::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:860::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b00::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b80::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d20::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1300::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:13e0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:15c0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2040::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2800::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2920::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3fc0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5060::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5080::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5860::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:59e0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6180::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6f00::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:80a0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:83a0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8440::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8660::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8a00::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8c80::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:98e0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9a60::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9da0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a100::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a280::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a6a0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:aa40::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab00::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:aba0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b140::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b3c0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b860::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bda0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c120::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:cd60::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d2a0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:dac0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ddc0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e100::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e280::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e600::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:eac0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:efe0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f0c0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f2a0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f460::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f4e0::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f560::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f980::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc00::/59",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fca0::/59",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -49219,6 +50689,342 @@
   },
   {
     "network": "2a0b:4e07:3:7100::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:580::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6c0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:730::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:840::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b30::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ba0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d00::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1330::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:15f0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2060::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2830::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2910::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3fe0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5040::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:50a0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5840::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:59c0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:61b0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6f30::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8090::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8380::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8470::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8650::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8a30::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8ca0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:98d0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9a50::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9d80::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a130::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a2a0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a690::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:aa70::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab30::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab80::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b160::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b3e0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b840::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bd90::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c100::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:cd40::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d280::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:daf0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ddf0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e120::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e2b0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e620::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:eae0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:efc0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f0f0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f280::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f450::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f4d0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f550::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f9a0::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc30::/60",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc80::/60",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -49513,6 +51319,354 @@
   },
   {
     "network": "2a09:bac1:7ee0:7d8::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:590::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6d0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:720::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:858::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b28::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bb0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d10::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1328::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:13c8::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:13d8::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:15e0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2078::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2820::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2900::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3ff0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5058::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:50b0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5850::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:59d0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:61a8::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6f28::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8088::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8398::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8468::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8640::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8a28::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8cb0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:98c0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9a40::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9d90::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a128::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a2b8::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a688::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:aa68::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab28::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab98::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b178::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b3f8::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b850::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bd88::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c118::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:cd50::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d290::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:dae0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:dde0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e138::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e2a0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e630::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:eaf0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:efd0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f0e0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f290::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f448::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f4c0::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f548::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f9b8::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc20::/61",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc90::/61",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -49903,6 +52057,354 @@
   },
   {
     "network": "2a09:bac1:7ee0:7d4::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:59c::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6d8::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:72c::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:854::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b20::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bbc::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d18::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1320::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:13c4::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:13d4::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:15ec::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2074::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:282c::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:290c::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3ffc::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5050::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:50bc::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5858::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:59d8::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:61a4::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6f20::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8084::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8390::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8464::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:864c::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8a20::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8cbc::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:98cc::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9a48::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9d9c::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a124::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a2b0::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a680::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:aa60::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab24::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab94::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b174::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b3f4::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b85c::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bd84::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c114::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:cd5c::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d29c::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:dae8::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ddec::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e134::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e2a8::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e638::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:eafc::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:efd8::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f0ec::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f29c::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f444::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f4cc::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f540::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f9b0::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc28::/62",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc9c::/62",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -50527,6 +53029,354 @@
   },
   {
     "network": "2a09:bac1:7ee0:7d2::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:59a::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6dc::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:72a::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:852::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b24::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bba::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d1c::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1326::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:13c0::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:13d2::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:15e8::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2070::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2828::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:290a::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3ffa::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5056::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:50b8::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:585e::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:59dc::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:61a2::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6f24::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8080::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8396::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8462::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:864a::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8a24::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8cba::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:98c8::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9a4c::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9d98::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a122::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a2b4::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a684::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:aa64::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab22::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab92::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b172::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b3f0::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b85a::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bd82::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c112::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:cd58::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d298::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:daee::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ddea::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e132::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e2ac::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e63c::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:eaf8::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:efdc::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f0ea::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f29a::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f440::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f4c8::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f544::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f9b6::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc2c::/63",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc98::/63",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -52303,6 +55153,354 @@
   },
   {
     "network": "2a0e:4001:9ff:ce::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:599::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6de::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:729::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:851::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b27::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bb8::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d1f::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:1325::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:13c3::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:13d0::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:15eb::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2072::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:282b::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:2909::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:3ff8::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:5054::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:50bb::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:585d::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:59df::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:61a1::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:6f27::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8083::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8395::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8461::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8648::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8a27::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:8cb9::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:98cb::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9a4e::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:9d9a::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a120::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a2b7::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:a687::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:aa67::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab21::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:ab90::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b171::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b3f3::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:b859::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:bd81::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:c111::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:cd5b::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:d29b::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:daec::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:dde9::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e131::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e2ae::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:e63e::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:eafa::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:efdf::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f0e8::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f298::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f443::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f4ca::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f546::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:f9b5::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc2e::/64",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "2a0e:4003:bb96:fc9a::/64",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"

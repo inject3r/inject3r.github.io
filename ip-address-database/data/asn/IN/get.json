@@ -177880,14 +177880,6 @@
     "domain": "nkn.in"
   },
   {
-    "network": "14.139.40.0/24",
-    "asn": "55824",
-    "country_code": "IN",
-    "name": "NKN-CORE-NW",
-    "org": "National Knowledge Network",
-    "domain": "nkn.in"
-  },
-  {
     "network": "14.139.41.0/24",
     "asn": "55824",
     "country_code": "IN",
@@ -179449,14 +179441,6 @@
   },
   {
     "network": "2405:8a00:20e7::/48",
-    "asn": "55824",
-    "country_code": "IN",
-    "name": "NKN-CORE-NW",
-    "org": "National Knowledge Network",
-    "domain": "nkn.in"
-  },
-  {
-    "network": "2405:8a00:20e8::/48",
     "asn": "55824",
     "country_code": "IN",
     "name": "NKN-CORE-NW",
@@ -190352,14 +190336,6 @@
     "domain": "gtpl.net"
   },
   {
-    "network": "2402:a00:90::/48",
-    "asn": "45916",
-    "country_code": "IN",
-    "name": "GTPL-AS-AP",
-    "org": "Gujarat Telelink Pvt Ltd",
-    "domain": "gtpl.net"
-  },
-  {
     "network": "2402:a00:95::/48",
     "asn": "45916",
     "country_code": "IN",
@@ -191008,14 +190984,6 @@
     "domain": "gtpl.net"
   },
   {
-    "network": "2402:a00:190::/48",
-    "asn": "45916",
-    "country_code": "IN",
-    "name": "GTPL-AS-AP",
-    "org": "Gujarat Telelink Pvt Ltd",
-    "domain": "gtpl.net"
-  },
-  {
     "network": "2402:a00:192::/48",
     "asn": "45916",
     "country_code": "IN",
@@ -191625,14 +191593,6 @@
   },
   {
     "network": "2402:a00:28d::/48",
-    "asn": "45916",
-    "country_code": "IN",
-    "name": "GTPL-AS-AP",
-    "org": "Gujarat Telelink Pvt Ltd",
-    "domain": "gtpl.net"
-  },
-  {
-    "network": "2402:a00:290::/48",
     "asn": "45916",
     "country_code": "IN",
     "name": "GTPL-AS-AP",
@@ -232449,6 +232409,14 @@
   },
   {
     "network": "103.153.208.0/24",
+    "asn": "147224",
+    "country_code": "IN",
+    "name": "WSNL-AS-IN",
+    "org": "NIXI",
+    "domain": "wsnl-isp.net"
+  },
+  {
+    "network": "103.153.209.0/24",
     "asn": "147224",
     "country_code": "IN",
     "name": "WSNL-AS-IN",
@@ -334928,14 +334896,6 @@
     "domain": "5centscdn.com"
   },
   {
-    "network": "163.61.246.0/24",
-    "asn": "152162",
-    "country_code": "IN",
-    "name": "NETNAME-5CENTSCDNINC-AS-AP",
-    "org": "5centsCDN Inc",
-    "domain": "5centscdn.com"
-  },
-  {
     "network": "36.50.118.0/24",
     "asn": "149240",
     "country_code": "IN",
@@ -423032,14 +422992,6 @@
     "domain": "irinn.in"
   },
   {
-    "network": "103.228.73.0/24",
-    "asn": "154950",
-    "country_code": "IN",
-    "name": "IRINN-CRIPL-AS-IN",
-    "org": "CRAPPLET INFOTECH PRIVATE LIMITED",
-    "domain": "irinn.in"
-  },
-  {
     "network": "163.5.191.0/24",
     "asn": "154950",
     "country_code": "IN",
@@ -442425,14 +442377,6 @@
   },
   {
     "network": "103.70.39.0/24",
-    "asn": "147194",
-    "country_code": "IN",
-    "name": "DEVCHAND-AS-AP",
-    "org": "DEVCHAND TELESOFT",
-    "domain": "devchandtelesoft.in"
-  },
-  {
-    "network": "103.153.209.0/24",
     "asn": "147194",
     "country_code": "IN",
     "name": "DEVCHAND-AS-AP",
@@ -466776,7 +466720,7 @@
     "domain": "nixi.in"
   },
   {
-    "network": "103.146.110.0/23",
+    "network": "103.146.110.0/24",
     "asn": "139549",
     "country_code": "IN",
     "name": "CRISPENT-AS",
@@ -466784,7 +466728,7 @@
     "domain": "nixi.in"
   },
   {
-    "network": "2001:df4:af80::/48",
+    "network": "103.146.111.0/24",
     "asn": "139549",
     "country_code": "IN",
     "name": "CRISPENT-AS",
@@ -469337,6 +469281,22 @@
   },
   {
     "network": "103.134.100.0/22",
+    "asn": "134308",
+    "country_code": "IN",
+    "name": "CLICKIAN-AS",
+    "org": "Clickian Network Pvt. Ltd.",
+    "domain": "clickiannetwork.com"
+  },
+  {
+    "network": "103.134.100.0/23",
+    "asn": "134308",
+    "country_code": "IN",
+    "name": "CLICKIAN-AS",
+    "org": "Clickian Network Pvt. Ltd.",
+    "domain": "clickiannetwork.com"
+  },
+  {
+    "network": "103.134.102.0/23",
     "asn": "134308",
     "country_code": "IN",
     "name": "CLICKIAN-AS",
@@ -514432,14 +514392,6 @@
     "domain": "stpi.in"
   },
   {
-    "network": "203.129.210.0/24",
-    "asn": "7633",
-    "country_code": "IN",
-    "name": "SOFTNET-AS-AP",
-    "org": "Software Technology Parks of India - Bangalore",
-    "domain": "stpi.in"
-  },
-  {
     "network": "203.129.213.0/24",
     "asn": "7633",
     "country_code": "IN",
@@ -519424,14 +519376,6 @@
     "domain": "2ccloud.com"
   },
   {
-    "network": "198.161.20.0/24",
-    "asn": "44331",
-    "country_code": "IN",
-    "name": "GrootOP-Premium-Host",
-    "org": "GrootOP Premium Host",
-    "domain": "grootop.in"
-  },
-  {
     "network": "198.184.0.0/22",
     "asn": "132414",
     "country_code": "IN",
@@ -521931,25 +521875,25 @@
     "network": "203.153.210.0/23",
     "asn": "45518",
     "country_code": "IN",
-    "name": "IVY-AS-AP",
-    "org": "Ivy Comptech Pvt Ltd",
-    "domain": "gvcgroup.com"
+    "name": "ECIPL-AS-AP",
+    "org": "ENTAIN COMPTECH (INDIA) PRIVATE LIMITED",
+    "domain": "bwinparty.com"
   },
   {
     "network": "203.153.210.0/24",
     "asn": "45518",
     "country_code": "IN",
-    "name": "IVY-AS-AP",
-    "org": "Ivy Comptech Pvt Ltd",
-    "domain": "gvcgroup.com"
+    "name": "ECIPL-AS-AP",
+    "org": "ENTAIN COMPTECH (INDIA) PRIVATE LIMITED",
+    "domain": "bwinparty.com"
   },
   {
     "network": "203.153.211.0/24",
     "asn": "45518",
     "country_code": "IN",
-    "name": "IVY-AS-AP",
-    "org": "Ivy Comptech Pvt Ltd",
-    "domain": "gvcgroup.com"
+    "name": "ECIPL-AS-AP",
+    "org": "ENTAIN COMPTECH (INDIA) PRIVATE LIMITED",
+    "domain": "bwinparty.com"
   },
   {
     "network": "203.160.136.0/24",
