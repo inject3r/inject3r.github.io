@@ -216,7 +216,7 @@
     "domain": "moedove.com"
   },
   {
-    "network": "2a0f:1cc4:bfc0::/44",
+    "network": "2a0f:1cc4:bfc0::/48",
     "asn": "40929",
     "country_code": "US",
     "name": "MOEDOVE-BN",
@@ -377,6 +377,22 @@
   },
   {
     "network": "2a0f:1cc4:d202::/48",
+    "asn": "40929",
+    "country_code": "US",
+    "name": "MOEDOVE-BN",
+    "org": "MoeDove",
+    "domain": "moedove.com"
+  },
+  {
+    "network": "2a0f:1cc4:dfc0::/48",
+    "asn": "40929",
+    "country_code": "US",
+    "name": "MOEDOVE-BN",
+    "org": "MoeDove",
+    "domain": "moedove.com"
+  },
+  {
+    "network": "2a0f:1cc4:dfc1::/48",
     "asn": "40929",
     "country_code": "US",
     "name": "MOEDOVE-BN",

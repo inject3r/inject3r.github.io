@@ -184,14 +184,6 @@
     "domain": "dataforest.net"
   },
   {
-    "network": "68.164.28.0/24",
-    "asn": "215607",
-    "country_code": "DE",
-    "name": "DF-Transit",
-    "org": "dataforest GmbH",
-    "domain": "dataforest.net"
-  },
-  {
     "network": "69.33.150.0/24",
     "asn": "215607",
     "country_code": "DE",
@@ -441,6 +433,14 @@
   },
   {
     "network": "159.200.206.0/24",
+    "asn": "215607",
+    "country_code": "DE",
+    "name": "DF-Transit",
+    "org": "dataforest GmbH",
+    "domain": "dataforest.net"
+  },
+  {
+    "network": "167.148.248.0/24",
     "asn": "215607",
     "country_code": "DE",
     "name": "DF-Transit",
@@ -2065,6 +2065,22 @@
   },
   {
     "network": "62.83.136.0/22",
+    "asn": "197540",
+    "country_code": "DE",
+    "name": "netcup-AS",
+    "org": "netcup GmbH",
+    "domain": "netcup.de"
+  },
+  {
+    "network": "62.83.140.0/22",
+    "asn": "197540",
+    "country_code": "DE",
+    "name": "netcup-AS",
+    "org": "netcup GmbH",
+    "domain": "netcup.de"
+  },
+  {
+    "network": "62.83.144.0/22",
     "asn": "197540",
     "country_code": "DE",
     "name": "netcup-AS",
@@ -5984,6 +6000,14 @@
     "domain": "velia.net"
   },
   {
+    "network": "92.204.243.0/24",
+    "asn": "29066",
+    "country_code": "DE",
+    "name": "VELIANET-AS",
+    "org": "velia.net Internetdienste GmbH",
+    "domain": "velia.net"
+  },
+  {
     "network": "92.205.32.0/22",
     "asn": "29066",
     "country_code": "DE",
@@ -7569,6 +7593,14 @@
   },
   {
     "network": "194.156.206.0/24",
+    "asn": "8767",
+    "country_code": "DE",
+    "name": "MNET-AS",
+    "org": "M-net Telekommunikations GmbH",
+    "domain": "m-online.net"
+  },
+  {
+    "network": "194.246.16.0/24",
     "asn": "8767",
     "country_code": "DE",
     "name": "MNET-AS",
@@ -24024,14 +24056,6 @@
     "domain": "dataforest.net"
   },
   {
-    "network": "2a05:dfc7::/32",
-    "asn": "58212",
-    "country_code": "DE",
-    "name": "DATAFOREST",
-    "org": "dataforest GmbH",
-    "domain": "dataforest.net"
-  },
-  {
     "network": "2a06:9801:7a0::/44",
     "asn": "58212",
     "country_code": "DE",
@@ -27889,6 +27913,14 @@
   },
   {
     "network": "31.184.0.0/20",
+    "asn": "198967",
+    "country_code": "DE",
+    "name": "BITel-Gesellschaft-fuer-Telekommunikation-AS",
+    "org": "BITel Gesellschaft fuer Telekommunikation mbH",
+    "domain": "bitel.de"
+  },
+  {
+    "network": "31.184.6.0/23",
     "asn": "198967",
     "country_code": "DE",
     "name": "BITel-Gesellschaft-fuer-Telekommunikation-AS",
@@ -42272,14 +42304,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "5.231.195.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "5.231.196.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -42465,14 +42489,6 @@
   },
   {
     "network": "5.231.228.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "5.231.229.0/24",
     "asn": "12586",
     "country_code": "DE",
     "name": "ASGHOSTNET",
@@ -43216,6 +43232,14 @@
     "domain": "ghostnet.de"
   },
   {
+    "network": "95.215.35.0/24",
+    "asn": "12586",
+    "country_code": "DE",
+    "name": "ASGHOSTNET",
+    "org": "GHOSTnet GmbH",
+    "domain": "ghostnet.de"
+  },
+  {
     "network": "178.18.144.0/20",
     "asn": "12586",
     "country_code": "DE",
@@ -43233,6 +43257,38 @@
   },
   {
     "network": "178.18.150.0/24",
+    "asn": "12586",
+    "country_code": "DE",
+    "name": "ASGHOSTNET",
+    "org": "GHOSTnet GmbH",
+    "domain": "ghostnet.de"
+  },
+  {
+    "network": "178.18.156.0/24",
+    "asn": "12586",
+    "country_code": "DE",
+    "name": "ASGHOSTNET",
+    "org": "GHOSTnet GmbH",
+    "domain": "ghostnet.de"
+  },
+  {
+    "network": "178.18.157.0/24",
+    "asn": "12586",
+    "country_code": "DE",
+    "name": "ASGHOSTNET",
+    "org": "GHOSTnet GmbH",
+    "domain": "ghostnet.de"
+  },
+  {
+    "network": "178.18.158.0/24",
+    "asn": "12586",
+    "country_code": "DE",
+    "name": "ASGHOSTNET",
+    "org": "GHOSTnet GmbH",
+    "domain": "ghostnet.de"
+  },
+  {
+    "network": "178.18.159.0/24",
     "asn": "12586",
     "country_code": "DE",
     "name": "ASGHOSTNET",
@@ -49104,22 +49160,6 @@
     "domain": "pawhost.de"
   },
   {
-    "network": "5.175.203.0/24",
-    "asn": "214598",
-    "country_code": "DE",
-    "name": "ENVARO",
-    "org": "envaro UG",
-    "domain": "envaro.net"
-  },
-  {
-    "network": "2a00:4ac0::/29",
-    "asn": "214598",
-    "country_code": "DE",
-    "name": "ENVARO",
-    "org": "envaro UG",
-    "domain": "envaro.net"
-  },
-  {
     "network": "5.175.219.0/24",
     "asn": "218963",
     "country_code": "DE",
@@ -54097,91 +54137,19 @@
   },
   {
     "network": "5.230.232.0/24",
-    "asn": "20694",
+    "asn": "219495",
     "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
+    "name": "bennetgallein",
+    "org": "Bennet Gallein IT Solutions UG haftungsbeschraenkt",
+    "domain": "bg-it-solutions.de"
   },
   {
-    "network": "46.30.24.0/22",
-    "asn": "20694",
+    "network": "2a10:ccc0:154::/46",
+    "asn": "219495",
     "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
-  },
-  {
-    "network": "185.45.110.0/23",
-    "asn": "20694",
-    "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
-  },
-  {
-    "network": "185.166.200.0/24",
-    "asn": "20694",
-    "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
-  },
-  {
-    "network": "185.166.201.0/24",
-    "asn": "20694",
-    "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
-  },
-  {
-    "network": "185.166.202.0/24",
-    "asn": "20694",
-    "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
-  },
-  {
-    "network": "188.94.24.0/21",
-    "asn": "20694",
-    "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
-  },
-  {
-    "network": "217.114.64.0/20",
-    "asn": "20694",
-    "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
-  },
-  {
-    "network": "2a01:688::/32",
-    "asn": "20694",
-    "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
-  },
-  {
-    "network": "2a01:689::/32",
-    "asn": "20694",
-    "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
-  },
-  {
-    "network": "2a02:22f0:12::/48",
-    "asn": "20694",
-    "country_code": "DE",
-    "name": "NMMN-AS",
-    "org": "NMMN GmbH",
-    "domain": "nmmn.com"
+    "name": "bennetgallein",
+    "org": "Bennet Gallein IT Solutions UG haftungsbeschraenkt",
+    "domain": "bg-it-solutions.de"
   },
   {
     "network": "5.231.20.0/24",
@@ -68064,6 +68032,22 @@
     "domain": "pfcloud.io"
   },
   {
+    "network": "2a0e:d00::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a0e:d04::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
     "network": "2a11:5780::/30",
     "asn": "51396",
     "country_code": "DE",
@@ -81696,6 +81680,14 @@
     "domain": "soprado.com"
   },
   {
+    "network": "62.40.0.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
     "network": "62.201.172.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -82032,6 +82024,14 @@
     "domain": "soprado.com"
   },
   {
+    "network": "185.115.179.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
     "network": "193.0.248.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -82145,6 +82145,22 @@
   },
   {
     "network": "194.113.42.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
+    "network": "195.94.88.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
+    "network": "195.94.90.0/24",
     "asn": "20546",
     "country_code": "DE",
     "name": "SOPRADO-ANY",
@@ -103056,14 +103072,6 @@
     "domain": "ccc.de"
   },
   {
-    "network": "45.158.42.0/23",
-    "asn": "208135",
-    "country_code": "DE",
-    "name": "fluepke-net",
-    "org": "Carl Fabian Luepke",
-    "domain": "ccc.de"
-  },
-  {
     "network": "45.158.42.0/24",
     "asn": "208135",
     "country_code": "DE",
@@ -103073,6 +103081,14 @@
   },
   {
     "network": "45.158.43.0/24",
+    "asn": "208135",
+    "country_code": "DE",
+    "name": "fluepke-net",
+    "org": "Carl Fabian Luepke",
+    "domain": "ccc.de"
+  },
+  {
+    "network": "2a0f:5380::/29",
     "asn": "208135",
     "country_code": "DE",
     "name": "fluepke-net",
@@ -104784,6 +104800,86 @@
     "domain": "telekom.de"
   },
   {
+    "network": "46.30.24.0/22",
+    "asn": "20694",
+    "country_code": "DE",
+    "name": "NMMN-AS",
+    "org": "NMMN GmbH",
+    "domain": "nmmn.com"
+  },
+  {
+    "network": "185.45.110.0/23",
+    "asn": "20694",
+    "country_code": "DE",
+    "name": "NMMN-AS",
+    "org": "NMMN GmbH",
+    "domain": "nmmn.com"
+  },
+  {
+    "network": "185.166.200.0/24",
+    "asn": "20694",
+    "country_code": "DE",
+    "name": "NMMN-AS",
+    "org": "NMMN GmbH",
+    "domain": "nmmn.com"
+  },
+  {
+    "network": "185.166.201.0/24",
+    "asn": "20694",
+    "country_code": "DE",
+    "name": "NMMN-AS",
+    "org": "NMMN GmbH",
+    "domain": "nmmn.com"
+  },
+  {
+    "network": "185.166.202.0/24",
+    "asn": "20694",
+    "country_code": "DE",
+    "name": "NMMN-AS",
+    "org": "NMMN GmbH",
+    "domain": "nmmn.com"
+  },
+  {
+    "network": "188.94.24.0/21",
+    "asn": "20694",
+    "country_code": "DE",
+    "name": "NMMN-AS",
+    "org": "NMMN GmbH",
+    "domain": "nmmn.com"
+  },
+  {
+    "network": "217.114.64.0/20",
+    "asn": "20694",
+    "country_code": "DE",
+    "name": "NMMN-AS",
+    "org": "NMMN GmbH",
+    "domain": "nmmn.com"
+  },
+  {
+    "network": "2a01:688::/32",
+    "asn": "20694",
+    "country_code": "DE",
+    "name": "NMMN-AS",
+    "org": "NMMN GmbH",
+    "domain": "nmmn.com"
+  },
+  {
+    "network": "2a01:689::/32",
+    "asn": "20694",
+    "country_code": "DE",
+    "name": "NMMN-AS",
+    "org": "NMMN GmbH",
+    "domain": "nmmn.com"
+  },
+  {
+    "network": "2a02:22f0:12::/48",
+    "asn": "20694",
+    "country_code": "DE",
+    "name": "NMMN-AS",
+    "org": "NMMN GmbH",
+    "domain": "nmmn.com"
+  },
+  {
     "network": "46.30.30.0/23",
     "asn": "52088",
     "country_code": "DE",
@@ -105633,14 +105729,6 @@
   },
   {
     "network": "2a09:a640::/32",
-    "asn": "203536",
-    "country_code": "DE",
-    "name": "AS-FNOH-DE",
-    "org": "FNOH DSL Suedheide GmbH",
-    "domain": "fnoh.de"
-  },
-  {
-    "network": "2a0f:bc0::/29",
     "asn": "203536",
     "country_code": "DE",
     "name": "AS-FNOH-DE",
@@ -109864,14 +109952,6 @@
     "domain": "amazon.com"
   },
   {
-    "network": "51.74.194.0/23",
-    "asn": "214101",
-    "country_code": "DE",
-    "name": "EU-SOVEREIGN-CLOUD",
-    "org": "Amazon Data Services European Sovereign Cloud GmbH",
-    "domain": "amazon.com"
-  },
-  {
     "network": "51.74.196.0/23",
     "asn": "214101",
     "country_code": "DE",
@@ -109881,14 +109961,6 @@
   },
   {
     "network": "51.74.198.0/23",
-    "asn": "214101",
-    "country_code": "DE",
-    "name": "EU-SOVEREIGN-CLOUD",
-    "org": "Amazon Data Services European Sovereign Cloud GmbH",
-    "domain": "amazon.com"
-  },
-  {
-    "network": "51.74.200.0/23",
     "asn": "214101",
     "country_code": "DE",
     "name": "EU-SOVEREIGN-CLOUD",
@@ -110336,14 +110408,6 @@
     "domain": "amazon.com"
   },
   {
-    "network": "2001:3fc6:21::/48",
-    "asn": "214101",
-    "country_code": "DE",
-    "name": "EU-SOVEREIGN-CLOUD",
-    "org": "Amazon Data Services European Sovereign Cloud GmbH",
-    "domain": "amazon.com"
-  },
-  {
     "network": "2001:3fc6:22::/48",
     "asn": "214101",
     "country_code": "DE",
@@ -110353,14 +110417,6 @@
   },
   {
     "network": "2001:3fc6:23::/48",
-    "asn": "214101",
-    "country_code": "DE",
-    "name": "EU-SOVEREIGN-CLOUD",
-    "org": "Amazon Data Services European Sovereign Cloud GmbH",
-    "domain": "amazon.com"
-  },
-  {
-    "network": "2001:3fc6:24::/48",
     "asn": "214101",
     "country_code": "DE",
     "name": "EU-SOVEREIGN-CLOUD",
@@ -124896,14 +124952,6 @@
     "domain": "dts-online.net"
   },
   {
-    "network": "84.201.66.0/24",
-    "asn": "8879",
-    "country_code": "DE",
-    "name": "DTS-Systeme",
-    "org": "DTS Systeme GmbH",
-    "domain": "dts-online.net"
-  },
-  {
     "network": "212.62.64.0/19",
     "asn": "8879",
     "country_code": "DE",
@@ -131355,49 +131403,49 @@
     "network": "86.105.223.0/24",
     "asn": "39519",
     "country_code": "DE",
-    "name": "MYLOC-ENTERPRISE",
+    "name": "WIIT-ENTERPRISE",
     "org": "WIIT AG",
-    "domain": "myloc.de"
+    "domain": "wiit.cloud"
   },
   {
     "network": "152.89.92.0/22",
     "asn": "39519",
     "country_code": "DE",
-    "name": "MYLOC-ENTERPRISE",
+    "name": "WIIT-ENTERPRISE",
     "org": "WIIT AG",
-    "domain": "myloc.de"
+    "domain": "wiit.cloud"
   },
   {
     "network": "194.107.165.0/24",
     "asn": "39519",
     "country_code": "DE",
-    "name": "MYLOC-ENTERPRISE",
+    "name": "WIIT-ENTERPRISE",
     "org": "WIIT AG",
-    "domain": "myloc.de"
+    "domain": "wiit.cloud"
   },
   {
     "network": "195.93.242.0/23",
     "asn": "39519",
     "country_code": "DE",
-    "name": "MYLOC-ENTERPRISE",
+    "name": "WIIT-ENTERPRISE",
     "org": "WIIT AG",
-    "domain": "myloc.de"
+    "domain": "wiit.cloud"
   },
   {
     "network": "195.191.98.0/24",
     "asn": "39519",
     "country_code": "DE",
-    "name": "MYLOC-ENTERPRISE",
+    "name": "WIIT-ENTERPRISE",
     "org": "WIIT AG",
-    "domain": "myloc.de"
+    "domain": "wiit.cloud"
   },
   {
     "network": "2001:4ba2::/32",
     "asn": "39519",
     "country_code": "DE",
-    "name": "MYLOC-ENTERPRISE",
+    "name": "WIIT-ENTERPRISE",
     "org": "WIIT AG",
-    "domain": "myloc.de"
+    "domain": "wiit.cloud"
   },
   {
     "network": "86.109.224.0/19",
@@ -157061,7 +157109,7 @@
     "country_code": "DE",
     "name": "CARLFISCHER",
     "org": "Carl Fischer",
-    "domain": "as218928.net"
+    "domain": "floatingpoint.net"
   },
   {
     "network": "2a0c:b641:e90::/48",
@@ -157069,7 +157117,7 @@
     "country_code": "DE",
     "name": "CARLFISCHER",
     "org": "Carl Fischer",
-    "domain": "as218928.net"
+    "domain": "floatingpoint.net"
   },
   {
     "network": "2a0c:b641:e91::/48",
@@ -157077,7 +157125,7 @@
     "country_code": "DE",
     "name": "CARLFISCHER",
     "org": "Carl Fischer",
-    "domain": "as218928.net"
+    "domain": "floatingpoint.net"
   },
   {
     "network": "149.245.221.0/24",
@@ -172512,6 +172560,14 @@
     "domain": "abruegmann.eu"
   },
   {
+    "network": "2a14:1ec7:f304::/48",
+    "asn": "212085",
+    "country_code": "DE",
+    "name": "BRUEGGUS-AS",
+    "org": "Alexander Bruegmann",
+    "domain": "abruegmann.eu"
+  },
+  {
     "network": "2a14:1ec7:f305::/48",
     "asn": "212085",
     "country_code": "DE",
@@ -178768,14 +178824,6 @@
     "domain": "teamviewer.com"
   },
   {
-    "network": "2a09:1500:5800::/40",
-    "asn": "208175",
-    "country_code": "DE",
-    "name": "TeamViewer-EU",
-    "org": "TeamViewer Germany GmbH",
-    "domain": "teamviewer.com"
-  },
-  {
     "network": "2a09:1500:6600::/40",
     "asn": "208175",
     "country_code": "DE",
@@ -184796,7 +184844,7 @@
     "asn": "40988",
     "country_code": "DE",
     "name": "SOLVIANS-AS",
-    "org": "SOLVIANS IT-Solutions GmbH",
+    "org": "WSD GmbH",
     "domain": "wsd.com"
   },
   {
@@ -189384,6 +189432,14 @@
     "domain": "haase-it.net"
   },
   {
+    "network": "2a06:de01:ac::/46",
+    "asn": "57222",
+    "country_code": "DE",
+    "name": "HAASE-IT-AS",
+    "org": "Olaf Haase",
+    "domain": "haase-it.net"
+  },
+  {
     "network": "195.170.185.0/24",
     "asn": "41699",
     "country_code": "DE",
@@ -192008,6 +192064,22 @@
     "domain": "comatit.de"
   },
   {
+    "network": "2001:678:1390::/48",
+    "asn": "218424",
+    "country_code": "DE",
+    "name": "Mohr",
+    "org": "Matteo Mohr",
+    "domain": "mohrline.net"
+  },
+  {
+    "network": "2a0c:9a40:e140::/48",
+    "asn": "218424",
+    "country_code": "DE",
+    "name": "Mohr",
+    "org": "Matteo Mohr",
+    "domain": "mohrline.net"
+  },
+  {
     "network": "2001:678:13b0::/48",
     "asn": "218564",
     "country_code": "DE",
@@ -192864,6 +192936,14 @@
     "domain": "pankerl-media.net"
   },
   {
+    "network": "2a00:4ac0::/29",
+    "asn": "214598",
+    "country_code": "DE",
+    "name": "ENVARO",
+    "org": "envaro UG",
+    "domain": "envaro.net"
+  },
+  {
     "network": "2a00:ccc4::/32",
     "asn": "59592",
     "country_code": "DE",
@@ -193310,46 +193390,6 @@
     "name": "BENGOEPFERT",
     "org": "Ben Gopfert",
     "domain": "bengoe.tech"
-  },
-  {
-    "network": "2a06:9801:1597::/48",
-    "asn": "218243",
-    "country_code": "DE",
-    "name": "EPICJUMP-SYSTEMS",
-    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
-    "domain": "epicjump-systems.com"
-  },
-  {
-    "network": "2a0f:6280:2200::/40",
-    "asn": "218243",
-    "country_code": "DE",
-    "name": "EPICJUMP-SYSTEMS",
-    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
-    "domain": "epicjump-systems.com"
-  },
-  {
-    "network": "2a10:fa81:2c00::/40",
-    "asn": "218243",
-    "country_code": "DE",
-    "name": "EPICJUMP-SYSTEMS",
-    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
-    "domain": "epicjump-systems.com"
-  },
-  {
-    "network": "2a14:7581:5136::/48",
-    "asn": "218243",
-    "country_code": "DE",
-    "name": "EPICJUMP-SYSTEMS",
-    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
-    "domain": "epicjump-systems.com"
-  },
-  {
-    "network": "2a14:7581:5710::/44",
-    "asn": "218243",
-    "country_code": "DE",
-    "name": "EPICJUMP-SYSTEMS",
-    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
-    "domain": "epicjump-systems.com"
   },
   {
     "network": "2a06:9801:15bc::/48",
@@ -193832,6 +193872,54 @@
     "domain": "g3nx.de"
   },
   {
+    "network": "2a09:54c3:600c::/48",
+    "asn": "219418",
+    "country_code": "DE",
+    "name": "eHILL-MEDIA",
+    "org": "Jan Hill",
+    "domain": "abuse-monitor.de"
+  },
+  {
+    "network": "2a0f:6280:1600::/48",
+    "asn": "219418",
+    "country_code": "DE",
+    "name": "eHILL-MEDIA",
+    "org": "Jan Hill",
+    "domain": "abuse-monitor.de"
+  },
+  {
+    "network": "2a0f:6280:1601::/48",
+    "asn": "219418",
+    "country_code": "DE",
+    "name": "eHILL-MEDIA",
+    "org": "Jan Hill",
+    "domain": "abuse-monitor.de"
+  },
+  {
+    "network": "2a13:c8c4:7018::/48",
+    "asn": "219418",
+    "country_code": "DE",
+    "name": "eHILL-MEDIA",
+    "org": "Jan Hill",
+    "domain": "abuse-monitor.de"
+  },
+  {
+    "network": "2a13:c8c4:7019::/48",
+    "asn": "219418",
+    "country_code": "DE",
+    "name": "eHILL-MEDIA",
+    "org": "Jan Hill",
+    "domain": "abuse-monitor.de"
+  },
+  {
+    "network": "2a13:c8c4:7500::/40",
+    "asn": "219418",
+    "country_code": "DE",
+    "name": "eHILL-MEDIA",
+    "org": "Jan Hill",
+    "domain": "abuse-monitor.de"
+  },
+  {
     "network": "2a09:54c5:1000::/48",
     "asn": "208694",
     "country_code": "DE",
@@ -194177,6 +194265,54 @@
   },
   {
     "network": "2a0a:6044:b530::/44",
+    "asn": "216401",
+    "country_code": "DE",
+    "name": "MARCEL-NET",
+    "org": "Marcel Koeppel",
+    "domain": "koeppel.it"
+  },
+  {
+    "network": "2a0a:6044:b560::/44",
+    "asn": "216401",
+    "country_code": "DE",
+    "name": "MARCEL-NET",
+    "org": "Marcel Koeppel",
+    "domain": "koeppel.it"
+  },
+  {
+    "network": "2a0a:6044:b570::/44",
+    "asn": "216401",
+    "country_code": "DE",
+    "name": "MARCEL-NET",
+    "org": "Marcel Koeppel",
+    "domain": "koeppel.it"
+  },
+  {
+    "network": "2a0a:6044:b5e0::/44",
+    "asn": "216401",
+    "country_code": "DE",
+    "name": "MARCEL-NET",
+    "org": "Marcel Koeppel",
+    "domain": "koeppel.it"
+  },
+  {
+    "network": "2a0a:6044:b5f0::/44",
+    "asn": "216401",
+    "country_code": "DE",
+    "name": "MARCEL-NET",
+    "org": "Marcel Koeppel",
+    "domain": "koeppel.it"
+  },
+  {
+    "network": "2a0f:6284:2010::/44",
+    "asn": "216401",
+    "country_code": "DE",
+    "name": "MARCEL-NET",
+    "org": "Marcel Koeppel",
+    "domain": "koeppel.it"
+  },
+  {
+    "network": "2a0f:6284:2020::/44",
     "asn": "216401",
     "country_code": "DE",
     "name": "MARCEL-NET",
@@ -194838,6 +194974,30 @@
     "name": "Florian-Voit",
     "org": "Florian Voit",
     "domain": "as218218.net"
+  },
+  {
+    "network": "2a0c:b641:fe1::/48",
+    "asn": "218222",
+    "country_code": "DE",
+    "name": "Miguel-da-Mota",
+    "org": "Miguel da Mota",
+    "domain": "migueldamota.com"
+  },
+  {
+    "network": "2a0c:b641:fe2::/48",
+    "asn": "218222",
+    "country_code": "DE",
+    "name": "Miguel-da-Mota",
+    "org": "Miguel da Mota",
+    "domain": "migueldamota.com"
+  },
+  {
+    "network": "2a0c:b641:fe8::/48",
+    "asn": "218222",
+    "country_code": "DE",
+    "name": "Miguel-da-Mota",
+    "org": "Miguel da Mota",
+    "domain": "migueldamota.com"
   },
   {
     "network": "2a0c:b642:900::/40",
@@ -195512,44 +195672,20 @@
     "domain": "devstorage.eu"
   },
   {
-    "network": "2a0f:6280:1600::/48",
-    "asn": "219418",
+    "network": "2a0f:6280:2200::/40",
+    "asn": "218243",
     "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
+    "name": "EPICJUMP-SYSTEMS",
+    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
+    "domain": "epicjump-systems.com"
   },
   {
-    "network": "2a0f:6280:1601::/48",
-    "asn": "219418",
+    "network": "2a10:fa81:2c00::/40",
+    "asn": "218243",
     "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
-    "network": "2a13:c8c4:7018::/48",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
-    "network": "2a13:c8c4:7019::/48",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
-  },
-  {
-    "network": "2a13:c8c4:7500::/40",
-    "asn": "219418",
-    "country_code": "DE",
-    "name": "eHILL-MEDIA",
-    "org": "Jan Hill",
-    "domain": "abuse-monitor.de"
+    "name": "EPICJUMP-SYSTEMS",
+    "org": "Dominik Andreas Jetten trading as EpicJump Systems",
+    "domain": "epicjump-systems.com"
   },
   {
     "network": "2a0f:6283:1400::/48",
@@ -195638,14 +195774,6 @@
     "name": "Hostingstudio",
     "org": "Jens Zimperfeld",
     "domain": "hostingstudio.org"
-  },
-  {
-    "network": "2a10:ccc0:154::/46",
-    "asn": "219495",
-    "country_code": "DE",
-    "name": "bennetgallein",
-    "org": "Bennet Gallein IT Solutions UG haftungsbeschraenkt",
-    "domain": "bg-it-solutions.de"
   },
   {
     "network": "2a10:ccc3:ca74::/48",
@@ -195750,6 +195878,14 @@
     "name": "isa",
     "org": "Isabelle Kleinheuer",
     "domain": "as215500.net"
+  },
+  {
+    "network": "2a11:f2c0:ffe3::/48",
+    "asn": "211370",
+    "country_code": "DE",
+    "name": "cve",
+    "org": "Clara Val Engler",
+    "domain": "as211370.net"
   },
   {
     "network": "2a11:fe87::/32",
@@ -195944,44 +196080,12 @@
     "domain": "rfc5514.org"
   },
   {
-    "network": "2a14:7581:5030::/44",
-    "asn": "218832",
-    "country_code": "DE",
-    "name": "SHRDSERV",
-    "org": "NextServ UG",
-    "domain": "shrdserv.com"
-  },
-  {
     "network": "2a14:7581:5101::/48",
     "asn": "218832",
     "country_code": "DE",
     "name": "SHRDSERV",
     "org": "NextServ UG",
-    "domain": "shrdserv.com"
-  },
-  {
-    "network": "2a14:7581:5040::/44",
-    "asn": "218904",
-    "country_code": "DE",
-    "name": "SHRDSERV",
-    "org": "NextIX UG",
-    "domain": "shrdserv.com"
-  },
-  {
-    "network": "2a14:7581:5105::/48",
-    "asn": "218904",
-    "country_code": "DE",
-    "name": "SHRDSERV",
-    "org": "NextIX UG",
-    "domain": "shrdserv.com"
-  },
-  {
-    "network": "2a14:7581:5060::/44",
-    "asn": "218470",
-    "country_code": "DE",
-    "name": "SHRDSERV",
-    "org": "Franke Capital GmbH",
-    "domain": "shrdserv.com"
+    "domain": "abuse.eu"
   },
   {
     "network": "2a14:7581:5102::/48",
@@ -195989,15 +196093,7 @@
     "country_code": "DE",
     "name": "SHRDSERV",
     "org": "Franke Capital GmbH",
-    "domain": "shrdserv.com"
-  },
-  {
-    "network": "2a14:7581:5070::/44",
-    "asn": "218471",
-    "country_code": "DE",
-    "name": "SHRDSERV",
-    "org": "wirenow UG",
-    "domain": "shrdserv.com"
+    "domain": "abuse.eu"
   },
   {
     "network": "2a14:7581:5103::/48",
@@ -196005,7 +196101,15 @@
     "country_code": "DE",
     "name": "SHRDSERV",
     "org": "wirenow UG",
-    "domain": "shrdserv.com"
+    "domain": "abuse.eu"
+  },
+  {
+    "network": "2a14:7581:5105::/48",
+    "asn": "218904",
+    "country_code": "DE",
+    "name": "SHRDSERV",
+    "org": "NextIX UG",
+    "domain": "abuse.eu"
   },
   {
     "network": "2a14:7583:efc5::/48",

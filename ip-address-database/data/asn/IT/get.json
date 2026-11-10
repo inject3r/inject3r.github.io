@@ -17104,6 +17104,14 @@
     "domain": "skylogic.it"
   },
   {
+    "network": "95.210.63.0/24",
+    "asn": "29286",
+    "country_code": "IT",
+    "name": "SKYLOGIC-AS",
+    "org": "SKYLOGIC S.P.A.",
+    "domain": "skylogic.it"
+  },
+  {
     "network": "95.210.68.0/24",
     "asn": "29286",
     "country_code": "IT",
@@ -30056,6 +30064,14 @@
     "domain": "konverto.eu"
   },
   {
+    "network": "145.11.160.0/19",
+    "asn": "44512",
+    "country_code": "IT",
+    "name": "KONVERTO-AS",
+    "org": "KONVERTO SPA",
+    "domain": "konverto.eu"
+  },
+  {
     "network": "185.127.212.0/22",
     "asn": "44512",
     "country_code": "IT",
@@ -30801,6 +30817,22 @@
   },
   {
     "network": "134.19.168.0/21",
+    "asn": "201602",
+    "country_code": "IT",
+    "name": "WIRTEK",
+    "org": "NEWTEC S.R.L.",
+    "domain": "newtec.marche.it"
+  },
+  {
+    "network": "134.19.168.0/22",
+    "asn": "201602",
+    "country_code": "IT",
+    "name": "WIRTEK",
+    "org": "NEWTEC S.R.L.",
+    "domain": "newtec.marche.it"
+  },
+  {
+    "network": "134.19.172.0/22",
     "asn": "201602",
     "country_code": "IT",
     "name": "WIRTEK",
@@ -36409,6 +36441,14 @@
   },
   {
     "network": "91.241.86.0/23",
+    "asn": "31617",
+    "country_code": "IT",
+    "name": "REEVO",
+    "org": "REEVO S.P.A.",
+    "domain": "reevo.cloud"
+  },
+  {
+    "network": "151.1.68.0/24",
     "asn": "31617",
     "country_code": "IT",
     "name": "REEVO",
@@ -56360,6 +56400,14 @@
     "domain": "ppnetworks.it"
   },
   {
+    "network": "2a06:a005:753::/48",
+    "asn": "211358",
+    "country_code": "IT",
+    "name": "AS-IPV6GO",
+    "org": "Patrizio Palumbo",
+    "domain": "ppnetworks.it"
+  },
+  {
     "network": "2a06:a005:75a::/48",
     "asn": "211358",
     "country_code": "IT",
@@ -56369,6 +56417,14 @@
   },
   {
     "network": "2a0e:b107:12d1::/48",
+    "asn": "211358",
+    "country_code": "IT",
+    "name": "AS-IPV6GO",
+    "org": "Patrizio Palumbo",
+    "domain": "ppnetworks.it"
+  },
+  {
+    "network": "2a0e:b107:12d2::/48",
     "asn": "211358",
     "country_code": "IT",
     "name": "AS-IPV6GO",
@@ -59105,22 +59161,6 @@
   },
   {
     "network": "91.216.38.0/24",
-    "asn": "206267",
-    "country_code": "IT",
-    "name": "SEEKPARTNERS",
-    "org": "Seek & Partners Spa",
-    "domain": "cgn.it"
-  },
-  {
-    "network": "92.245.168.0/23",
-    "asn": "206267",
-    "country_code": "IT",
-    "name": "SEEKPARTNERS",
-    "org": "Seek & Partners Spa",
-    "domain": "cgn.it"
-  },
-  {
-    "network": "92.245.168.0/24",
     "asn": "206267",
     "country_code": "IT",
     "name": "SEEKPARTNERS",
@@ -67808,6 +67848,14 @@
     "domain": "lutech.it"
   },
   {
+    "network": "185.37.94.0/24",
+    "asn": "200073",
+    "country_code": "IT",
+    "name": "NEST2-AS",
+    "org": "LUTECH S.P.A.",
+    "domain": "lutech.it"
+  },
+  {
     "network": "185.37.116.0/24",
     "asn": "34599",
     "country_code": "IT",
@@ -73044,7 +73092,7 @@
     "asn": "214164",
     "country_code": "IT",
     "name": "ASN-INTERPORTOPD",
-    "org": "Interporto Padova S.p.A.",
+    "org": "INTERPORTO PADOVA HALL S.P.A.",
     "domain": "interportopd.it"
   },
   {
@@ -78184,7 +78232,7 @@
     "domain": "dispaisy.systems"
   },
   {
-    "network": "2a14:67c3:1b2::/48",
+    "network": "2a14:7583:e111::/48",
     "asn": "204085",
     "country_code": "IT",
     "name": "DISPAISY-AS2",
@@ -78192,10 +78240,10 @@
     "domain": "dispaisy.systems"
   },
   {
-    "network": "2a14:7583:e111::/48",
-    "asn": "204085",
+    "network": "2a06:a002:140::/44",
+    "asn": "215760",
     "country_code": "IT",
-    "name": "DISPAISY-AS2",
+    "name": "DISPAISY-AS",
     "org": "Adam Grazioli",
     "domain": "dispaisy.systems"
   },
@@ -78579,7 +78627,7 @@
     "network": "2a14:7580:fffa::/48",
     "asn": "218274",
     "country_code": "IT",
-    "name": "FBLAB-IT-AS",
+    "name": "AS-FBLAB-IT",
     "org": "Fabrizio Borelli",
     "domain": "fblab.it"
   },
@@ -78590,5 +78638,13 @@
     "name": "GiorgioBrullo",
     "org": "Giorgio Maria Brullo",
     "domain": "giorgiobrullo.dev"
+  },
+  {
+    "network": "2a14:7584:6000::/36",
+    "asn": "212539",
+    "country_code": "IT",
+    "name": "OTTER-AS",
+    "org": "Francesco Masala",
+    "domain": "as212539.net"
   }
 ]

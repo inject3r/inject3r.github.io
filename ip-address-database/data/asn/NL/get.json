@@ -32424,6 +32424,14 @@
     "domain": "akamai.com"
   },
   {
+    "network": "2600:1408:2000::/48",
+    "asn": "20940",
+    "country_code": "NL",
+    "name": "AKAMAI-ASN1",
+    "org": "Akamai International B.V.",
+    "domain": "akamai.com"
+  },
+  {
     "network": "2600:1408:5400::/48",
     "asn": "20940",
     "country_code": "NL",
@@ -33617,6 +33625,14 @@
   },
   {
     "network": "2600:1415:3800::/48",
+    "asn": "20940",
+    "country_code": "NL",
+    "name": "AKAMAI-ASN1",
+    "org": "Akamai International B.V.",
+    "domain": "akamai.com"
+  },
+  {
+    "network": "2600:1415:3c00::/48",
     "asn": "20940",
     "country_code": "NL",
     "name": "AKAMAI-ASN1",
@@ -44624,6 +44640,14 @@
     "domain": "hostkey.com"
   },
   {
+    "network": "191.101.206.0/24",
+    "asn": "57043",
+    "country_code": "NL",
+    "name": "HOSTKEY-AS",
+    "org": "HOSTKEY B.V.",
+    "domain": "hostkey.com"
+  },
+  {
     "network": "192.109.206.0/24",
     "asn": "57043",
     "country_code": "NL",
@@ -45153,6 +45177,14 @@
   },
   {
     "network": "195.216.186.0/24",
+    "asn": "57043",
+    "country_code": "NL",
+    "name": "HOSTKEY-AS",
+    "org": "HOSTKEY B.V.",
+    "domain": "hostkey.com"
+  },
+  {
+    "network": "195.216.188.0/24",
     "asn": "57043",
     "country_code": "NL",
     "name": "HOSTKEY-AS",
@@ -50233,22 +50265,6 @@
   },
   {
     "network": "83.98.144.0/22",
-    "asn": "8315",
-    "country_code": "NL",
-    "name": "WORLDSTREAM",
-    "org": "WorldStream B.V.",
-    "domain": "worldstream.com"
-  },
-  {
-    "network": "83.98.149.0/24",
-    "asn": "8315",
-    "country_code": "NL",
-    "name": "WORLDSTREAM",
-    "org": "WorldStream B.V.",
-    "domain": "worldstream.com"
-  },
-  {
-    "network": "83.98.156.0/24",
     "asn": "8315",
     "country_code": "NL",
     "name": "WORLDSTREAM",
@@ -55785,14 +55801,6 @@
   },
   {
     "network": "2a02:20b3:300::/40",
-    "asn": "49981",
-    "country_code": "NL",
-    "name": "WorldStream",
-    "org": "WorldStream B.V.",
-    "domain": "worldstream.nl"
-  },
-  {
-    "network": "2a03:69c0:100::/40",
     "asn": "49981",
     "country_code": "NL",
     "name": "WorldStream",
@@ -64408,6 +64416,14 @@
     "domain": "equinix.com"
   },
   {
+    "network": "103.97.209.0/24",
+    "asn": "15830",
+    "country_code": "NL",
+    "name": "Equinix",
+    "org": "Equinix (EMEA) Acquisition Enterprises B.V.",
+    "domain": "equinix.com"
+  },
+  {
     "network": "103.100.108.0/22",
     "asn": "15830",
     "country_code": "NL",
@@ -69545,6 +69561,14 @@
   },
   {
     "network": "201.150.92.0/22",
+    "asn": "15830",
+    "country_code": "NL",
+    "name": "Equinix",
+    "org": "Equinix (EMEA) Acquisition Enterprises B.V.",
+    "domain": "equinix.com"
+  },
+  {
+    "network": "202.9.223.0/24",
     "asn": "15830",
     "country_code": "NL",
     "name": "Equinix",
@@ -82952,6 +82976,14 @@
     "domain": "solcon.nl"
   },
   {
+    "network": "212.45.63.0/24",
+    "asn": "12414",
+    "country_code": "NL",
+    "name": "NL-SOLCON",
+    "org": "Solcon Internetdiensten B.V.",
+    "domain": "solcon.nl"
+  },
+  {
     "network": "212.84.128.0/19",
     "asn": "12414",
     "country_code": "NL",
@@ -94992,6 +95024,14 @@
     "domain": "previder.net"
   },
   {
+    "network": "84.241.149.0/24",
+    "asn": "20847",
+    "country_code": "NL",
+    "name": "PREVIDER-AS",
+    "org": "Previder B.V.",
+    "domain": "previder.net"
+  },
+  {
     "network": "91.217.146.0/24",
     "asn": "20847",
     "country_code": "NL",
@@ -99121,14 +99161,6 @@
   },
   {
     "network": "193.172.0.0/15",
-    "asn": "1136",
-    "country_code": "NL",
-    "name": "KPN",
-    "org": "KPN B.V.",
-    "domain": "kpn.com"
-  },
-  {
-    "network": "193.200.140.0/24",
     "asn": "1136",
     "country_code": "NL",
     "name": "KPN",
@@ -106483,57 +106515,57 @@
     "network": "37.203.216.0/21",
     "asn": "50295",
     "country_code": "NL",
-    "name": "TRIPLE-IT",
+    "name": "HYPERSOLID",
     "org": "Hypersolid Alkmaar B.V.",
-    "domain": "wearetriple.com"
+    "domain": "hypersolid.com"
   },
   {
     "network": "93.187.8.0/21",
     "asn": "50295",
     "country_code": "NL",
-    "name": "TRIPLE-IT",
+    "name": "HYPERSOLID",
     "org": "Hypersolid Alkmaar B.V.",
-    "domain": "wearetriple.com"
+    "domain": "hypersolid.com"
   },
   {
     "network": "185.47.112.0/22",
     "asn": "50295",
     "country_code": "NL",
-    "name": "TRIPLE-IT",
+    "name": "HYPERSOLID",
     "org": "Hypersolid Alkmaar B.V.",
-    "domain": "wearetriple.com"
+    "domain": "hypersolid.com"
   },
   {
     "network": "185.66.80.0/22",
     "asn": "50295",
     "country_code": "NL",
-    "name": "TRIPLE-IT",
+    "name": "HYPERSOLID",
     "org": "Hypersolid Alkmaar B.V.",
-    "domain": "wearetriple.com"
+    "domain": "hypersolid.com"
   },
   {
     "network": "185.101.60.0/22",
     "asn": "50295",
     "country_code": "NL",
-    "name": "TRIPLE-IT",
+    "name": "HYPERSOLID",
     "org": "Hypersolid Alkmaar B.V.",
-    "domain": "wearetriple.com"
+    "domain": "hypersolid.com"
   },
   {
     "network": "2a00:1f00::/32",
     "asn": "50295",
     "country_code": "NL",
-    "name": "TRIPLE-IT",
+    "name": "HYPERSOLID",
     "org": "Hypersolid Alkmaar B.V.",
-    "domain": "wearetriple.com"
+    "domain": "hypersolid.com"
   },
   {
     "network": "2a01:8ee0::/32",
     "asn": "50295",
     "country_code": "NL",
-    "name": "TRIPLE-IT",
+    "name": "HYPERSOLID",
     "org": "Hypersolid Alkmaar B.V.",
-    "domain": "wearetriple.com"
+    "domain": "hypersolid.com"
   },
   {
     "network": "37.208.112.0/21",
@@ -107417,6 +107449,14 @@
   },
   {
     "network": "37.252.120.0/24",
+    "asn": "196752",
+    "country_code": "NL",
+    "name": "TILAA",
+    "org": "Tilaa B.V.",
+    "domain": "tilaa.net"
+  },
+  {
+    "network": "37.252.121.0/24",
     "asn": "196752",
     "country_code": "NL",
     "name": "TILAA",
@@ -115480,6 +115520,22 @@
     "domain": "novoserve.com"
   },
   {
+    "network": "143.20.220.0/24",
+    "asn": "215224",
+    "country_code": "NL",
+    "name": "NOVOSERVE-CUSTOMERS-AS",
+    "org": "NovoServe B.V.",
+    "domain": "novoserve.com"
+  },
+  {
+    "network": "146.247.121.0/24",
+    "asn": "215224",
+    "country_code": "NL",
+    "name": "NOVOSERVE-CUSTOMERS-AS",
+    "org": "NovoServe B.V.",
+    "domain": "novoserve.com"
+  },
+  {
     "network": "148.135.160.0/24",
     "asn": "215224",
     "country_code": "NL",
@@ -115585,6 +115641,14 @@
   },
   {
     "network": "209.92.165.0/24",
+    "asn": "215224",
+    "country_code": "NL",
+    "name": "NOVOSERVE-CUSTOMERS-AS",
+    "org": "NovoServe B.V.",
+    "domain": "novoserve.com"
+  },
+  {
+    "network": "209.236.200.0/24",
     "asn": "215224",
     "country_code": "NL",
     "name": "NOVOSERVE-CUSTOMERS-AS",
@@ -122840,6 +122904,14 @@
     "domain": "sotoon.cloud"
   },
   {
+    "network": "87.247.184.0/21",
+    "asn": "41227",
+    "country_code": "NL",
+    "name": "Sotoon-Cloud-Infrastructure",
+    "org": "Insightometrics B.V.",
+    "domain": "sotoon.cloud"
+  },
+  {
     "network": "87.247.184.0/24",
     "asn": "41227",
     "country_code": "NL",
@@ -123976,7 +124048,7 @@
     "domain": "true.nl"
   },
   {
-    "network": "87.233.92.0/24",
+    "network": "87.233.128.0/18",
     "asn": "15703",
     "country_code": "NL",
     "name": "TrueServer-AS",
@@ -123984,7 +124056,7 @@
     "domain": "true.nl"
   },
   {
-    "network": "87.233.128.0/18",
+    "network": "87.233.145.0/24",
     "asn": "15703",
     "country_code": "NL",
     "name": "TrueServer-AS",
@@ -126352,6 +126424,30 @@
     "domain": "ix.br"
   },
   {
+    "network": "2001:7fb:ee00::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
+    "network": "2001:7fb:ee01::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
+    "network": "2001:7fb:ee05::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
     "network": "2001:7fb:ef00::/48",
     "asn": "12654",
     "country_code": "NL",
@@ -126416,7 +126512,79 @@
     "domain": "ix.br"
   },
   {
+    "network": "2001:7fb:fe00::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
     "network": "2001:7fb:fe01::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
+    "network": "2001:7fb:fe04::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
+    "network": "2001:7fb:fe05::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
+    "network": "2001:7fb:fe0a::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
+    "network": "2001:7fb:fe0b::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
+    "network": "2001:7fb:fe13::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
+    "network": "2001:7fb:fe14::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
+    "network": "2001:7fb:fe18::/48",
+    "asn": "12654",
+    "country_code": "NL",
+    "name": "RIPE-NCC-RIS-AS",
+    "org": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+    "domain": "ix.br"
+  },
+  {
+    "network": "2001:7fb:fe20::/48",
     "asn": "12654",
     "country_code": "NL",
     "name": "RIPE-NCC-RIS-AS",
@@ -129280,6 +129448,14 @@
     "domain": "zohocorp.com"
   },
   {
+    "network": "199.67.90.0/24",
+    "asn": "205111",
+    "country_code": "NL",
+    "name": "ZOHO-EU",
+    "org": "ZOHO Corporation B.V",
+    "domain": "zohocorp.com"
+  },
+  {
     "network": "213.161.74.0/23",
     "asn": "205111",
     "country_code": "NL",
@@ -131326,6 +131502,190 @@
     "name": "VANOORD-AS",
     "org": "Van Oord Dredging and Marine Contractors BV",
     "domain": "vanoord.com"
+  },
+  {
+    "network": "91.237.129.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "91.237.153.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "91.237.177.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "91.237.198.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "95.129.80.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "95.129.81.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "95.129.82.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "95.129.83.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "95.129.84.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "95.129.85.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "95.129.86.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "95.129.87.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "107.150.170.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "185.17.72.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "185.17.74.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "185.17.75.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "185.100.56.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "185.100.57.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "185.121.188.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "185.121.189.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "185.121.190.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "185.121.191.0/24",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
+  },
+  {
+    "network": "192.75.216.0/21",
+    "asn": "61161",
+    "country_code": "NL",
+    "name": "DR-AS",
+    "org": "Darkness Reigns (Holding) B.V.",
+    "domain": "darkness-reigns.net"
   },
   {
     "network": "91.237.143.0/24",
@@ -138616,6 +138976,14 @@
     "domain": "nenet.nl"
   },
   {
+    "network": "2a0f:b240:7705::/48",
+    "asn": "210578",
+    "country_code": "NL",
+    "name": "NeNet",
+    "org": "Niels Groenewegen trading as NeNet",
+    "domain": "nenet.nl"
+  },
+  {
     "network": "2a0f:b240:7710::/44",
     "asn": "210578",
     "country_code": "NL",
@@ -140456,46 +140824,6 @@
     "domain": "mediamonks.com"
   },
   {
-    "network": "185.17.72.0/24",
-    "asn": "61161",
-    "country_code": "NL",
-    "name": "DR-AS",
-    "org": "Darkness Reigns (Holding) B.V.",
-    "domain": "darkness-reigns.net"
-  },
-  {
-    "network": "185.17.74.0/24",
-    "asn": "61161",
-    "country_code": "NL",
-    "name": "DR-AS",
-    "org": "Darkness Reigns (Holding) B.V.",
-    "domain": "darkness-reigns.net"
-  },
-  {
-    "network": "185.17.75.0/24",
-    "asn": "61161",
-    "country_code": "NL",
-    "name": "DR-AS",
-    "org": "Darkness Reigns (Holding) B.V.",
-    "domain": "darkness-reigns.net"
-  },
-  {
-    "network": "185.100.56.0/24",
-    "asn": "61161",
-    "country_code": "NL",
-    "name": "DR-AS",
-    "org": "Darkness Reigns (Holding) B.V.",
-    "domain": "darkness-reigns.net"
-  },
-  {
-    "network": "185.100.57.0/24",
-    "asn": "61161",
-    "country_code": "NL",
-    "name": "DR-AS",
-    "org": "Darkness Reigns (Holding) B.V.",
-    "domain": "darkness-reigns.net"
-  },
-  {
     "network": "185.17.80.0/22",
     "asn": "60479",
     "country_code": "NL",
@@ -141265,6 +141593,14 @@
   },
   {
     "network": "185.47.224.0/22",
+    "asn": "202932",
+    "country_code": "NL",
+    "name": "QUANZA-CONNECT",
+    "org": "Quanza B.V.",
+    "domain": "quanza.net"
+  },
+  {
+    "network": "185.47.226.0/24",
     "asn": "202932",
     "country_code": "NL",
     "name": "QUANZA-CONNECT",
@@ -147577,6 +147913,14 @@
   },
   {
     "network": "2a13:fc41::/48",
+    "asn": "216195",
+    "country_code": "NL",
+    "name": "EGGIE",
+    "org": "Egbert Verhage",
+    "domain": "eggie.services"
+  },
+  {
+    "network": "2a13:fc42::/32",
     "asn": "216195",
     "country_code": "NL",
     "name": "EGGIE",

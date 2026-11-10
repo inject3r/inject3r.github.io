@@ -300,13 +300,13 @@
     "country_name": "Niger"
   },
   {
-    "network": "143.105.74.128/25",
+    "network": "143.105.74.0/24",
     "continent_code": "AF",
     "country_code": "NE",
     "country_name": "Niger"
   },
   {
-    "network": "143.105.75.0/24",
+    "network": "143.105.75.222/31",
     "continent_code": "AF",
     "country_code": "NE",
     "country_name": "Niger"
@@ -528,7 +528,7 @@
     "country_name": "Niger"
   },
   {
-    "network": "216.234.219.28/30",
+    "network": "216.234.219.24/29",
     "continent_code": "AF",
     "country_code": "NE",
     "country_name": "Niger"
@@ -546,7 +546,13 @@
     "country_name": "Niger"
   },
   {
-    "network": "216.234.219.224/29",
+    "network": "216.234.219.92/31",
+    "continent_code": "AF",
+    "country_code": "NE",
+    "country_name": "Niger"
+  },
+  {
+    "network": "216.234.219.224/28",
     "continent_code": "AF",
     "country_code": "NE",
     "country_name": "Niger"

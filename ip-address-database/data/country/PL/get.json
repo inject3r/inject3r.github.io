@@ -1098,12 +1098,6 @@
     "country_name": "Poland"
   },
   {
-    "network": "5.135.196.152/30",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
     "network": "5.135.197.0/28",
     "continent_code": "EU",
     "country_code": "PL",
@@ -3157,6 +3151,12 @@
   },
   {
     "network": "31.59.143.0/24",
+    "continent_code": "EU",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  {
+    "network": "31.59.158.0/23",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -5556,6 +5556,12 @@
     "country_name": "Poland"
   },
   {
+    "network": "45.84.89.0/24",
+    "continent_code": "EU",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  {
     "network": "45.85.8.0/22",
     "continent_code": "EU",
     "country_code": "PL",
@@ -5659,12 +5665,6 @@
   },
   {
     "network": "45.90.184.0/22",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
-    "network": "45.92.78.0/24",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -7416,7 +7416,7 @@
     "country_name": "Poland"
   },
   {
-    "network": "50.7.248.48/28",
+    "network": "50.7.248.0/26",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -7506,7 +7506,7 @@
     "country_name": "Poland"
   },
   {
-    "network": "51.38.133.32/27",
+    "network": "51.38.133.0/26",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -20754,7 +20754,7 @@
     "country_name": "Poland"
   },
   {
-    "network": "89.47.171.144/29",
+    "network": "89.47.171.148/30",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -28584,7 +28584,7 @@
     "country_name": "Poland"
   },
   {
-    "network": "95.85.227.0/26",
+    "network": "95.85.227.32/27",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -29197,6 +29197,12 @@
   },
   {
     "network": "103.17.153.0/24",
+    "continent_code": "EU",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  {
+    "network": "103.17.203.0/24",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -37056,12 +37062,6 @@
     "country_name": "Poland"
   },
   {
-    "network": "151.241.138.0/24",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
     "network": "151.241.227.0/24",
     "continent_code": "EU",
     "country_code": "PL",
@@ -37201,12 +37201,6 @@
   },
   {
     "network": "151.246.177.0/24",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
-    "network": "151.247.85.0/24",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -40164,19 +40158,19 @@
     "country_name": "Poland"
   },
   {
-    "network": "165.225.207.0/30",
+    "network": "165.225.207.2/31",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
   },
   {
-    "network": "165.225.207.36/30",
+    "network": "165.225.207.56/30",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
   },
   {
-    "network": "165.225.207.56/29",
+    "network": "165.225.207.60/31",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -40567,12 +40561,6 @@
   },
   {
     "network": "168.222.49.156/30",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
-    "network": "168.222.49.208/31",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -41904,7 +41892,7 @@
     "country_name": "Poland"
   },
   {
-    "network": "177.1.192.0/24",
+    "network": "177.1.192.0/23",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -47202,12 +47190,6 @@
     "country_name": "Poland"
   },
   {
-    "network": "185.172.116.0/23",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
     "network": "185.172.119.0/24",
     "continent_code": "EU",
     "country_code": "PL",
@@ -47946,7 +47928,19 @@
     "country_name": "Poland"
   },
   {
-    "network": "185.212.251.48/28",
+    "network": "185.212.251.48/29",
+    "continent_code": "EU",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  {
+    "network": "185.212.251.56/30",
+    "continent_code": "EU",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  {
+    "network": "185.212.251.60/31",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -49177,6 +49171,12 @@
   },
   {
     "network": "187.52.194.0/24",
+    "continent_code": "EU",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  {
+    "network": "187.55.170.0/24",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -66054,6 +66054,12 @@
     "country_name": "Poland"
   },
   {
+    "network": "213.71.179.128/30",
+    "continent_code": "EU",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  {
     "network": "213.73.0.0/19",
     "continent_code": "EU",
     "country_code": "PL",
@@ -67140,12 +67146,6 @@
     "country_name": "Poland"
   },
   {
-    "network": "213.239.128.0/21",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
     "network": "213.241.0.0/17",
     "continent_code": "EU",
     "country_code": "PL",
@@ -67537,12 +67537,6 @@
   },
   {
     "network": "217.28.252.48/31",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
-    "network": "217.28.252.52/30",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -87960,6 +87954,12 @@
     "country_name": "Poland"
   },
   {
+    "network": "2a06:de01:c3::/48",
+    "continent_code": "EU",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  {
     "network": "2a06:de06:38f::/48",
     "continent_code": "EU",
     "country_code": "PL",
@@ -91962,6 +91962,12 @@
     "country_name": "Poland"
   },
   {
+    "network": "2a02:26f7:c94d:f880::/57",
+    "continent_code": "EU",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  {
     "network": "2a02:2978:8010:80::/57",
     "continent_code": "EU",
     "country_code": "PL",
@@ -92184,12 +92190,6 @@
     "country_name": "Poland"
   },
   {
-    "network": "2a02:26f7:c94d:f880::/58",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
     "network": "2a02:26f7:c94d:f900::/58",
     "continent_code": "EU",
     "country_code": "PL",
@@ -92383,12 +92383,6 @@
   },
   {
     "network": "2a02:26f7:c94d:f820::/59",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
-    "network": "2a02:26f7:c94d:f8e0::/59",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -92611,12 +92605,6 @@
   },
   {
     "network": "2a02:26f7:c94d:f810::/60",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
-    "network": "2a02:26f7:c94d:f8c0::/60",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -92856,12 +92844,6 @@
     "country_name": "Poland"
   },
   {
-    "network": "2a02:26f7:c94d:f8d8::/61",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
     "network": "2a02:26f7:c94d:f950::/61",
     "continent_code": "EU",
     "country_code": "PL",
@@ -93085,12 +93067,6 @@
   },
   {
     "network": "2a02:26f7:c94d:f808::/62",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
-    "network": "2a02:26f7:c94d:f8d0::/62",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"
@@ -94182,12 +94158,6 @@
     "country_name": "Poland"
   },
   {
-    "network": "2a02:26f7:c94d:f8d4::/63",
-    "continent_code": "EU",
-    "country_code": "PL",
-    "country_name": "Poland"
-  },
-  {
     "network": "2a02:26f7:c94d:f95e::/63",
     "continent_code": "EU",
     "country_code": "PL",
@@ -94549,6 +94519,12 @@
   },
   {
     "network": "2001:470:26:904::/64",
+    "continent_code": "EU",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  {
+    "network": "2001:470:26:93e::/64",
     "continent_code": "EU",
     "country_code": "PL",
     "country_name": "Poland"

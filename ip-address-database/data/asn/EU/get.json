@@ -88,7 +88,15 @@
     "domain": "vodafone.com"
   },
   {
-    "network": "46.108.112.0/23",
+    "network": "46.108.112.0/24",
+    "asn": "1273",
+    "country_code": "EU",
+    "name": "CW",
+    "org": "Vodafone Group PLC",
+    "domain": "vodafone.com"
+  },
+  {
+    "network": "46.108.113.0/24",
     "asn": "1273",
     "country_code": "EU",
     "name": "CW",
@@ -440,7 +448,15 @@
     "domain": "vodafone.com"
   },
   {
-    "network": "108.179.120.0/23",
+    "network": "108.179.120.0/24",
+    "asn": "1273",
+    "country_code": "EU",
+    "name": "CW",
+    "org": "Vodafone Group PLC",
+    "domain": "vodafone.com"
+  },
+  {
+    "network": "108.179.121.0/24",
     "asn": "1273",
     "country_code": "EU",
     "name": "CW",
@@ -6072,62 +6088,6 @@
     "domain": "it-sudparis.eu"
   },
   {
-    "network": "157.159.40.0/23",
-    "asn": "2094",
-    "country_code": "EU",
-    "name": "FR-TELECOM-MANAGEMENT-SUDPARIS",
-    "org": "Renater",
-    "domain": "it-sudparis.eu"
-  },
-  {
-    "network": "157.159.42.0/23",
-    "asn": "2094",
-    "country_code": "EU",
-    "name": "FR-TELECOM-MANAGEMENT-SUDPARIS",
-    "org": "Renater",
-    "domain": "it-sudparis.eu"
-  },
-  {
-    "network": "157.159.44.0/22",
-    "asn": "2094",
-    "country_code": "EU",
-    "name": "FR-TELECOM-MANAGEMENT-SUDPARIS",
-    "org": "Renater",
-    "domain": "it-sudparis.eu"
-  },
-  {
-    "network": "157.159.48.0/23",
-    "asn": "2094",
-    "country_code": "EU",
-    "name": "FR-TELECOM-MANAGEMENT-SUDPARIS",
-    "org": "Renater",
-    "domain": "it-sudparis.eu"
-  },
-  {
-    "network": "157.159.61.0/24",
-    "asn": "2094",
-    "country_code": "EU",
-    "name": "FR-TELECOM-MANAGEMENT-SUDPARIS",
-    "org": "Renater",
-    "domain": "it-sudparis.eu"
-  },
-  {
-    "network": "157.159.196.0/24",
-    "asn": "2094",
-    "country_code": "EU",
-    "name": "FR-TELECOM-MANAGEMENT-SUDPARIS",
-    "org": "Renater",
-    "domain": "it-sudparis.eu"
-  },
-  {
-    "network": "157.159.200.0/24",
-    "asn": "2094",
-    "country_code": "EU",
-    "name": "FR-TELECOM-MANAGEMENT-SUDPARIS",
-    "org": "Renater",
-    "domain": "it-sudparis.eu"
-  },
-  {
     "network": "185.4.250.0/24",
     "asn": "2094",
     "country_code": "EU",
@@ -6705,14 +6665,6 @@
   },
   {
     "network": "193.38.180.0/24",
-    "asn": "1961",
-    "country_code": "EU",
-    "name": "MARS-AMERICAS",
-    "org": "ISI",
-    "domain": "ibmmail.com"
-  },
-  {
-    "network": "193.38.181.0/24",
     "asn": "1961",
     "country_code": "EU",
     "name": "MARS-AMERICAS",

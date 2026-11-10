@@ -1782,7 +1782,7 @@
     "country_name": "South Africa"
   },
   {
-    "network": "38.211.255.192/28",
+    "network": "38.211.255.128/25",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -2178,6 +2178,12 @@
     "country_name": "South Africa"
   },
   {
+    "network": "41.66.124.242/31",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
     "network": "41.66.124.244/30",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -2209,12 +2215,6 @@
   },
   {
     "network": "41.66.127.64/28",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
-    "network": "41.66.127.80/29",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -6084,6 +6084,18 @@
     "country_name": "South Africa"
   },
   {
+    "network": "45.192.57.0/24",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "45.192.58.0/24",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
     "network": "45.195.4.0/24",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -9498,7 +9510,7 @@
     "country_name": "South Africa"
   },
   {
-    "network": "88.202.64.64/29",
+    "network": "88.202.64.0/24",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -10770,13 +10782,13 @@
     "country_name": "South Africa"
   },
   {
-    "network": "102.129.255.20/30",
+    "network": "102.129.255.14/31",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
   },
   {
-    "network": "102.129.255.24/29",
+    "network": "102.129.255.16/28",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -10788,7 +10800,7 @@
     "country_name": "South Africa"
   },
   {
-    "network": "102.129.255.44/31",
+    "network": "102.129.255.44/30",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -10800,13 +10812,25 @@
     "country_name": "South Africa"
   },
   {
-    "network": "102.129.255.56/30",
+    "network": "102.129.255.58/31",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
   },
   {
-    "network": "102.129.255.60/31",
+    "network": "102.129.255.60/30",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "102.129.255.64/31",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "102.129.255.70/31",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -10848,19 +10872,25 @@
     "country_name": "South Africa"
   },
   {
-    "network": "102.129.255.108/31",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
     "network": "102.129.255.112/29",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
   },
   {
-    "network": "102.129.255.128/27",
+    "network": "102.129.255.128/28",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "102.129.255.144/29",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "102.129.255.152/30",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -10872,19 +10902,13 @@
     "country_name": "South Africa"
   },
   {
-    "network": "102.129.255.192/29",
+    "network": "102.129.255.184/30",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
   },
   {
-    "network": "102.129.255.208/28",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
-    "network": "102.129.255.224/27",
+    "network": "102.129.255.192/26",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -13662,7 +13686,7 @@
     "country_name": "South Africa"
   },
   {
-    "network": "102.212.90.0/23",
+    "network": "102.212.88.0/22",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -15444,12 +15468,6 @@
     "country_name": "South Africa"
   },
   {
-    "network": "103.240.156.0/22",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
     "network": "103.250.206.0/24",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -16770,12 +16788,6 @@
     "country_name": "South Africa"
   },
   {
-    "network": "105.22.34.0/24",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
     "network": "105.22.36.0/23",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -16801,18 +16813,6 @@
   },
   {
     "network": "105.22.42.0/25",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
-    "network": "105.22.44.0/22",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
-    "network": "105.22.48.0/20",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -16944,7 +16944,7 @@
     "country_name": "South Africa"
   },
   {
-    "network": "105.27.161.128/26",
+    "network": "105.27.161.128/25",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -17652,7 +17652,7 @@
     "country_name": "South Africa"
   },
   {
-    "network": "119.13.64.0/22",
+    "network": "119.13.66.0/23",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -19926,6 +19926,12 @@
     "country_name": "South Africa"
   },
   {
+    "network": "154.16.166.0/23",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
     "network": "154.16.177.0/24",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -20676,6 +20682,18 @@
     "country_name": "South Africa"
   },
   {
+    "network": "154.200.250.0/23",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
+    "network": "154.200.252.0/22",
+    "continent_code": "AF",
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  {
     "network": "154.203.81.0/24",
     "continent_code": "AF",
     "country_code": "ZA",
@@ -20784,19 +20802,13 @@
     "country_name": "South Africa"
   },
   {
-    "network": "154.214.236.0/23",
+    "network": "154.214.238.0/23",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
   },
   {
-    "network": "154.214.240.0/22",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
-    "network": "154.214.246.0/23",
+    "network": "154.214.240.0/21",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -29370,13 +29382,7 @@
     "country_name": "South Africa"
   },
   {
-    "network": "196.61.66.0/23",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
-    "network": "196.61.68.0/22",
+    "network": "196.61.64.0/21",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
@@ -31015,12 +31021,6 @@
   },
   {
     "network": "197.211.185.32/28",
-    "continent_code": "AF",
-    "country_code": "ZA",
-    "country_name": "South Africa"
-  },
-  {
-    "network": "197.211.185.52/30",
     "continent_code": "AF",
     "country_code": "ZA",
     "country_name": "South Africa"
