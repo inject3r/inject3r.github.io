@@ -4592,14 +4592,6 @@
     "domain": "84grams.se"
   },
   {
-    "network": "2a02:7e00:2::/48",
-    "asn": "57630",
-    "country_code": "SE",
-    "name": "AS-84GRAMS",
-    "org": "84 Grams AB",
-    "domain": "84grams.se"
-  },
-  {
     "network": "2a03:7f20::/29",
     "asn": "57630",
     "country_code": "SE",
@@ -24752,6 +24744,22 @@
     "domain": "telavox.com"
   },
   {
+    "network": "80.83.216.0/24",
+    "asn": "44123",
+    "country_code": "SE",
+    "name": "TELAVOX",
+    "org": "Telavox AB",
+    "domain": "telavox.com"
+  },
+  {
+    "network": "80.83.217.0/24",
+    "asn": "44123",
+    "country_code": "SE",
+    "name": "TELAVOX",
+    "org": "Telavox AB",
+    "domain": "telavox.com"
+  },
+  {
     "network": "80.83.220.0/24",
     "asn": "44123",
     "country_code": "SE",
@@ -25065,14 +25073,6 @@
   },
   {
     "network": "81.92.64.0/20",
-    "asn": "25146",
-    "country_code": "SE",
-    "name": "ADVANIA-AS",
-    "org": "Advania Sverige AB",
-    "domain": "rts.se"
-  },
-  {
-    "network": "2a02:d98::/32",
     "asn": "25146",
     "country_code": "SE",
     "name": "ADVANIA-AS",
@@ -30832,6 +30832,14 @@
     "domain": "regionstockholm.se"
   },
   {
+    "network": "192.36.204.0/24",
+    "asn": "19399",
+    "country_code": "SE",
+    "name": "SLL",
+    "org": "Region stockholm",
+    "domain": "regionstockholm.se"
+  },
+  {
     "network": "192.44.240.0/21",
     "asn": "19399",
     "country_code": "SE",
@@ -31432,6 +31440,94 @@
     "domain": "skanska.se"
   },
   {
+    "network": "145.79.144.0/24",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
+    "network": "153.76.10.0/24",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
+    "network": "2a07:e000:33::/48",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
+    "network": "2a13:9500:1f1::/48",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
+    "network": "2a13:c8c4:2280::/48",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
+    "network": "2a13:c8c4:2281::/48",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
+    "network": "2a13:c8c4:2282::/48",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
+    "network": "2a13:c8c4:2283::/48",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
+    "network": "2a13:c8c4:228c::/48",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
+    "network": "2a13:c8c4:228d::/48",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
+    "network": "2a13:c8c4:228e::/48",
+    "asn": "218973",
+    "country_code": "SE",
+    "name": "ONE-ZERO-GROUP-AS",
+    "org": "One Zero Group AB",
+    "domain": "onezero.tel"
+  },
+  {
     "network": "147.78.231.0/24",
     "asn": "201023",
     "country_code": "SE",
@@ -31582,78 +31678,6 @@
     "name": "TETRAPAK-AS",
     "org": "AB Tetra Pak",
     "domain": "tetrapak.com"
-  },
-  {
-    "network": "153.76.10.0/24",
-    "asn": "218973",
-    "country_code": "SE",
-    "name": "ONE-ZERO-GROUP-AS",
-    "org": "One Zero Group AB",
-    "domain": "onezero.tel"
-  },
-  {
-    "network": "2a07:e000:33::/48",
-    "asn": "218973",
-    "country_code": "SE",
-    "name": "ONE-ZERO-GROUP-AS",
-    "org": "One Zero Group AB",
-    "domain": "onezero.tel"
-  },
-  {
-    "network": "2a13:9500:1f1::/48",
-    "asn": "218973",
-    "country_code": "SE",
-    "name": "ONE-ZERO-GROUP-AS",
-    "org": "One Zero Group AB",
-    "domain": "onezero.tel"
-  },
-  {
-    "network": "2a13:c8c4:2280::/48",
-    "asn": "218973",
-    "country_code": "SE",
-    "name": "ONE-ZERO-GROUP-AS",
-    "org": "One Zero Group AB",
-    "domain": "onezero.tel"
-  },
-  {
-    "network": "2a13:c8c4:2281::/48",
-    "asn": "218973",
-    "country_code": "SE",
-    "name": "ONE-ZERO-GROUP-AS",
-    "org": "One Zero Group AB",
-    "domain": "onezero.tel"
-  },
-  {
-    "network": "2a13:c8c4:2282::/48",
-    "asn": "218973",
-    "country_code": "SE",
-    "name": "ONE-ZERO-GROUP-AS",
-    "org": "One Zero Group AB",
-    "domain": "onezero.tel"
-  },
-  {
-    "network": "2a13:c8c4:2283::/48",
-    "asn": "218973",
-    "country_code": "SE",
-    "name": "ONE-ZERO-GROUP-AS",
-    "org": "One Zero Group AB",
-    "domain": "onezero.tel"
-  },
-  {
-    "network": "2a13:c8c4:228c::/48",
-    "asn": "218973",
-    "country_code": "SE",
-    "name": "ONE-ZERO-GROUP-AS",
-    "org": "One Zero Group AB",
-    "domain": "onezero.tel"
-  },
-  {
-    "network": "2a13:c8c4:228d::/48",
-    "asn": "218973",
-    "country_code": "SE",
-    "name": "ONE-ZERO-GROUP-AS",
-    "org": "One Zero Group AB",
-    "domain": "onezero.tel"
   },
   {
     "network": "156.51.150.0/23",
@@ -40168,14 +40192,6 @@
     "domain": "skylite.se"
   },
   {
-    "network": "2001:67c:8e8::/48",
-    "asn": "210409",
-    "country_code": "SE",
-    "name": "Skylite-AS",
-    "org": "Skylite AB",
-    "domain": "skylite.se"
-  },
-  {
     "network": "193.182.109.0/24",
     "asn": "50791",
     "country_code": "SE",
@@ -43081,6 +43097,14 @@
   },
   {
     "network": "2a0b:4e07:2f4::/48",
+    "asn": "219367",
+    "country_code": "SE",
+    "name": "PITEA-AS",
+    "org": "Andreas Fornberg",
+    "domain": "pitea.xyz"
+  },
+  {
+    "network": "2a0b:4e07:2ff::/48",
     "asn": "219367",
     "country_code": "SE",
     "name": "PITEA-AS",

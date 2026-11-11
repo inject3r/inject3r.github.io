@@ -304,7 +304,7 @@
     "domain": "spacex.com"
   },
   {
-    "network": "202.65.232.0/22",
+    "network": "202.65.231.0/24",
     "asn": "45700",
     "country_code": "ID",
     "name": "IDNIC-STARLINK-AS-ID",
@@ -312,7 +312,7 @@
     "domain": "spacex.com"
   },
   {
-    "network": "202.65.234.0/24",
+    "network": "202.65.232.0/22",
     "asn": "45700",
     "country_code": "ID",
     "name": "IDNIC-STARLINK-AS-ID",
@@ -361,14 +361,6 @@
   },
   {
     "network": "203.17.80.0/23",
-    "asn": "45700",
-    "country_code": "ID",
-    "name": "IDNIC-STARLINK-AS-ID",
-    "org": "PT Starlink Services Indonesia",
-    "domain": "spacex.com"
-  },
-  {
-    "network": "203.17.81.0/24",
     "asn": "45700",
     "country_code": "ID",
     "name": "IDNIC-STARLINK-AS-ID",
@@ -449,6 +441,70 @@
   },
   {
     "network": "2401:e320:c00::/38",
+    "asn": "45700",
+    "country_code": "ID",
+    "name": "IDNIC-STARLINK-AS-ID",
+    "org": "PT Starlink Services Indonesia",
+    "domain": "spacex.com"
+  },
+  {
+    "network": "2401:e320:c00::/41",
+    "asn": "45700",
+    "country_code": "ID",
+    "name": "IDNIC-STARLINK-AS-ID",
+    "org": "PT Starlink Services Indonesia",
+    "domain": "spacex.com"
+  },
+  {
+    "network": "2401:e320:c80::/41",
+    "asn": "45700",
+    "country_code": "ID",
+    "name": "IDNIC-STARLINK-AS-ID",
+    "org": "PT Starlink Services Indonesia",
+    "domain": "spacex.com"
+  },
+  {
+    "network": "2401:e320:d00::/41",
+    "asn": "45700",
+    "country_code": "ID",
+    "name": "IDNIC-STARLINK-AS-ID",
+    "org": "PT Starlink Services Indonesia",
+    "domain": "spacex.com"
+  },
+  {
+    "network": "2401:e320:d80::/41",
+    "asn": "45700",
+    "country_code": "ID",
+    "name": "IDNIC-STARLINK-AS-ID",
+    "org": "PT Starlink Services Indonesia",
+    "domain": "spacex.com"
+  },
+  {
+    "network": "2401:e320:e00::/41",
+    "asn": "45700",
+    "country_code": "ID",
+    "name": "IDNIC-STARLINK-AS-ID",
+    "org": "PT Starlink Services Indonesia",
+    "domain": "spacex.com"
+  },
+  {
+    "network": "2401:e320:e80::/41",
+    "asn": "45700",
+    "country_code": "ID",
+    "name": "IDNIC-STARLINK-AS-ID",
+    "org": "PT Starlink Services Indonesia",
+    "domain": "spacex.com"
+  },
+  {
+    "network": "2401:e320:f00::/41",
+    "asn": "45700",
+    "country_code": "ID",
+    "name": "IDNIC-STARLINK-AS-ID",
+    "org": "PT Starlink Services Indonesia",
+    "domain": "spacex.com"
+  },
+  {
+    "network": "2401:e320:f80::/41",
     "asn": "45700",
     "country_code": "ID",
     "name": "IDNIC-STARLINK-AS-ID",

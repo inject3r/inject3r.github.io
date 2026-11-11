@@ -3176,14 +3176,6 @@
     "domain": "cyber.net.pk"
   },
   {
-    "network": "139.135.32.0/21",
-    "asn": "9541",
-    "country_code": "PK",
-    "name": "CYBERNET-AP",
-    "org": "Cyber Internet Services (Private) Limited",
-    "domain": "cyber.net.pk"
-  },
-  {
     "network": "139.135.32.0/24",
     "asn": "9541",
     "country_code": "PK",
@@ -7584,55 +7576,7 @@
     "domain": "fariya.com"
   },
   {
-    "network": "14.192.131.0/24",
-    "asn": "45814",
-    "country_code": "PK",
-    "name": "FARIYA-PK",
-    "org": "Fariya Networks",
-    "domain": "fariya.com"
-  },
-  {
-    "network": "14.192.132.0/24",
-    "asn": "45814",
-    "country_code": "PK",
-    "name": "FARIYA-PK",
-    "org": "Fariya Networks",
-    "domain": "fariya.com"
-  },
-  {
-    "network": "14.192.133.0/24",
-    "asn": "45814",
-    "country_code": "PK",
-    "name": "FARIYA-PK",
-    "org": "Fariya Networks",
-    "domain": "fariya.com"
-  },
-  {
     "network": "14.192.134.0/24",
-    "asn": "45814",
-    "country_code": "PK",
-    "name": "FARIYA-PK",
-    "org": "Fariya Networks",
-    "domain": "fariya.com"
-  },
-  {
-    "network": "14.192.135.0/24",
-    "asn": "45814",
-    "country_code": "PK",
-    "name": "FARIYA-PK",
-    "org": "Fariya Networks",
-    "domain": "fariya.com"
-  },
-  {
-    "network": "14.192.140.0/24",
-    "asn": "45814",
-    "country_code": "PK",
-    "name": "FARIYA-PK",
-    "org": "Fariya Networks",
-    "domain": "fariya.com"
-  },
-  {
-    "network": "14.192.141.0/24",
     "asn": "45814",
     "country_code": "PK",
     "name": "FARIYA-PK",
@@ -7734,54 +7678,6 @@
     "name": "FARIYA-PK",
     "org": "Fariya Networks",
     "domain": "fariya.com"
-  },
-  {
-    "network": "14.192.130.0/24",
-    "asn": "133933",
-    "country_code": "PK",
-    "name": "NETSAT1-PK",
-    "org": "NetSat Private Limited",
-    "domain": "netsat.net.pk"
-  },
-  {
-    "network": "14.192.147.0/24",
-    "asn": "133933",
-    "country_code": "PK",
-    "name": "NETSAT1-PK",
-    "org": "NetSat Private Limited",
-    "domain": "netsat.net.pk"
-  },
-  {
-    "network": "103.48.24.0/24",
-    "asn": "133933",
-    "country_code": "PK",
-    "name": "NETSAT1-PK",
-    "org": "NetSat Private Limited",
-    "domain": "netsat.net.pk"
-  },
-  {
-    "network": "103.48.25.0/24",
-    "asn": "133933",
-    "country_code": "PK",
-    "name": "NETSAT1-PK",
-    "org": "NetSat Private Limited",
-    "domain": "netsat.net.pk"
-  },
-  {
-    "network": "103.104.84.0/24",
-    "asn": "133933",
-    "country_code": "PK",
-    "name": "NETSAT1-PK",
-    "org": "NetSat Private Limited",
-    "domain": "netsat.net.pk"
-  },
-  {
-    "network": "103.104.85.0/24",
-    "asn": "133933",
-    "country_code": "PK",
-    "name": "NETSAT1-PK",
-    "org": "NetSat Private Limited",
-    "domain": "netsat.net.pk"
   },
   {
     "network": "14.192.137.0/24",
@@ -8390,6 +8286,46 @@
     "name": "WAYLINK-AS-AP",
     "org": "WayLink (Pvt.) Limited",
     "domain": "waylink.com.pk"
+  },
+  {
+    "network": "14.192.147.0/24",
+    "asn": "133933",
+    "country_code": "PK",
+    "name": "NETSAT1-PK",
+    "org": "NetSat Private Limited",
+    "domain": "netsat.net.pk"
+  },
+  {
+    "network": "103.48.24.0/24",
+    "asn": "133933",
+    "country_code": "PK",
+    "name": "NETSAT1-PK",
+    "org": "NetSat Private Limited",
+    "domain": "netsat.net.pk"
+  },
+  {
+    "network": "103.48.25.0/24",
+    "asn": "133933",
+    "country_code": "PK",
+    "name": "NETSAT1-PK",
+    "org": "NetSat Private Limited",
+    "domain": "netsat.net.pk"
+  },
+  {
+    "network": "103.104.84.0/24",
+    "asn": "133933",
+    "country_code": "PK",
+    "name": "NETSAT1-PK",
+    "org": "NetSat Private Limited",
+    "domain": "netsat.net.pk"
+  },
+  {
+    "network": "103.104.85.0/24",
+    "asn": "133933",
+    "country_code": "PK",
+    "name": "NETSAT1-PK",
+    "org": "NetSat Private Limited",
+    "domain": "netsat.net.pk"
   },
   {
     "network": "14.192.152.0/24",
@@ -38032,6 +37968,14 @@
     "domain": "ntc.net.pk"
   },
   {
+    "network": "175.107.11.0/24",
+    "asn": "23888",
+    "country_code": "PK",
+    "name": "NTC-AS-AP",
+    "org": "National Telecommunication Corporation",
+    "domain": "ntc.net.pk"
+  },
+  {
     "network": "175.107.12.0/24",
     "asn": "23888",
     "country_code": "PK",
@@ -40209,38 +40153,6 @@
   },
   {
     "network": "2400:fc00:8070::/44",
-    "asn": "45773",
-    "country_code": "PK",
-    "name": "HECPERN-AS-PK",
-    "org": "HEC",
-    "domain": "hec.gov.pk"
-  },
-  {
-    "network": "2400:fc00:80b0::/44",
-    "asn": "45773",
-    "country_code": "PK",
-    "name": "HECPERN-AS-PK",
-    "org": "HEC",
-    "domain": "hec.gov.pk"
-  },
-  {
-    "network": "2400:fc00:80b0::/48",
-    "asn": "45773",
-    "country_code": "PK",
-    "name": "HECPERN-AS-PK",
-    "org": "HEC",
-    "domain": "hec.gov.pk"
-  },
-  {
-    "network": "2400:fc00:80b2::/48",
-    "asn": "45773",
-    "country_code": "PK",
-    "name": "HECPERN-AS-PK",
-    "org": "HEC",
-    "domain": "hec.gov.pk"
-  },
-  {
-    "network": "2400:fc00:80b5::/48",
     "asn": "45773",
     "country_code": "PK",
     "name": "HECPERN-AS-PK",
@@ -45360,6 +45272,126 @@
     "domain": "ylinx.pk"
   },
   {
+    "network": "45.121.140.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "103.103.42.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "103.103.43.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "103.120.70.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "103.120.71.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "119.160.214.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "119.160.215.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "160.250.114.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "160.250.115.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "163.52.68.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "163.52.69.0/24",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "2402:2ec0::/34",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "2402:2ec0:4000::/34",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "2402:2ec0:8000::/34",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
+    "network": "2402:2ec0:c000::/34",
+    "asn": "137047",
+    "country_code": "PK",
+    "name": "TATMPL-AS-AP",
+    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+    "domain": "telcomaster.com"
+  },
+  {
     "network": "45.132.75.0/24",
     "asn": "135598",
     "country_code": "PK",
@@ -49065,6 +49097,38 @@
   },
   {
     "network": "180.178.173.0/24",
+    "asn": "147302",
+    "country_code": "PK",
+    "name": "FBPL-AS-AP",
+    "org": "FALCON BROADBAND (PRIVATE) LIMITED",
+    "domain": "falconbroadband.net.pk"
+  },
+  {
+    "network": "182.255.48.0/24",
+    "asn": "147302",
+    "country_code": "PK",
+    "name": "FBPL-AS-AP",
+    "org": "FALCON BROADBAND (PRIVATE) LIMITED",
+    "domain": "falconbroadband.net.pk"
+  },
+  {
+    "network": "182.255.49.0/24",
+    "asn": "147302",
+    "country_code": "PK",
+    "name": "FBPL-AS-AP",
+    "org": "FALCON BROADBAND (PRIVATE) LIMITED",
+    "domain": "falconbroadband.net.pk"
+  },
+  {
+    "network": "182.255.50.0/24",
+    "asn": "147302",
+    "country_code": "PK",
+    "name": "FBPL-AS-AP",
+    "org": "FALCON BROADBAND (PRIVATE) LIMITED",
+    "domain": "falconbroadband.net.pk"
+  },
+  {
+    "network": "182.255.51.0/24",
     "asn": "147302",
     "country_code": "PK",
     "name": "FBPL-AS-AP",
@@ -54696,6 +54760,14 @@
     "domain": "fiberish.net.pk"
   },
   {
+    "network": "2400:8220::/32",
+    "asn": "141342",
+    "country_code": "PK",
+    "name": "FIBERISHPVTLTD-AS-AP",
+    "org": "FIBERISH (PVT) LTD",
+    "domain": "fiberish.net.pk"
+  },
+  {
     "network": "103.72.138.0/24",
     "asn": "134663",
     "country_code": "PK",
@@ -55782,118 +55854,6 @@
     "name": "TCSPVTLTD-AS-AP",
     "org": "Technology Communications & Supplies (Private) Limited",
     "domain": "tcs.com.pk"
-  },
-  {
-    "network": "103.103.42.0/24",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "103.103.43.0/24",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "103.120.70.0/24",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "103.120.71.0/24",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "119.160.214.0/24",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "119.160.215.0/24",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "160.250.114.0/24",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "160.250.115.0/24",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "163.52.68.0/24",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "163.52.69.0/24",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "2402:2ec0::/34",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "2402:2ec0:4000::/34",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "2402:2ec0:8000::/34",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
-  },
-  {
-    "network": "2402:2ec0:c000::/34",
-    "asn": "137047",
-    "country_code": "PK",
-    "name": "TATMPL-AS-AP",
-    "org": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
-    "domain": "telcomaster.com"
   },
   {
     "network": "103.103.112.0/24",
@@ -60985,6 +60945,14 @@
   },
   {
     "network": "103.210.4.0/23",
+    "asn": "135123",
+    "country_code": "PK",
+    "name": "SAMBA-AS-AP",
+    "org": "Samba Bank Limited",
+    "domain": "samba.com.pk"
+  },
+  {
+    "network": "103.210.4.0/24",
     "asn": "135123",
     "country_code": "PK",
     "name": "SAMBA-AS-AP",
@@ -66592,118 +66560,6 @@
     "domain": "jazz.com.pk"
   },
   {
-    "network": "187.52.226.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.227.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.228.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.229.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.230.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.231.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.232.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.233.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.234.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.235.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.236.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.237.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.238.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.52.239.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
     "network": "187.52.240.0/24",
     "asn": "45669",
     "country_code": "PK",
@@ -66953,134 +66809,6 @@
   },
   {
     "network": "187.53.175.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.176.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.177.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.178.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.179.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.180.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.181.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.182.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.183.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.184.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.185.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.186.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.187.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.188.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.189.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.190.0/24",
-    "asn": "45669",
-    "country_code": "PK",
-    "name": "JPL-PK-AS-PK",
-    "org": "JAZZWORLD PAKISTAN LIMITED",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "187.53.191.0/24",
     "asn": "45669",
     "country_code": "PK",
     "name": "JPL-PK-AS-PK",
@@ -67633,6 +67361,94 @@
   },
   {
     "network": "187.78.132.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.133.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.134.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.135.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.136.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.137.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.138.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.139.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.140.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.141.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.142.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "187.78.143.0/24",
     "asn": "45669",
     "country_code": "PK",
     "name": "JPL-PK-AS-PK",
@@ -68265,6 +68081,262 @@
   },
   {
     "network": "189.12.15.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.224.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.225.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.226.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.227.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.228.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.229.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.230.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.231.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.232.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.233.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.234.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.235.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.236.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.237.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.238.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.239.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.240.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.241.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.242.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.243.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.244.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.245.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.246.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.247.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.248.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.249.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.250.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.251.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.252.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.253.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.254.0/24",
+    "asn": "45669",
+    "country_code": "PK",
+    "name": "JPL-PK-AS-PK",
+    "org": "JAZZWORLD PAKISTAN LIMITED",
+    "domain": "jazz.com.pk"
+  },
+  {
+    "network": "189.31.255.0/24",
     "asn": "45669",
     "country_code": "PK",
     "name": "JPL-PK-AS-PK",

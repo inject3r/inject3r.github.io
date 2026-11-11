@@ -540,6 +540,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2.63.183.152/30",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2.63.183.160/27",
     "continent_code": "EU",
     "country_code": "RU",
@@ -2022,6 +2028,18 @@
     "country_name": "Russia"
   },
   {
+    "network": "5.181.170.84/30",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "5.181.170.88/29",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "5.181.170.96/27",
     "continent_code": "EU",
     "country_code": "RU",
@@ -2269,18 +2287,6 @@
   },
   {
     "network": "5.183.253.0/25",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "5.183.253.128/28",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "5.183.253.160/27",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -3139,12 +3145,6 @@
   },
   {
     "network": "23.105.224.0/19",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "23.109.244.0/23",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -5346,25 +5346,25 @@
     "country_name": "Russia"
   },
   {
-    "network": "31.185.5.14/31",
+    "network": "31.185.5.12/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
   },
   {
-    "network": "31.185.5.114/31",
+    "network": "31.185.5.112/29",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
   },
   {
-    "network": "31.185.6.100/30",
+    "network": "31.185.6.100/31",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
   },
   {
-    "network": "31.185.6.146/31",
+    "network": "31.185.6.144/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -5376,19 +5376,19 @@
     "country_name": "Russia"
   },
   {
-    "network": "31.185.6.168/31",
+    "network": "31.185.6.168/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
   },
   {
-    "network": "31.185.6.228/31",
+    "network": "31.185.6.228/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
   },
   {
-    "network": "31.185.6.236/30",
+    "network": "31.185.6.232/29",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -6570,7 +6570,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "37.128.240.0/23",
+    "network": "37.128.240.188/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -7218,7 +7218,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "37.230.242.240/28",
+    "network": "37.230.242.240/29",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -13242,7 +13242,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "45.195.96.0/24",
+    "network": "45.195.96.0/22",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -13266,7 +13266,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "45.195.253.0/24",
+    "network": "45.195.252.0/23",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -13278,25 +13278,31 @@
     "country_name": "Russia"
   },
   {
-    "network": "45.196.124.0/23",
+    "network": "45.196.121.0/24",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
   },
   {
-    "network": "45.196.126.0/24",
+    "network": "45.196.122.0/23",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
   },
   {
-    "network": "45.196.140.0/24",
+    "network": "45.196.124.0/22",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
   },
   {
-    "network": "45.196.142.0/23",
+    "network": "45.196.139.0/24",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "45.196.140.0/22",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -13308,7 +13314,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "45.196.198.0/24",
+    "network": "45.196.198.0/23",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -13501,12 +13507,6 @@
   },
   {
     "network": "46.8.110.0/23",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "46.8.115.0/24",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -14736,7 +14736,19 @@
     "country_name": "Russia"
   },
   {
+    "network": "46.172.195.144/30",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "46.172.195.168/29",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "46.172.195.192/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -17058,13 +17070,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "72.56.32.0/22",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "72.56.38.0/23",
+    "network": "72.56.32.0/21",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -17095,6 +17101,12 @@
   },
   {
     "network": "72.56.220.0/23",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "72.56.232.0/21",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -18127,12 +18139,6 @@
   },
   {
     "network": "77.110.104.0/23",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "77.110.112.0/23",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -26904,7 +26910,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "88.135.126.48/28",
+    "network": "88.135.126.56/29",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -26922,7 +26928,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "88.135.126.254/31",
+    "network": "88.135.126.252/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -27822,12 +27828,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "89.107.139.96/29",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "89.107.139.112/28",
     "continent_code": "EU",
     "country_code": "RU",
@@ -27924,7 +27924,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "89.125.21.96/28",
+    "network": "89.125.21.108/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -34062,6 +34062,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "91.221.252.54/31",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "91.221.252.56/29",
     "continent_code": "EU",
     "country_code": "RU",
@@ -37500,7 +37506,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "91.241.198.200/29",
+    "network": "91.241.198.204/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -38527,12 +38533,6 @@
   },
   {
     "network": "92.118.200.0/22",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "92.119.40.0/22",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -40980,13 +40980,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "93.171.184.148/30",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "93.171.184.158/31",
+    "network": "93.171.184.144/28",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -41155,6 +41149,12 @@
   },
   {
     "network": "93.177.118.192/27",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "93.177.118.224/28",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -42534,12 +42534,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "94.159.106.0/24",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "94.159.108.0/22",
     "continent_code": "EU",
     "country_code": "RU",
@@ -42984,7 +42978,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "94.233.240.0/22",
+    "network": "94.233.242.0/23",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -43705,6 +43699,12 @@
   },
   {
     "network": "95.46.196.0/23",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "95.46.216.0/21",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -45762,7 +45762,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "103.213.249.0/25",
+    "network": "103.213.249.96/28",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -49434,6 +49434,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "111.88.116.0/22",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "111.88.122.0/23",
     "continent_code": "EU",
     "country_code": "RU",
@@ -49741,6 +49747,12 @@
   },
   {
     "network": "129.101.104.0/23",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "129.101.106.0/24",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -50400,6 +50412,24 @@
     "country_name": "Russia"
   },
   {
+    "network": "136.148.83.0/24",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "136.148.84.0/23",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "136.148.86.0/32",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "136.169.128.0/17",
     "continent_code": "EU",
     "country_code": "RU",
@@ -50454,7 +50484,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "136.234.32.0/22",
+    "network": "136.234.32.0/21",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -50503,6 +50533,12 @@
   },
   {
     "network": "138.16.136.0/23",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "138.16.140.0/22",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -51630,12 +51666,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "146.19.91.0/26",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "146.19.91.128/25",
     "continent_code": "EU",
     "country_code": "RU",
@@ -51864,37 +51894,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "146.70.231.0/28",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "146.70.231.16/29",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "146.70.231.28/31",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "146.70.231.32/27",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "146.70.231.64/26",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "146.70.231.128/25",
+    "network": "146.70.231.0/24",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -52206,7 +52206,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "146.158.100.36/30",
+    "network": "146.158.100.36/31",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -52219,6 +52219,12 @@
   },
   {
     "network": "146.158.100.80/29",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "146.158.100.110/31",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -52939,12 +52945,6 @@
   },
   {
     "network": "151.0.20.0/24",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "151.0.21.132/31",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -53676,25 +53676,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "154.209.212.0/22",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "154.209.216.0/24",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "154.209.218.0/24",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "154.209.221.0/24",
+    "network": "154.209.208.0/20",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -53712,25 +53694,13 @@
     "country_name": "Russia"
   },
   {
-    "network": "154.211.17.0/24",
+    "network": "154.211.16.0/22",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
   },
   {
-    "network": "154.211.18.0/23",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "154.212.28.0/24",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "154.212.30.0/23",
+    "network": "154.212.28.0/22",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -54036,36 +54006,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "157.22.180.0/25",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "157.22.180.128/26",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "157.22.180.192/27",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "157.22.180.232/29",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "157.22.180.240/28",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "157.22.181.0/24",
     "continent_code": "EU",
     "country_code": "RU",
@@ -54307,6 +54247,12 @@
   },
   {
     "network": "159.138.192.0/20",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "159.138.216.0/22",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -56442,6 +56388,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "176.99.96.0/23",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "176.99.98.64/28",
     "continent_code": "EU",
     "country_code": "RU",
@@ -56461,6 +56413,12 @@
   },
   {
     "network": "176.99.104.0/21",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "176.99.112.0/20",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -57912,6 +57870,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "177.28.4.0/24",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "177.28.7.0/24",
     "continent_code": "EU",
     "country_code": "RU",
@@ -58614,7 +58578,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "178.170.164.0/22",
+    "network": "178.170.164.0/23",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -58764,12 +58728,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "178.170.243.120/30",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "178.170.244.0/22",
     "continent_code": "EU",
     "country_code": "RU",
@@ -58812,6 +58770,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "178.171.11.48/28",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "178.171.11.64/26",
     "continent_code": "EU",
     "country_code": "RU",
@@ -58837,12 +58801,6 @@
   },
   {
     "network": "178.171.71.0/24",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "178.171.76.0/23",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -59574,13 +59532,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "178.219.168.0/22",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "178.219.174.0/23",
+    "network": "178.219.168.0/21",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -70518,6 +70470,30 @@
     "country_name": "Russia"
   },
   {
+    "network": "185.186.235.64/27",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "185.186.235.100/30",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "185.186.235.104/29",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "185.186.235.112/28",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "185.186.235.128/25",
     "continent_code": "EU",
     "country_code": "RU",
@@ -80172,6 +80148,18 @@
     "country_name": "Russia"
   },
   {
+    "network": "193.233.199.0/28",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "193.233.199.24/29",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "193.233.199.32/27",
     "continent_code": "EU",
     "country_code": "RU",
@@ -80179,6 +80167,18 @@
   },
   {
     "network": "193.233.199.64/26",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "193.233.199.128/28",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "193.233.199.160/27",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -84570,12 +84570,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "195.3.134.54/31",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "195.3.134.60/30",
     "continent_code": "EU",
     "country_code": "RU",
@@ -84594,7 +84588,13 @@
     "country_name": "Russia"
   },
   {
-    "network": "195.3.134.86/31",
+    "network": "195.3.134.84/30",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "195.3.134.90/31",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -84624,13 +84624,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "195.3.134.174/31",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "195.3.134.184/31",
+    "network": "195.3.134.192/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -84666,13 +84660,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "195.3.134.250/31",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "195.3.134.252/30",
+    "network": "195.3.134.248/29",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -89274,6 +89262,54 @@
     "country_name": "Russia"
   },
   {
+    "network": "196.244.83.0/24",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "196.244.104.0/22",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "196.244.115.0/24",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "196.244.120.0/22",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "196.244.176.0/24",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "196.244.201.0/24",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "196.244.219.0/24",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "196.244.228.0/22",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "196.247.244.0/22",
     "continent_code": "EU",
     "country_code": "RU",
@@ -89544,7 +89580,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "201.24.62.0/23",
+    "network": "201.24.60.0/22",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -91056,6 +91092,18 @@
     "country_name": "Russia"
   },
   {
+    "network": "212.113.99.32/27",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "212.113.99.64/26",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "212.113.99.128/25",
     "continent_code": "EU",
     "country_code": "RU",
@@ -91896,7 +91944,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "213.59.172.0/22",
+    "network": "213.59.168.0/21",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -100146,6 +100194,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2a0f:9b00::/29",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2a0f:9c00::/29",
     "continent_code": "EU",
     "country_code": "RU",
@@ -100273,12 +100327,6 @@
   },
   {
     "network": "2a0f:e340::/29",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a0f:ee00::/29",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -100884,6 +100932,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2a11:1840::/29",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2a11:1a00::/29",
     "continent_code": "EU",
     "country_code": "RU",
@@ -100951,6 +101005,12 @@
   },
   {
     "network": "2a11:2d80::/29",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2a11:3080::/29",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -103266,12 +103326,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2a11:1840::/30",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2a11:1944::/30",
     "continent_code": "EU",
     "country_code": "RU",
@@ -103291,12 +103345,6 @@
   },
   {
     "network": "2a11:2540::/30",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a11:3080::/30",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -104731,6 +104779,12 @@
   },
   {
     "network": "2a00:5d00::/32",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2a00:5fa0::/32",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -110940,6 +110994,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2a0d:d940:3000::/36",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2a0d:d940:8000::/36",
     "continent_code": "EU",
     "country_code": "RU",
@@ -111067,6 +111127,18 @@
   },
   {
     "network": "2a13:3d81:1000::/36",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2a14:a084:1000::/36",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2a14:a084:2000::/36",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -111445,12 +111517,6 @@
   },
   {
     "network": "2a0d:d940:2800::/37",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a0d:d940:3000::/37",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -111949,12 +112015,6 @@
   },
   {
     "network": "2a0d:d940:2400::/38",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a0d:d940:3800::/38",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -112501,12 +112561,6 @@
   },
   {
     "network": "2a0d:d940:2200::/39",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a0d:d940:3c00::/39",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -113154,12 +113208,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2a0d:d940:3f00::/40",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2a0d:d940:9100::/40",
     "continent_code": "EU",
     "country_code": "RU",
@@ -113796,12 +113844,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2a0d:d940:3e00::/41",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2a0d:d940:a080::/41",
     "continent_code": "EU",
     "country_code": "RU",
@@ -114372,12 +114414,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2a0d:d940:3e80::/42",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2a0d:d940:9040::/42",
     "continent_code": "EU",
     "country_code": "RU",
@@ -114913,12 +114949,6 @@
   },
   {
     "network": "2a0d:d940:2020::/43",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a0d:d940:3ee0::/43",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -115627,12 +115657,6 @@
   },
   {
     "network": "2a0d:d940:130::/44",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a0d:d940:3ed0::/44",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -116515,12 +116539,6 @@
   },
   {
     "network": "2a0d:d940:128::/45",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a0d:d940:3ec0::/45",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -122616,7 +122634,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "2a0d:d940:3ec8::/46",
+    "network": "2a0d:d940:120::/46",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -122791,12 +122809,6 @@
   },
   {
     "network": "2001:470:18b2::/47",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:18d6::/47",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -123859,6 +123871,12 @@
   },
   {
     "network": "2001:470:7a7a::/47",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:7ab8::/47",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -125196,6 +125214,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2600:70ff:b410::/47",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2600:70ff:d040::/47",
     "continent_code": "EU",
     "country_code": "RU",
@@ -125479,12 +125503,6 @@
   },
   {
     "network": "2a02:6bf:ff72::/47",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a02:fa8:8804::/47",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -126060,6 +126078,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2a0d:d940:126::/47",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2a0d:d940:2008::/47",
     "continent_code": "EU",
     "country_code": "RU",
@@ -126397,6 +126421,12 @@
   },
   {
     "network": "2001:470:18d2::/48",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:18d6::/48",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -126756,12 +126786,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2001:470:20ec::/48",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2001:470:20ef::/48",
     "continent_code": "EU",
     "country_code": "RU",
@@ -126811,6 +126835,12 @@
   },
   {
     "network": "2001:470:210e::/48",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:2110::/48",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -129036,6 +129066,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:470:5a86::/48",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:470:5ac6::/48",
     "continent_code": "EU",
     "country_code": "RU",
@@ -131154,12 +131190,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2001:470:72cb::/48",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2001:470:72ce::/48",
     "continent_code": "EU",
     "country_code": "RU",
@@ -132084,6 +132114,18 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:470:7659::/48",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:765c::/48",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:470:76fa::/48",
     "continent_code": "EU",
     "country_code": "RU",
@@ -132943,6 +132985,12 @@
   },
   {
     "network": "2001:470:7ab4::/48",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:7ab7::/48",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -134688,7 +134736,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "2001:470:b75d::/48",
+    "network": "2001:470:b75e::/48",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -138126,6 +138174,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:678:13e0::/48",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:67c:20::/48",
     "continent_code": "EU",
     "country_code": "RU",
@@ -141144,6 +141198,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2600:70ff:b412::/48",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2600:70ff:b844::/48",
     "continent_code": "EU",
     "country_code": "RU",
@@ -141805,6 +141865,12 @@
   },
   {
     "network": "2a01:e5c0:8002::/48",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2a01:ecc0:31::/48",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -143184,25 +143250,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "2a0d:d940:120::/48",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a0d:d940:123::/48",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2a0d:d940:125::/48",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a0d:d940:127::/48",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -145860,6 +145908,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2a02:26f7:b848:ea00::/60",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2a02:26f7:b848:ea30::/60",
     "continent_code": "EU",
     "country_code": "RU",
@@ -145885,6 +145939,12 @@
   },
   {
     "network": "2a02:26f7:b848:eac0::/60",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2a02:26f7:b848:eaf0::/60",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -145939,6 +145999,12 @@
   },
   {
     "network": "2a02:26f7:b850:5080::/60",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2a02:26f7:b850:ea00::/60",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -146448,12 +146514,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2a02:26f7:b848:ea08::/61",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2a02:26f7:b848:ea10::/61",
     "continent_code": "EU",
     "country_code": "RU",
@@ -146503,12 +146563,6 @@
   },
   {
     "network": "2a02:26f7:b848:eae8::/61",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a02:26f7:b848:eaf8::/61",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -146569,18 +146623,6 @@
   },
   {
     "network": "2a02:26f7:b84c:eae8::/61",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a02:26f7:b850:5098::/61",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a02:26f7:b850:ea00::/61",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -147546,6 +147588,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:470:1f15:6d0::/62",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:470:1f1b:45c::/62",
     "continent_code": "EU",
     "country_code": "RU",
@@ -147798,12 +147846,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2a02:26f7:b848:ea00::/62",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2a02:26f7:b848:ea1c::/62",
     "continent_code": "EU",
     "country_code": "RU",
@@ -147847,12 +147889,6 @@
   },
   {
     "network": "2a02:26f7:b848:eae4::/62",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a02:26f7:b848:eaf4::/62",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -147918,7 +147954,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "2a02:26f7:b850:ea08::/62",
+    "network": "2a02:26f7:b850:509c::/62",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -149725,12 +149761,6 @@
   },
   {
     "network": "2001:470:28:6b2::/63",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:28:6bc::/63",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -151590,6 +151620,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:470:28:1226::/63",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:470:28:122a::/63",
     "continent_code": "EU",
     "country_code": "RU",
@@ -151632,6 +151668,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:470:28:1250::/63",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:470:28:1260::/63",
     "continent_code": "EU",
     "country_code": "RU",
@@ -151645,6 +151687,12 @@
   },
   {
     "network": "2001:470:28:1270::/63",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:28:1282::/63",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -151986,12 +152034,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2001:470:6d:7b2::/63",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2001:470:6d:7b4::/63",
     "continent_code": "EU",
     "country_code": "RU",
@@ -152317,12 +152359,6 @@
   },
   {
     "network": "2001:470:6f:5da::/63",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:6f:5dc::/63",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -152695,12 +152731,6 @@
   },
   {
     "network": "2001:470:71:79c::/63",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:71:7a8::/63",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -154284,6 +154314,36 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:470:1f15:6cc::/63",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f15:6d4::/63",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f15:6da::/63",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f15:6e2::/63",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f15:6e6::/63",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:470:1f15:6f4::/63",
     "continent_code": "EU",
     "country_code": "RU",
@@ -154303,12 +154363,6 @@
   },
   {
     "network": "2001:470:1f15:9b2::/63",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:1f1b:88::/63",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -154860,12 +154914,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2a02:26f7:b848:ea04::/63",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2a02:26f7:b848:ea1a::/63",
     "continent_code": "EU",
     "country_code": "RU",
@@ -154909,12 +154957,6 @@
   },
   {
     "network": "2a02:26f7:b848:eada::/63",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a02:26f7:b848:eaf0::/63",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -154987,12 +155029,6 @@
   },
   {
     "network": "2a02:26f7:b850:5096::/63",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2a02:26f7:b850:ea0c::/63",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -156307,6 +156343,18 @@
   },
   {
     "network": "2001:470:b:5d8::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:b:67f::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:b:680::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -160044,18 +160092,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2001:470:26:93b::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:26:93c::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2001:470:26:973::/64",
     "continent_code": "EU",
     "country_code": "RU",
@@ -162559,6 +162595,12 @@
   },
   {
     "network": "2001:470:28:6b0::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:28:6bc::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -166740,12 +166782,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2001:470:28:1227::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2001:470:28:1230::/64",
     "continent_code": "EU",
     "country_code": "RU",
@@ -166771,12 +166807,6 @@
   },
   {
     "network": "2001:470:28:1245::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:28:1250::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -166819,6 +166849,24 @@
   },
   {
     "network": "2001:470:28:127c::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:28:1280::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:28:1284::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:28:1287::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -168366,12 +168414,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2001:470:6d:3dc::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2001:470:6d:3e1::/64",
     "continent_code": "EU",
     "country_code": "RU",
@@ -168421,12 +168463,6 @@
   },
   {
     "network": "2001:470:6d:3f4::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:6d:3f7::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -169542,12 +169578,6 @@
     "country_name": "Russia"
   },
   {
-    "network": "2001:470:6d:7a5::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
     "network": "2001:470:6d:7a6::/64",
     "continent_code": "EU",
     "country_code": "RU",
@@ -169566,6 +169596,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:470:6d:7b3::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:470:6d:7ba::/64",
     "continent_code": "EU",
     "country_code": "RU",
@@ -169573,12 +169609,6 @@
   },
   {
     "network": "2001:470:6d:7bd::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:6d:7c0::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -171871,6 +171901,24 @@
   },
   {
     "network": "2001:470:6f:5d3::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:6f:5dc::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:6f:5df::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:6f:5e1::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -175638,6 +175686,24 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:470:1f07:670::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f07:674::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f07:67b::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:470:1f07:747::/64",
     "continent_code": "EU",
     "country_code": "RU",
@@ -175645,12 +175711,6 @@
   },
   {
     "network": "2001:470:1f07:749::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:1f07:793::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -176113,6 +176173,12 @@
   },
   {
     "network": "2001:470:1f09:1d3::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f09:1e2::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -176875,6 +176941,12 @@
   },
   {
     "network": "2001:470:1f0b:1bc::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f0b:1ca::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -180601,6 +180673,36 @@
   },
   {
     "network": "2001:470:1f0b:e26::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f0b:e29::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f0b:e2e::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f0b:e32::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f0b:e34::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f0b:e36::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -184656,13 +184758,7 @@
     "country_name": "Russia"
   },
   {
-    "network": "2001:470:1f15:6d4::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:1f15:6da::/64",
+    "network": "2001:470:1f15:6dc::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -184674,7 +184770,13 @@
     "country_name": "Russia"
   },
   {
-    "network": "2001:470:1f15:6e7::/64",
+    "network": "2001:470:1f15:6e1::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f15:6e5::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -185850,6 +185952,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:470:1f1b:89::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:470:1f1b:8f::/64",
     "continent_code": "EU",
     "country_code": "RU",
@@ -186930,6 +187038,12 @@
     "country_name": "Russia"
   },
   {
+    "network": "2001:470:1f1b:535::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
     "network": "2001:470:1f1b:53a::/64",
     "continent_code": "EU",
     "country_code": "RU",
@@ -187267,6 +187381,12 @@
   },
   {
     "network": "2001:470:1f1b:642::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f1b:645::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -187759,12 +187879,6 @@
   },
   {
     "network": "2001:470:1f1d:18e::/64",
-    "continent_code": "EU",
-    "country_code": "RU",
-    "country_name": "Russia"
-  },
-  {
-    "network": "2001:470:1f1d:192::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -188437,6 +188551,12 @@
   },
   {
     "network": "2001:470:1f21:18f::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f21:192::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"
@@ -189331,6 +189451,12 @@
   },
   {
     "network": "2001:470:1f29:3d6::/64",
+    "continent_code": "EU",
+    "country_code": "RU",
+    "country_name": "Russia"
+  },
+  {
+    "network": "2001:470:1f29:3e0::/64",
     "continent_code": "EU",
     "country_code": "RU",
     "country_name": "Russia"

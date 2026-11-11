@@ -11480,14 +11480,6 @@
     "domain": "telbros.com"
   },
   {
-    "network": "217.76.244.0/24",
-    "asn": "273853",
-    "country_code": "CL",
-    "name": "TELBROS SPA",
-    "org": "TELBROS SPA",
-    "domain": "telbros.com"
-  },
-  {
     "network": "38.211.66.0/24",
     "asn": "274217",
     "country_code": "CL",
@@ -15241,38 +15233,6 @@
   },
   {
     "network": "2803:c180::/32",
-    "asn": "52341",
-    "country_code": "CL",
-    "name": "WOM SpA",
-    "org": "WOM SpA",
-    "domain": "wom.cl"
-  },
-  {
-    "network": "2803:c180:2000::/40",
-    "asn": "52341",
-    "country_code": "CL",
-    "name": "WOM SpA",
-    "org": "WOM SpA",
-    "domain": "wom.cl"
-  },
-  {
-    "network": "2803:c180:2100::/40",
-    "asn": "52341",
-    "country_code": "CL",
-    "name": "WOM SpA",
-    "org": "WOM SpA",
-    "domain": "wom.cl"
-  },
-  {
-    "network": "2803:c180:2600::/40",
-    "asn": "52341",
-    "country_code": "CL",
-    "name": "WOM SpA",
-    "org": "WOM SpA",
-    "domain": "wom.cl"
-  },
-  {
-    "network": "2803:c180:f100::/40",
     "asn": "52341",
     "country_code": "CL",
     "name": "WOM SpA",
@@ -20040,7 +20000,15 @@
     "domain": "telsur.cl"
   },
   {
-    "network": "179.56.212.0/23",
+    "network": "179.56.212.0/24",
+    "asn": "14117",
+    "country_code": "CL",
+    "name": "Telefonica del Sur S.A.",
+    "org": "Telefonica del Sur S.A.",
+    "domain": "telsur.cl"
+  },
+  {
+    "network": "179.56.213.0/24",
     "asn": "14117",
     "country_code": "CL",
     "name": "Telefonica del Sur S.A.",
@@ -20600,7 +20568,15 @@
     "domain": "telsur.cl"
   },
   {
-    "network": "179.57.218.0/23",
+    "network": "179.57.218.0/24",
+    "asn": "14117",
+    "country_code": "CL",
+    "name": "Telefonica del Sur S.A.",
+    "org": "Telefonica del Sur S.A.",
+    "domain": "telsur.cl"
+  },
+  {
+    "network": "179.57.219.0/24",
     "asn": "14117",
     "country_code": "CL",
     "name": "Telefonica del Sur S.A.",
@@ -23480,7 +23456,15 @@
     "domain": "telsur.cl"
   },
   {
-    "network": "201.186.176.0/23",
+    "network": "201.186.176.0/24",
+    "asn": "14117",
+    "country_code": "CL",
+    "name": "Telefonica del Sur S.A.",
+    "org": "Telefonica del Sur S.A.",
+    "domain": "telsur.cl"
+  },
+  {
+    "network": "201.186.177.0/24",
     "asn": "14117",
     "country_code": "CL",
     "name": "Telefonica del Sur S.A.",
@@ -27552,6 +27536,30 @@
     "domain": "uc.cl"
   },
   {
+    "network": "2800:1b0::/32",
+    "asn": "20191",
+    "country_code": "CL",
+    "name": "Pontificia Universidad Catolica de Chile",
+    "org": "Pontificia Universidad Catolica de Chile",
+    "domain": "uc.cl"
+  },
+  {
+    "network": "2800:1b0:5000::/36",
+    "asn": "20191",
+    "country_code": "CL",
+    "name": "Pontificia Universidad Catolica de Chile",
+    "org": "Pontificia Universidad Catolica de Chile",
+    "domain": "uc.cl"
+  },
+  {
+    "network": "2800:1b0:6000::/36",
+    "asn": "20191",
+    "country_code": "CL",
+    "name": "Pontificia Universidad Catolica de Chile",
+    "org": "Pontificia Universidad Catolica de Chile",
+    "domain": "uc.cl"
+  },
+  {
     "network": "148.143.127.0/24",
     "asn": "271871",
     "country_code": "CL",
@@ -29424,14 +29432,6 @@
     "domain": "gtdmanquehue.com"
   },
   {
-    "network": "152.230.218.0/24",
-    "asn": "18822",
-    "country_code": "CL",
-    "name": "Manquehuenet",
-    "org": "Manquehuenet",
-    "domain": "gtdmanquehue.com"
-  },
-  {
     "network": "152.230.220.0/24",
     "asn": "18822",
     "country_code": "CL",
@@ -30761,14 +30761,6 @@
   },
   {
     "network": "190.215.10.0/23",
-    "asn": "18822",
-    "country_code": "CL",
-    "name": "Manquehuenet",
-    "org": "Manquehuenet",
-    "domain": "gtdmanquehue.com"
-  },
-  {
-    "network": "190.215.12.0/23",
     "asn": "18822",
     "country_code": "CL",
     "name": "Manquehuenet",
@@ -37680,14 +37672,6 @@
     "domain": "clarovtr.cl"
   },
   {
-    "network": "2800:540:1140::/44",
-    "asn": "6535",
-    "country_code": "CL",
-    "name": "Telmex Servicios Empresariales S.A.",
-    "org": "Telmex Servicios Empresariales S.A.",
-    "domain": "clarovtr.cl"
-  },
-  {
     "network": "2800:540:2000::/44",
     "asn": "6535",
     "country_code": "CL",
@@ -42465,22 +42449,6 @@
   },
   {
     "network": "200.14.160.0/24",
-    "asn": "22975",
-    "country_code": "CL",
-    "name": "Banco de Chile",
-    "org": "Banco de Chile",
-    "domain": "bancochile.cl"
-  },
-  {
-    "network": "200.14.176.0/24",
-    "asn": "22975",
-    "country_code": "CL",
-    "name": "Banco de Chile",
-    "org": "Banco de Chile",
-    "domain": "bancochile.cl"
-  },
-  {
-    "network": "200.14.177.0/24",
     "asn": "22975",
     "country_code": "CL",
     "name": "Banco de Chile",

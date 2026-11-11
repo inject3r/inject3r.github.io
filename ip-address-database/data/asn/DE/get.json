@@ -352,6 +352,14 @@
     "domain": "dataforest.net"
   },
   {
+    "network": "94.249.170.0/24",
+    "asn": "215607",
+    "country_code": "DE",
+    "name": "DF-Transit",
+    "org": "dataforest GmbH",
+    "domain": "dataforest.net"
+  },
+  {
     "network": "94.249.190.0/24",
     "asn": "215607",
     "country_code": "DE",
@@ -417,14 +425,6 @@
   },
   {
     "network": "148.135.255.0/24",
-    "asn": "215607",
-    "country_code": "DE",
-    "name": "DF-Transit",
-    "org": "dataforest GmbH",
-    "domain": "dataforest.net"
-  },
-  {
-    "network": "151.243.32.0/24",
     "asn": "215607",
     "country_code": "DE",
     "name": "DF-Transit",
@@ -5984,6 +5984,14 @@
     "domain": "velia.net"
   },
   {
+    "network": "92.204.184.0/24",
+    "asn": "29066",
+    "country_code": "DE",
+    "name": "VELIANET-AS",
+    "org": "velia.net Internetdienste GmbH",
+    "domain": "velia.net"
+  },
+  {
     "network": "92.204.192.0/20",
     "asn": "29066",
     "country_code": "DE",
@@ -5993,14 +6001,6 @@
   },
   {
     "network": "92.204.240.0/20",
-    "asn": "29066",
-    "country_code": "DE",
-    "name": "VELIANET-AS",
-    "org": "velia.net Internetdienste GmbH",
-    "domain": "velia.net"
-  },
-  {
-    "network": "92.204.243.0/24",
     "asn": "29066",
     "country_code": "DE",
     "name": "VELIANET-AS",
@@ -8097,6 +8097,14 @@
   },
   {
     "network": "82.22.102.0/24",
+    "asn": "213250",
+    "country_code": "DE",
+    "name": "ITP-SOLUTIONS",
+    "org": "Dominic Scholz trading as ITP-Solutions GmbH & Co. KG",
+    "domain": "itp-solutions.de"
+  },
+  {
+    "network": "82.110.105.0/24",
     "asn": "213250",
     "country_code": "DE",
     "name": "ITP-SOLUTIONS",
@@ -35352,22 +35360,6 @@
     "domain": "leaseweb.com"
   },
   {
-    "network": "2a0f:6280:1051::/48",
-    "asn": "28753",
-    "country_code": "DE",
-    "name": "LEASEWEB-DE-FRA-10",
-    "org": "Leaseweb Deutschland GmbH",
-    "domain": "leaseweb.com"
-  },
-  {
-    "network": "2a0f:6280:1053::/48",
-    "asn": "28753",
-    "country_code": "DE",
-    "name": "LEASEWEB-DE-FRA-10",
-    "org": "Leaseweb Deutschland GmbH",
-    "domain": "leaseweb.com"
-  },
-  {
     "network": "2a0f:d200::/29",
     "asn": "28753",
     "country_code": "DE",
@@ -42512,14 +42504,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "5.231.235.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "5.231.236.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -43281,14 +43265,6 @@
   },
   {
     "network": "178.18.158.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "178.18.159.0/24",
     "asn": "12586",
     "country_code": "DE",
     "name": "ASGHOSTNET",
@@ -47136,14 +47112,6 @@
     "domain": "allgaeudsl.de"
   },
   {
-    "network": "2a11:8040:ffff::/48",
-    "asn": "209551",
-    "country_code": "DE",
-    "name": "allgaeudsl",
-    "org": "Amisol GmbH",
-    "domain": "allgaeudsl.de"
-  },
-  {
     "network": "5.154.171.0/24",
     "asn": "31317",
     "country_code": "DE",
@@ -49112,14 +49080,6 @@
     "domain": "pawhost.de"
   },
   {
-    "network": "2a14:7c0:7000::/40",
-    "asn": "214915",
-    "country_code": "DE",
-    "name": "PawHost",
-    "org": "Jan Smyrek",
-    "domain": "pawhost.de"
-  },
-  {
     "network": "2a14:7c0:7000::/48",
     "asn": "214915",
     "country_code": "DE",
@@ -49158,6 +49118,22 @@
     "name": "PawHost",
     "org": "Jan Smyrek",
     "domain": "pawhost.de"
+  },
+  {
+    "network": "5.175.203.0/24",
+    "asn": "214598",
+    "country_code": "DE",
+    "name": "ENVARO",
+    "org": "envaro UG",
+    "domain": "envaro.net"
+  },
+  {
+    "network": "2a00:4ac0::/29",
+    "asn": "214598",
+    "country_code": "DE",
+    "name": "ENVARO",
+    "org": "envaro UG",
+    "domain": "envaro.net"
   },
   {
     "network": "5.175.219.0/24",
@@ -50265,14 +50241,6 @@
   },
   {
     "network": "2a06:de00:10::/48",
-    "asn": "215685",
-    "country_code": "DE",
-    "name": "Nexus",
-    "org": "Maik Sussdorf",
-    "domain": "dotnic.de"
-  },
-  {
-    "network": "2a14:6782:100::/48",
     "asn": "215685",
     "country_code": "DE",
     "name": "Nexus",
@@ -54104,6 +54072,14 @@
     "domain": "instantnode.eu"
   },
   {
+    "network": "5.231.229.0/24",
+    "asn": "218428",
+    "country_code": "DE",
+    "name": "INSTANTNODE-AS",
+    "org": "Ben Oliver Mallow",
+    "domain": "instantnode.eu"
+  },
+  {
     "network": "94.249.230.0/24",
     "asn": "218428",
     "country_code": "DE",
@@ -54118,6 +54094,22 @@
     "name": "INSTANTNODE-AS",
     "org": "Ben Oliver Mallow",
     "domain": "instantnode.eu"
+  },
+  {
+    "network": "5.230.184.0/24",
+    "asn": "215093",
+    "country_code": "DE",
+    "name": "Niklas-Wecker",
+    "org": "Niklas Wecker",
+    "domain": "6v4.de"
+  },
+  {
+    "network": "2a14:1ec1:7b20::/44",
+    "asn": "215093",
+    "country_code": "DE",
+    "name": "Niklas-Wecker",
+    "org": "Niklas Wecker",
+    "domain": "6v4.de"
   },
   {
     "network": "5.230.200.0/24",
@@ -67760,14 +67752,6 @@
     "domain": "pfcloud.io"
   },
   {
-    "network": "31.40.201.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
     "network": "31.57.185.0/24",
     "asn": "51396",
     "country_code": "DE",
@@ -67800,22 +67784,6 @@
     "domain": "pfcloud.io"
   },
   {
-    "network": "77.83.207.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "85.208.84.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
     "network": "88.214.50.0/24",
     "asn": "51396",
     "country_code": "DE",
@@ -67824,47 +67792,7 @@
     "domain": "pfcloud.io"
   },
   {
-    "network": "89.45.35.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
     "network": "94.183.174.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "138.249.120.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "138.249.121.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "138.249.122.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "138.249.124.0/24",
     "asn": "51396",
     "country_code": "DE",
     "name": "PFCLOUD",
@@ -67920,14 +67848,6 @@
     "domain": "pfcloud.io"
   },
   {
-    "network": "176.223.188.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
     "network": "185.197.182.0/24",
     "asn": "51396",
     "country_code": "DE",
@@ -67937,14 +67857,6 @@
   },
   {
     "network": "185.235.167.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "195.216.154.0/24",
     "asn": "51396",
     "country_code": "DE",
     "name": "PFCLOUD",
@@ -67969,6 +67881,22 @@
   },
   {
     "network": "2602:f915::/40",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a04:a5c0::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a04:a5c4::/30",
     "asn": "51396",
     "country_code": "DE",
     "name": "PFCLOUD",
@@ -68512,6 +68440,14 @@
     "domain": "wareconsult.de"
   },
   {
+    "network": "27.0.234.0/24",
+    "asn": "205848",
+    "country_code": "DE",
+    "name": "Server-Network-Pohl",
+    "org": "Dominik Pohl",
+    "domain": "sn-p.net"
+  },
+  {
     "network": "27.0.235.0/24",
     "asn": "205848",
     "country_code": "DE",
@@ -68536,7 +68472,31 @@
     "domain": "sn-p.net"
   },
   {
-    "network": "2a06:1282::/44",
+    "network": "2a06:1282::/48",
+    "asn": "205848",
+    "country_code": "DE",
+    "name": "Server-Network-Pohl",
+    "org": "Dominik Pohl",
+    "domain": "sn-p.net"
+  },
+  {
+    "network": "2a06:1282:1::/48",
+    "asn": "205848",
+    "country_code": "DE",
+    "name": "Server-Network-Pohl",
+    "org": "Dominik Pohl",
+    "domain": "sn-p.net"
+  },
+  {
+    "network": "2a06:1282:2::/48",
+    "asn": "205848",
+    "country_code": "DE",
+    "name": "Server-Network-Pohl",
+    "org": "Dominik Pohl",
+    "domain": "sn-p.net"
+  },
+  {
+    "network": "2a06:1282:3::/48",
     "asn": "205848",
     "country_code": "DE",
     "name": "Server-Network-Pohl",
@@ -68553,6 +68513,14 @@
   },
   {
     "network": "2a06:1282:20::/44",
+    "asn": "205848",
+    "country_code": "DE",
+    "name": "Server-Network-Pohl",
+    "org": "Dominik Pohl",
+    "domain": "sn-p.net"
+  },
+  {
+    "network": "2a06:1282:30::/44",
     "asn": "205848",
     "country_code": "DE",
     "name": "Server-Network-Pohl",
@@ -82024,14 +81992,6 @@
     "domain": "soprado.com"
   },
   {
-    "network": "185.115.179.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
     "network": "193.0.248.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -83792,62 +83752,6 @@
     "domain": "unzer.com"
   },
   {
-    "network": "37.228.130.0/24",
-    "asn": "50873",
-    "country_code": "DE",
-    "name": "AS50873",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
-    "network": "94.247.143.0/24",
-    "asn": "50873",
-    "country_code": "DE",
-    "name": "AS50873",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
-    "network": "185.97.4.0/22",
-    "asn": "50873",
-    "country_code": "DE",
-    "name": "AS50873",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
-    "network": "194.104.114.0/23",
-    "asn": "50873",
-    "country_code": "DE",
-    "name": "AS50873",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
-    "network": "194.104.149.0/24",
-    "asn": "50873",
-    "country_code": "DE",
-    "name": "AS50873",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
-    "network": "2001:678:fb4::/48",
-    "asn": "50873",
-    "country_code": "DE",
-    "name": "AS50873",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
-    "network": "2a06:1c0::/30",
-    "asn": "50873",
-    "country_code": "DE",
-    "name": "AS50873",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
     "network": "37.228.132.0/24",
     "asn": "204035",
     "country_code": "DE",
@@ -84646,6 +84550,22 @@
     "name": "CAFFEINATED-LABS",
     "org": "Jadyn Emma Jaeger",
     "domain": "caffeinated-labs.org"
+  },
+  {
+    "network": "44.30.115.0/24",
+    "asn": "211370",
+    "country_code": "DE",
+    "name": "cve",
+    "org": "Clara Val Engler",
+    "domain": "as211370.net"
+  },
+  {
+    "network": "2a11:f2c0:ffe3::/48",
+    "asn": "211370",
+    "country_code": "DE",
+    "name": "cve",
+    "org": "Clara Val Engler",
+    "domain": "as211370.net"
   },
   {
     "network": "44.30.185.0/24",
@@ -103144,6 +103064,38 @@
     "domain": "ccc.de"
   },
   {
+    "network": "2a0f:5386::/32",
+    "asn": "208135",
+    "country_code": "DE",
+    "name": "fluepke-net",
+    "org": "Carl Fabian Luepke",
+    "domain": "ccc.de"
+  },
+  {
+    "network": "2a0f:5386::/40",
+    "asn": "208135",
+    "country_code": "DE",
+    "name": "fluepke-net",
+    "org": "Carl Fabian Luepke",
+    "domain": "ccc.de"
+  },
+  {
+    "network": "2a0f:5386:100::/40",
+    "asn": "208135",
+    "country_code": "DE",
+    "name": "fluepke-net",
+    "org": "Carl Fabian Luepke",
+    "domain": "ccc.de"
+  },
+  {
+    "network": "2a0f:5387:ffff::/48",
+    "asn": "208135",
+    "country_code": "DE",
+    "name": "fluepke-net",
+    "org": "Carl Fabian Luepke",
+    "domain": "ccc.de"
+  },
+  {
     "network": "45.159.32.0/22",
     "asn": "48821",
     "country_code": "DE",
@@ -109952,6 +109904,14 @@
     "domain": "amazon.com"
   },
   {
+    "network": "51.74.194.0/23",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
     "network": "51.74.196.0/23",
     "asn": "214101",
     "country_code": "DE",
@@ -109961,6 +109921,14 @@
   },
   {
     "network": "51.74.198.0/23",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
+    "network": "51.74.200.0/23",
     "asn": "214101",
     "country_code": "DE",
     "name": "EU-SOVEREIGN-CLOUD",
@@ -110408,6 +110376,14 @@
     "domain": "amazon.com"
   },
   {
+    "network": "2001:3fc6:21::/48",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
     "network": "2001:3fc6:22::/48",
     "asn": "214101",
     "country_code": "DE",
@@ -110417,6 +110393,14 @@
   },
   {
     "network": "2001:3fc6:23::/48",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
+    "network": "2001:3fc6:24::/48",
     "asn": "214101",
     "country_code": "DE",
     "name": "EU-SOVEREIGN-CLOUD",
@@ -116424,6 +116408,62 @@
     "domain": "godaddy.com"
   },
   {
+    "network": "72.251.252.0/22",
+    "asn": "208203",
+    "country_code": "DE",
+    "name": "SWBX",
+    "org": "Stadtwerke Barmstedt Xtra GmbH",
+    "domain": "stadtwerke-barmstedt.de"
+  },
+  {
+    "network": "2a0f:ab07::/36",
+    "asn": "208203",
+    "country_code": "DE",
+    "name": "SWBX",
+    "org": "Stadtwerke Barmstedt Xtra GmbH",
+    "domain": "stadtwerke-barmstedt.de"
+  },
+  {
+    "network": "2a0f:ab07:fc0::/43",
+    "asn": "208203",
+    "country_code": "DE",
+    "name": "SWBX",
+    "org": "Stadtwerke Barmstedt Xtra GmbH",
+    "domain": "stadtwerke-barmstedt.de"
+  },
+  {
+    "network": "2a0f:ab07:fff::/48",
+    "asn": "208203",
+    "country_code": "DE",
+    "name": "SWBX",
+    "org": "Stadtwerke Barmstedt Xtra GmbH",
+    "domain": "stadtwerke-barmstedt.de"
+  },
+  {
+    "network": "2a0f:ab07:1000::/36",
+    "asn": "208203",
+    "country_code": "DE",
+    "name": "SWBX",
+    "org": "Stadtwerke Barmstedt Xtra GmbH",
+    "domain": "stadtwerke-barmstedt.de"
+  },
+  {
+    "network": "2a0f:ab07:1fe0::/43",
+    "asn": "208203",
+    "country_code": "DE",
+    "name": "SWBX",
+    "org": "Stadtwerke Barmstedt Xtra GmbH",
+    "domain": "stadtwerke-barmstedt.de"
+  },
+  {
+    "network": "2a0f:ab07:1fff::/48",
+    "asn": "208203",
+    "country_code": "DE",
+    "name": "SWBX",
+    "org": "Stadtwerke Barmstedt Xtra GmbH",
+    "domain": "stadtwerke-barmstedt.de"
+  },
+  {
     "network": "76.74.180.0/23",
     "asn": "212185",
     "country_code": "DE",
@@ -120888,14 +120928,6 @@
     "domain": "johannesernst.com"
   },
   {
-    "network": "2a11:6c7:14::/48",
-    "asn": "212895",
-    "country_code": "DE",
-    "name": "ROUTE64_ORG",
-    "org": "Johannes Ernst",
-    "domain": "johannesernst.com"
-  },
-  {
     "network": "2a11:6c7:15::/48",
     "asn": "212895",
     "country_code": "DE",
@@ -121129,22 +121161,6 @@
   },
   {
     "network": "2a11:6c7:f15::/48",
-    "asn": "212895",
-    "country_code": "DE",
-    "name": "ROUTE64_ORG",
-    "org": "Johannes Ernst",
-    "domain": "johannesernst.com"
-  },
-  {
-    "network": "2a11:6c7:f16::/48",
-    "asn": "212895",
-    "country_code": "DE",
-    "name": "ROUTE64_ORG",
-    "org": "Johannes Ernst",
-    "domain": "johannesernst.com"
-  },
-  {
-    "network": "2a11:6c7:f17::/48",
     "asn": "212895",
     "country_code": "DE",
     "name": "ROUTE64_ORG",
@@ -123192,14 +123208,6 @@
     "domain": "twl-kom.de"
   },
   {
-    "network": "109.73.48.0/20",
-    "asn": "9022",
-    "country_code": "DE",
-    "name": "TWL-KOM-AS",
-    "org": "TWL-KOM GmbH",
-    "domain": "twl-kom.de"
-  },
-  {
     "network": "185.10.192.0/22",
     "asn": "9022",
     "country_code": "DE",
@@ -123422,30 +123430,6 @@
     "name": "INFORENT-AS",
     "org": "INFORENT GmbH",
     "domain": "inforent.net"
-  },
-  {
-    "network": "80.244.3.0/24",
-    "asn": "200603",
-    "country_code": "DE",
-    "name": "FIXME-AS",
-    "org": "FIXME GmbH",
-    "domain": "fixme.gmbh"
-  },
-  {
-    "network": "185.79.125.0/24",
-    "asn": "200603",
-    "country_code": "DE",
-    "name": "FIXME-AS",
-    "org": "FIXME GmbH",
-    "domain": "fixme.gmbh"
-  },
-  {
-    "network": "2a13:5740::/29",
-    "asn": "200603",
-    "country_code": "DE",
-    "name": "FIXME-AS",
-    "org": "FIXME GmbH",
-    "domain": "fixme.gmbh"
   },
   {
     "network": "80.244.208.0/20",
@@ -132734,6 +132718,30 @@
     "name": "MEGASPACE2",
     "org": "Megaspace Internet Services GmbH",
     "domain": "megaspace.de"
+  },
+  {
+    "network": "89.33.81.0/24",
+    "asn": "218151",
+    "country_code": "DE",
+    "name": "NetzLiving",
+    "org": "NetzLiving GmbH",
+    "domain": "netzliving.eu"
+  },
+  {
+    "network": "150.237.86.0/24",
+    "asn": "218151",
+    "country_code": "DE",
+    "name": "NetzLiving",
+    "org": "NetzLiving GmbH",
+    "domain": "netzliving.eu"
+  },
+  {
+    "network": "2a13:3c0::/29",
+    "asn": "218151",
+    "country_code": "DE",
+    "name": "NetzLiving",
+    "org": "NetzLiving GmbH",
+    "domain": "netzliving.eu"
   },
   {
     "network": "89.36.33.0/24",
@@ -158744,6 +158752,14 @@
     "domain": "m-online.net"
   },
   {
+    "network": "160.46.234.0/24",
+    "asn": "8590",
+    "country_code": "DE",
+    "name": "UNSPECIFIED",
+    "org": "Bayerische Motoren Werke Aktiengesellschaft",
+    "domain": "m-online.net"
+  },
+  {
     "network": "160.48.164.0/24",
     "asn": "8590",
     "country_code": "DE",
@@ -159017,6 +159033,14 @@
   },
   {
     "network": "2a03:1e84:9326::/48",
+    "asn": "8590",
+    "country_code": "DE",
+    "name": "UNSPECIFIED",
+    "org": "Bayerische Motoren Werke Aktiengesellschaft",
+    "domain": "m-online.net"
+  },
+  {
+    "network": "2a03:1e84:9327::/48",
     "asn": "8590",
     "country_code": "DE",
     "name": "UNSPECIFIED",
@@ -166560,14 +166584,6 @@
     "domain": "deepl.com"
   },
   {
-    "network": "194.124.205.0/24",
-    "asn": "60550",
-    "country_code": "DE",
-    "name": "DeepL",
-    "org": "DeepL SE",
-    "domain": "deepl.com"
-  },
-  {
     "network": "194.124.206.0/23",
     "asn": "60550",
     "country_code": "DE",
@@ -166601,14 +166617,6 @@
   },
   {
     "network": "2a13:b240:1000::/36",
-    "asn": "60550",
-    "country_code": "DE",
-    "name": "DeepL",
-    "org": "DeepL SE",
-    "domain": "deepl.com"
-  },
-  {
-    "network": "2a13:b240:2000::/36",
     "asn": "60550",
     "country_code": "DE",
     "name": "DeepL",
@@ -168744,6 +168752,22 @@
     "domain": "ev-o-tec.de"
   },
   {
+    "network": "185.79.125.0/24",
+    "asn": "200603",
+    "country_code": "DE",
+    "name": "FIXME-AS",
+    "org": "FIXME GmbH",
+    "domain": "fixme.gmbh"
+  },
+  {
+    "network": "2a13:5740::/29",
+    "asn": "200603",
+    "country_code": "DE",
+    "name": "FIXME-AS",
+    "org": "FIXME GmbH",
+    "domain": "fixme.gmbh"
+  },
+  {
     "network": "185.79.196.0/24",
     "asn": "39892",
     "country_code": "DE",
@@ -169636,6 +169660,14 @@
     "asn": "199801",
     "country_code": "DE",
     "name": "BDO-AS",
+    "org": "BDO AG Wirtschaftspruefungsgesellschaft",
+    "domain": "bdo.de"
+  },
+  {
+    "network": "185.93.189.0/24",
+    "asn": "218206",
+    "country_code": "DE",
+    "name": "Headquarter-Internet",
     "org": "BDO AG Wirtschaftspruefungsgesellschaft",
     "domain": "bdo.de"
   },
@@ -170920,6 +170952,14 @@
     "domain": "iktsolutions.de"
   },
   {
+    "network": "2a0f:8780::/32",
+    "asn": "218540",
+    "country_code": "DE",
+    "name": "IKTSOLUTIONS-AS",
+    "org": "IKT Solutions UG (haftungsbeschraenkt)",
+    "domain": "iktsolutions.de"
+  },
+  {
     "network": "185.108.48.0/22",
     "asn": "208994",
     "country_code": "DE",
@@ -172056,6 +172096,14 @@
     "domain": "knipp.de"
   },
   {
+    "network": "195.253.112.0/24",
+    "asn": "50611",
+    "country_code": "DE",
+    "name": "KNIPP-IRONDNS1-AS",
+    "org": "Knipp Medien und Kommunikation GmbH",
+    "domain": "knipp.de"
+  },
+  {
     "network": "195.253.124.0/23",
     "asn": "50611",
     "country_code": "DE",
@@ -172137,6 +172185,14 @@
   },
   {
     "network": "2a01:5b0:2e::/48",
+    "asn": "50611",
+    "country_code": "DE",
+    "name": "KNIPP-IRONDNS1-AS",
+    "org": "Knipp Medien und Kommunikation GmbH",
+    "domain": "knipp.de"
+  },
+  {
+    "network": "2a01:5b0:30::/48",
     "asn": "50611",
     "country_code": "DE",
     "name": "KNIPP-IRONDNS1-AS",
@@ -178896,14 +178952,6 @@
     "domain": "qbeyond.de"
   },
   {
-    "network": "213.153.66.0/24",
-    "asn": "12399",
-    "country_code": "DE",
-    "name": "SCAN-PLUS-AS",
-    "org": "q.beyond AG",
-    "domain": "qbeyond.de"
-  },
-  {
     "network": "2001:a78::/29",
     "asn": "12399",
     "country_code": "DE",
@@ -179792,6 +179840,14 @@
     "domain": "equinix.com"
   },
   {
+    "network": "193.238.0.0/24",
+    "asn": "24989",
+    "country_code": "DE",
+    "name": "EQUINIX-CONNECT-GERMANY",
+    "org": "Equinix (Germany) GmbH",
+    "domain": "equinix.com"
+  },
+  {
     "network": "193.239.227.0/24",
     "asn": "24989",
     "country_code": "DE",
@@ -179817,14 +179873,6 @@
   },
   {
     "network": "194.11.253.0/24",
-    "asn": "24989",
-    "country_code": "DE",
-    "name": "EQUINIX-CONNECT-GERMANY",
-    "org": "Equinix (Germany) GmbH",
-    "domain": "equinix.com"
-  },
-  {
-    "network": "194.39.26.0/24",
     "asn": "24989",
     "country_code": "DE",
     "name": "EQUINIX-CONNECT-GERMANY",
@@ -186776,22 +186824,6 @@
     "domain": "blendbyte.net"
   },
   {
-    "network": "194.104.148.0/24",
-    "asn": "60571",
-    "country_code": "DE",
-    "name": "AS60571",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
-    "network": "2a06:1c4::/32",
-    "asn": "60571",
-    "country_code": "DE",
-    "name": "AS60571",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
     "network": "194.107.128.0/24",
     "asn": "43241",
     "country_code": "DE",
@@ -190008,22 +190040,6 @@
     "domain": "talke.com"
   },
   {
-    "network": "195.246.234.0/24",
-    "asn": "44003",
-    "country_code": "DE",
-    "name": "TALKE-AS",
-    "org": "Alfred Talke GmbH & Co.KG",
-    "domain": "talke.com"
-  },
-  {
-    "network": "195.246.235.0/24",
-    "asn": "44003",
-    "country_code": "DE",
-    "name": "TALKE-AS",
-    "org": "Alfred Talke GmbH & Co.KG",
-    "domain": "talke.com"
-  },
-  {
     "network": "195.248.67.0/24",
     "asn": "47369",
     "country_code": "DE",
@@ -191568,14 +191584,6 @@
     "domain": "hessenkom.de"
   },
   {
-    "network": "2001:678:354::/48",
-    "asn": "208146",
-    "country_code": "DE",
-    "name": "Caleano-AS",
-    "org": "Igor Scheller",
-    "domain": "caleano.com"
-  },
-  {
     "network": "2001:678:360::/48",
     "asn": "206506",
     "country_code": "DE",
@@ -191830,6 +191838,22 @@
     "name": "EGT",
     "org": "EGT-Kommunikationstechnik UG",
     "domain": "uberrider.de"
+  },
+  {
+    "network": "2001:678:fb4::/48",
+    "asn": "50873",
+    "country_code": "DE",
+    "name": "AS50873",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
+    "network": "2a06:1c0::/30",
+    "asn": "50873",
+    "country_code": "DE",
+    "name": "AS50873",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
   },
   {
     "network": "2001:678:fcc::/48",
@@ -192936,14 +192960,6 @@
     "domain": "pankerl-media.net"
   },
   {
-    "network": "2a00:4ac0::/29",
-    "asn": "214598",
-    "country_code": "DE",
-    "name": "ENVARO",
-    "org": "envaro UG",
-    "domain": "envaro.net"
-  },
-  {
     "network": "2a00:ccc4::/32",
     "asn": "59592",
     "country_code": "DE",
@@ -193192,6 +193208,14 @@
     "domain": "pfcloud.io"
   },
   {
+    "network": "2a06:1c4::/32",
+    "asn": "60571",
+    "country_code": "DE",
+    "name": "AS60571",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
     "network": "2a06:1281:60::/44",
     "asn": "213036",
     "country_code": "DE",
@@ -193294,14 +193318,6 @@
     "name": "LH142",
     "org": "Leon Haerle",
     "domain": "leonhaerle.de"
-  },
-  {
-    "network": "2a06:9801:748::/48",
-    "asn": "197319",
-    "country_code": "DE",
-    "name": "WANNEMAUS-AS",
-    "org": "Luca Maximilian Wannemacher",
-    "domain": "as197319.net"
   },
   {
     "network": "2a06:9801:79a::/48",
@@ -194936,7 +194952,7 @@
     "domain": "derlev.net"
   },
   {
-    "network": "2a0c:b641:f90::/48",
+    "network": "2a0c:b641:f94::/48",
     "asn": "218255",
     "country_code": "DE",
     "name": "FPLNET",
@@ -194944,7 +194960,23 @@
     "domain": "lippok.eu"
   },
   {
-    "network": "2a0c:b641:f94::/48",
+    "network": "2a0c:b641:f98::/48",
+    "asn": "218255",
+    "country_code": "DE",
+    "name": "FPLNET",
+    "org": "Finn Paul Lippok",
+    "domain": "lippok.eu"
+  },
+  {
+    "network": "2a0c:b641:f99::/48",
+    "asn": "218255",
+    "country_code": "DE",
+    "name": "FPLNET",
+    "org": "Finn Paul Lippok",
+    "domain": "lippok.eu"
+  },
+  {
+    "network": "2a0c:b641:f9a::/48",
     "asn": "218255",
     "country_code": "DE",
     "name": "FPLNET",
@@ -194993,6 +195025,22 @@
   },
   {
     "network": "2a0c:b641:fe8::/48",
+    "asn": "218222",
+    "country_code": "DE",
+    "name": "Miguel-da-Mota",
+    "org": "Miguel da Mota",
+    "domain": "migueldamota.com"
+  },
+  {
+    "network": "2a0c:b641:fe9::/48",
+    "asn": "218222",
+    "country_code": "DE",
+    "name": "Miguel-da-Mota",
+    "org": "Miguel da Mota",
+    "domain": "migueldamota.com"
+  },
+  {
+    "network": "2a0c:b641:fea::/48",
     "asn": "218222",
     "country_code": "DE",
     "name": "Miguel-da-Mota",
@@ -195880,14 +195928,6 @@
     "domain": "as215500.net"
   },
   {
-    "network": "2a11:f2c0:ffe3::/48",
-    "asn": "211370",
-    "country_code": "DE",
-    "name": "cve",
-    "org": "Clara Val Engler",
-    "domain": "as211370.net"
-  },
-  {
     "network": "2a11:fe87::/32",
     "asn": "59411",
     "country_code": "DE",
@@ -195984,14 +196024,6 @@
     "domain": "tyebo.de"
   },
   {
-    "network": "2a14:1ec1:7b20::/44",
-    "asn": "215093",
-    "country_code": "DE",
-    "name": "Niklas-Wecker",
-    "org": "Niklas Wecker",
-    "domain": "6v4.de"
-  },
-  {
     "network": "2a14:1ec1:7b40::/48",
     "asn": "219539",
     "country_code": "DE",
@@ -196049,6 +196081,14 @@
   },
   {
     "network": "2a14:7581:7c::/48",
+    "asn": "219421",
+    "country_code": "DE",
+    "name": "MIARECKI-NET",
+    "org": "Jonatan Miarecki",
+    "domain": "miarecki.eu"
+  },
+  {
+    "network": "2a14:7581:ac::/48",
     "asn": "219421",
     "country_code": "DE",
     "name": "MIARECKI-NET",
