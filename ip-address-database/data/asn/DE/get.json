@@ -528,6 +528,22 @@
     "domain": "dataforest.net"
   },
   {
+    "network": "193.28.251.0/24",
+    "asn": "215607",
+    "country_code": "DE",
+    "name": "DF-Transit",
+    "org": "dataforest GmbH",
+    "domain": "dataforest.net"
+  },
+  {
+    "network": "195.110.14.0/24",
+    "asn": "215607",
+    "country_code": "DE",
+    "name": "DF-Transit",
+    "org": "dataforest GmbH",
+    "domain": "dataforest.net"
+  },
+  {
     "network": "199.235.174.0/24",
     "asn": "215607",
     "country_code": "DE",
@@ -16625,6 +16641,14 @@
   },
   {
     "network": "94.194.20.0/22",
+    "asn": "3320",
+    "country_code": "DE",
+    "name": "DTAG",
+    "org": "Deutsche Telekom AG",
+    "domain": "telekom.de"
+  },
+  {
+    "network": "94.194.60.0/22",
     "asn": "3320",
     "country_code": "DE",
     "name": "DTAG",
@@ -35352,14 +35376,6 @@
     "domain": "leaseweb.com"
   },
   {
-    "network": "2a0f:3043::/32",
-    "asn": "28753",
-    "country_code": "DE",
-    "name": "LEASEWEB-DE-FRA-10",
-    "org": "Leaseweb Deutschland GmbH",
-    "domain": "leaseweb.com"
-  },
-  {
     "network": "2a0f:d200::/29",
     "asn": "28753",
     "country_code": "DE",
@@ -35393,14 +35409,6 @@
   },
   {
     "network": "2a11:8880::/29",
-    "asn": "28753",
-    "country_code": "DE",
-    "name": "LEASEWEB-DE-FRA-10",
-    "org": "Leaseweb Deutschland GmbH",
-    "domain": "leaseweb.com"
-  },
-  {
-    "network": "2a13:d45::/32",
     "asn": "28753",
     "country_code": "DE",
     "name": "LEASEWEB-DE-FRA-10",
@@ -38025,14 +38033,6 @@
   },
   {
     "network": "5.63.180.0/23",
-    "asn": "61310",
-    "country_code": "DE",
-    "name": "PREGO",
-    "org": "prego services GmbH",
-    "domain": "prego-services.de"
-  },
-  {
-    "network": "5.63.182.0/23",
     "asn": "61310",
     "country_code": "DE",
     "name": "PREGO",
@@ -43280,14 +43280,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "185.13.158.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "185.120.156.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -43344,14 +43336,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "193.28.251.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "193.84.20.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -43385,14 +43369,6 @@
   },
   {
     "network": "195.95.219.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "195.110.14.0/24",
     "asn": "12586",
     "country_code": "DE",
     "name": "ASGHOSTNET",
@@ -46232,6 +46208,14 @@
     "domain": "first-colo.net"
   },
   {
+    "network": "159.100.8.0/24",
+    "asn": "44066",
+    "country_code": "DE",
+    "name": "DE-FIRSTCOLO",
+    "org": "firstcolo GmbH",
+    "domain": "first-colo.net"
+  },
+  {
     "network": "159.100.10.0/23",
     "asn": "44066",
     "country_code": "DE",
@@ -46456,6 +46440,30 @@
     "domain": "first-colo.net"
   },
   {
+    "network": "212.224.70.0/23",
+    "asn": "44066",
+    "country_code": "DE",
+    "name": "DE-FIRSTCOLO",
+    "org": "firstcolo GmbH",
+    "domain": "first-colo.net"
+  },
+  {
+    "network": "212.224.72.0/24",
+    "asn": "44066",
+    "country_code": "DE",
+    "name": "DE-FIRSTCOLO",
+    "org": "firstcolo GmbH",
+    "domain": "first-colo.net"
+  },
+  {
+    "network": "212.224.77.0/24",
+    "asn": "44066",
+    "country_code": "DE",
+    "name": "DE-FIRSTCOLO",
+    "org": "firstcolo GmbH",
+    "domain": "first-colo.net"
+  },
+  {
     "network": "212.224.84.0/24",
     "asn": "44066",
     "country_code": "DE",
@@ -46473,6 +46481,14 @@
   },
   {
     "network": "212.224.110.0/24",
+    "asn": "44066",
+    "country_code": "DE",
+    "name": "DE-FIRSTCOLO",
+    "org": "firstcolo GmbH",
+    "domain": "first-colo.net"
+  },
+  {
+    "network": "212.224.126.0/24",
     "asn": "44066",
     "country_code": "DE",
     "name": "DE-FIRSTCOLO",
@@ -47105,6 +47121,14 @@
   },
   {
     "network": "2a11:8040:2::/48",
+    "asn": "209551",
+    "country_code": "DE",
+    "name": "allgaeudsl",
+    "org": "Amisol GmbH",
+    "domain": "allgaeudsl.de"
+  },
+  {
+    "network": "2a11:8040:ffff::/48",
     "asn": "209551",
     "country_code": "DE",
     "name": "allgaeudsl",
@@ -50248,6 +50272,14 @@
     "domain": "dotnic.de"
   },
   {
+    "network": "2a14:6782:100::/48",
+    "asn": "215685",
+    "country_code": "DE",
+    "name": "Nexus",
+    "org": "Maik Sussdorf",
+    "domain": "dotnic.de"
+  },
+  {
     "network": "2a14:6782:101::/48",
     "asn": "215685",
     "country_code": "DE",
@@ -50937,14 +50969,6 @@
   },
   {
     "network": "194.35.188.0/23",
-    "asn": "9063",
-    "country_code": "DE",
-    "name": "SAARGATE-AS",
-    "org": "VSE NET GmbH",
-    "domain": "vsenet.de"
-  },
-  {
-    "network": "194.48.193.0/24",
     "asn": "9063",
     "country_code": "DE",
     "name": "SAARGATE-AS",
@@ -52017,14 +52041,6 @@
   },
   {
     "network": "2a02:c98:1200::/40",
-    "asn": "48918",
-    "country_code": "DE",
-    "name": "GLOBALWAYS",
-    "org": "Globalways GmbH",
-    "domain": "globalways.net"
-  },
-  {
-    "network": "2a06:fbc0::/29",
     "asn": "48918",
     "country_code": "DE",
     "name": "GLOBALWAYS",
@@ -54792,6 +54808,382 @@
     "domain": "packets-decreaser.net"
   },
   {
+    "network": "5.231.240.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "31.22.72.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "31.22.73.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "31.22.75.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "31.25.11.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "62.169.152.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "84.252.120.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "84.252.121.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "84.252.122.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "84.252.123.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "89.36.32.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "89.36.35.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "95.175.150.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "109.175.211.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "150.40.107.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "185.79.19.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "185.121.132.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "185.121.133.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "185.144.70.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "185.144.71.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "185.230.161.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "185.230.162.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "185.230.163.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "185.236.11.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "192.40.69.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "212.232.18.0/24",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a09:6301::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a0c:2500::/32",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a0c:2500:1::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a0c:2500:571::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a0c:2500:572::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a0c:2500:bbd::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a0c:2501::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a0c:2501:1::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a0c:2502::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a0c:2502:1::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a0c:2503::/32",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a14:6781::/32",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a14:6781:201::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a14:6781:300::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a14:6781:301::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a14:6781:302::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a14:6781:303::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a14:6781:304::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a14:6781:333::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a14:6781:400::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
+    "network": "2a14:6781:401::/48",
+    "asn": "51202",
+    "country_code": "DE",
+    "name": "NUXOA",
+    "org": "NUXOA GmbH",
+    "domain": "nuxoa.de"
+  },
+  {
     "network": "5.231.243.0/24",
     "asn": "204268",
     "country_code": "DE",
@@ -54865,6 +55257,14 @@
   },
   {
     "network": "31.70.168.0/21",
+    "asn": "8560",
+    "country_code": "DE",
+    "name": "IONOS-AS",
+    "org": "IONOS SE",
+    "domain": "ionos.com"
+  },
+  {
+    "network": "31.70.192.0/20",
     "asn": "8560",
     "country_code": "DE",
     "name": "IONOS-AS",
@@ -67976,22 +68376,6 @@
     "domain": "pfcloud.io"
   },
   {
-    "network": "2a11:5780::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a11:5784::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
     "network": "2a12:1cc7::/32",
     "asn": "51396",
     "country_code": "DE",
@@ -68025,22 +68409,6 @@
   },
   {
     "network": "2a12:6744::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:8100::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:8104::/30",
     "asn": "51396",
     "country_code": "DE",
     "name": "PFCLOUD",
@@ -68393,6 +68761,22 @@
   },
   {
     "network": "208.90.253.0/24",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "2001:678:13e8::/48",
+    "asn": "215197",
+    "country_code": "DE",
+    "name": "ZEROSERVICESGMBH-AS",
+    "org": "Zero Services GmbH",
+    "domain": "zeroservices.eu"
+  },
+  {
+    "network": "2001:678:13ec::/48",
     "asn": "215197",
     "country_code": "DE",
     "name": "ZEROSERVICESGMBH-AS",
@@ -70678,374 +71062,6 @@
     "name": "SVW",
     "org": "SV Werder Bremen GmbH & Co KG aA",
     "domain": "werder.de"
-  },
-  {
-    "network": "31.22.72.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "31.22.73.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "31.22.75.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "31.25.11.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "62.169.152.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "84.252.120.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "84.252.121.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "84.252.122.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "84.252.123.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "89.36.32.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "89.36.35.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "95.175.150.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "109.175.211.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "150.40.107.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "185.79.19.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "185.121.132.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "185.121.133.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "185.144.70.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "185.144.71.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "185.230.161.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "185.230.162.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "185.230.163.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "185.236.11.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "192.40.69.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "212.232.18.0/24",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a09:6301::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a0c:2500::/32",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a0c:2500:1::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a0c:2500:571::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a0c:2500:572::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a0c:2500:bbd::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a0c:2501::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a0c:2501:1::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a0c:2502::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a0c:2502:1::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a0c:2503::/32",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a14:6781::/32",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a14:6781:201::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a14:6781:300::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a14:6781:301::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a14:6781:302::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a14:6781:303::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a14:6781:304::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a14:6781:333::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a14:6781:400::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
-  },
-  {
-    "network": "2a14:6781:401::/48",
-    "asn": "51202",
-    "country_code": "DE",
-    "name": "NUXOA",
-    "org": "NUXOA GmbH",
-    "domain": "nuxoa.de"
   },
   {
     "network": "31.22.76.0/24",
@@ -81648,14 +81664,6 @@
     "domain": "soprado.com"
   },
   {
-    "network": "62.40.0.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
     "network": "62.201.172.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -81928,6 +81936,14 @@
     "domain": "soprado.com"
   },
   {
+    "network": "141.90.15.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
     "network": "185.5.80.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -82112,23 +82128,15 @@
     "domain": "soprado.com"
   },
   {
-    "network": "195.94.88.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
-    "network": "195.94.90.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
     "network": "195.128.40.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
+    "network": "195.135.183.0/24",
     "asn": "20546",
     "country_code": "DE",
     "name": "SOPRADO-ANY",
@@ -83752,6 +83760,70 @@
     "domain": "unzer.com"
   },
   {
+    "network": "37.228.130.0/24",
+    "asn": "50873",
+    "country_code": "DE",
+    "name": "AS50873",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
+    "network": "94.247.143.0/24",
+    "asn": "50873",
+    "country_code": "DE",
+    "name": "AS50873",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
+    "network": "185.97.4.0/22",
+    "asn": "50873",
+    "country_code": "DE",
+    "name": "AS50873",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
+    "network": "185.97.5.0/24",
+    "asn": "50873",
+    "country_code": "DE",
+    "name": "AS50873",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
+    "network": "194.104.114.0/23",
+    "asn": "50873",
+    "country_code": "DE",
+    "name": "AS50873",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
+    "network": "194.104.149.0/24",
+    "asn": "50873",
+    "country_code": "DE",
+    "name": "AS50873",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
+    "network": "2001:678:fb4::/48",
+    "asn": "50873",
+    "country_code": "DE",
+    "name": "AS50873",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
+    "network": "2a06:1c0::/30",
+    "asn": "50873",
+    "country_code": "DE",
+    "name": "AS50873",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
     "network": "37.228.132.0/24",
     "asn": "204035",
     "country_code": "DE",
@@ -84886,22 +84958,6 @@
     "name": "SIT-AS",
     "org": "S-IT Verwaltungs GmbH trading as S-IT Informationstechnologie Betreiber GmbH & Co. KG im Nordschwarzwald",
     "domain": ""
-  },
-  {
-    "network": "44.31.105.0/24",
-    "asn": "210561",
-    "country_code": "DE",
-    "name": "q-misell",
-    "org": "Q Misell",
-    "domain": "as207960.net"
-  },
-  {
-    "network": "2a11:f2c0:fe00::/40",
-    "asn": "210561",
-    "country_code": "DE",
-    "name": "q-misell",
-    "org": "Q Misell",
-    "domain": "as207960.net"
   },
   {
     "network": "44.31.126.0/24",
@@ -99712,22 +99768,6 @@
     "domain": "itdpk.de"
   },
   {
-    "network": "2a07:54c4:19a1::/48",
-    "asn": "215459",
-    "country_code": "DE",
-    "name": "VYRT-AS",
-    "org": "Pascal Kutscha",
-    "domain": "itdpk.de"
-  },
-  {
-    "network": "2a07:54c4:19a2::/48",
-    "asn": "215459",
-    "country_code": "DE",
-    "name": "VYRT-AS",
-    "org": "Pascal Kutscha",
-    "domain": "itdpk.de"
-  },
-  {
     "network": "45.146.132.0/22",
     "asn": "200567",
     "country_code": "DE",
@@ -101001,6 +101041,14 @@
   },
   {
     "network": "217.180.58.0/24",
+    "asn": "59745",
+    "country_code": "DE",
+    "name": "AtlasEdge",
+    "org": "AE Technology Services Germany GmbH",
+    "domain": "atlasedge.com"
+  },
+  {
+    "network": "2a06:fbc0::/29",
     "asn": "59745",
     "country_code": "DE",
     "name": "AtlasEdge",
@@ -103088,6 +103136,14 @@
     "domain": "ccc.de"
   },
   {
+    "network": "2a0f:5386:200::/40",
+    "asn": "208135",
+    "country_code": "DE",
+    "name": "fluepke-net",
+    "org": "Carl Fabian Luepke",
+    "domain": "ccc.de"
+  },
+  {
     "network": "2a0f:5387:ffff::/48",
     "asn": "208135",
     "country_code": "DE",
@@ -104168,14 +104224,6 @@
     "domain": "t-systems.com"
   },
   {
-    "network": "46.29.103.0/24",
-    "asn": "34086",
-    "country_code": "DE",
-    "name": "SCZN-AS",
-    "org": "T-Systems International GmbH",
-    "domain": "t-systems.com"
-  },
-  {
     "network": "80.158.64.0/21",
     "asn": "34086",
     "country_code": "DE",
@@ -104249,14 +104297,6 @@
   },
   {
     "network": "160.44.224.0/19",
-    "asn": "34086",
-    "country_code": "DE",
-    "name": "SCZN-AS",
-    "org": "T-Systems International GmbH",
-    "domain": "t-systems.com"
-  },
-  {
-    "network": "160.44.249.0/24",
     "asn": "34086",
     "country_code": "DE",
     "name": "SCZN-AS",
@@ -110481,14 +110521,6 @@
   },
   {
     "network": "2001:3fc6:100::/48",
-    "asn": "214101",
-    "country_code": "DE",
-    "name": "EU-SOVEREIGN-CLOUD",
-    "org": "Amazon Data Services European Sovereign Cloud GmbH",
-    "domain": "amazon.com"
-  },
-  {
-    "network": "2605:9cc0:3d4::/48",
     "asn": "214101",
     "country_code": "DE",
     "name": "EU-SOVEREIGN-CLOUD",
@@ -117960,14 +117992,6 @@
     "domain": "managedhosting.de"
   },
   {
-    "network": "77.220.232.0/24",
-    "asn": "42699",
-    "country_code": "DE",
-    "name": "MANAGEDHOSTING-AS",
-    "org": "axilaris GmbH",
-    "domain": "managedhosting.de"
-  },
-  {
     "network": "2a02:2878::/32",
     "asn": "42699",
     "country_code": "DE",
@@ -120928,6 +120952,14 @@
     "domain": "johannesernst.com"
   },
   {
+    "network": "2a11:6c7:14::/48",
+    "asn": "212895",
+    "country_code": "DE",
+    "name": "ROUTE64_ORG",
+    "org": "Johannes Ernst",
+    "domain": "johannesernst.com"
+  },
+  {
     "network": "2a11:6c7:15::/48",
     "asn": "212895",
     "country_code": "DE",
@@ -121161,6 +121193,22 @@
   },
   {
     "network": "2a11:6c7:f15::/48",
+    "asn": "212895",
+    "country_code": "DE",
+    "name": "ROUTE64_ORG",
+    "org": "Johannes Ernst",
+    "domain": "johannesernst.com"
+  },
+  {
+    "network": "2a11:6c7:f16::/48",
+    "asn": "212895",
+    "country_code": "DE",
+    "name": "ROUTE64_ORG",
+    "org": "Johannes Ernst",
+    "domain": "johannesernst.com"
+  },
+  {
+    "network": "2a11:6c7:f17::/48",
     "asn": "212895",
     "country_code": "DE",
     "name": "ROUTE64_ORG",
@@ -123430,6 +123478,30 @@
     "name": "INFORENT-AS",
     "org": "INFORENT GmbH",
     "domain": "inforent.net"
+  },
+  {
+    "network": "80.244.3.0/24",
+    "asn": "200603",
+    "country_code": "DE",
+    "name": "FIXME-AS",
+    "org": "FIXME GmbH",
+    "domain": "fixme.gmbh"
+  },
+  {
+    "network": "185.79.125.0/24",
+    "asn": "200603",
+    "country_code": "DE",
+    "name": "FIXME-AS",
+    "org": "FIXME GmbH",
+    "domain": "fixme.gmbh"
+  },
+  {
+    "network": "2a13:5740::/29",
+    "asn": "200603",
+    "country_code": "DE",
+    "name": "FIXME-AS",
+    "org": "FIXME GmbH",
+    "domain": "fixme.gmbh"
   },
   {
     "network": "80.244.208.0/20",
@@ -131104,6 +131176,14 @@
     "domain": "northerndata.de"
   },
   {
+    "network": "176.56.192.0/24",
+    "asn": "59437",
+    "country_code": "DE",
+    "name": "NORTHERNDATA",
+    "org": "Northern Data AG",
+    "domain": "northerndata.de"
+  },
+  {
     "network": "176.56.200.0/21",
     "asn": "59437",
     "country_code": "DE",
@@ -136348,7 +136428,7 @@
     "asn": "51598",
     "country_code": "DE",
     "name": "AS-NEHLSEN",
-    "org": "Nehlsen AG",
+    "org": "Nehlsen Management SE trading as Nehlsen SE & Co. KG",
     "domain": "nehlsen.com"
   },
   {
@@ -136356,7 +136436,7 @@
     "asn": "51598",
     "country_code": "DE",
     "name": "AS-NEHLSEN",
-    "org": "Nehlsen AG",
+    "org": "Nehlsen Management SE trading as Nehlsen SE & Co. KG",
     "domain": "nehlsen.com"
   },
   {
@@ -136364,7 +136444,7 @@
     "asn": "51598",
     "country_code": "DE",
     "name": "AS-NEHLSEN",
-    "org": "Nehlsen AG",
+    "org": "Nehlsen Management SE trading as Nehlsen SE & Co. KG",
     "domain": "nehlsen.com"
   },
   {
@@ -149840,14 +149920,6 @@
     "domain": "tacs.cloud"
   },
   {
-    "network": "140.225.197.0/24",
-    "asn": "219117",
-    "country_code": "DE",
-    "name": "PlanA",
-    "org": "TA Consulting & Services GmbH",
-    "domain": "tacs.cloud"
-  },
-  {
     "network": "140.225.220.0/23",
     "asn": "219117",
     "country_code": "DE",
@@ -154092,72 +154164,72 @@
     "asn": "48778",
     "country_code": "DE",
     "name": "IHK-NET",
-    "org": "IHK Gesellschaft fuer Informationsverarbeitung mbH",
-    "domain": "ihk.de"
+    "org": "IHK Gesellschaft fuer Digitalisierung mbH",
+    "domain": "ihkgdi.de"
   },
   {
     "network": "141.88.192.0/18",
     "asn": "48778",
     "country_code": "DE",
     "name": "IHK-NET",
-    "org": "IHK Gesellschaft fuer Informationsverarbeitung mbH",
-    "domain": "ihk.de"
+    "org": "IHK Gesellschaft fuer Digitalisierung mbH",
+    "domain": "ihkgdi.de"
   },
   {
     "network": "141.88.210.0/23",
     "asn": "48778",
     "country_code": "DE",
     "name": "IHK-NET",
-    "org": "IHK Gesellschaft fuer Informationsverarbeitung mbH",
-    "domain": "ihk.de"
+    "org": "IHK Gesellschaft fuer Digitalisierung mbH",
+    "domain": "ihkgdi.de"
   },
   {
     "network": "141.88.212.0/23",
     "asn": "48778",
     "country_code": "DE",
     "name": "IHK-NET",
-    "org": "IHK Gesellschaft fuer Informationsverarbeitung mbH",
-    "domain": "ihk.de"
+    "org": "IHK Gesellschaft fuer Digitalisierung mbH",
+    "domain": "ihkgdi.de"
   },
   {
     "network": "141.88.222.0/23",
     "asn": "48778",
     "country_code": "DE",
     "name": "IHK-NET",
-    "org": "IHK Gesellschaft fuer Informationsverarbeitung mbH",
-    "domain": "ihk.de"
+    "org": "IHK Gesellschaft fuer Digitalisierung mbH",
+    "domain": "ihkgdi.de"
   },
   {
     "network": "141.88.234.0/23",
     "asn": "48778",
     "country_code": "DE",
     "name": "IHK-NET",
-    "org": "IHK Gesellschaft fuer Informationsverarbeitung mbH",
-    "domain": "ihk.de"
+    "org": "IHK Gesellschaft fuer Digitalisierung mbH",
+    "domain": "ihkgdi.de"
   },
   {
     "network": "141.88.240.0/23",
     "asn": "48778",
     "country_code": "DE",
     "name": "IHK-NET",
-    "org": "IHK Gesellschaft fuer Informationsverarbeitung mbH",
-    "domain": "ihk.de"
+    "org": "IHK Gesellschaft fuer Digitalisierung mbH",
+    "domain": "ihkgdi.de"
   },
   {
     "network": "141.88.254.0/23",
     "asn": "48778",
     "country_code": "DE",
     "name": "IHK-NET",
-    "org": "IHK Gesellschaft fuer Informationsverarbeitung mbH",
-    "domain": "ihk.de"
+    "org": "IHK Gesellschaft fuer Digitalisierung mbH",
+    "domain": "ihkgdi.de"
   },
   {
     "network": "2001:67c:19c0::/48",
     "asn": "48778",
     "country_code": "DE",
     "name": "IHK-NET",
-    "org": "IHK Gesellschaft fuer Informationsverarbeitung mbH",
-    "domain": "ihk.de"
+    "org": "IHK Gesellschaft fuer Digitalisierung mbH",
+    "domain": "ihkgdi.de"
   },
   {
     "network": "141.90.0.0/18",
@@ -154265,14 +154337,6 @@
   },
   {
     "network": "141.90.14.0/24",
-    "asn": "29515",
-    "country_code": "DE",
-    "name": "HZD-AS",
-    "org": "Hessische Zentrale fuer Datenverarbeitung",
-    "domain": "plusline.de"
-  },
-  {
-    "network": "141.90.15.0/24",
     "asn": "29515",
     "country_code": "DE",
     "name": "HZD-AS",
@@ -168296,6 +168360,22 @@
     "domain": "freifunk-rheinland.net"
   },
   {
+    "network": "185.66.220.0/22",
+    "asn": "60235",
+    "country_code": "DE",
+    "name": "neo-scale",
+    "org": "port-neo AG",
+    "domain": "port-neo.com"
+  },
+  {
+    "network": "185.139.96.0/22",
+    "asn": "60235",
+    "country_code": "DE",
+    "name": "neo-scale",
+    "org": "port-neo AG",
+    "domain": "port-neo.com"
+  },
+  {
     "network": "185.66.236.0/24",
     "asn": "44833",
     "country_code": "DE",
@@ -168750,22 +168830,6 @@
     "name": "Evotec",
     "org": "Ronny Laborius",
     "domain": "ev-o-tec.de"
-  },
-  {
-    "network": "185.79.125.0/24",
-    "asn": "200603",
-    "country_code": "DE",
-    "name": "FIXME-AS",
-    "org": "FIXME GmbH",
-    "domain": "fixme.gmbh"
-  },
-  {
-    "network": "2a13:5740::/29",
-    "asn": "200603",
-    "country_code": "DE",
-    "name": "FIXME-AS",
-    "org": "FIXME GmbH",
-    "domain": "fixme.gmbh"
   },
   {
     "network": "185.79.196.0/24",
@@ -186824,6 +186888,22 @@
     "domain": "blendbyte.net"
   },
   {
+    "network": "194.104.148.0/24",
+    "asn": "60571",
+    "country_code": "DE",
+    "name": "AS60571",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
+    "network": "2a06:1c4::/32",
+    "asn": "60571",
+    "country_code": "DE",
+    "name": "AS60571",
+    "org": "David Doepelheuer",
+    "domain": "as50873.net"
+  },
+  {
     "network": "194.107.128.0/24",
     "asn": "43241",
     "country_code": "DE",
@@ -191840,22 +191920,6 @@
     "domain": "uberrider.de"
   },
   {
-    "network": "2001:678:fb4::/48",
-    "asn": "50873",
-    "country_code": "DE",
-    "name": "AS50873",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
-    "network": "2a06:1c0::/30",
-    "asn": "50873",
-    "country_code": "DE",
-    "name": "AS50873",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
     "network": "2001:678:fcc::/48",
     "asn": "211023",
     "country_code": "DE",
@@ -193208,14 +193272,6 @@
     "domain": "pfcloud.io"
   },
   {
-    "network": "2a06:1c4::/32",
-    "asn": "60571",
-    "country_code": "DE",
-    "name": "AS60571",
-    "org": "David Doepelheuer",
-    "domain": "as50873.net"
-  },
-  {
     "network": "2a06:1281:60::/44",
     "asn": "213036",
     "country_code": "DE",
@@ -193233,6 +193289,14 @@
   },
   {
     "network": "2a06:1283:890f::/48",
+    "asn": "219451",
+    "country_code": "DE",
+    "name": "justinbrugmann",
+    "org": "Justin Brugmann",
+    "domain": "pm.me"
+  },
+  {
+    "network": "2a06:1283:891c::/48",
     "asn": "219451",
     "country_code": "DE",
     "name": "justinbrugmann",
@@ -193278,6 +193342,14 @@
     "name": "Bjoern-Schleyer",
     "org": "Bjoern Schleyer",
     "domain": "schleyer-edv.de"
+  },
+  {
+    "network": "2a06:1283:c0a0::/44",
+    "asn": "215738",
+    "country_code": "DE",
+    "name": "dashserv",
+    "org": "Julian Tiedke",
+    "domain": "dashserv.io"
   },
   {
     "network": "2a06:9801:1c::/48",
@@ -194568,23 +194640,7 @@
     "domain": "bgporn.net"
   },
   {
-    "network": "2a0c:9a40:808a::/48",
-    "asn": "48646",
-    "country_code": "DE",
-    "name": "STEFAN6",
-    "org": "SDRmedia Verwaltungs GmbH",
-    "domain": "sdr-media.de"
-  },
-  {
     "network": "2a0c:9a40:8590::/48",
-    "asn": "215080",
-    "country_code": "DE",
-    "name": "Jana-Steuernagel",
-    "org": "Jana Amelie Steuernagel",
-    "domain": "jsteuernagel.de"
-  },
-  {
-    "network": "2a0c:b641:8c0::/48",
     "asn": "215080",
     "country_code": "DE",
     "name": "Jana-Steuernagel",
@@ -194633,14 +194689,6 @@
   },
   {
     "network": "2a0c:9a40:8851::/48",
-    "asn": "207792",
-    "country_code": "DE",
-    "name": "Darius-Jockel",
-    "org": "Darius Jockel",
-    "domain": "miniwar.de"
-  },
-  {
-    "network": "2a0c:9a40:8852::/48",
     "asn": "207792",
     "country_code": "DE",
     "name": "Darius-Jockel",
@@ -195328,14 +195376,6 @@
     "domain": "as211972.net"
   },
   {
-    "network": "2a10:9902:732::/48",
-    "asn": "211972",
-    "country_code": "DE",
-    "name": "MSN-NET",
-    "org": "Marc Schulz-Narres",
-    "domain": "as211972.net"
-  },
-  {
     "network": "2a10:9902:733::/48",
     "asn": "211972",
     "country_code": "DE",
@@ -195808,14 +195848,6 @@
     "domain": "secshell.de"
   },
   {
-    "network": "2a0f:b240:7c01::/48",
-    "asn": "210235",
-    "country_code": "DE",
-    "name": "JULIANKUHN",
-    "org": "Julian Kuhn",
-    "domain": "secshell.de"
-  },
-  {
     "network": "2a10:cc44:1d0::/48",
     "asn": "208454",
     "country_code": "DE",
@@ -195992,6 +196024,14 @@
     "domain": "plainproxies.com"
   },
   {
+    "network": "2a13:49c0::/48",
+    "asn": "200032",
+    "country_code": "DE",
+    "name": "rosenberger-hft-as",
+    "org": "Rosenberger Hochfrequenztechnik GmbH trading as Rosenberger Hochfrequenztechnik GmbH & Co. KG",
+    "domain": "rosenberger.com"
+  },
+  {
     "network": "2a13:7706:1::/48",
     "asn": "215466",
     "country_code": "DE",
@@ -196022,6 +196062,14 @@
     "name": "TyeboConsulting",
     "org": "Markus Tyebo trading as Tyebo Infrastructure & Consulting",
     "domain": "tyebo.de"
+  },
+  {
+    "network": "2a14:1ec1:7b30::/48",
+    "asn": "214906",
+    "country_code": "DE",
+    "name": "Cedric-Hammes",
+    "org": "Cedric Hammes",
+    "domain": "cach30verfl0w.net"
   },
   {
     "network": "2a14:1ec1:7b40::/48",

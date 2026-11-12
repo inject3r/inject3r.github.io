@@ -1,6 +1,6 @@
 [
   {
-    "network": "45.230.0.0/22",
+    "network": "45.230.0.0/24",
     "asn": "267140",
     "country_code": "BR",
     "name": "Z.GARCIA SGARBOSSA",
@@ -8,7 +8,7 @@
     "domain": ""
   },
   {
-    "network": "45.230.0.0/23",
+    "network": "45.230.1.0/24",
     "asn": "267140",
     "country_code": "BR",
     "name": "Z.GARCIA SGARBOSSA",
@@ -16,7 +16,15 @@
     "domain": ""
   },
   {
-    "network": "45.230.2.0/23",
+    "network": "45.230.2.0/24",
+    "asn": "267140",
+    "country_code": "BR",
+    "name": "Z.GARCIA SGARBOSSA",
+    "org": "Z.GARCIA SGARBOSSA",
+    "domain": ""
+  },
+  {
+    "network": "45.230.3.0/24",
     "asn": "267140",
     "country_code": "BR",
     "name": "Z.GARCIA SGARBOSSA",

@@ -560,14 +560,6 @@
     "domain": "telus.com"
   },
   {
-    "network": "74.48.224.0/19",
-    "asn": "852",
-    "country_code": "CA",
-    "name": "ASN852",
-    "org": "TELUS Communications Inc.",
-    "domain": "telus.com"
-  },
-  {
     "network": "74.49.207.0/24",
     "asn": "852",
     "country_code": "CA",
@@ -23777,6 +23769,14 @@
   },
   {
     "network": "157.185.183.0/24",
+    "asn": "54994",
+    "country_code": "CA",
+    "name": "ML-1432-54994",
+    "org": "Meteverse Limited.",
+    "domain": "meteversecloud.com"
+  },
+  {
+    "network": "157.185.184.0/24",
     "asn": "54994",
     "country_code": "CA",
     "name": "ML-1432-54994",
@@ -58848,6 +58848,14 @@
     "domain": "microcom.ca"
   },
   {
+    "network": "172.82.110.0/24",
+    "asn": "395214",
+    "country_code": "CA",
+    "name": "MICROCOM",
+    "org": "Microcom Informatique, Inc.",
+    "domain": "microcom.ca"
+  },
+  {
     "network": "172.82.111.0/24",
     "asn": "395214",
     "country_code": "CA",
@@ -59536,6 +59544,14 @@
     "domain": "ewpratten.com"
   },
   {
+    "network": "44.31.119.0/24",
+    "asn": "54041",
+    "country_code": "CA",
+    "name": "EVAN-PRATTEN",
+    "org": "Evan Warren Pratten, Sole Proprietorship",
+    "domain": "ewpratten.com"
+  },
+  {
     "network": "167.253.127.0/24",
     "asn": "54041",
     "country_code": "CA",
@@ -59600,7 +59616,7 @@
     "domain": "badcoder.net"
   },
   {
-    "network": "2602:f5c6::/44",
+    "network": "2602:f5c6::/48",
     "asn": "401840",
     "country_code": "CA",
     "name": "BCDN",
@@ -68366,6 +68382,22 @@
     "name": "EHS-01",
     "org": "Edgar HighSpeed Inc.",
     "domain": "edgarhighspeed.com"
+  },
+  {
+    "network": "23.167.148.0/24",
+    "asn": "403152",
+    "country_code": "CA",
+    "name": "ACORN-NET",
+    "org": "Acorn Data Solutions Inc.",
+    "domain": "protonmail.com"
+  },
+  {
+    "network": "2620:7e:90a0::/48",
+    "asn": "403152",
+    "country_code": "CA",
+    "name": "ACORN-NET",
+    "org": "Acorn Data Solutions Inc.",
+    "domain": "protonmail.com"
   },
   {
     "network": "23.167.224.0/24",
@@ -111168,14 +111200,6 @@
     "domain": "bell.ca"
   },
   {
-    "network": "47.55.166.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
     "network": "47.55.167.0/24",
     "asn": "577",
     "country_code": "CA",
@@ -113080,22 +113104,6 @@
     "domain": "bell.ca"
   },
   {
-    "network": "134.41.184.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "134.41.185.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
     "network": "134.41.186.0/24",
     "asn": "577",
     "country_code": "CA",
@@ -114057,14 +114065,6 @@
   },
   {
     "network": "142.68.201.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.68.202.0/24",
     "asn": "577",
     "country_code": "CA",
     "name": "BACOM",
@@ -115048,46 +115048,6 @@
     "domain": "bell.ca"
   },
   {
-    "network": "142.162.9.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.162.10.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.162.11.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.162.14.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.162.15.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
     "network": "142.162.28.0/24",
     "asn": "577",
     "country_code": "CA",
@@ -115169,30 +115129,6 @@
   },
   {
     "network": "142.162.60.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.162.61.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.162.62.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.162.63.0/24",
     "asn": "577",
     "country_code": "CA",
     "name": "BACOM",
@@ -116432,14 +116368,6 @@
     "domain": "bell.ca"
   },
   {
-    "network": "142.166.8.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
     "network": "142.166.9.0/24",
     "asn": "577",
     "country_code": "CA",
@@ -116753,22 +116681,6 @@
   },
   {
     "network": "142.166.207.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.166.222.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.166.223.0/24",
     "asn": "577",
     "country_code": "CA",
     "name": "BACOM",
@@ -127920,7 +127832,7 @@
     "domain": "cogeco.com"
   },
   {
-    "network": "38.80.94.0/23",
+    "network": "38.80.95.0/24",
     "asn": "398721",
     "country_code": "CA",
     "name": "OXIO-ASN-01",
@@ -144680,6 +144592,14 @@
     "domain": "beanfield.com"
   },
   {
+    "network": "205.151.127.0/24",
+    "asn": "21949",
+    "country_code": "CA",
+    "name": "BEANFIELD",
+    "org": "Beanfield Technologies Inc.",
+    "domain": "beanfield.com"
+  },
+  {
     "network": "205.175.212.0/22",
     "asn": "21949",
     "country_code": "CA",
@@ -150208,14 +150128,6 @@
     "domain": "beanfield.com"
   },
   {
-    "network": "205.151.127.0/24",
-    "asn": "21548",
-    "country_code": "CA",
-    "name": "MTO",
-    "org": "Beanfield Technologies Inc.",
-    "domain": "beanfield.com"
-  },
-  {
     "network": "206.55.80.0/20",
     "asn": "21548",
     "country_code": "CA",
@@ -150865,14 +150777,6 @@
   },
   {
     "network": "202.170.193.0/24",
-    "asn": "33549",
-    "country_code": "CA",
-    "name": "WHIPCORD",
-    "org": "Whipcord Edge Data Centers Inc.",
-    "domain": "whipcord.com"
-  },
-  {
-    "network": "202.170.195.0/24",
     "asn": "33549",
     "country_code": "CA",
     "name": "WHIPCORD",
@@ -165112,14 +165016,6 @@
     "domain": "smartlayer.ca"
   },
   {
-    "network": "148.227.174.0/24",
-    "asn": "397130",
-    "country_code": "CA",
-    "name": "STSAS01",
-    "org": "SmartLayer Business Solutions",
-    "domain": "smartlayer.ca"
-  },
-  {
     "network": "156.67.60.0/24",
     "asn": "397130",
     "country_code": "CA",
@@ -178096,14 +177992,6 @@
     "domain": "comwave.net"
   },
   {
-    "network": "104.250.87.0/24",
-    "asn": "15128",
-    "country_code": "CA",
-    "name": "COMWAVE-BGP-01",
-    "org": "Comwave Telecom Inc.",
-    "domain": "comwave.net"
-  },
-  {
     "network": "104.250.88.0/23",
     "asn": "15128",
     "country_code": "CA",
@@ -180768,22 +180656,6 @@
     "domain": "bc.net"
   },
   {
-    "network": "207.23.72.0/24",
-    "asn": "271",
-    "country_code": "CA",
-    "name": "BCNET-AS",
-    "org": "BCNET",
-    "domain": "bc.net"
-  },
-  {
-    "network": "207.23.73.0/24",
-    "asn": "271",
-    "country_code": "CA",
-    "name": "BCNET-AS",
-    "org": "BCNET",
-    "domain": "bc.net"
-  },
-  {
     "network": "207.23.88.0/23",
     "asn": "271",
     "country_code": "CA",
@@ -180809,14 +180681,6 @@
   },
   {
     "network": "207.23.241.0/24",
-    "asn": "271",
-    "country_code": "CA",
-    "name": "BCNET-AS",
-    "org": "BCNET",
-    "domain": "bc.net"
-  },
-  {
-    "network": "207.23.242.0/24",
     "asn": "271",
     "country_code": "CA",
     "name": "BCNET-AS",
@@ -180872,22 +180736,6 @@
     "domain": "bc.net"
   },
   {
-    "network": "209.87.18.0/23",
-    "asn": "271",
-    "country_code": "CA",
-    "name": "BCNET-AS",
-    "org": "BCNET",
-    "domain": "bc.net"
-  },
-  {
-    "network": "209.87.18.0/24",
-    "asn": "271",
-    "country_code": "CA",
-    "name": "BCNET-AS",
-    "org": "BCNET",
-    "domain": "bc.net"
-  },
-  {
     "network": "209.87.24.0/23",
     "asn": "271",
     "country_code": "CA",
@@ -180936,14 +180784,6 @@
     "domain": "bc.net"
   },
   {
-    "network": "209.87.55.0/24",
-    "asn": "271",
-    "country_code": "CA",
-    "name": "BCNET-AS",
-    "org": "BCNET",
-    "domain": "bc.net"
-  },
-  {
     "network": "209.87.61.0/24",
     "asn": "271",
     "country_code": "CA",
@@ -180961,14 +180801,6 @@
   },
   {
     "network": "2607:f8f0:20::/48",
-    "asn": "271",
-    "country_code": "CA",
-    "name": "BCNET-AS",
-    "org": "BCNET",
-    "domain": "bc.net"
-  },
-  {
-    "network": "2607:f8f0:30::/48",
     "asn": "271",
     "country_code": "CA",
     "name": "BCNET-AS",
@@ -181089,22 +180921,6 @@
   },
   {
     "network": "2607:f8f0:c00::/48",
-    "asn": "271",
-    "country_code": "CA",
-    "name": "BCNET-AS",
-    "org": "BCNET",
-    "domain": "bc.net"
-  },
-  {
-    "network": "2607:f8f0:e00::/40",
-    "asn": "271",
-    "country_code": "CA",
-    "name": "BCNET-AS",
-    "org": "BCNET",
-    "domain": "bc.net"
-  },
-  {
-    "network": "2607:f8f0:e00::/48",
     "asn": "271",
     "country_code": "CA",
     "name": "BCNET-AS",
@@ -182872,14 +182688,6 @@
     "domain": "gozoom.ca"
   },
   {
-    "network": "104.245.2.0/24",
-    "asn": "393735",
-    "country_code": "CA",
-    "name": "GOZOOM",
-    "org": "goZoom.ca Inc.",
-    "domain": "gozoom.ca"
-  },
-  {
     "network": "104.245.3.0/24",
     "asn": "393735",
     "country_code": "CA",
@@ -184617,14 +184425,6 @@
   },
   {
     "network": "198.103.69.0/24",
-    "asn": "2675",
-    "country_code": "CA",
-    "name": "CDAGOVN",
-    "org": "Shared Services Canada",
-    "domain": "ssc-spc.gc.ca"
-  },
-  {
-    "network": "198.103.89.0/24",
     "asn": "2675",
     "country_code": "CA",
     "name": "CDAGOVN",
@@ -192009,6 +191809,14 @@
   },
   {
     "network": "142.19.104.0/21",
+    "asn": "398833",
+    "country_code": "CA",
+    "name": "BIS-BOMBARDIER-INFORMATION-SOLUTIONS-PUBLIC-ASN-01",
+    "org": "Bombardier Inc.",
+    "domain": "bombardier.com"
+  },
+  {
+    "network": "142.19.104.0/24",
     "asn": "398833",
     "country_code": "CA",
     "name": "BIS-BOMBARDIER-INFORMATION-SOLUTIONS-PUBLIC-ASN-01",
@@ -204552,38 +204360,6 @@
     "domain": "bigwifi.ca"
   },
   {
-    "network": "170.39.12.0/24",
-    "asn": "398944",
-    "country_code": "CA",
-    "name": "DIGITELWEBS-WNDR-01",
-    "org": "DIGITELWEBS INC",
-    "domain": "telecomengineering.com"
-  },
-  {
-    "network": "170.39.13.0/24",
-    "asn": "398944",
-    "country_code": "CA",
-    "name": "DIGITELWEBS-WNDR-01",
-    "org": "DIGITELWEBS INC",
-    "domain": "telecomengineering.com"
-  },
-  {
-    "network": "170.39.14.0/24",
-    "asn": "398944",
-    "country_code": "CA",
-    "name": "DIGITELWEBS-WNDR-01",
-    "org": "DIGITELWEBS INC",
-    "domain": "telecomengineering.com"
-  },
-  {
-    "network": "170.39.15.0/24",
-    "asn": "398944",
-    "country_code": "CA",
-    "name": "DIGITELWEBS-WNDR-01",
-    "org": "DIGITELWEBS INC",
-    "domain": "telecomengineering.com"
-  },
-  {
     "network": "170.39.32.0/24",
     "asn": "14673",
     "country_code": "CA",
@@ -205952,7 +205728,23 @@
     "domain": "morewave.com"
   },
   {
-    "network": "192.139.120.0/22",
+    "network": "192.139.120.0/24",
+    "asn": "14642",
+    "country_code": "CA",
+    "name": "MOREWAVE",
+    "org": "Morewave Communication Inc.",
+    "domain": "morewave.com"
+  },
+  {
+    "network": "192.139.122.0/24",
+    "asn": "14642",
+    "country_code": "CA",
+    "name": "MOREWAVE",
+    "org": "Morewave Communication Inc.",
+    "domain": "morewave.com"
+  },
+  {
+    "network": "192.139.123.0/24",
     "asn": "14642",
     "country_code": "CA",
     "name": "MOREWAVE",
@@ -206177,6 +205969,22 @@
   },
   {
     "network": "2a06:41:c020::/44",
+    "asn": "49867",
+    "country_code": "CA",
+    "name": "SUISEI-AS-AP",
+    "org": "Shuji Ito",
+    "domain": "sccsn.jp"
+  },
+  {
+    "network": "2a06:41:c020::/48",
+    "asn": "49867",
+    "country_code": "CA",
+    "name": "SUISEI-AS-AP",
+    "org": "Shuji Ito",
+    "domain": "sccsn.jp"
+  },
+  {
+    "network": "2a06:41:c021::/48",
     "asn": "49867",
     "country_code": "CA",
     "name": "SUISEI-AS-AP",
@@ -206441,14 +206249,6 @@
   },
   {
     "network": "192.33.167.0/24",
-    "asn": "393990",
-    "country_code": "CA",
-    "name": "CLEAR-229-AS",
-    "org": "Clearcable Inc.",
-    "domain": "clearcable.ca"
-  },
-  {
-    "network": "192.139.16.0/24",
     "asn": "393990",
     "country_code": "CA",
     "name": "CLEAR-229-AS",
@@ -213933,7 +213733,7 @@
     "country_code": "CA",
     "name": "AIRNET-01",
     "org": "Airnet Wireless Inc.",
-    "domain": "airnet.ca"
+    "domain": "nexwire.ca"
   },
   {
     "network": "206.220.188.0/22",
@@ -213941,7 +213741,7 @@
     "country_code": "CA",
     "name": "AIRNET-01",
     "org": "Airnet Wireless Inc.",
-    "domain": "airnet.ca"
+    "domain": "nexwire.ca"
   },
   {
     "network": "199.188.32.0/24",
@@ -215128,20 +214928,12 @@
     "domain": "coverallmcits.ca"
   },
   {
-    "network": "204.69.221.0/24",
-    "asn": "394462",
-    "country_code": "CA",
-    "name": "JUCE-CONNECT",
-    "org": "Juce Connect Inc.",
-    "domain": "juceconnect.com"
-  },
-  {
     "network": "204.81.0.0/16",
     "asn": "17120",
     "country_code": "CA",
     "name": "NBDOE-ORG",
     "org": "New Brunswick Department of Education and Early Childhood Development",
-    "domain": "gnb.ca"
+    "domain": "snb.ca"
   },
   {
     "network": "204.82.0.0/16",
@@ -215149,7 +214941,7 @@
     "country_code": "CA",
     "name": "NBDOE-ORG",
     "org": "New Brunswick Department of Education and Early Childhood Development",
-    "domain": "gnb.ca"
+    "domain": "snb.ca"
   },
   {
     "network": "204.83.21.0/24",
@@ -215886,6 +215678,14 @@
     "name": "AS-IHA-INTERIORHEALTH",
     "org": "Interior Health",
     "domain": "interiorhealth.ca"
+  },
+  {
+    "network": "204.239.152.0/24",
+    "asn": "393966",
+    "country_code": "CA",
+    "name": "CAPU-NV1-ASN",
+    "org": "Capilano University",
+    "domain": "capilanou.ca"
   },
   {
     "network": "204.239.156.0/24",
@@ -218678,14 +218478,6 @@
     "name": "AS-DEVICOM",
     "org": "Devicom Inc.",
     "domain": "devicom.com"
-  },
-  {
-    "network": "2620:7e:90a0::/48",
-    "asn": "403152",
-    "country_code": "CA",
-    "name": "ACORN-NET",
-    "org": "Acorn Data Solutions Inc.",
-    "domain": "protonmail.com"
   },
   {
     "network": "2620:137:a001::/48",

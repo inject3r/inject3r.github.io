@@ -6536,14 +6536,6 @@
     "domain": "xeniahosting.com"
   },
   {
-    "network": "31.57.112.0/24",
-    "asn": "213791",
-    "country_code": "IT",
-    "name": "XeniaGroup-SRL",
-    "org": "XeniaGroup SRL",
-    "domain": "xeniahosting.com"
-  },
-  {
     "network": "37.202.205.0/24",
     "asn": "213791",
     "country_code": "IT",
@@ -17184,6 +17176,14 @@
     "domain": "skylogic.it"
   },
   {
+    "network": "95.210.63.0/24",
+    "asn": "29286",
+    "country_code": "IT",
+    "name": "SKYLOGIC-AS",
+    "org": "SKYLOGIC S.P.A.",
+    "domain": "skylogic.it"
+  },
+  {
     "network": "95.210.68.0/24",
     "asn": "29286",
     "country_code": "IT",
@@ -18977,6 +18977,14 @@
   },
   {
     "network": "94.164.0.0/16",
+    "asn": "1267",
+    "country_code": "IT",
+    "name": "ASN-WINDTRE",
+    "org": "WIND TRE S.P.A.",
+    "domain": "wind.it"
+  },
+  {
+    "network": "94.164.0.0/17",
     "asn": "1267",
     "country_code": "IT",
     "name": "ASN-WINDTRE",
@@ -24944,14 +24952,6 @@
     "domain": "timenet.it"
   },
   {
-    "network": "109.238.21.0/24",
-    "asn": "51580",
-    "country_code": "IT",
-    "name": "TIMENET-AS",
-    "org": "TIMENET SPA",
-    "domain": "timenet.it"
-  },
-  {
     "network": "109.238.24.0/21",
     "asn": "51580",
     "country_code": "IT",
@@ -25128,6 +25128,14 @@
     "domain": "isiline.net"
   },
   {
+    "network": "5.172.208.0/24",
+    "asn": "13113",
+    "country_code": "IT",
+    "name": "ISILINE-AS",
+    "org": "ISI Line srl",
+    "domain": "isiline.net"
+  },
+  {
     "network": "5.198.224.0/20",
     "asn": "13113",
     "country_code": "IT",
@@ -25297,14 +25305,6 @@
   },
   {
     "network": "5.175.191.0/24",
-    "asn": "218698",
-    "country_code": "IT",
-    "name": "XENIAGROUP-AS",
-    "org": "XeniaGroup SRL",
-    "domain": "xeniagroupsrl.com"
-  },
-  {
-    "network": "2a14:7582:b000::/36",
     "asn": "218698",
     "country_code": "IT",
     "name": "XENIAGROUP-AS",
@@ -54712,6 +54712,14 @@
     "domain": "mens.it"
   },
   {
+    "network": "83.220.9.0/24",
+    "asn": "49215",
+    "country_code": "IT",
+    "name": "BURGO-AS",
+    "org": "Burgo Group S.p.A",
+    "domain": "mens.it"
+  },
+  {
     "network": "83.220.10.0/24",
     "asn": "49215",
     "country_code": "IT",
@@ -70576,22 +70584,6 @@
     "domain": "sailweb.eu"
   },
   {
-    "network": "2a07:2c0::/29",
-    "asn": "203367",
-    "country_code": "IT",
-    "name": "ASN-SAILWEB",
-    "org": "SAILWEB SRL",
-    "domain": "sailweb.eu"
-  },
-  {
-    "network": "2a0d:2740::/29",
-    "asn": "203367",
-    "country_code": "IT",
-    "name": "ASN-SAILWEB",
-    "org": "SAILWEB SRL",
-    "domain": "sailweb.eu"
-  },
-  {
     "network": "185.137.158.0/24",
     "asn": "206343",
     "country_code": "IT",
@@ -72009,14 +72001,6 @@
   },
   {
     "network": "185.168.179.0/24",
-    "asn": "207013",
-    "country_code": "IT",
-    "name": "WIFLY-AS",
-    "org": "Wifly S.R.L.",
-    "domain": "wi-fly.it"
-  },
-  {
-    "network": "2a0b:ffc0::/32",
     "asn": "207013",
     "country_code": "IT",
     "name": "WIFLY-AS",
@@ -74892,7 +74876,7 @@
     "asn": "216019",
     "country_code": "IT",
     "name": "ASB2BService",
-    "org": "B2B SERVICE SRL",
+    "org": "FLAG S.R.L.",
     "domain": "b2bservice.it"
   },
   {
@@ -77296,22 +77280,6 @@
     "domain": "bcc.it"
   },
   {
-    "network": "217.18.0.0/20",
-    "asn": "15807",
-    "country_code": "IT",
-    "name": "Weblink",
-    "org": "Weblink srl",
-    "domain": "weblink.it"
-  },
-  {
-    "network": "217.20.0.0/22",
-    "asn": "198387",
-    "country_code": "IT",
-    "name": "UNIPLAN",
-    "org": "Uniplan Software S.r.l.",
-    "domain": "uniplan.it"
-  },
-  {
     "network": "217.20.0.0/24",
     "asn": "198387",
     "country_code": "IT",
@@ -77321,14 +77289,6 @@
   },
   {
     "network": "217.20.1.0/24",
-    "asn": "198387",
-    "country_code": "IT",
-    "name": "UNIPLAN",
-    "org": "Uniplan Software S.r.l.",
-    "domain": "uniplan.it"
-  },
-  {
-    "network": "217.20.2.0/24",
     "asn": "198387",
     "country_code": "IT",
     "name": "UNIPLAN",
@@ -78241,14 +78201,6 @@
   },
   {
     "network": "2a14:67c3:1b0::/44",
-    "asn": "204085",
-    "country_code": "IT",
-    "name": "DISPAISY-AS2",
-    "org": "Adam Grazioli",
-    "domain": "dispaisy.systems"
-  },
-  {
-    "network": "2a14:67c3:1b2::/48",
     "asn": "204085",
     "country_code": "IT",
     "name": "DISPAISY-AS2",

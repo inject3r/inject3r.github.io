@@ -3264,6 +3264,12 @@
     "country_name": "Switzerland"
   },
   {
+    "network": "37.221.78.0/24",
+    "continent_code": "EU",
+    "country_code": "CH",
+    "country_name": "Switzerland"
+  },
+  {
     "network": "37.233.67.5/32",
     "continent_code": "EU",
     "country_code": "CH",
@@ -4387,12 +4393,6 @@
   },
   {
     "network": "45.153.136.0/22",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
-    "network": "45.154.140.0/22",
     "continent_code": "EU",
     "country_code": "CH",
     "country_name": "Switzerland"
@@ -6582,7 +6582,13 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "57.157.156.56/31",
+    "network": "57.157.156.56/30",
+    "continent_code": "EU",
+    "country_code": "CH",
+    "country_name": "Switzerland"
+  },
+  {
+    "network": "57.157.156.60/31",
     "continent_code": "EU",
     "country_code": "CH",
     "country_name": "Switzerland"
@@ -15594,6 +15600,12 @@
     "country_name": "Switzerland"
   },
   {
+    "network": "91.106.210.240/29",
+    "continent_code": "EU",
+    "country_code": "CH",
+    "country_name": "Switzerland"
+  },
+  {
     "network": "91.106.210.252/31",
     "continent_code": "EU",
     "country_code": "CH",
@@ -21432,12 +21444,6 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "141.171.168.0/21",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
     "network": "141.171.248.0/21",
     "continent_code": "EU",
     "country_code": "CH",
@@ -23262,18 +23268,6 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "151.240.20.0/22",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
-    "network": "151.240.68.0/22",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
     "network": "151.241.217.0/24",
     "continent_code": "EU",
     "country_code": "CH",
@@ -24649,12 +24643,6 @@
   },
   {
     "network": "154.14.117.20/30",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
-    "network": "154.14.117.64/28",
     "continent_code": "EU",
     "country_code": "CH",
     "country_name": "Switzerland"
@@ -29353,6 +29341,12 @@
   },
   {
     "network": "176.122.194.0/23",
+    "continent_code": "EU",
+    "country_code": "CH",
+    "country_name": "Switzerland"
+  },
+  {
+    "network": "176.126.100.0/24",
     "continent_code": "EU",
     "country_code": "CH",
     "country_name": "Switzerland"
@@ -348828,12 +348822,6 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "2a00:79e0:2e22::/47",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
     "network": "2a00:79e0:2e38::/47",
     "continent_code": "EU",
     "country_code": "CH",
@@ -348846,12 +348834,6 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "2a00:79e0:2e6a::/47",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
     "network": "2a00:79e0:2e70::/47",
     "continent_code": "EU",
     "country_code": "CH",
@@ -348859,18 +348841,6 @@
   },
   {
     "network": "2a00:79e0:2e84::/47",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
-    "network": "2a00:79e0:2e96::/47",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
-    "network": "2a00:79e0:2eae::/47",
     "continent_code": "EU",
     "country_code": "CH",
     "country_name": "Switzerland"
@@ -373002,19 +372972,13 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "2a00:79e0:3c01:a000::/53",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
     "network": "2a00:79e0:3c01:b800::/53",
     "continent_code": "EU",
     "country_code": "CH",
     "country_name": "Switzerland"
   },
   {
-    "network": "2a00:79e0:3e02:a000::/53",
+    "network": "2a00:79e0:3e00:3800::/53",
     "continent_code": "EU",
     "country_code": "CH",
     "country_name": "Switzerland"
@@ -374232,12 +374196,6 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "2a00:79e0:3e00:fc00::/54",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
     "network": "2a00:79e0:3e01:4800::/54",
     "continent_code": "EU",
     "country_code": "CH",
@@ -374245,12 +374203,6 @@
   },
   {
     "network": "2a00:79e0:3e01:6000::/54",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
-    "network": "2a00:79e0:3e01:7c00::/54",
     "continent_code": "EU",
     "country_code": "CH",
     "country_name": "Switzerland"
@@ -375606,12 +375558,6 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "2a00:79e0:ffe4:9800::/55",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
     "network": "2a00:79e0:ffe4:b000::/55",
     "continent_code": "EU",
     "country_code": "CH",
@@ -375996,12 +375942,6 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "2a00:79e1:3600:200::/55",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
     "network": "2a00:79e1:3600:1600::/55",
     "continent_code": "EU",
     "country_code": "CH",
@@ -376056,12 +375996,6 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "2a00:79e1:3e00:2200::/55",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
     "network": "2a00:79e1:3e00:3800::/55",
     "continent_code": "EU",
     "country_code": "CH",
@@ -376069,12 +376003,6 @@
   },
   {
     "network": "2a00:79e1:3e00:5800::/55",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
-    "network": "2a00:79e1:3e00:6a00::/55",
     "continent_code": "EU",
     "country_code": "CH",
     "country_name": "Switzerland"
@@ -376092,25 +376020,7 @@
     "country_name": "Switzerland"
   },
   {
-    "network": "2a00:79e1:3e00:8200::/55",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
     "network": "2a00:79e1:3e00:8400::/55",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
-    "network": "2a00:79e1:3e00:8e00::/55",
-    "continent_code": "EU",
-    "country_code": "CH",
-    "country_name": "Switzerland"
-  },
-  {
-    "network": "2a00:79e1:3e00:9600::/55",
     "continent_code": "EU",
     "country_code": "CH",
     "country_name": "Switzerland"

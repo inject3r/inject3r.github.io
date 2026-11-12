@@ -1728,7 +1728,7 @@
     "domain": "tnm.co.mw"
   },
   {
-    "network": "102.70.64.0/24",
+    "network": "102.70.66.0/24",
     "asn": "37294",
     "country_code": "MW",
     "name": "TNM",
@@ -1761,14 +1761,6 @@
   },
   {
     "network": "102.70.72.0/24",
-    "asn": "37294",
-    "country_code": "MW",
-    "name": "TNM",
-    "org": "TELEKOM NETWORKS MALAWI LTD",
-    "domain": "tnm.co.mw"
-  },
-  {
-    "network": "102.70.74.0/24",
     "asn": "37294",
     "country_code": "MW",
     "name": "TNM",
@@ -2081,6 +2073,14 @@
   },
   {
     "network": "102.70.100.0/24",
+    "asn": "37294",
+    "country_code": "MW",
+    "name": "TNM",
+    "org": "TELEKOM NETWORKS MALAWI LTD",
+    "domain": "tnm.co.mw"
+  },
+  {
+    "network": "102.70.101.0/24",
     "asn": "37294",
     "country_code": "MW",
     "name": "TNM",
@@ -3104,14 +3104,6 @@
     "domain": "ctnmw.net"
   },
   {
-    "network": "102.218.161.0/24",
-    "asn": "328949",
-    "country_code": "MW",
-    "name": "CTNL1-AS",
-    "org": "Converged Technology Networks Limited",
-    "domain": "ctnmw.net"
-  },
-  {
     "network": "102.218.162.0/24",
     "asn": "328949",
     "country_code": "MW",
@@ -3158,22 +3150,6 @@
     "name": "FCB-AS",
     "org": "First Capital Bank PLC",
     "domain": "firstcapitalbank.co.mw"
-  },
-  {
-    "network": "102.223.95.0/24",
-    "asn": "328738",
-    "country_code": "MW",
-    "name": "Youth-Net-Counselling",
-    "org": "Youth Net and Counselling",
-    "domain": "yoneco.org.mw"
-  },
-  {
-    "network": "2001:43f8:1640::/48",
-    "asn": "328738",
-    "country_code": "MW",
-    "name": "Youth-Net-Counselling",
-    "org": "Youth Net and Counselling",
-    "domain": "yoneco.org.mw"
   },
   {
     "network": "169.255.52.0/22",
@@ -3310,5 +3286,13 @@
     "name": "UBUNTU-UNICAST-AS",
     "org": "Ubuntunet Alliance For Research and Education Networking",
     "domain": "ubuntunet.net"
+  },
+  {
+    "network": "2001:43f8:1640::/48",
+    "asn": "328738",
+    "country_code": "MW",
+    "name": "Youth-Net-Counselling",
+    "org": "Youth Net and Counselling",
+    "domain": "yoneco.org.mw"
   }
 ]

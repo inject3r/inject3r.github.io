@@ -2118,7 +2118,13 @@
     "country_name": "Turkey"
   },
   {
-    "network": "37.221.76.0/22",
+    "network": "37.221.76.0/23",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
+    "network": "37.221.79.0/24",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -2946,12 +2952,6 @@
     "country_name": "Turkey"
   },
   {
-    "network": "45.89.236.0/23",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
     "network": "45.89.246.0/24",
     "continent_code": "AS",
     "country_code": "TR",
@@ -3511,12 +3511,6 @@
   },
   {
     "network": "45.204.75.0/24",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
-    "network": "45.207.150.0/23",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -7308,12 +7302,6 @@
     "country_name": "Turkey"
   },
   {
-    "network": "85.117.236.0/23",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
     "network": "85.117.239.0/24",
     "continent_code": "AS",
     "country_code": "TR",
@@ -8047,6 +8035,12 @@
   },
   {
     "network": "89.35.152.0/24",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
+    "network": "89.36.137.0/24",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -11473,12 +11467,6 @@
   },
   {
     "network": "104.28.161.172/32",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
-    "network": "104.28.162.156/31",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -21510,6 +21498,12 @@
     "country_name": "Turkey"
   },
   {
+    "network": "185.232.206.0/23",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
     "network": "185.233.164.0/24",
     "continent_code": "AS",
     "country_code": "TR",
@@ -31224,6 +31218,12 @@
     "country_name": "Turkey"
   },
   {
+    "network": "2a12:24c0::/30",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
     "network": "2a12:2c44::/30",
     "continent_code": "AS",
     "country_code": "TR",
@@ -32400,7 +32400,7 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a0f:5581::/33",
+    "network": "2a0f:5581:8000::/33",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -32592,7 +32592,7 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a0f:5581:c000::/34",
+    "network": "2a0f:5581::/34",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -32826,7 +32826,7 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a0f:5581:a000::/35",
+    "network": "2a0f:5581:4000::/35",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -48666,7 +48666,25 @@
     "country_name": "Turkey"
   },
   {
+    "network": "2a02:26f7:c8c4:e8a0::/59",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
+    "network": "2a02:26f7:c8c8:e800::/59",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
     "network": "2a02:26f7:c8c8:e860::/59",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
+    "network": "2a02:26f7:c8c8:e8a0::/59",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -48721,12 +48739,6 @@
   },
   {
     "network": "2a02:26f7:c8d4:e8a0::/59",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
-    "network": "2a02:26f7:c8d8:e800::/59",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -48978,31 +48990,13 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c4:e8a0::/60",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
     "network": "2a02:26f7:c8c8:4d40::/60",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c8:e800::/60",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
     "network": "2a02:26f7:c8c8:e850::/60",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
-    "network": "2a02:26f7:c8c8:e8a0::/60",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -49045,6 +49039,12 @@
   },
   {
     "network": "2a02:26f7:c8d8:4d40::/60",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
+    "network": "2a02:26f7:c8d8:e800::/60",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -49458,12 +49458,6 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c4:e8b8::/61",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
     "network": "2a02:26f7:c8c8:4d58::/61",
     "continent_code": "AS",
     "country_code": "TR",
@@ -49482,12 +49476,6 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c8:e818::/61",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
     "network": "2a02:26f7:c8c8:e820::/61",
     "continent_code": "AS",
     "country_code": "TR",
@@ -49500,13 +49488,13 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c8:e890::/61",
+    "network": "2a02:26f7:c8c8:e848::/61",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c8:e8b8::/61",
+    "network": "2a02:26f7:c8c8:e890::/61",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -49651,6 +49639,12 @@
   },
   {
     "network": "2a02:26f7:c8d8:4d78::/61",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
+    "network": "2a02:26f7:c8d8:e818::/61",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -49974,6 +49968,12 @@
     "country_name": "Turkey"
   },
   {
+    "network": "2a02:26f7:c8c4:4d60::/62",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
     "network": "2a02:26f7:c8c4:4d70::/62",
     "continent_code": "AS",
     "country_code": "TR",
@@ -50010,12 +50010,6 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c4:e8b4::/62",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
     "network": "2a02:26f7:c8c4:e8c0::/62",
     "continent_code": "AS",
     "country_code": "TR",
@@ -50028,13 +50022,13 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c8:4d70::/62",
+    "network": "2a02:26f7:c8c8:4d60::/62",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c8:e810::/62",
+    "network": "2a02:26f7:c8c8:4d70::/62",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -50047,12 +50041,6 @@
   },
   {
     "network": "2a02:26f7:c8c8:e844::/62",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
-    "network": "2a02:26f7:c8c8:e84c::/62",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -50071,12 +50059,6 @@
   },
   {
     "network": "2a02:26f7:c8c8:e89c::/62",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
-    "network": "2a02:26f7:c8c8:e8b4::/62",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -50268,6 +50250,12 @@
     "country_name": "Turkey"
   },
   {
+    "network": "2a02:26f7:c8d8:e810::/62",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
     "network": "2a02:26f7:c8d8:e828::/62",
     "continent_code": "AS",
     "country_code": "TR",
@@ -50341,6 +50329,12 @@
   },
   {
     "network": "2a02:26f7:c8d9:e830::/62",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
+    "network": "2a02:26f7:c8d9:e840::/62",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -50790,12 +50784,6 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c4:e8b0::/63",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
     "network": "2a02:26f7:c8c4:e8c4::/63",
     "continent_code": "AS",
     "country_code": "TR",
@@ -50820,12 +50808,6 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c8:e814::/63",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
     "network": "2a02:26f7:c8c8:e82e::/63",
     "continent_code": "AS",
     "country_code": "TR",
@@ -50844,12 +50826,6 @@
     "country_name": "Turkey"
   },
   {
-    "network": "2a02:26f7:c8c8:e848::/63",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
     "network": "2a02:26f7:c8c8:e886::/63",
     "continent_code": "AS",
     "country_code": "TR",
@@ -50863,12 +50839,6 @@
   },
   {
     "network": "2a02:26f7:c8c8:e89a::/63",
-    "continent_code": "AS",
-    "country_code": "TR",
-    "country_name": "Turkey"
-  },
-  {
-    "network": "2a02:26f7:c8c8:e8b0::/63",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"
@@ -51073,6 +51043,12 @@
   },
   {
     "network": "2a02:26f7:c8d8:4d76::/63",
+    "continent_code": "AS",
+    "country_code": "TR",
+    "country_name": "Turkey"
+  },
+  {
+    "network": "2a02:26f7:c8d8:e814::/63",
     "continent_code": "AS",
     "country_code": "TR",
     "country_name": "Turkey"

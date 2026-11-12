@@ -5976,6 +5976,30 @@
     "domain": "llhost.eu"
   },
   {
+    "network": "5.231.235.0/24",
+    "asn": "218519",
+    "country_code": "EE",
+    "name": "nordnet-as",
+    "org": "Salesforge OU",
+    "domain": "salesforge.ai"
+  },
+  {
+    "network": "94.249.160.0/24",
+    "asn": "218519",
+    "country_code": "EE",
+    "name": "nordnet-as",
+    "org": "Salesforge OU",
+    "domain": "salesforge.ai"
+  },
+  {
+    "network": "193.56.122.0/24",
+    "asn": "218519",
+    "country_code": "EE",
+    "name": "nordnet-as",
+    "org": "Salesforge OU",
+    "domain": "salesforge.ai"
+  },
+  {
     "network": "5.252.158.0/24",
     "asn": "219377",
     "country_code": "EE",
@@ -6304,14 +6328,6 @@
     "domain": "yadda.io"
   },
   {
-    "network": "9.247.198.0/24",
-    "asn": "214647",
-    "country_code": "EE",
-    "name": "YADDA",
-    "org": "Yadda OU",
-    "domain": "yadda.io"
-  },
-  {
     "network": "9.247.207.0/24",
     "asn": "214647",
     "country_code": "EE",
@@ -6456,14 +6472,6 @@
     "domain": "yadda.io"
   },
   {
-    "network": "201.58.143.0/24",
-    "asn": "214647",
-    "country_code": "EE",
-    "name": "YADDA",
-    "org": "Yadda OU",
-    "domain": "yadda.io"
-  },
-  {
     "network": "201.58.164.0/24",
     "asn": "214647",
     "country_code": "EE",
@@ -6520,14 +6528,6 @@
     "domain": "yadda.io"
   },
   {
-    "network": "206.245.144.0/24",
-    "asn": "214647",
-    "country_code": "EE",
-    "name": "YADDA",
-    "org": "Yadda OU",
-    "domain": "yadda.io"
-  },
-  {
     "network": "206.245.147.0/24",
     "asn": "214647",
     "country_code": "EE",
@@ -6545,14 +6545,6 @@
   },
   {
     "network": "206.245.155.0/24",
-    "asn": "214647",
-    "country_code": "EE",
-    "name": "YADDA",
-    "org": "Yadda OU",
-    "domain": "yadda.io"
-  },
-  {
-    "network": "206.245.156.0/24",
     "asn": "214647",
     "country_code": "EE",
     "name": "YADDA",
@@ -9336,6 +9328,14 @@
     "domain": "wavecom.ee"
   },
   {
+    "network": "38.244.227.0/24",
+    "asn": "34702",
+    "country_code": "EE",
+    "name": "WAVECOM-AS",
+    "org": "Aktsiaselts WaveCom",
+    "domain": "wavecom.ee"
+  },
+  {
     "network": "46.22.208.0/20",
     "asn": "34702",
     "country_code": "EE",
@@ -11408,22 +11408,6 @@
     "domain": "edel.ee"
   },
   {
-    "network": "78.236.3.0/24",
-    "asn": "201256",
-    "country_code": "EE",
-    "name": "MurphyHolding",
-    "org": "MurphyHolding OU",
-    "domain": "proton.me"
-  },
-  {
-    "network": "82.21.41.0/24",
-    "asn": "201256",
-    "country_code": "EE",
-    "name": "MurphyHolding",
-    "org": "MurphyHolding OU",
-    "domain": "proton.me"
-  },
-  {
     "network": "80.66.240.0/20",
     "asn": "204595",
     "country_code": "EE",
@@ -11526,6 +11510,22 @@
     "name": "KABAT-AS",
     "org": "Kabat OU",
     "domain": "exatel.pl"
+  },
+  {
+    "network": "82.21.41.0/24",
+    "asn": "201256",
+    "country_code": "EE",
+    "name": "MurphyHolding",
+    "org": "MurphyHolding OU",
+    "domain": "proton.me"
+  },
+  {
+    "network": "179.61.242.0/24",
+    "asn": "201256",
+    "country_code": "EE",
+    "name": "MurphyHolding",
+    "org": "MurphyHolding OU",
+    "domain": "proton.me"
   },
   {
     "network": "82.147.160.0/19",
@@ -12790,22 +12790,6 @@
     "name": "novametro",
     "org": "NOVAMETRO OU",
     "domain": "novametro.eu"
-  },
-  {
-    "network": "94.249.160.0/24",
-    "asn": "218519",
-    "country_code": "EE",
-    "name": "nordnet-as",
-    "org": "Salesforge OU",
-    "domain": "salesforge.ai"
-  },
-  {
-    "network": "193.56.122.0/24",
-    "asn": "218519",
-    "country_code": "EE",
-    "name": "nordnet-as",
-    "org": "Salesforge OU",
-    "domain": "salesforge.ai"
   },
   {
     "network": "95.47.173.0/24",
