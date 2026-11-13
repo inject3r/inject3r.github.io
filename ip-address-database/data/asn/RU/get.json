@@ -3624,14 +3624,6 @@
     "domain": "rt.ru"
   },
   {
-    "network": "46.158.191.0/24",
-    "asn": "12389",
-    "country_code": "RU",
-    "name": "ROSTELECOM-AS",
-    "org": "PJSC Rostelecom",
-    "domain": "rt.ru"
-  },
-  {
     "network": "46.158.192.0/18",
     "asn": "12389",
     "country_code": "RU",
@@ -26208,6 +26200,14 @@
     "domain": "rawi.network"
   },
   {
+    "network": "48.103.233.0/24",
+    "asn": "219147",
+    "country_code": "RU",
+    "name": "RAWI-NETWORK-AS",
+    "org": "Moskalev Georgiy",
+    "domain": "rawi.network"
+  },
+  {
     "network": "78.17.171.0/24",
     "asn": "219147",
     "country_code": "RU",
@@ -26257,6 +26257,14 @@
   },
   {
     "network": "201.10.90.0/24",
+    "asn": "219147",
+    "country_code": "RU",
+    "name": "RAWI-NETWORK-AS",
+    "org": "Moskalev Georgiy",
+    "domain": "rawi.network"
+  },
+  {
+    "network": "2a0d:d940:a050::/44",
     "asn": "219147",
     "country_code": "RU",
     "name": "RAWI-NETWORK-AS",
@@ -26609,6 +26617,14 @@
   },
   {
     "network": "91.201.40.0/22",
+    "asn": "210079",
+    "country_code": "RU",
+    "name": "EUROBYTE",
+    "org": "EuroByte LLC",
+    "domain": "eurobyte.ru"
+  },
+  {
+    "network": "91.201.43.0/24",
     "asn": "210079",
     "country_code": "RU",
     "name": "EUROBYTE",
@@ -30089,6 +30105,14 @@
   },
   {
     "network": "141.133.207.0/24",
+    "asn": "198610",
+    "country_code": "RU",
+    "name": "BEGET-AS",
+    "org": "Beget LLC",
+    "domain": "beget.ru"
+  },
+  {
+    "network": "141.133.208.0/20",
     "asn": "198610",
     "country_code": "RU",
     "name": "BEGET-AS",
@@ -53224,6 +53248,30 @@
     "domain": "beeline.ru"
   },
   {
+    "network": "5.1.47.0/24",
+    "asn": "42260",
+    "country_code": "RU",
+    "name": "SKYSYSTEMS-AS",
+    "org": "SkySystems LLC",
+    "domain": ""
+  },
+  {
+    "network": "5.180.17.0/24",
+    "asn": "42260",
+    "country_code": "RU",
+    "name": "SKYSYSTEMS-AS",
+    "org": "SkySystems LLC",
+    "domain": ""
+  },
+  {
+    "network": "2a06:1301:4070::/48",
+    "asn": "42260",
+    "country_code": "RU",
+    "name": "SKYSYSTEMS-AS",
+    "org": "SkySystems LLC",
+    "domain": ""
+  },
+  {
     "network": "5.1.48.0/24",
     "asn": "15493",
     "country_code": "RU",
@@ -72752,6 +72800,14 @@
     "domain": "ipserver.su"
   },
   {
+    "network": "2a0c:f643::/32",
+    "asn": "44812",
+    "country_code": "RU",
+    "name": "IPSERVER-RU-NET",
+    "org": "IP Server LLC",
+    "domain": "ipserver.su"
+  },
+  {
     "network": "2a0d:3046::/32",
     "asn": "44812",
     "country_code": "RU",
@@ -79920,6 +79976,14 @@
     "domain": "ttk.ru"
   },
   {
+    "network": "188.168.60.0/22",
+    "asn": "20485",
+    "country_code": "RU",
+    "name": "TRANSTELECOM",
+    "org": "Joint Stock Company TransTeleCom",
+    "domain": "ttk.ru"
+  },
+  {
     "network": "188.168.68.0/23",
     "asn": "20485",
     "country_code": "RU",
@@ -80416,6 +80480,22 @@
     "domain": "ttk.ru"
   },
   {
+    "network": "31.132.242.0/23",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
+    "network": "31.132.244.0/22",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
     "network": "31.132.248.0/21",
     "asn": "15774",
     "country_code": "RU",
@@ -80441,6 +80521,14 @@
   },
   {
     "network": "31.134.244.0/23",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
+    "network": "31.134.248.0/21",
     "asn": "15774",
     "country_code": "RU",
     "name": "TTK-RTL",
@@ -81560,7 +81648,47 @@
     "domain": "ttk.ru"
   },
   {
+    "network": "176.104.140.0/22",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
+    "network": "176.104.152.0/22",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
+    "network": "176.104.156.0/22",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
+    "network": "176.104.160.0/22",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
     "network": "176.104.160.0/23",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
+    "network": "176.104.164.0/22",
     "asn": "15774",
     "country_code": "RU",
     "name": "TTK-RTL",
@@ -81744,6 +81872,14 @@
     "domain": "ttk.ru"
   },
   {
+    "network": "185.131.172.0/23",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
     "network": "188.44.99.0/24",
     "asn": "15774",
     "country_code": "RU",
@@ -81817,6 +81953,14 @@
   },
   {
     "network": "188.168.10.0/23",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
+    "network": "188.168.12.0/24",
     "asn": "15774",
     "country_code": "RU",
     "name": "TTK-RTL",
@@ -81929,6 +82073,14 @@
   },
   {
     "network": "188.168.48.0/21",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
+    "network": "188.168.60.0/24",
     "asn": "15774",
     "country_code": "RU",
     "name": "TTK-RTL",
@@ -82272,7 +82424,23 @@
     "domain": "ttk.ru"
   },
   {
+    "network": "188.168.140.0/24",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
     "network": "188.168.141.0/24",
+    "asn": "15774",
+    "country_code": "RU",
+    "name": "TTK-RTL",
+    "org": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru"
+  },
+  {
+    "network": "188.168.142.0/24",
     "asn": "15774",
     "country_code": "RU",
     "name": "TTK-RTL",
@@ -91592,14 +91760,6 @@
     "domain": "yandex.ru"
   },
   {
-    "network": "5.42.214.0/24",
-    "asn": "60287",
-    "country_code": "RU",
-    "name": "IPDOM-AS",
-    "org": "IPDOM LLC",
-    "domain": ""
-  },
-  {
     "network": "5.42.215.0/24",
     "asn": "216140",
     "country_code": "RU",
@@ -92256,23 +92416,7 @@
     "domain": "ttk.ru"
   },
   {
-    "network": "83.69.0.0/23",
-    "asn": "21191",
-    "country_code": "RU",
-    "name": "ASN-SEVERTTK",
-    "org": "Joint Stock Company TransTeleCom",
-    "domain": "ttk.ru"
-  },
-  {
     "network": "83.69.2.0/24",
-    "asn": "21191",
-    "country_code": "RU",
-    "name": "ASN-SEVERTTK",
-    "org": "Joint Stock Company TransTeleCom",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "83.69.3.0/24",
     "asn": "21191",
     "country_code": "RU",
     "name": "ASN-SEVERTTK",
@@ -92336,22 +92480,6 @@
     "domain": "ttk.ru"
   },
   {
-    "network": "83.69.13.0/24",
-    "asn": "21191",
-    "country_code": "RU",
-    "name": "ASN-SEVERTTK",
-    "org": "Joint Stock Company TransTeleCom",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "83.69.14.0/24",
-    "asn": "21191",
-    "country_code": "RU",
-    "name": "ASN-SEVERTTK",
-    "org": "Joint Stock Company TransTeleCom",
-    "domain": "ttk.ru"
-  },
-  {
     "network": "83.69.15.0/24",
     "asn": "21191",
     "country_code": "RU",
@@ -92368,30 +92496,6 @@
     "domain": "ttk.ru"
   },
   {
-    "network": "83.69.17.0/24",
-    "asn": "21191",
-    "country_code": "RU",
-    "name": "ASN-SEVERTTK",
-    "org": "Joint Stock Company TransTeleCom",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "83.69.18.0/24",
-    "asn": "21191",
-    "country_code": "RU",
-    "name": "ASN-SEVERTTK",
-    "org": "Joint Stock Company TransTeleCom",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "83.69.19.0/24",
-    "asn": "21191",
-    "country_code": "RU",
-    "name": "ASN-SEVERTTK",
-    "org": "Joint Stock Company TransTeleCom",
-    "domain": "ttk.ru"
-  },
-  {
     "network": "83.69.20.0/22",
     "asn": "21191",
     "country_code": "RU",
@@ -92401,14 +92505,6 @@
   },
   {
     "network": "83.69.24.0/22",
-    "asn": "21191",
-    "country_code": "RU",
-    "name": "ASN-SEVERTTK",
-    "org": "Joint Stock Company TransTeleCom",
-    "domain": "ttk.ru"
-  },
-  {
-    "network": "83.69.30.0/23",
     "asn": "21191",
     "country_code": "RU",
     "name": "ASN-SEVERTTK",
@@ -99016,14 +99112,6 @@
     "domain": "reg.ru"
   },
   {
-    "network": "194.58.103.0/24",
-    "asn": "197695",
-    "country_code": "RU",
-    "name": "AS-REGRU",
-    "org": "\"Domain names registrar REG.RU\", Ltd",
-    "domain": "reg.ru"
-  },
-  {
     "network": "194.58.104.0/24",
     "asn": "197695",
     "country_code": "RU",
@@ -99961,14 +100049,6 @@
   },
   {
     "network": "212.24.38.0/24",
-    "asn": "197695",
-    "country_code": "RU",
-    "name": "AS-REGRU",
-    "org": "\"Domain names registrar REG.RU\", Ltd",
-    "domain": "reg.ru"
-  },
-  {
-    "network": "212.24.41.0/24",
     "asn": "197695",
     "country_code": "RU",
     "name": "AS-REGRU",
@@ -101800,7 +101880,7 @@
     "domain": "chelcom.ru"
   },
   {
-    "network": "195.114.122.0/24",
+    "network": "193.105.156.0/24",
     "asn": "8369",
     "country_code": "RU",
     "name": "INTERSVYAZ-AS",
@@ -108000,6 +108080,70 @@
     "domain": "adman.com"
   },
   {
+    "network": "136.234.129.0/24",
+    "asn": "57494",
+    "country_code": "RU",
+    "name": "ADMAN-AS",
+    "org": "Adman LLC",
+    "domain": "adman.com"
+  },
+  {
+    "network": "136.234.144.0/24",
+    "asn": "57494",
+    "country_code": "RU",
+    "name": "ADMAN-AS",
+    "org": "Adman LLC",
+    "domain": "adman.com"
+  },
+  {
+    "network": "136.234.150.0/24",
+    "asn": "57494",
+    "country_code": "RU",
+    "name": "ADMAN-AS",
+    "org": "Adman LLC",
+    "domain": "adman.com"
+  },
+  {
+    "network": "136.234.151.0/24",
+    "asn": "57494",
+    "country_code": "RU",
+    "name": "ADMAN-AS",
+    "org": "Adman LLC",
+    "domain": "adman.com"
+  },
+  {
+    "network": "136.234.152.0/24",
+    "asn": "57494",
+    "country_code": "RU",
+    "name": "ADMAN-AS",
+    "org": "Adman LLC",
+    "domain": "adman.com"
+  },
+  {
+    "network": "136.234.157.0/24",
+    "asn": "57494",
+    "country_code": "RU",
+    "name": "ADMAN-AS",
+    "org": "Adman LLC",
+    "domain": "adman.com"
+  },
+  {
+    "network": "136.234.171.0/24",
+    "asn": "57494",
+    "country_code": "RU",
+    "name": "ADMAN-AS",
+    "org": "Adman LLC",
+    "domain": "adman.com"
+  },
+  {
+    "network": "136.234.172.0/24",
+    "asn": "57494",
+    "country_code": "RU",
+    "name": "ADMAN-AS",
+    "org": "Adman LLC",
+    "domain": "adman.com"
+  },
+  {
     "network": "136.234.232.0/24",
     "asn": "57494",
     "country_code": "RU",
@@ -113345,14 +113489,6 @@
   },
   {
     "network": "94.243.40.0/21",
-    "asn": "8359",
-    "country_code": "RU",
-    "name": "MTS",
-    "org": "MTS PJSC",
-    "domain": "mtu.ru"
-  },
-  {
-    "network": "94.243.44.0/22",
     "asn": "8359",
     "country_code": "RU",
     "name": "MTS",
@@ -128512,22 +128648,6 @@
     "domain": "kvant-telecom.ru"
   },
   {
-    "network": "5.187.89.0/24",
-    "asn": "43727",
-    "country_code": "RU",
-    "name": "KVANT-TELECOM",
-    "org": "JSC KVANT-TELEKOM",
-    "domain": "kvant-telecom.ru"
-  },
-  {
-    "network": "5.187.90.0/24",
-    "asn": "43727",
-    "country_code": "RU",
-    "name": "KVANT-TELECOM",
-    "org": "JSC KVANT-TELEKOM",
-    "domain": "kvant-telecom.ru"
-  },
-  {
     "network": "31.210.208.0/21",
     "asn": "43727",
     "country_code": "RU",
@@ -129249,6 +129369,14 @@
   },
   {
     "network": "5.187.88.0/24",
+    "asn": "44604",
+    "country_code": "RU",
+    "name": "KVANT-TELECOM-AS",
+    "org": "JSC KVANT-TELEKOM",
+    "domain": "kvant-telecom.ru"
+  },
+  {
+    "network": "5.187.89.0/24",
     "asn": "44604",
     "country_code": "RU",
     "name": "KVANT-TELECOM-AS",
@@ -132760,14 +132888,6 @@
     "domain": "mtu.ru"
   },
   {
-    "network": "213.176.254.0/23",
-    "asn": "48000",
-    "country_code": "RU",
-    "name": "STREAM-TV-TAMBOV-AS",
-    "org": "MTS PJSC",
-    "domain": "mtu.ru"
-  },
-  {
     "network": "5.227.122.0/24",
     "asn": "48612",
     "country_code": "RU",
@@ -132785,6 +132905,14 @@
   },
   {
     "network": "31.29.147.0/24",
+    "asn": "48612",
+    "country_code": "RU",
+    "name": "RTC-ORENBURG-AS",
+    "org": "MTS PJSC",
+    "domain": "mtu.ru"
+  },
+  {
+    "network": "31.29.149.0/24",
     "asn": "48612",
     "country_code": "RU",
     "name": "RTC-ORENBURG-AS",
@@ -137832,14 +137960,6 @@
     "domain": "astravps.co"
   },
   {
-    "network": "2a0d:d940:b220::/44",
-    "asn": "219095",
-    "country_code": "RU",
-    "name": "ASTRAVPS-AS",
-    "org": "Paul Sagov",
-    "domain": "astravps.co"
-  },
-  {
     "network": "2a0d:d940:b230::/44",
     "asn": "219095",
     "country_code": "RU",
@@ -137872,6 +137992,886 @@
     "domain": "astravps.co"
   },
   {
+    "network": "9.247.217.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "37.235.207.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "37.235.246.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "37.235.248.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "37.235.251.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "37.235.253.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "37.235.254.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "45.158.197.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "48.103.130.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "48.103.242.0/23",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "93.190.14.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "95.85.192.0/23",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "153.76.202.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "163.245.63.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "193.160.142.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "212.193.25.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "217.60.200.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "217.60.201.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "217.60.203.0/24",
+    "asn": "218261",
+    "country_code": "RU",
+    "name": "DEN-AS",
+    "org": "Dimitriev Evgeny Nikolaevich",
+    "domain": ""
+  },
+  {
+    "network": "13.143.207.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "31.129.122.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "37.228.88.0/22",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "37.228.92.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "37.228.93.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "37.228.94.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.8.230.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.10.52.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.10.53.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.10.54.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.10.55.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.15.252.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.81.253.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.81.255.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.132.18.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.135.164.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.138.157.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.141.100.0/22",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.142.36.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "45.143.93.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "46.29.114.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "77.81.5.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "80.64.31.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "80.66.64.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "85.204.240.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "91.229.117.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "91.230.208.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "91.245.227.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "93.95.96.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "93.95.97.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "93.95.98.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "93.95.100.0/22",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "109.196.164.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "146.19.142.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "170.168.10.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "170.168.112.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "176.113.82.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "176.113.83.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "176.119.156.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "176.119.158.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "178.22.24.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "178.172.129.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "178.172.175.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "178.172.248.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.40.105.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.41.185.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.41.186.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.41.187.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.68.21.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.148.36.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.148.37.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.148.38.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.148.39.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.191.215.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.199.144.0/22",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "185.237.186.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "193.104.57.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "193.108.113.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "193.124.0.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "193.124.112.0/22",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "193.124.117.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.32.243.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.32.248.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.58.69.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.74.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.92.0/22",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.98.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.101.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.102.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.110.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.144.0/22",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.214.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.232.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.234.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.236.0/22",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.87.248.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "194.107.200.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "195.43.142.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "195.47.196.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "195.60.237.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "195.85.231.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "195.133.1.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "195.133.48.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "195.133.144.0/22",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "195.133.196.0/23",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "195.133.201.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "213.108.4.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "217.21.55.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "217.21.58.0/24",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "2a00:f440::/32",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
+    "network": "2a04:2e80:10::/48",
+    "asn": "48347",
+    "country_code": "RU",
+    "name": "MTW-AS",
+    "org": "JSC Mediasoft ekspert",
+    "domain": "mtw.ru"
+  },
+  {
     "network": "13.143.241.0/24",
     "asn": "213316",
     "country_code": "RU",
@@ -137881,6 +138881,14 @@
   },
   {
     "network": "142.111.174.0/24",
+    "asn": "213316",
+    "country_code": "RU",
+    "name": "DLINEMEDIA-AS",
+    "org": "DLine Media LLC",
+    "domain": "dline-media.com"
+  },
+  {
+    "network": "167.253.23.0/24",
     "asn": "213316",
     "country_code": "RU",
     "name": "DLINEMEDIA-AS",
@@ -138032,7 +139040,15 @@
     "domain": "landvps.ru"
   },
   {
-    "network": "94.159.113.0/24",
+    "network": "94.159.96.0/24",
+    "asn": "216334",
+    "country_code": "RU",
+    "name": "LandVPS-AS",
+    "org": "New Hosting Technologies LLC",
+    "domain": "landvps.ru"
+  },
+  {
+    "network": "94.159.97.0/24",
     "asn": "216334",
     "country_code": "RU",
     "name": "LandVPS-AS",
@@ -138049,14 +139065,6 @@
   },
   {
     "network": "94.159.116.0/24",
-    "asn": "216334",
-    "country_code": "RU",
-    "name": "LandVPS-AS",
-    "org": "New Hosting Technologies LLC",
-    "domain": "landvps.ru"
-  },
-  {
-    "network": "94.159.117.0/24",
     "asn": "216334",
     "country_code": "RU",
     "name": "LandVPS-AS",
@@ -139817,6 +140825,30 @@
   },
   {
     "network": "89.113.127.0/24",
+    "asn": "16345",
+    "country_code": "RU",
+    "name": "BEE-AS",
+    "org": "PJSC \"Vimpelcom\"",
+    "domain": "beeline.ru"
+  },
+  {
+    "network": "89.113.144.0/21",
+    "asn": "16345",
+    "country_code": "RU",
+    "name": "BEE-AS",
+    "org": "PJSC \"Vimpelcom\"",
+    "domain": "beeline.ru"
+  },
+  {
+    "network": "89.113.144.0/23",
+    "asn": "16345",
+    "country_code": "RU",
+    "name": "BEE-AS",
+    "org": "PJSC \"Vimpelcom\"",
+    "domain": "beeline.ru"
+  },
+  {
+    "network": "89.113.146.0/23",
     "asn": "16345",
     "country_code": "RU",
     "name": "BEE-AS",
@@ -147160,14 +148192,6 @@
     "domain": "mastertel.ru"
   },
   {
-    "network": "91.229.117.0/24",
-    "asn": "29226",
-    "country_code": "RU",
-    "name": "MASTERTEL-AS",
-    "org": "JSC Mastertel",
-    "domain": "mastertel.ru"
-  },
-  {
     "network": "94.141.104.0/22",
     "asn": "29226",
     "country_code": "RU",
@@ -149920,718 +150944,6 @@
     "domain": "tsl.ru"
   },
   {
-    "network": "31.129.122.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "37.228.88.0/22",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "37.228.92.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "37.228.93.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "37.228.94.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.8.230.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.10.52.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.10.53.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.10.54.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.10.55.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.15.252.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.81.253.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.81.255.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.132.18.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.135.164.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.138.157.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.141.100.0/22",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.142.36.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "45.143.93.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "46.29.114.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "77.81.5.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "80.64.31.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "80.66.64.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "85.204.240.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "91.230.208.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "91.245.227.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "93.95.96.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "93.95.97.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "93.95.98.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "93.95.100.0/22",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "109.196.164.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "146.19.142.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "170.168.10.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "170.168.112.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "176.113.82.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "176.113.83.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "176.119.156.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "176.119.158.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "178.22.24.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "178.172.129.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "178.172.175.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "178.172.248.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.40.105.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.41.185.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.41.186.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.41.187.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.68.21.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.148.36.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.148.37.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.148.38.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.148.39.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.191.215.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.199.144.0/22",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "185.237.186.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "193.104.57.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "193.108.113.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "193.124.0.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "193.124.112.0/22",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "193.124.117.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.32.243.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.32.248.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.58.69.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.74.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.92.0/22",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.98.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.101.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.102.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.110.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.144.0/22",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.214.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.232.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.234.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.236.0/22",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.87.248.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "194.107.200.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "195.43.142.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "195.47.196.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "195.60.237.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "195.85.231.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "195.133.1.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "195.133.48.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "195.133.144.0/22",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "195.133.196.0/23",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "195.133.201.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "213.108.4.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "217.21.55.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "217.21.58.0/24",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "2a00:f440::/32",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
-    "network": "2a04:2e80:10::/48",
-    "asn": "48347",
-    "country_code": "RU",
-    "name": "MTW-AS",
-    "org": "JSC Mediasoft ekspert",
-    "domain": "mtw.ru"
-  },
-  {
     "network": "31.129.123.0/24",
     "asn": "215634",
     "country_code": "RU",
@@ -150793,6 +151105,14 @@
   },
   {
     "network": "176.120.188.0/22",
+    "asn": "51669",
+    "country_code": "RU",
+    "name": "HCN-NET",
+    "org": "Home Computer Networks ltd.",
+    "domain": "tvhost.ru"
+  },
+  {
+    "network": "176.120.190.0/24",
     "asn": "51669",
     "country_code": "RU",
     "name": "HCN-NET",
@@ -151489,6 +151809,22 @@
   },
   {
     "network": "31.130.248.0/21",
+    "asn": "51158",
+    "country_code": "RU",
+    "name": "MTREND-AS",
+    "org": "OOO SET",
+    "domain": "zelenaya.net"
+  },
+  {
+    "network": "31.130.251.0/24",
+    "asn": "51158",
+    "country_code": "RU",
+    "name": "MTREND-AS",
+    "org": "OOO SET",
+    "domain": "zelenaya.net"
+  },
+  {
+    "network": "31.130.252.0/24",
     "asn": "51158",
     "country_code": "RU",
     "name": "MTREND-AS",
@@ -179784,14 +180120,6 @@
     "domain": "clodo.ru"
   },
   {
-    "network": "2a04:ac00:8::/48",
-    "asn": "57010",
-    "country_code": "RU",
-    "name": "CLODO-AS",
-    "org": "IT House, Ltd",
-    "domain": "clodo.ru"
-  },
-  {
     "network": "37.139.84.0/23",
     "asn": "35026",
     "country_code": "RU",
@@ -184368,6 +184696,22 @@
     "domain": "bigtelecom.ru"
   },
   {
+    "network": "37.235.200.0/24",
+    "asn": "218568",
+    "country_code": "RU",
+    "name": "SGP22-AS",
+    "org": "Shabalov Grigoriy Pavlovich",
+    "domain": ""
+  },
+  {
+    "network": "37.235.210.0/24",
+    "asn": "218568",
+    "country_code": "RU",
+    "name": "SGP22-AS",
+    "org": "Shabalov Grigoriy Pavlovich",
+    "domain": ""
+  },
+  {
     "network": "37.235.242.0/24",
     "asn": "218568",
     "country_code": "RU",
@@ -184432,6 +184776,22 @@
     "domain": ""
   },
   {
+    "network": "163.5.56.0/24",
+    "asn": "218568",
+    "country_code": "RU",
+    "name": "SGP22-AS",
+    "org": "Shabalov Grigoriy Pavlovich",
+    "domain": ""
+  },
+  {
+    "network": "163.5.209.0/24",
+    "asn": "218568",
+    "country_code": "RU",
+    "name": "SGP22-AS",
+    "org": "Shabalov Grigoriy Pavlovich",
+    "domain": ""
+  },
+  {
     "network": "176.116.6.0/24",
     "asn": "218568",
     "country_code": "RU",
@@ -184449,6 +184809,14 @@
   },
   {
     "network": "185.162.177.0/24",
+    "asn": "218568",
+    "country_code": "RU",
+    "name": "SGP22-AS",
+    "org": "Shabalov Grigoriy Pavlovich",
+    "domain": ""
+  },
+  {
+    "network": "193.124.200.0/24",
     "asn": "218568",
     "country_code": "RU",
     "name": "SGP22-AS",
@@ -184493,142 +184861,6 @@
     "country_code": "RU",
     "name": "SGP22-AS",
     "org": "Shabalov Grigoriy Pavlovich",
-    "domain": ""
-  },
-  {
-    "network": "37.235.246.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "37.235.248.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "37.235.251.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "37.235.253.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "37.235.254.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "45.158.197.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "48.103.130.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "48.103.242.0/23",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "93.190.14.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "95.85.192.0/23",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "153.76.202.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "163.245.63.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "193.160.142.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "212.193.25.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "217.60.200.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "217.60.201.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
-    "domain": ""
-  },
-  {
-    "network": "217.60.203.0/24",
-    "asn": "218261",
-    "country_code": "RU",
-    "name": "DEN-AS",
-    "org": "Dimitriev Evgeny Nikolaevich",
     "domain": ""
   },
   {
@@ -189128,6 +189360,14 @@
     "domain": "kvmka.ru"
   },
   {
+    "network": "178.159.36.0/24",
+    "asn": "212165",
+    "country_code": "RU",
+    "name": "kvmka",
+    "org": "Alex Group LLC",
+    "domain": "kvmka.ru"
+  },
+  {
     "network": "185.224.212.0/24",
     "asn": "212165",
     "country_code": "RU",
@@ -191593,6 +191833,14 @@
   },
   {
     "network": "152.89.199.0/24",
+    "asn": "43278",
+    "country_code": "RU",
+    "name": "CASTLES-AS",
+    "org": "Castles LLC",
+    "domain": "castles.pro"
+  },
+  {
+    "network": "170.168.20.0/24",
     "asn": "43278",
     "country_code": "RU",
     "name": "CASTLES-AS",
@@ -198385,6 +198633,38 @@
   },
   {
     "network": "212.193.15.0/24",
+    "asn": "48282",
+    "country_code": "RU",
+    "name": "VDSINA-AS",
+    "org": "Hosting technology LTD",
+    "domain": "vdsina.ru"
+  },
+  {
+    "network": "213.170.192.0/24",
+    "asn": "48282",
+    "country_code": "RU",
+    "name": "VDSINA-AS",
+    "org": "Hosting technology LTD",
+    "domain": "vdsina.ru"
+  },
+  {
+    "network": "213.170.193.0/24",
+    "asn": "48282",
+    "country_code": "RU",
+    "name": "VDSINA-AS",
+    "org": "Hosting technology LTD",
+    "domain": "vdsina.ru"
+  },
+  {
+    "network": "213.170.194.0/24",
+    "asn": "48282",
+    "country_code": "RU",
+    "name": "VDSINA-AS",
+    "org": "Hosting technology LTD",
+    "domain": "vdsina.ru"
+  },
+  {
+    "network": "213.170.195.0/24",
     "asn": "48282",
     "country_code": "RU",
     "name": "VDSINA-AS",
@@ -218328,31 +218608,7 @@
     "domain": "corpsoft24.ru"
   },
   {
-    "network": "195.208.52.0/24",
-    "asn": "39337",
-    "country_code": "RU",
-    "name": "Corpsoft24",
-    "org": "JSC \"Corp Soft\"",
-    "domain": "corpsoft24.ru"
-  },
-  {
     "network": "195.208.53.0/24",
-    "asn": "39337",
-    "country_code": "RU",
-    "name": "Corpsoft24",
-    "org": "JSC \"Corp Soft\"",
-    "domain": "corpsoft24.ru"
-  },
-  {
-    "network": "195.208.54.0/24",
-    "asn": "39337",
-    "country_code": "RU",
-    "name": "Corpsoft24",
-    "org": "JSC \"Corp Soft\"",
-    "domain": "corpsoft24.ru"
-  },
-  {
-    "network": "195.208.55.0/24",
     "asn": "39337",
     "country_code": "RU",
     "name": "Corpsoft24",
@@ -219152,6 +219408,14 @@
     "domain": "serdi.ru"
   },
   {
+    "network": "46.243.8.0/22",
+    "asn": "49759",
+    "country_code": "RU",
+    "name": "SERDI-AS",
+    "org": "SerDi TeleCom, LTD",
+    "domain": "serdi.ru"
+  },
+  {
     "network": "46.243.8.0/24",
     "asn": "49759",
     "country_code": "RU",
@@ -219217,14 +219481,6 @@
   },
   {
     "network": "91.215.232.0/22",
-    "asn": "49759",
-    "country_code": "RU",
-    "name": "SERDI-AS",
-    "org": "SerDi TeleCom, LTD",
-    "domain": "serdi.ru"
-  },
-  {
-    "network": "91.215.233.0/24",
     "asn": "49759",
     "country_code": "RU",
     "name": "SERDI-AS",
@@ -231896,6 +232152,14 @@
     "domain": "starlink.ru"
   },
   {
+    "network": "94.141.163.0/24",
+    "asn": "34602",
+    "country_code": "RU",
+    "name": "STARLINK-AS",
+    "org": "MEGASVYAZ LLC",
+    "domain": "starlink.ru"
+  },
+  {
     "network": "94.141.172.0/22",
     "asn": "34602",
     "country_code": "RU",
@@ -234342,6 +234606,14 @@
     "name": "SAFEDATA",
     "org": "Data Storage Center JSC",
     "domain": "rt-dc.ru"
+  },
+  {
+    "network": "77.95.170.0/24",
+    "asn": "56964",
+    "country_code": "RU",
+    "name": "IT-PARK-AS",
+    "org": "IT PARK JSC",
+    "domain": "ao-itpark.ru"
   },
   {
     "network": "77.95.200.0/24",
@@ -254368,6 +254640,14 @@
     "domain": "subnet05.ru"
   },
   {
+    "network": "177.122.107.0/24",
+    "asn": "57227",
+    "country_code": "RU",
+    "name": "ASSUBNET05",
+    "org": "Subnet LLC",
+    "domain": "subnet05.ru"
+  },
+  {
     "network": "185.110.44.0/22",
     "asn": "57227",
     "country_code": "RU",
@@ -257872,14 +258152,6 @@
     "domain": "rtk-inform.ru"
   },
   {
-    "network": "95.171.241.0/24",
-    "asn": "13105",
-    "country_code": "RU",
-    "name": "LUKOIL-INFORM-AS",
-    "org": "INFORM LLC",
-    "domain": "rtk-inform.ru"
-  },
-  {
     "network": "95.171.248.0/24",
     "asn": "13105",
     "country_code": "RU",
@@ -258444,7 +258716,7 @@
     "asn": "204738",
     "country_code": "RU",
     "name": "AS-ETAGI",
-    "org": "OOO \"Etazhi-Zapadnaya Sibir\"",
+    "org": "OOO \"Etazhi\"",
     "domain": "etagi.com"
   },
   {
@@ -258452,7 +258724,7 @@
     "asn": "204738",
     "country_code": "RU",
     "name": "AS-ETAGI",
-    "org": "OOO \"Etazhi-Zapadnaya Sibir\"",
+    "org": "OOO \"Etazhi\"",
     "domain": "etagi.com"
   },
   {
@@ -259374,134 +259646,6 @@
     "name": "PIRANYA-AS",
     "org": "Piranya-Telecom LLC",
     "domain": "piranya.net"
-  },
-  {
-    "network": "82.202.132.0/22",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "82.202.144.0/21",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "82.202.144.0/22",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "82.202.152.0/22",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "89.232.128.0/20",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "89.232.144.0/20",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "193.25.8.0/22",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "193.25.12.0/23",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "2a0b:6e80::/32",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "2a0b:6e81::/32",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "2a0b:6e82::/32",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "2a0b:6e83::/32",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "2a0b:6e84::/32",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "2a0b:6e85::/32",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "2a0b:6e86::/32",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
-  },
-  {
-    "network": "2a0b:6e87::/32",
-    "asn": "30745",
-    "country_code": "RU",
-    "name": "SITENETWORK-AS",
-    "org": "Site LLC",
-    "domain": "svtc.ru"
   },
   {
     "network": "82.202.164.0/24",
@@ -262760,6 +262904,14 @@
     "domain": "intelbi.ru"
   },
   {
+    "network": "83.246.152.0/24",
+    "asn": "31364",
+    "country_code": "RU",
+    "name": "INTELBI-AS",
+    "org": "Joint Stock Company TransTeleCom",
+    "domain": "intelbi.ru"
+  },
+  {
     "network": "83.246.153.0/24",
     "asn": "31364",
     "country_code": "RU",
@@ -262936,7 +263088,23 @@
     "domain": "intelbi.ru"
   },
   {
+    "network": "83.246.193.0/24",
+    "asn": "31364",
+    "country_code": "RU",
+    "name": "INTELBI-AS",
+    "org": "Joint Stock Company TransTeleCom",
+    "domain": "intelbi.ru"
+  },
+  {
     "network": "83.246.198.0/24",
+    "asn": "31364",
+    "country_code": "RU",
+    "name": "INTELBI-AS",
+    "org": "Joint Stock Company TransTeleCom",
+    "domain": "intelbi.ru"
+  },
+  {
+    "network": "83.246.200.0/24",
     "asn": "31364",
     "country_code": "RU",
     "name": "INTELBI-AS",
@@ -263064,7 +263232,31 @@
     "domain": "intelbi.ru"
   },
   {
+    "network": "83.246.232.0/24",
+    "asn": "31364",
+    "country_code": "RU",
+    "name": "INTELBI-AS",
+    "org": "Joint Stock Company TransTeleCom",
+    "domain": "intelbi.ru"
+  },
+  {
+    "network": "83.246.233.0/24",
+    "asn": "31364",
+    "country_code": "RU",
+    "name": "INTELBI-AS",
+    "org": "Joint Stock Company TransTeleCom",
+    "domain": "intelbi.ru"
+  },
+  {
     "network": "83.246.234.0/24",
+    "asn": "31364",
+    "country_code": "RU",
+    "name": "INTELBI-AS",
+    "org": "Joint Stock Company TransTeleCom",
+    "domain": "intelbi.ru"
+  },
+  {
+    "network": "83.246.238.0/24",
     "asn": "31364",
     "country_code": "RU",
     "name": "INTELBI-AS",
@@ -263097,6 +263289,14 @@
   },
   {
     "network": "83.246.248.0/24",
+    "asn": "31364",
+    "country_code": "RU",
+    "name": "INTELBI-AS",
+    "org": "Joint Stock Company TransTeleCom",
+    "domain": "intelbi.ru"
+  },
+  {
+    "network": "83.246.253.0/24",
     "asn": "31364",
     "country_code": "RU",
     "name": "INTELBI-AS",
@@ -267704,46 +267904,6 @@
     "domain": "arctel.su"
   },
   {
-    "network": "188.94.48.0/24",
-    "asn": "49377",
-    "country_code": "RU",
-    "name": "YTC-AS",
-    "org": "ARCTIC TELECOM Limited Liability Company",
-    "domain": "arctel.su"
-  },
-  {
-    "network": "188.94.49.0/24",
-    "asn": "49377",
-    "country_code": "RU",
-    "name": "YTC-AS",
-    "org": "ARCTIC TELECOM Limited Liability Company",
-    "domain": "arctel.su"
-  },
-  {
-    "network": "188.94.50.0/24",
-    "asn": "49377",
-    "country_code": "RU",
-    "name": "YTC-AS",
-    "org": "ARCTIC TELECOM Limited Liability Company",
-    "domain": "arctel.su"
-  },
-  {
-    "network": "188.94.51.0/24",
-    "asn": "49377",
-    "country_code": "RU",
-    "name": "YTC-AS",
-    "org": "ARCTIC TELECOM Limited Liability Company",
-    "domain": "arctel.su"
-  },
-  {
-    "network": "188.94.53.0/24",
-    "asn": "49377",
-    "country_code": "RU",
-    "name": "YTC-AS",
-    "org": "ARCTIC TELECOM Limited Liability Company",
-    "domain": "arctel.su"
-  },
-  {
     "network": "188.94.54.0/24",
     "asn": "49377",
     "country_code": "RU",
@@ -268545,14 +268705,6 @@
   },
   {
     "network": "193.232.81.0/24",
-    "asn": "42385",
-    "country_code": "RU",
-    "name": "RIPN-RU",
-    "org": "Join-stock company \"Internet Exchange\"MSK-IX\"",
-    "domain": "msk-ix.ru"
-  },
-  {
-    "network": "193.232.82.0/23",
     "asn": "42385",
     "country_code": "RU",
     "name": "RIPN-RU",
@@ -271056,6 +271208,62 @@
     "domain": "icomtex.ru"
   },
   {
+    "network": "2a04:2cc1::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc2::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc3::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc4::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc5::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc6::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
+    "network": "2a04:2cc7::/32",
+    "asn": "38917",
+    "country_code": "RU",
+    "name": "komtel-as",
+    "org": "INTERCOMTEL Limited Company",
+    "domain": "icomtex.ru"
+  },
+  {
     "network": "88.81.212.0/24",
     "asn": "42071",
     "country_code": "RU",
@@ -273465,14 +273673,6 @@
   },
   {
     "network": "185.184.27.0/24",
-    "asn": "218897",
-    "country_code": "RU",
-    "name": "GAV-AS",
-    "org": "Grachev Andrey Vladimirovich",
-    "domain": "myomega.cloud"
-  },
-  {
-    "network": "201.8.86.0/24",
     "asn": "218897",
     "country_code": "RU",
     "name": "GAV-AS",
@@ -275953,6 +276153,14 @@
   },
   {
     "network": "188.44.32.0/19",
+    "asn": "2848",
+    "country_code": "RU",
+    "name": "MSU",
+    "org": "Federal State Budgetary Educational Institution of Higher Education Lomonosov Moscow State University",
+    "domain": "msu.ru"
+  },
+  {
+    "network": "2a00:f480::/32",
     "asn": "2848",
     "country_code": "RU",
     "name": "MSU",
@@ -292008,14 +292216,6 @@
     "domain": "citytelecom.ru"
   },
   {
-    "network": "91.226.116.0/24",
-    "asn": "20772",
-    "country_code": "RU",
-    "name": "SWSU-AS",
-    "org": "OOO Kurier",
-    "domain": ""
-  },
-  {
     "network": "91.226.128.0/24",
     "asn": "197786",
     "country_code": "RU",
@@ -303600,6 +303800,14 @@
     "domain": "itka24.ru"
   },
   {
+    "network": "2a11:8945::/32",
+    "asn": "209763",
+    "country_code": "RU",
+    "name": "IKINVESTOR-AS",
+    "org": "IK Investor JSC",
+    "domain": "itka24.ru"
+  },
+  {
     "network": "94.142.128.0/24",
     "asn": "207822",
     "country_code": "RU",
@@ -303817,38 +304025,6 @@
   },
   {
     "network": "212.109.0.0/20",
-    "asn": "42387",
-    "country_code": "RU",
-    "name": "SSERV-AS",
-    "org": "Limited Company Svyazservice",
-    "domain": "sampo.ru"
-  },
-  {
-    "network": "212.109.12.0/24",
-    "asn": "42387",
-    "country_code": "RU",
-    "name": "SSERV-AS",
-    "org": "Limited Company Svyazservice",
-    "domain": "sampo.ru"
-  },
-  {
-    "network": "212.109.13.0/24",
-    "asn": "42387",
-    "country_code": "RU",
-    "name": "SSERV-AS",
-    "org": "Limited Company Svyazservice",
-    "domain": "sampo.ru"
-  },
-  {
-    "network": "212.109.14.0/24",
-    "asn": "42387",
-    "country_code": "RU",
-    "name": "SSERV-AS",
-    "org": "Limited Company Svyazservice",
-    "domain": "sampo.ru"
-  },
-  {
-    "network": "212.109.15.0/24",
     "asn": "42387",
     "country_code": "RU",
     "name": "SSERV-AS",
@@ -307776,14 +307952,6 @@
     "domain": ""
   },
   {
-    "network": "194.226.95.0/24",
-    "asn": "43797",
-    "country_code": "RU",
-    "name": "RSNET2-AS",
-    "org": "The Federal Guard Service of the Russian Federation",
-    "domain": ""
-  },
-  {
     "network": "95.179.0.0/18",
     "asn": "8570",
     "country_code": "RU",
@@ -308561,30 +308729,6 @@
   },
   {
     "network": "109.70.248.0/21",
-    "asn": "196847",
-    "country_code": "RU",
-    "name": "TERMINAL-AS",
-    "org": "JSC SHEREMETYEVO INTERNATIONAL AIRPORT",
-    "domain": "svo.aero"
-  },
-  {
-    "network": "109.70.250.0/24",
-    "asn": "196847",
-    "country_code": "RU",
-    "name": "TERMINAL-AS",
-    "org": "JSC SHEREMETYEVO INTERNATIONAL AIRPORT",
-    "domain": "svo.aero"
-  },
-  {
-    "network": "109.70.253.0/24",
-    "asn": "196847",
-    "country_code": "RU",
-    "name": "TERMINAL-AS",
-    "org": "JSC SHEREMETYEVO INTERNATIONAL AIRPORT",
-    "domain": "svo.aero"
-  },
-  {
-    "network": "109.70.254.0/24",
     "asn": "196847",
     "country_code": "RU",
     "name": "TERMINAL-AS",
@@ -309984,22 +310128,6 @@
     "domain": "iitservices.ru"
   },
   {
-    "network": "109.248.249.0/24",
-    "asn": "201296",
-    "country_code": "RU",
-    "name": "PROFTEL-AS",
-    "org": "Proftelecom-Service Ltd",
-    "domain": "bk.ru"
-  },
-  {
-    "network": "185.180.236.0/22",
-    "asn": "201296",
-    "country_code": "RU",
-    "name": "PROFTEL-AS",
-    "org": "Proftelecom-Service Ltd",
-    "domain": "bk.ru"
-  },
-  {
     "network": "109.248.255.0/24",
     "asn": "44834",
     "country_code": "RU",
@@ -310566,6 +310694,14 @@
     "name": "SPRINTHOST",
     "org": "SPRINTHOST.RU LLC",
     "domain": "sprinthost.ru"
+  },
+  {
+    "network": "138.249.12.0/23",
+    "asn": "203382",
+    "country_code": "RU",
+    "name": "USERGATE-AS",
+    "org": "Yuzergeyt LLC",
+    "domain": "usergate.com"
   },
   {
     "network": "138.249.102.0/24",
@@ -317278,6 +317414,14 @@
     "name": "BKGARANT-AS",
     "org": "LLC BK GARANTIYA",
     "domain": "bcgarant.ru"
+  },
+  {
+    "network": "177.122.160.0/24",
+    "asn": "219225",
+    "country_code": "RU",
+    "name": "IDRIS-ASN",
+    "org": "Idris Alaudievich Umaev",
+    "domain": "nordcold.net"
   },
   {
     "network": "178.17.56.0/24",
@@ -324528,22 +324672,6 @@
     "domain": "stroytelecom.net"
   },
   {
-    "network": "185.99.168.0/22",
-    "asn": "214221",
-    "country_code": "RU",
-    "name": "UNITYGROUP",
-    "org": "UNITY GROUP LLC",
-    "domain": "unet84.ru"
-  },
-  {
-    "network": "192.109.253.0/24",
-    "asn": "214221",
-    "country_code": "RU",
-    "name": "UNITYGROUP",
-    "org": "UNITY GROUP LLC",
-    "domain": "unet84.ru"
-  },
-  {
     "network": "185.100.101.0/24",
     "asn": "203561",
     "country_code": "RU",
@@ -326168,6 +326296,126 @@
     "domain": "rkgroup.pro"
   },
   {
+    "network": "185.154.124.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.96.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.97.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.98.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.99.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.100.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.101.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.102.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.103.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.104.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.105.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.106.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.108.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "217.12.110.0/24",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
+    "network": "2a00:4c00:3::/48",
+    "asn": "15632",
+    "country_code": "RU",
+    "name": "Alfa-Bank-AS",
+    "org": "JSC \"Alfa-Bank\"",
+    "domain": "alfabank.ru"
+  },
+  {
     "network": "185.155.16.0/24",
     "asn": "202289",
     "country_code": "RU",
@@ -327532,6 +327780,14 @@
     "asn": "43228",
     "country_code": "RU",
     "name": "simple-tel-as",
+    "org": "SimpleTelecom LLC",
+    "domain": "simple-tel.net"
+  },
+  {
+    "network": "185.190.107.0/24",
+    "asn": "211637",
+    "country_code": "RU",
+    "name": "simple-spb",
     "org": "SimpleTelecom LLC",
     "domain": "simple-tel.net"
   },
@@ -330920,6 +331176,22 @@
     "domain": "datafort.ru"
   },
   {
+    "network": "193.5.125.0/24",
+    "asn": "218276",
+    "country_code": "RU",
+    "name": "KENTAVREN-AS",
+    "org": "Trukhin Sergey Vladimirovich",
+    "domain": "ruintech.ru"
+  },
+  {
+    "network": "200.96.109.0/24",
+    "asn": "218276",
+    "country_code": "RU",
+    "name": "KENTAVREN-AS",
+    "org": "Trukhin Sergey Vladimirovich",
+    "domain": "ruintech.ru"
+  },
+  {
     "network": "193.7.160.0/24",
     "asn": "30853",
     "country_code": "RU",
@@ -332720,14 +332992,6 @@
     "domain": "apkbank.ru"
   },
   {
-    "network": "193.143.92.0/24",
-    "asn": "49093",
-    "country_code": "RU",
-    "name": "PRIMORSKY-AS",
-    "org": "KGKU ITC Primorskogo kraya",
-    "domain": "primorsky.ru"
-  },
-  {
     "network": "193.143.119.0/24",
     "asn": "43396",
     "country_code": "RU",
@@ -333297,14 +333561,6 @@
   },
   {
     "network": "193.176.92.0/24",
-    "asn": "39048",
-    "country_code": "RU",
-    "name": "RUNTIME-AS",
-    "org": "Runtime LLC",
-    "domain": "runtime.ws"
-  },
-  {
-    "network": "193.176.95.0/24",
     "asn": "39048",
     "country_code": "RU",
     "name": "RUNTIME-AS",
@@ -334718,14 +334974,6 @@
     "name": "KINEF",
     "org": "LLC \"KINEF\"",
     "domain": "kinef.ru"
-  },
-  {
-    "network": "193.232.199.0/24",
-    "asn": "56619",
-    "country_code": "RU",
-    "name": "KSB",
-    "org": "Safety Integrated Systems Ltd",
-    "domain": "sisnw.ru"
   },
   {
     "network": "193.232.201.0/24",
@@ -336326,14 +336574,6 @@
     "name": "TENEX-AS",
     "org": "JSC \"Techsnabexport\"",
     "domain": "tenex.ru"
-  },
-  {
-    "network": "194.59.184.0/24",
-    "asn": "44126",
-    "country_code": "RU",
-    "name": "terralink-as",
-    "org": "OOO \"TerraLink\"",
-    "domain": "terralink.ru"
   },
   {
     "network": "194.61.24.0/24",
@@ -342512,14 +342752,6 @@
     "domain": ""
   },
   {
-    "network": "200.96.109.0/24",
-    "asn": "218276",
-    "country_code": "RU",
-    "name": "KENTAVREN-AS",
-    "org": "Trukhin Sergey Vladimirovich",
-    "domain": "ruintech.ru"
-  },
-  {
     "network": "201.50.121.0/24",
     "asn": "219137",
     "country_code": "RU",
@@ -344208,118 +344440,6 @@
     "domain": "kiam.ru"
   },
   {
-    "network": "217.12.96.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.97.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.98.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.99.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.100.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.101.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.102.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.103.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.104.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.105.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.106.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.108.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "217.12.110.0/24",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
-    "network": "2a00:4c00:3::/48",
-    "asn": "15632",
-    "country_code": "RU",
-    "name": "Alfa-Bank-AS",
-    "org": "JSC \"Alfa-Bank\"",
-    "domain": "alfabank.ru"
-  },
-  {
     "network": "217.14.16.0/23",
     "asn": "28712",
     "country_code": "RU",
@@ -345966,6 +346086,70 @@
     "name": "CHEESE-AS",
     "org": "Egor Belanov",
     "domain": "is-definitely.gay"
+  },
+  {
+    "network": "2a0b:6e80::/32",
+    "asn": "30745",
+    "country_code": "RU",
+    "name": "SITENETWORK-AS",
+    "org": "Site LLC",
+    "domain": "svtc.ru"
+  },
+  {
+    "network": "2a0b:6e81::/32",
+    "asn": "30745",
+    "country_code": "RU",
+    "name": "SITENETWORK-AS",
+    "org": "Site LLC",
+    "domain": "svtc.ru"
+  },
+  {
+    "network": "2a0b:6e82::/32",
+    "asn": "30745",
+    "country_code": "RU",
+    "name": "SITENETWORK-AS",
+    "org": "Site LLC",
+    "domain": "svtc.ru"
+  },
+  {
+    "network": "2a0b:6e83::/32",
+    "asn": "30745",
+    "country_code": "RU",
+    "name": "SITENETWORK-AS",
+    "org": "Site LLC",
+    "domain": "svtc.ru"
+  },
+  {
+    "network": "2a0b:6e84::/32",
+    "asn": "30745",
+    "country_code": "RU",
+    "name": "SITENETWORK-AS",
+    "org": "Site LLC",
+    "domain": "svtc.ru"
+  },
+  {
+    "network": "2a0b:6e85::/32",
+    "asn": "30745",
+    "country_code": "RU",
+    "name": "SITENETWORK-AS",
+    "org": "Site LLC",
+    "domain": "svtc.ru"
+  },
+  {
+    "network": "2a0b:6e86::/32",
+    "asn": "30745",
+    "country_code": "RU",
+    "name": "SITENETWORK-AS",
+    "org": "Site LLC",
+    "domain": "svtc.ru"
+  },
+  {
+    "network": "2a0b:6e87::/32",
+    "asn": "30745",
+    "country_code": "RU",
+    "name": "SITENETWORK-AS",
+    "org": "Site LLC",
+    "domain": "svtc.ru"
   },
   {
     "network": "2a0b:c0c0::/29",

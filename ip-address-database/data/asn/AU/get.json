@@ -264,6 +264,14 @@
     "domain": "optusnet.com.au"
   },
   {
+    "network": "1.44.24.0/21",
+    "asn": "4804",
+    "country_code": "AU",
+    "name": "MPX-AS",
+    "org": "SingTel Optus Pty Ltd",
+    "domain": "optusnet.com.au"
+  },
+  {
     "network": "1.44.48.0/21",
     "asn": "4804",
     "country_code": "AU",
@@ -3656,14 +3664,6 @@
     "domain": "optusnet.com.au"
   },
   {
-    "network": "124.19.73.0/24",
-    "asn": "7474",
-    "country_code": "AU",
-    "name": "OPTUSCOM-AS01-AU",
-    "org": "SingTel Optus Pty Ltd",
-    "domain": "optusnet.com.au"
-  },
-  {
     "network": "124.19.76.0/22",
     "asn": "7474",
     "country_code": "AU",
@@ -5761,14 +5761,6 @@
   },
   {
     "network": "203.6.127.0/24",
-    "asn": "1221",
-    "country_code": "AU",
-    "name": "ASN-TELSTRA",
-    "org": "Telstra Limited",
-    "domain": "telstra.net"
-  },
-  {
-    "network": "203.6.171.0/24",
     "asn": "1221",
     "country_code": "AU",
     "name": "ASN-TELSTRA",
@@ -50776,6 +50768,14 @@
     "domain": "gslnetworks.com.au"
   },
   {
+    "network": "80.46.129.0/24",
+    "asn": "137409",
+    "country_code": "AU",
+    "name": "GSLNETWORKS-AS-AP",
+    "org": "GSL Networks Pty LTD",
+    "domain": "gslnetworks.com.au"
+  },
+  {
     "network": "80.46.142.0/24",
     "asn": "137409",
     "country_code": "AU",
@@ -51881,6 +51881,30 @@
   },
   {
     "network": "136.176.219.0/24",
+    "asn": "137409",
+    "country_code": "AU",
+    "name": "GSLNETWORKS-AS-AP",
+    "org": "GSL Networks Pty LTD",
+    "domain": "gslnetworks.com.au"
+  },
+  {
+    "network": "136.176.220.0/24",
+    "asn": "137409",
+    "country_code": "AU",
+    "name": "GSLNETWORKS-AS-AP",
+    "org": "GSL Networks Pty LTD",
+    "domain": "gslnetworks.com.au"
+  },
+  {
+    "network": "136.176.221.0/24",
+    "asn": "137409",
+    "country_code": "AU",
+    "name": "GSLNETWORKS-AS-AP",
+    "org": "GSL Networks Pty LTD",
+    "domain": "gslnetworks.com.au"
+  },
+  {
+    "network": "136.176.222.0/24",
     "asn": "137409",
     "country_code": "AU",
     "name": "GSLNETWORKS-AS-AP",
@@ -90960,14 +90984,6 @@
     "domain": "parsun.com"
   },
   {
-    "network": "176.65.141.0/24",
-    "asn": "58232",
-    "country_code": "AU",
-    "name": "haderan",
-    "org": "Parsun Network Solutions PTY LTD",
-    "domain": "parsun.com"
-  },
-  {
     "network": "176.117.107.0/24",
     "asn": "58232",
     "country_code": "AU",
@@ -92697,6 +92713,22 @@
   },
   {
     "network": "203.57.50.0/23",
+    "asn": "133159",
+    "country_code": "AU",
+    "name": "MAMMOTHMEDIA-AS-AP",
+    "org": "Mammoth Media Pty Ltd",
+    "domain": "mammothmedia.com.au"
+  },
+  {
+    "network": "203.57.50.0/24",
+    "asn": "133159",
+    "country_code": "AU",
+    "name": "MAMMOTHMEDIA-AS-AP",
+    "org": "Mammoth Media Pty Ltd",
+    "domain": "mammothmedia.com.au"
+  },
+  {
+    "network": "203.57.51.0/24",
     "asn": "133159",
     "country_code": "AU",
     "name": "MAMMOTHMEDIA-AS-AP",
@@ -107192,6 +107224,14 @@
     "domain": "5gn.com.au"
   },
   {
+    "network": "202.46.168.0/24",
+    "asn": "63956",
+    "country_code": "AU",
+    "name": "INT-5GN-AS-AP",
+    "org": "5G NETWORK OPERATIONS PTY LTD",
+    "domain": "5gn.com.au"
+  },
+  {
     "network": "202.58.32.0/21",
     "asn": "63956",
     "country_code": "AU",
@@ -107569,6 +107609,14 @@
   },
   {
     "network": "2402:1b80:2000::/36",
+    "asn": "63956",
+    "country_code": "AU",
+    "name": "INT-5GN-AS-AP",
+    "org": "5G NETWORK OPERATIONS PTY LTD",
+    "domain": "5gn.com.au"
+  },
+  {
+    "network": "2402:1b80:3000::/40",
     "asn": "63956",
     "country_code": "AU",
     "name": "INT-5GN-AS-AP",
@@ -135120,22 +135168,6 @@
     "domain": "channelwireless.com"
   },
   {
-    "network": "103.95.2.0/24",
-    "asn": "136741",
-    "country_code": "AU",
-    "name": "CW-AS-AP",
-    "org": "Channel Wireless Pty Ltd",
-    "domain": "channelwireless.com"
-  },
-  {
-    "network": "103.95.3.0/24",
-    "asn": "136741",
-    "country_code": "AU",
-    "name": "CW-AS-AP",
-    "org": "Channel Wireless Pty Ltd",
-    "domain": "channelwireless.com"
-  },
-  {
     "network": "103.95.72.0/23",
     "asn": "136760",
     "country_code": "AU",
@@ -136529,6 +136561,14 @@
   },
   {
     "network": "103.104.83.0/24",
+    "asn": "38813",
+    "country_code": "AU",
+    "name": "EMANTRA-AS-AP",
+    "org": "Emantra Pty Ltd",
+    "domain": "emantra.com.au"
+  },
+  {
+    "network": "111.118.208.0/24",
     "asn": "38813",
     "country_code": "AU",
     "name": "EMANTRA-AS-AP",
@@ -170304,6 +170344,14 @@
     "domain": "dfat.gov.au"
   },
   {
+    "network": "203.6.171.0/24",
+    "asn": "18431",
+    "country_code": "AU",
+    "name": "DFAT-AS-AP",
+    "org": "Department of Foreign Affairs and Trade",
+    "domain": "dfat.gov.au"
+  },
+  {
     "network": "203.6.185.0/24",
     "asn": "18431",
     "country_code": "AU",
@@ -170753,6 +170801,14 @@
   },
   {
     "network": "203.10.8.0/24",
+    "asn": "150127",
+    "country_code": "AU",
+    "name": "LACTALIS-AS-AP",
+    "org": "Lactalis Australia Pty Ltd",
+    "domain": "lactalis.com"
+  },
+  {
+    "network": "203.10.9.0/24",
     "asn": "150127",
     "country_code": "AU",
     "name": "LACTALIS-AS-AP",

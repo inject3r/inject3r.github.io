@@ -4048,7 +4048,15 @@
     "domain": "xneelo.com"
   },
   {
-    "network": "169.239.224.0/22",
+    "network": "169.239.224.0/23",
+    "asn": "37153",
+    "country_code": "ZA",
+    "name": "xneelo",
+    "org": "Xneelo (Pty) Ltd",
+    "domain": "xneelo.com"
+  },
+  {
+    "network": "169.239.226.0/23",
     "asn": "37153",
     "country_code": "ZA",
     "name": "xneelo",
@@ -12384,7 +12392,7 @@
     "domain": "optinet.net"
   },
   {
-    "network": "197.103.61.0/24",
+    "network": "197.103.134.0/24",
     "asn": "3741",
     "country_code": "ZA",
     "name": "NTT-DATA-Inc",
@@ -12392,7 +12400,7 @@
     "domain": "optinet.net"
   },
   {
-    "network": "197.103.134.0/24",
+    "network": "197.103.146.0/24",
     "asn": "3741",
     "country_code": "ZA",
     "name": "NTT-DATA-Inc",
@@ -15712,14 +15720,6 @@
     "domain": "herotel.com"
   },
   {
-    "network": "169.159.188.0/24",
-    "asn": "328471",
-    "country_code": "ZA",
-    "name": "Hero-Telecoms",
-    "org": "HERO TELECOMS (PTY) LTD",
-    "domain": "herotel.com"
-  },
-  {
     "network": "169.239.220.0/22",
     "asn": "328471",
     "country_code": "ZA",
@@ -18233,6 +18233,14 @@
   },
   {
     "network": "105.209.48.0/21",
+    "asn": "16637",
+    "country_code": "ZA",
+    "name": "MTNNS-AS",
+    "org": "MTN SA",
+    "domain": "mtn.com"
+  },
+  {
+    "network": "105.209.64.0/19",
     "asn": "16637",
     "country_code": "ZA",
     "name": "MTNNS-AS",
@@ -31744,14 +31752,6 @@
     "domain": "fasthosting.net.za"
   },
   {
-    "network": "41.217.192.0/24",
-    "asn": "37145",
-    "country_code": "ZA",
-    "name": "umoya-as",
-    "org": "Umoya Networks",
-    "domain": "umoya.net"
-  },
-  {
     "network": "41.217.193.0/24",
     "asn": "37145",
     "country_code": "ZA",
@@ -44752,6 +44752,14 @@
     "domain": "ictglobe.com"
   },
   {
+    "network": "2c0f:1a20::/32",
+    "asn": "329833",
+    "country_code": "ZA",
+    "name": "ICTNETWORKS_PTY_LTD",
+    "org": "ICTNETWORKS (PTY) LTD",
+    "domain": "ictglobe.com"
+  },
+  {
     "network": "102.200.238.0/24",
     "asn": "329828",
     "country_code": "ZA",
@@ -48648,6 +48656,30 @@
     "domain": "lcx.co.za"
   },
   {
+    "network": "102.214.176.0/22",
+    "asn": "328704",
+    "country_code": "ZA",
+    "name": "WIFIZA-TELECOMS",
+    "org": "Wifiza Telecoms cc",
+    "domain": "wifiza.co.za"
+  },
+  {
+    "network": "102.222.255.0/24",
+    "asn": "328704",
+    "country_code": "ZA",
+    "name": "WIFIZA-TELECOMS",
+    "org": "Wifiza Telecoms cc",
+    "domain": "wifiza.co.za"
+  },
+  {
+    "network": "156.0.208.0/22",
+    "asn": "328704",
+    "country_code": "ZA",
+    "name": "WIFIZA-TELECOMS",
+    "org": "Wifiza Telecoms cc",
+    "domain": "wifiza.co.za"
+  },
+  {
     "network": "102.214.180.0/23",
     "asn": "328660",
     "country_code": "ZA",
@@ -49856,14 +49888,6 @@
     "domain": "cititech.co.za"
   },
   {
-    "network": "102.219.252.0/22",
-    "asn": "328691",
-    "country_code": "ZA",
-    "name": "Global-Network-Systems",
-    "org": "Global Network Systems (PTY) LTD",
-    "domain": "globalnetwork.co.za"
-  },
-  {
     "network": "102.220.53.0/24",
     "asn": "328837",
     "country_code": "ZA",
@@ -50830,14 +50854,6 @@
     "name": "MzansiComnet",
     "org": "Mzansi ComNet",
     "domain": "mzansicomnet.africa"
-  },
-  {
-    "network": "102.222.255.0/24",
-    "asn": "328704",
-    "country_code": "ZA",
-    "name": "WIFIZA-TELECOMS",
-    "org": "Wifiza Telecoms cc",
-    "domain": "wifiza.co.za"
   },
   {
     "network": "102.223.2.0/24",

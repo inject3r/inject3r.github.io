@@ -42,7 +42,7 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "27.109.119.0/28",
+    "network": "27.109.119.8/29",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -60,7 +60,7 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "27.109.119.120/29",
+    "network": "27.109.119.96/27",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -79,6 +79,12 @@
   },
   {
     "network": "27.109.119.224/28",
+    "continent_code": "AS",
+    "country_code": "MM",
+    "country_name": "Myanmar"
+  },
+  {
+    "network": "27.109.119.244/31",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -276,25 +282,19 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "45.112.44.2/31",
+    "network": "45.112.44.0/29",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
   },
   {
-    "network": "45.112.44.4/30",
+    "network": "45.112.44.24/30",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
   },
   {
-    "network": "45.112.44.26/31",
-    "continent_code": "AS",
-    "country_code": "MM",
-    "country_name": "Myanmar"
-  },
-  {
-    "network": "45.112.44.32/29",
+    "network": "45.112.44.32/30",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -318,13 +318,13 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "45.112.44.88/31",
+    "network": "45.112.44.88/30",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
   },
   {
-    "network": "45.112.44.96/28",
+    "network": "45.112.44.104/30",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -373,12 +373,6 @@
   },
   {
     "network": "45.192.138.0/23",
-    "continent_code": "AS",
-    "country_code": "MM",
-    "country_name": "Myanmar"
-  },
-  {
-    "network": "45.192.140.0/22",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -2130,7 +2124,7 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "154.18.222.80/28",
+    "network": "154.18.222.64/26",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"
@@ -4380,6 +4374,12 @@
     "country_name": "Myanmar"
   },
   {
+    "network": "2602:f3f0:13d::/48",
+    "continent_code": "AS",
+    "country_code": "MM",
+    "country_name": "Myanmar"
+  },
+  {
     "network": "2602:f7c8:52c::/48",
     "continent_code": "AS",
     "country_code": "MM",
@@ -5238,7 +5238,7 @@
     "country_name": "Myanmar"
   },
   {
-    "network": "2a0e:4003:bbcb:ed38::/64",
+    "network": "2a0e:4003:bb79:b305::/64",
     "continent_code": "AS",
     "country_code": "MM",
     "country_name": "Myanmar"

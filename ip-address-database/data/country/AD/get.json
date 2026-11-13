@@ -198,13 +198,19 @@
     "country_name": "Andorra"
   },
   {
-    "network": "45.148.10.64/28",
+    "network": "45.148.10.64/26",
     "continent_code": "EU",
     "country_code": "AD",
     "country_name": "Andorra"
   },
   {
-    "network": "45.148.10.96/27",
+    "network": "45.148.10.128/26",
+    "continent_code": "EU",
+    "country_code": "AD",
+    "country_name": "Andorra"
+  },
+  {
+    "network": "45.148.10.192/27",
     "continent_code": "EU",
     "country_code": "AD",
     "country_name": "Andorra"
@@ -1704,13 +1710,13 @@
     "country_name": "Andorra"
   },
   {
-    "network": "2a14:c380:2000::/40",
+    "network": "2a14:c380:a80::/41",
     "continent_code": "EU",
     "country_code": "AD",
     "country_name": "Andorra"
   },
   {
-    "network": "2a14:c380:a80::/41",
+    "network": "2a14:c380:2080::/41",
     "continent_code": "EU",
     "country_code": "AD",
     "country_name": "Andorra"
@@ -1722,7 +1728,19 @@
     "country_name": "Andorra"
   },
   {
+    "network": "2a14:c380:2040::/42",
+    "continent_code": "EU",
+    "country_code": "AD",
+    "country_name": "Andorra"
+  },
+  {
     "network": "2a14:c380:a00::/43",
+    "continent_code": "EU",
+    "country_code": "AD",
+    "country_name": "Andorra"
+  },
+  {
+    "network": "2a14:c380:2020::/43",
     "continent_code": "EU",
     "country_code": "AD",
     "country_name": "Andorra"
@@ -1824,6 +1842,12 @@
     "country_name": "Andorra"
   },
   {
+    "network": "2a14:c380:2010::/44",
+    "continent_code": "EU",
+    "country_code": "AD",
+    "country_name": "Andorra"
+  },
+  {
     "network": "2606:54c0::/45",
     "continent_code": "EU",
     "country_code": "AD",
@@ -1878,6 +1902,12 @@
     "country_name": "Andorra"
   },
   {
+    "network": "2a14:c380:2008::/45",
+    "continent_code": "EU",
+    "country_code": "AD",
+    "country_name": "Andorra"
+  },
+  {
     "network": "2602:814:fc00::/46",
     "continent_code": "EU",
     "country_code": "AD",
@@ -1897,6 +1927,12 @@
   },
   {
     "network": "2a13:a5c3:d004::/46",
+    "continent_code": "EU",
+    "country_code": "AD",
+    "country_name": "Andorra"
+  },
+  {
+    "network": "2a14:c380:2004::/46",
     "continent_code": "EU",
     "country_code": "AD",
     "country_name": "Andorra"
@@ -1957,6 +1993,12 @@
   },
   {
     "network": "2a10:24c0:e518::/47",
+    "continent_code": "EU",
+    "country_code": "AD",
+    "country_name": "Andorra"
+  },
+  {
+    "network": "2a14:c380:2002::/47",
     "continent_code": "EU",
     "country_code": "AD",
     "country_name": "Andorra"
@@ -2101,6 +2143,12 @@
   },
   {
     "network": "2600:70ff:b3c8::/48",
+    "continent_code": "EU",
+    "country_code": "AD",
+    "country_name": "Andorra"
+  },
+  {
+    "network": "2602:f3f0:197::/48",
     "continent_code": "EU",
     "country_code": "AD",
     "country_name": "Andorra"
@@ -2305,12 +2353,6 @@
   },
   {
     "network": "2a0f:1cc5:1f18::/48",
-    "continent_code": "EU",
-    "country_code": "AD",
-    "country_name": "Andorra"
-  },
-  {
-    "network": "2a0f:6280:ca15::/48",
     "continent_code": "EU",
     "country_code": "AD",
     "country_name": "Andorra"
@@ -2880,7 +2922,7 @@
     "country_name": "Andorra"
   },
   {
-    "network": "2a0e:4003:bb79:cc3::/64",
+    "network": "2a0e:4003:bb1c:2c07::/64",
     "continent_code": "EU",
     "country_code": "AD",
     "country_name": "Andorra"

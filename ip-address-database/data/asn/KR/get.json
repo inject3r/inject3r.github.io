@@ -85376,6 +85376,14 @@
     "domain": "moack.net"
   },
   {
+    "network": "143.14.82.0/23",
+    "asn": "138195",
+    "country_code": "KR",
+    "name": "MOACKCOLTD-AS-AP",
+    "org": "MOACK.Co.LTD",
+    "domain": "moack.net"
+  },
+  {
     "network": "154.208.168.0/22",
     "asn": "138195",
     "country_code": "KR",
@@ -113544,6 +113552,22 @@
     "domain": "gbe.kr"
   },
   {
+    "network": "210.95.126.0/24",
+    "asn": "9871",
+    "country_code": "KR",
+    "name": "KBE-AS-KR",
+    "org": "Gyeong Sang Buk-Do Office of Education",
+    "domain": "gbe.kr"
+  },
+  {
+    "network": "210.95.130.0/24",
+    "asn": "9871",
+    "country_code": "KR",
+    "name": "KBE-AS-KR",
+    "org": "Gyeong Sang Buk-Do Office of Education",
+    "domain": "gbe.kr"
+  },
+  {
     "network": "58.65.64.0/18",
     "asn": "9694",
     "country_code": "KR",
@@ -125729,6 +125753,30 @@
   },
   {
     "network": "203.247.32.0/19",
+    "asn": "9775",
+    "country_code": "KR",
+    "name": "HANNAM-AS",
+    "org": "Hannam University",
+    "domain": "hnu.kr"
+  },
+  {
+    "network": "203.247.34.0/24",
+    "asn": "9775",
+    "country_code": "KR",
+    "name": "HANNAM-AS",
+    "org": "Hannam University",
+    "domain": "hnu.kr"
+  },
+  {
+    "network": "203.247.39.0/24",
+    "asn": "9775",
+    "country_code": "KR",
+    "name": "HANNAM-AS",
+    "org": "Hannam University",
+    "domain": "hnu.kr"
+  },
+  {
+    "network": "203.247.42.0/24",
     "asn": "9775",
     "country_code": "KR",
     "name": "HANNAM-AS",
@@ -150320,422 +150368,6 @@
     "domain": "navox.kr"
   },
   {
-    "network": "119.27.192.0/20",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "119.27.240.0/20",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.128.0/19",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.128.0/20",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.128.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.132.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.136.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.140.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.144.0/20",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.144.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.148.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.152.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.156.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.240.0/20",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.240.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.244.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.248.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "122.0.252.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.0.0/19",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.0.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.4.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.8.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.12.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.16.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.20.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.24.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.28.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.112.0/20",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.112.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.116.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.120.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.124.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.224.0/20",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.224.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.228.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.232.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.20.236.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.64.0/20",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.64.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.68.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.72.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.76.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.128.0/20",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.128.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.132.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.136.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.140.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.192.0/20",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.192.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.196.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.200.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
-    "network": "124.21.204.0/22",
-    "asn": "210528",
-    "country_code": "KR",
-    "name": "Navox",
-    "org": "Navox co.,Ltd",
-    "domain": "navox.kr"
-  },
-  {
     "network": "124.68.0.0/22",
     "asn": "210528",
     "country_code": "KR",
@@ -165488,6 +165120,22 @@
     "domain": "knbank.co.kr"
   },
   {
+    "network": "119.27.192.0/20",
+    "asn": "9961",
+    "country_code": "KR",
+    "name": "FSB-AS-KR",
+    "org": "KoreaFederationOfSavingsBanks",
+    "domain": "fsb.or.kr"
+  },
+  {
+    "network": "119.27.240.0/20",
+    "asn": "9961",
+    "country_code": "KR",
+    "name": "FSB-AS-KR",
+    "org": "KoreaFederationOfSavingsBanks",
+    "domain": "fsb.or.kr"
+  },
+  {
     "network": "119.30.128.0/18",
     "asn": "152205",
     "country_code": "KR",
@@ -167400,6 +167048,134 @@
     "domain": "klnet.co.kr"
   },
   {
+    "network": "122.0.128.0/19",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.128.0/20",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.128.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.132.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.136.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.140.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.144.0/20",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.144.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.148.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.152.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.156.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.240.0/20",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.240.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.244.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.248.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
+    "network": "122.0.252.0/22",
+    "asn": "131831",
+    "country_code": "KR",
+    "name": "NEXONKOREA-AS-KR-KR",
+    "org": "",
+    "domain": ""
+  },
+  {
     "network": "123.140.121.0/24",
     "asn": "18338",
     "country_code": "KR",
@@ -167534,6 +167310,278 @@
     "name": "GOEPC-AS-KR",
     "org": "Pocheon Office of Education",
     "domain": "korea.kr"
+  },
+  {
+    "network": "124.20.0.0/19",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.0.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.4.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.8.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.12.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.16.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.20.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.24.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.28.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.112.0/20",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.112.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.116.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.120.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.124.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.224.0/20",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.224.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.228.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.232.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.20.236.0/22",
+    "asn": "55595",
+    "country_code": "KR",
+    "name": "AIAKR-AS-KR",
+    "org": "American International Assurance Company Korea",
+    "domain": "aia.com"
+  },
+  {
+    "network": "124.21.64.0/20",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.64.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.68.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.72.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.76.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.128.0/20",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.128.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.132.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.136.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.140.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.192.0/20",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.192.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.196.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.200.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
+  },
+  {
+    "network": "124.21.204.0/22",
+    "asn": "9687",
+    "country_code": "KR",
+    "name": "ICU-AS",
+    "org": "Korea Advanced Institute of Science and Technology",
+    "domain": "kaist.ac.kr"
   },
   {
     "network": "124.111.246.0/24",
@@ -170710,14 +170758,6 @@
     "name": "WEBZEN-AS-KR",
     "org": "Webzen Inc.",
     "domain": "webzen.com"
-  },
-  {
-    "network": "142.248.230.0/24",
-    "asn": "201666",
-    "country_code": "KR",
-    "name": "YSSOFT",
-    "org": "Yoonsu Son trading as YSSOFT",
-    "domain": "ys-soft.kr"
   },
   {
     "network": "142.249.57.0/24",

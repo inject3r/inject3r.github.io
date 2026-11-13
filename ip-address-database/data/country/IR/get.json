@@ -282,7 +282,7 @@
     "country_name": "Iran"
   },
   {
-    "network": "5.160.32.160/27",
+    "network": "5.160.32.128/26",
     "continent_code": "AS",
     "country_code": "IR",
     "country_name": "Iran"
@@ -1758,7 +1758,31 @@
     "country_name": "Iran"
   },
   {
-    "network": "46.209.0.0/19",
+    "network": "46.209.0.0/21",
+    "continent_code": "AS",
+    "country_code": "IR",
+    "country_name": "Iran"
+  },
+  {
+    "network": "46.209.8.0/23",
+    "continent_code": "AS",
+    "country_code": "IR",
+    "country_name": "Iran"
+  },
+  {
+    "network": "46.209.10.0/24",
+    "continent_code": "AS",
+    "country_code": "IR",
+    "country_name": "Iran"
+  },
+  {
+    "network": "46.209.12.0/22",
+    "continent_code": "AS",
+    "country_code": "IR",
+    "country_name": "Iran"
+  },
+  {
+    "network": "46.209.16.0/20",
     "continent_code": "AS",
     "country_code": "IR",
     "country_name": "Iran"
@@ -1788,7 +1812,7 @@
     "country_name": "Iran"
   },
   {
-    "network": "46.209.38.224/28",
+    "network": "46.209.38.232/29",
     "continent_code": "AS",
     "country_code": "IR",
     "country_name": "Iran"
@@ -2352,12 +2376,6 @@
     "country_name": "Iran"
   },
   {
-    "network": "77.42.49.82/32",
-    "continent_code": "AS",
-    "country_code": "IR",
-    "country_name": "Iran"
-  },
-  {
     "network": "77.72.80.0/24",
     "continent_code": "AS",
     "country_code": "IR",
@@ -2454,13 +2472,7 @@
     "country_name": "Iran"
   },
   {
-    "network": "77.104.82.0/27",
-    "continent_code": "AS",
-    "country_code": "IR",
-    "country_name": "Iran"
-  },
-  {
-    "network": "77.104.83.0/24",
+    "network": "77.104.83.128/26",
     "continent_code": "AS",
     "country_code": "IR",
     "country_name": "Iran"
@@ -5238,7 +5250,7 @@
     "country_name": "Iran"
   },
   {
-    "network": "92.242.194.64/26",
+    "network": "92.242.194.64/27",
     "continent_code": "AS",
     "country_code": "IR",
     "country_name": "Iran"
@@ -5778,6 +5790,12 @@
     "country_name": "Iran"
   },
   {
+    "network": "94.183.160.0/24",
+    "continent_code": "AS",
+    "country_code": "IR",
+    "country_name": "Iran"
+  },
+  {
     "network": "94.183.162.0/23",
     "continent_code": "AS",
     "country_code": "IR",
@@ -5845,6 +5863,12 @@
   },
   {
     "network": "94.183.216.0/24",
+    "continent_code": "AS",
+    "country_code": "IR",
+    "country_name": "Iran"
+  },
+  {
+    "network": "94.183.218.0/24",
     "continent_code": "AS",
     "country_code": "IR",
     "country_name": "Iran"
@@ -6859,12 +6883,6 @@
   },
   {
     "network": "176.10.95.0/24",
-    "continent_code": "AS",
-    "country_code": "IR",
-    "country_name": "Iran"
-  },
-  {
-    "network": "176.46.132.0/23",
     "continent_code": "AS",
     "country_code": "IR",
     "country_name": "Iran"
@@ -11641,12 +11659,6 @@
   },
   {
     "network": "193.222.51.0/24",
-    "continent_code": "AS",
-    "country_code": "IR",
-    "country_name": "Iran"
-  },
-  {
-    "network": "193.228.90.0/24",
     "continent_code": "AS",
     "country_code": "IR",
     "country_name": "Iran"
@@ -18463,6 +18475,18 @@
   },
   {
     "network": "2600:70ff:d0b6::/48",
+    "continent_code": "AS",
+    "country_code": "IR",
+    "country_name": "Iran"
+  },
+  {
+    "network": "2602:f3f0:150::/48",
+    "continent_code": "AS",
+    "country_code": "IR",
+    "country_name": "Iran"
+  },
+  {
+    "network": "2602:f3f0:1f5::/48",
     "continent_code": "AS",
     "country_code": "IR",
     "country_name": "Iran"
@@ -25920,7 +25944,7 @@
     "country_name": "Iran"
   },
   {
-    "network": "2a0e:4003:bba8:8c72::/64",
+    "network": "2a0e:4003:bb2e:808f::/64",
     "continent_code": "AS",
     "country_code": "IR",
     "country_name": "Iran"

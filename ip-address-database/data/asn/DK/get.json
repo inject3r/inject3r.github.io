@@ -1936,30 +1936,6 @@
     "domain": "globalconnect.dk"
   },
   {
-    "network": "46.32.156.0/22",
-    "asn": "31027",
-    "country_code": "DK",
-    "name": "GlobalConnect-AS31027",
-    "org": "GlobalConnect A/S",
-    "domain": "globalconnect.dk"
-  },
-  {
-    "network": "62.12.32.0/20",
-    "asn": "31027",
-    "country_code": "DK",
-    "name": "GlobalConnect-AS31027",
-    "org": "GlobalConnect A/S",
-    "domain": "globalconnect.dk"
-  },
-  {
-    "network": "62.12.48.0/21",
-    "asn": "31027",
-    "country_code": "DK",
-    "name": "GlobalConnect-AS31027",
-    "org": "GlobalConnect A/S",
-    "domain": "globalconnect.dk"
-  },
-  {
     "network": "62.116.192.0/19",
     "asn": "31027",
     "country_code": "DK",
@@ -2065,14 +2041,6 @@
   },
   {
     "network": "85.202.64.0/20",
-    "asn": "31027",
-    "country_code": "DK",
-    "name": "GlobalConnect-AS31027",
-    "org": "GlobalConnect A/S",
-    "domain": "globalconnect.dk"
-  },
-  {
-    "network": "87.104.192.0/19",
     "asn": "31027",
     "country_code": "DK",
     "name": "GlobalConnect-AS31027",
@@ -2809,14 +2777,6 @@
   },
   {
     "network": "195.93.176.0/23",
-    "asn": "31027",
-    "country_code": "DK",
-    "name": "GlobalConnect-AS31027",
-    "org": "GlobalConnect A/S",
-    "domain": "globalconnect.dk"
-  },
-  {
-    "network": "195.93.182.0/23",
     "asn": "31027",
     "country_code": "DK",
     "name": "GlobalConnect-AS31027",
@@ -9152,14 +9112,6 @@
     "domain": "keepit.com"
   },
   {
-    "network": "92.43.88.0/21",
-    "asn": "9120",
-    "country_code": "DK",
-    "name": "KEEPIT-DK-CPH",
-    "org": "Keepit A/S",
-    "domain": "keepit.com"
-  },
-  {
     "network": "92.43.89.0/24",
     "asn": "9120",
     "country_code": "DK",
@@ -9534,6 +9486,46 @@
     "name": "noerdnet",
     "org": "Netnoerden ApS",
     "domain": "noerdnet.dk"
+  },
+  {
+    "network": "81.23.128.0/20",
+    "asn": "33796",
+    "country_code": "DK",
+    "name": "BNAA-AS",
+    "org": "BOLIGNET-AARHUS F.M.B.A.",
+    "domain": "bnaa.dk"
+  },
+  {
+    "network": "84.238.0.0/17",
+    "asn": "33796",
+    "country_code": "DK",
+    "name": "BNAA-AS",
+    "org": "BOLIGNET-AARHUS F.M.B.A.",
+    "domain": "bnaa.dk"
+  },
+  {
+    "network": "185.197.168.0/22",
+    "asn": "33796",
+    "country_code": "DK",
+    "name": "BNAA-AS",
+    "org": "BOLIGNET-AARHUS F.M.B.A.",
+    "domain": "bnaa.dk"
+  },
+  {
+    "network": "194.8.242.0/23",
+    "asn": "33796",
+    "country_code": "DK",
+    "name": "BNAA-AS",
+    "org": "BOLIGNET-AARHUS F.M.B.A.",
+    "domain": "bnaa.dk"
+  },
+  {
+    "network": "194.28.24.0/22",
+    "asn": "33796",
+    "country_code": "DK",
+    "name": "BNAA-AS",
+    "org": "BOLIGNET-AARHUS F.M.B.A.",
+    "domain": "bnaa.dk"
   },
   {
     "network": "81.161.96.0/23",
@@ -10134,38 +10126,6 @@
     "name": "AS-KRUSESEC",
     "org": "Peter Kruse",
     "domain": "krusesecurity.eu"
-  },
-  {
-    "network": "84.238.0.0/17",
-    "asn": "33796",
-    "country_code": "DK",
-    "name": "BNAA-AS",
-    "org": "BOLIGNET-AARHUS F.M.B.A.",
-    "domain": "bnaa.dk"
-  },
-  {
-    "network": "185.197.168.0/22",
-    "asn": "33796",
-    "country_code": "DK",
-    "name": "BNAA-AS",
-    "org": "BOLIGNET-AARHUS F.M.B.A.",
-    "domain": "bnaa.dk"
-  },
-  {
-    "network": "194.8.242.0/23",
-    "asn": "33796",
-    "country_code": "DK",
-    "name": "BNAA-AS",
-    "org": "BOLIGNET-AARHUS F.M.B.A.",
-    "domain": "bnaa.dk"
-  },
-  {
-    "network": "194.28.24.0/22",
-    "asn": "33796",
-    "country_code": "DK",
-    "name": "BNAA-AS",
-    "org": "BOLIGNET-AARHUS F.M.B.A.",
-    "domain": "bnaa.dk"
   },
   {
     "network": "84.246.242.0/24",
@@ -13377,6 +13337,22 @@
   },
   {
     "network": "2a05:f3c0:10::/48",
+    "asn": "197996",
+    "country_code": "DK",
+    "name": "onlinegateway",
+    "org": "ONLINE GATEWAY ApS",
+    "domain": "onlinegateway.net"
+  },
+  {
+    "network": "2a05:f3c1::/48",
+    "asn": "197996",
+    "country_code": "DK",
+    "name": "onlinegateway",
+    "org": "ONLINE GATEWAY ApS",
+    "domain": "onlinegateway.net"
+  },
+  {
+    "network": "2a05:f3c2::/48",
     "asn": "197996",
     "country_code": "DK",
     "name": "onlinegateway",

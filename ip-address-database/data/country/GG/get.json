@@ -42,7 +42,7 @@
     "country_name": "Guernsey"
   },
   {
-    "network": "46.31.240.0/23",
+    "network": "46.31.240.0/24",
     "continent_code": "EU",
     "country_code": "GG",
     "country_name": "Guernsey"
@@ -2250,6 +2250,12 @@
     "country_name": "Guernsey"
   },
   {
+    "network": "2a0a:6044:f4e8::/47",
+    "continent_code": "EU",
+    "country_code": "GG",
+    "country_name": "Guernsey"
+  },
+  {
     "network": "2001:470:1868::/48",
     "continent_code": "EU",
     "country_code": "GG",
@@ -2287,6 +2293,12 @@
   },
   {
     "network": "2600:70ff:a41a::/48",
+    "continent_code": "EU",
+    "country_code": "GG",
+    "country_name": "Guernsey"
+  },
+  {
+    "network": "2602:f3f0:1b6::/48",
     "continent_code": "EU",
     "country_code": "GG",
     "country_name": "Guernsey"
@@ -2682,7 +2694,7 @@
     "country_name": "Guernsey"
   },
   {
-    "network": "2a0e:4003:bb79:6d44::/64",
+    "network": "2a0e:4003:bb1c:6283::/64",
     "continent_code": "EU",
     "country_code": "GG",
     "country_name": "Guernsey"

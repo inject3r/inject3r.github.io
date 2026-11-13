@@ -6000,7 +6000,7 @@
     "domain": "velia.net"
   },
   {
-    "network": "92.204.184.0/24",
+    "network": "92.204.184.0/21",
     "asn": "29066",
     "country_code": "DE",
     "name": "VELIANET-AS",
@@ -6105,6 +6105,14 @@
   },
   {
     "network": "103.66.180.0/22",
+    "asn": "29066",
+    "country_code": "DE",
+    "name": "VELIANET-AS",
+    "org": "velia.net Internetdienste GmbH",
+    "domain": "velia.net"
+  },
+  {
+    "network": "103.66.181.0/24",
     "asn": "29066",
     "country_code": "DE",
     "name": "VELIANET-AS",
@@ -17744,6 +17752,14 @@
     "domain": "telekom.de"
   },
   {
+    "network": "164.19.0.0/16",
+    "asn": "3320",
+    "country_code": "DE",
+    "name": "DTAG",
+    "org": "Deutsche Telekom AG",
+    "domain": "telekom.de"
+  },
+  {
     "network": "164.133.10.0/24",
     "asn": "3320",
     "country_code": "DE",
@@ -28336,14 +28352,6 @@
     "domain": "bitel.de"
   },
   {
-    "network": "212.100.46.0/23",
-    "asn": "198967",
-    "country_code": "DE",
-    "name": "BITel-Gesellschaft-fuer-Telekommunikation-AS",
-    "org": "BITel Gesellschaft fuer Telekommunikation mbH",
-    "domain": "bitel.de"
-  },
-  {
     "network": "212.100.48.0/21",
     "asn": "198967",
     "country_code": "DE",
@@ -29873,6 +29881,14 @@
   },
   {
     "network": "92.51.180.0/22",
+    "asn": "20773",
+    "country_code": "DE",
+    "name": "GODADDY",
+    "org": "Host Europe GmbH",
+    "domain": "hosteurope.de"
+  },
+  {
+    "network": "92.204.208.0/24",
     "asn": "20773",
     "country_code": "DE",
     "name": "GODADDY",
@@ -38040,6 +38056,14 @@
     "domain": "prego-services.de"
   },
   {
+    "network": "5.63.182.0/23",
+    "asn": "61310",
+    "country_code": "DE",
+    "name": "PREGO",
+    "org": "prego services GmbH",
+    "domain": "prego-services.de"
+  },
+  {
     "network": "2a04:5d80::/30",
     "asn": "61310",
     "country_code": "DE",
@@ -39752,14 +39776,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "5.83.158.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "5.175.129.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -39777,14 +39793,6 @@
   },
   {
     "network": "5.175.133.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "5.175.138.0/24",
     "asn": "12586",
     "country_code": "DE",
     "name": "ASGHOSTNET",
@@ -39905,14 +39913,6 @@
   },
   {
     "network": "5.175.232.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "5.175.235.0/24",
     "asn": "12586",
     "country_code": "DE",
     "name": "ASGHOSTNET",
@@ -40097,14 +40097,6 @@
   },
   {
     "network": "5.230.14.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "5.230.15.0/24",
     "asn": "12586",
     "country_code": "DE",
     "name": "ASGHOSTNET",
@@ -42344,14 +42336,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "5.231.202.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "5.231.205.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -42577,14 +42561,6 @@
   },
   {
     "network": "77.90.32.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "77.90.47.0/24",
     "asn": "12586",
     "country_code": "DE",
     "name": "ASGHOSTNET",
@@ -43248,30 +43224,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "178.18.156.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "178.18.157.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "178.18.158.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "185.13.156.0/22",
     "asn": "12586",
     "country_code": "DE",
@@ -43369,14 +43321,6 @@
   },
   {
     "network": "195.95.219.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "195.110.15.0/24",
     "asn": "12586",
     "country_code": "DE",
     "name": "ASGHOSTNET",
@@ -44662,6 +44606,238 @@
     "name": "MAM-JAHN",
     "org": "Marco Andreas Martin Jahn",
     "domain": "mam-jahn.de"
+  },
+  {
+    "network": "5.83.158.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "5.231.117.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "5.231.118.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "5.231.119.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "5.231.123.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "77.90.15.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "77.90.52.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "77.90.60.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "77.90.61.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "77.90.63.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "85.93.2.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "94.249.177.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "94.249.178.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "94.249.179.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "94.249.184.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "94.249.186.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "94.249.187.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "94.249.188.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "94.249.189.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "94.249.195.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "94.249.198.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "178.18.158.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "195.110.15.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "217.69.167.0/24",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "2a09:3f00:1007::/48",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "2a09:3f00:1008::/48",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "2a09:3f00:1009::/48",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "2a09:3f00:3000::/40",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
+  },
+  {
+    "network": "2a14:7c0:1000::/38",
+    "asn": "215365",
+    "country_code": "DE",
+    "name": "Threatoff",
+    "org": "Tom Gewiese",
+    "domain": "threatoff.eu"
   },
   {
     "network": "5.83.176.0/20",
@@ -50288,6 +50464,14 @@
     "domain": "dotnic.de"
   },
   {
+    "network": "2a14:6782:103::/48",
+    "asn": "215685",
+    "country_code": "DE",
+    "name": "Nexus",
+    "org": "Maik Sussdorf",
+    "domain": "dotnic.de"
+  },
+  {
     "network": "5.175.246.0/24",
     "asn": "198997",
     "country_code": "DE",
@@ -50297,6 +50481,14 @@
   },
   {
     "network": "94.249.252.0/24",
+    "asn": "198997",
+    "country_code": "DE",
+    "name": "NoahAS",
+    "org": "Noah Pohlmann",
+    "domain": "noahpohlmann.de"
+  },
+  {
+    "network": "2a09:3f00:1005::/48",
     "asn": "198997",
     "country_code": "DE",
     "name": "NoahAS",
@@ -50969,6 +51161,14 @@
   },
   {
     "network": "194.35.188.0/23",
+    "asn": "9063",
+    "country_code": "DE",
+    "name": "SAARGATE-AS",
+    "org": "VSE NET GmbH",
+    "domain": "vsenet.de"
+  },
+  {
+    "network": "194.48.193.0/24",
     "asn": "9063",
     "country_code": "DE",
     "name": "SAARGATE-AS",
@@ -52041,6 +52241,14 @@
   },
   {
     "network": "2a02:c98:1200::/40",
+    "asn": "48918",
+    "country_code": "DE",
+    "name": "GLOBALWAYS",
+    "org": "Globalways GmbH",
+    "domain": "globalways.net"
+  },
+  {
+    "network": "2a06:fbc0::/29",
     "asn": "48918",
     "country_code": "DE",
     "name": "GLOBALWAYS",
@@ -54518,214 +54726,6 @@
     "name": "TMW-Global-Networks",
     "org": "Tizian Maxime Weigt trading as \"TMW Global Networks\"",
     "domain": "t-w.dev"
-  },
-  {
-    "network": "5.231.117.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "5.231.118.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "5.231.119.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "5.231.123.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "77.90.15.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "77.90.52.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "77.90.60.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "77.90.61.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "77.90.63.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "85.93.2.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "94.249.177.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "94.249.178.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "94.249.179.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "94.249.184.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "94.249.186.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "94.249.187.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "94.249.188.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "94.249.189.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "94.249.195.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "94.249.198.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "217.69.167.0/24",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "2a09:3f00:1007::/48",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "2a09:3f00:1008::/48",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "2a09:3f00:1009::/48",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "2a09:3f00:3000::/40",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
-  },
-  {
-    "network": "2a14:7c0:1000::/38",
-    "asn": "215365",
-    "country_code": "DE",
-    "name": "Threatoff",
-    "org": "Tom Gewiese",
-    "domain": "threatoff.eu"
   },
   {
     "network": "5.231.122.0/24",
@@ -72608,6 +72608,174 @@
     "domain": "souverit.de"
   },
   {
+    "network": "31.58.188.0/24",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "91.201.87.0/24",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "146.255.189.0/24",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "193.178.226.0/24",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "193.200.78.0/24",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "212.46.33.0/24",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a0f:9b40::/29",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a13:bb40::/29",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:1100::/29",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:6a40::/29",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c380:2c::/48",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c380:2d::/48",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c380:31::/48",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c380:32::/48",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c380:33::/48",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c380:3000::/40",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c380:4000::/40",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c380:5000::/40",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c380:6000::/40",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c381::/32",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
+    "network": "2a14:c382::/32",
+    "asn": "216078",
+    "country_code": "DE",
+    "name": "KREMER-AS",
+    "org": "Liam Kremer",
+    "domain": "trivox.sh"
+  },
+  {
     "network": "31.58.216.0/24",
     "asn": "200912",
     "country_code": "DE",
@@ -77040,14 +77208,6 @@
     "domain": "my-wire.de"
   },
   {
-    "network": "128.0.154.0/24",
-    "asn": "59675",
-    "country_code": "DE",
-    "name": "MYWIRENET-AS",
-    "org": "mywire Datentechnik GmbH",
-    "domain": "my-wire.de"
-  },
-  {
     "network": "185.5.8.0/23",
     "asn": "59675",
     "country_code": "DE",
@@ -77089,14 +77249,6 @@
   },
   {
     "network": "2a02:45c0:3::/48",
-    "asn": "59675",
-    "country_code": "DE",
-    "name": "MYWIRENET-AS",
-    "org": "mywire Datentechnik GmbH",
-    "domain": "my-wire.de"
-  },
-  {
-    "network": "2a02:45c0:8::/48",
     "asn": "59675",
     "country_code": "DE",
     "name": "MYWIRENET-AS",
@@ -77625,6 +77777,14 @@
   },
   {
     "network": "213.144.0.0/19",
+    "asn": "12843",
+    "country_code": "DE",
+    "name": "TELEMAXX",
+    "org": "TelemaxX Telekommunikation GmbH",
+    "domain": "telemaxx.de"
+  },
+  {
+    "network": "217.25.133.0/24",
     "asn": "12843",
     "country_code": "DE",
     "name": "TELEMAXX",
@@ -81936,14 +82096,6 @@
     "domain": "soprado.com"
   },
   {
-    "network": "141.90.15.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
     "network": "185.5.80.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -82128,7 +82280,7 @@
     "domain": "soprado.com"
   },
   {
-    "network": "195.128.40.0/24",
+    "network": "194.147.207.0/24",
     "asn": "20546",
     "country_code": "DE",
     "name": "SOPRADO-ANY",
@@ -82136,7 +82288,7 @@
     "domain": "soprado.com"
   },
   {
-    "network": "195.135.183.0/24",
+    "network": "195.128.40.0/24",
     "asn": "20546",
     "country_code": "DE",
     "name": "SOPRADO-ANY",
@@ -84416,6 +84568,22 @@
     "domain": "pio.hosting"
   },
   {
+    "network": "94.118.211.0/24",
+    "asn": "198584",
+    "country_code": "DE",
+    "name": "PIO-Hosting",
+    "org": "PIO-Hosting GmbH",
+    "domain": "pio.hosting"
+  },
+  {
+    "network": "94.118.213.0/24",
+    "asn": "198584",
+    "country_code": "DE",
+    "name": "PIO-Hosting",
+    "org": "PIO-Hosting GmbH",
+    "domain": "pio.hosting"
+  },
+  {
     "network": "103.161.34.0/23",
     "asn": "198584",
     "country_code": "DE",
@@ -84441,14 +84609,6 @@
   },
   {
     "network": "147.79.0.0/24",
-    "asn": "198584",
-    "country_code": "DE",
-    "name": "PIO-Hosting",
-    "org": "PIO-Hosting GmbH",
-    "domain": "pio.hosting"
-  },
-  {
-    "network": "151.245.219.0/24",
     "asn": "198584",
     "country_code": "DE",
     "name": "PIO-Hosting",
@@ -84513,14 +84673,6 @@
   },
   {
     "network": "176.65.136.0/24",
-    "asn": "198584",
-    "country_code": "DE",
-    "name": "PIO-Hosting",
-    "org": "PIO-Hosting GmbH",
-    "domain": "pio.hosting"
-  },
-  {
-    "network": "181.214.121.0/24",
     "asn": "198584",
     "country_code": "DE",
     "name": "PIO-Hosting",
@@ -98472,6 +98624,14 @@
     "domain": "sim-networks.com"
   },
   {
+    "network": "217.11.170.0/24",
+    "asn": "200081",
+    "country_code": "DE",
+    "name": "SIM-Networks",
+    "org": "Netversor GmbH",
+    "domain": "sim-networks.com"
+  },
+  {
     "network": "2a02:6aa0::/32",
     "asn": "200081",
     "country_code": "DE",
@@ -99768,6 +99928,22 @@
     "domain": "itdpk.de"
   },
   {
+    "network": "2a07:54c4:19a1::/48",
+    "asn": "215459",
+    "country_code": "DE",
+    "name": "VYRT-AS",
+    "org": "Pascal Kutscha",
+    "domain": "itdpk.de"
+  },
+  {
+    "network": "2a07:54c4:19a2::/48",
+    "asn": "215459",
+    "country_code": "DE",
+    "name": "VYRT-AS",
+    "org": "Pascal Kutscha",
+    "domain": "itdpk.de"
+  },
+  {
     "network": "45.146.132.0/22",
     "asn": "200567",
     "country_code": "DE",
@@ -101041,14 +101217,6 @@
   },
   {
     "network": "217.180.58.0/24",
-    "asn": "59745",
-    "country_code": "DE",
-    "name": "AtlasEdge",
-    "org": "AE Technology Services Germany GmbH",
-    "domain": "atlasedge.com"
-  },
-  {
-    "network": "2a06:fbc0::/29",
     "asn": "59745",
     "country_code": "DE",
     "name": "AtlasEdge",
@@ -104224,6 +104392,14 @@
     "domain": "t-systems.com"
   },
   {
+    "network": "46.29.103.0/24",
+    "asn": "34086",
+    "country_code": "DE",
+    "name": "SCZN-AS",
+    "org": "T-Systems International GmbH",
+    "domain": "t-systems.com"
+  },
+  {
     "network": "80.158.64.0/21",
     "asn": "34086",
     "country_code": "DE",
@@ -104297,6 +104473,14 @@
   },
   {
     "network": "160.44.224.0/19",
+    "asn": "34086",
+    "country_code": "DE",
+    "name": "SCZN-AS",
+    "org": "T-Systems International GmbH",
+    "domain": "t-systems.com"
+  },
+  {
+    "network": "160.44.249.0/24",
     "asn": "34086",
     "country_code": "DE",
     "name": "SCZN-AS",
@@ -106150,6 +106334,182 @@
     "name": "ADACOR-AS",
     "org": "Adacor Hosting GmbH",
     "domain": "adacor.com"
+  },
+  {
+    "network": "46.174.134.0/24",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "62.221.232.0/21",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "62.221.240.0/21",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "81.173.6.0/24",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "91.228.150.0/24",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "91.231.204.0/24",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "93.157.143.0/24",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "149.232.48.0/20",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "156.67.59.0/24",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "157.97.98.0/23",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "157.97.146.0/23",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "159.100.48.0/24",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "185.11.56.0/22",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "185.19.9.0/24",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "185.154.112.0/22",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "185.217.52.0/22",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "185.249.168.0/22",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "194.24.230.0/24",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "194.45.52.0/22",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "194.156.86.0/24",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "212.23.128.0/19",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
+  },
+  {
+    "network": "2001:7d8::/32",
+    "asn": "12329",
+    "country_code": "DE",
+    "name": "TMR",
+    "org": "GLASFASER RUHR GmbH & Co. KG",
+    "domain": "glasfaser-ruhr.net"
   },
   {
     "network": "46.175.133.0/24",
@@ -114832,174 +115192,6 @@
     "domain": "rh-tec.de"
   },
   {
-    "network": "62.221.232.0/21",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "62.221.240.0/21",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "81.173.6.0/24",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "91.228.150.0/24",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "91.231.204.0/24",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "93.157.143.0/24",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "149.232.48.0/20",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "156.67.59.0/24",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "157.97.98.0/23",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "157.97.146.0/23",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "159.100.48.0/24",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "185.11.56.0/22",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "185.19.9.0/24",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "185.154.112.0/22",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "185.217.52.0/22",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "185.249.168.0/22",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "194.24.230.0/24",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "194.45.52.0/22",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "194.156.86.0/24",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "212.23.128.0/19",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
-    "network": "2001:7d8::/32",
-    "asn": "12329",
-    "country_code": "DE",
-    "name": "TMR",
-    "org": "GLASFASER RUHR GmbH & Co. KG",
-    "domain": "glasfaser-ruhr.net"
-  },
-  {
     "network": "63.244.241.0/24",
     "asn": "49274",
     "country_code": "DE",
@@ -123112,14 +123304,6 @@
     "domain": "telekom.de"
   },
   {
-    "network": "80.159.234.0/24",
-    "asn": "2792",
-    "country_code": "DE",
-    "name": "TERASTREAM-AS",
-    "org": "Deutsche Telekom AG",
-    "domain": "telekom.de"
-  },
-  {
     "network": "80.159.235.0/24",
     "asn": "2792",
     "country_code": "DE",
@@ -123144,14 +123328,6 @@
     "domain": "telekom.de"
   },
   {
-    "network": "80.159.238.0/23",
-    "asn": "2792",
-    "country_code": "DE",
-    "name": "TERASTREAM-AS",
-    "org": "Deutsche Telekom AG",
-    "domain": "telekom.de"
-  },
-  {
     "network": "80.159.238.0/24",
     "asn": "2792",
     "country_code": "DE",
@@ -123160,47 +123336,7 @@
     "domain": "telekom.de"
   },
   {
-    "network": "80.159.240.0/23",
-    "asn": "2792",
-    "country_code": "DE",
-    "name": "TERASTREAM-AS",
-    "org": "Deutsche Telekom AG",
-    "domain": "telekom.de"
-  },
-  {
-    "network": "80.159.242.0/24",
-    "asn": "2792",
-    "country_code": "DE",
-    "name": "TERASTREAM-AS",
-    "org": "Deutsche Telekom AG",
-    "domain": "telekom.de"
-  },
-  {
-    "network": "80.159.243.0/24",
-    "asn": "2792",
-    "country_code": "DE",
-    "name": "TERASTREAM-AS",
-    "org": "Deutsche Telekom AG",
-    "domain": "telekom.de"
-  },
-  {
     "network": "80.159.245.0/24",
-    "asn": "2792",
-    "country_code": "DE",
-    "name": "TERASTREAM-AS",
-    "org": "Deutsche Telekom AG",
-    "domain": "telekom.de"
-  },
-  {
-    "network": "80.159.246.0/24",
-    "asn": "2792",
-    "country_code": "DE",
-    "name": "TERASTREAM-AS",
-    "org": "Deutsche Telekom AG",
-    "domain": "telekom.de"
-  },
-  {
-    "network": "80.159.247.0/24",
     "asn": "2792",
     "country_code": "DE",
     "name": "TERASTREAM-AS",
@@ -127736,14 +127872,6 @@
     "domain": "bertelsmann.de"
   },
   {
-    "network": "91.209.92.0/24",
-    "asn": "33873",
-    "country_code": "DE",
-    "name": "arvato-systems-AS",
-    "org": "Arvato Systems GmbH",
-    "domain": "bertelsmann.de"
-  },
-  {
     "network": "109.235.136.0/21",
     "asn": "33873",
     "country_code": "DE",
@@ -129129,14 +129257,6 @@
   },
   {
     "network": "84.201.98.0/24",
-    "asn": "57837",
-    "country_code": "DE",
-    "name": "DTS-Berlin",
-    "org": "DTS Systeme GmbH",
-    "domain": "dts-online.net"
-  },
-  {
-    "network": "2a00:1348:10::/48",
     "asn": "57837",
     "country_code": "DE",
     "name": "DTS-Berlin",
@@ -135056,14 +135176,6 @@
     "domain": "all.de"
   },
   {
-    "network": "2001:bf0::/29",
-    "asn": "12732",
-    "country_code": "DE",
-    "name": "GUTCON-NET",
-    "org": "GutCon GmbH",
-    "domain": "all.de"
-  },
-  {
     "network": "2001:bf0::/32",
     "asn": "12732",
     "country_code": "DE",
@@ -135094,166 +135206,6 @@
     "name": "SAMSUNG-SDS-EUROPE",
     "org": "Samsung SDS Europe Ltd. German Branch Zweigniederlassung Deutschland",
     "domain": "samsung.de"
-  },
-  {
-    "network": "91.201.87.0/24",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "146.255.189.0/24",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "193.178.226.0/24",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "193.200.78.0/24",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "212.46.33.0/24",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a0f:9b40::/29",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a13:bb40::/29",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:1100::/29",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:6a40::/29",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c380:2c::/48",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c380:2d::/48",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c380:31::/48",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c380:32::/48",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c380:33::/48",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c380:3000::/40",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c380:4000::/40",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c380:5000::/40",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c380:6000::/40",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c381::/32",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
-  },
-  {
-    "network": "2a14:c382::/32",
-    "asn": "216078",
-    "country_code": "DE",
-    "name": "KREMER-AS",
-    "org": "Liam Kremer",
-    "domain": "trivox.sh"
   },
   {
     "network": "91.201.100.0/22",
@@ -136505,6 +136457,14 @@
   },
   {
     "network": "141.78.100.0/22",
+    "asn": "20570",
+    "country_code": "DE",
+    "name": "ASN-TSI-IPLS",
+    "org": "Telekom Deutschland GmbH",
+    "domain": "t-systems.com"
+  },
+  {
+    "network": "161.145.171.0/24",
     "asn": "20570",
     "country_code": "DE",
     "name": "ASN-TSI-IPLS",
@@ -142728,14 +142688,6 @@
     "domain": "professional-internet.de"
   },
   {
-    "network": "94.125.208.0/21",
-    "asn": "34722",
-    "country_code": "DE",
-    "name": "RKU",
-    "org": "rku.it GmbH",
-    "domain": "rku-it.de"
-  },
-  {
     "network": "94.125.208.0/24",
     "asn": "34722",
     "country_code": "DE",
@@ -142793,14 +142745,6 @@
   },
   {
     "network": "94.125.215.0/24",
-    "asn": "34722",
-    "country_code": "DE",
-    "name": "RKU",
-    "org": "rku.it GmbH",
-    "domain": "rku-it.de"
-  },
-  {
-    "network": "185.160.16.0/22",
     "asn": "34722",
     "country_code": "DE",
     "name": "RKU",
@@ -149640,14 +149584,6 @@
     "domain": "uni-kl.de"
   },
   {
-    "network": "132.190.1.0/24",
-    "asn": "199563",
-    "country_code": "DE",
-    "name": "VMS-AS",
-    "org": "Siemens Healthineers AG",
-    "domain": "siemens-healthineers.com"
-  },
-  {
     "network": "132.190.2.0/24",
     "asn": "199563",
     "country_code": "DE",
@@ -149745,22 +149681,6 @@
   },
   {
     "network": "132.190.100.0/23",
-    "asn": "199563",
-    "country_code": "DE",
-    "name": "VMS-AS",
-    "org": "Siemens Healthineers AG",
-    "domain": "siemens-healthineers.com"
-  },
-  {
-    "network": "132.190.102.0/23",
-    "asn": "199563",
-    "country_code": "DE",
-    "name": "VMS-AS",
-    "org": "Siemens Healthineers AG",
-    "domain": "siemens-healthineers.com"
-  },
-  {
-    "network": "132.190.104.0/23",
     "asn": "199563",
     "country_code": "DE",
     "name": "VMS-AS",
@@ -150454,6 +150374,22 @@
     "name": "UNSPECIFIED",
     "org": "European Southern Observatory",
     "domain": "eso.org"
+  },
+  {
+    "network": "137.44.120.0/24",
+    "asn": "200032",
+    "country_code": "DE",
+    "name": "rosenberger-hft-as",
+    "org": "Rosenberger Hochfrequenztechnik GmbH trading as Rosenberger Hochfrequenztechnik GmbH & Co. KG",
+    "domain": "rosenberger.com"
+  },
+  {
+    "network": "2a13:49c0::/48",
+    "asn": "200032",
+    "country_code": "DE",
+    "name": "rosenberger-hft-as",
+    "org": "Rosenberger Hochfrequenztechnik GmbH trading as Rosenberger Hochfrequenztechnik GmbH & Co. KG",
+    "domain": "rosenberger.com"
   },
   {
     "network": "137.180.140.0/23",
@@ -154344,6 +154280,14 @@
     "domain": "plusline.de"
   },
   {
+    "network": "141.90.15.0/24",
+    "asn": "29515",
+    "country_code": "DE",
+    "name": "HZD-AS",
+    "org": "Hessische Zentrale fuer Datenverarbeitung",
+    "domain": "plusline.de"
+  },
+  {
     "network": "141.90.16.0/24",
     "asn": "29515",
     "country_code": "DE",
@@ -157201,6 +157145,14 @@
   },
   {
     "network": "149.245.221.0/24",
+    "asn": "218163",
+    "country_code": "DE",
+    "name": "ENCIRCLE360-AS",
+    "org": "encircle360 GmbH",
+    "domain": "encircle360.com"
+  },
+  {
+    "network": "2001:678:13f0::/48",
     "asn": "218163",
     "country_code": "DE",
     "name": "ENCIRCLE360-AS",
@@ -171024,6 +170976,14 @@
     "domain": "iktsolutions.de"
   },
   {
+    "network": "2a0f:8784::/32",
+    "asn": "218540",
+    "country_code": "DE",
+    "name": "IKTSOLUTIONS-AS",
+    "org": "IKT Solutions UG (haftungsbeschraenkt)",
+    "domain": "iktsolutions.de"
+  },
+  {
     "network": "185.108.48.0/22",
     "asn": "208994",
     "country_code": "DE",
@@ -173670,14 +173630,6 @@
     "name": "deHOSTED-AS",
     "org": "NetTask GmbH",
     "domain": "nettask.de"
-  },
-  {
-    "network": "185.137.28.0/22",
-    "asn": "203175",
-    "country_code": "DE",
-    "name": "rto",
-    "org": "RTO GmbH",
-    "domain": "rto.de"
   },
   {
     "network": "185.137.28.0/24",
@@ -187176,6 +187128,14 @@
     "domain": "gfk.com"
   },
   {
+    "network": "195.238.163.0/24",
+    "asn": "28932",
+    "country_code": "DE",
+    "name": "GFK-AS",
+    "org": "GfK GmbH",
+    "domain": "gfk.com"
+  },
+  {
     "network": "194.113.240.0/23",
     "asn": "202462",
     "country_code": "DE",
@@ -191608,6 +191568,30 @@
     "domain": "templass.com"
   },
   {
+    "network": "217.216.176.0/24",
+    "asn": "218208",
+    "country_code": "DE",
+    "name": "Jaeger",
+    "org": "Tom Jaeger",
+    "domain": ""
+  },
+  {
+    "network": "2a0c:9a40:e1c0::/48",
+    "asn": "218208",
+    "country_code": "DE",
+    "name": "Jaeger",
+    "org": "Tom Jaeger",
+    "domain": ""
+  },
+  {
+    "network": "2a14:7581:5500::/40",
+    "asn": "218208",
+    "country_code": "DE",
+    "name": "Jaeger",
+    "org": "Tom Jaeger",
+    "domain": ""
+  },
+  {
     "network": "2001:678:114::/48",
     "asn": "212691",
     "country_code": "DE",
@@ -194640,7 +194624,23 @@
     "domain": "bgporn.net"
   },
   {
+    "network": "2a0c:9a40:808a::/48",
+    "asn": "48646",
+    "country_code": "DE",
+    "name": "STEFAN6",
+    "org": "SDRmedia Verwaltungs GmbH",
+    "domain": "sdr-media.de"
+  },
+  {
     "network": "2a0c:9a40:8590::/48",
+    "asn": "215080",
+    "country_code": "DE",
+    "name": "Jana-Steuernagel",
+    "org": "Jana Amelie Steuernagel",
+    "domain": "jsteuernagel.de"
+  },
+  {
+    "network": "2a0c:b641:8c0::/48",
     "asn": "215080",
     "country_code": "DE",
     "name": "Jana-Steuernagel",
@@ -194689,6 +194689,14 @@
   },
   {
     "network": "2a0c:9a40:8851::/48",
+    "asn": "207792",
+    "country_code": "DE",
+    "name": "Darius-Jockel",
+    "org": "Darius Jockel",
+    "domain": "miniwar.de"
+  },
+  {
+    "network": "2a0c:9a40:8852::/48",
     "asn": "207792",
     "country_code": "DE",
     "name": "Darius-Jockel",
@@ -194782,22 +194790,6 @@
     "name": "DigitalTechnologiesGmbH",
     "org": "4rce.com Digital Technologies GmbH",
     "domain": "4rce.com"
-  },
-  {
-    "network": "2a0c:9a40:e1c0::/48",
-    "asn": "218208",
-    "country_code": "DE",
-    "name": "Jaeger",
-    "org": "Tom Jaeger",
-    "domain": ""
-  },
-  {
-    "network": "2a14:7581:5500::/40",
-    "asn": "218208",
-    "country_code": "DE",
-    "name": "Jaeger",
-    "org": "Tom Jaeger",
-    "domain": ""
   },
   {
     "network": "2a0c:9a46:1900::/44",
@@ -194998,6 +194990,14 @@
     "name": "DERLEV",
     "org": "Levin Schroeren",
     "domain": "derlev.net"
+  },
+  {
+    "network": "2a0c:b641:f91::/48",
+    "asn": "218255",
+    "country_code": "DE",
+    "name": "FPLNET",
+    "org": "Finn Paul Lippok",
+    "domain": "lippok.eu"
   },
   {
     "network": "2a0c:b641:f94::/48",
@@ -195369,6 +195369,14 @@
   },
   {
     "network": "2a10:9902:731::/48",
+    "asn": "211972",
+    "country_code": "DE",
+    "name": "MSN-NET",
+    "org": "Marc Schulz-Narres",
+    "domain": "as211972.net"
+  },
+  {
+    "network": "2a10:9902:732::/48",
     "asn": "211972",
     "country_code": "DE",
     "name": "MSN-NET",
@@ -196022,14 +196030,6 @@
     "name": "PlainProxies",
     "org": "3xK Tech GmbH",
     "domain": "plainproxies.com"
-  },
-  {
-    "network": "2a13:49c0::/48",
-    "asn": "200032",
-    "country_code": "DE",
-    "name": "rosenberger-hft-as",
-    "org": "Rosenberger Hochfrequenztechnik GmbH trading as Rosenberger Hochfrequenztechnik GmbH & Co. KG",
-    "domain": "rosenberger.com"
   },
   {
     "network": "2a13:7706:1::/48",

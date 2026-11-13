@@ -1362,12 +1362,6 @@
     "country_name": "Bolivia"
   },
   {
-    "network": "136.234.238.0/24",
-    "continent_code": "SA",
-    "country_code": "BO",
-    "country_name": "Bolivia"
-  },
-  {
     "network": "138.36.76.0/22",
     "continent_code": "SA",
     "country_code": "BO",
@@ -1500,7 +1494,7 @@
     "country_name": "Bolivia"
   },
   {
-    "network": "149.19.171.0/29",
+    "network": "149.19.171.0/26",
     "continent_code": "SA",
     "country_code": "BO",
     "country_name": "Bolivia"
@@ -1578,7 +1572,13 @@
     "country_name": "Bolivia"
   },
   {
-    "network": "158.172.152.0/23",
+    "network": "158.172.152.0/24",
+    "continent_code": "SA",
+    "country_code": "BO",
+    "country_name": "Bolivia"
+  },
+  {
+    "network": "158.172.153.0/26",
     "continent_code": "SA",
     "country_code": "BO",
     "country_name": "Bolivia"
@@ -2178,12 +2178,6 @@
     "country_name": "Bolivia"
   },
   {
-    "network": "172.94.51.0/25",
-    "continent_code": "SA",
-    "country_code": "BO",
-    "country_name": "Bolivia"
-  },
-  {
     "network": "172.94.76.0/24",
     "continent_code": "SA",
     "country_code": "BO",
@@ -2280,19 +2274,25 @@
     "country_name": "Bolivia"
   },
   {
-    "network": "179.60.175.16/28",
+    "network": "179.60.175.24/31",
     "continent_code": "SA",
     "country_code": "BO",
     "country_name": "Bolivia"
   },
   {
-    "network": "179.60.175.40/30",
+    "network": "179.60.175.40/29",
     "continent_code": "SA",
     "country_code": "BO",
     "country_name": "Bolivia"
   },
   {
-    "network": "179.60.175.128/26",
+    "network": "179.60.175.128/27",
+    "continent_code": "SA",
+    "country_code": "BO",
+    "country_name": "Bolivia"
+  },
+  {
+    "network": "179.60.175.160/28",
     "continent_code": "SA",
     "country_code": "BO",
     "country_name": "Bolivia"
@@ -4146,6 +4146,12 @@
     "country_name": "Bolivia"
   },
   {
+    "network": "2602:f3f0:147::/48",
+    "continent_code": "SA",
+    "country_code": "BO",
+    "country_name": "Bolivia"
+  },
+  {
     "network": "2602:f7c8:805::/48",
     "continent_code": "SA",
     "country_code": "BO",
@@ -4614,6 +4620,12 @@
     "country_name": "Bolivia"
   },
   {
+    "network": "2001:470:5:557::/64",
+    "continent_code": "SA",
+    "country_code": "BO",
+    "country_name": "Bolivia"
+  },
+  {
     "network": "2001:470:8:5e3::/64",
     "continent_code": "SA",
     "country_code": "BO",
@@ -4981,12 +4993,6 @@
   },
   {
     "network": "2a0e:4001:9ff:1a::/64",
-    "continent_code": "SA",
-    "country_code": "BO",
-    "country_name": "Bolivia"
-  },
-  {
-    "network": "2a0e:4003:bb58:9696::/64",
     "continent_code": "SA",
     "country_code": "BO",
     "country_name": "Bolivia"

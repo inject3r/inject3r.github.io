@@ -1830,12 +1830,6 @@
     "country_name": "New Zealand"
   },
   {
-    "network": "43.249.72.0/22",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
     "network": "43.249.196.0/22",
     "continent_code": "OC",
     "country_code": "NZ",
@@ -3499,12 +3493,6 @@
   },
   {
     "network": "103.9.216.0/22",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "103.9.236.0/22",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
@@ -5946,13 +5934,7 @@
     "country_name": "New Zealand"
   },
   {
-    "network": "103.242.24.0/24",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "103.242.26.0/23",
+    "network": "103.242.24.0/22",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
@@ -6102,7 +6084,7 @@
     "country_name": "New Zealand"
   },
   {
-    "network": "103.249.60.0/22",
+    "network": "103.249.60.0/23",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
@@ -8472,6 +8454,24 @@
     "country_name": "New Zealand"
   },
   {
+    "network": "131.229.142.9/32",
+    "continent_code": "OC",
+    "country_code": "NZ",
+    "country_name": "New Zealand"
+  },
+  {
+    "network": "131.229.142.109/32",
+    "continent_code": "OC",
+    "country_code": "NZ",
+    "country_name": "New Zealand"
+  },
+  {
+    "network": "131.229.142.209/32",
+    "continent_code": "OC",
+    "country_code": "NZ",
+    "country_name": "New Zealand"
+  },
+  {
     "network": "131.229.147.25/32",
     "continent_code": "OC",
     "country_code": "NZ",
@@ -10620,133 +10620,25 @@
     "country_name": "New Zealand"
   },
   {
-    "network": "165.1.228.1/32",
+    "network": "165.1.228.0/25",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
   },
   {
-    "network": "165.1.228.2/31",
+    "network": "165.1.228.128/26",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
   },
   {
-    "network": "165.1.228.4/30",
+    "network": "165.1.228.192/32",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
   },
   {
-    "network": "165.1.228.8/29",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.16/28",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.32/27",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.64/27",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.96/28",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.112/29",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.120/30",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.124/31",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.126/32",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.129/32",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.130/31",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.132/30",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.136/29",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.144/28",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.160/28",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.176/29",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.184/30",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.188/31",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "165.1.228.190/32",
+    "network": "165.1.228.255/32",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
@@ -11184,6 +11076,12 @@
     "country_name": "New Zealand"
   },
   {
+    "network": "173.82.169.0/24",
+    "continent_code": "OC",
+    "country_code": "NZ",
+    "country_name": "New Zealand"
+  },
+  {
     "network": "173.82.228.0/24",
     "continent_code": "OC",
     "country_code": "NZ",
@@ -11257,12 +11155,6 @@
   },
   {
     "network": "179.65.184.0/22",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "179.66.181.0/24",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
@@ -15954,6 +15846,12 @@
     "country_name": "New Zealand"
   },
   {
+    "network": "206.148.68.0/24",
+    "continent_code": "OC",
+    "country_code": "NZ",
+    "country_name": "New Zealand"
+  },
+  {
     "network": "206.214.226.160/32",
     "continent_code": "OC",
     "country_code": "NZ",
@@ -16705,12 +16603,6 @@
   },
   {
     "network": "223.165.69.80/28",
-    "continent_code": "OC",
-    "country_code": "NZ",
-    "country_name": "New Zealand"
-  },
-  {
-    "network": "223.165.69.96/27",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
@@ -27924,6 +27816,12 @@
     "country_name": "New Zealand"
   },
   {
+    "network": "2602:f3f0:1c1::/48",
+    "continent_code": "OC",
+    "country_code": "NZ",
+    "country_name": "New Zealand"
+  },
+  {
     "network": "2602:f805:300::/48",
     "continent_code": "OC",
     "country_code": "NZ",
@@ -32220,6 +32118,12 @@
     "country_name": "New Zealand"
   },
   {
+    "network": "2001:470:1f2d:158::/64",
+    "continent_code": "OC",
+    "country_code": "NZ",
+    "country_name": "New Zealand"
+  },
+  {
     "network": "2001:470:1f2d:172::/64",
     "continent_code": "OC",
     "country_code": "NZ",
@@ -33318,7 +33222,7 @@
     "country_name": "New Zealand"
   },
   {
-    "network": "2a0e:4003:bbcb:82b2::/64",
+    "network": "2a0e:4003:bb79:1916::/64",
     "continent_code": "OC",
     "country_code": "NZ",
     "country_name": "New Zealand"
