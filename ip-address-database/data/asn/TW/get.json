@@ -1176,6 +1176,14 @@
     "domain": "cht.com.tw"
   },
   {
+    "network": "125.229.101.0/24",
+    "asn": "3462",
+    "country_code": "TW",
+    "name": "HINET",
+    "org": "Chunghwa Telecom Co., Ltd.",
+    "domain": "cht.com.tw"
+  },
+  {
     "network": "125.230.0.0/16",
     "asn": "3462",
     "country_code": "TW",
@@ -1297,6 +1305,14 @@
   },
   {
     "network": "203.74.0.0/16",
+    "asn": "3462",
+    "country_code": "TW",
+    "name": "HINET",
+    "org": "Chunghwa Telecom Co., Ltd.",
+    "domain": "cht.com.tw"
+  },
+  {
+    "network": "203.74.165.0/24",
     "asn": "3462",
     "country_code": "TW",
     "name": "HINET",
@@ -16768,14 +16784,6 @@
     "domain": "seed.net.tw"
   },
   {
-    "network": "106.105.138.0/24",
-    "asn": "4780",
-    "country_code": "TW",
-    "name": "SEEDNET",
-    "org": "Digital United Inc.",
-    "domain": "seed.net.tw"
-  },
-  {
     "network": "106.106.2.0/24",
     "asn": "4780",
     "country_code": "TW",
@@ -29648,6 +29656,14 @@
     "domain": "fareastone.com.tw"
   },
   {
+    "network": "61.57.79.0/24",
+    "asn": "17709",
+    "country_code": "TW",
+    "name": "APT",
+    "org": "Asia Pacific Telecom",
+    "domain": "fareastone.com.tw"
+  },
+  {
     "network": "101.136.0.0/14",
     "asn": "17709",
     "country_code": "TW",
@@ -33184,7 +33200,31 @@
     "domain": "imcloud.tw"
   },
   {
-    "network": "156.0.92.0/22",
+    "network": "156.0.92.0/24",
+    "asn": "134823",
+    "country_code": "TW",
+    "name": "SDCL-AS-AP",
+    "org": "Sky Digital Co., Ltd.",
+    "domain": "imcloud.tw"
+  },
+  {
+    "network": "156.0.93.0/24",
+    "asn": "134823",
+    "country_code": "TW",
+    "name": "SDCL-AS-AP",
+    "org": "Sky Digital Co., Ltd.",
+    "domain": "imcloud.tw"
+  },
+  {
+    "network": "156.0.94.0/24",
+    "asn": "134823",
+    "country_code": "TW",
+    "name": "SDCL-AS-AP",
+    "org": "Sky Digital Co., Ltd.",
+    "domain": "imcloud.tw"
+  },
+  {
+    "network": "156.0.95.0/24",
     "asn": "134823",
     "country_code": "TW",
     "name": "SDCL-AS-AP",
@@ -69152,14 +69192,6 @@
     "domain": "narlabs.org.tw"
   },
   {
-    "network": "103.189.132.0/23",
-    "asn": "18183",
-    "country_code": "TW",
-    "name": "NCREE",
-    "org": "National Center for Research on Earthquake Engineering",
-    "domain": "narlabs.org.tw"
-  },
-  {
     "network": "202.5.12.0/22",
     "asn": "18183",
     "country_code": "TW",
@@ -69193,14 +69225,6 @@
   },
   {
     "network": "2001:4500:1180::/41",
-    "asn": "18183",
-    "country_code": "TW",
-    "name": "NCREE",
-    "org": "National Center for Research on Earthquake Engineering",
-    "domain": "narlabs.org.tw"
-  },
-  {
-    "network": "2400:85a0::/32",
     "asn": "18183",
     "country_code": "TW",
     "name": "NCREE",
@@ -79864,6 +79888,14 @@
     "domain": "as208223.eu.org"
   },
   {
+    "network": "2a12:3fc2:dfcf::/48",
+    "asn": "208223",
+    "country_code": "TW",
+    "name": "FOXO-AS",
+    "org": "SHU-HAO TUNG",
+    "domain": "as208223.eu.org"
+  },
+  {
     "network": "2a12:3fc2:dfd2::/48",
     "asn": "208223",
     "country_code": "TW",
@@ -80238,30 +80270,6 @@
     "name": "NORDA-NET",
     "org": "Nuobida Technology Co., Ltd.",
     "domain": "my-sdwan.com"
-  },
-  {
-    "network": "163.52.140.0/23",
-    "asn": "154902",
-    "country_code": "TW",
-    "name": "SIGNALPRO",
-    "org": "SignalPro Technology Co., Ltd.",
-    "domain": "signalpro.com.tw"
-  },
-  {
-    "network": "163.52.140.0/24",
-    "asn": "154902",
-    "country_code": "TW",
-    "name": "SIGNALPRO",
-    "org": "SignalPro Technology Co., Ltd.",
-    "domain": "signalpro.com.tw"
-  },
-  {
-    "network": "2402:74e0::/32",
-    "asn": "154902",
-    "country_code": "TW",
-    "name": "SIGNALPRO",
-    "org": "SignalPro Technology Co., Ltd.",
-    "domain": "signalpro.com.tw"
   },
   {
     "network": "163.61.60.0/23",

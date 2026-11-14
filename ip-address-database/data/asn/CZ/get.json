@@ -3256,14 +3256,6 @@
     "domain": "uvt.cz"
   },
   {
-    "network": "78.24.97.0/24",
-    "asn": "50825",
-    "country_code": "CZ",
-    "name": "UVT",
-    "org": "UVT Internet s.r.o.",
-    "domain": "uvt.cz"
-  },
-  {
     "network": "178.17.0.0/20",
     "asn": "50825",
     "country_code": "CZ",
@@ -3553,6 +3545,14 @@
   },
   {
     "network": "78.17.232.0/23",
+    "asn": "207700",
+    "country_code": "CZ",
+    "name": "Reliable-Communications",
+    "org": "Reliable Communications s.r.o.",
+    "domain": "interlir.com"
+  },
+  {
+    "network": "78.17.236.0/23",
     "asn": "207700",
     "country_code": "CZ",
     "name": "Reliable-Communications",
@@ -8656,6 +8656,30 @@
     "domain": "wedos.com"
   },
   {
+    "network": "2a0e:acc0:ac40::/48",
+    "asn": "208414",
+    "country_code": "CZ",
+    "name": "WEDOS-GLOBAL",
+    "org": "WEDOS Internet, a.s.",
+    "domain": "wedos.com"
+  },
+  {
+    "network": "2a0e:acc0:ac41::/48",
+    "asn": "208414",
+    "country_code": "CZ",
+    "name": "WEDOS-GLOBAL",
+    "org": "WEDOS Internet, a.s.",
+    "domain": "wedos.com"
+  },
+  {
+    "network": "2a0e:acc0:ac42::/48",
+    "asn": "208414",
+    "country_code": "CZ",
+    "name": "WEDOS-GLOBAL",
+    "org": "WEDOS Internet, a.s.",
+    "domain": "wedos.com"
+  },
+  {
     "network": "2a0e:acc0:ac43::/48",
     "asn": "208414",
     "country_code": "CZ",
@@ -8665,14 +8689,6 @@
   },
   {
     "network": "2a0e:acc0:ac44::/48",
-    "asn": "208414",
-    "country_code": "CZ",
-    "name": "WEDOS-GLOBAL",
-    "org": "WEDOS Internet, a.s.",
-    "domain": "wedos.com"
-  },
-  {
-    "network": "2a0e:acc0:ac45::/48",
     "asn": "208414",
     "country_code": "CZ",
     "name": "WEDOS-GLOBAL",
@@ -12640,6 +12656,22 @@
     "domain": "knvnet.cz"
   },
   {
+    "network": "78.108.127.0/24",
+    "asn": "211445",
+    "country_code": "CZ",
+    "name": "meukralupy",
+    "org": "Mesto Kralupy nad Vltavou",
+    "domain": "mestokralupy.cz"
+  },
+  {
+    "network": "2a14:aa80::/32",
+    "asn": "211445",
+    "country_code": "CZ",
+    "name": "meukralupy",
+    "org": "Mesto Kralupy nad Vltavou",
+    "domain": "mestokralupy.cz"
+  },
+  {
     "network": "78.128.119.0/24",
     "asn": "214032",
     "country_code": "CZ",
@@ -16086,6 +16118,14 @@
     "name": "COMANET-NETWORK",
     "org": "Ing. Leos Janouch",
     "domain": "comanet.cz"
+  },
+  {
+    "network": "91.218.232.0/22",
+    "asn": "51424",
+    "country_code": "CZ",
+    "name": "ASAGNET",
+    "org": "Jiri Sperl",
+    "domain": "agnet.cz"
   },
   {
     "network": "91.218.232.0/23",
@@ -26190,13 +26230,5 @@
     "name": "Batlify_Internet",
     "org": "Batlify Internet s.r.o.",
     "domain": "batlify.com"
-  },
-  {
-    "network": "2a14:aa80::/32",
-    "asn": "211445",
-    "country_code": "CZ",
-    "name": "meukralupy",
-    "org": "Mesto Kralupy nad Vltavou",
-    "domain": "mestokralupy.cz"
   }
 ]

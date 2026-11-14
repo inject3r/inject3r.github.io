@@ -2112,6 +2112,14 @@
     "domain": ""
   },
   {
+    "network": "38.20.14.0/24",
+    "asn": "273893",
+    "country_code": "VE",
+    "name": "COSAN TELECOM C.A.",
+    "org": "COSAN TELECOM C.A.",
+    "domain": ""
+  },
+  {
     "network": "38.20.15.0/24",
     "asn": "273893",
     "country_code": "VE",
@@ -3225,6 +3233,22 @@
   },
   {
     "network": "38.51.236.0/23",
+    "asn": "271907",
+    "country_code": "VE",
+    "name": "COLNETWORK C.A.",
+    "org": "COLNETWORK C.A.",
+    "domain": "col-network.com"
+  },
+  {
+    "network": "38.51.236.0/24",
+    "asn": "271907",
+    "country_code": "VE",
+    "name": "COLNETWORK C.A.",
+    "org": "COLNETWORK C.A.",
+    "domain": "col-network.com"
+  },
+  {
+    "network": "38.51.237.0/24",
     "asn": "271907",
     "country_code": "VE",
     "name": "COLNETWORK C.A.",
@@ -4400,14 +4424,6 @@
     "domain": "megalink.net.ve"
   },
   {
-    "network": "38.51.56.0/24",
-    "asn": "272119",
-    "country_code": "VE",
-    "name": "GTITHOST C.A",
-    "org": "GTITHOST C.A",
-    "domain": "megalink.net.ve"
-  },
-  {
     "network": "38.51.57.0/24",
     "asn": "272119",
     "country_code": "VE",
@@ -4424,23 +4440,7 @@
     "domain": "megalink.net.ve"
   },
   {
-    "network": "38.51.59.0/24",
-    "asn": "272119",
-    "country_code": "VE",
-    "name": "GTITHOST C.A",
-    "org": "GTITHOST C.A",
-    "domain": "megalink.net.ve"
-  },
-  {
     "network": "2803:cf10::/32",
-    "asn": "272119",
-    "country_code": "VE",
-    "name": "GTITHOST C.A",
-    "org": "GTITHOST C.A",
-    "domain": "megalink.net.ve"
-  },
-  {
-    "network": "2803:cf10::/35",
     "asn": "272119",
     "country_code": "VE",
     "name": "GTITHOST C.A",
@@ -5344,14 +5344,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.248.128.0/22",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.248.128.0/23",
     "asn": "272809",
     "country_code": "VE",
@@ -5400,14 +5392,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.248.132.0/22",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.248.132.0/23",
     "asn": "272809",
     "country_code": "VE",
@@ -5449,14 +5433,6 @@
   },
   {
     "network": "38.248.135.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.136.0/22",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -5928,14 +5904,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "38.248.188.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "38.248.188.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -5945,14 +5913,6 @@
   },
   {
     "network": "38.248.189.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "38.248.190.0/23",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6368,14 +6328,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.128.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.128.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6385,14 +6337,6 @@
   },
   {
     "network": "82.86.129.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.130.0/23",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6424,14 +6368,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.132.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.132.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6441,14 +6377,6 @@
   },
   {
     "network": "82.86.133.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.134.0/23",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6480,14 +6408,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.136.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.136.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6497,14 +6417,6 @@
   },
   {
     "network": "82.86.137.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.138.0/23",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6536,14 +6448,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.140.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.140.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6553,14 +6457,6 @@
   },
   {
     "network": "82.86.141.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.142.0/23",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6592,14 +6488,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.144.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.144.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6609,14 +6497,6 @@
   },
   {
     "network": "82.86.145.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.146.0/23",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6648,14 +6528,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.148.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.148.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6672,14 +6544,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "82.86.150.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "82.86.150.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -6689,14 +6553,6 @@
   },
   {
     "network": "82.86.151.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.152.0/23",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6729,38 +6585,6 @@
   },
   {
     "network": "82.86.155.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.156.0/23",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.156.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.157.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.159.0/24",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -6849,14 +6673,6 @@
   },
   {
     "network": "82.86.225.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "82.86.228.0/23",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -7248,14 +7064,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "154.45.148.0/22",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "154.45.148.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -7321,14 +7129,6 @@
   },
   {
     "network": "154.45.155.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "154.45.156.0/22",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -7441,14 +7241,6 @@
   },
   {
     "network": "154.45.167.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "154.45.168.0/22",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -7608,14 +7400,6 @@
     "domain": "thundernet.com.ve"
   },
   {
-    "network": "154.45.184.0/22",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
     "network": "154.45.184.0/24",
     "asn": "272809",
     "country_code": "VE",
@@ -7641,14 +7425,6 @@
   },
   {
     "network": "154.45.187.0/24",
-    "asn": "272809",
-    "country_code": "VE",
-    "name": "THUNDERNET, C.A.",
-    "org": "THUNDERNET, C.A.",
-    "domain": "thundernet.com.ve"
-  },
-  {
-    "network": "154.45.188.0/22",
     "asn": "272809",
     "country_code": "VE",
     "name": "THUNDERNET, C.A.",
@@ -8680,6 +8456,14 @@
     "domain": "boomsolutionspr.com"
   },
   {
+    "network": "38.159.49.0/24",
+    "asn": "269946",
+    "country_code": "VE",
+    "name": "BOOM SOLUTIONS C.A.",
+    "org": "BOOM SOLUTIONS C.A.",
+    "domain": "boomsolutionspr.com"
+  },
+  {
     "network": "38.159.53.0/24",
     "asn": "269946",
     "country_code": "VE",
@@ -8689,6 +8473,14 @@
   },
   {
     "network": "38.159.56.0/24",
+    "asn": "269946",
+    "country_code": "VE",
+    "name": "BOOM SOLUTIONS C.A.",
+    "org": "BOOM SOLUTIONS C.A.",
+    "domain": "boomsolutionspr.com"
+  },
+  {
+    "network": "38.159.57.0/24",
     "asn": "269946",
     "country_code": "VE",
     "name": "BOOM SOLUTIONS C.A.",
@@ -9353,14 +9145,6 @@
   },
   {
     "network": "138.185.64.0/23",
-    "asn": "263806",
-    "country_code": "VE",
-    "name": "GALAXY ENTERTAINMENT DE VENEZUELA, S.C.A.",
-    "org": "GALAXY ENTERTAINMENT DE VENEZUELA, S.C.A.",
-    "domain": "simple.com.ve"
-  },
-  {
-    "network": "138.185.64.0/24",
     "asn": "263806",
     "country_code": "VE",
     "name": "GALAXY ENTERTAINMENT DE VENEZUELA, S.C.A.",
@@ -12896,6 +12680,14 @@
     "domain": "inter.com.ve"
   },
   {
+    "network": "190.142.198.0/24",
+    "asn": "21826",
+    "country_code": "VE",
+    "name": "Corporación Telemic C.A.",
+    "org": "Corporación Telemic C.A.",
+    "domain": "inter.com.ve"
+  },
+  {
     "network": "190.142.199.0/24",
     "asn": "21826",
     "country_code": "VE",
@@ -14305,14 +14097,6 @@
   },
   {
     "network": "200.8.180.0/24",
-    "asn": "21826",
-    "country_code": "VE",
-    "name": "Corporación Telemic C.A.",
-    "org": "Corporación Telemic C.A.",
-    "domain": "inter.com.ve"
-  },
-  {
-    "network": "200.8.181.0/24",
     "asn": "21826",
     "country_code": "VE",
     "name": "Corporación Telemic C.A.",
@@ -16496,6 +16280,14 @@
     "domain": "conet.com.ve"
   },
   {
+    "network": "154.40.143.0/24",
+    "asn": "274202",
+    "country_code": "VE",
+    "name": "GRUPO MULTIMEDIA S&G, C.A",
+    "org": "GRUPO MULTIMEDIA S&G, C.A",
+    "domain": "conet.com.ve"
+  },
+  {
     "network": "2803:9c30::/36",
     "asn": "274202",
     "country_code": "VE",
@@ -16534,6 +16326,22 @@
     "name": "GRUPO MULTIMEDIA S&G, C.A",
     "org": "GRUPO MULTIMEDIA S&G, C.A",
     "domain": "conet.com.ve"
+  },
+  {
+    "network": "38.129.7.0/24",
+    "asn": "274062",
+    "country_code": "VE",
+    "name": "SOLUCION TV 555, C.A",
+    "org": "SOLUCION TV 555, C.A",
+    "domain": ""
+  },
+  {
+    "network": "92.118.182.0/24",
+    "asn": "274062",
+    "country_code": "VE",
+    "name": "SOLUCION TV 555, C.A",
+    "org": "SOLUCION TV 555, C.A",
+    "domain": ""
   },
   {
     "network": "38.129.89.0/24",
@@ -17192,14 +17000,6 @@
     "domain": "datalink.com.ve"
   },
   {
-    "network": "38.150.90.0/24",
-    "asn": "272118",
-    "country_code": "VE",
-    "name": "DATALINK, C.A.",
-    "org": "DATALINK, C.A.",
-    "domain": "datalink.com.ve"
-  },
-  {
     "network": "38.150.91.0/24",
     "asn": "272118",
     "country_code": "VE",
@@ -17809,19 +17609,11 @@
   },
   {
     "network": "38.183.184.0/24",
-    "asn": "273125",
+    "asn": "275068",
     "country_code": "VE",
-    "name": "OIT SERVICIO DE DATOS, C.A.",
-    "org": "OIT SERVICIO DE DATOS, C.A.",
-    "domain": "oit.services"
-  },
-  {
-    "network": "38.253.122.0/24",
-    "asn": "273125",
-    "country_code": "VE",
-    "name": "OIT SERVICIO DE DATOS, C.A.",
-    "org": "OIT SERVICIO DE DATOS, C.A.",
-    "domain": "oit.services"
+    "name": "TECNOCABLE IP TELECOM DEL CARIBE, C.A",
+    "org": "TECNOCABLE IP TELECOM DEL CARIBE, C.A",
+    "domain": "tecnocable.com.ve"
   },
   {
     "network": "38.186.128.0/24",
@@ -18424,6 +18216,14 @@
     "domain": "adslsystem.com.ve"
   },
   {
+    "network": "38.188.237.0/24",
+    "asn": "273173",
+    "country_code": "VE",
+    "name": "TELECOM 3 C.A",
+    "org": "TELECOM 3 C.A",
+    "domain": "adslsystem.com.ve"
+  },
+  {
     "network": "38.188.238.0/24",
     "asn": "273173",
     "country_code": "VE",
@@ -18841,14 +18641,6 @@
   },
   {
     "network": "153.51.233.0/24",
-    "asn": "264628",
-    "country_code": "VE",
-    "name": "CORPORACION FIBEX TELECOM, C.A.",
-    "org": "CORPORACION FIBEX TELECOM, C.A.",
-    "domain": "fibextelecom.net"
-  },
-  {
-    "network": "153.51.234.0/23",
     "asn": "264628",
     "country_code": "VE",
     "name": "CORPORACION FIBEX TELECOM, C.A.",
@@ -19334,6 +19126,14 @@
     "name": "GUAROVISION C.A.",
     "org": "GUAROVISION C.A.",
     "domain": "fibernetve.com"
+  },
+  {
+    "network": "38.253.122.0/24",
+    "asn": "273125",
+    "country_code": "VE",
+    "name": "OIT SERVICIO DE DATOS, C.A.",
+    "org": "OIT SERVICIO DE DATOS, C.A.",
+    "domain": "oit.services"
   },
   {
     "network": "38.254.104.0/22",
@@ -19830,46 +19630,6 @@
     "name": "360NET C.A.",
     "org": "360NET C.A.",
     "domain": "360net.com.ve"
-  },
-  {
-    "network": "45.173.204.0/24",
-    "asn": "267813",
-    "country_code": "VE",
-    "name": "REPRESENTACIONES ABANET, C.A.",
-    "org": "REPRESENTACIONES ABANET, C.A.",
-    "domain": "abanetca.net"
-  },
-  {
-    "network": "45.173.205.0/24",
-    "asn": "267813",
-    "country_code": "VE",
-    "name": "REPRESENTACIONES ABANET, C.A.",
-    "org": "REPRESENTACIONES ABANET, C.A.",
-    "domain": "abanetca.net"
-  },
-  {
-    "network": "45.173.206.0/24",
-    "asn": "267813",
-    "country_code": "VE",
-    "name": "REPRESENTACIONES ABANET, C.A.",
-    "org": "REPRESENTACIONES ABANET, C.A.",
-    "domain": "abanetca.net"
-  },
-  {
-    "network": "45.173.207.0/24",
-    "asn": "267813",
-    "country_code": "VE",
-    "name": "REPRESENTACIONES ABANET, C.A.",
-    "org": "REPRESENTACIONES ABANET, C.A.",
-    "domain": "abanetca.net"
-  },
-  {
-    "network": "2803:d060::/32",
-    "asn": "267813",
-    "country_code": "VE",
-    "name": "REPRESENTACIONES ABANET, C.A.",
-    "org": "REPRESENTACIONES ABANET, C.A.",
-    "domain": "abanetca.net"
   },
   {
     "network": "45.175.22.0/24",
@@ -22216,14 +21976,6 @@
     "domain": "vnet.com.ve"
   },
   {
-    "network": "2803:d760:3be0::/45",
-    "asn": "263703",
-    "country_code": "VE",
-    "name": "VIGINET C.A",
-    "org": "VIGINET C.A",
-    "domain": "vnet.com.ve"
-  },
-  {
     "network": "2803:d760:3d00::/40",
     "asn": "263703",
     "country_code": "VE",
@@ -24144,14 +23896,6 @@
     "domain": "ifxnw.com.ve"
   },
   {
-    "network": "181.225.42.0/24",
-    "asn": "8053",
-    "country_code": "VE",
-    "name": "IFX Networks Venezuela C.A.",
-    "org": "IFX Networks Venezuela C.A.",
-    "domain": "ifxnw.com.ve"
-  },
-  {
     "network": "181.225.45.0/24",
     "asn": "8053",
     "country_code": "VE",
@@ -24168,14 +23912,6 @@
     "domain": "ifxnw.com.ve"
   },
   {
-    "network": "181.225.48.0/24",
-    "asn": "8053",
-    "country_code": "VE",
-    "name": "IFX Networks Venezuela C.A.",
-    "org": "IFX Networks Venezuela C.A.",
-    "domain": "ifxnw.com.ve"
-  },
-  {
     "network": "190.94.192.0/19",
     "asn": "8053",
     "country_code": "VE",
@@ -24184,47 +23920,7 @@
     "domain": "ifxnw.com.ve"
   },
   {
-    "network": "190.94.198.0/24",
-    "asn": "8053",
-    "country_code": "VE",
-    "name": "IFX Networks Venezuela C.A.",
-    "org": "IFX Networks Venezuela C.A.",
-    "domain": "ifxnw.com.ve"
-  },
-  {
-    "network": "190.94.211.0/24",
-    "asn": "8053",
-    "country_code": "VE",
-    "name": "IFX Networks Venezuela C.A.",
-    "org": "IFX Networks Venezuela C.A.",
-    "domain": "ifxnw.com.ve"
-  },
-  {
     "network": "190.94.224.0/19",
-    "asn": "8053",
-    "country_code": "VE",
-    "name": "IFX Networks Venezuela C.A.",
-    "org": "IFX Networks Venezuela C.A.",
-    "domain": "ifxnw.com.ve"
-  },
-  {
-    "network": "190.94.241.0/24",
-    "asn": "8053",
-    "country_code": "VE",
-    "name": "IFX Networks Venezuela C.A.",
-    "org": "IFX Networks Venezuela C.A.",
-    "domain": "ifxnw.com.ve"
-  },
-  {
-    "network": "190.94.245.0/24",
-    "asn": "8053",
-    "country_code": "VE",
-    "name": "IFX Networks Venezuela C.A.",
-    "org": "IFX Networks Venezuela C.A.",
-    "domain": "ifxnw.com.ve"
-  },
-  {
-    "network": "190.94.250.0/24",
     "asn": "8053",
     "country_code": "VE",
     "name": "IFX Networks Venezuela C.A.",
@@ -24297,6 +23993,14 @@
   },
   {
     "network": "74.118.63.0/24",
+    "asn": "272814",
+    "country_code": "VE",
+    "name": "TOVARSAT C.A.",
+    "org": "TOVARSAT C.A.",
+    "domain": "tovarsat.com.ve"
+  },
+  {
+    "network": "185.203.194.0/24",
     "asn": "272814",
     "country_code": "VE",
     "name": "TOVARSAT C.A.",
@@ -27664,14 +27368,6 @@
     "domain": "topcomunications.com"
   },
   {
-    "network": "161.140.0.0/16",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
     "network": "161.140.0.0/20",
     "asn": "6306",
     "country_code": "VE",
@@ -27744,62 +27440,6 @@
     "domain": "telefonica.com"
   },
   {
-    "network": "161.212.0.0/16",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "161.234.0.0/16",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "161.255.0.0/16",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "179.20.0.0/14",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "179.44.0.0/14",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "181.180.0.0/14",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "181.184.0.0/14",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
     "network": "186.24.0.0/17",
     "asn": "6306",
     "country_code": "VE",
@@ -27817,14 +27457,6 @@
   },
   {
     "network": "186.24.4.0/22",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.24.8.0/22",
     "asn": "6306",
     "country_code": "VE",
     "name": "TELEFONICA VENEZOLANA, C.A.",
@@ -27864,14 +27496,6 @@
     "domain": "telefonica.com"
   },
   {
-    "network": "186.24.64.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
     "network": "186.24.80.0/20",
     "asn": "6306",
     "country_code": "VE",
@@ -27881,14 +27505,6 @@
   },
   {
     "network": "186.24.128.0/18",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.24.144.0/20",
     "asn": "6306",
     "country_code": "VE",
     "name": "TELEFONICA VENEZOLANA, C.A.",
@@ -27913,22 +27529,6 @@
   },
   {
     "network": "186.24.192.0/18",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.24.192.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.24.250.0/24",
     "asn": "6306",
     "country_code": "VE",
     "name": "TELEFONICA VENEZOLANA, C.A.",
@@ -28184,39 +27784,7 @@
     "domain": "telefonica.com"
   },
   {
-    "network": "186.166.0.0/16",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
     "network": "186.166.0.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.166.16.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.166.32.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.166.48.0/20",
     "asn": "6306",
     "country_code": "VE",
     "name": "TELEFONICA VENEZOLANA, C.A.",
@@ -28240,31 +27808,7 @@
     "domain": "telefonica.com"
   },
   {
-    "network": "186.166.96.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.166.112.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
     "network": "186.166.128.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.166.130.0/24",
     "asn": "6306",
     "country_code": "VE",
     "name": "TELEFONICA VENEZOLANA, C.A.",
@@ -28328,14 +27872,6 @@
     "domain": "telefonica.com"
   },
   {
-    "network": "186.166.176.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
     "network": "186.166.192.0/20",
     "asn": "6306",
     "country_code": "VE",
@@ -28392,23 +27928,7 @@
     "domain": "telefonica.com"
   },
   {
-    "network": "186.185.32.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
     "network": "186.185.48.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.185.64.0/20",
     "asn": "6306",
     "country_code": "VE",
     "name": "TELEFONICA VENEZOLANA, C.A.",
@@ -28433,14 +27953,6 @@
   },
   {
     "network": "186.185.112.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "186.185.128.0/20",
     "asn": "6306",
     "country_code": "VE",
     "name": "TELEFONICA VENEZOLANA, C.A.",
@@ -28480,14 +27992,6 @@
     "domain": "telefonica.com"
   },
   {
-    "network": "186.185.208.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
     "network": "186.185.224.0/20",
     "asn": "6306",
     "country_code": "VE",
@@ -28512,23 +28016,7 @@
     "domain": "telefonica.com"
   },
   {
-    "network": "200.31.128.0/20",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
     "network": "200.35.64.0/23",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "200.35.66.0/23",
     "asn": "6306",
     "country_code": "VE",
     "name": "TELEFONICA VENEZOLANA, C.A.",
@@ -28624,23 +28112,7 @@
     "domain": "telefonica.com"
   },
   {
-    "network": "200.35.116.0/22",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
     "network": "200.35.120.0/22",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "200.35.124.0/22",
     "asn": "6306",
     "country_code": "VE",
     "name": "TELEFONICA VENEZOLANA, C.A.",
@@ -28665,14 +28137,6 @@
   },
   {
     "network": "200.71.140.0/22",
-    "asn": "6306",
-    "country_code": "VE",
-    "name": "TELEFONICA VENEZOLANA, C.A.",
-    "org": "TELEFONICA VENEZOLANA, C.A.",
-    "domain": "telefonica.com"
-  },
-  {
-    "network": "200.71.144.0/20",
     "asn": "6306",
     "country_code": "VE",
     "name": "TELEFONICA VENEZOLANA, C.A.",
@@ -28856,7 +28320,23 @@
     "domain": "cantv.com.ve"
   },
   {
+    "network": "186.89.128.0/19",
+    "asn": "8048",
+    "country_code": "VE",
+    "name": "CANTV Servicios, Venezuela",
+    "org": "CANTV Servicios, Venezuela",
+    "domain": "cantv.com.ve"
+  },
+  {
     "network": "186.89.160.0/19",
+    "asn": "8048",
+    "country_code": "VE",
+    "name": "CANTV Servicios, Venezuela",
+    "org": "CANTV Servicios, Venezuela",
+    "domain": "cantv.com.ve"
+  },
+  {
+    "network": "186.89.192.0/19",
     "asn": "8048",
     "country_code": "VE",
     "name": "CANTV Servicios, Venezuela",
@@ -28945,6 +28425,14 @@
   },
   {
     "network": "186.91.128.0/19",
+    "asn": "8048",
+    "country_code": "VE",
+    "name": "CANTV Servicios, Venezuela",
+    "org": "CANTV Servicios, Venezuela",
+    "domain": "cantv.com.ve"
+  },
+  {
+    "network": "186.91.160.0/19",
     "asn": "8048",
     "country_code": "VE",
     "name": "CANTV Servicios, Venezuela",
@@ -29120,6 +28608,14 @@
     "domain": "cantv.com.ve"
   },
   {
+    "network": "186.94.192.0/19",
+    "asn": "8048",
+    "country_code": "VE",
+    "name": "CANTV Servicios, Venezuela",
+    "org": "CANTV Servicios, Venezuela",
+    "domain": "cantv.com.ve"
+  },
+  {
     "network": "186.94.224.0/19",
     "asn": "8048",
     "country_code": "VE",
@@ -29137,6 +28633,14 @@
   },
   {
     "network": "186.95.32.0/19",
+    "asn": "8048",
+    "country_code": "VE",
+    "name": "CANTV Servicios, Venezuela",
+    "org": "CANTV Servicios, Venezuela",
+    "domain": "cantv.com.ve"
+  },
+  {
+    "network": "186.95.64.0/19",
     "asn": "8048",
     "country_code": "VE",
     "name": "CANTV Servicios, Venezuela",
@@ -31976,6 +31480,14 @@
     "domain": "cantv.com.ve"
   },
   {
+    "network": "201.243.160.0/19",
+    "asn": "8048",
+    "country_code": "VE",
+    "name": "CANTV Servicios, Venezuela",
+    "org": "CANTV Servicios, Venezuela",
+    "domain": "cantv.com.ve"
+  },
+  {
     "network": "201.243.192.0/19",
     "asn": "8048",
     "country_code": "VE",
@@ -32416,6 +31928,22 @@
     "domain": "cantv.com.ve"
   },
   {
+    "network": "170.244.52.0/22",
+    "asn": "265633",
+    "country_code": "VE",
+    "name": "Comunicaciones Galup C.A",
+    "org": "Comunicaciones Galup C.A",
+    "domain": "galup.com.ve"
+  },
+  {
+    "network": "170.244.52.0/24",
+    "asn": "265633",
+    "country_code": "VE",
+    "name": "Comunicaciones Galup C.A",
+    "org": "Comunicaciones Galup C.A",
+    "domain": "galup.com.ve"
+  },
+  {
     "network": "170.244.53.0/24",
     "asn": "265633",
     "country_code": "VE",
@@ -32441,6 +31969,14 @@
   },
   {
     "network": "181.189.58.0/23",
+    "asn": "265633",
+    "country_code": "VE",
+    "name": "Comunicaciones Galup C.A",
+    "org": "Comunicaciones Galup C.A",
+    "domain": "galup.com.ve"
+  },
+  {
+    "network": "181.189.58.0/24",
     "asn": "265633",
     "country_code": "VE",
     "name": "Comunicaciones Galup C.A",
@@ -32520,31 +32056,7 @@
     "domain": "internetccom.net"
   },
   {
-    "network": "179.63.111.0/24",
-    "asn": "271904",
-    "country_code": "VE",
-    "name": "CHARTER COMMUNICATIONS INTERNATIONAL DE VENEZUELA C.A.",
-    "org": "CHARTER COMMUNICATIONS INTERNATIONAL DE VENEZUELA C.A.",
-    "domain": "internetccom.net"
-  },
-  {
     "network": "190.216.226.0/24",
-    "asn": "271904",
-    "country_code": "VE",
-    "name": "CHARTER COMMUNICATIONS INTERNATIONAL DE VENEZUELA C.A.",
-    "org": "CHARTER COMMUNICATIONS INTERNATIONAL DE VENEZUELA C.A.",
-    "domain": "internetccom.net"
-  },
-  {
-    "network": "190.216.227.0/24",
-    "asn": "271904",
-    "country_code": "VE",
-    "name": "CHARTER COMMUNICATIONS INTERNATIONAL DE VENEZUELA C.A.",
-    "org": "CHARTER COMMUNICATIONS INTERNATIONAL DE VENEZUELA C.A.",
-    "domain": "internetccom.net"
-  },
-  {
-    "network": "190.216.237.0/24",
     "asn": "271904",
     "country_code": "VE",
     "name": "CHARTER COMMUNICATIONS INTERNATIONAL DE VENEZUELA C.A.",

@@ -1232,6 +1232,14 @@
     "domain": "vodafone.gr"
   },
   {
+    "network": "38.9.32.0/24",
+    "asn": "3329",
+    "country_code": "GR",
+    "name": "HOL-GR",
+    "org": "Vodafone-panafon Hellenic Telecommunications Company SA",
+    "domain": "vodafone.gr"
+  },
+  {
     "network": "46.103.0.0/16",
     "asn": "3329",
     "country_code": "GR",
@@ -5208,14 +5216,6 @@
     "domain": "wifiber.gr"
   },
   {
-    "network": "213.169.154.0/24",
-    "asn": "211726",
-    "country_code": "GR",
-    "name": "WIFIBER",
-    "org": "Wifiber IKE",
-    "domain": "wifiber.gr"
-  },
-  {
     "network": "5.59.228.0/24",
     "asn": "212326",
     "country_code": "GR",
@@ -8632,7 +8632,23 @@
     "domain": "forthnet.gr"
   },
   {
+    "network": "2a03:f003:6::/48",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
     "network": "2a03:f003:8::/48",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
+    "network": "2a03:f003:a::/48",
     "asn": "25472",
     "country_code": "GR",
     "name": "WIND-AS",
@@ -8680,7 +8696,23 @@
     "domain": "forthnet.gr"
   },
   {
+    "network": "2a03:f003:600::/40",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
     "network": "2a03:f003:800::/40",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
+    "network": "2a03:f003:a00::/40",
     "asn": "25472",
     "country_code": "GR",
     "name": "WIND-AS",
@@ -9510,6 +9542,46 @@
     "name": "DataCom",
     "org": "GeniusMind S.A.",
     "domain": "geniusmind.gr"
+  },
+  {
+    "network": "44.30.95.0/24",
+    "asn": "51574",
+    "country_code": "GR",
+    "name": "FASTPATH-TESTNET",
+    "org": "FASTPATH IKE",
+    "domain": "fastpath.gr"
+  },
+  {
+    "network": "44.30.103.0/24",
+    "asn": "51574",
+    "country_code": "GR",
+    "name": "FASTPATH-TESTNET",
+    "org": "FASTPATH IKE",
+    "domain": "fastpath.gr"
+  },
+  {
+    "network": "44.30.135.0/24",
+    "asn": "51574",
+    "country_code": "GR",
+    "name": "FASTPATH-TESTNET",
+    "org": "FASTPATH IKE",
+    "domain": "fastpath.gr"
+  },
+  {
+    "network": "44.31.121.0/24",
+    "asn": "51574",
+    "country_code": "GR",
+    "name": "FASTPATH-TESTNET",
+    "org": "FASTPATH IKE",
+    "domain": "fastpath.gr"
+  },
+  {
+    "network": "2a13:5a07:fe::/48",
+    "asn": "51574",
+    "country_code": "GR",
+    "name": "FASTPATH-TESTNET",
+    "org": "FASTPATH IKE",
+    "domain": "fastpath.gr"
   },
   {
     "network": "44.31.176.0/24",
@@ -18448,7 +18520,7 @@
     "domain": "hermes-solutions.org"
   },
   {
-    "network": "2a0d:3dc1:b19c::/48",
+    "network": "2a0d:3dc1:b22c::/48",
     "asn": "210312",
     "country_code": "GR",
     "name": "BGP-CLOCK",

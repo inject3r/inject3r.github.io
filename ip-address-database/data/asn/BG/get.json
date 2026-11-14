@@ -18968,6 +18968,14 @@
     "domain": "vivacom.bg"
   },
   {
+    "network": "109.121.224.0/20",
+    "asn": "8866",
+    "country_code": "BG",
+    "name": "VIVACOM-AS",
+    "org": "Vivacom Bulgaria EAD",
+    "domain": "vivacom.bg"
+  },
+  {
     "network": "109.199.128.0/23",
     "asn": "8866",
     "country_code": "BG",
@@ -27136,6 +27144,14 @@
     "domain": "delta.bg"
   },
   {
+    "network": "195.64.160.0/24",
+    "asn": "8860",
+    "country_code": "BG",
+    "name": "DELTA-BG-AS",
+    "org": "Delta HighTech Ltd.",
+    "domain": "delta.bg"
+  },
+  {
     "network": "195.189.80.0/22",
     "asn": "8860",
     "country_code": "BG",
@@ -30336,14 +30352,6 @@
     "domain": "proximity-bg.com"
   },
   {
-    "network": "31.57.11.0/24",
-    "asn": "34565",
-    "country_code": "BG",
-    "name": "TURKIX",
-    "org": "TurkIX Communications Ltd.",
-    "domain": "turkix.bg"
-  },
-  {
     "network": "31.57.128.0/24",
     "asn": "214879",
     "country_code": "BG",
@@ -30369,14 +30377,6 @@
   },
   {
     "network": "62.192.132.0/24",
-    "asn": "39246",
-    "country_code": "BG",
-    "name": "LIULINNET",
-    "org": "Optical Structural Network Ltd.",
-    "domain": ""
-  },
-  {
-    "network": "62.192.133.0/24",
     "asn": "39246",
     "country_code": "BG",
     "name": "LIULINNET",
@@ -40336,30 +40336,6 @@
     "domain": "a1.bg"
   },
   {
-    "network": "78.90.135.0/24",
-    "asn": "35141",
-    "country_code": "BG",
-    "name": "A1BG_RSS",
-    "org": "A1 Bulgaria EAD",
-    "domain": "a1.bg"
-  },
-  {
-    "network": "78.90.136.0/23",
-    "asn": "35141",
-    "country_code": "BG",
-    "name": "A1BG_RSS",
-    "org": "A1 Bulgaria EAD",
-    "domain": "a1.bg"
-  },
-  {
-    "network": "78.90.138.0/24",
-    "asn": "35141",
-    "country_code": "BG",
-    "name": "A1BG_RSS",
-    "org": "A1 Bulgaria EAD",
-    "domain": "a1.bg"
-  },
-  {
     "network": "78.90.139.0/24",
     "asn": "35141",
     "country_code": "BG",
@@ -41153,14 +41129,6 @@
   },
   {
     "network": "95.111.51.0/24",
-    "asn": "35141",
-    "country_code": "BG",
-    "name": "A1BG_RSS",
-    "org": "A1 Bulgaria EAD",
-    "domain": "a1.bg"
-  },
-  {
-    "network": "95.111.53.0/24",
     "asn": "35141",
     "country_code": "BG",
     "name": "A1BG_RSS",
@@ -43017,14 +42985,6 @@
   },
   {
     "network": "94.131.7.0/24",
-    "asn": "8772",
-    "country_code": "BG",
-    "name": "NLineLLC",
-    "org": "Netassist International EOOD",
-    "domain": "netassist.ua"
-  },
-  {
-    "network": "95.164.9.0/24",
     "asn": "8772",
     "country_code": "BG",
     "name": "NLineLLC",
@@ -56272,6 +56232,22 @@
     "domain": "neterra.net"
   },
   {
+    "network": "85.217.182.0/23",
+    "asn": "212652",
+    "country_code": "BG",
+    "name": "Boramax",
+    "org": "Boramax ltd",
+    "domain": "novatel.bg"
+  },
+  {
+    "network": "88.213.208.0/23",
+    "asn": "212652",
+    "country_code": "BG",
+    "name": "Boramax",
+    "org": "Boramax ltd",
+    "domain": "novatel.bg"
+  },
+  {
     "network": "85.217.188.0/24",
     "asn": "31490",
     "country_code": "BG",
@@ -57702,14 +57678,6 @@
     "name": "BORICA-AS",
     "org": "BORICA AD",
     "domain": "borica.bg"
-  },
-  {
-    "network": "88.213.208.0/23",
-    "asn": "212652",
-    "country_code": "BG",
-    "name": "Boramax",
-    "org": "Boramax ltd",
-    "domain": "novatel.bg"
   },
   {
     "network": "89.25.32.0/24",
@@ -62532,8 +62500,8 @@
     "asn": "207094",
     "country_code": "BG",
     "name": "INTER-CARRIER-AS",
-    "org": "Inter Carrier Ltd",
-    "domain": "inter-carrier.net"
+    "org": "Sofia Connect EAD",
+    "domain": "sofia-connect.net"
   },
   {
     "network": "185.177.58.0/24",
@@ -63288,6 +63256,22 @@
     "domain": "btv.bg"
   },
   {
+    "network": "193.150.67.0/24",
+    "asn": "198127",
+    "country_code": "BG",
+    "name": "HRISTOBOGDANOV-AS",
+    "org": "Hristo Bogdanov",
+    "domain": "fenix.international"
+  },
+  {
+    "network": "2a00:e200:104::/48",
+    "asn": "198127",
+    "country_code": "BG",
+    "name": "HRISTOBOGDANOV-AS",
+    "org": "Hristo Bogdanov",
+    "domain": "fenix.international"
+  },
+  {
     "network": "193.161.192.0/24",
     "asn": "198940",
     "country_code": "BG",
@@ -63785,6 +63769,14 @@
   },
   {
     "network": "194.141.52.0/22",
+    "asn": "6802",
+    "country_code": "BG",
+    "name": "UNICOM-B-AS",
+    "org": "Bulgarian Research and Education Network Association (BREN)",
+    "domain": "acad.bg"
+  },
+  {
+    "network": "194.141.64.0/23",
     "asn": "6802",
     "country_code": "BG",
     "name": "UNICOM-B-AS",
@@ -65326,14 +65318,6 @@
     "name": "Neterra",
     "org": "Neterra Ltd.",
     "domain": "neterra.net"
-  },
-  {
-    "network": "2a00:e200:104::/48",
-    "asn": "198127",
-    "country_code": "BG",
-    "name": "HRISTOBOGDANOV-AS",
-    "org": "Hristo Bogdanov",
-    "domain": "fenix.international"
   },
   {
     "network": "2a01:d0:7fff::/48",

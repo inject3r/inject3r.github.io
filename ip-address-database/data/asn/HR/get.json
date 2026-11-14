@@ -4536,14 +4536,6 @@
     "domain": "iskon.hr"
   },
   {
-    "network": "141.136.155.0/24",
-    "asn": "13046",
-    "country_code": "HR",
-    "name": "ASN-ISKON",
-    "org": "Hrvatski Telekom d.d.",
-    "domain": "iskon.hr"
-  },
-  {
     "network": "141.136.156.0/24",
     "asn": "13046",
     "country_code": "HR",
@@ -6736,7 +6728,7 @@
     "domain": "cratis.hr"
   },
   {
-    "network": "194.56.72.0/23",
+    "network": "194.56.72.0/24",
     "asn": "61094",
     "country_code": "HR",
     "name": "CRATIS-AS",
@@ -7662,6 +7654,14 @@
     "name": "netlogic",
     "org": "NetLogic d.o.o.",
     "domain": "netlogic.ltd"
+  },
+  {
+    "network": "194.56.73.0/24",
+    "asn": "219274",
+    "country_code": "HR",
+    "name": "PROAXIS-CLOUD",
+    "org": "Proaxis d.o.o.",
+    "domain": "proaxis.hr"
   },
   {
     "network": "194.126.213.0/24",

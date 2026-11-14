@@ -184,7 +184,15 @@
     "domain": "powerline.hk"
   },
   {
-    "network": "45.9.108.0/24",
+    "network": "45.9.108.0/23",
+    "asn": "132839",
+    "country_code": "HK",
+    "name": "POWERLINE-AS-AP",
+    "org": "POWER LINE (HK) CO., LIMITED",
+    "domain": "powerline.hk"
+  },
+  {
+    "network": "45.9.110.0/23",
     "asn": "132839",
     "country_code": "HK",
     "name": "POWERLINE-AS-AP",
@@ -2017,14 +2025,6 @@
   },
   {
     "network": "193.108.96.0/23",
-    "asn": "132839",
-    "country_code": "HK",
-    "name": "POWERLINE-AS-AP",
-    "org": "POWER LINE (HK) CO., LIMITED",
-    "domain": "powerline.hk"
-  },
-  {
-    "network": "193.108.96.0/24",
     "asn": "132839",
     "country_code": "HK",
     "name": "POWERLINE-AS-AP",

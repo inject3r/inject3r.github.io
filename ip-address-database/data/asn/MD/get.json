@@ -824,6 +824,14 @@
     "domain": "alexhost.com"
   },
   {
+    "network": "164.37.194.0/24",
+    "asn": "200019",
+    "country_code": "MD",
+    "name": "AlexHost",
+    "org": "ALEXHOST S.R.L.",
+    "domain": "alexhost.com"
+  },
+  {
     "network": "176.116.0.0/24",
     "asn": "200019",
     "country_code": "MD",
@@ -1688,14 +1696,6 @@
     "domain": "moldtelecom.md"
   },
   {
-    "network": "92.115.192.0/18",
-    "asn": "8926",
-    "country_code": "MD",
-    "name": "MOLDTELECOM-AS",
-    "org": "Moldtelecom SA",
-    "domain": "moldtelecom.md"
-  },
-  {
     "network": "92.115.198.0/24",
     "asn": "8926",
     "country_code": "MD",
@@ -2009,6 +2009,14 @@
   },
   {
     "network": "188.212.40.0/21",
+    "asn": "8926",
+    "country_code": "MD",
+    "name": "MOLDTELECOM-AS",
+    "org": "Moldtelecom SA",
+    "domain": "moldtelecom.md"
+  },
+  {
+    "network": "188.214.145.0/24",
     "asn": "8926",
     "country_code": "MD",
     "name": "MOLDTELECOM-AS",
@@ -5352,14 +5360,6 @@
     "domain": ""
   },
   {
-    "network": "86.107.65.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
     "network": "86.107.66.0/24",
     "asn": "213705",
     "country_code": "MD",
@@ -5512,14 +5512,6 @@
     "domain": ""
   },
   {
-    "network": "93.119.238.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
     "network": "131.123.3.0/24",
     "asn": "213705",
     "country_code": "MD",
@@ -5641,14 +5633,6 @@
   },
   {
     "network": "188.210.243.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
-    "network": "188.210.246.0/24",
     "asn": "213705",
     "country_code": "MD",
     "name": "DIGITAL-NETWORK-SRL",
@@ -8064,14 +8048,6 @@
     "domain": "arax.md"
   },
   {
-    "network": "93.119.207.0/24",
-    "asn": "44589",
-    "country_code": "MD",
-    "name": "NetPulse",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
     "network": "93.185.165.0/24",
     "asn": "201670",
     "country_code": "MD",
@@ -8944,7 +8920,31 @@
     "domain": "cipherdigitalsolutions.com"
   },
   {
+    "network": "188.66.27.0/24",
+    "asn": "218537",
+    "country_code": "MD",
+    "name": "CIPHER",
+    "org": "Cipher Digital Solutions S.R.L.",
+    "domain": "cipherdigitalsolutions.com"
+  },
+  {
     "network": "191.217.161.0/24",
+    "asn": "218537",
+    "country_code": "MD",
+    "name": "CIPHER",
+    "org": "Cipher Digital Solutions S.R.L.",
+    "domain": "cipherdigitalsolutions.com"
+  },
+  {
+    "network": "201.3.120.0/24",
+    "asn": "218537",
+    "country_code": "MD",
+    "name": "CIPHER",
+    "org": "Cipher Digital Solutions S.R.L.",
+    "domain": "cipherdigitalsolutions.com"
+  },
+  {
+    "network": "201.3.121.0/24",
     "asn": "218537",
     "country_code": "MD",
     "name": "CIPHER",

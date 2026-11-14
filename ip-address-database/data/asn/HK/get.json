@@ -13856,14 +13856,6 @@
     "domain": "huaweicloud.com"
   },
   {
-    "network": "103.239.73.0/24",
-    "asn": "136907",
-    "country_code": "HK",
-    "name": "HWCLOUDS-AS-AP",
-    "org": "HUAWEI INTERNATIONAL PTE. LTD.",
-    "domain": "huaweicloud.com"
-  },
-  {
     "network": "103.240.156.0/22",
     "asn": "136907",
     "country_code": "HK",
@@ -17456,6 +17448,14 @@
     "domain": "hkglobalnetwork.com"
   },
   {
+    "network": "23.150.132.0/24",
+    "asn": "152179",
+    "country_code": "HK",
+    "name": "GCNL-AS-AP",
+    "org": "GLOBAL COMMUNICATION NETWORK LIMITED",
+    "domain": "hkglobalnetwork.com"
+  },
+  {
     "network": "23.150.212.0/24",
     "asn": "152179",
     "country_code": "HK",
@@ -17504,7 +17504,47 @@
     "domain": "hkglobalnetwork.com"
   },
   {
+    "network": "23.151.36.0/24",
+    "asn": "152179",
+    "country_code": "HK",
+    "name": "GCNL-AS-AP",
+    "org": "GLOBAL COMMUNICATION NETWORK LIMITED",
+    "domain": "hkglobalnetwork.com"
+  },
+  {
+    "network": "23.151.52.0/24",
+    "asn": "152179",
+    "country_code": "HK",
+    "name": "GCNL-AS-AP",
+    "org": "GLOBAL COMMUNICATION NETWORK LIMITED",
+    "domain": "hkglobalnetwork.com"
+  },
+  {
+    "network": "23.151.68.0/24",
+    "asn": "152179",
+    "country_code": "HK",
+    "name": "GCNL-AS-AP",
+    "org": "GLOBAL COMMUNICATION NETWORK LIMITED",
+    "domain": "hkglobalnetwork.com"
+  },
+  {
     "network": "23.151.84.0/24",
+    "asn": "152179",
+    "country_code": "HK",
+    "name": "GCNL-AS-AP",
+    "org": "GLOBAL COMMUNICATION NETWORK LIMITED",
+    "domain": "hkglobalnetwork.com"
+  },
+  {
+    "network": "23.151.108.0/24",
+    "asn": "152179",
+    "country_code": "HK",
+    "name": "GCNL-AS-AP",
+    "org": "GLOBAL COMMUNICATION NETWORK LIMITED",
+    "domain": "hkglobalnetwork.com"
+  },
+  {
+    "network": "23.152.12.0/24",
     "asn": "152179",
     "country_code": "HK",
     "name": "GCNL-AS-AP",
@@ -19713,6 +19753,14 @@
   },
   {
     "network": "193.111.197.0/24",
+    "asn": "152179",
+    "country_code": "HK",
+    "name": "GCNL-AS-AP",
+    "org": "GLOBAL COMMUNICATION NETWORK LIMITED",
+    "domain": "hkglobalnetwork.com"
+  },
+  {
+    "network": "194.5.148.0/24",
     "asn": "152179",
     "country_code": "HK",
     "name": "GCNL-AS-AP",
@@ -22584,14 +22632,6 @@
     "domain": "hgcbroadband.com"
   },
   {
-    "network": "77.81.80.0/24",
-    "asn": "9304",
-    "country_code": "HK",
-    "name": "HUTCHISON-AS-AP",
-    "org": "HGC Global Communications Limited",
-    "domain": "hgcbroadband.com"
-  },
-  {
     "network": "78.105.100.0/24",
     "asn": "9304",
     "country_code": "HK",
@@ -23137,14 +23177,6 @@
   },
   {
     "network": "87.82.232.0/24",
-    "asn": "9304",
-    "country_code": "HK",
-    "name": "HUTCHISON-AS-AP",
-    "org": "HGC Global Communications Limited",
-    "domain": "hgcbroadband.com"
-  },
-  {
-    "network": "87.83.217.0/24",
     "asn": "9304",
     "country_code": "HK",
     "name": "HUTCHISON-AS-AP",
@@ -32440,7 +32472,15 @@
     "domain": "powerline.hk"
   },
   {
-    "network": "45.9.108.0/24",
+    "network": "45.9.108.0/23",
+    "asn": "132839",
+    "country_code": "HK",
+    "name": "POWERLINE-AS-AP",
+    "org": "POWER LINE (HK) CO., LIMITED",
+    "domain": "powerline.hk"
+  },
+  {
+    "network": "45.9.110.0/23",
     "asn": "132839",
     "country_code": "HK",
     "name": "POWERLINE-AS-AP",
@@ -34280,14 +34320,6 @@
     "domain": "powerline.hk"
   },
   {
-    "network": "193.108.96.0/24",
-    "asn": "132839",
-    "country_code": "HK",
-    "name": "POWERLINE-AS-AP",
-    "org": "POWER LINE (HK) CO., LIMITED",
-    "domain": "powerline.hk"
-  },
-  {
     "network": "193.108.97.0/24",
     "asn": "132839",
     "country_code": "HK",
@@ -34456,30 +34488,6 @@
     "domain": "allcloud.cc"
   },
   {
-    "network": "91.204.224.0/22",
-    "asn": "136038",
-    "country_code": "HK",
-    "name": "HDTIDCCLOUD-AS-AP",
-    "org": "HDTIDC LIMITED",
-    "domain": "allcloud.cc"
-  },
-  {
-    "network": "103.80.132.0/22",
-    "asn": "136038",
-    "country_code": "HK",
-    "name": "HDTIDCCLOUD-AS-AP",
-    "org": "HDTIDC LIMITED",
-    "domain": "allcloud.cc"
-  },
-  {
-    "network": "103.99.208.0/23",
-    "asn": "136038",
-    "country_code": "HK",
-    "name": "HDTIDCCLOUD-AS-AP",
-    "org": "HDTIDC LIMITED",
-    "domain": "allcloud.cc"
-  },
-  {
     "network": "103.254.72.0/22",
     "asn": "136038",
     "country_code": "HK",
@@ -34505,14 +34513,6 @@
   },
   {
     "network": "103.254.75.0/24",
-    "asn": "136038",
-    "country_code": "HK",
-    "name": "HDTIDCCLOUD-AS-AP",
-    "org": "HDTIDC LIMITED",
-    "domain": "allcloud.cc"
-  },
-  {
-    "network": "185.202.100.0/22",
     "asn": "136038",
     "country_code": "HK",
     "name": "HDTIDCCLOUD-AS-AP",
@@ -36841,6 +36841,14 @@
   },
   {
     "network": "188.253.116.0/23",
+    "asn": "38136",
+    "country_code": "HK",
+    "name": "AKARI-NETWORKS-AS-AP",
+    "org": "Akari Networks Limited",
+    "domain": "akari.hk"
+  },
+  {
+    "network": "188.253.116.0/24",
     "asn": "38136",
     "country_code": "HK",
     "name": "AKARI-NETWORKS-AS-AP",
@@ -39688,14 +39696,6 @@
     "domain": "thinkhuge.net"
   },
   {
-    "network": "185.175.141.0/24",
-    "asn": "199967",
-    "country_code": "HK",
-    "name": "Think-Huge",
-    "org": "Think Huge Ltd",
-    "domain": "thinkhuge.net"
-  },
-  {
     "network": "185.187.237.0/24",
     "asn": "199967",
     "country_code": "HK",
@@ -40577,6 +40577,14 @@
   },
   {
     "network": "103.115.48.0/22",
+    "asn": "55933",
+    "country_code": "HK",
+    "name": "CLOUDIE-AS-AP",
+    "org": "Cloudie Limited",
+    "domain": "cloudie.hk"
+  },
+  {
+    "network": "103.115.48.0/24",
     "asn": "55933",
     "country_code": "HK",
     "name": "CLOUDIE-AS-AP",
@@ -66664,14 +66672,6 @@
     "domain": "backwaves.net"
   },
   {
-    "network": "2401:ce20:7::/48",
-    "asn": "153371",
-    "country_code": "HK",
-    "name": "BACKWAVESLIMITED-AS-AP",
-    "org": "BACK WAVES LIMITED",
-    "domain": "backwaves.net"
-  },
-  {
     "network": "2401:ce20:8::/48",
     "asn": "153371",
     "country_code": "HK",
@@ -77392,14 +77392,6 @@
     "domain": "absatellite.com"
   },
   {
-    "network": "185.198.106.0/24",
-    "asn": "38176",
-    "country_code": "HK",
-    "name": "ABS-AS-AP",
-    "org": "ABS (HK) Limited",
-    "domain": "absatellite.com"
-  },
-  {
     "network": "185.198.107.0/24",
     "asn": "38176",
     "country_code": "HK",
@@ -77457,14 +77449,6 @@
   },
   {
     "network": "203.202.228.0/23",
-    "asn": "38176",
-    "country_code": "HK",
-    "name": "ABS-AS-AP",
-    "org": "ABS (HK) Limited",
-    "domain": "absatellite.com"
-  },
-  {
-    "network": "203.202.228.0/24",
     "asn": "38176",
     "country_code": "HK",
     "name": "ABS-AS-AP",
@@ -83560,39 +83544,7 @@
     "domain": ""
   },
   {
-    "network": "61.15.198.0/24",
-    "asn": "219075",
-    "country_code": "HK",
-    "name": "VSEEK",
-    "org": "VSEEK LIMITED",
-    "domain": ""
-  },
-  {
-    "network": "61.15.203.0/24",
-    "asn": "219075",
-    "country_code": "HK",
-    "name": "VSEEK",
-    "org": "VSEEK LIMITED",
-    "domain": ""
-  },
-  {
-    "network": "61.15.205.0/24",
-    "asn": "219075",
-    "country_code": "HK",
-    "name": "VSEEK",
-    "org": "VSEEK LIMITED",
-    "domain": ""
-  },
-  {
     "network": "61.15.211.0/24",
-    "asn": "219075",
-    "country_code": "HK",
-    "name": "VSEEK",
-    "org": "VSEEK LIMITED",
-    "domain": ""
-  },
-  {
-    "network": "61.15.213.0/24",
     "asn": "219075",
     "country_code": "HK",
     "name": "VSEEK",
@@ -83776,6 +83728,14 @@
     "domain": ""
   },
   {
+    "network": "77.216.38.0/24",
+    "asn": "219075",
+    "country_code": "HK",
+    "name": "VSEEK",
+    "org": "VSEEK LIMITED",
+    "domain": ""
+  },
+  {
     "network": "79.98.244.0/24",
     "asn": "219075",
     "country_code": "HK",
@@ -83801,6 +83761,14 @@
   },
   {
     "network": "87.84.21.0/24",
+    "asn": "219075",
+    "country_code": "HK",
+    "name": "VSEEK",
+    "org": "VSEEK LIMITED",
+    "domain": ""
+  },
+  {
+    "network": "96.62.206.0/24",
     "asn": "219075",
     "country_code": "HK",
     "name": "VSEEK",
@@ -89800,6 +89768,14 @@
     "domain": "hans-tech.asia"
   },
   {
+    "network": "205.198.42.0/24",
+    "asn": "147019",
+    "country_code": "HK",
+    "name": "HHLJ-AS-AP",
+    "org": "jiii",
+    "domain": "hans-tech.asia"
+  },
+  {
     "network": "205.198.44.0/24",
     "asn": "147019",
     "country_code": "HK",
@@ -90441,14 +90417,6 @@
   },
   {
     "network": "104.143.40.0/24",
-    "asn": "140227",
-    "country_code": "HK",
-    "name": "HKCICL-AS-AP",
-    "org": "Hong Kong Communications International Co., Limited",
-    "domain": "hncloud.com"
-  },
-  {
-    "network": "104.143.41.0/24",
     "asn": "140227",
     "country_code": "HK",
     "name": "HKCICL-AS-AP",
@@ -106320,14 +106288,6 @@
     "domain": "yisu.com"
   },
   {
-    "network": "103.146.158.0/24",
-    "asn": "142403",
-    "country_code": "HK",
-    "name": "YISUCLOUDLTD-HK",
-    "org": "YISU CLOUD LIMITED",
-    "domain": "yisu.com"
-  },
-  {
     "network": "103.146.159.0/24",
     "asn": "142403",
     "country_code": "HK",
@@ -106776,7 +106736,39 @@
     "domain": "junglelabs.space"
   },
   {
+    "network": "61.15.230.0/24",
+    "asn": "218780",
+    "country_code": "HK",
+    "name": "KINGNIU-LIMITED",
+    "org": "KINGNIU LIMITED",
+    "domain": "junglelabs.space"
+  },
+  {
     "network": "61.15.231.0/24",
+    "asn": "218780",
+    "country_code": "HK",
+    "name": "KINGNIU-LIMITED",
+    "org": "KINGNIU LIMITED",
+    "domain": "junglelabs.space"
+  },
+  {
+    "network": "61.15.234.0/24",
+    "asn": "218780",
+    "country_code": "HK",
+    "name": "KINGNIU-LIMITED",
+    "org": "KINGNIU LIMITED",
+    "domain": "junglelabs.space"
+  },
+  {
+    "network": "77.216.40.0/24",
+    "asn": "218780",
+    "country_code": "HK",
+    "name": "KINGNIU-LIMITED",
+    "org": "KINGNIU LIMITED",
+    "domain": "junglelabs.space"
+  },
+  {
+    "network": "77.216.42.0/24",
     "asn": "218780",
     "country_code": "HK",
     "name": "KINGNIU-LIMITED",
@@ -106841,6 +106833,14 @@
   },
   {
     "network": "95.135.6.0/24",
+    "asn": "218780",
+    "country_code": "HK",
+    "name": "KINGNIU-LIMITED",
+    "org": "KINGNIU LIMITED",
+    "domain": "junglelabs.space"
+  },
+  {
+    "network": "96.62.204.0/24",
     "asn": "218780",
     "country_code": "HK",
     "name": "KINGNIU-LIMITED",
@@ -118672,14 +118672,6 @@
     "domain": ""
   },
   {
-    "network": "103.40.6.0/24",
-    "asn": "133747",
-    "country_code": "HK",
-    "name": "TRIUMPH-AS-AP",
-    "org": "TRIUMPH DYNASTY Limited",
-    "domain": ""
-  },
-  {
     "network": "103.40.176.0/22",
     "asn": "133747",
     "country_code": "HK",
@@ -118697,14 +118689,6 @@
   },
   {
     "network": "103.226.100.0/22",
-    "asn": "133747",
-    "country_code": "HK",
-    "name": "TRIUMPH-AS-AP",
-    "org": "TRIUMPH DYNASTY Limited",
-    "domain": ""
-  },
-  {
-    "network": "103.226.100.0/24",
     "asn": "133747",
     "country_code": "HK",
     "name": "TRIUMPH-AS-AP",
@@ -124728,6 +124712,14 @@
     "domain": "f57.net"
   },
   {
+    "network": "91.204.224.0/22",
+    "asn": "205960",
+    "country_code": "HK",
+    "name": "HDT",
+    "org": "HDTIDC LIMITED",
+    "domain": "f57.net"
+  },
+  {
     "network": "91.204.224.0/24",
     "asn": "205960",
     "country_code": "HK",
@@ -124760,6 +124752,14 @@
     "domain": "f57.net"
   },
   {
+    "network": "103.80.132.0/22",
+    "asn": "205960",
+    "country_code": "HK",
+    "name": "HDT",
+    "org": "HDTIDC LIMITED",
+    "domain": "f57.net"
+  },
+  {
     "network": "103.80.132.0/24",
     "asn": "205960",
     "country_code": "HK",
@@ -124777,6 +124777,14 @@
   },
   {
     "network": "103.91.217.0/24",
+    "asn": "205960",
+    "country_code": "HK",
+    "name": "HDT",
+    "org": "HDTIDC LIMITED",
+    "domain": "f57.net"
+  },
+  {
+    "network": "103.99.208.0/23",
     "asn": "205960",
     "country_code": "HK",
     "name": "HDT",
@@ -124865,6 +124873,14 @@
   },
   {
     "network": "182.161.66.0/24",
+    "asn": "205960",
+    "country_code": "HK",
+    "name": "HDT",
+    "org": "HDTIDC LIMITED",
+    "domain": "f57.net"
+  },
+  {
+    "network": "185.202.100.0/22",
     "asn": "205960",
     "country_code": "HK",
     "name": "HDT",
@@ -127088,6 +127104,14 @@
     "domain": "tele-asia.net"
   },
   {
+    "network": "122.14.132.0/24",
+    "asn": "133398",
+    "country_code": "HK",
+    "name": "TELE-AS",
+    "org": "Tele Asia Limited",
+    "domain": "tele-asia.net"
+  },
+  {
     "network": "196.198.29.0/24",
     "asn": "133398",
     "country_code": "HK",
@@ -127105,6 +127129,14 @@
   },
   {
     "network": "212.100.169.0/24",
+    "asn": "133398",
+    "country_code": "HK",
+    "name": "TELE-AS",
+    "org": "Tele Asia Limited",
+    "domain": "tele-asia.net"
+  },
+  {
+    "network": "223.252.173.0/24",
     "asn": "133398",
     "country_code": "HK",
     "name": "TELE-AS",
@@ -132032,6 +132064,14 @@
     "domain": "larus.net"
   },
   {
+    "network": "45.198.36.0/24",
+    "asn": "17561",
+    "country_code": "HK",
+    "name": "LCS-AS-AP",
+    "org": "Larus Limited",
+    "domain": "larus.net"
+  },
+  {
     "network": "45.198.37.0/24",
     "asn": "17561",
     "country_code": "HK",
@@ -136304,22 +136344,6 @@
     "domain": "larus.net"
   },
   {
-    "network": "154.82.130.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.82.131.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
     "network": "154.82.132.0/24",
     "asn": "17561",
     "country_code": "HK",
@@ -137952,38 +137976,6 @@
     "domain": "larus.net"
   },
   {
-    "network": "154.90.133.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.90.188.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.90.190.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.90.191.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
     "network": "154.91.1.0/24",
     "asn": "17561",
     "country_code": "HK",
@@ -138113,350 +138105,6 @@
   },
   {
     "network": "154.94.55.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.0.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.1.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.2.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.3.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.4.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.5.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.10.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.11.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.12.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.13.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.14.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.15.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.16.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.17.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.18.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.19.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.20.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.21.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.22.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.23.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.26.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.27.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.28.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.29.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.30.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.31.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.32.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.33.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.34.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.35.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.36.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.37.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.38.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.39.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.40.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.41.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.42.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.43.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.44.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.45.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.46.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.47.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.95.53.0/24",
     "asn": "17561",
     "country_code": "HK",
     "name": "LCS-AS-AP",
@@ -140609,206 +140257,6 @@
   },
   {
     "network": "154.199.5.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.36.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.88.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.96.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.99.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.108.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.111.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.155.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.212.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.213.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.214.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.215.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.216.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.217.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.218.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.219.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.220.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.221.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.222.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.223.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.224.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.225.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.226.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.242.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.248.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.200.249.0/24",
     "asn": "17561",
     "country_code": "HK",
     "name": "LCS-AS-AP",
@@ -144416,14 +143864,6 @@
     "domain": "larus.net"
   },
   {
-    "network": "154.217.146.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
     "network": "154.217.147.0/24",
     "asn": "17561",
     "country_code": "HK",
@@ -145817,14 +145257,6 @@
   },
   {
     "network": "154.222.79.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "154.222.87.0/24",
     "asn": "17561",
     "country_code": "HK",
     "name": "LCS-AS-AP",
@@ -149449,14 +148881,6 @@
   },
   {
     "network": "156.229.168.0/22",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "156.230.0.0/24",
     "asn": "17561",
     "country_code": "HK",
     "name": "LCS-AS-AP",
@@ -161944,14 +161368,6 @@
     "domain": "larus.net"
   },
   {
-    "network": "177.111.237.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
     "network": "177.111.238.0/24",
     "asn": "17561",
     "country_code": "HK",
@@ -163689,14 +163105,6 @@
   },
   {
     "network": "177.122.206.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "177.122.207.0/24",
     "asn": "17561",
     "country_code": "HK",
     "name": "LCS-AS-AP",
@@ -168065,22 +167473,6 @@
   },
   {
     "network": "179.77.239.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "179.77.242.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
-    "network": "179.77.243.0/24",
     "asn": "17561",
     "country_code": "HK",
     "name": "LCS-AS-AP",
@@ -177872,6 +177264,14 @@
     "domain": "158.hk"
   },
   {
+    "network": "150.129.218.0/24",
+    "asn": "134365",
+    "country_code": "HK",
+    "name": "ANSHENG-AS-AP",
+    "org": "Ansheng Network Technology Co., Limited",
+    "domain": "158.hk"
+  },
+  {
     "network": "154.194.248.0/21",
     "asn": "134365",
     "country_code": "HK",
@@ -177880,7 +177280,7 @@
     "domain": "158.hk"
   },
   {
-    "network": "154.194.251.0/24",
+    "network": "154.198.40.0/22",
     "asn": "134365",
     "country_code": "HK",
     "name": "ANSHENG-AS-AP",
@@ -177888,7 +177288,7 @@
     "domain": "158.hk"
   },
   {
-    "network": "154.198.40.0/22",
+    "network": "154.198.43.0/24",
     "asn": "134365",
     "country_code": "HK",
     "name": "ANSHENG-AS-AP",
@@ -184392,47 +183792,7 @@
     "domain": "junglelabs.space"
   },
   {
-    "network": "61.15.215.0/24",
-    "asn": "218911",
-    "country_code": "HK",
-    "name": "ORION-LIMITED",
-    "org": "ORION LIMITED",
-    "domain": "junglelabs.space"
-  },
-  {
     "network": "61.18.168.0/24",
-    "asn": "218911",
-    "country_code": "HK",
-    "name": "ORION-LIMITED",
-    "org": "ORION LIMITED",
-    "domain": "junglelabs.space"
-  },
-  {
-    "network": "61.18.178.0/24",
-    "asn": "218911",
-    "country_code": "HK",
-    "name": "ORION-LIMITED",
-    "org": "ORION LIMITED",
-    "domain": "junglelabs.space"
-  },
-  {
-    "network": "61.18.180.0/24",
-    "asn": "218911",
-    "country_code": "HK",
-    "name": "ORION-LIMITED",
-    "org": "ORION LIMITED",
-    "domain": "junglelabs.space"
-  },
-  {
-    "network": "61.18.182.0/24",
-    "asn": "218911",
-    "country_code": "HK",
-    "name": "ORION-LIMITED",
-    "org": "ORION LIMITED",
-    "domain": "junglelabs.space"
-  },
-  {
-    "network": "61.18.188.0/24",
     "asn": "218911",
     "country_code": "HK",
     "name": "ORION-LIMITED",
@@ -184966,126 +184326,6 @@
     "name": "XTDef",
     "org": "XTDEF-Limited",
     "domain": "xtdef.com"
-  },
-  {
-    "network": "62.144.43.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "68.164.65.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "72.244.48.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "87.84.22.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "144.56.116.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "154.16.222.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "164.37.234.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "178.92.178.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "178.93.191.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "187.14.182.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "189.12.136.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "189.12.139.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "194.231.142.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "217.8.204.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
-  },
-  {
-    "network": "217.8.206.0/24",
-    "asn": "219447",
-    "country_code": "HK",
-    "name": "FLASHSPEEDLIMITED",
-    "org": "HONG KONG FLASH SPEED LIMITED",
-    "domain": "hkflashspeed.com"
   },
   {
     "network": "63.140.1.0/24",
@@ -186712,6 +185952,14 @@
     "domain": "wjy.me"
   },
   {
+    "network": "66.111.110.0/23",
+    "asn": "41665",
+    "country_code": "HK",
+    "name": "WJY-AS",
+    "org": "WJY (Hong Kong) Limited",
+    "domain": "wjy.me"
+  },
+  {
     "network": "66.111.98.0/24",
     "asn": "150670",
     "country_code": "HK",
@@ -186790,6 +186038,110 @@
     "name": "WLXLIMITED-AS-AP",
     "org": "WLX Limited",
     "domain": "wlx.hk"
+  },
+  {
+    "network": "68.164.65.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "72.244.48.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "87.84.22.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "144.56.116.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "154.16.222.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "164.37.234.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "178.92.178.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "178.93.191.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "187.14.182.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "189.12.136.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "194.231.142.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "217.8.204.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
+  },
+  {
+    "network": "217.8.206.0/24",
+    "asn": "219447",
+    "country_code": "HK",
+    "name": "FLASHSPEEDLIMITED",
+    "org": "HONG KONG FLASH SPEED LIMITED",
+    "domain": "hkflashspeed.com"
   },
   {
     "network": "72.206.85.0/24",
@@ -187488,6 +186840,22 @@
     "domain": "ipv4superhub.com"
   },
   {
+    "network": "79.182.163.0/24",
+    "asn": "199707",
+    "country_code": "HK",
+    "name": "XINGTONGHUI",
+    "org": "HONGKONG XING TONG HUI TECHNOLOGY CO., LIMITED",
+    "domain": "ipv4superhub.com"
+  },
+  {
+    "network": "79.182.197.0/24",
+    "asn": "199707",
+    "country_code": "HK",
+    "name": "XINGTONGHUI",
+    "org": "HONGKONG XING TONG HUI TECHNOLOGY CO., LIMITED",
+    "domain": "ipv4superhub.com"
+  },
+  {
     "network": "83.245.3.0/24",
     "asn": "199707",
     "country_code": "HK",
@@ -187752,7 +187120,23 @@
     "domain": "hkbeecloudsystem.com"
   },
   {
+    "network": "79.109.56.0/21",
+    "asn": "138542",
+    "country_code": "HK",
+    "name": "ZTINFO-AS-HK",
+    "org": "ZT Information Network Co., Limited",
+    "domain": "hkbeecloudsystem.com"
+  },
+  {
     "network": "79.109.64.0/18",
+    "asn": "138542",
+    "country_code": "HK",
+    "name": "ZTINFO-AS-HK",
+    "org": "ZT Information Network Co., Limited",
+    "domain": "hkbeecloudsystem.com"
+  },
+  {
+    "network": "79.109.208.0/20",
     "asn": "138542",
     "country_code": "HK",
     "name": "ZTINFO-AS-HK",
@@ -197217,6 +196601,14 @@
   },
   {
     "network": "103.107.238.0/24",
+    "asn": "136970",
+    "country_code": "HK",
+    "name": "YISUCLOUDLTD-AS-AP",
+    "org": "YISU CLOUD LIMITED",
+    "domain": "yisu.com"
+  },
+  {
+    "network": "103.146.158.0/24",
     "asn": "136970",
     "country_code": "HK",
     "name": "YISUCLOUDLTD-AS-AP",
@@ -207977,14 +207369,6 @@
   },
   {
     "network": "156.226.32.0/19",
-    "asn": "135097",
-    "country_code": "HK",
-    "name": "MYCLOUD-AS-AP",
-    "org": "LUOGELANG (FRANCE) LIMITED",
-    "domain": ""
-  },
-  {
-    "network": "156.226.32.0/24",
     "asn": "135097",
     "country_code": "HK",
     "name": "MYCLOUD-AS-AP",
@@ -218840,7 +218224,7 @@
     "domain": "2048.co"
   },
   {
-    "network": "2a06:de05:600f::/48",
+    "network": "2a06:de05:6013::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218848,7 +218232,7 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:6025::/48",
+    "network": "2a06:de05:6120::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218856,7 +218240,7 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:6055::/48",
+    "network": "2a06:de05:61bd::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218864,7 +218248,7 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:623b::/48",
+    "network": "2a06:de05:61fc::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218872,7 +218256,7 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:6250::/48",
+    "network": "2a06:de05:625d::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218880,7 +218264,23 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:6340::/48",
+    "network": "2a06:de05:6265::/48",
+    "asn": "199340",
+    "country_code": "HK",
+    "name": "HONG-GUANWAN",
+    "org": "HONG,GUANWAN",
+    "domain": "as199340.net"
+  },
+  {
+    "network": "2a06:de05:62f8::/48",
+    "asn": "199340",
+    "country_code": "HK",
+    "name": "HONG-GUANWAN",
+    "org": "HONG,GUANWAN",
+    "domain": "as199340.net"
+  },
+  {
+    "network": "2a06:de05:6307::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
