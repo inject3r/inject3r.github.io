@@ -12816,14 +12816,6 @@
     "domain": "as59645.net"
   },
   {
-    "network": "2a0e:a44::/32",
-    "asn": "59645",
-    "country_code": "AT",
-    "name": "WYBT-NET",
-    "org": "Tobias Fiebig",
-    "domain": "as59645.net"
-  },
-  {
     "network": "2a0e:a46::/32",
     "asn": "59645",
     "country_code": "AT",
@@ -32064,7 +32056,15 @@
     "domain": "cargo-partner.com"
   },
   {
-    "network": "195.245.92.0/23",
+    "network": "195.245.92.0/24",
+    "asn": "29429",
+    "country_code": "AT",
+    "name": "ALLIANZAT-AS",
+    "org": "Allianz Elementar Versicherungs AG",
+    "domain": "allianz.at"
+  },
+  {
+    "network": "195.245.93.0/24",
     "asn": "29429",
     "country_code": "AT",
     "name": "ALLIANZAT-AS",

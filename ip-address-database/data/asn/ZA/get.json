@@ -14744,14 +14744,6 @@
     "domain": "herotel.com"
   },
   {
-    "network": "102.66.148.0/24",
-    "asn": "328471",
-    "country_code": "ZA",
-    "name": "Hero-Telecoms",
-    "org": "HERO TELECOMS (PTY) LTD",
-    "domain": "herotel.com"
-  },
-  {
     "network": "102.66.149.0/24",
     "asn": "328471",
     "country_code": "ZA",
@@ -19097,6 +19089,14 @@
   },
   {
     "network": "155.235.240.0/22",
+    "asn": "16637",
+    "country_code": "ZA",
+    "name": "MTNNS-AS",
+    "org": "MTN SA",
+    "domain": "mtn.com"
+  },
+  {
+    "network": "196.3.110.0/24",
     "asn": "16637",
     "country_code": "ZA",
     "name": "MTNNS-AS",
@@ -36144,6 +36144,14 @@
     "domain": "infodoor.co.za"
   },
   {
+    "network": "62.60.134.0/24",
+    "asn": "209425",
+    "country_code": "ZA",
+    "name": "KOI-AS",
+    "org": "KOI CLOUD SERVICES (Pty) Ltd",
+    "domain": ""
+  },
+  {
     "network": "66.18.64.0/20",
     "asn": "22572",
     "country_code": "ZA",
@@ -39142,14 +39150,6 @@
     "name": "Cloudface-AS",
     "org": "CloudFace Pty Ltd",
     "domain": "majesticdata.co.za"
-  },
-  {
-    "network": "102.36.236.0/22",
-    "asn": "328518",
-    "country_code": "ZA",
-    "name": "Fontel-Ltd",
-    "org": "FONTEL (PTY) LTD",
-    "domain": "fontel.co.za"
   },
   {
     "network": "102.36.248.0/22",
@@ -49232,7 +49232,31 @@
     "domain": "transnet.net"
   },
   {
-    "network": "102.216.112.0/22",
+    "network": "102.216.112.0/24",
+    "asn": "329038",
+    "country_code": "ZA",
+    "name": "WHL1-AS",
+    "org": "WELINK HOLDINGS (PTY) LTD",
+    "domain": "kuuh.co.za"
+  },
+  {
+    "network": "102.216.113.0/24",
+    "asn": "329038",
+    "country_code": "ZA",
+    "name": "WHL1-AS",
+    "org": "WELINK HOLDINGS (PTY) LTD",
+    "domain": "kuuh.co.za"
+  },
+  {
+    "network": "102.216.114.0/24",
+    "asn": "329038",
+    "country_code": "ZA",
+    "name": "WHL1-AS",
+    "org": "WELINK HOLDINGS (PTY) LTD",
+    "domain": "kuuh.co.za"
+  },
+  {
+    "network": "102.216.115.0/24",
     "asn": "329038",
     "country_code": "ZA",
     "name": "WHL1-AS",
@@ -58113,6 +58137,30 @@
   },
   {
     "network": "160.19.128.0/20",
+    "asn": "328218",
+    "country_code": "ZA",
+    "name": "WASP-AS",
+    "org": "Wireless Associate Service Providers CC",
+    "domain": "wasp-sa.co.za"
+  },
+  {
+    "network": "2c0f:f148::/32",
+    "asn": "328218",
+    "country_code": "ZA",
+    "name": "WASP-AS",
+    "org": "Wireless Associate Service Providers CC",
+    "domain": "wasp-sa.co.za"
+  },
+  {
+    "network": "2c0f:f148::/33",
+    "asn": "328218",
+    "country_code": "ZA",
+    "name": "WASP-AS",
+    "org": "Wireless Associate Service Providers CC",
+    "domain": "wasp-sa.co.za"
+  },
+  {
+    "network": "2c0f:f148:8000::/33",
     "asn": "328218",
     "country_code": "ZA",
     "name": "WASP-AS",
