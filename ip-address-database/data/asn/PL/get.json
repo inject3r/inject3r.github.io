@@ -10104,70 +10104,6 @@
     "domain": "voxihost.pl"
   },
   {
-    "network": "31.57.66.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "45.158.11.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "79.98.36.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "79.182.132.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "104.234.156.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "130.78.186.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "201.3.229.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
-    "network": "2a0d:d940:9009::/48",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
     "network": "31.58.51.0/24",
     "asn": "214481",
     "country_code": "PL",
@@ -19262,6 +19198,62 @@
     "name": "TELNAP",
     "org": "TELNAP TELECOM Sp. z o.o.",
     "domain": "telnaptelecom.pl"
+  },
+  {
+    "network": "45.158.11.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "79.98.36.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "79.182.132.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "104.234.156.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "130.78.186.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "201.3.229.0/24",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
+  },
+  {
+    "network": "2a0d:d940:9009::/48",
+    "asn": "219498",
+    "country_code": "PL",
+    "name": "TRIFONOV-AS",
+    "org": "Artem Kovalchuk",
+    "domain": "trifonov.beer"
   },
   {
     "network": "45.158.72.0/22",
@@ -37560,6 +37552,14 @@
     "domain": "epix.net.pl"
   },
   {
+    "network": "2a10:f783::/48",
+    "asn": "197961",
+    "country_code": "PL",
+    "name": "EPIX-CDN1",
+    "org": "Stowarzyszenie e-Poludnie",
+    "domain": "epix.net.pl"
+  },
+  {
     "network": "2a10:f783:22::/48",
     "asn": "197961",
     "country_code": "PL",
@@ -55232,6 +55232,22 @@
     "domain": "um.bielsko.pl"
   },
   {
+    "network": "185.43.136.0/24",
+    "asn": "199810",
+    "country_code": "PL",
+    "name": "UMBB-INET",
+    "org": "Miasto Bielsko-Biala",
+    "domain": "um.bielsko.pl"
+  },
+  {
+    "network": "185.43.139.0/24",
+    "asn": "199810",
+    "country_code": "PL",
+    "name": "UMBB-INET",
+    "org": "Miasto Bielsko-Biala",
+    "domain": "um.bielsko.pl"
+  },
+  {
     "network": "185.46.92.0/24",
     "asn": "39499",
     "country_code": "PL",
@@ -65748,14 +65764,6 @@
     "asn": "62081",
     "country_code": "PL",
     "name": "EPIX-WAW-GlobalMix",
-    "org": "Stowarzyszenie e-Poludnie",
-    "domain": "epix.net.pl"
-  },
-  {
-    "network": "2a10:f783::/48",
-    "asn": "50607",
-    "country_code": "PL",
-    "name": "EPIX-KTW-GlobalMix",
     "org": "Stowarzyszenie e-Poludnie",
     "domain": "epix.net.pl"
   },

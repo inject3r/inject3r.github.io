@@ -19328,14 +19328,6 @@
     "domain": "hkglobalnetwork.com"
   },
   {
-    "network": "178.95.175.0/24",
-    "asn": "152179",
-    "country_code": "HK",
-    "name": "GCNL-AS-AP",
-    "org": "GLOBAL COMMUNICATION NETWORK LIMITED",
-    "domain": "hkglobalnetwork.com"
-  },
-  {
     "network": "179.61.173.0/24",
     "asn": "152179",
     "country_code": "HK",
@@ -22720,14 +22712,6 @@
     "domain": "hgcbroadband.com"
   },
   {
-    "network": "79.180.92.0/24",
-    "asn": "9304",
-    "country_code": "HK",
-    "name": "HUTCHISON-AS-AP",
-    "org": "HGC Global Communications Limited",
-    "domain": "hgcbroadband.com"
-  },
-  {
     "network": "79.182.26.0/24",
     "asn": "9304",
     "country_code": "HK",
@@ -22745,6 +22729,14 @@
   },
   {
     "network": "79.182.42.0/24",
+    "asn": "9304",
+    "country_code": "HK",
+    "name": "HUTCHISON-AS-AP",
+    "org": "HGC Global Communications Limited",
+    "domain": "hgcbroadband.com"
+  },
+  {
+    "network": "79.182.43.0/24",
     "asn": "9304",
     "country_code": "HK",
     "name": "HUTCHISON-AS-AP",
@@ -29857,14 +29849,6 @@
   },
   {
     "network": "217.216.240.0/24",
-    "asn": "9304",
-    "country_code": "HK",
-    "name": "HUTCHISON-AS-AP",
-    "org": "HGC Global Communications Limited",
-    "domain": "hgcbroadband.com"
-  },
-  {
-    "network": "217.217.88.0/24",
     "asn": "9304",
     "country_code": "HK",
     "name": "HUTCHISON-AS-AP",
@@ -41169,6 +41153,14 @@
   },
   {
     "network": "206.237.8.0/23",
+    "asn": "55933",
+    "country_code": "HK",
+    "name": "CLOUDIE-AS-AP",
+    "org": "Cloudie Limited",
+    "domain": "cloudie.hk"
+  },
+  {
+    "network": "206.237.8.0/24",
     "asn": "55933",
     "country_code": "HK",
     "name": "CLOUDIE-AS-AP",
@@ -66936,30 +66928,6 @@
     "domain": "edcl.io"
   },
   {
-    "network": "103.138.72.0/24",
-    "asn": "138997",
-    "country_code": "HK",
-    "name": "EDCL-AS-AP",
-    "org": "Eons Data Communications Limited",
-    "domain": "edcl.io"
-  },
-  {
-    "network": "103.138.73.0/24",
-    "asn": "138997",
-    "country_code": "HK",
-    "name": "EDCL-AS-AP",
-    "org": "Eons Data Communications Limited",
-    "domain": "edcl.io"
-  },
-  {
-    "network": "103.138.74.0/24",
-    "asn": "138997",
-    "country_code": "HK",
-    "name": "EDCL-AS-AP",
-    "org": "Eons Data Communications Limited",
-    "domain": "edcl.io"
-  },
-  {
     "network": "103.138.75.0/24",
     "asn": "138997",
     "country_code": "HK",
@@ -69137,14 +69105,6 @@
   },
   {
     "network": "23.145.24.0/24",
-    "asn": "151338",
-    "country_code": "HK",
-    "name": "POLONETWORK-AS-AP",
-    "org": "POLONETWORK LIMITED",
-    "domain": "nearoute.io"
-  },
-  {
-    "network": "82.108.61.0/24",
     "asn": "151338",
     "country_code": "HK",
     "name": "POLONETWORK-AS-AP",
@@ -89592,22 +89552,6 @@
     "domain": "nearoute.io"
   },
   {
-    "network": "38.47.128.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.129.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
     "network": "38.47.130.0/24",
     "asn": "147019",
     "country_code": "HK",
@@ -89616,111 +89560,7 @@
     "domain": "hans-tech.asia"
   },
   {
-    "network": "38.47.131.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.132.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.133.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.134.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.135.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.136.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.137.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.138.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.139.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.140.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.141.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.142.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
     "network": "38.47.143.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "38.47.144.0/24",
     "asn": "147019",
     "country_code": "HK",
     "name": "HHLJ-AS-AP",
@@ -89864,22 +89704,6 @@
     "domain": "hans-tech.asia"
   },
   {
-    "network": "45.194.58.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "45.194.59.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
     "network": "45.194.60.0/24",
     "asn": "147019",
     "country_code": "HK",
@@ -89897,14 +89721,6 @@
   },
   {
     "network": "45.194.62.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "45.194.63.0/24",
     "asn": "147019",
     "country_code": "HK",
     "name": "HHLJ-AS-AP",
@@ -89953,38 +89769,6 @@
   },
   {
     "network": "205.198.44.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "205.198.45.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "205.198.46.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "205.198.47.0/24",
-    "asn": "147019",
-    "country_code": "HK",
-    "name": "HHLJ-AS-AP",
-    "org": "jiii",
-    "domain": "hans-tech.asia"
-  },
-  {
-    "network": "209.146.118.0/24",
     "asn": "147019",
     "country_code": "HK",
     "name": "HHLJ-AS-AP",
@@ -97112,6 +96896,14 @@
     "domain": "vh-global.net"
   },
   {
+    "network": "103.145.60.0/24",
+    "asn": "42960",
+    "country_code": "HK",
+    "name": "VH-GLOBAL",
+    "org": "VH Global Limited",
+    "domain": "vh-global.net"
+  },
+  {
     "network": "103.145.61.0/24",
     "asn": "42960",
     "country_code": "HK",
@@ -100656,6 +100448,14 @@
     "domain": "rfchost.net"
   },
   {
+    "network": "187.54.48.0/23",
+    "asn": "137897",
+    "country_code": "HK",
+    "name": "PANLIANTECHNOLOGYCOLIMITED-AS-HK",
+    "org": "PAN-LIAN TECHNOLOGY CO., LIMITED",
+    "domain": "rfchost.net"
+  },
+  {
     "network": "187.54.48.0/24",
     "asn": "137897",
     "country_code": "HK",
@@ -100665,6 +100465,14 @@
   },
   {
     "network": "187.54.49.0/24",
+    "asn": "137897",
+    "country_code": "HK",
+    "name": "PANLIANTECHNOLOGYCOLIMITED-AS-HK",
+    "org": "PAN-LIAN TECHNOLOGY CO., LIMITED",
+    "domain": "rfchost.net"
+  },
+  {
+    "network": "187.54.50.0/23",
     "asn": "137897",
     "country_code": "HK",
     "name": "PANLIANTECHNOLOGYCOLIMITED-AS-HK",
@@ -100697,6 +100505,14 @@
   },
   {
     "network": "187.54.53.0/24",
+    "asn": "137897",
+    "country_code": "HK",
+    "name": "PANLIANTECHNOLOGYCOLIMITED-AS-HK",
+    "org": "PAN-LIAN TECHNOLOGY CO., LIMITED",
+    "domain": "rfchost.net"
+  },
+  {
+    "network": "187.54.54.0/23",
     "asn": "137897",
     "country_code": "HK",
     "name": "PANLIANTECHNOLOGYCOLIMITED-AS-HK",
@@ -156848,14 +156664,6 @@
     "domain": "larus.net"
   },
   {
-    "network": "177.28.10.0/24",
-    "asn": "17561",
-    "country_code": "HK",
-    "name": "LCS-AS-AP",
-    "org": "Larus Limited",
-    "domain": "larus.net"
-  },
-  {
     "network": "177.28.11.0/24",
     "asn": "17561",
     "country_code": "HK",
@@ -194648,7 +194456,23 @@
     "domain": "lcsd.gov.hk"
   },
   {
+    "network": "103.59.91.0/24",
+    "asn": "38574",
+    "country_code": "HK",
+    "name": "LCSD-AS1-AP",
+    "org": "Leisure and Cultural Services Department",
+    "domain": "lcsd.gov.hk"
+  },
+  {
     "network": "203.31.32.0/24",
+    "asn": "38574",
+    "country_code": "HK",
+    "name": "LCSD-AS1-AP",
+    "org": "Leisure and Cultural Services Department",
+    "domain": "lcsd.gov.hk"
+  },
+  {
+    "network": "203.31.33.0/24",
     "asn": "38574",
     "country_code": "HK",
     "name": "LCSD-AS1-AP",
@@ -196598,46 +196422,6 @@
     "name": "LGHL-AS-AP",
     "org": "liasail global hongkong limited",
     "domain": "liasail.com"
-  },
-  {
-    "network": "103.82.218.0/24",
-    "asn": "137969",
-    "country_code": "HK",
-    "name": "HKBIL-AS-AP",
-    "org": "HONG KONG BRIDGE INFO-TECH LIMITED",
-    "domain": "hkbri.com"
-  },
-  {
-    "network": "202.155.116.0/24",
-    "asn": "137969",
-    "country_code": "HK",
-    "name": "HKBIL-AS-AP",
-    "org": "HONG KONG BRIDGE INFO-TECH LIMITED",
-    "domain": "hkbri.com"
-  },
-  {
-    "network": "202.155.117.0/24",
-    "asn": "137969",
-    "country_code": "HK",
-    "name": "HKBIL-AS-AP",
-    "org": "HONG KONG BRIDGE INFO-TECH LIMITED",
-    "domain": "hkbri.com"
-  },
-  {
-    "network": "202.155.118.0/24",
-    "asn": "137969",
-    "country_code": "HK",
-    "name": "HKBIL-AS-AP",
-    "org": "HONG KONG BRIDGE INFO-TECH LIMITED",
-    "domain": "hkbri.com"
-  },
-  {
-    "network": "202.155.119.0/24",
-    "asn": "137969",
-    "country_code": "HK",
-    "name": "HKBIL-AS-AP",
-    "org": "HONG KONG BRIDGE INFO-TECH LIMITED",
-    "domain": "hkbri.com"
   },
   {
     "network": "103.83.16.0/23",
@@ -202824,14 +202608,6 @@
     "domain": "dyxnet.com"
   },
   {
-    "network": "152.104.48.0/24",
-    "asn": "9584",
-    "country_code": "HK",
-    "name": "GENESIS-AP",
-    "org": "Diyixian.com Limited",
-    "domain": "dyxnet.com"
-  },
-  {
     "network": "152.104.64.0/19",
     "asn": "9584",
     "country_code": "HK",
@@ -208096,6 +207872,22 @@
     "domain": "asline.net"
   },
   {
+    "network": "154.212.136.0/24",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.212.137.0/24",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
     "network": "154.215.4.0/22",
     "asn": "137951",
     "country_code": "HK",
@@ -208152,7 +207944,71 @@
     "domain": "asline.net"
   },
   {
+    "network": "154.218.128.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.132.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.136.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.140.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
     "network": "154.218.144.0/20",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.144.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.148.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.152.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.156.0/22",
     "asn": "137951",
     "country_code": "HK",
     "name": "ASLINE-AS-AP",
@@ -208168,7 +208024,71 @@
     "domain": "asline.net"
   },
   {
+    "network": "154.218.160.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.164.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.168.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.172.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
     "network": "154.218.176.0/20",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.176.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.180.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.184.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.218.188.0/22",
     "asn": "137951",
     "country_code": "HK",
     "name": "ASLINE-AS-AP",
@@ -208193,6 +208113,22 @@
   },
   {
     "network": "154.221.8.0/21",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.221.8.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "154.221.12.0/22",
     "asn": "137951",
     "country_code": "HK",
     "name": "ASLINE-AS-AP",
@@ -208232,7 +208168,71 @@
     "domain": "asline.net"
   },
   {
+    "network": "168.76.0.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "168.76.4.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "168.76.8.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "168.76.12.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "168.76.16.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "168.76.20.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
     "network": "168.76.20.0/24",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "168.76.24.0/22",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "168.76.28.0/22",
     "asn": "137951",
     "country_code": "HK",
     "name": "ASLINE-AS-AP",
@@ -208256,7 +208256,39 @@
     "domain": "asline.net"
   },
   {
+    "network": "168.76.34.0/24",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "168.76.35.0/24",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "168.76.36.0/24",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
     "network": "168.76.38.0/24",
+    "asn": "137951",
+    "country_code": "HK",
+    "name": "ASLINE-AS-AP",
+    "org": "ASLINE LIMITED",
+    "domain": "asline.net"
+  },
+  {
+    "network": "168.76.39.0/24",
     "asn": "137951",
     "country_code": "HK",
     "name": "ASLINE-AS-AP",
@@ -213272,6 +213304,14 @@
     "domain": "yahooinc.com"
   },
   {
+    "network": "202.50.61.0/24",
+    "asn": "155078",
+    "country_code": "HK",
+    "name": "APHL-AS-AP",
+    "org": "ArcNode (Asia Pacific) Holdings Limited",
+    "domain": "arcnode.biz"
+  },
+  {
     "network": "202.51.128.0/24",
     "asn": "56190",
     "country_code": "HK",
@@ -216000,6 +216040,38 @@
     "domain": "telekommalaysia.com.hk"
   },
   {
+    "network": "202.155.116.0/24",
+    "asn": "137969",
+    "country_code": "HK",
+    "name": "HKBIL-AS-AP",
+    "org": "HONG KONG BRIDGE INFO-TECH LIMITED",
+    "domain": "hkbri.com"
+  },
+  {
+    "network": "202.155.117.0/24",
+    "asn": "137969",
+    "country_code": "HK",
+    "name": "HKBIL-AS-AP",
+    "org": "HONG KONG BRIDGE INFO-TECH LIMITED",
+    "domain": "hkbri.com"
+  },
+  {
+    "network": "202.155.118.0/24",
+    "asn": "137969",
+    "country_code": "HK",
+    "name": "HKBIL-AS-AP",
+    "org": "HONG KONG BRIDGE INFO-TECH LIMITED",
+    "domain": "hkbri.com"
+  },
+  {
+    "network": "202.155.119.0/24",
+    "asn": "137969",
+    "country_code": "HK",
+    "name": "HKBIL-AS-AP",
+    "org": "HONG KONG BRIDGE INFO-TECH LIMITED",
+    "domain": "hkbri.com"
+  },
+  {
     "network": "202.162.185.0/24",
     "asn": "9590",
     "country_code": "HK",
@@ -218216,14 +218288,6 @@
     "domain": "geekzu.org"
   },
   {
-    "network": "2404:c140:210::/44",
-    "asn": "149030",
-    "country_code": "HK",
-    "name": "CHRISNET-AS-AP",
-    "org": "Chris Chang's Network",
-    "domain": ""
-  },
-  {
     "network": "2406:840:fc00::/44",
     "asn": "140938",
     "country_code": "HK",
@@ -218800,7 +218864,7 @@
     "domain": "2048.co"
   },
   {
-    "network": "2a06:de05:60a8::/48",
+    "network": "2a06:de05:6137::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218808,7 +218872,7 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:6118::/48",
+    "network": "2a06:de05:6241::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218816,7 +218880,7 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:614c::/48",
+    "network": "2a06:de05:628c::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218824,7 +218888,7 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:61c8::/48",
+    "network": "2a06:de05:62c4::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218832,7 +218896,7 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:6225::/48",
+    "network": "2a06:de05:6318::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218840,7 +218904,7 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:6354::/48",
+    "network": "2a06:de05:638e::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",
@@ -218848,7 +218912,15 @@
     "domain": "as199340.net"
   },
   {
-    "network": "2a06:de05:6368::/48",
+    "network": "2a06:de05:63df::/48",
+    "asn": "199340",
+    "country_code": "HK",
+    "name": "HONG-GUANWAN",
+    "org": "HONG,GUANWAN",
+    "domain": "as199340.net"
+  },
+  {
+    "network": "2a06:de05:63e4::/48",
     "asn": "199340",
     "country_code": "HK",
     "name": "HONG-GUANWAN",

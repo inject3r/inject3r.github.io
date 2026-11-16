@@ -184,14 +184,6 @@
     "domain": "hostslim.nl"
   },
   {
-    "network": "87.232.113.0/24",
-    "asn": "207083",
-    "country_code": "EE",
-    "name": "HostSlim-Global-Network",
-    "org": "HOSTSLIM OU",
-    "domain": "hostslim.nl"
-  },
-  {
     "network": "103.214.4.0/22",
     "asn": "207083",
     "country_code": "EE",
@@ -7168,14 +7160,6 @@
     "domain": "hop179.net"
   },
   {
-    "network": "2a0b:4e07:270::/44",
-    "asn": "11967",
-    "country_code": "EE",
-    "name": "HOP179",
-    "org": "Hop179 OU",
-    "domain": "hop179.net"
-  },
-  {
     "network": "2a0b:4e07:2b0::/44",
     "asn": "11967",
     "country_code": "EE",
@@ -12304,6 +12288,14 @@
     "domain": "eestipank.ee"
   },
   {
+    "network": "91.209.21.0/24",
+    "asn": "219038",
+    "country_code": "EE",
+    "name": "NUBEX",
+    "org": "Nubex Cloud OU",
+    "domain": "nubex.net"
+  },
+  {
     "network": "91.212.244.0/24",
     "asn": "196785",
     "country_code": "EE",
@@ -14072,22 +14064,6 @@
     "domain": "clonoth.com"
   },
   {
-    "network": "193.40.195.0/24",
-    "asn": "3332",
-    "country_code": "EE",
-    "name": "SWEDBANK-AS",
-    "org": "Swedbank AS",
-    "domain": "swedbank.se"
-  },
-  {
-    "network": "193.203.196.0/23",
-    "asn": "3332",
-    "country_code": "EE",
-    "name": "SWEDBANK-AS",
-    "org": "Swedbank AS",
-    "domain": "swedbank.se"
-  },
-  {
     "network": "193.42.48.0/24",
     "asn": "210002",
     "country_code": "EE",
@@ -14126,6 +14102,14 @@
     "name": "PIPEDRIVE-M3",
     "org": "Pipedrive OU",
     "domain": "pipedrive.com"
+  },
+  {
+    "network": "193.203.196.0/23",
+    "asn": "3332",
+    "country_code": "EE",
+    "name": "SWEDBANK-AS",
+    "org": "Swedbank AS",
+    "domain": "swedbank.se"
   },
   {
     "network": "194.0.203.0/24",

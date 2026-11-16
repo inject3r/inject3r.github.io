@@ -240,6 +240,12 @@
     "country_name": "Austria"
   },
   {
+    "network": "2.216.252.0/22",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "3.161.116.0/22",
     "continent_code": "EU",
     "country_code": "AT",
@@ -2298,7 +2304,7 @@
     "country_name": "Austria"
   },
   {
-    "network": "41.66.124.240/31",
+    "network": "41.66.124.240/30",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -2605,12 +2611,6 @@
   },
   {
     "network": "45.84.228.0/26",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "45.84.228.72/29",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -4549,12 +4549,6 @@
   },
   {
     "network": "62.23.156.128/28",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "62.23.156.144/30",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -8850,7 +8844,13 @@
     "country_name": "Austria"
   },
   {
-    "network": "83.216.48.40/29",
+    "network": "83.216.48.40/30",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "83.216.48.44/31",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -8868,7 +8868,7 @@
     "country_name": "Austria"
   },
   {
-    "network": "83.216.48.56/30",
+    "network": "83.216.48.56/31",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -9090,7 +9090,7 @@
     "country_name": "Austria"
   },
   {
-    "network": "84.14.249.116/30",
+    "network": "84.14.249.112/29",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -9108,7 +9108,7 @@
     "country_name": "Austria"
   },
   {
-    "network": "84.14.249.148/30",
+    "network": "84.14.249.144/29",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -9331,6 +9331,12 @@
   },
   {
     "network": "84.38.255.0/24",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "84.39.184.0/21",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -10008,6 +10014,12 @@
     "country_name": "Austria"
   },
   {
+    "network": "85.137.184.0/21",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "85.158.181.0/24",
     "continent_code": "EU",
     "country_code": "AT",
@@ -10387,12 +10399,6 @@
   },
   {
     "network": "87.86.84.0/23",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "87.86.210.0/23",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -15834,6 +15840,54 @@
     "country_name": "Austria"
   },
   {
+    "network": "136.23.20.24/30",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "136.23.20.66/31",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "136.23.20.68/31",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "136.23.20.127/32",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "136.23.20.141/32",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "136.23.20.142/31",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "136.23.20.144/29",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "136.23.20.152/30",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "136.226.198.0/23",
     "continent_code": "EU",
     "country_code": "AT",
@@ -16494,61 +16548,13 @@
     "country_name": "Austria"
   },
   {
-    "network": "144.208.211.208/29",
+    "network": "144.208.211.208/28",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
   },
   {
-    "network": "144.208.211.216/30",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "144.208.211.220/32",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "144.208.211.222/31",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "144.208.211.224/28",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "144.208.211.240/32",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "144.208.211.242/31",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "144.208.211.244/32",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "144.208.211.246/31",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "144.208.211.248/29",
+    "network": "144.208.211.224/27",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -16885,6 +16891,12 @@
   },
   {
     "network": "146.70.81.0/24",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "146.70.114.0/29",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -18372,6 +18384,24 @@
     "country_name": "Austria"
   },
   {
+    "network": "152.53.208.0/26",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "152.53.208.96/27",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "152.53.208.128/25",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "152.53.210.0/26",
     "continent_code": "EU",
     "country_code": "AT",
@@ -18414,19 +18444,7 @@
     "country_name": "Austria"
   },
   {
-    "network": "152.53.210.128/26",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "152.53.210.192/28",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "152.53.210.224/27",
+    "network": "152.53.210.128/25",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -18913,12 +18931,6 @@
   },
   {
     "network": "152.233.52.0/24",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "152.237.232.0/24",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -20340,6 +20352,18 @@
     "country_name": "Austria"
   },
   {
+    "network": "162.120.136.33/32",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "162.120.136.34/32",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "162.120.146.178/32",
     "continent_code": "EU",
     "country_code": "AT",
@@ -20790,25 +20814,7 @@
     "country_name": "Austria"
   },
   {
-    "network": "163.116.166.128/29",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "163.116.166.136/30",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "163.116.166.140/32",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "163.116.166.142/31",
+    "network": "163.116.166.128/28",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -21642,12 +21648,6 @@
     "country_name": "Austria"
   },
   {
-    "network": "178.253.227.0/24",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
     "network": "178.255.152.0/24",
     "continent_code": "EU",
     "country_code": "AT",
@@ -22218,7 +22218,7 @@
     "country_name": "Austria"
   },
   {
-    "network": "185.51.8.16/29",
+    "network": "185.51.8.16/30",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -24037,12 +24037,6 @@
   },
   {
     "network": "185.145.16.0/21",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "185.145.47.0/24",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -28464,12 +28458,6 @@
     "country_name": "Austria"
   },
   {
-    "network": "193.118.246.96/28",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
     "network": "193.118.246.144/29",
     "continent_code": "EU",
     "country_code": "AT",
@@ -30175,12 +30163,6 @@
   },
   {
     "network": "194.76.239.0/24",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "194.77.10.0/23",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -37591,6 +37573,12 @@
   },
   {
     "network": "213.185.184.0/21",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "213.190.20.0/23",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -55476,6 +55464,12 @@
     "country_name": "Austria"
   },
   {
+    "network": "2001:470:723c::/48",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "2001:470:7287::/48",
     "continent_code": "EU",
     "country_code": "AT",
@@ -56395,6 +56389,12 @@
   },
   {
     "network": "2001:678:133c::/48",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "2001:678:1404::/48",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -60126,6 +60126,12 @@
     "country_name": "Austria"
   },
   {
+    "network": "2606:40:82:4000::/51",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "2606:40:aa::/51",
     "continent_code": "EU",
     "country_code": "AT",
@@ -60396,6 +60402,18 @@
     "country_name": "Austria"
   },
   {
+    "network": "2606:40:80:6000::/52",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "2606:40:82:6000::/52",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "2606:40:aa:2000::/52",
     "continent_code": "EU",
     "country_code": "AT",
@@ -60403,6 +60421,12 @@
   },
   {
     "network": "2606:40:21c0:d000::/52",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "2606:40:2984::/52",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -60756,6 +60780,24 @@
     "country_name": "Austria"
   },
   {
+    "network": "2606:40:81:800::/53",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "2606:40:81:1000::/53",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "2606:40:82:3800::/53",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "2606:40:a9::/53",
     "continent_code": "EU",
     "country_code": "AT",
@@ -60775,6 +60817,12 @@
   },
   {
     "network": "2606:40:22f8::/53",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "2606:40:2984:2800::/53",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -61110,6 +61158,18 @@
     "country_name": "Austria"
   },
   {
+    "network": "2606:40:81:fc00::/54",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "2606:40:82:3400::/54",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "2606:40:a9:8400::/54",
     "continent_code": "EU",
     "country_code": "AT",
@@ -61434,6 +61494,18 @@
     "country_name": "Austria"
   },
   {
+    "network": "2606:40:2984:8400::/54",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "2606:40:2984:8800::/54",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
     "network": "2607:8940:4160:c00::/54",
     "continent_code": "EU",
     "country_code": "AT",
@@ -61693,12 +61765,6 @@
   },
   {
     "network": "2a0a:4cc0:c0:d000::/54",
-    "continent_code": "EU",
-    "country_code": "AT",
-    "country_name": "Austria"
-  },
-  {
-    "network": "2a0a:4cc0:c1:2000::/54",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"
@@ -62035,6 +62101,12 @@
   },
   {
     "network": "2a0a:4cc0:c1:c00::/55",
+    "continent_code": "EU",
+    "country_code": "AT",
+    "country_name": "Austria"
+  },
+  {
+    "network": "2a0a:4cc0:c1:3200::/55",
     "continent_code": "EU",
     "country_code": "AT",
     "country_name": "Austria"

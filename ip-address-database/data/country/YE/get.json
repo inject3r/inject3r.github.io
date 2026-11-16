@@ -132,7 +132,7 @@
     "country_name": "Yemen"
   },
   {
-    "network": "80.253.181.88/29",
+    "network": "80.253.181.92/30",
     "continent_code": "AS",
     "country_code": "YE",
     "country_name": "Yemen"
@@ -720,7 +720,13 @@
     "country_name": "Yemen"
   },
   {
-    "network": "185.80.44.0/22",
+    "network": "185.80.45.0/24",
+    "continent_code": "AS",
+    "country_code": "YE",
+    "country_name": "Yemen"
+  },
+  {
+    "network": "185.80.46.128/25",
     "continent_code": "AS",
     "country_code": "YE",
     "country_name": "Yemen"

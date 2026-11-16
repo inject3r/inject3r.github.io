@@ -4264,14 +4264,6 @@
     "domain": "stc.com.sa"
   },
   {
-    "network": "51.211.226.0/24",
-    "asn": "25019",
-    "country_code": "SA",
-    "name": "SAUDINETSTC-AS",
-    "org": "Saudi Telecom Company JSC",
-    "domain": "stc.com.sa"
-  },
-  {
     "network": "51.211.227.0/24",
     "asn": "25019",
     "country_code": "SA",
@@ -5521,6 +5513,14 @@
   },
   {
     "network": "77.30.182.0/24",
+    "asn": "25019",
+    "country_code": "SA",
+    "name": "SAUDINETSTC-AS",
+    "org": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa"
+  },
+  {
+    "network": "77.30.190.0/24",
     "asn": "25019",
     "country_code": "SA",
     "name": "SAUDINETSTC-AS",
@@ -9208,7 +9208,7 @@
     "domain": "stc.com.sa"
   },
   {
-    "network": "94.99.134.0/24",
+    "network": "94.99.132.0/24",
     "asn": "25019",
     "country_code": "SA",
     "name": "SAUDINETSTC-AS",
@@ -9216,7 +9216,7 @@
     "domain": "stc.com.sa"
   },
   {
-    "network": "94.99.135.0/24",
+    "network": "94.99.134.0/24",
     "asn": "25019",
     "country_code": "SA",
     "name": "SAUDINETSTC-AS",
@@ -15984,14 +15984,6 @@
     "domain": "stc.com.sa"
   },
   {
-    "network": "192.7.200.0/24",
-    "asn": "25019",
-    "country_code": "SA",
-    "name": "SAUDINETSTC-AS",
-    "org": "Saudi Telecom Company JSC",
-    "domain": "stc.com.sa"
-  },
-  {
     "network": "192.7.201.0/24",
     "asn": "25019",
     "country_code": "SA",
@@ -17408,14 +17400,6 @@
     "domain": "stc.com.sa"
   },
   {
-    "network": "2001:16a2:bc83::/48",
-    "asn": "25019",
-    "country_code": "SA",
-    "name": "SAUDINETSTC-AS",
-    "org": "Saudi Telecom Company JSC",
-    "domain": "stc.com.sa"
-  },
-  {
     "network": "2001:16a2:bc87::/48",
     "asn": "25019",
     "country_code": "SA",
@@ -17473,6 +17457,22 @@
   },
   {
     "network": "2001:16a2:bca3::/48",
+    "asn": "25019",
+    "country_code": "SA",
+    "name": "SAUDINETSTC-AS",
+    "org": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa"
+  },
+  {
+    "network": "2001:16a2:bcb8::/48",
+    "asn": "25019",
+    "country_code": "SA",
+    "name": "SAUDINETSTC-AS",
+    "org": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa"
+  },
+  {
+    "network": "2001:16a2:bcb9::/48",
     "asn": "25019",
     "country_code": "SA",
     "name": "SAUDINETSTC-AS",
@@ -18153,6 +18153,14 @@
   },
   {
     "network": "2001:16a2:bff8::/48",
+    "asn": "25019",
+    "country_code": "SA",
+    "name": "SAUDINETSTC-AS",
+    "org": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa"
+  },
+  {
+    "network": "2001:16a2:bffa::/48",
     "asn": "25019",
     "country_code": "SA",
     "name": "SAUDINETSTC-AS",
@@ -24225,6 +24233,14 @@
   },
   {
     "network": "2001:16a3:135c::/48",
+    "asn": "25019",
+    "country_code": "SA",
+    "name": "SAUDINETSTC-AS",
+    "org": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa"
+  },
+  {
+    "network": "2001:16a3:135d::/48",
     "asn": "25019",
     "country_code": "SA",
     "name": "SAUDINETSTC-AS",
@@ -92320,22 +92336,6 @@
     "domain": "mobily.com.sa"
   },
   {
-    "network": "37.141.0.0/20",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "37.141.8.0/22",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
     "network": "37.141.12.0/22",
     "asn": "35819",
     "country_code": "SA",
@@ -92344,7 +92344,7 @@
     "domain": "mobily.com.sa"
   },
   {
-    "network": "37.141.16.0/20",
+    "network": "37.141.64.0/23",
     "asn": "35819",
     "country_code": "SA",
     "name": "Mobily-AS",
@@ -92352,23 +92352,7 @@
     "domain": "mobily.com.sa"
   },
   {
-    "network": "37.141.32.0/20",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "37.141.48.0/20",
-    "asn": "35819",
-    "country_code": "SA",
-    "name": "Mobily-AS",
-    "org": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa"
-  },
-  {
-    "network": "37.141.64.0/24",
+    "network": "37.141.192.0/18",
     "asn": "35819",
     "country_code": "SA",
     "name": "Mobily-AS",
@@ -93465,6 +93449,14 @@
   },
   {
     "network": "46.240.50.0/24",
+    "asn": "35819",
+    "country_code": "SA",
+    "name": "Mobily-AS",
+    "org": "Etihad Etisalat, a joint stock company",
+    "domain": "mobily.com.sa"
+  },
+  {
+    "network": "46.240.86.0/24",
     "asn": "35819",
     "country_code": "SA",
     "name": "Mobily-AS",
@@ -100152,6 +100144,30 @@
     "domain": "go.com.sa"
   },
   {
+    "network": "46.184.42.0/24",
+    "asn": "47794",
+    "country_code": "SA",
+    "name": "ATHEEB-AS",
+    "org": "Etihad GO Company For communications",
+    "domain": "go.com.sa"
+  },
+  {
+    "network": "46.184.43.0/24",
+    "asn": "47794",
+    "country_code": "SA",
+    "name": "ATHEEB-AS",
+    "org": "Etihad GO Company For communications",
+    "domain": "go.com.sa"
+  },
+  {
+    "network": "46.184.44.0/24",
+    "asn": "47794",
+    "country_code": "SA",
+    "name": "ATHEEB-AS",
+    "org": "Etihad GO Company For communications",
+    "domain": "go.com.sa"
+  },
+  {
     "network": "46.184.45.0/24",
     "asn": "47794",
     "country_code": "SA",
@@ -102649,14 +102665,6 @@
   },
   {
     "network": "188.248.74.0/24",
-    "asn": "48695",
-    "country_code": "SA",
-    "name": "ATHEEB-AS",
-    "org": "Etihad GO Company For communications",
-    "domain": "go.com.sa"
-  },
-  {
-    "network": "188.248.75.0/24",
     "asn": "48695",
     "country_code": "SA",
     "name": "ATHEEB-AS",
@@ -109720,14 +109728,6 @@
     "domain": "nour.net.sa"
   },
   {
-    "network": "46.235.92.0/24",
-    "asn": "29684",
-    "country_code": "SA",
-    "name": "NOURNET-ASN",
-    "org": "Nour Internet Company for Communications and Information Technology Ltd.",
-    "domain": "nour.net.sa"
-  },
-  {
     "network": "46.235.93.0/24",
     "asn": "29684",
     "country_code": "SA",
@@ -114872,6 +114872,14 @@
     "domain": "zain.com"
   },
   {
+    "network": "79.170.52.0/23",
+    "asn": "43766",
+    "country_code": "SA",
+    "name": "MTC-KSA-AS",
+    "org": "Mobile Telecommunication Company Saudi Arabia Joint-Stock company",
+    "domain": "zain.com"
+  },
+  {
     "network": "79.170.52.0/24",
     "asn": "43766",
     "country_code": "SA",
@@ -114881,6 +114889,14 @@
   },
   {
     "network": "79.170.53.0/24",
+    "asn": "43766",
+    "country_code": "SA",
+    "name": "MTC-KSA-AS",
+    "org": "Mobile Telecommunication Company Saudi Arabia Joint-Stock company",
+    "domain": "zain.com"
+  },
+  {
+    "network": "79.170.54.0/23",
     "asn": "43766",
     "country_code": "SA",
     "name": "MTC-KSA-AS",
@@ -129696,6 +129712,14 @@
     "domain": "sadara.com"
   },
   {
+    "network": "185.149.182.0/24",
+    "asn": "205251",
+    "country_code": "SA",
+    "name": "SADARANET",
+    "org": "Sadara Chemical Company LLC",
+    "domain": "sadara.com"
+  },
+  {
     "network": "185.160.68.0/24",
     "asn": "35681",
     "country_code": "SA",
@@ -131009,6 +131033,14 @@
   },
   {
     "network": "2001:678:1120::/48",
+    "asn": "204255",
+    "country_code": "SA",
+    "name": "SY-AS",
+    "org": "Salem Alsaiari",
+    "domain": "sy.sa"
+  },
+  {
+    "network": "2a0e:8f02:22a0::/44",
     "asn": "204255",
     "country_code": "SA",
     "name": "SY-AS",
