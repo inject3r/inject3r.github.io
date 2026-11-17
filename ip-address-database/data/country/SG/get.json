@@ -4176,7 +4176,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "23.187.136.144/28",
+    "network": "23.187.136.128/26",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -6456,6 +6456,12 @@
     "country_name": "Singapore"
   },
   {
+    "network": "36.255.220.0/22",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "37.0.10.0/23",
     "continent_code": "AS",
     "country_code": "SG",
@@ -8256,18 +8262,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "43.110.32.192/27",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "43.110.33.160/27",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "43.110.33.192/26",
     "continent_code": "AS",
     "country_code": "SG",
@@ -8275,18 +8269,6 @@
   },
   {
     "network": "43.110.34.0/25",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "43.110.34.128/26",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "43.110.34.224/27",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -8317,12 +8299,6 @@
   },
   {
     "network": "43.110.37.0/25",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "43.110.37.192/26",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -8413,12 +8389,6 @@
   },
   {
     "network": "43.128.198.0/23",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "43.128.234.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -9090,13 +9060,25 @@
     "country_name": "Singapore"
   },
   {
-    "network": "43.152.134.128/25",
+    "network": "43.152.135.0/26",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "43.152.135.0/26",
+    "network": "43.152.135.64/29",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "43.152.135.72/30",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "43.152.135.80/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -9187,6 +9169,12 @@
   },
   {
     "network": "43.153.127.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "43.153.187.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -11904,7 +11892,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "45.145.154.0/27",
+    "network": "45.145.154.16/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -11916,13 +11904,13 @@
     "country_name": "Singapore"
   },
   {
-    "network": "45.145.154.62/31",
+    "network": "45.145.154.56/29",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "45.145.154.96/29",
+    "network": "45.145.154.96/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -12078,12 +12066,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "45.192.13.0/24",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "45.192.128.0/24",
     "continent_code": "AS",
     "country_code": "SG",
@@ -12156,13 +12138,13 @@
     "country_name": "Singapore"
   },
   {
-    "network": "45.196.16.196/30",
+    "network": "45.196.16.192/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "45.196.16.224/28",
+    "network": "45.196.16.224/27",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -12192,6 +12174,12 @@
     "country_name": "Singapore"
   },
   {
+    "network": "45.197.11.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "45.197.12.0/23",
     "continent_code": "AS",
     "country_code": "SG",
@@ -12211,6 +12199,18 @@
   },
   {
     "network": "45.197.102.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "45.198.16.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "45.198.18.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -12264,7 +12264,37 @@
     "country_name": "Singapore"
   },
   {
-    "network": "45.202.74.0/24",
+    "network": "45.201.41.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "45.201.42.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "45.201.61.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "45.204.132.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "45.204.248.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "45.204.255.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -15930,6 +15960,12 @@
     "country_name": "Singapore"
   },
   {
+    "network": "63.222.116.48/31",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "63.222.123.48/28",
     "continent_code": "AS",
     "country_code": "SG",
@@ -16224,13 +16260,19 @@
     "country_name": "Singapore"
   },
   {
+    "network": "64.118.136.6/31",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "64.118.136.56/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "64.118.136.108/30",
+    "network": "64.118.136.104/29",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -16266,7 +16308,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "64.118.141.236/31",
+    "network": "64.118.141.236/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -17694,7 +17736,19 @@
     "country_name": "Singapore"
   },
   {
-    "network": "67.159.52.192/31",
+    "network": "67.159.52.176/29",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "67.159.52.192/30",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "67.159.52.228/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -18960,7 +19014,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "68.178.160.0/27",
+    "network": "68.178.160.0/26",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -19032,19 +19086,19 @@
     "country_name": "Singapore"
   },
   {
-    "network": "69.5.20.160/28",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "69.5.20.176/29",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "69.5.20.192/26",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "69.5.21.16/28",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "69.5.21.32/27",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -20238,19 +20292,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "72.57.226.0/23",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "72.57.246.0/24",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "72.150.2.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -20694,12 +20736,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "79.172.214.0/24",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "79.176.11.0/24",
     "continent_code": "AS",
     "country_code": "SG",
@@ -20923,12 +20959,6 @@
   },
   {
     "network": "80.15.232.0/24",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "80.46.192.0/20",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -21558,6 +21588,12 @@
     "country_name": "Singapore"
   },
   {
+    "network": "82.109.16.0/20",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "82.109.96.0/23",
     "continent_code": "AS",
     "country_code": "SG",
@@ -21978,13 +22014,13 @@
     "country_name": "Singapore"
   },
   {
-    "network": "85.149.211.180/30",
+    "network": "85.149.211.180/31",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "85.149.212.192/28",
+    "network": "85.149.212.192/29",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -22201,6 +22237,12 @@
   },
   {
     "network": "87.76.190.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "87.82.192.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -22956,6 +22998,12 @@
     "country_name": "Singapore"
   },
   {
+    "network": "91.110.0.0/17",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "91.123.14.0/24",
     "continent_code": "AS",
     "country_code": "SG",
@@ -23130,7 +23178,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "92.62.249.110/31",
+    "network": "92.62.249.96/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -24708,12 +24756,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "101.33.10.0/23",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "101.33.12.0/22",
     "continent_code": "AS",
     "country_code": "SG",
@@ -24805,6 +24847,12 @@
   },
   {
     "network": "101.33.125.0/25",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "101.33.125.128/27",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -24925,12 +24973,6 @@
   },
   {
     "network": "101.79.166.0/24",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "101.79.174.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -26587,6 +26629,18 @@
   },
   {
     "network": "103.69.212.0/22",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "103.70.135.0/25",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "103.70.135.224/27",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -29215,6 +29269,12 @@
   },
   {
     "network": "103.209.190.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "103.210.20.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -37242,12 +37302,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "121.91.152.0/21",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "121.91.200.0/21",
     "continent_code": "AS",
     "country_code": "SG",
@@ -37723,6 +37777,12 @@
   },
   {
     "network": "124.156.192.0/20",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "124.156.224.0/20",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -38448,6 +38508,12 @@
     "country_name": "Singapore"
   },
   {
+    "network": "129.227.119.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "129.227.160.0/22",
     "continent_code": "AS",
     "country_code": "SG",
@@ -38478,13 +38544,13 @@
     "country_name": "Singapore"
   },
   {
-    "network": "129.227.216.0/23",
+    "network": "129.227.208.0/21",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "129.227.220.0/22",
+    "network": "129.227.216.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -38502,7 +38568,13 @@
     "country_name": "Singapore"
   },
   {
-    "network": "129.253.180.112/28",
+    "network": "129.253.180.112/29",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "129.253.180.120/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -39145,12 +39217,6 @@
   },
   {
     "network": "131.229.247.31/32",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "131.229.247.34/31",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -41580,13 +41646,13 @@
     "country_name": "Singapore"
   },
   {
-    "network": "144.31.44.6/31",
+    "network": "144.31.44.26/31",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "144.31.44.26/31",
+    "network": "144.31.44.36/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -41598,7 +41664,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "144.31.44.68/30",
+    "network": "144.31.44.70/31",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -41610,7 +41676,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "144.31.44.96/27",
+    "network": "144.31.44.100/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -44106,7 +44172,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "151.247.132.0/22",
+    "network": "151.247.132.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -45264,6 +45330,18 @@
     "country_name": "Singapore"
   },
   {
+    "network": "154.18.222.64/28",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.18.222.96/27",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "154.18.222.128/25",
     "continent_code": "AS",
     "country_code": "SG",
@@ -45528,7 +45606,37 @@
     "country_name": "Singapore"
   },
   {
+    "network": "154.82.134.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "154.82.136.0/23",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.82.148.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.82.158.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.82.197.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.82.199.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -45624,6 +45732,18 @@
     "country_name": "Singapore"
   },
   {
+    "network": "154.90.128.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.90.140.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "154.91.40.0/21",
     "continent_code": "AS",
     "country_code": "SG",
@@ -45637,12 +45757,6 @@
   },
   {
     "network": "154.92.209.0/24",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "154.92.210.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -45847,6 +45961,84 @@
   },
   {
     "network": "154.198.160.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.26.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.43.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.46.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.48.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.53.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.54.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.63.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.130.0/23",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.154.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.156.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.158.0/23",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.160.0/23",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "154.200.191.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -46321,12 +46513,6 @@
   },
   {
     "network": "155.117.86.0/24",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "155.117.119.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -46908,6 +47094,12 @@
     "country_name": "Singapore"
   },
   {
+    "network": "156.227.159.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "156.227.192.0/24",
     "continent_code": "AS",
     "country_code": "SG",
@@ -46920,7 +47112,31 @@
     "country_name": "Singapore"
   },
   {
+    "network": "156.231.6.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "156.231.9.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "156.231.63.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "156.232.16.0/20",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "156.233.66.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -46968,6 +47184,18 @@
     "country_name": "Singapore"
   },
   {
+    "network": "156.245.194.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "156.245.224.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "156.245.233.0/24",
     "continent_code": "AS",
     "country_code": "SG",
@@ -46999,6 +47227,12 @@
   },
   {
     "network": "156.249.32.0/20",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "156.249.170.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -48151,6 +48385,12 @@
   },
   {
     "network": "159.138.184.0/22",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "159.138.216.0/22",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -49698,7 +49938,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "162.128.116.0/22",
+    "network": "162.128.118.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -49920,31 +50160,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.4.0/25",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.4.128/27",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.4.160/28",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.4.192/26",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.5.0/24",
+    "network": "163.7.4.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -49957,6 +50173,12 @@
   },
   {
     "network": "163.7.6.128/27",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "163.7.6.160/29",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -49998,19 +50220,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.12.80/29",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.12.88/30",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.12.94/31",
+    "network": "163.7.12.80/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -50028,55 +50238,55 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.13.0/27",
+    "network": "163.7.13.0/25",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.13.32/28",
+    "network": "163.7.13.128/26",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.13.48/30",
+    "network": "163.7.13.192/27",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.13.54/31",
+    "network": "163.7.13.224/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.13.56/29",
+    "network": "163.7.13.240/29",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.13.64/29",
+    "network": "163.7.13.252/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.13.76/30",
+    "network": "163.7.14.0/29",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.13.96/27",
+    "network": "163.7.14.8/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.13.128/25",
+    "network": "163.7.14.12/31",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -50100,31 +50310,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.14.64/28",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.14.80/30",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.14.86/31",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.14.88/29",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.14.96/27",
+    "network": "163.7.14.64/26",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -50137,12 +50323,6 @@
   },
   {
     "network": "163.7.14.144/30",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.14.148/31",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -50172,12 +50352,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.14.184/31",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "163.7.14.188/30",
     "continent_code": "AS",
     "country_code": "SG",
@@ -50185,6 +50359,12 @@
   },
   {
     "network": "163.7.14.192/29",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "163.7.14.204/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -50202,55 +50382,19 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.14.230/31",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "163.7.14.232/29",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.14.240/29",
+    "network": "163.7.14.240/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.14.250/31",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.14.252/30",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.15.0/31",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.15.4/30",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.15.8/29",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.15.24/29",
+    "network": "163.7.15.0/27",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -50304,61 +50448,49 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.15.108/31",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "163.7.15.112/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.15.128/27",
+    "network": "163.7.15.128/26",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.15.160/28",
+    "network": "163.7.15.192/27",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.15.176/30",
+    "network": "163.7.15.224/29",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.15.182/31",
+    "network": "163.7.15.232/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.15.184/29",
+    "network": "163.7.15.238/31",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.15.192/26",
+    "network": "163.7.15.240/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.16.0/29",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.16.8/30",
+    "network": "163.7.16.0/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -50394,7 +50526,19 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.16.128/28",
+    "network": "163.7.16.128/31",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "163.7.16.132/30",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "163.7.16.136/29",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -50406,7 +50550,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.16.148/31",
+    "network": "163.7.16.154/31",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -50418,7 +50562,13 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.16.160/29",
+    "network": "163.7.16.160/31",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "163.7.16.164/30",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -50454,13 +50604,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "163.7.16.208/28",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "163.7.16.224/27",
+    "network": "163.7.16.192/26",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -51690,7 +51834,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "167.23.71.16/30",
+    "network": "167.23.71.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -54270,6 +54414,12 @@
     "country_name": "Singapore"
   },
   {
+    "network": "176.124.48.0/22",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "176.223.190.0/24",
     "continent_code": "AS",
     "country_code": "SG",
@@ -54318,12 +54468,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "177.177.232.0/24",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "177.177.240.0/24",
     "continent_code": "AS",
     "country_code": "SG",
@@ -54349,6 +54493,12 @@
   },
   {
     "network": "177.201.194.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "177.201.213.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -54439,6 +54589,12 @@
   },
   {
     "network": "178.94.25.0/24",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "178.94.28.0/23",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -54727,6 +54883,12 @@
   },
   {
     "network": "180.87.3.64/26",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "180.87.4.0/28",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -57720,12 +57882,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "185.196.96.0/22",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "185.200.116.0/23",
     "continent_code": "AS",
     "country_code": "SG",
@@ -58273,12 +58429,6 @@
   },
   {
     "network": "188.114.249.31/32",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "188.119.192.0/18",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -60054,7 +60204,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "194.76.113.0/24",
+    "network": "194.76.113.64/26",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -60078,7 +60228,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "194.77.228.0/23",
+    "network": "194.77.228.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -61116,6 +61266,18 @@
     "country_name": "Singapore"
   },
   {
+    "network": "198.135.109.104/32",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "198.135.109.196/32",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "198.143.39.0/24",
     "continent_code": "AS",
     "country_code": "SG",
@@ -61633,12 +61795,6 @@
   },
   {
     "network": "200.141.184.0/24",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "200.141.187.0/24",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -63847,18 +64003,6 @@
   },
   {
     "network": "202.78.24.0/22",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "202.78.28.64/26",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "202.78.28.128/25",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -70056,6 +70200,12 @@
     "country_name": "Singapore"
   },
   {
+    "network": "208.127.210.128/25",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
     "network": "208.127.213.0/24",
     "continent_code": "AS",
     "country_code": "SG",
@@ -73080,7 +73230,7 @@
     "country_name": "Singapore"
   },
   {
-    "network": "216.195.192.0/30",
+    "network": "216.195.192.0/29",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -86148,12 +86298,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "2a13:edc0:380::/41",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "2a13:edc0:680::/41",
     "continent_code": "AS",
     "country_code": "SG",
@@ -92689,12 +92833,6 @@
   },
   {
     "network": "2a13:edc0:40::/42",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "2a13:edc0:340::/42",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -137485,12 +137623,6 @@
   },
   {
     "network": "2a12:6c40:20::/43",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "2a13:edc0:320::/43",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -183079,12 +183211,6 @@
   },
   {
     "network": "2a13:df80:7c80::/44",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "2a13:edc0:310::/44",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -232986,12 +233112,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "2a13:edc0:308::/45",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "2a13:edc0:668::/45",
     "continent_code": "AS",
     "country_code": "SG",
@@ -277194,12 +277314,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "2600:f0f0:4304::/46",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "2602:814:ff14::/46",
     "continent_code": "AS",
     "country_code": "SG",
@@ -278077,12 +278191,6 @@
   },
   {
     "network": "2a13:edc0:34::/46",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "2a13:edc0:304::/46",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -323407,12 +323515,6 @@
   },
   {
     "network": "2a13:edc0:26::/47",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "2a13:edc0:302::/47",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -373614,12 +373716,6 @@
     "country_name": "Singapore"
   },
   {
-    "network": "2a13:edc0:300::/48",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
     "network": "2a13:edc0:660::/48",
     "continent_code": "AS",
     "country_code": "SG",
@@ -374209,12 +374305,6 @@
   },
   {
     "network": "2a0f:1cc5:1600:8000::/49",
-    "continent_code": "AS",
-    "country_code": "SG",
-    "country_name": "Singapore"
-  },
-  {
-    "network": "2a13:edc0:301:8000::/49",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -382237,6 +382327,12 @@
   },
   {
     "network": "2001:470:28:127e::/64",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "2001:470:28:12b8::/64",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"
@@ -393769,6 +393865,18 @@
   },
   {
     "network": "2603:10e1:100:2::14c3:6100/128",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "2620:36:2000::104/128",
+    "continent_code": "AS",
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  {
+    "network": "2620:36:2000:400::104/128",
     "continent_code": "AS",
     "country_code": "SG",
     "country_name": "Singapore"

@@ -24040,22 +24040,6 @@
     "domain": "telecom.kz"
   },
   {
-    "network": "37.150.0.0/23",
-    "asn": "9198",
-    "country_code": "KZ",
-    "name": "KAZTELECOM-AS",
-    "org": "JSC Kazakhtelecom",
-    "domain": "telecom.kz"
-  },
-  {
-    "network": "37.150.2.0/23",
-    "asn": "9198",
-    "country_code": "KZ",
-    "name": "KAZTELECOM-AS",
-    "org": "JSC Kazakhtelecom",
-    "domain": "telecom.kz"
-  },
-  {
     "network": "37.150.8.0/21",
     "asn": "9198",
     "country_code": "KZ",
@@ -25409,6 +25393,14 @@
   },
   {
     "network": "92.46.16.0/22",
+    "asn": "9198",
+    "country_code": "KZ",
+    "name": "KAZTELECOM-AS",
+    "org": "JSC Kazakhtelecom",
+    "domain": "telecom.kz"
+  },
+  {
+    "network": "92.46.20.0/24",
     "asn": "9198",
     "country_code": "KZ",
     "name": "KAZTELECOM-AS",
@@ -27800,30 +27792,6 @@
     "domain": "telecom.kz"
   },
   {
-    "network": "145.255.160.0/23",
-    "asn": "9198",
-    "country_code": "KZ",
-    "name": "KAZTELECOM-AS",
-    "org": "JSC Kazakhtelecom",
-    "domain": "telecom.kz"
-  },
-  {
-    "network": "145.255.162.0/23",
-    "asn": "9198",
-    "country_code": "KZ",
-    "name": "KAZTELECOM-AS",
-    "org": "JSC Kazakhtelecom",
-    "domain": "telecom.kz"
-  },
-  {
-    "network": "145.255.166.0/23",
-    "asn": "9198",
-    "country_code": "KZ",
-    "name": "KAZTELECOM-AS",
-    "org": "JSC Kazakhtelecom",
-    "domain": "telecom.kz"
-  },
-  {
     "network": "145.255.176.0/23",
     "asn": "9198",
     "country_code": "KZ",
@@ -29169,22 +29137,6 @@
   },
   {
     "network": "178.91.8.0/21",
-    "asn": "9198",
-    "country_code": "KZ",
-    "name": "KAZTELECOM-AS",
-    "org": "JSC Kazakhtelecom",
-    "domain": "telecom.kz"
-  },
-  {
-    "network": "178.91.16.0/23",
-    "asn": "9198",
-    "country_code": "KZ",
-    "name": "KAZTELECOM-AS",
-    "org": "JSC Kazakhtelecom",
-    "domain": "telecom.kz"
-  },
-  {
-    "network": "178.91.18.0/23",
     "asn": "9198",
     "country_code": "KZ",
     "name": "KAZTELECOM-AS",
@@ -42161,6 +42113,14 @@
   },
   {
     "network": "5.230.79.0/24",
+    "asn": "218421",
+    "country_code": "KZ",
+    "name": "MineGuard",
+    "org": "Olga Nikolaevna Kulichenko trading as MineGuard",
+    "domain": "vds.rent"
+  },
+  {
+    "network": "5.231.255.0/24",
     "asn": "218421",
     "country_code": "KZ",
     "name": "MineGuard",
@@ -56272,6 +56232,22 @@
     "domain": "almatv.kz"
   },
   {
+    "network": "185.103.168.0/24",
+    "asn": "39824",
+    "country_code": "KZ",
+    "name": "ALMANET-AS",
+    "org": "JSC Alma Telecommunications",
+    "domain": "almatv.kz"
+  },
+  {
+    "network": "185.103.169.0/24",
+    "asn": "39824",
+    "country_code": "KZ",
+    "name": "ALMANET-AS",
+    "org": "JSC Alma Telecommunications",
+    "domain": "almatv.kz"
+  },
+  {
     "network": "185.103.170.0/23",
     "asn": "39824",
     "country_code": "KZ",
@@ -62480,6 +62456,14 @@
     "domain": "retn.net"
   },
   {
+    "network": "143.20.228.0/24",
+    "asn": "218122",
+    "country_code": "KZ",
+    "name": "kz-digital",
+    "org": "DIGITAL NETWORK SYSTEMS, TOO",
+    "domain": "digitntwsystems.com"
+  },
+  {
     "network": "146.158.79.0/24",
     "asn": "204514",
     "country_code": "KZ",
@@ -62912,6 +62896,22 @@
     "domain": "gga.kz"
   },
   {
+    "network": "185.99.125.0/24",
+    "asn": "200688",
+    "country_code": "KZ",
+    "name": "GGA",
+    "org": "Gologramma LLP",
+    "domain": "gga.kz"
+  },
+  {
+    "network": "185.99.126.0/24",
+    "asn": "200688",
+    "country_code": "KZ",
+    "name": "GGA",
+    "org": "Gologramma LLP",
+    "domain": "gga.kz"
+  },
+  {
     "network": "185.143.20.0/22",
     "asn": "207446",
     "country_code": "KZ",
@@ -63094,54 +63094,6 @@
     "name": "Nakamoto-as",
     "org": "Nakamoto LLP",
     "domain": "nakamoto.software"
-  },
-  {
-    "network": "185.196.8.0/24",
-    "asn": "41800",
-    "country_code": "KZ",
-    "name": "TROPYNIN-AS",
-    "org": "Tropynin Oleg",
-    "domain": "anchoredregistry.com"
-  },
-  {
-    "network": "194.0.108.0/24",
-    "asn": "41800",
-    "country_code": "KZ",
-    "name": "TROPYNIN-AS",
-    "org": "Tropynin Oleg",
-    "domain": "anchoredregistry.com"
-  },
-  {
-    "network": "194.0.109.0/24",
-    "asn": "41800",
-    "country_code": "KZ",
-    "name": "TROPYNIN-AS",
-    "org": "Tropynin Oleg",
-    "domain": "anchoredregistry.com"
-  },
-  {
-    "network": "194.0.110.0/24",
-    "asn": "41800",
-    "country_code": "KZ",
-    "name": "TROPYNIN-AS",
-    "org": "Tropynin Oleg",
-    "domain": "anchoredregistry.com"
-  },
-  {
-    "network": "194.0.111.0/24",
-    "asn": "41800",
-    "country_code": "KZ",
-    "name": "TROPYNIN-AS",
-    "org": "Tropynin Oleg",
-    "domain": "anchoredregistry.com"
-  },
-  {
-    "network": "2a05:d840::/29",
-    "asn": "41800",
-    "country_code": "KZ",
-    "name": "TROPYNIN-AS",
-    "org": "Tropynin Oleg",
-    "domain": "anchoredregistry.com"
   },
   {
     "network": "185.198.153.0/24",
@@ -63598,6 +63550,38 @@
     "name": "ASKNET",
     "org": "TOO \"K-net\"",
     "domain": "isp.kz"
+  },
+  {
+    "network": "194.0.108.0/24",
+    "asn": "41800",
+    "country_code": "KZ",
+    "name": "TROPYNIN-AS",
+    "org": "Tropynin Oleg",
+    "domain": "anchoredregistry.com"
+  },
+  {
+    "network": "194.0.110.0/24",
+    "asn": "41800",
+    "country_code": "KZ",
+    "name": "TROPYNIN-AS",
+    "org": "Tropynin Oleg",
+    "domain": "anchoredregistry.com"
+  },
+  {
+    "network": "194.0.111.0/24",
+    "asn": "41800",
+    "country_code": "KZ",
+    "name": "TROPYNIN-AS",
+    "org": "Tropynin Oleg",
+    "domain": "anchoredregistry.com"
+  },
+  {
+    "network": "2a05:d840::/29",
+    "asn": "41800",
+    "country_code": "KZ",
+    "name": "TROPYNIN-AS",
+    "org": "Tropynin Oleg",
+    "domain": "anchoredregistry.com"
   },
   {
     "network": "194.9.30.0/24",

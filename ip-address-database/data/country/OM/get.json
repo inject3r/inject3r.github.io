@@ -1338,7 +1338,7 @@
     "country_name": "Oman"
   },
   {
-    "network": "162.10.8.100/32",
+    "network": "162.10.8.100/31",
     "continent_code": "AS",
     "country_code": "OM",
     "country_name": "Oman"
@@ -3055,6 +3055,12 @@
   },
   {
     "network": "2001:470:6d:b3c::/64",
+    "continent_code": "AS",
+    "country_code": "OM",
+    "country_name": "Oman"
+  },
+  {
+    "network": "2001:470:6f:5ee::/64",
     "continent_code": "AS",
     "country_code": "OM",
     "country_name": "Oman"

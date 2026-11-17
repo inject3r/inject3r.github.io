@@ -10720,7 +10720,23 @@
     "domain": "veesp.com"
   },
   {
+    "network": "192.144.36.0/23",
+    "asn": "43317",
+    "country_code": "LV",
+    "name": "VEESP-AS",
+    "org": "SIA VEESP",
+    "domain": "veesp.com"
+  },
+  {
     "network": "2a00:1838::/32",
+    "asn": "43317",
+    "country_code": "LV",
+    "name": "VEESP-AS",
+    "org": "SIA VEESP",
+    "domain": "veesp.com"
+  },
+  {
+    "network": "2a09:80::/29",
     "asn": "43317",
     "country_code": "LV",
     "name": "VEESP-AS",
@@ -11134,6 +11150,22 @@
     "name": "RTU",
     "org": "Rigas Tehniska Universitate",
     "domain": "rtu.lv"
+  },
+  {
+    "network": "79.182.8.0/24",
+    "asn": "218527",
+    "country_code": "LV",
+    "name": "Igors-AS",
+    "org": "Igors Cernavskis",
+    "domain": "glorzomail.com"
+  },
+  {
+    "network": "201.58.153.0/24",
+    "asn": "218527",
+    "country_code": "LV",
+    "name": "Igors-AS",
+    "org": "Igors Cernavskis",
+    "domain": "glorzomail.com"
   },
   {
     "network": "80.70.16.0/20",
@@ -13896,38 +13928,6 @@
     "domain": "plds.lv"
   },
   {
-    "network": "192.144.36.0/23",
-    "asn": "59615",
-    "country_code": "LV",
-    "name": "SERVERUM-AS",
-    "org": "SIA Serverum",
-    "domain": "serverum.com"
-  },
-  {
-    "network": "192.144.39.0/24",
-    "asn": "59615",
-    "country_code": "LV",
-    "name": "SERVERUM-AS",
-    "org": "SIA Serverum",
-    "domain": "serverum.com"
-  },
-  {
-    "network": "2a09:80::/29",
-    "asn": "59615",
-    "country_code": "LV",
-    "name": "SERVERUM-AS",
-    "org": "SIA Serverum",
-    "domain": "serverum.com"
-  },
-  {
-    "network": "2a09:81::/32",
-    "asn": "59615",
-    "country_code": "LV",
-    "name": "SERVERUM-AS",
-    "org": "SIA Serverum",
-    "domain": "serverum.com"
-  },
-  {
     "network": "192.162.104.0/22",
     "asn": "8538",
     "country_code": "LV",
@@ -14422,14 +14422,6 @@
     "name": "airBALTIC",
     "org": "AIR BALTIC CORPORATION AS",
     "domain": "bite.lv"
-  },
-  {
-    "network": "201.58.153.0/24",
-    "asn": "218527",
-    "country_code": "LV",
-    "name": "Igors-AS",
-    "org": "Igors Cernavskis",
-    "domain": "glorzomail.com"
   },
   {
     "network": "203.8.165.0/24",

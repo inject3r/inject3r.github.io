@@ -1788,7 +1788,7 @@
     "country_name": "Costa Rica"
   },
   {
-    "network": "153.67.127.16/28",
+    "network": "153.67.127.20/30",
     "continent_code": "NA",
     "country_code": "CR",
     "country_name": "Costa Rica"
@@ -3169,12 +3169,6 @@
   },
   {
     "network": "186.32.9.0/24",
-    "continent_code": "NA",
-    "country_code": "CR",
-    "country_name": "Costa Rica"
-  },
-  {
-    "network": "186.32.10.128/25",
     "continent_code": "NA",
     "country_code": "CR",
     "country_name": "Costa Rica"
@@ -4812,7 +4806,19 @@
     "country_name": "Costa Rica"
   },
   {
-    "network": "200.229.147.192/28",
+    "network": "200.229.147.192/30",
+    "continent_code": "NA",
+    "country_code": "CR",
+    "country_name": "Costa Rica"
+  },
+  {
+    "network": "200.229.147.200/29",
+    "continent_code": "NA",
+    "country_code": "CR",
+    "country_name": "Costa Rica"
+  },
+  {
+    "network": "200.229.147.216/29",
     "continent_code": "NA",
     "country_code": "CR",
     "country_name": "Costa Rica"
@@ -7765,6 +7771,12 @@
   },
   {
     "network": "2401:3620:232:3b::/64",
+    "continent_code": "NA",
+    "country_code": "CR",
+    "country_name": "Costa Rica"
+  },
+  {
+    "network": "2602:f96d:10a:ae2a::/64",
     "continent_code": "NA",
     "country_code": "CR",
     "country_name": "Costa Rica"

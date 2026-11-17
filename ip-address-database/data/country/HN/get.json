@@ -180,6 +180,12 @@
     "country_name": "Honduras"
   },
   {
+    "network": "45.67.246.200/30",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
     "network": "45.67.247.0/25",
     "continent_code": "NA",
     "country_code": "HN",
@@ -456,7 +462,7 @@
     "country_name": "Honduras"
   },
   {
-    "network": "65.182.6.0/24",
+    "network": "65.182.6.128/27",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -828,42 +834,6 @@
     "country_name": "Honduras"
   },
   {
-    "network": "129.222.57.0/27",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
-    "network": "129.222.57.192/27",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
-    "network": "129.222.57.224/29",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
-    "network": "129.222.57.232/30",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
-    "network": "129.222.57.244/30",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
-    "network": "129.222.57.248/29",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
     "network": "131.72.208.0/22",
     "continent_code": "NA",
     "country_code": "HN",
@@ -1068,7 +1038,7 @@
     "country_name": "Honduras"
   },
   {
-    "network": "149.86.161.64/29",
+    "network": "149.86.161.64/30",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -1285,12 +1255,6 @@
   },
   {
     "network": "164.163.72.0/22",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
-    "network": "167.250.110.0/23",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -1542,7 +1506,7 @@
     "country_name": "Honduras"
   },
   {
-    "network": "181.78.44.64/27",
+    "network": "181.78.44.64/28",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -1596,7 +1560,7 @@
     "country_name": "Honduras"
   },
   {
-    "network": "181.78.101.224/27",
+    "network": "181.78.101.192/26",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -1662,19 +1626,19 @@
     "country_name": "Honduras"
   },
   {
-    "network": "181.119.100.96/27",
+    "network": "181.119.100.104/29",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
   },
   {
-    "network": "181.119.100.224/28",
+    "network": "181.119.100.224/30",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
   },
   {
-    "network": "181.119.100.250/31",
+    "network": "181.119.100.240/28",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -1686,19 +1650,31 @@
     "country_name": "Honduras"
   },
   {
-    "network": "181.119.101.108/31",
+    "network": "181.119.101.108/30",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
   },
   {
-    "network": "181.119.101.112/29",
+    "network": "181.119.101.112/31",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
   },
   {
-    "network": "181.119.190.128/25",
+    "network": "181.119.190.132/30",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "181.119.190.192/28",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "181.119.190.224/27",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -6822,13 +6798,7 @@
     "country_name": "Honduras"
   },
   {
-    "network": "190.61.48.0/30",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
-    "network": "190.61.48.4/31",
+    "network": "190.61.48.0/27",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -7248,7 +7218,73 @@
     "country_name": "Honduras"
   },
   {
-    "network": "190.242.24.0/24",
+    "network": "190.242.24.0/28",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.40/29",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.48/29",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.62/31",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.64/26",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.128/29",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.144/29",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.160/27",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.192/27",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.224/29",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.234/31",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.24.248/31",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -7260,13 +7296,7 @@
     "country_name": "Honduras"
   },
   {
-    "network": "190.242.25.32/30",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
-    "network": "190.242.25.124/31",
+    "network": "190.242.25.124/30",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -7278,7 +7308,7 @@
     "country_name": "Honduras"
   },
   {
-    "network": "190.242.25.140/30",
+    "network": "190.242.25.136/29",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -7296,7 +7326,7 @@
     "country_name": "Honduras"
   },
   {
-    "network": "190.242.25.172/30",
+    "network": "190.242.25.164/31",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -7314,7 +7344,25 @@
     "country_name": "Honduras"
   },
   {
-    "network": "190.242.27.0/25",
+    "network": "190.242.27.8/29",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.27.16/29",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.27.32/27",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.27.64/26",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -7326,19 +7374,19 @@
     "country_name": "Honduras"
   },
   {
-    "network": "190.242.27.160/30",
+    "network": "190.242.27.162/31",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "190.242.27.174/31",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
   },
   {
     "network": "190.242.27.176/29",
-    "continent_code": "NA",
-    "country_code": "HN",
-    "country_name": "Honduras"
-  },
-  {
-    "network": "190.242.27.184/31",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -7356,7 +7404,7 @@
     "country_name": "Honduras"
   },
   {
-    "network": "190.242.27.236/30",
+    "network": "190.242.27.236/31",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -7992,7 +8040,13 @@
     "country_name": "Honduras"
   },
   {
-    "network": "200.229.147.208/28",
+    "network": "200.229.147.196/30",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "200.229.147.208/29",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"
@@ -10057,6 +10111,12 @@
   },
   {
     "network": "2401:3620:232:6a::/64",
+    "continent_code": "NA",
+    "country_code": "HN",
+    "country_name": "Honduras"
+  },
+  {
+    "network": "2602:f96d:10a:68cd::/64",
     "continent_code": "NA",
     "country_code": "HN",
     "country_name": "Honduras"

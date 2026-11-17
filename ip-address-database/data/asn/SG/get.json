@@ -11832,6 +11832,14 @@
     "domain": "singtel.com"
   },
   {
+    "network": "2400:1c00:180::/48",
+    "asn": "45143",
+    "country_code": "SG",
+    "name": "SINGTELMOBILE-AS-AP",
+    "org": "Singapore Telecom Mobile Pte Ltd",
+    "domain": "singtel.com"
+  },
+  {
     "network": "2400:1c00:190::/44",
     "asn": "45143",
     "country_code": "SG",
@@ -13969,6 +13977,14 @@
   },
   {
     "network": "2600:140f:f800::/48",
+    "asn": "24319",
+    "country_code": "SG",
+    "name": "AKAMAI-TYO-AP",
+    "org": "Akamai Technologies, Inc.",
+    "domain": "akamai.com"
+  },
+  {
+    "network": "2600:1413:1000::/48",
     "asn": "24319",
     "country_code": "SG",
     "name": "AKAMAI-TYO-AP",
@@ -24209,6 +24225,14 @@
   },
   {
     "network": "183.90.88.0/21",
+    "asn": "55430",
+    "country_code": "SG",
+    "name": "STARHUB-NGNBN",
+    "org": "Starhub Ltd.",
+    "domain": "starhub.com"
+  },
+  {
+    "network": "218.186.15.0/24",
     "asn": "55430",
     "country_code": "SG",
     "name": "STARHUB-NGNBN",
@@ -35480,6 +35504,14 @@
     "domain": "aceville.net"
   },
   {
+    "network": "43.146.135.0/24",
+    "asn": "139341",
+    "country_code": "SG",
+    "name": "ACE-AS-AP",
+    "org": "ACEVILLE PTE.LTD.",
+    "domain": "aceville.net"
+  },
+  {
     "network": "43.146.152.0/24",
     "asn": "139341",
     "country_code": "SG",
@@ -42729,6 +42761,14 @@
   },
   {
     "network": "43.175.203.0/24",
+    "asn": "139341",
+    "country_code": "SG",
+    "name": "ACE-AS-AP",
+    "org": "ACEVILLE PTE.LTD.",
+    "domain": "aceville.net"
+  },
+  {
+    "network": "43.175.204.0/24",
     "asn": "139341",
     "country_code": "SG",
     "name": "ACE-AS-AP",
@@ -67208,7 +67248,7 @@
     "domain": "singtel.com"
   },
   {
-    "network": "202.165.128.0/19",
+    "network": "202.165.148.0/24",
     "asn": "7473",
     "country_code": "SG",
     "name": "SINGTEL-AS-AP",
@@ -67321,14 +67361,6 @@
   },
   {
     "network": "203.208.155.0/24",
-    "asn": "7473",
-    "country_code": "SG",
-    "name": "SINGTEL-AS-AP",
-    "org": "Singapore Telecommunications (SINGTEL Internet Exchange)",
-    "domain": "singtel.com"
-  },
-  {
-    "network": "203.208.158.0/24",
     "asn": "7473",
     "country_code": "SG",
     "name": "SINGTEL-AS-AP",
@@ -70201,14 +70233,6 @@
   },
   {
     "network": "138.103.32.0/22",
-    "asn": "9255",
-    "country_code": "SG",
-    "name": "CONNECTPLUS-AS",
-    "org": "Singapore Telecom, ConnectPlus",
-    "domain": "singtel.com"
-  },
-  {
-    "network": "143.223.80.0/24",
     "asn": "9255",
     "country_code": "SG",
     "name": "CONNECTPLUS-AS",
@@ -73518,6 +73542,14 @@
     "name": "MCTPL-AS-AP",
     "org": "Micro Cloud Technology Pte. Ltd.",
     "domain": "microcloudltd.com"
+  },
+  {
+    "network": "103.160.104.0/24",
+    "asn": "134457",
+    "country_code": "SG",
+    "name": "BSAPPL-AS-AP",
+    "org": "BMC Software Asia Pacific Pte Ltd",
+    "domain": "bmc.com"
   },
   {
     "network": "103.160.105.0/24",
@@ -81662,14 +81694,6 @@
     "name": "QX-AS-AP",
     "org": "QOXY PTE LTD",
     "domain": "qoxycloud.com"
-  },
-  {
-    "network": "2403:cfc0:100b::/48",
-    "asn": "139264",
-    "country_code": "SG",
-    "name": "ZHONGFULI-AS-AP",
-    "org": "Zhongfu Li",
-    "domain": "soonkeat.sg"
   },
   {
     "network": "2406:840:9980::/48",
