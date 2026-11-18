@@ -8320,14 +8320,6 @@
     "domain": "kt.com"
   },
   {
-    "network": "71.19.135.0/24",
-    "asn": "4766",
-    "country_code": "KR",
-    "name": "KIXS-AS-KR",
-    "org": "Korea Telecom",
-    "domain": "kt.com"
-  },
-  {
     "network": "74.124.196.0/24",
     "asn": "4766",
     "country_code": "KR",
@@ -12209,6 +12201,14 @@
   },
   {
     "network": "176.25.248.0/22",
+    "asn": "4766",
+    "country_code": "KR",
+    "name": "KIXS-AS-KR",
+    "org": "Korea Telecom",
+    "domain": "kt.com"
+  },
+  {
+    "network": "177.177.244.0/24",
     "asn": "4766",
     "country_code": "KR",
     "name": "KIXS-AS-KR",
@@ -113616,14 +113616,6 @@
     "domain": "gbe.kr"
   },
   {
-    "network": "210.95.126.0/24",
-    "asn": "9871",
-    "country_code": "KR",
-    "name": "KBE-AS-KR",
-    "org": "Gyeong Sang Buk-Do Office of Education",
-    "domain": "gbe.kr"
-  },
-  {
     "network": "210.95.130.0/24",
     "asn": "9871",
     "country_code": "KR",
@@ -128353,6 +128345,14 @@
   },
   {
     "network": "106.101.254.0/24",
+    "asn": "17853",
+    "country_code": "KR",
+    "name": "LGTELECOM-AS-KR",
+    "org": "LGTELECOM",
+    "domain": "lguplus.co.kr"
+  },
+  {
+    "network": "106.101.255.0/24",
     "asn": "17853",
     "country_code": "KR",
     "name": "LGTELECOM-AS-KR",
@@ -166848,6 +166848,14 @@
     "domain": "kbinsure.co.kr"
   },
   {
+    "network": "211.170.136.0/25",
+    "asn": "38431",
+    "country_code": "KR",
+    "name": "LIGINSURE-AS-KR",
+    "org": "KB Insurance",
+    "domain": "kbinsure.co.kr"
+  },
+  {
     "network": "218.156.194.0/24",
     "asn": "38431",
     "country_code": "KR",
@@ -166857,6 +166865,14 @@
   },
   {
     "network": "220.79.220.0/24",
+    "asn": "38431",
+    "country_code": "KR",
+    "name": "LIGINSURE-AS-KR",
+    "org": "KB Insurance",
+    "domain": "kbinsure.co.kr"
+  },
+  {
+    "network": "221.154.236.0/24",
     "asn": "38431",
     "country_code": "KR",
     "name": "LIGINSURE-AS-KR",
@@ -181824,14 +181840,6 @@
     "domain": "scourt.go.kr"
   },
   {
-    "network": "211.61.13.128/25",
-    "asn": "17869",
-    "country_code": "KR",
-    "name": "REGISTRY-AS-KR",
-    "org": "Supreme Court of Korea",
-    "domain": "scourt.go.kr"
-  },
-  {
     "network": "203.240.149.0/24",
     "asn": "45977",
     "country_code": "KR",
@@ -185840,22 +185848,6 @@
     "domain": "suidc.com"
   },
   {
-    "network": "210.114.221.0/24",
-    "asn": "17833",
-    "country_code": "KR",
-    "name": "NCOM-AS-KR",
-    "org": "NCOM ltd.",
-    "domain": "suidc.com"
-  },
-  {
-    "network": "210.114.222.0/24",
-    "asn": "17833",
-    "country_code": "KR",
-    "name": "NCOM-AS-KR",
-    "org": "NCOM ltd.",
-    "domain": "suidc.com"
-  },
-  {
     "network": "210.114.223.0/24",
     "asn": "17833",
     "country_code": "KR",
@@ -185985,14 +185977,6 @@
   },
   {
     "network": "210.127.222.0/24",
-    "asn": "17833",
-    "country_code": "KR",
-    "name": "NCOM-AS-KR",
-    "org": "NCOM ltd.",
-    "domain": "suidc.com"
-  },
-  {
-    "network": "210.127.252.0/24",
     "asn": "17833",
     "country_code": "KR",
     "name": "NCOM-AS-KR",
@@ -188800,6 +188784,14 @@
     "domain": "xr3azn.com"
   },
   {
+    "network": "2a14:7580:5e0::/43",
+    "asn": "218681",
+    "country_code": "KR",
+    "name": "XR3AZN-AS",
+    "org": "Geonwoo Kim trading as Xr3azn Network",
+    "domain": "xr3azn.com"
+  },
+  {
     "network": "2a14:7581:9f7c::/46",
     "asn": "218681",
     "country_code": "KR",
@@ -188838,6 +188830,30 @@
     "name": "YoungSeoAS",
     "org": "YoungSeo Kim",
     "domain": ""
+  },
+  {
+    "network": "2a14:7581:9f71::/48",
+    "asn": "218134",
+    "country_code": "KR",
+    "name": "UNILAB-AS",
+    "org": "Junseong Lee trading as UniLAB",
+    "domain": "unilab.kr"
+  },
+  {
+    "network": "2a14:7581:9f72::/48",
+    "asn": "218134",
+    "country_code": "KR",
+    "name": "UNILAB-AS",
+    "org": "Junseong Lee trading as UniLAB",
+    "domain": "unilab.kr"
+  },
+  {
+    "network": "2a14:7583:efcb::/48",
+    "asn": "218134",
+    "country_code": "KR",
+    "name": "UNILAB-AS",
+    "org": "Junseong Lee trading as UniLAB",
+    "domain": "unilab.kr"
   },
   {
     "network": "2a14:7583:effe::/48",

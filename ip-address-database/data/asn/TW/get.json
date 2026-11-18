@@ -4656,6 +4656,14 @@
     "domain": "taiwanmobile.com"
   },
   {
+    "network": "103.123.191.0/24",
+    "asn": "9924",
+    "country_code": "TW",
+    "name": "TFN-TW",
+    "org": "Taiwan Fixed Network, Telco and Network Service Provider.",
+    "domain": "taiwanmobile.com"
+  },
+  {
     "network": "103.129.176.0/22",
     "asn": "9924",
     "country_code": "TW",
@@ -16744,6 +16752,14 @@
     "domain": "seed.net.tw"
   },
   {
+    "network": "106.105.138.0/24",
+    "asn": "4780",
+    "country_code": "TW",
+    "name": "SEEDNET",
+    "org": "Digital United Inc.",
+    "domain": "seed.net.tw"
+  },
+  {
     "network": "106.106.2.0/24",
     "asn": "4780",
     "country_code": "TW",
@@ -22184,6 +22200,14 @@
     "domain": "seed.net.tw"
   },
   {
+    "network": "203.79.135.0/24",
+    "asn": "4780",
+    "country_code": "TW",
+    "name": "SEEDNET",
+    "org": "Digital United Inc.",
+    "domain": "seed.net.tw"
+  },
+  {
     "network": "210.64.0.0/16",
     "asn": "4780",
     "country_code": "TW",
@@ -22401,6 +22425,14 @@
   },
   {
     "network": "210.64.224.0/19",
+    "asn": "4780",
+    "country_code": "TW",
+    "name": "SEEDNET",
+    "org": "Digital United Inc.",
+    "domain": "seed.net.tw"
+  },
+  {
+    "network": "210.64.226.0/24",
     "asn": "4780",
     "country_code": "TW",
     "name": "SEEDNET",
@@ -29705,6 +29737,14 @@
   },
   {
     "network": "210.58.112.0/20",
+    "asn": "17709",
+    "country_code": "TW",
+    "name": "APT",
+    "org": "Asia Pacific Telecom",
+    "domain": "fareastone.com.tw"
+  },
+  {
+    "network": "210.58.113.0/24",
     "asn": "17709",
     "country_code": "TW",
     "name": "APT",
@@ -69120,6 +69160,14 @@
     "domain": "narlabs.org.tw"
   },
   {
+    "network": "103.189.132.0/23",
+    "asn": "18183",
+    "country_code": "TW",
+    "name": "NCREE",
+    "org": "National Center for Research on Earthquake Engineering",
+    "domain": "narlabs.org.tw"
+  },
+  {
     "network": "202.5.12.0/22",
     "asn": "18183",
     "country_code": "TW",
@@ -69153,6 +69201,14 @@
   },
   {
     "network": "2001:4500:1180::/41",
+    "asn": "18183",
+    "country_code": "TW",
+    "name": "NCREE",
+    "org": "National Center for Research on Earthquake Engineering",
+    "domain": "narlabs.org.tw"
+  },
+  {
+    "network": "2400:85a0::/32",
     "asn": "18183",
     "country_code": "TW",
     "name": "NCREE",
@@ -72960,7 +73016,39 @@
     "domain": "lazco.tw"
   },
   {
+    "network": "2402:4f20:1111::/48",
+    "asn": "131630",
+    "country_code": "TW",
+    "name": "LAZCO",
+    "org": "Lazco Corporation",
+    "domain": "lazco.tw"
+  },
+  {
+    "network": "2402:4f20:8888::/48",
+    "asn": "131630",
+    "country_code": "TW",
+    "name": "LAZCO",
+    "org": "Lazco Corporation",
+    "domain": "lazco.tw"
+  },
+  {
     "network": "2402:4f20:9999::/48",
+    "asn": "131630",
+    "country_code": "TW",
+    "name": "LAZCO",
+    "org": "Lazco Corporation",
+    "domain": "lazco.tw"
+  },
+  {
+    "network": "2402:4f20:aaaa::/48",
+    "asn": "131630",
+    "country_code": "TW",
+    "name": "LAZCO",
+    "org": "Lazco Corporation",
+    "domain": "lazco.tw"
+  },
+  {
+    "network": "2402:4f20:bbbb::/48",
     "asn": "131630",
     "country_code": "TW",
     "name": "LAZCO",
@@ -73305,6 +73393,14 @@
   },
   {
     "network": "103.119.214.0/24",
+    "asn": "131629",
+    "country_code": "TW",
+    "name": "CKMATES-AS-TW",
+    "org": "CKMATES INTERNATIONAL CO., LTD",
+    "domain": "ckmates.com"
+  },
+  {
+    "network": "103.119.215.0/24",
     "asn": "131629",
     "country_code": "TW",
     "name": "CKMATES-AS-TW",
@@ -79408,23 +79504,7 @@
     "domain": "as208223.eu.org"
   },
   {
-    "network": "2401:af20:1a30::/48",
-    "asn": "208223",
-    "country_code": "TW",
-    "name": "FOXO-AS",
-    "org": "SHU-HAO TUNG",
-    "domain": "as208223.eu.org"
-  },
-  {
     "network": "2401:af20:1a3b::/48",
-    "asn": "208223",
-    "country_code": "TW",
-    "name": "FOXO-AS",
-    "org": "SHU-HAO TUNG",
-    "domain": "as208223.eu.org"
-  },
-  {
-    "network": "2401:af20:1a3f::/48",
     "asn": "208223",
     "country_code": "TW",
     "name": "FOXO-AS",
@@ -79529,14 +79609,6 @@
   },
   {
     "network": "2401:af20:8000::/33",
-    "asn": "208223",
-    "country_code": "TW",
-    "name": "FOXO-AS",
-    "org": "SHU-HAO TUNG",
-    "domain": "as208223.eu.org"
-  },
-  {
-    "network": "2401:af20:df00::/48",
     "asn": "208223",
     "country_code": "TW",
     "name": "FOXO-AS",
@@ -81824,14 +81896,6 @@
     "domain": ""
   },
   {
-    "network": "221.128.252.0/22",
-    "asn": "18180",
-    "country_code": "TW",
-    "name": "TWNIC-AS",
-    "org": "Taiwan Network Information Center",
-    "domain": ""
-  },
-  {
     "network": "2001:288:4200::/39",
     "asn": "18043",
     "country_code": "TW",
@@ -81990,6 +82054,86 @@
     "name": "LiRun-AS",
     "org": "Taiwan Li Run Ltd.",
     "domain": "li-run.com"
+  },
+  {
+    "network": "2401:af20:41c::/46",
+    "asn": "210932",
+    "country_code": "TW",
+    "name": "CHESS-NETWORK-SERVICES",
+    "org": "Yu-Cheng Kuo",
+    "domain": "chesskuo.tw"
+  },
+  {
+    "network": "2a05:b0c6:9000::/40",
+    "asn": "210932",
+    "country_code": "TW",
+    "name": "CHESS-NETWORK-SERVICES",
+    "org": "Yu-Cheng Kuo",
+    "domain": "chesskuo.tw"
+  },
+  {
+    "network": "2a05:b0c6:9033::/48",
+    "asn": "210932",
+    "country_code": "TW",
+    "name": "CHESS-NETWORK-SERVICES",
+    "org": "Yu-Cheng Kuo",
+    "domain": "chesskuo.tw"
+  },
+  {
+    "network": "2a05:b0c6:9080::/41",
+    "asn": "210932",
+    "country_code": "TW",
+    "name": "CHESS-NETWORK-SERVICES",
+    "org": "Yu-Cheng Kuo",
+    "domain": "chesskuo.tw"
+  },
+  {
+    "network": "2a06:a005:570::/44",
+    "asn": "210932",
+    "country_code": "TW",
+    "name": "CHESS-NETWORK-SERVICES",
+    "org": "Yu-Cheng Kuo",
+    "domain": "chesskuo.tw"
+  },
+  {
+    "network": "2a0f:607:1500::/44",
+    "asn": "210932",
+    "country_code": "TW",
+    "name": "CHESS-NETWORK-SERVICES",
+    "org": "Yu-Cheng Kuo",
+    "domain": "chesskuo.tw"
+  },
+  {
+    "network": "2a0f:607:1500::/48",
+    "asn": "210932",
+    "country_code": "TW",
+    "name": "CHESS-NETWORK-SERVICES",
+    "org": "Yu-Cheng Kuo",
+    "domain": "chesskuo.tw"
+  },
+  {
+    "network": "2a0f:607:1501::/48",
+    "asn": "210932",
+    "country_code": "TW",
+    "name": "CHESS-NETWORK-SERVICES",
+    "org": "Yu-Cheng Kuo",
+    "domain": "chesskuo.tw"
+  },
+  {
+    "network": "2a0f:607:1502::/48",
+    "asn": "210932",
+    "country_code": "TW",
+    "name": "CHESS-NETWORK-SERVICES",
+    "org": "Yu-Cheng Kuo",
+    "domain": "chesskuo.tw"
+  },
+  {
+    "network": "2a0f:607:1508::/48",
+    "asn": "210932",
+    "country_code": "TW",
+    "name": "CHESS-NETWORK-SERVICES",
+    "org": "Yu-Cheng Kuo",
+    "domain": "chesskuo.tw"
   },
   {
     "network": "2401:e3e0:300::/44",
@@ -82510,78 +82654,6 @@
     "name": "Jimmy-Pan",
     "org": "Jimmy Pan",
     "domain": "as212360.net"
-  },
-  {
-    "network": "2a05:b0c6:9000::/40",
-    "asn": "210932",
-    "country_code": "TW",
-    "name": "CHESS-NETWORK-SERVICES",
-    "org": "Yu-Cheng Kuo",
-    "domain": "chesskuo.tw"
-  },
-  {
-    "network": "2a05:b0c6:9033::/48",
-    "asn": "210932",
-    "country_code": "TW",
-    "name": "CHESS-NETWORK-SERVICES",
-    "org": "Yu-Cheng Kuo",
-    "domain": "chesskuo.tw"
-  },
-  {
-    "network": "2a05:b0c6:9080::/41",
-    "asn": "210932",
-    "country_code": "TW",
-    "name": "CHESS-NETWORK-SERVICES",
-    "org": "Yu-Cheng Kuo",
-    "domain": "chesskuo.tw"
-  },
-  {
-    "network": "2a06:a005:570::/44",
-    "asn": "210932",
-    "country_code": "TW",
-    "name": "CHESS-NETWORK-SERVICES",
-    "org": "Yu-Cheng Kuo",
-    "domain": "chesskuo.tw"
-  },
-  {
-    "network": "2a0f:607:1500::/44",
-    "asn": "210932",
-    "country_code": "TW",
-    "name": "CHESS-NETWORK-SERVICES",
-    "org": "Yu-Cheng Kuo",
-    "domain": "chesskuo.tw"
-  },
-  {
-    "network": "2a0f:607:1500::/48",
-    "asn": "210932",
-    "country_code": "TW",
-    "name": "CHESS-NETWORK-SERVICES",
-    "org": "Yu-Cheng Kuo",
-    "domain": "chesskuo.tw"
-  },
-  {
-    "network": "2a0f:607:1501::/48",
-    "asn": "210932",
-    "country_code": "TW",
-    "name": "CHESS-NETWORK-SERVICES",
-    "org": "Yu-Cheng Kuo",
-    "domain": "chesskuo.tw"
-  },
-  {
-    "network": "2a0f:607:1502::/48",
-    "asn": "210932",
-    "country_code": "TW",
-    "name": "CHESS-NETWORK-SERVICES",
-    "org": "Yu-Cheng Kuo",
-    "domain": "chesskuo.tw"
-  },
-  {
-    "network": "2a0f:607:1508::/48",
-    "asn": "210932",
-    "country_code": "TW",
-    "name": "CHESS-NETWORK-SERVICES",
-    "org": "Yu-Cheng Kuo",
-    "domain": "chesskuo.tw"
   },
   {
     "network": "2a05:dfc3:fd0f::/48",
