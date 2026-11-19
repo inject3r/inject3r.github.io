@@ -78,6 +78,12 @@
     "country_name": "Reunion"
   },
   {
+    "network": "77.143.17.0/24",
+    "continent_code": "AF",
+    "country_code": "RE",
+    "country_name": "Reunion"
+  },
+  {
     "network": "77.143.88.0/24",
     "continent_code": "AF",
     "country_code": "RE",
@@ -90,7 +96,7 @@
     "country_name": "Reunion"
   },
   {
-    "network": "80.12.212.128/26",
+    "network": "80.12.212.128/27",
     "continent_code": "AF",
     "country_code": "RE",
     "country_name": "Reunion"
@@ -294,7 +300,7 @@
     "country_name": "Reunion"
   },
   {
-    "network": "81.248.216.0/22",
+    "network": "81.248.218.0/23",
     "continent_code": "AF",
     "country_code": "RE",
     "country_name": "Reunion"
@@ -414,19 +420,13 @@
     "country_name": "Reunion"
   },
   {
-    "network": "81.248.236.0/23",
-    "continent_code": "AF",
-    "country_code": "RE",
-    "country_name": "Reunion"
-  },
-  {
     "network": "81.248.240.0/20",
     "continent_code": "AF",
     "country_code": "RE",
     "country_name": "Reunion"
   },
   {
-    "network": "83.198.8.0/21",
+    "network": "83.198.0.0/20",
     "continent_code": "AF",
     "country_code": "RE",
     "country_name": "Reunion"
@@ -444,19 +444,13 @@
     "country_name": "Reunion"
   },
   {
-    "network": "83.198.64.0/20",
+    "network": "83.198.64.0/19",
     "continent_code": "AF",
     "country_code": "RE",
     "country_name": "Reunion"
   },
   {
-    "network": "83.198.88.0/21",
-    "continent_code": "AF",
-    "country_code": "RE",
-    "country_name": "Reunion"
-  },
-  {
-    "network": "83.198.96.0/19",
+    "network": "83.198.96.0/20",
     "continent_code": "AF",
     "country_code": "RE",
     "country_name": "Reunion"
@@ -474,7 +468,7 @@
     "country_name": "Reunion"
   },
   {
-    "network": "83.198.224.0/21",
+    "network": "83.198.224.0/20",
     "continent_code": "AF",
     "country_code": "RE",
     "country_name": "Reunion"
@@ -516,7 +510,13 @@
     "country_name": "Reunion"
   },
   {
-    "network": "92.130.32.0/19",
+    "network": "92.130.32.0/20",
+    "continent_code": "AF",
+    "country_code": "RE",
+    "country_name": "Reunion"
+  },
+  {
+    "network": "92.130.56.0/21",
     "continent_code": "AF",
     "country_code": "RE",
     "country_name": "Reunion"
@@ -540,7 +540,7 @@
     "country_name": "Reunion"
   },
   {
-    "network": "92.130.160.0/20",
+    "network": "92.130.160.0/21",
     "continent_code": "AF",
     "country_code": "RE",
     "country_name": "Reunion"
@@ -1428,12 +1428,6 @@
     "country_name": "Reunion"
   },
   {
-    "network": "194.3.188.128/29",
-    "continent_code": "AF",
-    "country_code": "RE",
-    "country_name": "Reunion"
-  },
-  {
     "network": "194.3.189.67/32",
     "continent_code": "AF",
     "country_code": "RE",
@@ -2022,7 +2016,7 @@
     "country_name": "Reunion"
   },
   {
-    "network": "2a14:7584:e3d8::/48",
+    "network": "2a14:c380:16ba::/48",
     "continent_code": "AF",
     "country_code": "RE",
     "country_name": "Reunion"

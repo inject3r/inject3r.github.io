@@ -13136,14 +13136,6 @@
     "domain": "opnet.it"
   },
   {
-    "network": "51.179.16.0/20",
-    "asn": "198471",
-    "country_code": "IT",
-    "name": "OPNET-AS",
-    "org": "Opnet Srl",
-    "domain": "opnet.it"
-  },
-  {
     "network": "51.179.32.0/24",
     "asn": "198471",
     "country_code": "IT",
@@ -17192,14 +17184,6 @@
     "domain": "skylogic.it"
   },
   {
-    "network": "95.210.63.0/24",
-    "asn": "29286",
-    "country_code": "IT",
-    "name": "SKYLOGIC-AS",
-    "org": "SKYLOGIC S.P.A.",
-    "domain": "skylogic.it"
-  },
-  {
     "network": "95.210.68.0/24",
     "asn": "29286",
     "country_code": "IT",
@@ -18128,6 +18112,14 @@
     "domain": "skylogic.it"
   },
   {
+    "network": "2a00:ca0:2000::/48",
+    "asn": "29286",
+    "country_code": "IT",
+    "name": "SKYLOGIC-AS",
+    "org": "SKYLOGIC S.P.A.",
+    "domain": "skylogic.it"
+  },
+  {
     "network": "2a00:ca0:2001::/48",
     "asn": "29286",
     "country_code": "IT",
@@ -18553,14 +18545,6 @@
   },
   {
     "network": "77.89.0.0/19",
-    "asn": "21309",
-    "country_code": "IT",
-    "name": "CASAWEB-AS",
-    "org": "HERABIT S.p.A.",
-    "domain": "gruppohera.it"
-  },
-  {
-    "network": "77.89.16.0/20",
     "asn": "21309",
     "country_code": "IT",
     "name": "CASAWEB-AS",
@@ -20928,6 +20912,14 @@
     "domain": "itgate.net"
   },
   {
+    "network": "217.180.61.0/24",
+    "asn": "12779",
+    "country_code": "IT",
+    "name": "ITGATE",
+    "org": "IT.Gate S.p.A.",
+    "domain": "itgate.net"
+  },
+  {
     "network": "2001:1418::/29",
     "asn": "12779",
     "country_code": "IT",
@@ -21777,14 +21769,6 @@
   },
   {
     "network": "193.43.132.0/23",
-    "asn": "3242",
-    "country_code": "IT",
-    "name": "ASN-ITNET",
-    "org": "REEVO S.P.A.",
-    "domain": "reevo.cloud"
-  },
-  {
-    "network": "212.115.96.0/22",
     "asn": "3242",
     "country_code": "IT",
     "name": "ASN-ITNET",
@@ -25248,14 +25232,6 @@
     "domain": "isiline.net"
   },
   {
-    "network": "213.144.64.0/24",
-    "asn": "13113",
-    "country_code": "IT",
-    "name": "ISILINE-AS",
-    "org": "ISI Line srl",
-    "domain": "isiline.net"
-  },
-  {
     "network": "2a03:3d80::/29",
     "asn": "13113",
     "country_code": "IT",
@@ -27769,6 +27745,14 @@
   },
   {
     "network": "9.247.6.0/24",
+    "asn": "198180",
+    "country_code": "IT",
+    "name": "Gabriele-Sabatino",
+    "org": "Gabriele Sabatino",
+    "domain": "as198180.net"
+  },
+  {
+    "network": "37.235.169.0/24",
     "asn": "198180",
     "country_code": "IT",
     "name": "Gabriele-Sabatino",
@@ -32065,6 +32049,14 @@
   },
   {
     "network": "45.156.156.0/24",
+    "asn": "60798",
+    "country_code": "IT",
+    "name": "ASSERVEREASY",
+    "org": "Servereasy Srl",
+    "domain": "servereasy.it"
+  },
+  {
+    "network": "80.73.249.0/24",
     "asn": "60798",
     "country_code": "IT",
     "name": "ASSERVEREASY",
@@ -47323,25 +47315,25 @@
     "network": "46.255.31.0/24",
     "asn": "60943",
     "country_code": "IT",
-    "name": "FIBERLAND-AS",
-    "org": "FIBERLAND SRLS",
-    "domain": "fiberland.it"
+    "name": "ARRAKIS-AS",
+    "org": "ARRAKIS SOLUTIONS SRLS",
+    "domain": "arrakis.solutions"
   },
   {
     "network": "193.160.240.0/22",
     "asn": "60943",
     "country_code": "IT",
-    "name": "FIBERLAND-AS",
-    "org": "FIBERLAND SRLS",
-    "domain": "fiberland.it"
+    "name": "ARRAKIS-AS",
+    "org": "ARRAKIS SOLUTIONS SRLS",
+    "domain": "arrakis.solutions"
   },
   {
     "network": "2a0c:dac0::/29",
     "asn": "60943",
     "country_code": "IT",
-    "name": "FIBERLAND-AS",
-    "org": "FIBERLAND SRLS",
-    "domain": "fiberland.it"
+    "name": "ARRAKIS-AS",
+    "org": "ARRAKIS SOLUTIONS SRLS",
+    "domain": "arrakis.solutions"
   },
   {
     "network": "46.255.240.0/24",
@@ -50976,6 +50968,14 @@
     "domain": "coopservice.it"
   },
   {
+    "network": "78.24.80.0/21",
+    "asn": "43611",
+    "country_code": "IT",
+    "name": "RETELITDS-AS",
+    "org": "Retelit Digital Services S.p.A.",
+    "domain": "retelit.it"
+  },
+  {
     "network": "78.26.126.0/24",
     "asn": "202896",
     "country_code": "IT",
@@ -52616,6 +52616,22 @@
     "domain": "fibercop.it"
   },
   {
+    "network": "185.57.22.0/24",
+    "asn": "213677",
+    "country_code": "IT",
+    "name": "FIBERCOP",
+    "org": "Fibercop S.p.A.",
+    "domain": "fibercop.it"
+  },
+  {
+    "network": "185.57.23.0/24",
+    "asn": "213677",
+    "country_code": "IT",
+    "name": "FIBERCOP",
+    "org": "Fibercop S.p.A.",
+    "domain": "fibercop.it"
+  },
+  {
     "network": "2a14:d200::/29",
     "asn": "213677",
     "country_code": "IT",
@@ -53006,14 +53022,6 @@
     "name": "TecnoGeneral",
     "org": "TECNO GENERAL S.R.L",
     "domain": "tecnogeneral.it"
-  },
-  {
-    "network": "81.21.128.0/21",
-    "asn": "12505",
-    "country_code": "IT",
-    "name": "BPM",
-    "org": "Banco BPM S.P.A",
-    "domain": "bpm.it"
   },
   {
     "network": "81.22.224.0/22",
@@ -56608,14 +56616,6 @@
     "domain": "fiber23.it"
   },
   {
-    "network": "2a13:9500:b8::/48",
-    "asn": "57142",
-    "country_code": "IT",
-    "name": "AS-FIBER23",
-    "org": "Fiber 23 SRL",
-    "domain": "fiber23.it"
-  },
-  {
     "network": "86.109.128.0/19",
     "asn": "6882",
     "country_code": "IT",
@@ -56657,6 +56657,14 @@
   },
   {
     "network": "2a05:b0c6:5008::/48",
+    "asn": "211358",
+    "country_code": "IT",
+    "name": "AS-IPV6GO",
+    "org": "Patrizio Palumbo",
+    "domain": "ppnetworks.it"
+  },
+  {
+    "network": "2a05:b0c6:5009::/48",
     "asn": "211358",
     "country_code": "IT",
     "name": "AS-IPV6GO",
@@ -61360,6 +61368,14 @@
     "domain": "carlhost.com"
   },
   {
+    "network": "2a02:2fc0:2a::/48",
+    "asn": "218093",
+    "country_code": "IT",
+    "name": "CARLHOST-AS",
+    "org": "Ulivi Nicolo' trading as CarlHost",
+    "domain": "carlhost.com"
+  },
+  {
     "network": "2a0c:6d87:f18c::/48",
     "asn": "218093",
     "country_code": "IT",
@@ -64030,46 +64046,6 @@
     "name": "DIGISAT-AS",
     "org": "Piccolo Andrea trading as Digisat",
     "domain": "digisat.it"
-  },
-  {
-    "network": "130.0.208.0/21",
-    "asn": "199237",
-    "country_code": "IT",
-    "name": "EuroReti-Srl",
-    "org": "EuroReti S.r.l.",
-    "domain": ""
-  },
-  {
-    "network": "130.0.209.0/24",
-    "asn": "199237",
-    "country_code": "IT",
-    "name": "EuroReti-Srl",
-    "org": "EuroReti S.r.l.",
-    "domain": ""
-  },
-  {
-    "network": "130.0.211.0/24",
-    "asn": "199237",
-    "country_code": "IT",
-    "name": "EuroReti-Srl",
-    "org": "EuroReti S.r.l.",
-    "domain": ""
-  },
-  {
-    "network": "130.0.212.0/24",
-    "asn": "199237",
-    "country_code": "IT",
-    "name": "EuroReti-Srl",
-    "org": "EuroReti S.r.l.",
-    "domain": ""
-  },
-  {
-    "network": "185.101.212.0/22",
-    "asn": "199237",
-    "country_code": "IT",
-    "name": "EuroReti-Srl",
-    "org": "EuroReti S.r.l.",
-    "domain": ""
   },
   {
     "network": "130.117.235.0/24",
@@ -67408,14 +67384,6 @@
     "domain": "as59715.net"
   },
   {
-    "network": "185.5.200.0/23",
-    "asn": "59715",
-    "country_code": "IT",
-    "name": "SBTAP-AS",
-    "org": "Comune di San Benedetto del Tronto",
-    "domain": "as59715.net"
-  },
-  {
     "network": "185.5.202.0/24",
     "asn": "59715",
     "country_code": "IT",
@@ -67424,23 +67392,7 @@
     "domain": "as59715.net"
   },
   {
-    "network": "185.5.203.0/24",
-    "asn": "59715",
-    "country_code": "IT",
-    "name": "SBTAP-AS",
-    "org": "Comune di San Benedetto del Tronto",
-    "domain": "as59715.net"
-  },
-  {
     "network": "2a02:cdc0::/29",
-    "asn": "59715",
-    "country_code": "IT",
-    "name": "SBTAP-AS",
-    "org": "Comune di San Benedetto del Tronto",
-    "domain": "as59715.net"
-  },
-  {
-    "network": "2a02:cdc6:3074::/48",
     "asn": "59715",
     "country_code": "IT",
     "name": "SBTAP-AS",
@@ -69472,14 +69424,6 @@
     "domain": "next-com.it"
   },
   {
-    "network": "185.82.113.0/24",
-    "asn": "201722",
-    "country_code": "IT",
-    "name": "AS-WIRNEXT",
-    "org": "NEXT SRL",
-    "domain": "next-com.it"
-  },
-  {
     "network": "185.82.114.0/24",
     "asn": "201722",
     "country_code": "IT",
@@ -69510,6 +69454,22 @@
     "name": "AS-WIRNEXT",
     "org": "NEXT SRL",
     "domain": "next-com.it"
+  },
+  {
+    "network": "185.82.113.0/24",
+    "asn": "197644",
+    "country_code": "IT",
+    "name": "BMETRIC",
+    "org": "BMETRIC SRL",
+    "domain": "bmetric.it"
+  },
+  {
+    "network": "191.44.115.0/24",
+    "asn": "197644",
+    "country_code": "IT",
+    "name": "BMETRIC",
+    "org": "BMETRIC SRL",
+    "domain": "bmetric.it"
   },
   {
     "network": "185.82.132.0/22",
@@ -74488,14 +74448,6 @@
     "domain": "realeites.com"
   },
   {
-    "network": "191.44.115.0/24",
-    "asn": "197644",
-    "country_code": "IT",
-    "name": "BMETRIC",
-    "org": "BMETRIC SRL",
-    "domain": "bmetric.it"
-  },
-  {
     "network": "192.12.192.0/23",
     "asn": "2597",
     "country_code": "IT",
@@ -74729,6 +74681,14 @@
   },
   {
     "network": "193.24.106.0/24",
+    "asn": "199699",
+    "country_code": "IT",
+    "name": "GAMGROUP-ITALIA",
+    "org": "GAMGROUP SRL",
+    "domain": "gam-group.net"
+  },
+  {
+    "network": "195.93.227.0/24",
     "asn": "199699",
     "country_code": "IT",
     "name": "GAMGROUP-ITALIA",
@@ -77648,31 +77608,7 @@
     "domain": "uniplan.it"
   },
   {
-    "network": "217.20.0.0/24",
-    "asn": "198387",
-    "country_code": "IT",
-    "name": "UNIPLAN",
-    "org": "Uniplan Software S.r.l.",
-    "domain": "uniplan.it"
-  },
-  {
-    "network": "217.20.1.0/24",
-    "asn": "198387",
-    "country_code": "IT",
-    "name": "UNIPLAN",
-    "org": "Uniplan Software S.r.l.",
-    "domain": "uniplan.it"
-  },
-  {
     "network": "217.20.2.0/24",
-    "asn": "198387",
-    "country_code": "IT",
-    "name": "UNIPLAN",
-    "org": "Uniplan Software S.r.l.",
-    "domain": "uniplan.it"
-  },
-  {
-    "network": "217.20.3.0/24",
     "asn": "198387",
     "country_code": "IT",
     "name": "UNIPLAN",

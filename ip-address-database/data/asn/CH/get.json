@@ -1128,23 +1128,7 @@
     "domain": "infomaniak.ch"
   },
   {
-    "network": "83.166.143.0/24",
-    "asn": "29222",
-    "country_code": "CH",
-    "name": "Infomaniak-AS",
-    "org": "Infomaniak Network SA",
-    "domain": "infomaniak.ch"
-  },
-  {
     "network": "83.228.192.0/18",
-    "asn": "29222",
-    "country_code": "CH",
-    "name": "Infomaniak-AS",
-    "org": "Infomaniak Network SA",
-    "domain": "infomaniak.ch"
-  },
-  {
-    "network": "83.228.222.0/24",
     "asn": "29222",
     "country_code": "CH",
     "name": "Infomaniak-AS",
@@ -3601,14 +3585,6 @@
   },
   {
     "network": "185.71.12.0/22",
-    "asn": "15623",
-    "country_code": "CH",
-    "name": "CYBERLINK",
-    "org": "Cyberlink AG",
-    "domain": "cyberlink.ch"
-  },
-  {
-    "network": "185.117.15.0/24",
     "asn": "15623",
     "country_code": "CH",
     "name": "CYBERLINK",
@@ -11713,6 +11689,14 @@
   },
   {
     "network": "2a0c:9a44::/48",
+    "asn": "34927",
+    "country_code": "CH",
+    "name": "iFog-GmbH",
+    "org": "iFog GmbH",
+    "domain": "ifog.ch"
+  },
+  {
+    "network": "2a10:fa80:160::/44",
     "asn": "34927",
     "country_code": "CH",
     "name": "iFog-GmbH",
@@ -39104,22 +39088,6 @@
     "domain": "ip-max.net"
   },
   {
-    "network": "185.117.12.0/24",
-    "asn": "51786",
-    "country_code": "CH",
-    "name": "VELDER-AS",
-    "org": "Patrick Velder",
-    "domain": "velder.li"
-  },
-  {
-    "network": "2a06:8280::/43",
-    "asn": "51786",
-    "country_code": "CH",
-    "name": "VELDER-AS",
-    "org": "Patrick Velder",
-    "domain": "velder.li"
-  },
-  {
     "network": "185.119.84.0/22",
     "asn": "203892",
     "country_code": "CH",
@@ -42693,7 +42661,7 @@
     "country_code": "CH",
     "name": "DOLPHIN",
     "org": "F24 Schweiz AG",
-    "domain": "init7.net"
+    "domain": "f24.com"
   },
   {
     "network": "193.93.208.0/24",
@@ -42701,7 +42669,7 @@
     "country_code": "CH",
     "name": "DOLPHIN",
     "org": "F24 Schweiz AG",
-    "domain": "init7.net"
+    "domain": "f24.com"
   },
   {
     "network": "193.93.209.0/24",
@@ -42709,7 +42677,7 @@
     "country_code": "CH",
     "name": "DOLPHIN",
     "org": "F24 Schweiz AG",
-    "domain": "init7.net"
+    "domain": "f24.com"
   },
   {
     "network": "193.104.42.0/24",
@@ -44440,14 +44408,6 @@
     "domain": "admin.ch"
   },
   {
-    "network": "194.209.193.0/24",
-    "asn": "212823",
-    "country_code": "CH",
-    "name": "BABS",
-    "org": "Fuehrungsunterstuetzungsbasis FUB",
-    "domain": "admin.ch"
-  },
-  {
     "network": "194.209.241.0/24",
     "asn": "16114",
     "country_code": "CH",
@@ -45934,6 +45894,14 @@
     "name": "SBAG",
     "org": "Securebit AG",
     "domain": "securebit.ch"
+  },
+  {
+    "network": "2a06:8280::/43",
+    "asn": "51786",
+    "country_code": "CH",
+    "name": "VELDER-AS",
+    "org": "Patrick Velder",
+    "domain": "velder.li"
   },
   {
     "network": "2a06:8a01::/32",

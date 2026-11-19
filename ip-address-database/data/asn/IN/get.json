@@ -19096,6 +19096,14 @@
     "domain": "tatacommunications.com"
   },
   {
+    "network": "5.157.88.0/24",
+    "asn": "4755",
+    "country_code": "IN",
+    "name": "TATACOMM-AS",
+    "org": "Tata Communications Limited",
+    "domain": "tatacommunications.com"
+  },
+  {
     "network": "14.140.0.0/14",
     "asn": "4755",
     "country_code": "IN",
@@ -22985,22 +22993,6 @@
   },
   {
     "network": "59.162.54.0/23",
-    "asn": "4755",
-    "country_code": "IN",
-    "name": "TATACOMM-AS",
-    "org": "Tata Communications Limited",
-    "domain": "tatacommunications.com"
-  },
-  {
-    "network": "59.162.58.0/23",
-    "asn": "4755",
-    "country_code": "IN",
-    "name": "TATACOMM-AS",
-    "org": "Tata Communications Limited",
-    "domain": "tatacommunications.com"
-  },
-  {
-    "network": "59.162.59.0/24",
     "asn": "4755",
     "country_code": "IN",
     "name": "TATACOMM-AS",
@@ -31112,22 +31104,6 @@
     "domain": "tatacommunications.com"
   },
   {
-    "network": "121.243.96.0/23",
-    "asn": "4755",
-    "country_code": "IN",
-    "name": "TATACOMM-AS",
-    "org": "Tata Communications Limited",
-    "domain": "tatacommunications.com"
-  },
-  {
-    "network": "121.243.96.0/24",
-    "asn": "4755",
-    "country_code": "IN",
-    "name": "TATACOMM-AS",
-    "org": "Tata Communications Limited",
-    "domain": "tatacommunications.com"
-  },
-  {
     "network": "121.243.98.0/23",
     "asn": "4755",
     "country_code": "IN",
@@ -37633,6 +37609,14 @@
   },
   {
     "network": "2403:0:639::/48",
+    "asn": "4755",
+    "country_code": "IN",
+    "name": "TATACOMM-AS",
+    "org": "Tata Communications Limited",
+    "domain": "tatacommunications.com"
+  },
+  {
+    "network": "2403:0:63b::/48",
     "asn": "4755",
     "country_code": "IN",
     "name": "TATACOMM-AS",
@@ -49649,22 +49633,6 @@
   },
   {
     "network": "42.109.72.0/24",
-    "asn": "38266",
-    "country_code": "IN",
-    "name": "VIL-AS-AP",
-    "org": "Vodafone Idea Ltd. (VIL)",
-    "domain": "vodafoneidea.com"
-  },
-  {
-    "network": "42.109.76.0/23",
-    "asn": "38266",
-    "country_code": "IN",
-    "name": "VIL-AS-AP",
-    "org": "Vodafone Idea Ltd. (VIL)",
-    "domain": "vodafoneidea.com"
-  },
-  {
-    "network": "42.109.78.0/23",
     "asn": "38266",
     "country_code": "IN",
     "name": "VIL-AS-AP",
@@ -104424,6 +104392,14 @@
     "domain": "airtel.in"
   },
   {
+    "network": "179.255.90.0/24",
+    "asn": "9498",
+    "country_code": "IN",
+    "name": "BBIL-AP",
+    "org": "Bharti Airtel Limited",
+    "domain": "airtel.in"
+  },
+  {
     "network": "179.255.192.0/24",
     "asn": "9498",
     "country_code": "IN",
@@ -113689,6 +113665,14 @@
   },
   {
     "network": "182.78.222.0/24",
+    "asn": "9498",
+    "country_code": "IN",
+    "name": "BBIL-AP",
+    "org": "Bharti Airtel Limited",
+    "domain": "airtel.in"
+  },
+  {
+    "network": "182.78.239.0/24",
     "asn": "9498",
     "country_code": "IN",
     "name": "BBIL-AP",
@@ -181832,6 +181816,22 @@
     "domain": "www.nic.in"
   },
   {
+    "network": "2001:4408:6200::/48",
+    "asn": "4758",
+    "country_code": "IN",
+    "name": "NICNET-VSNL-BOARDER-AP",
+    "org": "National Informatics Centre",
+    "domain": "www.nic.in"
+  },
+  {
+    "network": "2001:4408:6220::/48",
+    "asn": "4758",
+    "country_code": "IN",
+    "name": "NICNET-VSNL-BOARDER-AP",
+    "org": "National Informatics Centre",
+    "domain": "www.nic.in"
+  },
+  {
     "network": "2001:4408:6600::/40",
     "asn": "4758",
     "country_code": "IN",
@@ -230360,14 +230360,6 @@
     "domain": "nixi.in"
   },
   {
-    "network": "64.93.23.0/24",
-    "asn": "147281",
-    "country_code": "IN",
-    "name": "LUCKYNET-AS-IN",
-    "org": "NIXI",
-    "domain": "nixi.in"
-  },
-  {
     "network": "66.78.51.0/24",
     "asn": "147281",
     "country_code": "IN",
@@ -230392,7 +230384,7 @@
     "domain": "nixi.in"
   },
   {
-    "network": "72.244.51.0/24",
+    "network": "66.78.55.0/24",
     "asn": "147281",
     "country_code": "IN",
     "name": "LUCKYNET-AS-IN",
@@ -230424,14 +230416,6 @@
     "domain": "nixi.in"
   },
   {
-    "network": "82.39.136.0/24",
-    "asn": "147281",
-    "country_code": "IN",
-    "name": "LUCKYNET-AS-IN",
-    "org": "NIXI",
-    "domain": "nixi.in"
-  },
-  {
     "network": "82.109.156.0/24",
     "asn": "147281",
     "country_code": "IN",
@@ -230456,7 +230440,15 @@
     "domain": "nixi.in"
   },
   {
-    "network": "151.240.4.0/24",
+    "network": "102.135.6.0/24",
+    "asn": "147281",
+    "country_code": "IN",
+    "name": "LUCKYNET-AS-IN",
+    "org": "NIXI",
+    "domain": "nixi.in"
+  },
+  {
+    "network": "107.149.3.0/24",
     "asn": "147281",
     "country_code": "IN",
     "name": "LUCKYNET-AS-IN",
@@ -230480,14 +230472,6 @@
     "domain": "nixi.in"
   },
   {
-    "network": "151.243.193.0/24",
-    "asn": "147281",
-    "country_code": "IN",
-    "name": "LUCKYNET-AS-IN",
-    "org": "NIXI",
-    "domain": "nixi.in"
-  },
-  {
     "network": "151.243.221.0/24",
     "asn": "147281",
     "country_code": "IN",
@@ -230496,7 +230480,7 @@
     "domain": "nixi.in"
   },
   {
-    "network": "151.244.222.0/24",
+    "network": "151.246.16.0/24",
     "asn": "147281",
     "country_code": "IN",
     "name": "LUCKYNET-AS-IN",
@@ -230600,6 +230584,14 @@
     "domain": "nixi.in"
   },
   {
+    "network": "177.166.121.0/24",
+    "asn": "147281",
+    "country_code": "IN",
+    "name": "LUCKYNET-AS-IN",
+    "org": "NIXI",
+    "domain": "nixi.in"
+  },
+  {
     "network": "177.166.146.0/24",
     "asn": "147281",
     "country_code": "IN",
@@ -230616,7 +230608,23 @@
     "domain": "nixi.in"
   },
   {
+    "network": "185.199.214.0/24",
+    "asn": "147281",
+    "country_code": "IN",
+    "name": "LUCKYNET-AS-IN",
+    "org": "NIXI",
+    "domain": "nixi.in"
+  },
+  {
     "network": "185.218.101.0/24",
+    "asn": "147281",
+    "country_code": "IN",
+    "name": "LUCKYNET-AS-IN",
+    "org": "NIXI",
+    "domain": "nixi.in"
+  },
+  {
+    "network": "191.96.148.0/24",
     "asn": "147281",
     "country_code": "IN",
     "name": "LUCKYNET-AS-IN",
@@ -230633,6 +230641,14 @@
   },
   {
     "network": "192.137.19.0/24",
+    "asn": "147281",
+    "country_code": "IN",
+    "name": "LUCKYNET-AS-IN",
+    "org": "NIXI",
+    "domain": "nixi.in"
+  },
+  {
+    "network": "192.137.121.0/24",
     "asn": "147281",
     "country_code": "IN",
     "name": "LUCKYNET-AS-IN",
@@ -230665,6 +230681,14 @@
   },
   {
     "network": "207.180.5.0/24",
+    "asn": "147281",
+    "country_code": "IN",
+    "name": "LUCKYNET-AS-IN",
+    "org": "NIXI",
+    "domain": "nixi.in"
+  },
+  {
+    "network": "208.110.130.0/24",
     "asn": "147281",
     "country_code": "IN",
     "name": "LUCKYNET-AS-IN",
@@ -230713,14 +230737,6 @@
   },
   {
     "network": "216.74.111.0/24",
-    "asn": "147281",
-    "country_code": "IN",
-    "name": "LUCKYNET-AS-IN",
-    "org": "NIXI",
-    "domain": "nixi.in"
-  },
-  {
-    "network": "216.122.164.0/24",
     "asn": "147281",
     "country_code": "IN",
     "name": "LUCKYNET-AS-IN",
@@ -233273,6 +233289,22 @@
   },
   {
     "network": "157.15.99.0/24",
+    "asn": "147224",
+    "country_code": "IN",
+    "name": "WSNL-AS-IN",
+    "org": "NIXI",
+    "domain": "wsnl-isp.net"
+  },
+  {
+    "network": "160.25.190.0/24",
+    "asn": "147224",
+    "country_code": "IN",
+    "name": "WSNL-AS-IN",
+    "org": "NIXI",
+    "domain": "wsnl-isp.net"
+  },
+  {
+    "network": "160.25.191.0/24",
     "asn": "147224",
     "country_code": "IN",
     "name": "WSNL-AS-IN",
@@ -243209,14 +243241,6 @@
   },
   {
     "network": "2401:b200:207c::/48",
-    "asn": "24186",
-    "country_code": "IN",
-    "name": "RAILTEL-AS-IN",
-    "org": "RailTel Corporation of India Ltd.",
-    "domain": "railtelindia.com"
-  },
-  {
-    "network": "2401:b200:2080::/48",
     "asn": "24186",
     "country_code": "IN",
     "name": "RAILTEL-AS-IN",
@@ -324712,14 +324736,6 @@
     "domain": "serverstep.org"
   },
   {
-    "network": "163.223.168.0/24",
-    "asn": "153786",
-    "country_code": "IN",
-    "name": "SERVERSTEP-AS-AP",
-    "org": "SERVERSTEP",
-    "domain": "serverstep.org"
-  },
-  {
     "network": "178.83.86.0/24",
     "asn": "153786",
     "country_code": "IN",
@@ -326977,14 +326993,6 @@
   },
   {
     "network": "103.70.83.0/24",
-    "asn": "132116",
-    "country_code": "IN",
-    "name": "ANINETWORK-IN",
-    "org": "Anonet Network Private Limited",
-    "domain": "anonet.in"
-  },
-  {
-    "network": "103.100.4.0/22",
     "asn": "132116",
     "country_code": "IN",
     "name": "ANINETWORK-IN",
@@ -331704,14 +331712,6 @@
     "domain": "bharatdatacenter.com"
   },
   {
-    "network": "103.72.102.0/24",
-    "asn": "151704",
-    "country_code": "IN",
-    "name": "BHARATDC-AS",
-    "org": "NIXI",
-    "domain": "bharatdatacenter.com"
-  },
-  {
     "network": "103.144.36.0/24",
     "asn": "151704",
     "country_code": "IN",
@@ -331737,14 +331737,6 @@
   },
   {
     "network": "103.204.22.0/24",
-    "asn": "151704",
-    "country_code": "IN",
-    "name": "BHARATDC-AS",
-    "org": "NIXI",
-    "domain": "bharatdatacenter.com"
-  },
-  {
-    "network": "103.243.119.0/24",
     "asn": "151704",
     "country_code": "IN",
     "name": "BHARATDC-AS",
@@ -335217,6 +335209,14 @@
   },
   {
     "network": "168.220.248.0/24",
+    "asn": "151734",
+    "country_code": "IN",
+    "name": "WEBYNEDC-AS-IN",
+    "org": "NIXI",
+    "domain": "webyne.com"
+  },
+  {
+    "network": "2001:df2:1c40::/48",
     "asn": "151734",
     "country_code": "IN",
     "name": "WEBYNEDC-AS-IN",
@@ -343704,22 +343704,6 @@
     "domain": "ethernetxpress.com"
   },
   {
-    "network": "103.97.92.0/23",
-    "asn": "134053",
-    "country_code": "IN",
-    "name": "EXPL-AS-IN",
-    "org": "ETHERNET XPRESS PVT. LTD.",
-    "domain": "ethernetxpress.com"
-  },
-  {
-    "network": "103.97.94.0/23",
-    "asn": "134053",
-    "country_code": "IN",
-    "name": "EXPL-AS-IN",
-    "org": "ETHERNET XPRESS PVT. LTD.",
-    "domain": "ethernetxpress.com"
-  },
-  {
     "network": "103.123.50.0/23",
     "asn": "134053",
     "country_code": "IN",
@@ -343744,23 +343728,15 @@
     "domain": "ethernetxpress.com"
   },
   {
+    "network": "103.210.48.0/23",
+    "asn": "134053",
+    "country_code": "IN",
+    "name": "EXPL-AS-IN",
+    "org": "ETHERNET XPRESS PVT. LTD.",
+    "domain": "ethernetxpress.com"
+  },
+  {
     "network": "103.210.50.0/23",
-    "asn": "134053",
-    "country_code": "IN",
-    "name": "EXPL-AS-IN",
-    "org": "ETHERNET XPRESS PVT. LTD.",
-    "domain": "ethernetxpress.com"
-  },
-  {
-    "network": "103.210.50.0/24",
-    "asn": "134053",
-    "country_code": "IN",
-    "name": "EXPL-AS-IN",
-    "org": "ETHERNET XPRESS PVT. LTD.",
-    "domain": "ethernetxpress.com"
-  },
-  {
-    "network": "103.210.51.0/24",
     "asn": "134053",
     "country_code": "IN",
     "name": "EXPL-AS-IN",
@@ -344617,14 +344593,6 @@
   },
   {
     "network": "103.91.91.0/24",
-    "asn": "17426",
-    "country_code": "IN",
-    "name": "PRIMENET-AS-AP",
-    "org": "Primesoftex Ltd",
-    "domain": "primenet.in"
-  },
-  {
-    "network": "103.97.196.0/24",
     "asn": "17426",
     "country_code": "IN",
     "name": "PRIMENET-AS-AP",
@@ -353000,14 +352968,6 @@
     "domain": "pvt.ltd"
   },
   {
-    "network": "169.40.192.0/22",
-    "asn": "136625",
-    "country_code": "IN",
-    "name": "OOKLA-AS",
-    "org": "Ookla Telecom Pvt.ltd",
-    "domain": "pvt.ltd"
-  },
-  {
     "network": "38.246.198.0/23",
     "asn": "135687",
     "country_code": "IN",
@@ -354817,6 +354777,14 @@
   },
   {
     "network": "2401:9640:1004::/48",
+    "asn": "133982",
+    "country_code": "IN",
+    "name": "EXCITEL-AS-IN",
+    "org": "Excitel Broadband Private Limited",
+    "domain": "excitel.com"
+  },
+  {
+    "network": "2401:9640:1005::/48",
     "asn": "133982",
     "country_code": "IN",
     "name": "EXCITEL-AS-IN",
@@ -383872,6 +383840,14 @@
     "domain": "e2enetworks.com"
   },
   {
+    "network": "151.185.57.0/24",
+    "asn": "132420",
+    "country_code": "IN",
+    "name": "E2E-NETWORKS-IN",
+    "org": "E2E Networks Limited",
+    "domain": "e2enetworks.com"
+  },
+  {
     "network": "151.185.58.0/23",
     "asn": "132420",
     "country_code": "IN",
@@ -393048,38 +393024,6 @@
     "domain": "actcorp.in"
   },
   {
-    "network": "49.204.0.0/22",
-    "asn": "55577",
-    "country_code": "IN",
-    "name": "CABLELITE-AS-AP",
-    "org": "Atria Convergence Technologies Pvt. Ltd.,",
-    "domain": "actcorp.in"
-  },
-  {
-    "network": "49.204.4.0/22",
-    "asn": "55577",
-    "country_code": "IN",
-    "name": "CABLELITE-AS-AP",
-    "org": "Atria Convergence Technologies Pvt. Ltd.,",
-    "domain": "actcorp.in"
-  },
-  {
-    "network": "49.204.8.0/22",
-    "asn": "55577",
-    "country_code": "IN",
-    "name": "CABLELITE-AS-AP",
-    "org": "Atria Convergence Technologies Pvt. Ltd.,",
-    "domain": "actcorp.in"
-  },
-  {
-    "network": "49.204.12.0/22",
-    "asn": "55577",
-    "country_code": "IN",
-    "name": "CABLELITE-AS-AP",
-    "org": "Atria Convergence Technologies Pvt. Ltd.,",
-    "domain": "actcorp.in"
-  },
-  {
     "network": "49.204.16.0/22",
     "asn": "55577",
     "country_code": "IN",
@@ -393201,22 +393145,6 @@
   },
   {
     "network": "49.205.224.0/21",
-    "asn": "55577",
-    "country_code": "IN",
-    "name": "CABLELITE-AS-AP",
-    "org": "Atria Convergence Technologies Pvt. Ltd.,",
-    "domain": "actcorp.in"
-  },
-  {
-    "network": "49.205.240.0/22",
-    "asn": "55577",
-    "country_code": "IN",
-    "name": "CABLELITE-AS-AP",
-    "org": "Atria Convergence Technologies Pvt. Ltd.,",
-    "domain": "actcorp.in"
-  },
-  {
-    "network": "49.205.244.0/22",
     "asn": "55577",
     "country_code": "IN",
     "name": "CABLELITE-AS-AP",
@@ -393569,14 +393497,6 @@
   },
   {
     "network": "124.123.57.0/24",
-    "asn": "55577",
-    "country_code": "IN",
-    "name": "CABLELITE-AS-AP",
-    "org": "Atria Convergence Technologies Pvt. Ltd.,",
-    "domain": "actcorp.in"
-  },
-  {
-    "network": "124.123.58.0/24",
     "asn": "55577",
     "country_code": "IN",
     "name": "CABLELITE-AS-AP",
@@ -408096,6 +408016,14 @@
     "domain": "tataplayfiber.com"
   },
   {
+    "network": "2402:e280:4131::/48",
+    "asn": "134674",
+    "country_code": "IN",
+    "name": "TATAPLAYBROADBAND-AS-AP",
+    "org": "Tata Play Broadband Private Limited",
+    "domain": "tataplayfiber.com"
+  },
+  {
     "network": "2402:e280:5a00::/40",
     "asn": "134674",
     "country_code": "IN",
@@ -415768,14 +415696,6 @@
     "domain": "esselgroup.com"
   },
   {
-    "network": "103.184.74.0/23",
-    "asn": "17747",
-    "country_code": "IN",
-    "name": "SITINETWORS-IN-AP",
-    "org": "SITI NETWORKS LIMITED",
-    "domain": "esselgroup.com"
-  },
-  {
     "network": "103.184.74.0/24",
     "asn": "17747",
     "country_code": "IN",
@@ -415977,14 +415897,6 @@
   },
   {
     "network": "2402:ea80::/32",
-    "asn": "17747",
-    "country_code": "IN",
-    "name": "SITINETWORS-IN-AP",
-    "org": "SITI NETWORKS LIMITED",
-    "domain": "esselgroup.com"
-  },
-  {
-    "network": "2402:ea80::/48",
     "asn": "17747",
     "country_code": "IN",
     "name": "SITINETWORS-IN-AP",
@@ -422880,7 +422792,23 @@
     "domain": "bol.net.in"
   },
   {
+    "network": "59.185.230.0/24",
+    "asn": "17813",
+    "country_code": "IN",
+    "name": "MTNL-AP",
+    "org": "Mahanagar Telephone Nigam Limited",
+    "domain": "bol.net.in"
+  },
+  {
     "network": "59.185.232.0/22",
+    "asn": "17813",
+    "country_code": "IN",
+    "name": "MTNL-AP",
+    "org": "Mahanagar Telephone Nigam Limited",
+    "domain": "bol.net.in"
+  },
+  {
+    "network": "59.185.236.0/24",
     "asn": "17813",
     "country_code": "IN",
     "name": "MTNL-AP",
@@ -424856,14 +424784,6 @@
     "domain": "patelinternet.in"
   },
   {
-    "network": "101.1.22.0/23",
-    "asn": "155042",
-    "country_code": "IN",
-    "name": "IRINN-FBSPLS-AS-IN",
-    "org": "FASTEDGE BROADBAND SERVICES PRIVATE LIMITED",
-    "domain": "irinn.in"
-  },
-  {
     "network": "101.1.28.0/23",
     "asn": "133298",
     "country_code": "IN",
@@ -424945,14 +424865,6 @@
   },
   {
     "network": "103.3.234.0/23",
-    "asn": "134922",
-    "country_code": "IN",
-    "name": "RGTECHNOSOLUTIONS-AS",
-    "org": "R G TECHNOSOLUTIONS PVT LTD",
-    "domain": "renubroadband.com"
-  },
-  {
-    "network": "103.3.235.0/24",
     "asn": "134922",
     "country_code": "IN",
     "name": "RGTECHNOSOLUTIONS-AS",
@@ -433520,6 +433432,22 @@
     "domain": "gridm.com"
   },
   {
+    "network": "2401:2ea0::/32",
+    "asn": "151784",
+    "country_code": "IN",
+    "name": "GRIDMCLOUDPVTLTD-AS-AP",
+    "org": "GRIDM CLOUD PRIVATE LIMITED",
+    "domain": "gridm.com"
+  },
+  {
+    "network": "2401:2ea0:1200::/40",
+    "asn": "151784",
+    "country_code": "IN",
+    "name": "GRIDMCLOUDPVTLTD-AS-AP",
+    "org": "GRIDM CLOUD PRIVATE LIMITED",
+    "domain": "gridm.com"
+  },
+  {
     "network": "103.41.74.0/23",
     "asn": "151768",
     "country_code": "IN",
@@ -435832,14 +435760,6 @@
     "domain": "gigalinetele.com"
   },
   {
-    "network": "103.115.130.0/24",
-    "asn": "137633",
-    "country_code": "IN",
-    "name": "GIGALINE-AS",
-    "org": "NIXI",
-    "domain": "gigalinetele.com"
-  },
-  {
     "network": "103.115.131.0/24",
     "asn": "137633",
     "country_code": "IN",
@@ -435865,30 +435785,6 @@
   },
   {
     "network": "103.189.244.0/24",
-    "asn": "137633",
-    "country_code": "IN",
-    "name": "GIGALINE-AS",
-    "org": "NIXI",
-    "domain": "gigalinetele.com"
-  },
-  {
-    "network": "163.52.176.0/24",
-    "asn": "137633",
-    "country_code": "IN",
-    "name": "GIGALINE-AS",
-    "org": "NIXI",
-    "domain": "gigalinetele.com"
-  },
-  {
-    "network": "163.52.177.0/24",
-    "asn": "137633",
-    "country_code": "IN",
-    "name": "GIGALINE-AS",
-    "org": "NIXI",
-    "domain": "gigalinetele.com"
-  },
-  {
-    "network": "2001:df1:f1c0::/48",
     "asn": "137633",
     "country_code": "IN",
     "name": "GIGALINE-AS",
@@ -441736,6 +441632,14 @@
     "domain": "i7infotech.com"
   },
   {
+    "network": "103.73.222.0/24",
+    "asn": "140687",
+    "country_code": "IN",
+    "name": "ISEVEN-AS-AP",
+    "org": "I Seven",
+    "domain": "i7infotech.com"
+  },
+  {
     "network": "103.182.210.0/24",
     "asn": "140687",
     "country_code": "IN",
@@ -444048,6 +443952,14 @@
     "domain": "skay.co.in"
   },
   {
+    "network": "103.72.219.0/24",
+    "asn": "133300",
+    "country_code": "IN",
+    "name": "SOIBAM-AS",
+    "org": "Soibam Technology Private Limited",
+    "domain": "skay.co.in"
+  },
+  {
     "network": "103.73.33.0/24",
     "asn": "153313",
     "country_code": "IN",
@@ -444454,14 +444366,6 @@
     "name": "TACHYON-AS-IN",
     "org": "Tachyon Communications Pvt Ltd",
     "domain": "mytachyon.in"
-  },
-  {
-    "network": "103.74.244.0/22",
-    "asn": "135693",
-    "country_code": "IN",
-    "name": "TNETBRBD-AS-IN",
-    "org": "Touchnet Broadband Services Pvt. Ltd.",
-    "domain": "touchnetbroadband.com"
   },
   {
     "network": "103.74.244.0/24",
@@ -446944,38 +446848,6 @@
     "domain": "yahoo.co.in"
   },
   {
-    "network": "103.77.118.0/23",
-    "asn": "150616",
-    "country_code": "IN",
-    "name": "SKYVISION-AS-IN",
-    "org": "NIXI",
-    "domain": "skyvisionbroadband.in"
-  },
-  {
-    "network": "103.77.118.0/24",
-    "asn": "150616",
-    "country_code": "IN",
-    "name": "SKYVISION-AS-IN",
-    "org": "NIXI",
-    "domain": "skyvisionbroadband.in"
-  },
-  {
-    "network": "103.77.119.0/24",
-    "asn": "150616",
-    "country_code": "IN",
-    "name": "SKYVISION-AS-IN",
-    "org": "NIXI",
-    "domain": "skyvisionbroadband.in"
-  },
-  {
-    "network": "2400:d9e0::/32",
-    "asn": "150616",
-    "country_code": "IN",
-    "name": "SKYVISION-AS-IN",
-    "org": "NIXI",
-    "domain": "skyvisionbroadband.in"
-  },
-  {
     "network": "103.77.196.0/24",
     "asn": "135813",
     "country_code": "IN",
@@ -448497,6 +448369,14 @@
   },
   {
     "network": "163.227.152.0/24",
+    "asn": "135834",
+    "country_code": "IN",
+    "name": "MULTIFI-AS",
+    "org": "Multicraft Digital Technologies Private Limited",
+    "domain": "multicraft.in"
+  },
+  {
+    "network": "165.99.132.0/24",
     "asn": "135834",
     "country_code": "IN",
     "name": "MULTIFI-AS",
@@ -473080,22 +472960,6 @@
     "domain": "anodicnetwork.com"
   },
   {
-    "network": "103.138.33.0/24",
-    "asn": "135745",
-    "country_code": "IN",
-    "name": "UCOBANK-AS",
-    "org": "UCO Bank",
-    "domain": "ucobank.co.in"
-  },
-  {
-    "network": "160.20.228.0/24",
-    "asn": "135745",
-    "country_code": "IN",
-    "name": "UCOBANK-AS",
-    "org": "UCO Bank",
-    "domain": "ucobank.co.in"
-  },
-  {
     "network": "103.138.44.0/24",
     "asn": "138720",
     "country_code": "IN",
@@ -473174,14 +473038,6 @@
     "name": "SUDHANAT-AS-IN",
     "org": "NIXI",
     "domain": "stpl.network"
-  },
-  {
-    "network": "103.138.60.0/24",
-    "asn": "138733",
-    "country_code": "IN",
-    "name": "ANUPAM-AS",
-    "org": "NIXI",
-    "domain": "nixi.in"
   },
   {
     "network": "103.138.104.0/24",
@@ -479248,6 +479104,38 @@
     "domain": "lionet.in"
   },
   {
+    "network": "154.18.164.0/24",
+    "asn": "133591",
+    "country_code": "IN",
+    "name": "LIONETVIP-AS-IN",
+    "org": "LIONET ONLINE PVT LTD",
+    "domain": "lionet.in"
+  },
+  {
+    "network": "154.18.165.0/24",
+    "asn": "133591",
+    "country_code": "IN",
+    "name": "LIONETVIP-AS-IN",
+    "org": "LIONET ONLINE PVT LTD",
+    "domain": "lionet.in"
+  },
+  {
+    "network": "154.18.166.0/24",
+    "asn": "133591",
+    "country_code": "IN",
+    "name": "LIONETVIP-AS-IN",
+    "org": "LIONET ONLINE PVT LTD",
+    "domain": "lionet.in"
+  },
+  {
+    "network": "154.18.167.0/24",
+    "asn": "133591",
+    "country_code": "IN",
+    "name": "LIONETVIP-AS-IN",
+    "org": "LIONET ONLINE PVT LTD",
+    "domain": "lionet.in"
+  },
+  {
     "network": "2001:df1:f2c0::/48",
     "asn": "133591",
     "country_code": "IN",
@@ -480816,14 +480704,6 @@
     "domain": "wiretel.in"
   },
   {
-    "network": "103.165.168.0/23",
-    "asn": "141804",
-    "country_code": "IN",
-    "name": "EMCYBER-AS-IN",
-    "org": "NIXI",
-    "domain": "wiretel.in"
-  },
-  {
     "network": "103.165.168.0/24",
     "asn": "141804",
     "country_code": "IN",
@@ -480849,14 +480729,6 @@
   },
   {
     "network": "103.171.5.0/24",
-    "asn": "141804",
-    "country_code": "IN",
-    "name": "EMCYBER-AS-IN",
-    "org": "NIXI",
-    "domain": "wiretel.in"
-  },
-  {
-    "network": "103.182.10.0/23",
     "asn": "141804",
     "country_code": "IN",
     "name": "EMCYBER-AS-IN",
@@ -483248,14 +483120,6 @@
     "domain": "nixi.in"
   },
   {
-    "network": "103.164.247.0/24",
-    "asn": "141874",
-    "country_code": "IN",
-    "name": "DISHACR2-AS-IN",
-    "org": "NIXI",
-    "domain": "nixi.in"
-  },
-  {
     "network": "2001:df6:5f80::/48",
     "asn": "141874",
     "country_code": "IN",
@@ -485384,6 +485248,14 @@
     "domain": "levotel.in"
   },
   {
+    "network": "103.170.252.0/23",
+    "asn": "146921",
+    "country_code": "IN",
+    "name": "LNTSPLN-AS",
+    "org": "NIXI",
+    "domain": "nixi.in"
+  },
+  {
     "network": "103.170.252.0/24",
     "asn": "146921",
     "country_code": "IN",
@@ -485940,14 +485812,6 @@
     "asn": "146944",
     "country_code": "IN",
     "name": "UNET-AS",
-    "org": "NIXI",
-    "domain": "nixi.in"
-  },
-  {
-    "network": "103.172.93.0/24",
-    "asn": "146929",
-    "country_code": "IN",
-    "name": "PENTASOL-AS",
     "org": "NIXI",
     "domain": "nixi.in"
   },
@@ -491536,22 +491400,6 @@
     "domain": "nixi.in"
   },
   {
-    "network": "160.25.190.0/24",
-    "asn": "152542",
-    "country_code": "IN",
-    "name": "MEGAPRIM-AS-IN",
-    "org": "NIXI",
-    "domain": "nixi.in"
-  },
-  {
-    "network": "160.25.191.0/24",
-    "asn": "152542",
-    "country_code": "IN",
-    "name": "MEGAPRIM-AS-IN",
-    "org": "NIXI",
-    "domain": "nixi.in"
-  },
-  {
     "network": "2001:df6:f180::/48",
     "asn": "152542",
     "country_code": "IN",
@@ -492070,6 +491918,14 @@
     "name": "SOI-AS-IN",
     "org": "NIXI",
     "domain": "nixi.in"
+  },
+  {
+    "network": "103.206.50.0/24",
+    "asn": "134938",
+    "country_code": "IN",
+    "name": "CAMPINDIA-AS",
+    "org": "CAMPINDIA",
+    "domain": "campindia.com"
   },
   {
     "network": "103.206.164.0/22",
@@ -501712,14 +501568,6 @@
     "domain": "rcom.co.in"
   },
   {
-    "network": "220.227.50.0/24",
-    "asn": "18101",
-    "country_code": "IN",
-    "name": "RELIANCE-COMMUNICATIONS-IN",
-    "org": "Reliance Communications Limited",
-    "domain": "rcom.co.in"
-  },
-  {
     "network": "220.227.52.0/23",
     "asn": "18101",
     "country_code": "IN",
@@ -502505,6 +502353,14 @@
   },
   {
     "network": "2001:4528:cf6::/48",
+    "asn": "18101",
+    "country_code": "IN",
+    "name": "RELIANCE-COMMUNICATIONS-IN",
+    "org": "Reliance Communications Limited",
+    "domain": "rcom.co.in"
+  },
+  {
+    "network": "2001:4528:fff::/48",
     "asn": "18101",
     "country_code": "IN",
     "name": "RELIANCE-COMMUNICATIONS-IN",
@@ -509920,6 +509776,14 @@
     "domain": "aryavartbank-rrb.com"
   },
   {
+    "network": "160.20.228.0/24",
+    "asn": "135745",
+    "country_code": "IN",
+    "name": "UCOBANK-AS",
+    "org": "UCO Bank",
+    "domain": "ucobank.co.in"
+  },
+  {
     "network": "160.22.0.0/24",
     "asn": "152506",
     "country_code": "IN",
@@ -511846,14 +511710,6 @@
     "name": "IRINN-TAKMEN-AS-IN",
     "org": "Tak Men Global Private Limited",
     "domain": ""
-  },
-  {
-    "network": "162.4.130.0/24",
-    "asn": "154680",
-    "country_code": "IN",
-    "name": "IRINN-UBIFI-AS-IN",
-    "org": "UBIFI CONNECT PRIVATE LIMITED",
-    "domain": "ubifi.in"
   },
   {
     "network": "162.4.140.0/24",
@@ -514192,14 +514048,6 @@
     "domain": "stpi.in"
   },
   {
-    "network": "164.164.202.0/24",
-    "asn": "7633",
-    "country_code": "IN",
-    "name": "SOFTNET-AS-AP",
-    "org": "Software Technology Parks of India - Bangalore",
-    "domain": "stpi.in"
-  },
-  {
     "network": "164.164.240.0/20",
     "asn": "7633",
     "country_code": "IN",
@@ -515720,6 +515568,14 @@
     "domain": "stpi.in"
   },
   {
+    "network": "2402:ef27::/32",
+    "asn": "7633",
+    "country_code": "IN",
+    "name": "SOFTNET-AS-AP",
+    "org": "Software Technology Parks of India - Bangalore",
+    "domain": "stpi.in"
+  },
+  {
     "network": "2402:ef28::/32",
     "asn": "7633",
     "country_code": "IN",
@@ -516254,6 +516110,14 @@
     "name": "TECHNOJE-AS-IN",
     "org": "Jinesh Enterprises",
     "domain": "technoje.com"
+  },
+  {
+    "network": "165.101.59.0/24",
+    "asn": "154000",
+    "country_code": "IN",
+    "name": "IRINN-BALDOTA-AS-IN",
+    "org": "MSPL LIMITED",
+    "domain": "baldota.co.in"
   },
   {
     "network": "165.101.80.0/24",
@@ -521265,14 +521129,6 @@
   },
   {
     "network": "202.157.95.0/24",
-    "asn": "17753",
-    "country_code": "IN",
-    "name": "DATAINGENIOUS-AS-AP",
-    "org": "DATA INGENIOUS GLOBAL LIMITED",
-    "domain": "dil.in"
-  },
-  {
-    "network": "2402:8c00:9::/48",
     "asn": "17753",
     "country_code": "IN",
     "name": "DATAINGENIOUS-AS-AP",

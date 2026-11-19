@@ -5848,6 +5848,14 @@
     "domain": "018.co.il"
   },
   {
+    "network": "94.230.92.0/24",
+    "asn": "47956",
+    "country_code": "IL",
+    "name": "XFONE",
+    "org": "XFone 018 Ltd",
+    "domain": "018.co.il"
+  },
+  {
     "network": "141.226.0.0/19",
     "asn": "47956",
     "country_code": "IL",
@@ -7305,22 +7313,6 @@
   },
   {
     "network": "102.64.121.0/24",
-    "asn": "59651",
-    "country_code": "IL",
-    "name": "AS-QualityNetwork",
-    "org": "Alex Largman",
-    "domain": "quality-network.eu"
-  },
-  {
-    "network": "122.8.44.0/22",
-    "asn": "59651",
-    "country_code": "IL",
-    "name": "AS-QualityNetwork",
-    "org": "Alex Largman",
-    "domain": "quality-network.eu"
-  },
-  {
-    "network": "122.8.92.0/22",
     "asn": "59651",
     "country_code": "IL",
     "name": "AS-QualityNetwork",
@@ -10320,7 +10312,7 @@
     "domain": "bezeqint.net"
   },
   {
-    "network": "79.178.194.0/24",
+    "network": "79.178.193.0/24",
     "asn": "8551",
     "country_code": "IL",
     "name": "BEZEQ-INTERNATIONAL-AS",
@@ -10328,7 +10320,7 @@
     "domain": "bezeqint.net"
   },
   {
-    "network": "79.178.195.0/24",
+    "network": "79.178.194.0/24",
     "asn": "8551",
     "country_code": "IL",
     "name": "BEZEQ-INTERNATIONAL-AS",
@@ -10993,14 +10985,6 @@
   },
   {
     "network": "79.179.64.0/21",
-    "asn": "8551",
-    "country_code": "IL",
-    "name": "BEZEQ-INTERNATIONAL-AS",
-    "org": "Bezeq International Ltd.",
-    "domain": "bezeqint.net"
-  },
-  {
-    "network": "79.179.64.0/24",
     "asn": "8551",
     "country_code": "IL",
     "name": "BEZEQ-INTERNATIONAL-AS",
@@ -11721,14 +11705,6 @@
   },
   {
     "network": "79.179.192.0/20",
-    "asn": "8551",
-    "country_code": "IL",
-    "name": "BEZEQ-INTERNATIONAL-AS",
-    "org": "Bezeq International Ltd.",
-    "domain": "bezeqint.net"
-  },
-  {
-    "network": "79.179.192.0/24",
     "asn": "8551",
     "country_code": "IL",
     "name": "BEZEQ-INTERNATIONAL-AS",
@@ -19608,14 +19584,6 @@
     "domain": "cybaaspace.com"
   },
   {
-    "network": "41.138.138.0/24",
-    "asn": "20598",
-    "country_code": "IL",
-    "name": "CYBERSPACE-AS",
-    "org": "Autonomous System number for Cyber Space,",
-    "domain": "cybaaspace.com"
-  },
-  {
     "network": "41.138.161.0/24",
     "asn": "20598",
     "country_code": "IL",
@@ -19825,14 +19793,6 @@
   },
   {
     "network": "41.138.192.0/24",
-    "asn": "20598",
-    "country_code": "IL",
-    "name": "CYBERSPACE-AS",
-    "org": "Autonomous System number for Cyber Space,",
-    "domain": "cybaaspace.com"
-  },
-  {
-    "network": "41.138.197.0/24",
     "asn": "20598",
     "country_code": "IL",
     "name": "CYBERSPACE-AS",
@@ -20369,6 +20329,14 @@
   },
   {
     "network": "92.61.230.0/24",
+    "asn": "198949",
+    "country_code": "IL",
+    "name": "Radware",
+    "org": "Radware Ltd",
+    "domain": "radware.com"
+  },
+  {
+    "network": "94.188.135.0/24",
     "asn": "198949",
     "country_code": "IL",
     "name": "Radware",
@@ -21608,39 +21576,7 @@
     "domain": "radware.com"
   },
   {
-    "network": "201.55.67.0/24",
-    "asn": "198949",
-    "country_code": "IL",
-    "name": "Radware",
-    "org": "Radware Ltd",
-    "domain": "radware.com"
-  },
-  {
-    "network": "201.55.78.0/24",
-    "asn": "198949",
-    "country_code": "IL",
-    "name": "Radware",
-    "org": "Radware Ltd",
-    "domain": "radware.com"
-  },
-  {
     "network": "203.25.136.0/24",
-    "asn": "198949",
-    "country_code": "IL",
-    "name": "Radware",
-    "org": "Radware Ltd",
-    "domain": "radware.com"
-  },
-  {
-    "network": "206.29.160.0/24",
-    "asn": "198949",
-    "country_code": "IL",
-    "name": "Radware",
-    "org": "Radware Ltd",
-    "domain": "radware.com"
-  },
-  {
-    "network": "208.54.1.0/24",
     "asn": "198949",
     "country_code": "IL",
     "name": "Radware",
@@ -22201,6 +22137,54 @@
   },
   {
     "network": "2a07:1980:2a::/48",
+    "asn": "198949",
+    "country_code": "IL",
+    "name": "Radware",
+    "org": "Radware Ltd",
+    "domain": "radware.com"
+  },
+  {
+    "network": "2a07:1980:9901::/48",
+    "asn": "198949",
+    "country_code": "IL",
+    "name": "Radware",
+    "org": "Radware Ltd",
+    "domain": "radware.com"
+  },
+  {
+    "network": "2a07:1980:9903::/48",
+    "asn": "198949",
+    "country_code": "IL",
+    "name": "Radware",
+    "org": "Radware Ltd",
+    "domain": "radware.com"
+  },
+  {
+    "network": "2a07:1980:9904::/48",
+    "asn": "198949",
+    "country_code": "IL",
+    "name": "Radware",
+    "org": "Radware Ltd",
+    "domain": "radware.com"
+  },
+  {
+    "network": "2a07:1980:9905::/48",
+    "asn": "198949",
+    "country_code": "IL",
+    "name": "Radware",
+    "org": "Radware Ltd",
+    "domain": "radware.com"
+  },
+  {
+    "network": "2a07:1980:9911::/48",
+    "asn": "198949",
+    "country_code": "IL",
+    "name": "Radware",
+    "org": "Radware Ltd",
+    "domain": "radware.com"
+  },
+  {
+    "network": "2a07:1980:9913::/48",
     "asn": "198949",
     "country_code": "IL",
     "name": "Radware",
@@ -25361,6 +25345,14 @@
   },
   {
     "network": "185.187.162.0/24",
+    "asn": "42316",
+    "country_code": "IL",
+    "name": "KOBI-ASN",
+    "org": "Metisim Technologies Ltd",
+    "domain": "metisim.com"
+  },
+  {
+    "network": "2a0b:a880::/32",
     "asn": "42316",
     "country_code": "IL",
     "name": "KOBI-ASN",
@@ -29368,7 +29360,7 @@
     "domain": "kma.net.il"
   },
   {
-    "network": "79.176.61.0/24",
+    "network": "79.176.132.0/24",
     "asn": "218870",
     "country_code": "IL",
     "name": "JULIANET",
@@ -34152,6 +34144,14 @@
     "domain": "safecharge.com"
   },
   {
+    "network": "87.232.82.0/24",
+    "asn": "214128",
+    "country_code": "IL",
+    "name": "Empire-il-AS",
+    "org": "Ofek U. Havia",
+    "domain": "empire-il.co.il"
+  },
+  {
     "network": "88.214.55.0/24",
     "asn": "214128",
     "country_code": "IL",
@@ -35400,14 +35400,6 @@
     "domain": "mct.co.il"
   },
   {
-    "network": "94.188.135.0/24",
-    "asn": "213232",
-    "country_code": "IL",
-    "name": "Radware",
-    "org": "Radware Ltd",
-    "domain": "radware.com"
-  },
-  {
     "network": "94.188.142.0/24",
     "asn": "35392",
     "country_code": "IL",
@@ -35577,14 +35569,6 @@
   },
   {
     "network": "128.139.0.0/16",
-    "asn": "378",
-    "country_code": "IL",
-    "name": "MACHBA-AS",
-    "org": "IUCC - Israel InterUniversity Computation Center",
-    "domain": "iucc.ac.il"
-  },
-  {
-    "network": "128.139.171.0/24",
     "asn": "378",
     "country_code": "IL",
     "name": "MACHBA-AS",
@@ -39656,14 +39640,6 @@
     "domain": "synamedia.com"
   },
   {
-    "network": "192.118.33.0/24",
-    "asn": "21486",
-    "country_code": "IL",
-    "name": "Synamedia-AS",
-    "org": "Synamedia Technologies Israel LTD",
-    "domain": "synamedia.com"
-  },
-  {
     "network": "192.118.34.0/24",
     "asn": "21486",
     "country_code": "IL",
@@ -40737,14 +40713,6 @@
   },
   {
     "network": "2a0e:4001:300::/40",
-    "asn": "197324",
-    "country_code": "IL",
-    "name": "BGP43",
-    "org": "Vladyslav Koba",
-    "domain": "hop179.net"
-  },
-  {
-    "network": "2a0e:4003:8770::/44",
     "asn": "197324",
     "country_code": "IL",
     "name": "BGP43",

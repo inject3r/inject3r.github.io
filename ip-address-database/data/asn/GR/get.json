@@ -6035,7 +6035,7 @@
     "network": "13.141.40.0/23",
     "asn": "210697",
     "country_code": "GR",
-    "name": "LOOTDOM",
+    "name": "SHOST",
     "org": "SOMETHING SINGLE MEMBER P.C.",
     "domain": "something.host"
   },
@@ -8648,6 +8648,14 @@
     "domain": "forthnet.gr"
   },
   {
+    "network": "2a03:f003:7::/48",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
     "network": "2a03:f003:8::/48",
     "asn": "25472",
     "country_code": "GR",
@@ -8656,7 +8664,23 @@
     "domain": "forthnet.gr"
   },
   {
+    "network": "2a03:f003:9::/48",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
     "network": "2a03:f003:a::/48",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
+    "network": "2a03:f003:12::/48",
     "asn": "25472",
     "country_code": "GR",
     "name": "WIND-AS",
@@ -8712,6 +8736,14 @@
     "domain": "forthnet.gr"
   },
   {
+    "network": "2a03:f003:700::/40",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
     "network": "2a03:f003:800::/40",
     "asn": "25472",
     "country_code": "GR",
@@ -8720,7 +8752,23 @@
     "domain": "forthnet.gr"
   },
   {
+    "network": "2a03:f003:900::/40",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
     "network": "2a03:f003:a00::/40",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
+    "network": "2a03:f003:d40::/42",
     "asn": "25472",
     "country_code": "GR",
     "name": "WIND-AS",
@@ -8801,6 +8849,22 @@
   },
   {
     "network": "2a03:f003:1b40::/42",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
+    "network": "2a03:f003:1c01::/48",
+    "asn": "25472",
+    "country_code": "GR",
+    "name": "WIND-AS",
+    "org": "Nova Telecommunications & Media Single Member S.A",
+    "domain": "forthnet.gr"
+  },
+  {
+    "network": "2a03:f003:1d40::/42",
     "asn": "25472",
     "country_code": "GR",
     "name": "WIND-AS",
@@ -15360,22 +15424,6 @@
     "domain": "daknob.net"
   },
   {
-    "network": "147.189.217.0/24",
-    "asn": "210312",
-    "country_code": "GR",
-    "name": "BGP-CLOCK",
-    "org": "Antonios A. Chariton",
-    "domain": "daknob.net"
-  },
-  {
-    "network": "2a0d:3dc1:b46c::/48",
-    "asn": "210312",
-    "country_code": "GR",
-    "name": "BGP-CLOCK",
-    "org": "Antonios A. Chariton",
-    "domain": "daknob.net"
-  },
-  {
     "network": "150.140.0.0/17",
     "asn": "6744",
     "country_code": "GR",
@@ -18526,5 +18574,13 @@
     "name": "Hermes-Solutions-GR",
     "org": "MARIOS ANGELOS SARDIS trading as SARDIS MARIOS-ANGELOS TOU MARKOU",
     "domain": "hermes-solutions.org"
+  },
+  {
+    "network": "2a0d:3dc1:b4fc::/48",
+    "asn": "210312",
+    "country_code": "GR",
+    "name": "BGP-CLOCK",
+    "org": "Antonios A. Chariton",
+    "domain": "daknob.net"
   }
 ]

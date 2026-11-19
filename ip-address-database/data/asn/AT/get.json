@@ -5664,6 +5664,14 @@
     "domain": "ryzehosting.com"
   },
   {
+    "network": "2a05:dfc3:fc00::/40",
+    "asn": "211066",
+    "country_code": "AT",
+    "name": "RYZEHOSTING-TRADING",
+    "org": "Simon Mariacher",
+    "domain": "ryzehosting.com"
+  },
+  {
     "network": "2a06:1283:8a00::/40",
     "asn": "211066",
     "country_code": "AT",
@@ -8045,7 +8053,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "151.242.144.0/24",
@@ -8053,7 +8061,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "185.224.3.0/24",
@@ -8061,7 +8069,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "188.137.158.0/24",
@@ -8069,7 +8077,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "2a14:7c0:f100::/40",
@@ -8077,7 +8085,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "2a14:7c0:f300::/40",
@@ -8085,7 +8093,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "20.154.66.0/23",
@@ -8489,14 +8497,6 @@
   },
   {
     "network": "193.228.32.0/21",
-    "asn": "1764",
-    "country_code": "AT",
-    "name": "NEXTLAYER-AS",
-    "org": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
-    "domain": "nextlayer.at"
-  },
-  {
-    "network": "193.228.40.0/23",
     "asn": "1764",
     "country_code": "AT",
     "name": "NEXTLAYER-AS",
@@ -16464,6 +16464,14 @@
     "domain": "pipe.net"
   },
   {
+    "network": "82.108.208.0/24",
+    "asn": "49592",
+    "country_code": "AT",
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
+  },
+  {
     "network": "83.143.119.0/24",
     "asn": "49592",
     "country_code": "AT",
@@ -17464,6 +17472,22 @@
     "domain": "itandtel.at"
   },
   {
+    "network": "63.251.202.0/24",
+    "asn": "219391",
+    "country_code": "AT",
+    "name": "UPPERCUT-AS",
+    "org": "Ub services FlexCo (Flexible Kapitalgesellschaft)",
+    "domain": "u.at"
+  },
+  {
+    "network": "2a11:b44:c003::/48",
+    "asn": "219391",
+    "country_code": "AT",
+    "name": "UPPERCUT-AS",
+    "org": "Ub services FlexCo (Flexible Kapitalgesellschaft)",
+    "domain": "u.at"
+  },
+  {
     "network": "64.34.16.0/22",
     "asn": "34694",
     "country_code": "AT",
@@ -18032,14 +18056,6 @@
     "domain": "evolus-ix.com"
   },
   {
-    "network": "89.126.226.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
     "network": "91.227.33.0/24",
     "asn": "215120",
     "country_code": "AT",
@@ -18088,31 +18104,7 @@
     "domain": "evolus-ix.com"
   },
   {
-    "network": "188.220.50.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
     "network": "193.178.186.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "195.72.167.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "201.3.224.0/24",
     "asn": "215120",
     "country_code": "AT",
     "name": "Evolus-IX",
@@ -19686,6 +19678,14 @@
     "name": "GARTNER-AS",
     "org": "Gartner KG",
     "domain": "gartnerkg.com"
+  },
+  {
+    "network": "80.224.255.0/24",
+    "asn": "219355",
+    "country_code": "AT",
+    "name": "iavo",
+    "org": "Johannes Humer trading as Internet Anbieter Vereinigung Oesterreich",
+    "domain": "weti.net"
   },
   {
     "network": "80.243.160.0/20",
@@ -32664,14 +32664,6 @@
     "domain": "a-hoefler.eu"
   },
   {
-    "network": "2a06:9801:7ff::/48",
-    "asn": "219214",
-    "country_code": "AT",
-    "name": "REDUX1",
-    "org": "Tobias Kickinger",
-    "domain": "redux1.net"
-  },
-  {
     "network": "2a07:1740::/29",
     "asn": "33992",
     "country_code": "AT",
@@ -32692,6 +32684,70 @@
     "asn": "198686",
     "country_code": "AT",
     "name": "INTINF-AS",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:1000::/36",
+    "asn": "218176",
+    "country_code": "AT",
+    "name": "II-RTLB-01",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:2000::/36",
+    "asn": "218177",
+    "country_code": "AT",
+    "name": "II-RTLB-02",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:3000::/36",
+    "asn": "218178",
+    "country_code": "AT",
+    "name": "II-RTLB-03",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:4000::/36",
+    "asn": "218179",
+    "country_code": "AT",
+    "name": "II-RTLB-04",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:5000::/36",
+    "asn": "218180",
+    "country_code": "AT",
+    "name": "II-RTLB-05",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:6000::/36",
+    "asn": "218181",
+    "country_code": "AT",
+    "name": "II-RTLB-06",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:7000::/36",
+    "asn": "218182",
+    "country_code": "AT",
+    "name": "II-RTLB-07",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:8000::/36",
+    "asn": "218183",
+    "country_code": "AT",
+    "name": "II-RTLB-08",
     "org": "Technische Universitaet Wien",
     "domain": "tuwien.ac.at"
   },
@@ -32726,14 +32782,6 @@
     "name": "DTGBS2-AT",
     "org": "Deutsche Telekom Global Business Solutions GmbH",
     "domain": "telekom.com"
-  },
-  {
-    "network": "2a11:b44:c003::/48",
-    "asn": "219391",
-    "country_code": "AT",
-    "name": "UPPERCUT-AS",
-    "org": "Ub services FlexCo (Flexible Kapitalgesellschaft)",
-    "domain": "u.at"
   },
   {
     "network": "2a11:b44:c004::/48",
