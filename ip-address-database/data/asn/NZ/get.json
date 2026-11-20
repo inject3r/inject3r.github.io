@@ -8864,14 +8864,6 @@
     "domain": "hostperl.com"
   },
   {
-    "network": "81.161.230.0/24",
-    "asn": "151612",
-    "country_code": "NZ",
-    "name": "HOSTPERL-AS-AP",
-    "org": "HOSTPERL",
-    "domain": "hostperl.com"
-  },
-  {
     "network": "103.243.170.0/23",
     "asn": "151612",
     "country_code": "NZ",
@@ -9329,6 +9321,14 @@
   },
   {
     "network": "120.89.80.0/22",
+    "asn": "132255",
+    "country_code": "NZ",
+    "name": "PRIMOWIRELESS-NZ",
+    "org": "PrimoWireless Ltd",
+    "domain": "primo.nz"
+  },
+  {
+    "network": "130.195.53.0/24",
     "asn": "132255",
     "country_code": "NZ",
     "name": "PRIMOWIRELESS-NZ",
@@ -13776,6 +13776,14 @@
     "domain": "skybb.co.nz"
   },
   {
+    "network": "60.234.15.0/24",
+    "asn": "140220",
+    "country_code": "NZ",
+    "name": "SKYTELEVISION-AS-AP",
+    "org": "Sky Network Television Ltd",
+    "domain": "skybb.co.nz"
+  },
+  {
     "network": "60.234.31.0/24",
     "asn": "140220",
     "country_code": "NZ",
@@ -17896,6 +17904,22 @@
     "domain": "pttnz.com"
   },
   {
+    "network": "203.28.205.0/24",
+    "asn": "132305",
+    "country_code": "NZ",
+    "name": "PTTNZLIMITED-AS-AP",
+    "org": "PTT NZ Limited",
+    "domain": "pttnz.com"
+  },
+  {
+    "network": "2001:df7:e0c0::/48",
+    "asn": "132305",
+    "country_code": "NZ",
+    "name": "PTTNZLIMITED-AS-AP",
+    "org": "PTT NZ Limited",
+    "domain": "pttnz.com"
+  },
+  {
     "network": "103.10.233.0/24",
     "asn": "132003",
     "country_code": "NZ",
@@ -18296,6 +18320,22 @@
     "domain": "btg.co.nz"
   },
   {
+    "network": "103.19.100.0/22",
+    "asn": "132722",
+    "country_code": "NZ",
+    "name": "ITL-AS-AP",
+    "org": "Intellium Technology Limited",
+    "domain": "intellium.co.nz"
+  },
+  {
+    "network": "103.19.100.0/23",
+    "asn": "132722",
+    "country_code": "NZ",
+    "name": "ITL-AS-AP",
+    "org": "Intellium Technology Limited",
+    "domain": "intellium.co.nz"
+  },
+  {
     "network": "103.19.100.0/24",
     "asn": "132722",
     "country_code": "NZ",
@@ -18312,6 +18352,14 @@
     "domain": "intellium.co.nz"
   },
   {
+    "network": "103.19.102.0/23",
+    "asn": "132722",
+    "country_code": "NZ",
+    "name": "ITL-AS-AP",
+    "org": "Intellium Technology Limited",
+    "domain": "intellium.co.nz"
+  },
+  {
     "network": "103.19.102.0/24",
     "asn": "132722",
     "country_code": "NZ",
@@ -18321,6 +18369,14 @@
   },
   {
     "network": "103.19.103.0/24",
+    "asn": "132722",
+    "country_code": "NZ",
+    "name": "ITL-AS-AP",
+    "org": "Intellium Technology Limited",
+    "domain": "intellium.co.nz"
+  },
+  {
+    "network": "202.88.44.0/22",
     "asn": "132722",
     "country_code": "NZ",
     "name": "ITL-AS-AP",
@@ -22800,6 +22856,54 @@
     "domain": "niwa.co.nz"
   },
   {
+    "network": "103.231.156.0/24",
+    "asn": "37999",
+    "country_code": "NZ",
+    "name": "TVNZ-AS-NZ",
+    "org": "Television New Zealand",
+    "domain": "tvnz.co.nz"
+  },
+  {
+    "network": "202.36.33.0/24",
+    "asn": "37999",
+    "country_code": "NZ",
+    "name": "TVNZ-AS-NZ",
+    "org": "Television New Zealand",
+    "domain": "tvnz.co.nz"
+  },
+  {
+    "network": "202.89.4.0/24",
+    "asn": "37999",
+    "country_code": "NZ",
+    "name": "TVNZ-AS-NZ",
+    "org": "Television New Zealand",
+    "domain": "tvnz.co.nz"
+  },
+  {
+    "network": "202.89.5.0/24",
+    "asn": "37999",
+    "country_code": "NZ",
+    "name": "TVNZ-AS-NZ",
+    "org": "Television New Zealand",
+    "domain": "tvnz.co.nz"
+  },
+  {
+    "network": "202.89.6.0/24",
+    "asn": "37999",
+    "country_code": "NZ",
+    "name": "TVNZ-AS-NZ",
+    "org": "Television New Zealand",
+    "domain": "tvnz.co.nz"
+  },
+  {
+    "network": "202.89.7.0/24",
+    "asn": "37999",
+    "country_code": "NZ",
+    "name": "TVNZ-AS-NZ",
+    "org": "Television New Zealand",
+    "domain": "tvnz.co.nz"
+  },
+  {
     "network": "103.232.204.0/23",
     "asn": "131168",
     "country_code": "NZ",
@@ -26768,46 +26872,6 @@
     "domain": "iqhive.com"
   },
   {
-    "network": "202.36.33.0/24",
-    "asn": "37999",
-    "country_code": "NZ",
-    "name": "TVNZ-AS-NZ",
-    "org": "Television New Zealand",
-    "domain": "tvnz.co.nz"
-  },
-  {
-    "network": "202.89.4.0/24",
-    "asn": "37999",
-    "country_code": "NZ",
-    "name": "TVNZ-AS-NZ",
-    "org": "Television New Zealand",
-    "domain": "tvnz.co.nz"
-  },
-  {
-    "network": "202.89.5.0/24",
-    "asn": "37999",
-    "country_code": "NZ",
-    "name": "TVNZ-AS-NZ",
-    "org": "Television New Zealand",
-    "domain": "tvnz.co.nz"
-  },
-  {
-    "network": "202.89.6.0/24",
-    "asn": "37999",
-    "country_code": "NZ",
-    "name": "TVNZ-AS-NZ",
-    "org": "Television New Zealand",
-    "domain": "tvnz.co.nz"
-  },
-  {
-    "network": "202.89.7.0/24",
-    "asn": "37999",
-    "country_code": "NZ",
-    "name": "TVNZ-AS-NZ",
-    "org": "Television New Zealand",
-    "domain": "tvnz.co.nz"
-  },
-  {
     "network": "202.36.45.0/24",
     "asn": "56174",
     "country_code": "NZ",
@@ -26883,17 +26947,17 @@
     "network": "202.36.134.0/24",
     "asn": "17542",
     "country_code": "NZ",
-    "name": "TNZIFPAFR-AS-AP",
-    "org": "The New Zealand Institute for Plant and Food Research",
-    "domain": "plantandfood.co.nz"
+    "name": "NZIBSL-AS-AP",
+    "org": "New Zealand Institute for Bioeconomy Science Limited",
+    "domain": "landcareresearch.co.nz"
   },
   {
     "network": "202.36.135.0/24",
     "asn": "17542",
     "country_code": "NZ",
-    "name": "TNZIFPAFR-AS-AP",
-    "org": "The New Zealand Institute for Plant and Food Research",
-    "domain": "plantandfood.co.nz"
+    "name": "NZIBSL-AS-AP",
+    "org": "New Zealand Institute for Bioeconomy Science Limited",
+    "domain": "landcareresearch.co.nz"
   },
   {
     "network": "202.36.163.0/24",

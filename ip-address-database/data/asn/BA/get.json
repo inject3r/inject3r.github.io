@@ -432,14 +432,6 @@
     "domain": "hteronet.ba"
   },
   {
-    "network": "212.39.99.0/24",
-    "asn": "20875",
-    "country_code": "BA",
-    "name": "HPTNET-AS",
-    "org": "JP HT d.d. Mostar",
-    "domain": "hteronet.ba"
-  },
-  {
     "network": "212.39.100.0/22",
     "asn": "20875",
     "country_code": "BA",
@@ -696,14 +688,6 @@
     "domain": "scwlan.com"
   },
   {
-    "network": "5.152.235.0/24",
-    "asn": "199051",
-    "country_code": "BA",
-    "name": "SCWLAN",
-    "org": "D.O.O. \"Elit M\" Biljeljina",
-    "domain": "scwlan.com"
-  },
-  {
     "network": "5.152.236.0/24",
     "asn": "199051",
     "country_code": "BA",
@@ -721,14 +705,6 @@
   },
   {
     "network": "5.152.238.0/24",
-    "asn": "199051",
-    "country_code": "BA",
-    "name": "SCWLAN",
-    "org": "D.O.O. \"Elit M\" Biljeljina",
-    "domain": "scwlan.com"
-  },
-  {
-    "network": "5.152.239.0/24",
     "asn": "199051",
     "country_code": "BA",
     "name": "SCWLAN",
@@ -1608,6 +1584,14 @@
     "domain": "bhtelecom.ba"
   },
   {
+    "network": "109.163.168.0/23",
+    "asn": "9146",
+    "country_code": "BA",
+    "name": "BIHNET",
+    "org": "BH Telecom d.d. Sarajevo",
+    "domain": "bhtelecom.ba"
+  },
+  {
     "network": "109.163.170.0/24",
     "asn": "9146",
     "country_code": "BA",
@@ -1728,7 +1712,39 @@
     "domain": "bhtelecom.ba"
   },
   {
+    "network": "109.175.40.0/22",
+    "asn": "9146",
+    "country_code": "BA",
+    "name": "BIHNET",
+    "org": "BH Telecom d.d. Sarajevo",
+    "domain": "bhtelecom.ba"
+  },
+  {
     "network": "109.175.44.0/23",
+    "asn": "9146",
+    "country_code": "BA",
+    "name": "BIHNET",
+    "org": "BH Telecom d.d. Sarajevo",
+    "domain": "bhtelecom.ba"
+  },
+  {
+    "network": "109.175.46.0/23",
+    "asn": "9146",
+    "country_code": "BA",
+    "name": "BIHNET",
+    "org": "BH Telecom d.d. Sarajevo",
+    "domain": "bhtelecom.ba"
+  },
+  {
+    "network": "109.175.48.0/20",
+    "asn": "9146",
+    "country_code": "BA",
+    "name": "BIHNET",
+    "org": "BH Telecom d.d. Sarajevo",
+    "domain": "bhtelecom.ba"
+  },
+  {
+    "network": "109.175.64.0/20",
     "asn": "9146",
     "country_code": "BA",
     "name": "BIHNET",
@@ -2048,7 +2064,47 @@
     "domain": "bhtelecom.ba"
   },
   {
-    "network": "31.216.184.0/21",
+    "network": "31.216.184.0/24",
+    "asn": "21107",
+    "country_code": "BA",
+    "name": "BLICNET-AS",
+    "org": "Blicnet d.o.o. Banja Luka",
+    "domain": "blic.net"
+  },
+  {
+    "network": "31.216.185.0/24",
+    "asn": "21107",
+    "country_code": "BA",
+    "name": "BLICNET-AS",
+    "org": "Blicnet d.o.o. Banja Luka",
+    "domain": "blic.net"
+  },
+  {
+    "network": "31.216.186.0/24",
+    "asn": "21107",
+    "country_code": "BA",
+    "name": "BLICNET-AS",
+    "org": "Blicnet d.o.o. Banja Luka",
+    "domain": "blic.net"
+  },
+  {
+    "network": "31.216.187.0/24",
+    "asn": "21107",
+    "country_code": "BA",
+    "name": "BLICNET-AS",
+    "org": "Blicnet d.o.o. Banja Luka",
+    "domain": "blic.net"
+  },
+  {
+    "network": "31.216.188.0/24",
+    "asn": "21107",
+    "country_code": "BA",
+    "name": "BLICNET-AS",
+    "org": "Blicnet d.o.o. Banja Luka",
+    "domain": "blic.net"
+  },
+  {
+    "network": "31.216.189.0/24",
     "asn": "21107",
     "country_code": "BA",
     "name": "BLICNET-AS",
@@ -2345,14 +2401,6 @@
   },
   {
     "network": "94.250.67.0/24",
-    "asn": "21107",
-    "country_code": "BA",
-    "name": "BLICNET-AS",
-    "org": "Blicnet d.o.o. Banja Luka",
-    "domain": "blic.net"
-  },
-  {
-    "network": "94.250.72.0/21",
     "asn": "21107",
     "country_code": "BA",
     "name": "BLICNET-AS",
@@ -3568,7 +3616,47 @@
     "domain": "blic.net"
   },
   {
+    "network": "78.28.128.0/20",
+    "asn": "43752",
+    "country_code": "BA",
+    "name": "SARNET",
+    "org": "Ministry of Science and Technology Development and Higher Education",
+    "domain": "blic.net"
+  },
+  {
+    "network": "78.28.144.0/22",
+    "asn": "43752",
+    "country_code": "BA",
+    "name": "SARNET",
+    "org": "Ministry of Science and Technology Development and Higher Education",
+    "domain": "blic.net"
+  },
+  {
+    "network": "78.28.148.0/22",
+    "asn": "43752",
+    "country_code": "BA",
+    "name": "SARNET",
+    "org": "Ministry of Science and Technology Development and Higher Education",
+    "domain": "blic.net"
+  },
+  {
+    "network": "78.28.152.0/21",
+    "asn": "43752",
+    "country_code": "BA",
+    "name": "SARNET",
+    "org": "Ministry of Science and Technology Development and Higher Education",
+    "domain": "blic.net"
+  },
+  {
     "network": "78.28.160.0/19",
+    "asn": "43752",
+    "country_code": "BA",
+    "name": "SARNET",
+    "org": "Ministry of Science and Technology Development and Higher Education",
+    "domain": "blic.net"
+  },
+  {
+    "network": "78.28.160.0/22",
     "asn": "43752",
     "country_code": "BA",
     "name": "SARNET",
@@ -4145,14 +4233,6 @@
   },
   {
     "network": "91.191.27.0/24",
-    "asn": "35567",
-    "country_code": "BA",
-    "name": "DASTO-Bosnia-AS",
-    "org": "DASTO semtel d.o.o.",
-    "domain": "zona.ba"
-  },
-  {
-    "network": "91.191.28.0/24",
     "asn": "35567",
     "country_code": "BA",
     "name": "DASTO-Bosnia-AS",

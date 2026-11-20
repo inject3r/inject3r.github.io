@@ -1368,14 +1368,6 @@
     "domain": "keminet.net"
   },
   {
-    "network": "103.124.167.0/24",
-    "asn": "197706",
-    "country_code": "AL",
-    "name": "Keminet",
-    "org": "Keminet SHPK",
-    "domain": "keminet.net"
-  },
-  {
     "network": "144.48.54.0/24",
     "asn": "197706",
     "country_code": "AL",
@@ -1912,14 +1904,6 @@
     "domain": "artmotion.net"
   },
   {
-    "network": "37.35.68.0/24",
-    "asn": "33983",
-    "country_code": "AL",
-    "name": "ARTMOTION-AS",
-    "org": "ARTMOTION SH.P.K.",
-    "domain": "artmotion.net"
-  },
-  {
     "network": "37.35.69.0/24",
     "asn": "33983",
     "country_code": "AL",
@@ -2104,31 +2088,7 @@
     "domain": "artmotion.net"
   },
   {
-    "network": "84.22.51.0/24",
-    "asn": "33983",
-    "country_code": "AL",
-    "name": "ARTMOTION-AS",
-    "org": "ARTMOTION SH.P.K.",
-    "domain": "artmotion.net"
-  },
-  {
-    "network": "84.22.52.0/24",
-    "asn": "33983",
-    "country_code": "AL",
-    "name": "ARTMOTION-AS",
-    "org": "ARTMOTION SH.P.K.",
-    "domain": "artmotion.net"
-  },
-  {
     "network": "84.22.53.0/24",
-    "asn": "33983",
-    "country_code": "AL",
-    "name": "ARTMOTION-AS",
-    "org": "ARTMOTION SH.P.K.",
-    "domain": "artmotion.net"
-  },
-  {
-    "network": "84.22.54.0/24",
     "asn": "33983",
     "country_code": "AL",
     "name": "ARTMOTION-AS",
@@ -2985,6 +2945,14 @@
   },
   {
     "network": "2001:3800:d1::/48",
+    "asn": "197445",
+    "country_code": "AL",
+    "name": "NSC",
+    "org": "NSC Sh.p.k",
+    "domain": "nsc.al"
+  },
+  {
+    "network": "2001:3800:1bc::/48",
     "asn": "197445",
     "country_code": "AL",
     "name": "NSC",
@@ -5233,22 +5201,6 @@
   },
   {
     "network": "217.24.248.0/21",
-    "asn": "42313",
-    "country_code": "AL",
-    "name": "ONEALBANIA-AS",
-    "org": "ONE ALBANIA SH.A.",
-    "domain": "one.al"
-  },
-  {
-    "network": "217.24.248.0/24",
-    "asn": "42313",
-    "country_code": "AL",
-    "name": "ONEALBANIA-AS",
-    "org": "ONE ALBANIA SH.A.",
-    "domain": "one.al"
-  },
-  {
-    "network": "217.24.254.0/24",
     "asn": "42313",
     "country_code": "AL",
     "name": "ONEALBANIA-AS",
@@ -8216,15 +8168,15 @@
     "domain": "optimum-isp.com"
   },
   {
-    "network": "185.254.117.0/24",
-    "asn": "204285",
+    "network": "188.93.112.0/24",
+    "asn": "210693",
     "country_code": "AL",
-    "name": "OPTIMUM",
-    "org": "OPTIMUM Telecommunications LLC",
-    "domain": "optimum-isp.com"
+    "name": "KosovaNet",
+    "org": "Kamenicanet sh.p.k",
+    "domain": "kosovanet.net"
   },
   {
-    "network": "188.93.112.0/24",
+    "network": "194.150.78.0/24",
     "asn": "210693",
     "country_code": "AL",
     "name": "KosovaNet",
@@ -8432,14 +8384,6 @@
     "domain": "txrx.al"
   },
   {
-    "network": "194.150.78.0/24",
-    "asn": "210964",
-    "country_code": "AL",
-    "name": "Tvkamenica",
-    "org": "TV Kamenica sh.p.k",
-    "domain": "kosovanet.net"
-  },
-  {
     "network": "194.169.164.0/24",
     "asn": "39237",
     "country_code": "AL",
@@ -8528,6 +8472,22 @@
     "domain": "technet-ks.com"
   },
   {
+    "network": "212.89.82.0/23",
+    "asn": "8553",
+    "country_code": "AL",
+    "name": "HOSTAL",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
+    "network": "2602:f700:12::/48",
+    "asn": "8553",
+    "country_code": "AL",
+    "name": "HOSTAL",
+    "org": "Host.AL Shpk",
+    "domain": "host.al"
+  },
+  {
     "network": "217.20.253.0/24",
     "asn": "204816",
     "country_code": "AL",
@@ -8542,13 +8502,5 @@
     "name": "VANI",
     "org": "VANI SHPK",
     "domain": "nsc.al"
-  },
-  {
-    "network": "2602:f700:12::/48",
-    "asn": "8553",
-    "country_code": "AL",
-    "name": "HOSTAL",
-    "org": "Host.AL Shpk",
-    "domain": "host.al"
   }
 ]

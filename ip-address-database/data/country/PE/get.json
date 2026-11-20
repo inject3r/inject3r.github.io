@@ -582,7 +582,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.19.100.30/31",
+    "network": "38.19.100.0/24",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -666,7 +666,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.43.134.128/28",
+    "network": "38.43.134.138/31",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -697,12 +697,6 @@
   },
   {
     "network": "38.43.142.0/24",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "38.43.143.0/27",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -756,13 +750,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.43.157.0/26",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "38.43.157.220/31",
+    "network": "38.43.157.0/25",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -966,6 +954,12 @@
     "country_name": "Peru"
   },
   {
+    "network": "38.137.207.36/30",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
     "network": "38.137.207.192/26",
     "continent_code": "SA",
     "country_code": "PE",
@@ -1134,13 +1128,13 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.187.2.72/29",
+    "network": "38.187.4.0/24",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
   },
   {
-    "network": "38.187.4.0/24",
+    "network": "38.187.5.126/31",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -1159,12 +1153,6 @@
   },
   {
     "network": "38.187.10.0/24",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "38.187.11.72/31",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -1200,19 +1188,13 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.187.19.112/29",
+    "network": "38.187.19.116/30",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
   },
   {
     "network": "38.187.19.126/31",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "38.187.19.200/30",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -1386,13 +1368,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.210.3.36/31",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "38.210.3.40/29",
+    "network": "38.210.3.40/30",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -1458,7 +1434,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.211.154.76/31",
+    "network": "38.211.154.0/24",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -1500,7 +1476,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.224.148.0/24",
+    "network": "38.224.148.0/26",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -1518,7 +1494,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.224.175.0/28",
+    "network": "38.224.175.4/30",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -1597,6 +1573,12 @@
   },
   {
     "network": "38.224.247.0/24",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "38.225.32.52/31",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -2100,13 +2082,25 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.250.150.24/29",
+    "network": "38.250.150.16/31",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
   },
   {
-    "network": "38.250.150.32/29",
+    "network": "38.250.150.24/31",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "38.250.150.28/31",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "38.250.150.32/27",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -2148,7 +2142,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.250.172.14/31",
+    "network": "38.250.172.0/24",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -2238,31 +2232,13 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.250.230.60/30",
+    "network": "38.250.230.0/24",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
   },
   {
-    "network": "38.250.230.88/30",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "38.250.230.160/29",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "38.250.230.192/31",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "38.250.231.0/24",
+    "network": "38.250.231.110/31",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -2274,13 +2250,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.252.208.144/30",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "38.252.208.176/28",
+    "network": "38.252.208.128/26",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -2334,7 +2304,13 @@
     "country_name": "Peru"
   },
   {
-    "network": "38.253.114.0/24",
+    "network": "38.253.114.16/31",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "38.253.114.24/29",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -4992,7 +4968,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "132.255.236.0/23",
+    "network": "132.255.236.0/22",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -5142,7 +5118,19 @@
     "country_name": "Peru"
   },
   {
-    "network": "138.185.12.0/22",
+    "network": "138.185.12.0/23",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "138.185.14.54/31",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "138.185.15.0/24",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -6030,19 +6018,25 @@
     "country_name": "Peru"
   },
   {
-    "network": "154.221.32.0/20",
+    "network": "154.221.34.0/23",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "154.221.36.0/22",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "154.221.40.0/21",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
   },
   {
     "network": "154.221.48.0/23",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "154.221.64.0/18",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -7093,12 +7087,6 @@
   },
   {
     "network": "176.227.133.0/24",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "177.29.128.0/24",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -10704,12 +10692,6 @@
     "country_name": "Peru"
   },
   {
-    "network": "194.50.99.175/32",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
     "network": "196.19.214.0/23",
     "continent_code": "SA",
     "country_code": "PE",
@@ -11191,6 +11173,12 @@
   },
   {
     "network": "200.25.47.80/28",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "200.25.47.96/27",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -12144,7 +12132,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "204.157.233.20/30",
+    "network": "204.157.233.0/24",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -12432,25 +12420,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "209.14.108.36/31",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "209.14.108.60/31",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "209.14.108.176/28",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "209.14.108.238/31",
+    "network": "209.14.108.160/27",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -12528,7 +12498,7 @@
     "country_name": "Peru"
   },
   {
-    "network": "209.61.77.72/29",
+    "network": "209.61.77.148/30",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -13273,6 +13243,12 @@
   },
   {
     "network": "2803:4480::/32",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "2803:44b0::/32",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -22224,6 +22200,12 @@
     "country_name": "Peru"
   },
   {
+    "network": "2a14:c380:16ac::/48",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
     "network": "2803:b0e0:1:8000::/49",
     "continent_code": "SA",
     "country_code": "PE",
@@ -23119,6 +23101,12 @@
   },
   {
     "network": "2401:3620:232:b2::/64",
+    "continent_code": "SA",
+    "country_code": "PE",
+    "country_name": "Peru"
+  },
+  {
+    "network": "2602:f96d:10b:e43d::/64",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"
@@ -24175,12 +24163,6 @@
   },
   {
     "network": "2804:5330:2:9::2:1c/127",
-    "continent_code": "SA",
-    "country_code": "PE",
-    "country_name": "Peru"
-  },
-  {
-    "network": "2804:5330:2:9::2:24/127",
     "continent_code": "SA",
     "country_code": "PE",
     "country_name": "Peru"

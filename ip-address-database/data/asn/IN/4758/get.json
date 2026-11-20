@@ -144,14 +144,6 @@
     "domain": "www.nic.in"
   },
   {
-    "network": "103.195.214.0/23",
-    "asn": "4758",
-    "country_code": "IN",
-    "name": "NICNET-VSNL-BOARDER-AP",
-    "org": "National Informatics Centre",
-    "domain": "www.nic.in"
-  },
-  {
     "network": "103.195.214.0/24",
     "asn": "4758",
     "country_code": "IN",
@@ -1689,6 +1681,22 @@
   },
   {
     "network": "2001:4408:6200::/40",
+    "asn": "4758",
+    "country_code": "IN",
+    "name": "NICNET-VSNL-BOARDER-AP",
+    "org": "National Informatics Centre",
+    "domain": "www.nic.in"
+  },
+  {
+    "network": "2001:4408:6200::/48",
+    "asn": "4758",
+    "country_code": "IN",
+    "name": "NICNET-VSNL-BOARDER-AP",
+    "org": "National Informatics Centre",
+    "domain": "www.nic.in"
+  },
+  {
+    "network": "2001:4408:6220::/48",
     "asn": "4758",
     "country_code": "IN",
     "name": "NICNET-VSNL-BOARDER-AP",

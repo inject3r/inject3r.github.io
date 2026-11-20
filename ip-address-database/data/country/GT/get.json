@@ -192,7 +192,7 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "38.41.225.0/26",
+    "network": "38.41.225.32/27",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -234,13 +234,13 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "38.41.237.70/31",
+    "network": "38.41.237.64/28",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "38.41.237.128/25",
+    "network": "38.41.237.192/26",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -253,12 +253,6 @@
   },
   {
     "network": "38.41.239.64/26",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "38.41.239.128/25",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -300,25 +294,19 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "38.190.0.0/25",
+    "network": "38.190.0.0/24",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "38.190.1.24/30",
+    "network": "38.190.1.16/28",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
     "network": "38.190.1.32/30",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "38.190.1.64/28",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -768,13 +756,25 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "89.238.174.20/30",
+    "network": "89.238.174.0/30",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "89.238.174.24/29",
+    "network": "89.238.174.6/31",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "89.238.174.12/30",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "89.238.174.16/28",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -1380,13 +1380,7 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "148.227.217.0/24",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "148.227.218.64/26",
+    "network": "148.227.218.64/27",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -1681,12 +1675,6 @@
   },
   {
     "network": "163.116.129.104/32",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "163.116.252.166/31",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -2088,12 +2076,6 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "179.60.175.32/29",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
     "network": "179.60.175.48/28",
     "continent_code": "NA",
     "country_code": "GT",
@@ -2101,6 +2083,12 @@
   },
   {
     "network": "179.60.175.64/26",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "179.60.175.128/28",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -2142,7 +2130,31 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "181.78.48.0/24",
+    "network": "181.78.48.98/31",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.78.48.128/29",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.78.48.160/27",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.78.48.192/28",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.78.48.238/31",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -2154,37 +2166,61 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "181.78.49.134/31",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
     "network": "181.78.49.136/31",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.78.49.140/31",
+    "network": "181.78.49.192/27",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.78.49.176/28",
+    "network": "181.78.49.224/28",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.78.49.192/26",
+    "network": "181.78.49.240/30",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.78.50.0/24",
+    "network": "181.78.50.48/28",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.78.50.64/26",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.78.50.140/30",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.78.50.160/27",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.78.50.192/28",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.78.50.224/28",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -2196,13 +2232,19 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "181.78.51.56/30",
+    "network": "181.78.51.128/27",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.78.51.128/25",
+    "network": "181.78.51.160/29",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.78.51.200/31",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -2214,61 +2256,13 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "181.78.99.32/27",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "181.78.99.64/26",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "181.78.99.128/25",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
     "network": "181.78.101.0/25",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.78.101.128/27",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "181.78.101.160/28",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "181.78.101.176/31",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "181.78.101.180/30",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "181.78.101.184/29",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "181.78.101.192/27",
+    "network": "181.78.101.128/26",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -2388,7 +2382,7 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "181.119.103.54/31",
+    "network": "181.119.103.52/30",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -2400,19 +2394,25 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "181.119.103.112/28",
+    "network": "181.119.103.96/27",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.119.103.184/31",
+    "network": "181.119.103.160/27",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.119.103.192/26",
+    "network": "181.119.103.208/28",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "181.119.103.240/28",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -2424,31 +2424,31 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "181.119.176.16/28",
+    "network": "181.119.176.64/26",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.119.176.64/27",
+    "network": "181.119.176.128/27",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.119.176.96/29",
+    "network": "181.119.176.168/31",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.119.176.128/26",
+    "network": "181.119.177.0/26",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "181.119.177.0/24",
+    "network": "181.119.177.128/25",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -2460,19 +2460,13 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "181.119.178.128/28",
+    "network": "181.119.178.128/30",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
     "network": "181.119.178.176/28",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "181.119.179.24/29",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -2880,7 +2874,55 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "186.33.0.0/21",
+    "network": "186.33.0.0/22",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "186.33.4.0/23",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "186.33.6.0/24",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "186.33.7.0/27",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "186.33.7.64/26",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "186.33.7.128/31",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "186.33.7.144/29",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "186.33.7.160/27",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "186.33.7.192/26",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -5178,7 +5220,7 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "190.61.58.0/25",
+    "network": "190.61.58.0/24",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -5940,13 +5982,7 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "190.242.52.0/26",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "190.242.52.128/28",
+    "network": "190.242.52.128/27",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -5958,19 +5994,19 @@
     "country_name": "Guatemala"
   },
   {
-    "network": "190.242.53.144/28",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
     "network": "190.242.56.0/23",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
   },
   {
-    "network": "190.242.97.0/24",
+    "network": "190.242.97.0/25",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "190.242.97.128/26",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -6043,12 +6079,6 @@
   },
   {
     "network": "192.207.183.0/24",
-    "continent_code": "NA",
-    "country_code": "GT",
-    "country_name": "Guatemala"
-  },
-  {
-    "network": "194.50.99.92/32",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -13326,7 +13356,19 @@
     "country_name": "Guatemala"
   },
   {
+    "network": "2a14:c380:1659::/48",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
     "network": "2801:155:80:8000::/49",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a::/50",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -13338,7 +13380,37 @@
     "country_name": "Guatemala"
   },
   {
+    "network": "2602:f96d:10a:4000::/51",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
     "network": "2801:155:80:2000::/51",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:8000::/52",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:b000::/52",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:c000::/52",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:f000::/52",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -13386,7 +13458,79 @@
     "country_name": "Guatemala"
   },
   {
+    "network": "2602:f96d:10a:6000::/53",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:7000::/53",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9000::/53",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:a000::/53",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:d000::/53",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e800::/53",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
     "network": "2801:155:80:800::/53",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:6c00::/54",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:7c00::/54",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9c00::/54",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:a800::/54",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:d800::/54",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e400::/54",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -13434,6 +13578,42 @@
     "country_name": "Guatemala"
   },
   {
+    "network": "2602:f96d:10a:6a00::/55",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:7a00::/55",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9800::/55",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:ac00::/55",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:dc00::/55",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e200::/55",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
     "network": "2607:8940:4023:7e00::/55",
     "continent_code": "NA",
     "country_code": "GT",
@@ -13465,6 +13645,42 @@
   },
   {
     "network": "2001:3786:2929:100::/56",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:6900::/56",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:7800::/56",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9a00::/56",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:af00::/56",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:de00::/56",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e100::/56",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -13542,7 +13758,79 @@
     "country_name": "Guatemala"
   },
   {
+    "network": "2602:f96d:10a:6800::/57",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:7980::/57",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9b80::/57",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:ae80::/57",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:df00::/57",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e000::/57",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
     "network": "2801:155:80:80::/57",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:6880::/58",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:7900::/58",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9b00::/58",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:ae40::/58",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:dfc0::/58",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e0c0::/58",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -13554,7 +13842,79 @@
     "country_name": "Guatemala"
   },
   {
+    "network": "2602:f96d:10a:68e0::/59",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:7940::/59",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9b40::/59",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:ae00::/59",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:dfa0::/59",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e0a0::/59",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
     "network": "2801:155:80:20::/59",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:68d0::/60",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:7960::/60",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9b60::/60",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:ae30::/60",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:df80::/60",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e080::/60",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -13590,7 +13950,79 @@
     "country_name": "Guatemala"
   },
   {
+    "network": "2602:f96d:10a:68c0::/61",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:7970::/61",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9b78::/61",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:ae20::/61",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:df98::/61",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e098::/61",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
     "network": "2801:155:80:8::/61",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:68c8::/62",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:7978::/62",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9b70::/62",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:ae2c::/62",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:df94::/62",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e094::/62",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -13609,6 +14041,42 @@
   },
   {
     "network": "2a02:26f7:be50:4550::/62",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:68ce::/63",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:797e::/63",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9b74::/63",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:ae28::/63",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:df90::/63",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e092::/63",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"
@@ -13747,6 +14215,42 @@
   },
   {
     "network": "2401:3620:232:64::/64",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:68cc::/64",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:797c::/64",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:9b76::/64",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:ae2b::/64",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:df93::/64",
+    "continent_code": "NA",
+    "country_code": "GT",
+    "country_name": "Guatemala"
+  },
+  {
+    "network": "2602:f96d:10a:e090::/64",
     "continent_code": "NA",
     "country_code": "GT",
     "country_name": "Guatemala"

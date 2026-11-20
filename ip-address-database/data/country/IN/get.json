@@ -1470,7 +1470,13 @@
     "country_name": "India"
   },
   {
-    "network": "13.141.20.0/23",
+    "network": "13.141.20.0/22",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "13.141.76.0/23",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -5730,7 +5736,31 @@
     "country_name": "India"
   },
   {
-    "network": "23.249.61.128/27",
+    "network": "23.249.61.128/31",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "23.249.61.131/32",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "23.249.61.132/30",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "23.249.61.136/29",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "23.249.61.144/28",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -6306,12 +6336,6 @@
     "country_name": "India"
   },
   {
-    "network": "31.58.242.0/24",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "31.59.48.0/22",
     "continent_code": "AS",
     "country_code": "IN",
@@ -6330,12 +6354,6 @@
     "country_name": "India"
   },
   {
-    "network": "31.59.176.0/23",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "31.59.184.0/24",
     "continent_code": "AS",
     "country_code": "IN",
@@ -6349,12 +6367,6 @@
   },
   {
     "network": "31.59.252.0/23",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "31.59.254.0/24",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -6391,12 +6403,6 @@
   },
   {
     "network": "31.95.17.114/31",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "31.95.17.240/28",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -6469,12 +6475,6 @@
   },
   {
     "network": "31.171.156.0/22",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "31.184.234.0/24",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -7350,7 +7350,7 @@
     "country_name": "India"
   },
   {
-    "network": "36.255.196.0/22",
+    "network": "36.255.196.0/23",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -7446,6 +7446,12 @@
     "country_name": "India"
   },
   {
+    "network": "38.16.132.0/22",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "38.17.100.0/22",
     "continent_code": "AS",
     "country_code": "IN",
@@ -7453,6 +7459,12 @@
   },
   {
     "network": "38.17.117.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "38.19.235.0/24",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -7632,19 +7644,13 @@
     "country_name": "India"
   },
   {
-    "network": "38.121.240.0/20",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "38.123.134.0/24",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
   },
   {
-    "network": "38.125.52.0/30",
+    "network": "38.125.52.0/27",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -7800,7 +7806,7 @@
     "country_name": "India"
   },
   {
-    "network": "38.183.53.184/29",
+    "network": "38.183.53.176/28",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -7962,13 +7968,13 @@
     "country_name": "India"
   },
   {
-    "network": "38.254.161.52/30",
+    "network": "38.254.161.54/31",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
   },
   {
-    "network": "38.254.161.62/31",
+    "network": "38.254.161.60/30",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -7980,19 +7986,13 @@
     "country_name": "India"
   },
   {
-    "network": "38.254.161.140/30",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "38.254.161.176/31",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
   },
   {
-    "network": "38.254.161.188/31",
+    "network": "38.254.161.188/30",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -8016,7 +8016,13 @@
     "country_name": "India"
   },
   {
-    "network": "38.254.161.224/27",
+    "network": "38.254.161.224/28",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "38.254.161.248/29",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -8040,13 +8046,13 @@
     "country_name": "India"
   },
   {
-    "network": "38.254.170.16/29",
+    "network": "38.254.170.20/30",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
   },
   {
-    "network": "38.254.170.208/29",
+    "network": "38.254.170.192/27",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -10674,12 +10680,6 @@
     "country_name": "India"
   },
   {
-    "network": "45.12.80.0/24",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "45.12.176.0/23",
     "continent_code": "AS",
     "country_code": "IN",
@@ -12852,7 +12852,25 @@
     "country_name": "India"
   },
   {
+    "network": "45.153.157.196/31",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "45.153.157.208/28",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "45.153.157.226/31",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "45.153.157.230/31",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -13021,6 +13039,12 @@
   },
   {
     "network": "45.198.59.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "45.198.60.0/23",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -19524,7 +19548,19 @@
     "country_name": "India"
   },
   {
-    "network": "81.92.216.224/27",
+    "network": "81.92.216.224/29",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "81.92.216.232/30",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "81.92.216.240/28",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -21205,12 +21241,6 @@
   },
   {
     "network": "95.135.111.0/24",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "95.135.161.0/24",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -28116,25 +28146,7 @@
     "country_name": "India"
   },
   {
-    "network": "103.82.144.0/22",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "103.82.148.0/23",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "103.82.150.0/24",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "103.82.151.128/25",
+    "network": "103.82.144.0/21",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -29233,6 +29245,12 @@
   },
   {
     "network": "103.92.200.0/22",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "103.92.220.0/22",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -32053,12 +32071,6 @@
   },
   {
     "network": "103.118.188.0/22",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "103.118.216.0/22",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -45138,6 +45150,24 @@
     "country_name": "India"
   },
   {
+    "network": "103.206.14.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "103.206.15.0/25",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "103.206.15.192/26",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "103.206.18.0/23",
     "continent_code": "AS",
     "country_code": "IN",
@@ -45223,6 +45253,12 @@
   },
   {
     "network": "103.206.162.0/25",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "103.206.162.192/26",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -50754,7 +50790,25 @@
     "country_name": "India"
   },
   {
-    "network": "104.28.69.160/27",
+    "network": "104.28.69.160/29",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "104.28.69.168/31",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "104.28.69.172/30",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "104.28.69.176/28",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -51745,12 +51799,6 @@
   },
   {
     "network": "104.28.147.88/30",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "104.28.147.92/31",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -58590,12 +58638,6 @@
     "country_name": "India"
   },
   {
-    "network": "104.161.246.4/30",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "104.211.64.0/18",
     "continent_code": "AS",
     "country_code": "IN",
@@ -60462,7 +60504,31 @@
     "country_name": "India"
   },
   {
+    "network": "118.214.145.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "118.214.188.0/23",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "118.214.194.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "118.214.216.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "118.214.219.0/24",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -62130,7 +62196,31 @@
     "country_name": "India"
   },
   {
-    "network": "128.1.120.128/27",
+    "network": "128.1.120.128/28",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "128.1.120.144/29",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "128.1.120.152/30",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "128.1.120.156/31",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "128.1.120.160/31",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -62154,19 +62244,7 @@
     "country_name": "India"
   },
   {
-    "network": "128.1.120.196/30",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "128.1.120.200/29",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "128.1.120.208/28",
+    "network": "128.1.120.192/27",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -62208,7 +62286,13 @@
     "country_name": "India"
   },
   {
-    "network": "128.1.121.32/29",
+    "network": "128.1.121.32/30",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "128.1.121.38/31",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -62238,43 +62322,19 @@
     "country_name": "India"
   },
   {
-    "network": "128.1.121.64/28",
+    "network": "128.1.121.64/27",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
   },
   {
-    "network": "128.1.121.82/31",
+    "network": "128.1.121.96/29",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
   },
   {
-    "network": "128.1.121.84/30",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "128.1.121.88/29",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "128.1.121.98/31",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "128.1.121.100/30",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "128.1.121.104/30",
+    "network": "128.1.121.106/31",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -62286,13 +62346,7 @@
     "country_name": "India"
   },
   {
-    "network": "128.1.121.112/30",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "128.1.121.116/31",
+    "network": "128.1.121.112/29",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -62310,7 +62364,7 @@
     "country_name": "India"
   },
   {
-    "network": "128.1.121.134/31",
+    "network": "128.1.121.132/30",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -62358,7 +62412,25 @@
     "country_name": "India"
   },
   {
-    "network": "128.1.121.224/27",
+    "network": "128.1.121.224/28",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "128.1.121.242/31",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "128.1.121.244/30",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "128.1.121.248/29",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -62664,6 +62736,12 @@
     "country_name": "India"
   },
   {
+    "network": "129.227.220.0/22",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "129.227.242.0/23",
     "continent_code": "AS",
     "country_code": "IN",
@@ -62778,7 +62856,7 @@
     "country_name": "India"
   },
   {
-    "network": "130.41.228.168/30",
+    "network": "130.41.228.168/29",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -63936,18 +64014,6 @@
     "country_name": "India"
   },
   {
-    "network": "134.231.182.192/27",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "134.231.182.224/28",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "134.231.215.128/25",
     "continent_code": "AS",
     "country_code": "IN",
@@ -64350,7 +64416,7 @@
     "country_name": "India"
   },
   {
-    "network": "136.226.253.84/30",
+    "network": "136.226.253.84/31",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -65533,6 +65599,36 @@
   },
   {
     "network": "141.229.12.0/23",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "141.229.26.0/23",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "141.229.30.0/23",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "141.229.32.0/23",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "141.229.36.0/23",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "141.229.44.0/23",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -66852,12 +66948,6 @@
     "country_name": "India"
   },
   {
-    "network": "147.12.20.0/23",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "147.28.210.0/23",
     "continent_code": "AS",
     "country_code": "IN",
@@ -66895,12 +66985,6 @@
   },
   {
     "network": "147.90.126.0/24",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "147.90.210.0/24",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -67104,7 +67188,7 @@
     "country_name": "India"
   },
   {
-    "network": "148.64.5.32/28",
+    "network": "148.64.5.32/30",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -68658,12 +68742,6 @@
     "country_name": "India"
   },
   {
-    "network": "151.242.178.0/24",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "151.242.184.0/24",
     "continent_code": "AS",
     "country_code": "IN",
@@ -69474,18 +69552,6 @@
     "country_name": "India"
   },
   {
-    "network": "154.202.91.0/24",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "154.202.101.0/24",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "154.206.17.0/24",
     "continent_code": "AS",
     "country_code": "IN",
@@ -69516,6 +69582,12 @@
     "country_name": "India"
   },
   {
+    "network": "154.207.52.0/23",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "154.207.54.0/24",
     "continent_code": "AS",
     "country_code": "IN",
@@ -69523,12 +69595,6 @@
   },
   {
     "network": "154.207.59.0/24",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "154.207.60.0/22",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -69697,6 +69763,12 @@
   },
   {
     "network": "154.219.208.0/23",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "154.221.32.0/23",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -72924,12 +72996,6 @@
     "country_name": "India"
   },
   {
-    "network": "161.145.96.0/24",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "161.145.98.0/24",
     "continent_code": "AS",
     "country_code": "IN",
@@ -74064,7 +74130,73 @@
     "country_name": "India"
   },
   {
-    "network": "163.116.199.0/24",
+    "network": "163.116.199.0/26",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.64/28",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.80/29",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.88/31",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.90/32",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.93/32",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.101/32",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.102/32",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.106/31",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.108/30",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.112/28",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "163.116.199.128/25",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -75234,6 +75366,24 @@
     "country_name": "India"
   },
   {
+    "network": "165.85.234.128/26",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "165.85.234.208/28",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "165.85.234.224/27",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "165.87.75.160/27",
     "continent_code": "AS",
     "country_code": "IN",
@@ -76392,6 +76542,12 @@
     "country_name": "India"
   },
   {
+    "network": "168.183.184.0/23",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "168.183.186.0/24",
     "continent_code": "AS",
     "country_code": "IN",
@@ -76620,6 +76776,30 @@
     "country_name": "India"
   },
   {
+    "network": "169.224.158.128/27",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "169.224.158.160/28",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "169.224.158.184/29",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "169.224.158.192/26",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "169.224.169.0/24",
     "continent_code": "AS",
     "country_code": "IN",
@@ -76633,24 +76813,6 @@
   },
   {
     "network": "169.224.187.0/25",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "169.224.187.128/26",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "169.224.187.192/28",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "169.224.187.224/27",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -78516,7 +78678,7 @@
     "country_name": "India"
   },
   {
-    "network": "178.94.176.0/23",
+    "network": "178.94.176.0/24",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -81438,7 +81600,7 @@
     "country_name": "India"
   },
   {
-    "network": "187.127.168.0/21",
+    "network": "187.127.168.0/22",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -81703,6 +81865,12 @@
   },
   {
     "network": "189.25.57.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "189.25.97.107/32",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -82698,12 +82866,6 @@
     "country_name": "India"
   },
   {
-    "network": "194.50.99.106/32",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "194.53.71.0/24",
     "continent_code": "AS",
     "country_code": "IN",
@@ -83191,6 +83353,30 @@
   },
   {
     "network": "198.134.56.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "198.135.109.108/31",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "198.135.109.111/32",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "198.135.109.200/31",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "198.135.109.203/32",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -83749,6 +83935,12 @@
   },
   {
     "network": "202.2.204.80/28",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "202.2.204.96/27",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -86700,6 +86892,12 @@
     "country_name": "India"
   },
   {
+    "network": "203.28.199.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "203.28.245.0/24",
     "continent_code": "AS",
     "country_code": "IN",
@@ -87786,12 +87984,6 @@
     "country_name": "India"
   },
   {
-    "network": "205.164.160.0/20",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
     "network": "205.178.142.0/23",
     "continent_code": "AS",
     "country_code": "IN",
@@ -87811,12 +88003,6 @@
   },
   {
     "network": "205.220.122.0/23",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "205.220.124.0/22",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -88854,6 +89040,12 @@
     "country_name": "India"
   },
   {
+    "network": "212.100.170.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "212.100.175.0/24",
     "continent_code": "AS",
     "country_code": "IN",
@@ -89473,6 +89665,12 @@
   },
   {
     "network": "217.217.80.0/24",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "217.217.160.0/22",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -94105,6 +94303,12 @@
   },
   {
     "network": "2402:81c0::/32",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "2402:83a0::/32",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -102913,12 +103117,6 @@
   },
   {
     "network": "2a0f:1587:110::/44",
-    "continent_code": "AS",
-    "country_code": "IN",
-    "country_name": "India"
-  },
-  {
-    "network": "2a0f:1cc4:a800::/44",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -121734,7 +121932,31 @@
     "country_name": "India"
   },
   {
+    "network": "2001:df7:dd40::/48",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "2001:df7:dd80::/48",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "2001:df7:dec0::/48",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "2001:df7:dfc0::/48",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "2001:df7:e040::/48",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -126727,6 +126949,12 @@
   },
   {
     "network": "2a14:c380:7b6::/48",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "2a14:c380:1667::/48",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -135348,6 +135576,12 @@
     "country_name": "India"
   },
   {
+    "network": "2001:470:8:1a::/64",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "2001:470:8:42::/64",
     "continent_code": "AS",
     "country_code": "IN",
@@ -136452,6 +136686,18 @@
     "country_name": "India"
   },
   {
+    "network": "2001:470:36:970::/64",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "2001:470:36:97a::/64",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "2001:470:36:9b2::/64",
     "continent_code": "AS",
     "country_code": "IN",
@@ -137371,6 +137617,12 @@
   },
   {
     "network": "2001:470:1f15:5b8::/64",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "2001:470:1f15:6f9::/64",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"
@@ -156240,6 +156492,18 @@
     "country_name": "India"
   },
   {
+    "network": "2620:36:2000::108/127",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "2620:36:2000:400::108/127",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
     "network": "2620:134:b054:100::60/127",
     "continent_code": "AS",
     "country_code": "IN",
@@ -156373,6 +156637,18 @@
   },
   {
     "network": "2600:1488:41c1::1/128",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "2620:36:2000::111/128",
+    "continent_code": "AS",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  {
+    "network": "2620:36:2000:400::111/128",
     "continent_code": "AS",
     "country_code": "IN",
     "country_name": "India"

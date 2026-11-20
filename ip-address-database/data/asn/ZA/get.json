@@ -18120,22 +18120,6 @@
     "domain": "mtn.com"
   },
   {
-    "network": "105.208.200.0/24",
-    "asn": "16637",
-    "country_code": "ZA",
-    "name": "MTNNS-AS",
-    "org": "MTN SA",
-    "domain": "mtn.com"
-  },
-  {
-    "network": "105.208.201.0/24",
-    "asn": "16637",
-    "country_code": "ZA",
-    "name": "MTNNS-AS",
-    "org": "MTN SA",
-    "domain": "mtn.com"
-  },
-  {
     "network": "105.208.206.0/24",
     "asn": "16637",
     "country_code": "ZA",
@@ -18209,22 +18193,6 @@
   },
   {
     "network": "105.209.40.0/22",
-    "asn": "16637",
-    "country_code": "ZA",
-    "name": "MTNNS-AS",
-    "org": "MTN SA",
-    "domain": "mtn.com"
-  },
-  {
-    "network": "105.209.44.0/22",
-    "asn": "16637",
-    "country_code": "ZA",
-    "name": "MTNNS-AS",
-    "org": "MTN SA",
-    "domain": "mtn.com"
-  },
-  {
-    "network": "105.209.48.0/21",
     "asn": "16637",
     "country_code": "ZA",
     "name": "MTNNS-AS",
@@ -18977,14 +18945,6 @@
   },
   {
     "network": "105.216.192.0/21",
-    "asn": "16637",
-    "country_code": "ZA",
-    "name": "MTNNS-AS",
-    "org": "MTN SA",
-    "domain": "mtn.com"
-  },
-  {
-    "network": "105.216.200.0/21",
     "asn": "16637",
     "country_code": "ZA",
     "name": "MTNNS-AS",
@@ -21624,6 +21584,14 @@
     "domain": "optinet.net"
   },
   {
+    "network": "197.82.192.0/19",
+    "asn": "20011",
+    "country_code": "ZA",
+    "name": "NTT-DATA-Inc",
+    "org": "Dimension Data",
+    "domain": "optinet.net"
+  },
+  {
     "network": "197.82.192.0/23",
     "asn": "20011",
     "country_code": "ZA",
@@ -21761,6 +21729,14 @@
   },
   {
     "network": "197.82.223.0/24",
+    "asn": "20011",
+    "country_code": "ZA",
+    "name": "NTT-DATA-Inc",
+    "org": "Dimension Data",
+    "domain": "optinet.net"
+  },
+  {
+    "network": "197.83.64.0/18",
     "asn": "20011",
     "country_code": "ZA",
     "name": "NTT-DATA-Inc",
@@ -22705,6 +22681,22 @@
   },
   {
     "network": "197.87.186.0/24",
+    "asn": "20011",
+    "country_code": "ZA",
+    "name": "NTT-DATA-Inc",
+    "org": "Dimension Data",
+    "domain": "optinet.net"
+  },
+  {
+    "network": "197.87.192.0/19",
+    "asn": "20011",
+    "country_code": "ZA",
+    "name": "NTT-DATA-Inc",
+    "org": "Dimension Data",
+    "domain": "optinet.net"
+  },
+  {
+    "network": "197.87.192.0/22",
     "asn": "20011",
     "country_code": "ZA",
     "name": "NTT-DATA-Inc",
@@ -27264,6 +27256,14 @@
     "domain": "avantiplc.com"
   },
   {
+    "network": "2c0f:eea8:9000::/36",
+    "asn": "328306",
+    "country_code": "ZA",
+    "name": "Avanti-AS",
+    "org": "Avanti Communications South Africa (Pty) Ltd",
+    "domain": "avantiplc.com"
+  },
+  {
     "network": "41.144.0.0/13",
     "asn": "5713",
     "country_code": "ZA",
@@ -29776,6 +29776,14 @@
     "domain": "cmcnetworks.net"
   },
   {
+    "network": "41.202.38.0/24",
+    "asn": "25818",
+    "country_code": "ZA",
+    "name": "CMCNETWORKS",
+    "org": "CMC NETWORK (PTY) LTD",
+    "domain": "cmcnetworks.net"
+  },
+  {
     "network": "41.202.56.0/24",
     "asn": "25818",
     "country_code": "ZA",
@@ -30608,7 +30616,47 @@
     "domain": "currant.co.za"
   },
   {
+    "network": "154.201.52.0/24",
+    "asn": "36898",
+    "country_code": "ZA",
+    "name": "Currant",
+    "org": "Black Currant Consultant cc",
+    "domain": "currant.co.za"
+  },
+  {
+    "network": "154.209.130.0/24",
+    "asn": "36898",
+    "country_code": "ZA",
+    "name": "Currant",
+    "org": "Black Currant Consultant cc",
+    "domain": "currant.co.za"
+  },
+  {
+    "network": "154.209.131.0/24",
+    "asn": "36898",
+    "country_code": "ZA",
+    "name": "Currant",
+    "org": "Black Currant Consultant cc",
+    "domain": "currant.co.za"
+  },
+  {
     "network": "154.214.194.0/24",
+    "asn": "36898",
+    "country_code": "ZA",
+    "name": "Currant",
+    "org": "Black Currant Consultant cc",
+    "domain": "currant.co.za"
+  },
+  {
+    "network": "154.214.200.0/24",
+    "asn": "36898",
+    "country_code": "ZA",
+    "name": "Currant",
+    "org": "Black Currant Consultant cc",
+    "domain": "currant.co.za"
+  },
+  {
+    "network": "154.214.201.0/24",
     "asn": "36898",
     "country_code": "ZA",
     "name": "Currant",
@@ -30752,6 +30800,14 @@
     "domain": "currant.co.za"
   },
   {
+    "network": "154.214.247.0/24",
+    "asn": "36898",
+    "country_code": "ZA",
+    "name": "Currant",
+    "org": "Black Currant Consultant cc",
+    "domain": "currant.co.za"
+  },
+  {
     "network": "154.214.249.0/24",
     "asn": "36898",
     "country_code": "ZA",
@@ -30785,14 +30841,6 @@
   },
   {
     "network": "156.235.122.0/24",
-    "asn": "36898",
-    "country_code": "ZA",
-    "name": "Currant",
-    "org": "Black Currant Consultant cc",
-    "domain": "currant.co.za"
-  },
-  {
-    "network": "156.235.123.0/24",
     "asn": "36898",
     "country_code": "ZA",
     "name": "Currant",
@@ -30857,14 +30905,6 @@
   },
   {
     "network": "156.245.4.0/24",
-    "asn": "36898",
-    "country_code": "ZA",
-    "name": "Currant",
-    "org": "Black Currant Consultant cc",
-    "domain": "currant.co.za"
-  },
-  {
-    "network": "156.245.5.0/24",
     "asn": "36898",
     "country_code": "ZA",
     "name": "Currant",
@@ -30944,23 +30984,7 @@
     "domain": "currant.co.za"
   },
   {
-    "network": "156.245.31.0/24",
-    "asn": "36898",
-    "country_code": "ZA",
-    "name": "Currant",
-    "org": "Black Currant Consultant cc",
-    "domain": "currant.co.za"
-  },
-  {
     "network": "156.245.138.0/24",
-    "asn": "36898",
-    "country_code": "ZA",
-    "name": "Currant",
-    "org": "Black Currant Consultant cc",
-    "domain": "currant.co.za"
-  },
-  {
-    "network": "156.245.141.0/24",
     "asn": "36898",
     "country_code": "ZA",
     "name": "Currant",
@@ -31025,22 +31049,6 @@
   },
   {
     "network": "156.245.195.0/24",
-    "asn": "36898",
-    "country_code": "ZA",
-    "name": "Currant",
-    "org": "Black Currant Consultant cc",
-    "domain": "currant.co.za"
-  },
-  {
-    "network": "156.245.208.0/24",
-    "asn": "36898",
-    "country_code": "ZA",
-    "name": "Currant",
-    "org": "Black Currant Consultant cc",
-    "domain": "currant.co.za"
-  },
-  {
-    "network": "156.245.209.0/24",
     "asn": "36898",
     "country_code": "ZA",
     "name": "Currant",
@@ -32056,7 +32064,39 @@
     "domain": "osiristrading.com"
   },
   {
+    "network": "41.222.108.0/24",
+    "asn": "36983",
+    "country_code": "ZA",
+    "name": "OTR-A",
+    "org": "Osiris Trading (PTY) LTD",
+    "domain": "osiristrading.com"
+  },
+  {
+    "network": "41.222.110.0/24",
+    "asn": "36983",
+    "country_code": "ZA",
+    "name": "OTR-A",
+    "org": "Osiris Trading (PTY) LTD",
+    "domain": "osiristrading.com"
+  },
+  {
     "network": "193.169.206.0/23",
+    "asn": "36983",
+    "country_code": "ZA",
+    "name": "OTR-A",
+    "org": "Osiris Trading (PTY) LTD",
+    "domain": "osiristrading.com"
+  },
+  {
+    "network": "193.169.206.0/24",
+    "asn": "36983",
+    "country_code": "ZA",
+    "name": "OTR-A",
+    "org": "Osiris Trading (PTY) LTD",
+    "domain": "osiristrading.com"
+  },
+  {
+    "network": "193.169.207.0/24",
     "asn": "36983",
     "country_code": "ZA",
     "name": "OTR-A",
@@ -32688,22 +32728,6 @@
     "domain": "africaoncloud.net"
   },
   {
-    "network": "45.196.70.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "45.196.71.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
     "network": "45.197.0.0/18",
     "asn": "328608",
     "country_code": "ZA",
@@ -32849,14 +32873,6 @@
   },
   {
     "network": "45.202.52.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "45.202.54.0/24",
     "asn": "328608",
     "country_code": "ZA",
     "name": "Africa-on-Cloud-AS",
@@ -33144,14 +33160,6 @@
     "domain": "africaoncloud.net"
   },
   {
-    "network": "45.205.214.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
     "network": "45.205.215.0/24",
     "asn": "328608",
     "country_code": "ZA",
@@ -33160,23 +33168,7 @@
     "domain": "africaoncloud.net"
   },
   {
-    "network": "45.206.4.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
     "network": "45.206.6.0/23",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "45.206.6.0/24",
     "asn": "328608",
     "country_code": "ZA",
     "name": "Africa-on-Cloud-AS",
@@ -33224,47 +33216,7 @@
     "domain": "africaoncloud.net"
   },
   {
-    "network": "45.206.26.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "45.206.28.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "45.206.30.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
     "network": "45.206.32.0/21",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "45.206.33.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "45.206.34.0/24",
     "asn": "328608",
     "country_code": "ZA",
     "name": "Africa-on-Cloud-AS",
@@ -33281,14 +33233,6 @@
   },
   {
     "network": "45.206.37.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "45.206.38.0/24",
     "asn": "328608",
     "country_code": "ZA",
     "name": "Africa-on-Cloud-AS",
@@ -33401,6 +33345,14 @@
   },
   {
     "network": "102.177.145.0/24",
+    "asn": "328608",
+    "country_code": "ZA",
+    "name": "Africa-on-Cloud-AS",
+    "org": "Africa on Cloud",
+    "domain": "africaoncloud.net"
+  },
+  {
+    "network": "102.177.155.0/24",
     "asn": "328608",
     "country_code": "ZA",
     "name": "Africa-on-Cloud-AS",
@@ -33576,38 +33528,6 @@
     "domain": "africaoncloud.net"
   },
   {
-    "network": "154.86.68.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "154.86.69.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "154.86.70.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "154.86.71.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
     "network": "154.88.10.0/24",
     "asn": "328608",
     "country_code": "ZA",
@@ -33689,14 +33609,6 @@
   },
   {
     "network": "154.198.56.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "154.198.57.0/24",
     "asn": "328608",
     "country_code": "ZA",
     "name": "Africa-on-Cloud-AS",
@@ -34096,14 +34008,6 @@
     "domain": "africaoncloud.net"
   },
   {
-    "network": "154.214.44.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
     "network": "154.214.46.0/24",
     "asn": "328608",
     "country_code": "ZA",
@@ -34328,55 +34232,7 @@
     "domain": "africaoncloud.net"
   },
   {
-    "network": "156.229.75.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
     "network": "156.229.96.0/22",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "156.229.100.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "156.229.103.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "156.229.104.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "156.229.108.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "156.229.110.0/24",
     "asn": "328608",
     "country_code": "ZA",
     "name": "Africa-on-Cloud-AS",
@@ -34432,14 +34288,6 @@
     "domain": "africaoncloud.net"
   },
   {
-    "network": "156.242.69.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
     "network": "156.242.70.0/23",
     "asn": "328608",
     "country_code": "ZA",
@@ -34473,14 +34321,6 @@
   },
   {
     "network": "156.243.136.0/23",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "156.243.136.0/24",
     "asn": "328608",
     "country_code": "ZA",
     "name": "Africa-on-Cloud-AS",
@@ -34561,14 +34401,6 @@
   },
   {
     "network": "156.253.133.0/24",
-    "asn": "328608",
-    "country_code": "ZA",
-    "name": "Africa-on-Cloud-AS",
-    "org": "Africa on Cloud",
-    "domain": "africaoncloud.net"
-  },
-  {
-    "network": "156.253.135.0/24",
     "asn": "328608",
     "country_code": "ZA",
     "name": "Africa-on-Cloud-AS",
@@ -37296,22 +37128,6 @@
     "domain": "surf4life.co.za"
   },
   {
-    "network": "102.22.243.0/24",
-    "asn": "328576",
-    "country_code": "ZA",
-    "name": "TelcoExchange",
-    "org": "Surf4Life Pty (LTD)",
-    "domain": "surf4life.co.za"
-  },
-  {
-    "network": "102.22.245.0/24",
-    "asn": "328576",
-    "country_code": "ZA",
-    "name": "TelcoExchange",
-    "org": "Surf4Life Pty (LTD)",
-    "domain": "surf4life.co.za"
-  },
-  {
     "network": "102.22.247.0/24",
     "asn": "328576",
     "country_code": "ZA",
@@ -37589,7 +37405,7 @@
     "country_code": "ZA",
     "name": "BallitoISP",
     "org": "TWC Hosting CC",
-    "domain": "networkstack.co.za"
+    "domain": "ballitoisp.co.za"
   },
   {
     "network": "102.206.232.0/22",
@@ -37597,7 +37413,7 @@
     "country_code": "ZA",
     "name": "BallitoISP",
     "org": "TWC Hosting CC",
-    "domain": "networkstack.co.za"
+    "domain": "ballitoisp.co.za"
   },
   {
     "network": "102.209.8.0/22",
@@ -37605,7 +37421,7 @@
     "country_code": "ZA",
     "name": "BallitoISP",
     "org": "TWC Hosting CC",
-    "domain": "networkstack.co.za"
+    "domain": "ballitoisp.co.za"
   },
   {
     "network": "102.212.148.0/22",
@@ -37613,7 +37429,7 @@
     "country_code": "ZA",
     "name": "BallitoISP",
     "org": "TWC Hosting CC",
-    "domain": "networkstack.co.za"
+    "domain": "ballitoisp.co.za"
   },
   {
     "network": "102.213.124.0/22",
@@ -37621,7 +37437,7 @@
     "country_code": "ZA",
     "name": "BallitoISP",
     "org": "TWC Hosting CC",
-    "domain": "networkstack.co.za"
+    "domain": "ballitoisp.co.za"
   },
   {
     "network": "102.218.24.0/22",
@@ -37629,7 +37445,7 @@
     "country_code": "ZA",
     "name": "BallitoISP",
     "org": "TWC Hosting CC",
-    "domain": "networkstack.co.za"
+    "domain": "ballitoisp.co.za"
   },
   {
     "network": "102.219.20.0/24",
@@ -37637,7 +37453,7 @@
     "country_code": "ZA",
     "name": "BallitoISP",
     "org": "TWC Hosting CC",
-    "domain": "networkstack.co.za"
+    "domain": "ballitoisp.co.za"
   },
   {
     "network": "156.0.236.0/22",
@@ -37645,7 +37461,7 @@
     "country_code": "ZA",
     "name": "BallitoISP",
     "org": "TWC Hosting CC",
-    "domain": "networkstack.co.za"
+    "domain": "ballitoisp.co.za"
   },
   {
     "network": "209.61.40.0/21",
@@ -37653,7 +37469,7 @@
     "country_code": "ZA",
     "name": "BallitoISP",
     "org": "TWC Hosting CC",
-    "domain": "networkstack.co.za"
+    "domain": "ballitoisp.co.za"
   },
   {
     "network": "102.23.88.0/22",
@@ -39976,7 +39792,23 @@
     "domain": "yourcommunications.co.za"
   },
   {
+    "network": "2c0f:ecf8:100::/40",
+    "asn": "328441",
+    "country_code": "ZA",
+    "name": "Your-Communications",
+    "org": "Your Communications Pty Ltd",
+    "domain": "yourcommunications.co.za"
+  },
+  {
     "network": "2c0f:ecf8:200::/40",
+    "asn": "328441",
+    "country_code": "ZA",
+    "name": "Your-Communications",
+    "org": "Your Communications Pty Ltd",
+    "domain": "yourcommunications.co.za"
+  },
+  {
+    "network": "2c0f:ecf8:300::/40",
     "asn": "328441",
     "country_code": "ZA",
     "name": "Your-Communications",
@@ -41469,7 +41301,7 @@
     "country_code": "ZA",
     "name": "Tesuco-Telecommunications",
     "org": "TESUCO TELECOMMUNICATIONS (PTY) LTD",
-    "domain": "ttconnect.co.za"
+    "domain": "tesuco.co.za"
   },
   {
     "network": "154.73.180.0/24",
@@ -41477,7 +41309,7 @@
     "country_code": "ZA",
     "name": "Tesuco-Telecommunications",
     "org": "TESUCO TELECOMMUNICATIONS (PTY) LTD",
-    "domain": "ttconnect.co.za"
+    "domain": "tesuco.co.za"
   },
   {
     "network": "154.73.181.0/24",
@@ -41485,7 +41317,7 @@
     "country_code": "ZA",
     "name": "Tesuco-Telecommunications",
     "org": "TESUCO TELECOMMUNICATIONS (PTY) LTD",
-    "domain": "ttconnect.co.za"
+    "domain": "tesuco.co.za"
   },
   {
     "network": "154.73.182.0/24",
@@ -41493,7 +41325,7 @@
     "country_code": "ZA",
     "name": "Tesuco-Telecommunications",
     "org": "TESUCO TELECOMMUNICATIONS (PTY) LTD",
-    "domain": "ttconnect.co.za"
+    "domain": "tesuco.co.za"
   },
   {
     "network": "154.73.183.0/24",
@@ -41501,7 +41333,7 @@
     "country_code": "ZA",
     "name": "Tesuco-Telecommunications",
     "org": "TESUCO TELECOMMUNICATIONS (PTY) LTD",
-    "domain": "ttconnect.co.za"
+    "domain": "tesuco.co.za"
   },
   {
     "network": "165.16.240.0/20",
@@ -41509,7 +41341,7 @@
     "country_code": "ZA",
     "name": "Tesuco-Telecommunications",
     "org": "TESUCO TELECOMMUNICATIONS (PTY) LTD",
-    "domain": "ttconnect.co.za"
+    "domain": "tesuco.co.za"
   },
   {
     "network": "2c0f:4940::/32",
@@ -41517,7 +41349,7 @@
     "country_code": "ZA",
     "name": "Tesuco-Telecommunications",
     "org": "TESUCO TELECOMMUNICATIONS (PTY) LTD",
-    "domain": "ttconnect.co.za"
+    "domain": "tesuco.co.za"
   },
   {
     "network": "102.130.104.0/23",
@@ -42832,6 +42664,38 @@
     "domain": "splitpoint.co.za"
   },
   {
+    "network": "102.132.188.0/24",
+    "asn": "329474",
+    "country_code": "ZA",
+    "name": "Nymbis-Cloud-Solutions",
+    "org": "Nymbis Cloud Solutions Pty Ltd",
+    "domain": "nymbis.cloud"
+  },
+  {
+    "network": "102.208.36.0/22",
+    "asn": "329474",
+    "country_code": "ZA",
+    "name": "Nymbis-Cloud-Solutions",
+    "org": "Nymbis Cloud Solutions Pty Ltd",
+    "domain": "nymbis.cloud"
+  },
+  {
+    "network": "102.212.173.0/24",
+    "asn": "329474",
+    "country_code": "ZA",
+    "name": "Nymbis-Cloud-Solutions",
+    "org": "Nymbis Cloud Solutions Pty Ltd",
+    "domain": "nymbis.cloud"
+  },
+  {
+    "network": "2c0f:41c0::/32",
+    "asn": "329474",
+    "country_code": "ZA",
+    "name": "Nymbis-Cloud-Solutions",
+    "org": "Nymbis Cloud Solutions Pty Ltd",
+    "domain": "nymbis.cloud"
+  },
+  {
     "network": "102.134.0.0/24",
     "asn": "328349",
     "country_code": "ZA",
@@ -43016,6 +42880,14 @@
     "domain": "hugeconnect.co.za"
   },
   {
+    "network": "102.177.49.0/24",
+    "asn": "37356",
+    "country_code": "ZA",
+    "name": "Huge-Networks",
+    "org": "Huge Networks (Pty) Ltd",
+    "domain": "hugeconnect.co.za"
+  },
+  {
     "network": "102.214.196.0/22",
     "asn": "37356",
     "country_code": "ZA",
@@ -43104,7 +42976,31 @@
     "domain": "hugeconnect.co.za"
   },
   {
+    "network": "197.221.178.0/24",
+    "asn": "37356",
+    "country_code": "ZA",
+    "name": "Huge-Networks",
+    "org": "Huge Networks (Pty) Ltd",
+    "domain": "hugeconnect.co.za"
+  },
+  {
     "network": "197.221.179.0/24",
+    "asn": "37356",
+    "country_code": "ZA",
+    "name": "Huge-Networks",
+    "org": "Huge Networks (Pty) Ltd",
+    "domain": "hugeconnect.co.za"
+  },
+  {
+    "network": "197.221.180.0/24",
+    "asn": "37356",
+    "country_code": "ZA",
+    "name": "Huge-Networks",
+    "org": "Huge Networks (Pty) Ltd",
+    "domain": "hugeconnect.co.za"
+  },
+  {
+    "network": "197.221.181.0/24",
     "asn": "37356",
     "country_code": "ZA",
     "name": "Huge-Networks",
@@ -44480,54 +44376,6 @@
     "domain": "fibertime.com"
   },
   {
-    "network": "102.200.188.0/23",
-    "asn": "329126",
-    "country_code": "ZA",
-    "name": "IIP-AS",
-    "org": "IIP1 Pty Ltd",
-    "domain": "fibertime.com"
-  },
-  {
-    "network": "102.200.188.0/24",
-    "asn": "329126",
-    "country_code": "ZA",
-    "name": "IIP-AS",
-    "org": "IIP1 Pty Ltd",
-    "domain": "fibertime.com"
-  },
-  {
-    "network": "102.200.189.0/24",
-    "asn": "329126",
-    "country_code": "ZA",
-    "name": "IIP-AS",
-    "org": "IIP1 Pty Ltd",
-    "domain": "fibertime.com"
-  },
-  {
-    "network": "102.200.190.0/23",
-    "asn": "329126",
-    "country_code": "ZA",
-    "name": "IIP-AS",
-    "org": "IIP1 Pty Ltd",
-    "domain": "fibertime.com"
-  },
-  {
-    "network": "102.200.190.0/24",
-    "asn": "329126",
-    "country_code": "ZA",
-    "name": "IIP-AS",
-    "org": "IIP1 Pty Ltd",
-    "domain": "fibertime.com"
-  },
-  {
-    "network": "102.200.191.0/24",
-    "asn": "329126",
-    "country_code": "ZA",
-    "name": "IIP-AS",
-    "org": "IIP1 Pty Ltd",
-    "domain": "fibertime.com"
-  },
-  {
     "network": "102.206.92.0/22",
     "asn": "329126",
     "country_code": "ZA",
@@ -44736,14 +44584,6 @@
     "domain": "boxer.co.za"
   },
   {
-    "network": "102.201.40.0/22",
-    "asn": "329812",
-    "country_code": "ZA",
-    "name": "Spusu_ZA_Pty_Ltd",
-    "org": "Spusu ZA Pty Ltd",
-    "domain": "splizr.com"
-  },
-  {
     "network": "102.201.48.0/22",
     "asn": "328723",
     "country_code": "ZA",
@@ -44848,6 +44688,22 @@
     "domain": "bolandconnect.co.za"
   },
   {
+    "network": "102.201.190.0/24",
+    "asn": "329785",
+    "country_code": "ZA",
+    "name": "Boland-Connect",
+    "org": "Boland Connect (PTY) Ltd",
+    "domain": "bolandconnect.co.za"
+  },
+  {
+    "network": "102.201.191.0/24",
+    "asn": "329785",
+    "country_code": "ZA",
+    "name": "Boland-Connect",
+    "org": "Boland Connect (PTY) Ltd",
+    "domain": "bolandconnect.co.za"
+  },
+  {
     "network": "2c0f:5220::/32",
     "asn": "329785",
     "country_code": "ZA",
@@ -44902,6 +44758,14 @@
     "name": "Sive-Setfu-ICT-Solutions-Pty-Ltd",
     "org": "Sive Setfu ICT Solutions (Pty) Ltd",
     "domain": "sive.host"
+  },
+  {
+    "network": "102.202.55.0/24",
+    "asn": "329762",
+    "country_code": "ZA",
+    "name": "mail2-Internet",
+    "org": "2Mail Internet (Pty) Ltd",
+    "domain": "2mail.co.za"
   },
   {
     "network": "102.202.64.0/23",
@@ -46654,30 +46518,6 @@
     "name": "TCS-Wi-Fi",
     "org": "The Computer Shop Plett",
     "domain": "tcswifi.co.za"
-  },
-  {
-    "network": "102.208.36.0/22",
-    "asn": "329474",
-    "country_code": "ZA",
-    "name": "Nymbis-Cloud-Solutions",
-    "org": "Nymbis Cloud Solutions Pty Ltd",
-    "domain": "nymbis.cloud"
-  },
-  {
-    "network": "102.212.173.0/24",
-    "asn": "329474",
-    "country_code": "ZA",
-    "name": "Nymbis-Cloud-Solutions",
-    "org": "Nymbis Cloud Solutions Pty Ltd",
-    "domain": "nymbis.cloud"
-  },
-  {
-    "network": "2c0f:41c0::/32",
-    "asn": "329474",
-    "country_code": "ZA",
-    "name": "Nymbis-Cloud-Solutions",
-    "org": "Nymbis Cloud Solutions Pty Ltd",
-    "domain": "nymbis.cloud"
   },
   {
     "network": "102.208.83.0/24",
@@ -48509,7 +48349,7 @@
     "country_code": "ZA",
     "name": "BullTech-Group",
     "org": "BullTech Group (Pty) Ltd",
-    "domain": "bulltechgroup.co.za"
+    "domain": "exahtech.ai"
   },
   {
     "network": "102.214.80.0/24",
@@ -50259,9 +50099,9 @@
     "network": "102.221.74.0/24",
     "asn": "328791",
     "country_code": "ZA",
-    "name": "Mr-Price-Group",
-    "org": "Mr. Price Group Limited",
-    "domain": "powerfashion.co.za"
+    "name": "MR-Price-Group",
+    "org": "MR Price Group Limited",
+    "domain": "mrpricegroup.com"
   },
   {
     "network": "102.221.76.0/22",
@@ -58312,6 +58152,14 @@
     "domain": "velocitytrade.com"
   },
   {
+    "network": "2001:43f8:d20::/44",
+    "asn": "328209",
+    "country_code": "ZA",
+    "name": "elocity-Trade-Financial-Services",
+    "org": "Velocity Trade Financial Services (Pty) Ltd",
+    "domain": "velocitytrade.com"
+  },
+  {
     "network": "160.119.120.0/22",
     "asn": "328024",
     "country_code": "ZA",
@@ -58377,6 +58225,38 @@
   },
   {
     "network": "160.119.220.0/22",
+    "asn": "328146",
+    "country_code": "ZA",
+    "name": "Saint-ICT-AS",
+    "org": "SAINT ICT CONSULTANTS (PTY) LTD",
+    "domain": "saint.co.za"
+  },
+  {
+    "network": "160.119.220.0/24",
+    "asn": "328146",
+    "country_code": "ZA",
+    "name": "Saint-ICT-AS",
+    "org": "SAINT ICT CONSULTANTS (PTY) LTD",
+    "domain": "saint.co.za"
+  },
+  {
+    "network": "160.119.221.0/24",
+    "asn": "328146",
+    "country_code": "ZA",
+    "name": "Saint-ICT-AS",
+    "org": "SAINT ICT CONSULTANTS (PTY) LTD",
+    "domain": "saint.co.za"
+  },
+  {
+    "network": "160.119.222.0/24",
+    "asn": "328146",
+    "country_code": "ZA",
+    "name": "Saint-ICT-AS",
+    "org": "SAINT ICT CONSULTANTS (PTY) LTD",
+    "domain": "saint.co.za"
+  },
+  {
+    "network": "160.119.223.0/24",
     "asn": "328146",
     "country_code": "ZA",
     "name": "Saint-ICT-AS",
@@ -64094,14 +63974,6 @@
     "name": "GB-IIL-AS",
     "org": "D2CLOUD NETWORK SERVICES (PTY) LTD",
     "domain": "d2cloud.co.za"
-  },
-  {
-    "network": "2a0e:97c1:8a23::/48",
-    "asn": "329334",
-    "country_code": "ZA",
-    "name": "Ndiza-Information-System",
-    "org": "Ndiza Information Systems",
-    "domain": "atconsultants.co.za"
   },
   {
     "network": "2c0f:eb00:200::/40",

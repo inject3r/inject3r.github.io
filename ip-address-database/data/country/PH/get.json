@@ -954,7 +954,7 @@
     "country_name": "Philippines"
   },
   {
-    "network": "38.58.234.192/26",
+    "network": "38.58.234.240/30",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -1050,7 +1050,7 @@
     "country_name": "Philippines"
   },
   {
-    "network": "38.150.16.176/29",
+    "network": "38.150.16.176/30",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -1632,7 +1632,7 @@
     "country_name": "Philippines"
   },
   {
-    "network": "45.195.193.0/26",
+    "network": "45.195.193.0/24",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -1669,6 +1669,12 @@
   },
   {
     "network": "45.196.153.0/24",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
+    "network": "45.196.192.0/24",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -1765,12 +1771,6 @@
   },
   {
     "network": "45.204.249.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "45.207.169.0/24",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -3396,6 +3396,12 @@
     "country_name": "Philippines"
   },
   {
+    "network": "79.180.104.0/22",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
     "network": "79.182.129.0/24",
     "continent_code": "AS",
     "country_code": "PH",
@@ -4093,6 +4099,12 @@
   },
   {
     "network": "103.14.194.0/24",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
+    "network": "103.15.116.0/22",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -5311,6 +5323,12 @@
   },
   {
     "network": "103.117.140.0/24",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
+    "network": "103.118.108.64/26",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -7698,6 +7716,12 @@
     "country_name": "Philippines"
   },
   {
+    "network": "104.30.182.224/32",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
     "network": "104.67.160.0/19",
     "continent_code": "AS",
     "country_code": "PH",
@@ -8346,6 +8370,12 @@
     "country_name": "Philippines"
   },
   {
+    "network": "119.47.118.0/23",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
     "network": "119.63.0.0/23",
     "continent_code": "AS",
     "country_code": "PH",
@@ -8857,6 +8887,12 @@
   },
   {
     "network": "125.253.128.0/22",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
+    "network": "126.52.128.0/19",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -10398,12 +10434,6 @@
     "country_name": "Philippines"
   },
   {
-    "network": "154.82.128.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
     "network": "154.82.130.0/23",
     "continent_code": "AS",
     "country_code": "PH",
@@ -10417,12 +10447,6 @@
   },
   {
     "network": "154.82.134.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "154.82.146.0/24",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -10974,19 +10998,13 @@
     "country_name": "Philippines"
   },
   {
-    "network": "156.236.91.16/28",
+    "network": "156.236.91.0/25",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
   },
   {
     "network": "156.236.92.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "156.236.93.0/26",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -11071,12 +11089,6 @@
   },
   {
     "network": "156.246.25.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "156.249.1.0/24",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -12864,19 +12876,7 @@
     "country_name": "Philippines"
   },
   {
-    "network": "172.94.119.18/31",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "172.94.119.20/30",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "172.94.119.24/29",
+    "network": "172.94.119.16/28",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -12991,6 +12991,12 @@
   },
   {
     "network": "176.100.47.0/24",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
+    "network": "177.177.64.0/22",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -13644,25 +13650,7 @@
     "country_name": "Philippines"
   },
   {
-    "network": "191.44.51.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
     "network": "191.44.55.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "191.44.59.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "191.44.63.0/24",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -13807,12 +13795,6 @@
   },
   {
     "network": "194.36.35.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "194.50.99.178/32",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -14016,25 +13998,7 @@
     "country_name": "Philippines"
   },
   {
-    "network": "201.50.100.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
     "network": "201.50.105.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "201.50.109.0/24",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "201.50.112.0/24",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -15480,7 +15444,7 @@
     "country_name": "Philippines"
   },
   {
-    "network": "208.127.210.0/24",
+    "network": "208.127.210.0/25",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -26748,6 +26712,12 @@
     "country_name": "Philippines"
   },
   {
+    "network": "2a14:c380:16af::/48",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
     "network": "2403:e800:700:8000::/49",
     "continent_code": "AS",
     "country_code": "PH",
@@ -27882,12 +27852,6 @@
     "country_name": "Philippines"
   },
   {
-    "network": "2001:470:19:57f::/64",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
     "network": "2001:470:19:60a::/64",
     "continent_code": "AS",
     "country_code": "PH",
@@ -28003,6 +27967,12 @@
   },
   {
     "network": "2001:470:24:843::/64",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
+    "network": "2001:470:24:8ec::/64",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -28171,12 +28141,6 @@
   },
   {
     "network": "2001:470:36:785::/64",
-    "continent_code": "AS",
-    "country_code": "PH",
-    "country_name": "Philippines"
-  },
-  {
-    "network": "2001:470:36:86d::/64",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"
@@ -29629,6 +29593,12 @@
   },
   {
     "network": "2a09:bac0:1000:1b25::/64",
+    "continent_code": "AS",
+    "country_code": "PH",
+    "country_name": "Philippines"
+  },
+  {
+    "network": "2a09:bac0:1000:1bea::/64",
     "continent_code": "AS",
     "country_code": "PH",
     "country_name": "Philippines"

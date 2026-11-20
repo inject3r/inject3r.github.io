@@ -496,14 +496,6 @@
     "domain": "creanova.org"
   },
   {
-    "network": "167.150.19.0/24",
-    "asn": "51765",
-    "country_code": "FI",
-    "name": "CREANOVA-AS",
-    "org": "Oy Crea Nova Hosting Solution Ltd",
-    "domain": "creanova.org"
-  },
-  {
     "network": "185.77.216.0/23",
     "asn": "51765",
     "country_code": "FI",
@@ -1993,6 +1985,14 @@
   },
   {
     "network": "85.194.220.0/22",
+    "asn": "47605",
+    "country_code": "FI",
+    "name": "FNE-AS",
+    "org": "FNE-Finland Oy",
+    "domain": "fne.fi"
+  },
+  {
+    "network": "85.194.234.0/23",
     "asn": "47605",
     "country_code": "FI",
     "name": "FNE-AS",
@@ -7376,6 +7376,30 @@
     "domain": "localnet.fi"
   },
   {
+    "network": "48.103.155.0/24",
+    "asn": "200327",
+    "country_code": "FI",
+    "name": "televirta",
+    "org": "TELEVIRTA OY",
+    "domain": "televirta.fi"
+  },
+  {
+    "network": "194.238.44.0/24",
+    "asn": "200327",
+    "country_code": "FI",
+    "name": "televirta",
+    "org": "TELEVIRTA OY",
+    "domain": "televirta.fi"
+  },
+  {
+    "network": "2a12:c480::/29",
+    "asn": "200327",
+    "country_code": "FI",
+    "name": "televirta",
+    "org": "TELEVIRTA OY",
+    "domain": "televirta.fi"
+  },
+  {
     "network": "62.72.224.0/19",
     "asn": "24751",
     "country_code": "FI",
@@ -7774,6 +7798,22 @@
     "name": "NOKIAWING",
     "org": "Nokia Oyj",
     "domain": "nokia.com"
+  },
+  {
+    "network": "67.220.69.0/24",
+    "asn": "218938",
+    "country_code": "FI",
+    "name": "POTUZHNO-AS",
+    "org": "Vasili Rytvinski",
+    "domain": "as218938.net"
+  },
+  {
+    "network": "2a09:3f00:100f::/48",
+    "asn": "218938",
+    "country_code": "FI",
+    "name": "POTUZHNO-AS",
+    "org": "Vasili Rytvinski",
+    "domain": "as218938.net"
   },
   {
     "network": "77.72.56.0/21",
@@ -12776,6 +12816,22 @@
     "domain": "nordea.com"
   },
   {
+    "network": "158.233.225.0/24",
+    "asn": "201271",
+    "country_code": "FI",
+    "name": "NORDEA-AS",
+    "org": "Nordea Bank Abp",
+    "domain": "nordea.com"
+  },
+  {
+    "network": "158.233.226.0/24",
+    "asn": "201271",
+    "country_code": "FI",
+    "name": "NORDEA-AS",
+    "org": "Nordea Bank Abp",
+    "domain": "nordea.com"
+  },
+  {
     "network": "158.233.227.0/24",
     "asn": "201271",
     "country_code": "FI",
@@ -14880,22 +14936,6 @@
     "domain": "europa.eu"
   },
   {
-    "network": "194.238.44.0/24",
-    "asn": "200327",
-    "country_code": "FI",
-    "name": "televirta",
-    "org": "TELEVIRTA OY",
-    "domain": "televirta.fi"
-  },
-  {
-    "network": "2a12:c480::/29",
-    "asn": "200327",
-    "country_code": "FI",
-    "name": "televirta",
-    "org": "TELEVIRTA OY",
-    "domain": "televirta.fi"
-  },
-  {
     "network": "195.20.116.0/23",
     "asn": "25391",
     "country_code": "FI",
@@ -15174,22 +15214,6 @@
     "name": "bensku-net",
     "org": "Aaro Benjami Luolajan-Mikkola",
     "domain": "benjami.fi"
-  },
-  {
-    "network": "2a06:9801:f7e::/48",
-    "asn": "218938",
-    "country_code": "FI",
-    "name": "POTUZHNO-AS",
-    "org": "Vasili Rytvinski",
-    "domain": "as218938.net"
-  },
-  {
-    "network": "2a09:3f00:100f::/48",
-    "asn": "218938",
-    "country_code": "FI",
-    "name": "POTUZHNO-AS",
-    "org": "Vasili Rytvinski",
-    "domain": "as218938.net"
   },
   {
     "network": "2a0c:9a40:81fc::/48",

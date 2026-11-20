@@ -632,6 +632,14 @@
     "domain": "telekom.hu"
   },
   {
+    "network": "93.114.97.0/24",
+    "asn": "5483",
+    "country_code": "HU",
+    "name": "MAGYAR-TELEKOM-MAIN-AS",
+    "org": "Magyar Telekom Plc.",
+    "domain": "telekom.hu"
+  },
+  {
     "network": "94.27.128.0/17",
     "asn": "5483",
     "country_code": "HU",
@@ -2824,14 +2832,6 @@
     "domain": "pro-m.hu"
   },
   {
-    "network": "45.88.92.0/24",
-    "asn": "47169",
-    "country_code": "HU",
-    "name": "HPC-MVM-AS",
-    "org": "Pro-M Zrt.",
-    "domain": "pro-m.hu"
-  },
-  {
     "network": "45.130.240.0/22",
     "asn": "47169",
     "country_code": "HU",
@@ -3921,6 +3921,14 @@
   },
   {
     "network": "2a14:dd80:1020::/48",
+    "asn": "50144",
+    "country_code": "HU",
+    "name": "UNIMATRIX-AS",
+    "org": "Unimatrix IT Solutions Kft.",
+    "domain": "unimatrixit.com"
+  },
+  {
+    "network": "2a14:dd80:1022::/48",
     "asn": "50144",
     "country_code": "HU",
     "name": "UNIMATRIX-AS",
@@ -13934,6 +13942,30 @@
     "name": "KIBERNET-AS",
     "org": "KiberNet Kft.",
     "domain": "kiber.net"
+  },
+  {
+    "network": "2a0b:4e07:5184::/47",
+    "asn": "218398",
+    "country_code": "HU",
+    "name": "TOLDI-AS",
+    "org": "Balazs Adam Toldi",
+    "domain": "toldi.eu"
+  },
+  {
+    "network": "2a0b:4e07:5184::/48",
+    "asn": "218398",
+    "country_code": "HU",
+    "name": "TOLDI-AS",
+    "org": "Balazs Adam Toldi",
+    "domain": "toldi.eu"
+  },
+  {
+    "network": "2a0b:4e07:5185::/48",
+    "asn": "218398",
+    "country_code": "HU",
+    "name": "TOLDI-AS",
+    "org": "Balazs Adam Toldi",
+    "domain": "toldi.eu"
   },
   {
     "network": "2a0e:8f02:f07b::/48",

@@ -1936,30 +1936,6 @@
     "domain": "globalconnect.dk"
   },
   {
-    "network": "46.32.156.0/22",
-    "asn": "31027",
-    "country_code": "DK",
-    "name": "GlobalConnect-AS31027",
-    "org": "GlobalConnect A/S",
-    "domain": "globalconnect.dk"
-  },
-  {
-    "network": "62.12.32.0/20",
-    "asn": "31027",
-    "country_code": "DK",
-    "name": "GlobalConnect-AS31027",
-    "org": "GlobalConnect A/S",
-    "domain": "globalconnect.dk"
-  },
-  {
-    "network": "62.12.48.0/21",
-    "asn": "31027",
-    "country_code": "DK",
-    "name": "GlobalConnect-AS31027",
-    "org": "GlobalConnect A/S",
-    "domain": "globalconnect.dk"
-  },
-  {
     "network": "62.116.192.0/19",
     "asn": "31027",
     "country_code": "DK",
@@ -2065,14 +2041,6 @@
   },
   {
     "network": "85.202.64.0/20",
-    "asn": "31027",
-    "country_code": "DK",
-    "name": "GlobalConnect-AS31027",
-    "org": "GlobalConnect A/S",
-    "domain": "globalconnect.dk"
-  },
-  {
-    "network": "87.104.192.0/19",
     "asn": "31027",
     "country_code": "DK",
     "name": "GlobalConnect-AS31027",
@@ -2816,14 +2784,6 @@
     "domain": "globalconnect.dk"
   },
   {
-    "network": "195.93.182.0/23",
-    "asn": "31027",
-    "country_code": "DK",
-    "name": "GlobalConnect-AS31027",
-    "org": "GlobalConnect A/S",
-    "domain": "globalconnect.dk"
-  },
-  {
     "network": "195.95.238.0/23",
     "asn": "31027",
     "country_code": "DK",
@@ -3481,14 +3441,6 @@
   },
   {
     "network": "78.24.202.0/24",
-    "asn": "39642",
-    "country_code": "DK",
-    "name": "Sinal-AS",
-    "org": "Sinal A/S",
-    "domain": "eniig.dk"
-  },
-  {
-    "network": "78.156.96.0/19",
     "asn": "39642",
     "country_code": "DK",
     "name": "Sinal-AS",
@@ -4945,35 +4897,51 @@
   },
   {
     "network": "31.193.232.0/21",
-    "asn": "8273",
+    "asn": "213320",
     "country_code": "DK",
-    "name": "DK-STOFANET-AS",
+    "name": "NORLYS-DIGITAL",
     "org": "Norlys Telco A/S",
-    "domain": "sinal.dk"
+    "domain": "norlys.dk"
+  },
+  {
+    "network": "85.27.128.0/17",
+    "asn": "213320",
+    "country_code": "DK",
+    "name": "NORLYS-DIGITAL",
+    "org": "Norlys Telco A/S",
+    "domain": "norlys.dk"
   },
   {
     "network": "91.144.192.0/18",
-    "asn": "8273",
+    "asn": "213320",
     "country_code": "DK",
-    "name": "DK-STOFANET-AS",
+    "name": "NORLYS-DIGITAL",
     "org": "Norlys Telco A/S",
-    "domain": "sinal.dk"
+    "domain": "norlys.dk"
   },
   {
     "network": "128.0.8.0/21",
-    "asn": "8273",
+    "asn": "213320",
     "country_code": "DK",
-    "name": "DK-STOFANET-AS",
+    "name": "NORLYS-DIGITAL",
     "org": "Norlys Telco A/S",
-    "domain": "sinal.dk"
+    "domain": "norlys.dk"
   },
   {
     "network": "185.10.212.0/22",
-    "asn": "8273",
+    "asn": "213320",
     "country_code": "DK",
-    "name": "DK-STOFANET-AS",
+    "name": "NORLYS-DIGITAL",
     "org": "Norlys Telco A/S",
-    "domain": "sinal.dk"
+    "domain": "norlys.dk"
+  },
+  {
+    "network": "2a13:8a00::/29",
+    "asn": "213320",
+    "country_code": "DK",
+    "name": "NORLYS-DIGITAL",
+    "org": "Norlys Telco A/S",
+    "domain": "norlys.dk"
   },
   {
     "network": "37.35.96.0/22",
@@ -10152,6 +10120,38 @@
     "domain": "krusesecurity.eu"
   },
   {
+    "network": "2a06:9f81:4801::/48",
+    "asn": "215541",
+    "country_code": "DK",
+    "name": "AS-KRUSESEC",
+    "org": "Peter Kruse",
+    "domain": "krusesecurity.eu"
+  },
+  {
+    "network": "2a06:9f81:4802::/48",
+    "asn": "215541",
+    "country_code": "DK",
+    "name": "AS-KRUSESEC",
+    "org": "Peter Kruse",
+    "domain": "krusesecurity.eu"
+  },
+  {
+    "network": "2a06:9f81:4803::/48",
+    "asn": "215541",
+    "country_code": "DK",
+    "name": "AS-KRUSESEC",
+    "org": "Peter Kruse",
+    "domain": "krusesecurity.eu"
+  },
+  {
+    "network": "2a06:9f81:4840::/44",
+    "asn": "215541",
+    "country_code": "DK",
+    "name": "AS-KRUSESEC",
+    "org": "Peter Kruse",
+    "domain": "krusesecurity.eu"
+  },
+  {
     "network": "2a0c:9a40:8510::/48",
     "asn": "215541",
     "country_code": "DK",
@@ -10209,14 +10209,6 @@
   },
   {
     "network": "84.252.76.0/22",
-    "asn": "49010",
-    "country_code": "DK",
-    "name": "HERNING-KOMMUNE-AS",
-    "org": "Herning Kommune",
-    "domain": "herning.dk"
-  },
-  {
-    "network": "86.62.24.0/22",
     "asn": "49010",
     "country_code": "DK",
     "name": "HERNING-KOMMUNE-AS",
@@ -10350,22 +10342,6 @@
     "name": "AS6834",
     "org": "KMD A/S",
     "domain": "kmd.dk"
-  },
-  {
-    "network": "85.27.128.0/17",
-    "asn": "213320",
-    "country_code": "DK",
-    "name": "NORLYS-DIGITAL",
-    "org": "Norlys Telco A/S",
-    "domain": "norlys.dk"
-  },
-  {
-    "network": "2a13:8a00::/29",
-    "asn": "213320",
-    "country_code": "DK",
-    "name": "NORLYS-DIGITAL",
-    "org": "Norlys Telco A/S",
-    "domain": "norlys.dk"
   },
   {
     "network": "85.27.172.0/24",
@@ -10718,6 +10694,22 @@
     "name": "AFAADK",
     "org": "Antenneforeningen Aarhus",
     "domain": "afaa.dk"
+  },
+  {
+    "network": "86.62.24.0/22",
+    "asn": "39880",
+    "country_code": "DK",
+    "name": "AS-Thomaskruse_dk",
+    "org": "Thomas Kruse",
+    "domain": "thomaskruse.dk"
+  },
+  {
+    "network": "2001:67c:2174::/48",
+    "asn": "39880",
+    "country_code": "DK",
+    "name": "AS-Thomaskruse_dk",
+    "org": "Thomas Kruse",
+    "domain": "thomaskruse.dk"
   },
   {
     "network": "86.111.215.0/24",
@@ -12561,14 +12553,6 @@
   },
   {
     "network": "193.10.254.0/24",
-    "asn": "2603",
-    "country_code": "DK",
-    "name": "NORDUNET",
-    "org": "NORDUnet",
-    "domain": "nordu.net"
-  },
-  {
-    "network": "193.10.255.0/24",
     "asn": "2603",
     "country_code": "DK",
     "name": "NORDUNET",
@@ -14561,14 +14545,6 @@
   },
   {
     "network": "2a0a:2400::/32",
-    "asn": "206157",
-    "country_code": "DK",
-    "name": "complea",
-    "org": "Complea A/S",
-    "domain": "complea.dk"
-  },
-  {
-    "network": "2a0a:2400:fffa::/48",
     "asn": "206157",
     "country_code": "DK",
     "name": "complea",
@@ -16670,14 +16646,6 @@
     "name": "ASPNET",
     "org": "Albert Soendergaard Pedersen",
     "domain": "as212354.net"
-  },
-  {
-    "network": "2001:67c:2174::/48",
-    "asn": "39880",
-    "country_code": "DK",
-    "name": "AS-Thomaskruse_dk",
-    "org": "Thomas Kruse",
-    "domain": "thomaskruse.dk"
   },
   {
     "network": "2001:67c:25b4::/48",

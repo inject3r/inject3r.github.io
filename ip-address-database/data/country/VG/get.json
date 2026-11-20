@@ -282,12 +282,6 @@
     "country_name": "British Virgin Islands"
   },
   {
-    "network": "45.142.120.0/24",
-    "continent_code": "NA",
-    "country_code": "VG",
-    "country_name": "British Virgin Islands"
-  },
-  {
     "network": "45.143.12.0/22",
     "continent_code": "NA",
     "country_code": "VG",
@@ -438,12 +432,6 @@
     "country_name": "British Virgin Islands"
   },
   {
-    "network": "79.182.24.0/24",
-    "continent_code": "NA",
-    "country_code": "VG",
-    "country_name": "British Virgin Islands"
-  },
-  {
     "network": "79.182.130.0/24",
     "continent_code": "NA",
     "country_code": "VG",
@@ -540,7 +528,7 @@
     "country_name": "British Virgin Islands"
   },
   {
-    "network": "89.47.171.144/30",
+    "network": "89.47.171.144/29",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -775,12 +763,6 @@
   },
   {
     "network": "104.28.94.8/31",
-    "continent_code": "NA",
-    "country_code": "VG",
-    "country_name": "British Virgin Islands"
-  },
-  {
-    "network": "104.28.109.8/31",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -1134,7 +1116,43 @@
     "country_name": "British Virgin Islands"
   },
   {
-    "network": "172.94.55.0/24",
+    "network": "172.94.55.0/29",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "172.94.55.8/30",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "172.94.55.14/31",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "172.94.55.16/28",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "172.94.55.32/27",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "172.94.55.64/26",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "172.94.55.128/25",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -1434,12 +1452,6 @@
     "country_name": "British Virgin Islands"
   },
   {
-    "network": "187.98.0.0/16",
-    "continent_code": "NA",
-    "country_code": "VG",
-    "country_name": "British Virgin Islands"
-  },
-  {
     "network": "188.72.88.0/24",
     "continent_code": "NA",
     "country_code": "VG",
@@ -1531,12 +1543,6 @@
   },
   {
     "network": "194.36.176.0/24",
-    "continent_code": "NA",
-    "country_code": "VG",
-    "country_name": "British Virgin Islands"
-  },
-  {
-    "network": "194.50.99.240/32",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -1704,19 +1710,7 @@
     "country_name": "British Virgin Islands"
   },
   {
-    "network": "205.217.244.64/28",
-    "continent_code": "NA",
-    "country_code": "VG",
-    "country_name": "British Virgin Islands"
-  },
-  {
     "network": "205.217.244.96/28",
-    "continent_code": "NA",
-    "country_code": "VG",
-    "country_name": "British Virgin Islands"
-  },
-  {
-    "network": "205.217.244.112/30",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -2034,12 +2028,6 @@
     "country_name": "British Virgin Islands"
   },
   {
-    "network": "2605:7a80:4000::/34",
-    "continent_code": "NA",
-    "country_code": "VG",
-    "country_name": "British Virgin Islands"
-  },
-  {
     "network": "2a04:2d00:4000::/34",
     "continent_code": "NA",
     "country_code": "VG",
@@ -2076,7 +2064,7 @@
     "country_name": "British Virgin Islands"
   },
   {
-    "network": "2605:7a80:2000::/35",
+    "network": "2605:7a80:6000::/35",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -2155,6 +2143,18 @@
   },
   {
     "network": "2605:7a80:1000::/36",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:2000::/36",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:5000::/36",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -2280,6 +2280,24 @@
     "country_name": "British Virgin Islands"
   },
   {
+    "network": "2605:7a80:3c00::/38",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4000::/38",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4c00::/38",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
     "network": "2a04:2d00:400::/38",
     "continent_code": "NA",
     "country_code": "VG",
@@ -2316,12 +2334,6 @@
     "country_name": "British Virgin Islands"
   },
   {
-    "network": "2a0d:d904:f000::/38",
-    "continent_code": "NA",
-    "country_code": "VG",
-    "country_name": "British Virgin Islands"
-  },
-  {
     "network": "2a0f:7b80:400::/38",
     "continent_code": "NA",
     "country_code": "VG",
@@ -2329,6 +2341,30 @@
   },
   {
     "network": "2a0f:7b81:400::/38",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3600::/39",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3a00::/39",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4600::/39",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4a00::/39",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -2419,6 +2455,36 @@
   },
   {
     "network": "2605:7a80:300::/40",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3000::/40",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3500::/40",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3800::/40",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4500::/40",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4800::/40",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -2568,6 +2634,48 @@
     "country_name": "British Virgin Islands"
   },
   {
+    "network": "2605:7a80:3180::/41",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3280::/41",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3380::/41",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3480::/41",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3980::/41",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4480::/41",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4980::/41",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
     "network": "2a04:2d00:80::/41",
     "continent_code": "NA",
     "country_code": "VG",
@@ -2623,6 +2731,48 @@
   },
   {
     "network": "2605:7a80:240::/42",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3140::/42",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3240::/42",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3340::/42",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3440::/42",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3940::/42",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4440::/42",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4940::/42",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -2688,6 +2838,48 @@
     "country_name": "British Virgin Islands"
   },
   {
+    "network": "2605:7a80:3120::/43",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3220::/43",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3320::/43",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3420::/43",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3920::/43",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4420::/43",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4920::/43",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
     "network": "2a04:2d00:20::/43",
     "continent_code": "NA",
     "country_code": "VG",
@@ -2743,6 +2935,48 @@
   },
   {
     "network": "2605:7a80:110::/44",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3110::/44",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3210::/44",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3310::/44",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3410::/44",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3910::/44",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4410::/44",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4910::/44",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -2808,12 +3042,6 @@
     "country_name": "British Virgin Islands"
   },
   {
-    "network": "2a14:7584:e920::/44",
-    "continent_code": "NA",
-    "country_code": "VG",
-    "country_name": "British Virgin Islands"
-  },
-  {
     "network": "2605:7a80:108::/45",
     "continent_code": "NA",
     "country_code": "VG",
@@ -2821,6 +3049,48 @@
   },
   {
     "network": "2605:7a80:218::/45",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3108::/45",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3208::/45",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3308::/45",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3408::/45",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3908::/45",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4408::/45",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4908::/45",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -2934,6 +3204,48 @@
     "country_name": "British Virgin Islands"
   },
   {
+    "network": "2605:7a80:3104::/46",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3204::/46",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3304::/46",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3404::/46",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3904::/46",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4404::/46",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4904::/46",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
     "network": "2a04:2d00:4::/46",
     "continent_code": "NA",
     "country_code": "VG",
@@ -2983,6 +3295,42 @@
   },
   {
     "network": "2605:7a80:106::/47",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3102::/47",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3202::/47",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3302::/47",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3402::/47",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:3902::/47",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2605:7a80:4902::/47",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"
@@ -3396,6 +3744,12 @@
     "country_name": "British Virgin Islands"
   },
   {
+    "network": "2a14:c380:16ed::/48",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
     "network": "2a0d:d940:201a:e000::/51",
     "continent_code": "NA",
     "country_code": "VG",
@@ -3619,6 +3973,12 @@
   },
   {
     "network": "2406:f380:1:102d::/64",
+    "continent_code": "NA",
+    "country_code": "VG",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "network": "2602:f96d:109:b73d::/64",
     "continent_code": "NA",
     "country_code": "VG",
     "country_name": "British Virgin Islands"

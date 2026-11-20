@@ -3344,6 +3344,14 @@
     "domain": "anexia.at"
   },
   {
+    "network": "2a00:11c0:5c::/48",
+    "asn": "42473",
+    "country_code": "AT",
+    "name": "AS-ANEXIA",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
     "network": "2a00:11c0:61::/48",
     "asn": "42473",
     "country_code": "AT",
@@ -4553,54 +4561,6 @@
   },
   {
     "network": "45.155.244.0/22",
-    "asn": "47692",
-    "country_code": "AT",
-    "name": "NESSUS",
-    "org": "Nessus GmbH",
-    "domain": "nessus.at"
-  },
-  {
-    "network": "46.202.252.0/24",
-    "asn": "47692",
-    "country_code": "AT",
-    "name": "NESSUS",
-    "org": "Nessus GmbH",
-    "domain": "nessus.at"
-  },
-  {
-    "network": "46.203.19.0/24",
-    "asn": "47692",
-    "country_code": "AT",
-    "name": "NESSUS",
-    "org": "Nessus GmbH",
-    "domain": "nessus.at"
-  },
-  {
-    "network": "46.203.59.0/24",
-    "asn": "47692",
-    "country_code": "AT",
-    "name": "NESSUS",
-    "org": "Nessus GmbH",
-    "domain": "nessus.at"
-  },
-  {
-    "network": "46.203.88.0/24",
-    "asn": "47692",
-    "country_code": "AT",
-    "name": "NESSUS",
-    "org": "Nessus GmbH",
-    "domain": "nessus.at"
-  },
-  {
-    "network": "46.203.96.0/24",
-    "asn": "47692",
-    "country_code": "AT",
-    "name": "NESSUS",
-    "org": "Nessus GmbH",
-    "domain": "nessus.at"
-  },
-  {
-    "network": "46.203.134.0/24",
     "asn": "47692",
     "country_code": "AT",
     "name": "NESSUS",
@@ -8101,7 +8061,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "151.242.144.0/24",
@@ -8109,7 +8069,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "185.224.3.0/24",
@@ -8117,7 +8077,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "188.137.158.0/24",
@@ -8125,7 +8085,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "2a14:7c0:f100::/40",
@@ -8133,7 +8093,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "2a14:7c0:f300::/40",
@@ -8141,7 +8101,7 @@
     "country_code": "AT",
     "name": "PIPEHOST-AS",
     "org": "Matteo Fruhwald trading as PipeHost e.U.",
-    "domain": "pipe.email"
+    "domain": "pipehost.net"
   },
   {
     "network": "20.154.66.0/23",
@@ -8545,14 +8505,6 @@
   },
   {
     "network": "193.228.32.0/21",
-    "asn": "1764",
-    "country_code": "AT",
-    "name": "NEXTLAYER-AS",
-    "org": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
-    "domain": "nextlayer.at"
-  },
-  {
-    "network": "193.228.40.0/23",
     "asn": "1764",
     "country_code": "AT",
     "name": "NEXTLAYER-AS",
@@ -11053,7 +11005,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "45.12.97.0/24",
@@ -11061,7 +11013,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "45.12.98.0/24",
@@ -11069,7 +11021,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "46.124.0.0/15",
@@ -11077,7 +11029,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "46.124.128.0/20",
@@ -11085,7 +11037,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "46.124.144.0/20",
@@ -11093,7 +11045,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "46.124.160.0/20",
@@ -11101,7 +11053,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "46.124.192.0/18",
@@ -11109,7 +11061,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "46.125.128.0/19",
@@ -11117,7 +11069,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "62.99.128.0/17",
@@ -11125,7 +11077,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "62.99.128.0/18",
@@ -11133,7 +11085,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "62.99.192.0/18",
@@ -11141,7 +11093,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "62.140.32.0/19",
@@ -11149,7 +11101,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "62.178.0.0/16",
@@ -11157,7 +11109,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "62.178.0.0/17",
@@ -11165,7 +11117,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "62.178.128.0/17",
@@ -11173,7 +11125,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "78.132.0.0/17",
@@ -11181,7 +11133,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "80.108.0.0/15",
@@ -11189,7 +11141,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "80.108.0.0/16",
@@ -11197,7 +11149,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "80.109.0.0/16",
@@ -11205,7 +11157,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "80.109.254.0/24",
@@ -11213,7 +11165,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "80.110.0.0/16",
@@ -11221,7 +11173,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "80.110.0.0/17",
@@ -11229,7 +11181,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "80.110.128.0/17",
@@ -11237,7 +11189,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "80.241.16.0/20",
@@ -11245,7 +11197,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "80.241.16.0/21",
@@ -11253,7 +11205,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "80.241.24.0/21",
@@ -11261,7 +11213,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "81.223.0.0/16",
@@ -11269,7 +11221,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "81.223.0.0/17",
@@ -11277,7 +11229,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "81.223.128.0/17",
@@ -11285,7 +11237,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "83.64.0.0/15",
@@ -11293,7 +11245,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "83.64.0.0/16",
@@ -11301,7 +11253,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "83.65.0.0/16",
@@ -11309,7 +11261,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "84.112.0.0/14",
@@ -11317,7 +11269,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "84.112.0.0/15",
@@ -11325,7 +11277,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "84.114.0.0/15",
@@ -11333,7 +11285,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "85.124.0.0/14",
@@ -11341,7 +11293,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "85.124.0.0/15",
@@ -11349,7 +11301,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "85.126.0.0/15",
@@ -11357,7 +11309,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "85.127.96.0/20",
@@ -11365,7 +11317,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "86.62.32.0/22",
@@ -11373,7 +11325,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "91.118.0.0/15",
@@ -11381,7 +11333,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "91.118.0.0/16",
@@ -11389,7 +11341,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "91.119.0.0/16",
@@ -11397,7 +11349,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "91.208.201.0/24",
@@ -11405,7 +11357,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "91.209.75.0/24",
@@ -11413,7 +11365,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "91.232.163.0/24",
@@ -11421,7 +11373,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "94.16.18.0/23",
@@ -11429,7 +11381,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "94.16.28.0/23",
@@ -11437,7 +11389,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "152.53.234.0/23",
@@ -11445,7 +11397,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "185.26.188.0/24",
@@ -11453,7 +11405,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "185.26.189.0/24",
@@ -11461,7 +11413,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "185.26.190.0/24",
@@ -11469,7 +11421,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "185.35.152.0/22",
@@ -11477,7 +11429,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "185.35.152.0/23",
@@ -11485,7 +11437,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "185.35.154.0/23",
@@ -11493,7 +11445,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "185.81.210.0/23",
@@ -11501,7 +11453,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "185.225.96.0/24",
@@ -11509,7 +11461,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "185.237.168.0/24",
@@ -11517,7 +11469,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "192.94.226.0/24",
@@ -11525,7 +11477,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "193.34.227.0/24",
@@ -11533,7 +11485,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "193.84.112.0/24",
@@ -11541,7 +11493,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "193.104.1.0/24",
@@ -11549,7 +11501,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "193.186.86.0/23",
@@ -11557,7 +11509,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "193.187.248.0/22",
@@ -11565,7 +11517,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "193.227.108.0/24",
@@ -11573,7 +11525,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "194.50.173.0/24",
@@ -11581,7 +11533,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "194.107.224.0/24",
@@ -11589,7 +11541,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "194.113.154.0/24",
@@ -11597,7 +11549,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.20.132.0/24",
@@ -11605,7 +11557,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.34.128.0/23",
@@ -11613,7 +11565,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.34.128.0/24",
@@ -11621,7 +11573,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.34.129.0/24",
@@ -11629,7 +11581,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.34.136.0/21",
@@ -11637,7 +11589,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.34.136.0/22",
@@ -11645,7 +11597,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.34.140.0/22",
@@ -11653,7 +11605,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.34.144.0/20",
@@ -11661,7 +11613,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.34.144.0/21",
@@ -11669,7 +11621,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.34.152.0/21",
@@ -11677,7 +11629,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.58.160.0/19",
@@ -11685,7 +11637,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.58.160.0/20",
@@ -11693,7 +11645,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.58.176.0/20",
@@ -11701,7 +11653,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.95.162.0/24",
@@ -11709,7 +11661,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.190.131.0/24",
@@ -11717,7 +11669,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "195.248.73.0/24",
@@ -11725,7 +11677,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.17.64.0/18",
@@ -11733,7 +11685,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.17.64.0/19",
@@ -11741,7 +11693,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.17.96.0/19",
@@ -11749,7 +11701,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.41.224.0/19",
@@ -11757,7 +11709,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.41.224.0/20",
@@ -11765,7 +11717,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.41.240.0/20",
@@ -11773,7 +11725,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.67.224.0/19",
@@ -11781,7 +11733,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.95.0.0/19",
@@ -11789,7 +11741,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.186.0.0/16",
@@ -11797,7 +11749,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.186.0.0/17",
@@ -11805,7 +11757,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "212.186.128.0/17",
@@ -11813,7 +11765,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.0.0/17",
@@ -11821,7 +11773,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.0.0/18",
@@ -11829,7 +11781,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.64.0/18",
@@ -11837,7 +11789,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.128.0/18",
@@ -11845,7 +11797,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.128.0/19",
@@ -11853,7 +11805,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.160.0/19",
@@ -11861,7 +11813,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.192.0/20",
@@ -11869,7 +11821,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.192.0/21",
@@ -11877,7 +11829,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.200.0/21",
@@ -11885,7 +11837,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.208.0/21",
@@ -11893,7 +11845,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.208.0/22",
@@ -11901,7 +11853,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.212.0/22",
@@ -11909,7 +11861,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.216.0/22",
@@ -11917,7 +11869,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.216.0/23",
@@ -11925,7 +11877,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.218.0/23",
@@ -11933,7 +11885,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.224.0/19",
@@ -11941,7 +11893,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.224.0/20",
@@ -11949,7 +11901,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.47.240.0/20",
@@ -11957,7 +11909,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.142.96.0/19",
@@ -11965,7 +11917,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.162.64.0/19",
@@ -11973,7 +11925,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.162.64.0/20",
@@ -11981,7 +11933,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.162.80.0/20",
@@ -11989,7 +11941,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.229.0.0/18",
@@ -11997,7 +11949,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.229.0.0/19",
@@ -12005,7 +11957,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "213.229.32.0/19",
@@ -12013,7 +11965,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "217.25.112.0/21",
@@ -12021,7 +11973,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "217.25.112.0/22",
@@ -12029,7 +11981,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "217.25.116.0/22",
@@ -12037,7 +11989,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2001:67c:211c::/48",
@@ -12045,7 +11997,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2001:4bc8::/29",
@@ -12053,7 +12005,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8380::/32",
@@ -12061,7 +12013,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8381::/32",
@@ -12069,7 +12021,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8382::/32",
@@ -12077,7 +12029,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8383::/32",
@@ -12085,7 +12037,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8383::/33",
@@ -12093,7 +12045,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8383:1d::/48",
@@ -12101,7 +12053,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8384::/31",
@@ -12109,7 +12061,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8384:8200::/40",
@@ -12117,7 +12069,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388::/29",
@@ -12125,7 +12077,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388::/30",
@@ -12133,7 +12085,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388::/36",
@@ -12141,7 +12093,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:1000::/36",
@@ -12149,7 +12101,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:2000::/36",
@@ -12157,7 +12109,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:3000::/36",
@@ -12165,7 +12117,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:4000::/36",
@@ -12173,7 +12125,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:5000::/36",
@@ -12181,7 +12133,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:6000::/36",
@@ -12189,7 +12141,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:7000::/36",
@@ -12197,7 +12149,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:8000::/36",
@@ -12205,7 +12157,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:9000::/36",
@@ -12213,7 +12165,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:a000::/36",
@@ -12221,7 +12173,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:b000::/36",
@@ -12229,7 +12181,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:c000::/36",
@@ -12237,7 +12189,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:d000::/36",
@@ -12245,7 +12197,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:e000::/36",
@@ -12253,7 +12205,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8388:f000::/36",
@@ -12261,7 +12213,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8389::/36",
@@ -12269,7 +12221,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8389:1000::/36",
@@ -12277,7 +12229,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8389:2000::/36",
@@ -12285,7 +12237,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8389:3000::/36",
@@ -12293,7 +12245,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8389:4000::/36",
@@ -12301,7 +12253,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:8389:5000::/36",
@@ -12309,7 +12261,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:838a::/44",
@@ -12317,7 +12269,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:838a:10::/44",
@@ -12325,7 +12277,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:838a:20::/44",
@@ -12333,7 +12285,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:838a:30::/44",
@@ -12341,7 +12293,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:838a:40::/44",
@@ -12349,7 +12301,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:838a:2100::/40",
@@ -12357,7 +12309,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "2a02:838c::/30",
@@ -12365,7 +12317,7 @@
     "country_code": "AT",
     "name": "TMA",
     "org": "T-Mobile Austria GmbH",
-    "domain": "t-mobile.at"
+    "domain": "magenta.at"
   },
   {
     "network": "45.12.99.0/24",
@@ -12817,6 +12769,14 @@
   },
   {
     "network": "2a0e:a43::/32",
+    "asn": "59645",
+    "country_code": "AT",
+    "name": "WYBT-NET",
+    "org": "Tobias Fiebig",
+    "domain": "as59645.net"
+  },
+  {
+    "network": "2a0e:a45::/32",
     "asn": "59645",
     "country_code": "AT",
     "name": "WYBT-NET",
@@ -14808,14 +14768,6 @@
     "domain": "egger.com"
   },
   {
-    "network": "194.107.95.0/24",
-    "asn": "198211",
-    "country_code": "AT",
-    "name": "EGGER-AS",
-    "org": "Martin Reinberger trading as FRITZ EGGER GmbH & Co. OG",
-    "domain": "egger.com"
-  },
-  {
     "network": "45.151.175.0/24",
     "asn": "57878",
     "country_code": "AT",
@@ -16528,6 +16480,14 @@
     "domain": "pipe.net"
   },
   {
+    "network": "82.108.208.0/24",
+    "asn": "49592",
+    "country_code": "AT",
+    "name": "PIPE-NET",
+    "org": "Pipe Networks GmbH",
+    "domain": "pipe.net"
+  },
+  {
     "network": "83.143.119.0/24",
     "asn": "49592",
     "country_code": "AT",
@@ -17456,6 +17416,14 @@
     "domain": "itandtel.at"
   },
   {
+    "network": "2a02:5e0::/29",
+    "asn": "3330",
+    "country_code": "AT",
+    "name": "PROFINET-AT",
+    "org": "eww ag",
+    "domain": "itandtel.at"
+  },
+  {
     "network": "2a02:5e0::/32",
     "asn": "3330",
     "country_code": "AT",
@@ -17518,6 +17486,22 @@
     "name": "ITANDTEL-CLOUD-AS",
     "org": "eww ag",
     "domain": "itandtel.at"
+  },
+  {
+    "network": "63.251.202.0/24",
+    "asn": "219391",
+    "country_code": "AT",
+    "name": "UPPERCUT-AS",
+    "org": "Ub services FlexCo (Flexible Kapitalgesellschaft)",
+    "domain": "u.at"
+  },
+  {
+    "network": "2a11:b44:c003::/48",
+    "asn": "219391",
+    "country_code": "AT",
+    "name": "UPPERCUT-AS",
+    "org": "Ub services FlexCo (Flexible Kapitalgesellschaft)",
+    "domain": "u.at"
   },
   {
     "network": "64.34.16.0/22",
@@ -18088,14 +18072,6 @@
     "domain": "evolus-ix.com"
   },
   {
-    "network": "89.126.226.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
     "network": "91.227.33.0/24",
     "asn": "215120",
     "country_code": "AT",
@@ -18144,31 +18120,7 @@
     "domain": "evolus-ix.com"
   },
   {
-    "network": "188.220.50.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
     "network": "193.178.186.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "195.72.167.0/24",
-    "asn": "215120",
-    "country_code": "AT",
-    "name": "Evolus-IX",
-    "org": "Evolus IT Solutions GmbH",
-    "domain": "evolus-ix.com"
-  },
-  {
-    "network": "201.3.224.0/24",
     "asn": "215120",
     "country_code": "AT",
     "name": "Evolus-IX",
@@ -19744,6 +19696,14 @@
     "domain": "gartnerkg.com"
   },
   {
+    "network": "80.224.255.0/24",
+    "asn": "219355",
+    "country_code": "AT",
+    "name": "iavo",
+    "org": "Johannes Humer trading as Internet Anbieter Vereinigung Oesterreich",
+    "domain": "weti.net"
+  },
+  {
     "network": "80.243.160.0/20",
     "asn": "21013",
     "country_code": "AT",
@@ -19833,6 +19793,14 @@
   },
   {
     "network": "2001:67c:c98::/48",
+    "asn": "21013",
+    "country_code": "AT",
+    "name": "ITANDTEL-AS",
+    "org": "eww ag",
+    "domain": "itandtel.at"
+  },
+  {
+    "network": "2a02:940::/29",
     "asn": "21013",
     "country_code": "AT",
     "name": "ITANDTEL-AS",
@@ -21777,6 +21745,14 @@
   },
   {
     "network": "188.137.157.0/24",
+    "asn": "216416",
+    "country_code": "AT",
+    "name": "Evolus-Fibre",
+    "org": "Evolus IT Solutions GmbH",
+    "domain": "evolusfibre.com"
+  },
+  {
+    "network": "193.42.152.0/24",
     "asn": "216416",
     "country_code": "AT",
     "name": "Evolus-Fibre",
@@ -25977,6 +25953,14 @@
   },
   {
     "network": "176.97.158.0/24",
+    "asn": "207021",
+    "country_code": "AT",
+    "name": "RCODEZERO-ANYCAST-SEC2",
+    "org": "ipcom GmbH",
+    "domain": "nic.at"
+  },
+  {
+    "network": "185.80.189.0/24",
     "asn": "207021",
     "country_code": "AT",
     "name": "RCODEZERO-ANYCAST-SEC2",
@@ -32640,14 +32624,6 @@
     "domain": "sm00th.me"
   },
   {
-    "network": "2a06:1281:53::/48",
-    "asn": "205163",
-    "country_code": "AT",
-    "name": "OCTIGNITE",
-    "org": "Sergey Proshutinskiy",
-    "domain": "sm00th.me"
-  },
-  {
     "network": "2a06:1281:54::/48",
     "asn": "205163",
     "country_code": "AT",
@@ -32672,22 +32648,6 @@
     "domain": "sm00th.me"
   },
   {
-    "network": "2a0f:85c1:d6e::/48",
-    "asn": "205163",
-    "country_code": "AT",
-    "name": "OCTIGNITE",
-    "org": "Sergey Proshutinskiy",
-    "domain": "sm00th.me"
-  },
-  {
-    "network": "2a0f:b240:5f00::/40",
-    "asn": "205163",
-    "country_code": "AT",
-    "name": "OCTIGNITE",
-    "org": "Sergey Proshutinskiy",
-    "domain": "sm00th.me"
-  },
-  {
     "network": "2a06:1283:c050::/44",
     "asn": "197634",
     "country_code": "AT",
@@ -32702,14 +32662,6 @@
     "name": "ALECH",
     "org": "Alec Hoefler",
     "domain": "a-hoefler.eu"
-  },
-  {
-    "network": "2a06:9801:7ff::/48",
-    "asn": "219214",
-    "country_code": "AT",
-    "name": "REDUX1",
-    "org": "Tobias Kickinger",
-    "domain": "redux1.net"
   },
   {
     "network": "2a07:1740::/29",
@@ -32732,6 +32684,70 @@
     "asn": "198686",
     "country_code": "AT",
     "name": "INTINF-AS",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:1000::/36",
+    "asn": "218176",
+    "country_code": "AT",
+    "name": "II-RTLB-01",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:2000::/36",
+    "asn": "218177",
+    "country_code": "AT",
+    "name": "II-RTLB-02",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:3000::/36",
+    "asn": "218178",
+    "country_code": "AT",
+    "name": "II-RTLB-03",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:4000::/36",
+    "asn": "218179",
+    "country_code": "AT",
+    "name": "II-RTLB-04",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:5000::/36",
+    "asn": "218180",
+    "country_code": "AT",
+    "name": "II-RTLB-05",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:6000::/36",
+    "asn": "218181",
+    "country_code": "AT",
+    "name": "II-RTLB-06",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:7000::/36",
+    "asn": "218182",
+    "country_code": "AT",
+    "name": "II-RTLB-07",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:8000::/36",
+    "asn": "218183",
+    "country_code": "AT",
+    "name": "II-RTLB-08",
     "org": "Technische Universitaet Wien",
     "domain": "tuwien.ac.at"
   },
@@ -32766,14 +32782,6 @@
     "name": "DTGBS2-AT",
     "org": "Deutsche Telekom Global Business Solutions GmbH",
     "domain": "telekom.com"
-  },
-  {
-    "network": "2a11:b44:c003::/48",
-    "asn": "219391",
-    "country_code": "AT",
-    "name": "UPPERCUT-AS",
-    "org": "Ub services FlexCo (Flexible Kapitalgesellschaft)",
-    "domain": "u.at"
   },
   {
     "network": "2a11:b44:c004::/48",

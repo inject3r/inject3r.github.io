@@ -336,6 +336,14 @@
     "domain": "senko.digital"
   },
   {
+    "network": "152.234.240.0/22",
+    "asn": "213520",
+    "country_code": "GE",
+    "name": "SENKO-AS",
+    "org": "Senko Digital LLC",
+    "domain": "senko.digital"
+  },
+  {
     "network": "152.234.244.0/22",
     "asn": "213520",
     "country_code": "GE",
@@ -720,14 +728,6 @@
     "domain": "skynet.ge"
   },
   {
-    "network": "5.10.38.0/24",
-    "asn": "199045",
-    "country_code": "GE",
-    "name": "SKYNET-AS",
-    "org": "LTD Sky-Net",
-    "domain": "skynet.ge"
-  },
-  {
     "network": "5.10.39.0/24",
     "asn": "199045",
     "country_code": "GE",
@@ -841,30 +841,6 @@
   },
   {
     "network": "93.190.247.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "95.85.236.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "95.85.237.0/24",
-    "asn": "200823",
-    "country_code": "GE",
-    "name": "MHost-AS",
-    "org": "MHost LLC",
-    "domain": "mhost.ee"
-  },
-  {
-    "network": "95.85.239.0/24",
     "asn": "200823",
     "country_code": "GE",
     "name": "MHost-AS",
@@ -1184,6 +1160,22 @@
     "domain": "silknet.com"
   },
   {
+    "network": "31.146.98.0/24",
+    "asn": "35805",
+    "country_code": "GE",
+    "name": "SILKNET-AS",
+    "org": "JSC \"Silknet\"",
+    "domain": "silknet.com"
+  },
+  {
+    "network": "31.146.145.0/24",
+    "asn": "35805",
+    "country_code": "GE",
+    "name": "SILKNET-AS",
+    "org": "JSC \"Silknet\"",
+    "domain": "silknet.com"
+  },
+  {
     "network": "31.146.219.0/24",
     "asn": "35805",
     "country_code": "GE",
@@ -1296,14 +1288,6 @@
     "domain": "silknet.com"
   },
   {
-    "network": "92.54.221.0/24",
-    "asn": "35805",
-    "country_code": "GE",
-    "name": "SILKNET-AS",
-    "org": "JSC \"Silknet\"",
-    "domain": "silknet.com"
-  },
-  {
     "network": "92.241.64.0/19",
     "asn": "35805",
     "country_code": "GE",
@@ -1321,14 +1305,6 @@
   },
   {
     "network": "94.43.37.0/24",
-    "asn": "35805",
-    "country_code": "GE",
-    "name": "SILKNET-AS",
-    "org": "JSC \"Silknet\"",
-    "domain": "silknet.com"
-  },
-  {
-    "network": "94.43.91.0/24",
     "asn": "35805",
     "country_code": "GE",
     "name": "SILKNET-AS",
@@ -2560,6 +2536,14 @@
     "domain": "geokomi.net"
   },
   {
+    "network": "193.109.169.0/24",
+    "asn": "197328",
+    "country_code": "GE",
+    "name": "ISTANBULDC1",
+    "org": "GEOCOM LLC",
+    "domain": "geokomi.net"
+  },
+  {
     "network": "13.143.144.0/24",
     "asn": "219010",
     "country_code": "GE",
@@ -3680,14 +3664,6 @@
     "domain": "wuldi.com"
   },
   {
-    "network": "95.85.238.0/24",
-    "asn": "218688",
-    "country_code": "GE",
-    "name": "WL661-AS",
-    "org": "WULDI LLC",
-    "domain": "wuldi.com"
-  },
-  {
     "network": "185.102.115.0/24",
     "asn": "218688",
     "country_code": "GE",
@@ -4536,6 +4512,38 @@
     "domain": ""
   },
   {
+    "network": "62.106.90.0/24",
+    "asn": "199242",
+    "country_code": "GE",
+    "name": "malakmadze",
+    "org": "Malakmadze Web LLC",
+    "domain": ""
+  },
+  {
+    "network": "62.233.61.0/24",
+    "asn": "199242",
+    "country_code": "GE",
+    "name": "malakmadze",
+    "org": "Malakmadze Web LLC",
+    "domain": ""
+  },
+  {
+    "network": "185.252.210.0/24",
+    "asn": "199242",
+    "country_code": "GE",
+    "name": "malakmadze",
+    "org": "Malakmadze Web LLC",
+    "domain": ""
+  },
+  {
+    "network": "194.26.230.0/24",
+    "asn": "199242",
+    "country_code": "GE",
+    "name": "malakmadze",
+    "org": "Malakmadze Web LLC",
+    "domain": ""
+  },
+  {
     "network": "62.3.30.0/24",
     "asn": "209743",
     "country_code": "GE",
@@ -4753,6 +4761,14 @@
   },
   {
     "network": "72.56.51.0/24",
+    "asn": "209183",
+    "country_code": "GE",
+    "name": "AkhaliNet-as",
+    "org": "AkhaliNet LLC",
+    "domain": "ulta.team"
+  },
+  {
+    "network": "72.56.56.0/24",
     "asn": "209183",
     "country_code": "GE",
     "name": "AkhaliNet-as",
@@ -6481,6 +6497,14 @@
   },
   {
     "network": "144.31.24.0/24",
+    "asn": "205089",
+    "country_code": "GE",
+    "name": "ALFAHOST",
+    "org": "Alfahost LLC",
+    "domain": "alfahost.io"
+  },
+  {
+    "network": "144.31.45.0/24",
     "asn": "205089",
     "country_code": "GE",
     "name": "ALFAHOST",

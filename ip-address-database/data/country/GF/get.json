@@ -78,7 +78,7 @@
     "country_name": "French Guiana"
   },
   {
-    "network": "82.123.136.0/21",
+    "network": "82.123.128.0/20",
     "continent_code": "SA",
     "country_code": "GF",
     "country_name": "French Guiana"
@@ -90,19 +90,13 @@
     "country_name": "French Guiana"
   },
   {
-    "network": "82.123.160.0/20",
-    "continent_code": "SA",
-    "country_code": "GF",
-    "country_name": "French Guiana"
-  },
-  {
     "network": "82.123.184.0/21",
     "continent_code": "SA",
     "country_code": "GF",
     "country_name": "French Guiana"
   },
   {
-    "network": "82.123.224.0/19",
+    "network": "82.123.240.0/20",
     "continent_code": "SA",
     "country_code": "GF",
     "country_name": "French Guiana"
@@ -354,7 +348,7 @@
     "country_name": "French Guiana"
   },
   {
-    "network": "92.142.72.0/21",
+    "network": "92.142.64.0/20",
     "continent_code": "SA",
     "country_code": "GF",
     "country_name": "French Guiana"
@@ -498,13 +492,7 @@
     "country_name": "French Guiana"
   },
   {
-    "network": "93.176.56.0/24",
-    "continent_code": "SA",
-    "country_code": "GF",
-    "country_name": "French Guiana"
-  },
-  {
-    "network": "93.176.57.0/25",
+    "network": "93.176.56.0/23",
     "continent_code": "SA",
     "country_code": "GF",
     "country_name": "French Guiana"
@@ -858,25 +846,25 @@
     "country_name": "French Guiana"
   },
   {
-    "network": "193.220.88.0/21",
+    "network": "193.220.88.0/22",
     "continent_code": "SA",
     "country_code": "GF",
     "country_name": "French Guiana"
   },
   {
-    "network": "193.251.163.0/24",
+    "network": "193.220.92.0/23",
+    "continent_code": "SA",
+    "country_code": "GF",
+    "country_name": "French Guiana"
+  },
+  {
+    "network": "193.220.95.0/24",
     "continent_code": "SA",
     "country_code": "GF",
     "country_name": "French Guiana"
   },
   {
     "network": "193.251.231.122/32",
-    "continent_code": "SA",
-    "country_code": "GF",
-    "country_name": "French Guiana"
-  },
-  {
-    "network": "194.50.99.81/32",
     "continent_code": "SA",
     "country_code": "GF",
     "country_name": "French Guiana"
@@ -1362,6 +1350,12 @@
     "country_name": "French Guiana"
   },
   {
+    "network": "2a14:c380:164e::/48",
+    "continent_code": "SA",
+    "country_code": "GF",
+    "country_name": "French Guiana"
+  },
+  {
     "network": "2a0c:9a40:95b4:c000::/52",
     "continent_code": "SA",
     "country_code": "GF",
@@ -1423,6 +1417,12 @@
   },
   {
     "network": "2401:3620:232:59::/64",
+    "continent_code": "SA",
+    "country_code": "GF",
+    "country_name": "French Guiana"
+  },
+  {
+    "network": "2602:f96d:10b:874f::/64",
     "continent_code": "SA",
     "country_code": "GF",
     "country_name": "French Guiana"

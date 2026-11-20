@@ -304,7 +304,7 @@
     "domain": "liquid.tech"
   },
   {
-    "network": "41.173.220.0/22",
+    "network": "41.173.220.0/24",
     "asn": "37332",
     "country_code": "ZW",
     "name": "ZOL",
@@ -1377,6 +1377,14 @@
   },
   {
     "network": "196.43.105.0/24",
+    "asn": "37183",
+    "country_code": "ZW",
+    "name": "UTANDE",
+    "org": "Utande Internet Services (Pvt) Ltd",
+    "domain": "dandemutande.co.zw"
+  },
+  {
+    "network": "196.43.106.0/23",
     "asn": "37183",
     "country_code": "ZW",
     "name": "UTANDE",
@@ -3166,5 +3174,13 @@
     "name": "NUoS-ASN",
     "org": "National University of Science and Technology",
     "domain": "nust.ac.zw"
+  },
+  {
+    "network": "197.157.204.0/22",
+    "asn": "329425",
+    "country_code": "ZW",
+    "name": "Tagtel-Communications",
+    "org": "Tagtel Communications (Pvt) Ltd",
+    "domain": "tagtelzw.com"
   }
 ]

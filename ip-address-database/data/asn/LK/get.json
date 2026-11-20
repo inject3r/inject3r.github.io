@@ -1,13 +1,5 @@
 [
   {
-    "network": "5.157.88.0/24",
-    "asn": "18066",
-    "country_code": "LK",
-    "name": "TCLL-AS-AP",
-    "org": "Tata Communications Lanka Ltd",
-    "domain": ""
-  },
-  {
     "network": "14.140.56.0/21",
     "asn": "18066",
     "country_code": "LK",
@@ -432,6 +424,14 @@
     "domain": "dialog.lk"
   },
   {
+    "network": "125.214.182.0/24",
+    "asn": "18001",
+    "country_code": "LK",
+    "name": "DIALOG-AS",
+    "org": "Dialog Axiata Plc",
+    "domain": "dialog.lk"
+  },
+  {
     "network": "125.214.186.0/24",
     "asn": "18001",
     "country_code": "LK",
@@ -441,6 +441,14 @@
   },
   {
     "network": "125.214.187.0/24",
+    "asn": "18001",
+    "country_code": "LK",
+    "name": "DIALOG-AS",
+    "org": "Dialog Axiata Plc",
+    "domain": "dialog.lk"
+  },
+  {
+    "network": "125.214.190.0/24",
     "asn": "18001",
     "country_code": "LK",
     "name": "DIALOG-AS",
@@ -585,6 +593,22 @@
   },
   {
     "network": "175.157.128.0/20",
+    "asn": "18001",
+    "country_code": "LK",
+    "name": "DIALOG-AS",
+    "org": "Dialog Axiata Plc",
+    "domain": "dialog.lk"
+  },
+  {
+    "network": "175.157.128.0/21",
+    "asn": "18001",
+    "country_code": "LK",
+    "name": "DIALOG-AS",
+    "org": "Dialog Axiata Plc",
+    "domain": "dialog.lk"
+  },
+  {
+    "network": "175.157.136.0/21",
     "asn": "18001",
     "country_code": "LK",
     "name": "DIALOG-AS",
@@ -3120,6 +3144,14 @@
     "domain": "lankacom.net"
   },
   {
+    "network": "203.143.45.0/24",
+    "asn": "5087",
+    "country_code": "LK",
+    "name": "LANKA-COM",
+    "org": "Lanka Communication Services (Pvt) Ltd.",
+    "domain": "lankacom.net"
+  },
+  {
     "network": "203.143.46.0/24",
     "asn": "5087",
     "country_code": "LK",
@@ -4216,14 +4248,6 @@
     "domain": "slt.lk"
   },
   {
-    "network": "124.43.162.0/24",
-    "asn": "9329",
-    "country_code": "LK",
-    "name": "SLTINT-AS-AP",
-    "org": "Sri Lanka Telecom Ltd",
-    "domain": "slt.lk"
-  },
-  {
     "network": "203.81.99.0/24",
     "asn": "9329",
     "country_code": "LK",
@@ -4873,6 +4897,22 @@
   },
   {
     "network": "203.96.160.0/23",
+    "asn": "138984",
+    "country_code": "LK",
+    "name": "SLT-NW2",
+    "org": "Sri Lanka Telecom Ltd",
+    "domain": "slt.lk"
+  },
+  {
+    "network": "2402:d000:10e0::/44",
+    "asn": "138984",
+    "country_code": "LK",
+    "name": "SLT-NW2",
+    "org": "Sri Lanka Telecom Ltd",
+    "domain": "slt.lk"
+  },
+  {
+    "network": "2402:d000:10f0::/44",
     "asn": "138984",
     "country_code": "LK",
     "name": "SLT-NW2",

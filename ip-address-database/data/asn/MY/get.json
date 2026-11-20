@@ -2472,14 +2472,6 @@
     "domain": ""
   },
   {
-    "network": "210.187.192.0/19",
-    "asn": "4788",
-    "country_code": "MY",
-    "name": "TTSSB-MY",
-    "org": "TM TECHNOLOGY SERVICES SDN BHD",
-    "domain": ""
-  },
-  {
     "network": "210.187.224.0/19",
     "asn": "4788",
     "country_code": "MY",
@@ -3448,14 +3440,6 @@
     "domain": "cnc-int.com"
   },
   {
-    "network": "14.192.67.0/24",
-    "asn": "55720",
-    "country_code": "MY",
-    "name": "GIGABIT-MY",
-    "org": "Gigabit Hosting Sdn Bhd",
-    "domain": "cnc-int.com"
-  },
-  {
     "network": "14.192.68.0/24",
     "asn": "55720",
     "country_code": "MY",
@@ -3465,22 +3449,6 @@
   },
   {
     "network": "14.192.69.0/24",
-    "asn": "55720",
-    "country_code": "MY",
-    "name": "GIGABIT-MY",
-    "org": "Gigabit Hosting Sdn Bhd",
-    "domain": "cnc-int.com"
-  },
-  {
-    "network": "43.239.178.0/24",
-    "asn": "55720",
-    "country_code": "MY",
-    "name": "GIGABIT-MY",
-    "org": "Gigabit Hosting Sdn Bhd",
-    "domain": "cnc-int.com"
-  },
-  {
-    "network": "43.246.174.0/24",
     "asn": "55720",
     "country_code": "MY",
     "name": "GIGABIT-MY",
@@ -4113,22 +4081,6 @@
   },
   {
     "network": "103.21.91.0/24",
-    "asn": "55720",
-    "country_code": "MY",
-    "name": "GIGABIT-MY",
-    "org": "Gigabit Hosting Sdn Bhd",
-    "domain": "cnc-int.com"
-  },
-  {
-    "network": "103.23.46.0/24",
-    "asn": "55720",
-    "country_code": "MY",
-    "name": "GIGABIT-MY",
-    "org": "Gigabit Hosting Sdn Bhd",
-    "domain": "cnc-int.com"
-  },
-  {
-    "network": "103.23.47.0/24",
     "asn": "55720",
     "country_code": "MY",
     "name": "GIGABIT-MY",
@@ -8400,14 +8352,6 @@
     "domain": "maxis.com.my"
   },
   {
-    "network": "113.211.128.0/21",
-    "asn": "9534",
-    "country_code": "MY",
-    "name": "MAXIS-AS1-AP",
-    "org": "Maxis Broadband Sdn Bhd",
-    "domain": "maxis.com.my"
-  },
-  {
     "network": "113.211.136.0/21",
     "asn": "9534",
     "country_code": "MY",
@@ -8761,6 +8705,14 @@
   },
   {
     "network": "23.26.20.0/24",
+    "asn": "149440",
+    "country_code": "MY",
+    "name": "EVOXTSDNBHD-AS-AP",
+    "org": "Evoxt Sdn. Bhd.",
+    "domain": "evoxt.com"
+  },
+  {
+    "network": "23.26.23.0/24",
     "asn": "149440",
     "country_code": "MY",
     "name": "EVOXTSDNBHD-AS-AP",
@@ -10320,14 +10272,6 @@
     "domain": "evoxt.com"
   },
   {
-    "network": "2400:8d60:12::/48",
-    "asn": "149440",
-    "country_code": "MY",
-    "name": "EVOXTSDNBHD-AS-AP",
-    "org": "Evoxt Sdn. Bhd.",
-    "domain": "evoxt.com"
-  },
-  {
     "network": "2400:8d60:13::/48",
     "asn": "149440",
     "country_code": "MY",
@@ -10568,14 +10512,6 @@
     "domain": "agarto.com"
   },
   {
-    "network": "27.121.109.0/24",
-    "asn": "56111",
-    "country_code": "MY",
-    "name": "AGARTO-MY",
-    "org": "Agarto Sdn Bhd",
-    "domain": "agarto.com"
-  },
-  {
     "network": "27.121.110.0/24",
     "asn": "56111",
     "country_code": "MY",
@@ -10633,6 +10569,14 @@
   },
   {
     "network": "27.125.225.0/24",
+    "asn": "38466",
+    "country_code": "MY",
+    "name": "UMOBILE-AS-AP",
+    "org": "U Mobile Sdn Bhd",
+    "domain": "u.com.my"
+  },
+  {
+    "network": "27.125.226.0/24",
     "asn": "38466",
     "country_code": "MY",
     "name": "UMOBILE-AS-AP",
@@ -15304,6 +15248,14 @@
     "domain": "greatforti.com"
   },
   {
+    "network": "149.71.120.0/24",
+    "asn": "133847",
+    "country_code": "MY",
+    "name": "ICT-AS-AP",
+    "org": "Anpple Tech Enterprise",
+    "domain": "greatforti.com"
+  },
+  {
     "network": "149.71.121.0/24",
     "asn": "133847",
     "country_code": "MY",
@@ -16248,6 +16200,14 @@
     "domain": "greatforti.com"
   },
   {
+    "network": "2402:4ba0:100::/48",
+    "asn": "133847",
+    "country_code": "MY",
+    "name": "ICT-AS-AP",
+    "org": "Anpple Tech Enterprise",
+    "domain": "greatforti.com"
+  },
+  {
     "network": "2402:4ba0:1e0::/48",
     "asn": "133847",
     "country_code": "MY",
@@ -16681,6 +16641,30 @@
   },
   {
     "network": "66.212.59.0/24",
+    "asn": "153706",
+    "country_code": "MY",
+    "name": "STACKNETWORK-AS-AP",
+    "org": "Stack Network Sdn. Bhd.",
+    "domain": "stackpork.com"
+  },
+  {
+    "network": "82.24.98.0/23",
+    "asn": "153706",
+    "country_code": "MY",
+    "name": "STACKNETWORK-AS-AP",
+    "org": "Stack Network Sdn. Bhd.",
+    "domain": "stackpork.com"
+  },
+  {
+    "network": "82.24.98.0/24",
+    "asn": "153706",
+    "country_code": "MY",
+    "name": "STACKNETWORK-AS-AP",
+    "org": "Stack Network Sdn. Bhd.",
+    "domain": "stackpork.com"
+  },
+  {
+    "network": "82.24.99.0/24",
     "asn": "153706",
     "country_code": "MY",
     "name": "STACKNETWORK-AS-AP",
@@ -30416,14 +30400,6 @@
     "domain": "mcds.com.my"
   },
   {
-    "network": "103.142.54.0/24",
-    "asn": "139605",
-    "country_code": "MY",
-    "name": "MCDS-AS-AP",
-    "org": "MCDS SOFTWARE (M) SDN BHD",
-    "domain": "mcds.com.my"
-  },
-  {
     "network": "103.150.156.0/23",
     "asn": "139605",
     "country_code": "MY",
@@ -34312,6 +34288,14 @@
     "domain": "makan.cc"
   },
   {
+    "network": "2a0f:6284:7a::/48",
+    "asn": "198679",
+    "country_code": "MY",
+    "name": "MRF",
+    "org": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
+    "domain": "makan.cc"
+  },
+  {
     "network": "2a0f:1cc5:3100::/48",
     "asn": "199750",
     "country_code": "MY",
@@ -34345,6 +34329,14 @@
   },
   {
     "network": "2a0f:1cc5:3104::/48",
+    "asn": "199750",
+    "country_code": "MY",
+    "name": "SHENMING-AS",
+    "org": "Ch'ng Shen Ming",
+    "domain": "shenming.my"
+  },
+  {
+    "network": "2a0f:1cc5:3105::/48",
     "asn": "199750",
     "country_code": "MY",
     "name": "SHENMING-AS",
