@@ -13136,6 +13136,14 @@
     "domain": "opnet.it"
   },
   {
+    "network": "51.179.16.0/20",
+    "asn": "198471",
+    "country_code": "IT",
+    "name": "OPNET-AS",
+    "org": "Opnet Srl",
+    "domain": "opnet.it"
+  },
+  {
     "network": "51.179.32.0/24",
     "asn": "198471",
     "country_code": "IT",
@@ -26280,6 +26288,14 @@
     "domain": "aruba.it"
   },
   {
+    "network": "89.46.110.0/24",
+    "asn": "31034",
+    "country_code": "IT",
+    "name": "ARUBA-ASN",
+    "org": "Aruba S.p.A.",
+    "domain": "aruba.it"
+  },
+  {
     "network": "89.46.192.0/21",
     "asn": "31034",
     "country_code": "IT",
@@ -27753,6 +27769,14 @@
   },
   {
     "network": "37.235.169.0/24",
+    "asn": "198180",
+    "country_code": "IT",
+    "name": "Gabriele-Sabatino",
+    "org": "Gabriele Sabatino",
+    "domain": "as198180.net"
+  },
+  {
+    "network": "37.235.175.0/24",
     "asn": "198180",
     "country_code": "IT",
     "name": "Gabriele-Sabatino",
@@ -31800,14 +31824,6 @@
     "domain": "netjoin.it"
   },
   {
-    "network": "2a12:e6c0::/48",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin Srl",
-    "domain": "netjoin.it"
-  },
-  {
     "network": "2a12:e6c0:1::/48",
     "asn": "64445",
     "country_code": "IT",
@@ -31817,14 +31833,6 @@
   },
   {
     "network": "2a12:e6c0:c50::/48",
-    "asn": "64445",
-    "country_code": "IT",
-    "name": "AS-NETJOIN",
-    "org": "NetJoin Srl",
-    "domain": "netjoin.it"
-  },
-  {
-    "network": "2a12:e6c0:1337::/48",
     "asn": "64445",
     "country_code": "IT",
     "name": "AS-NETJOIN",
@@ -56544,14 +56552,6 @@
     "domain": "fiber23.it"
   },
   {
-    "network": "86.107.182.0/24",
-    "asn": "57142",
-    "country_code": "IT",
-    "name": "AS-FIBER23",
-    "org": "Fiber 23 SRL",
-    "domain": "fiber23.it"
-  },
-  {
     "network": "89.32.185.0/24",
     "asn": "57142",
     "country_code": "IT",
@@ -59057,6 +59057,14 @@
   },
   {
     "network": "185.76.100.0/22",
+    "asn": "43279",
+    "country_code": "IT",
+    "name": "TELESPAZIO-AS",
+    "org": "Telespazio S.p.A.",
+    "domain": "telespazio.com"
+  },
+  {
+    "network": "185.76.101.0/24",
     "asn": "43279",
     "country_code": "IT",
     "name": "TELESPAZIO-AS",
@@ -64048,6 +64056,46 @@
     "domain": "digisat.it"
   },
   {
+    "network": "130.0.208.0/21",
+    "asn": "199237",
+    "country_code": "IT",
+    "name": "EuroReti-Srl",
+    "org": "EuroReti S.r.l.",
+    "domain": ""
+  },
+  {
+    "network": "130.0.209.0/24",
+    "asn": "199237",
+    "country_code": "IT",
+    "name": "EuroReti-Srl",
+    "org": "EuroReti S.r.l.",
+    "domain": ""
+  },
+  {
+    "network": "130.0.211.0/24",
+    "asn": "199237",
+    "country_code": "IT",
+    "name": "EuroReti-Srl",
+    "org": "EuroReti S.r.l.",
+    "domain": ""
+  },
+  {
+    "network": "130.0.212.0/24",
+    "asn": "199237",
+    "country_code": "IT",
+    "name": "EuroReti-Srl",
+    "org": "EuroReti S.r.l.",
+    "domain": ""
+  },
+  {
+    "network": "185.101.212.0/22",
+    "asn": "199237",
+    "country_code": "IT",
+    "name": "EuroReti-Srl",
+    "org": "EuroReti S.r.l.",
+    "domain": ""
+  },
+  {
     "network": "130.117.235.0/24",
     "asn": "200108",
     "country_code": "IT",
@@ -67384,6 +67432,14 @@
     "domain": "as59715.net"
   },
   {
+    "network": "185.5.200.0/23",
+    "asn": "59715",
+    "country_code": "IT",
+    "name": "SBTAP-AS",
+    "org": "Comune di San Benedetto del Tronto",
+    "domain": "as59715.net"
+  },
+  {
     "network": "185.5.202.0/24",
     "asn": "59715",
     "country_code": "IT",
@@ -67392,7 +67448,23 @@
     "domain": "as59715.net"
   },
   {
+    "network": "185.5.203.0/24",
+    "asn": "59715",
+    "country_code": "IT",
+    "name": "SBTAP-AS",
+    "org": "Comune di San Benedetto del Tronto",
+    "domain": "as59715.net"
+  },
+  {
     "network": "2a02:cdc0::/29",
+    "asn": "59715",
+    "country_code": "IT",
+    "name": "SBTAP-AS",
+    "org": "Comune di San Benedetto del Tronto",
+    "domain": "as59715.net"
+  },
+  {
+    "network": "2a02:cdc6:3074::/48",
     "asn": "59715",
     "country_code": "IT",
     "name": "SBTAP-AS",
@@ -76968,14 +77040,6 @@
     "domain": "windnet.it"
   },
   {
-    "network": "212.94.130.0/23",
-    "asn": "25301",
-    "country_code": "IT",
-    "name": "WINDNET-AS",
-    "org": "Sr Net S.R.L.",
-    "domain": "windnet.it"
-  },
-  {
     "network": "212.94.132.0/23",
     "asn": "25301",
     "country_code": "IT",
@@ -77608,7 +77672,31 @@
     "domain": "uniplan.it"
   },
   {
+    "network": "217.20.0.0/24",
+    "asn": "198387",
+    "country_code": "IT",
+    "name": "UNIPLAN",
+    "org": "Uniplan Software S.r.l.",
+    "domain": "uniplan.it"
+  },
+  {
+    "network": "217.20.1.0/24",
+    "asn": "198387",
+    "country_code": "IT",
+    "name": "UNIPLAN",
+    "org": "Uniplan Software S.r.l.",
+    "domain": "uniplan.it"
+  },
+  {
     "network": "217.20.2.0/24",
+    "asn": "198387",
+    "country_code": "IT",
+    "name": "UNIPLAN",
+    "org": "Uniplan Software S.r.l.",
+    "domain": "uniplan.it"
+  },
+  {
+    "network": "217.20.3.0/24",
     "asn": "198387",
     "country_code": "IT",
     "name": "UNIPLAN",

@@ -48,7 +48,7 @@
     "domain": "columbia.edu"
   },
   {
-    "network": "184.164.251.0/24",
+    "network": "184.164.255.0/24",
     "asn": "47065",
     "country_code": "US",
     "name": "PEERING-RESEARCH-TESTBED-USC-UFMG-AS47065",
@@ -56,7 +56,7 @@
     "domain": "columbia.edu"
   },
   {
-    "network": "184.164.255.0/24",
+    "network": "204.9.170.0/24",
     "asn": "47065",
     "country_code": "US",
     "name": "PEERING-RESEARCH-TESTBED-USC-UFMG-AS47065",
@@ -73,6 +73,14 @@
   },
   {
     "network": "2804:269c::/48",
+    "asn": "47065",
+    "country_code": "US",
+    "name": "PEERING-RESEARCH-TESTBED-USC-UFMG-AS47065",
+    "org": "USC / UFMG PEERING Research Testbed",
+    "domain": "columbia.edu"
+  },
+  {
+    "network": "2804:269c:1::/48",
     "asn": "47065",
     "country_code": "US",
     "name": "PEERING-RESEARCH-TESTBED-USC-UFMG-AS47065",
@@ -113,6 +121,22 @@
   },
   {
     "network": "2804:269c:13::/48",
+    "asn": "47065",
+    "country_code": "US",
+    "name": "PEERING-RESEARCH-TESTBED-USC-UFMG-AS47065",
+    "org": "USC / UFMG PEERING Research Testbed",
+    "domain": "columbia.edu"
+  },
+  {
+    "network": "2804:269c:14::/46",
+    "asn": "47065",
+    "country_code": "US",
+    "name": "PEERING-RESEARCH-TESTBED-USC-UFMG-AS47065",
+    "org": "USC / UFMG PEERING Research Testbed",
+    "domain": "columbia.edu"
+  },
+  {
+    "network": "2804:269c:14::/48",
     "asn": "47065",
     "country_code": "US",
     "name": "PEERING-RESEARCH-TESTBED-USC-UFMG-AS47065",

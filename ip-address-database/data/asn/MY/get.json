@@ -2472,14 +2472,6 @@
     "domain": ""
   },
   {
-    "network": "210.187.192.0/19",
-    "asn": "4788",
-    "country_code": "MY",
-    "name": "TTSSB-MY",
-    "org": "TM TECHNOLOGY SERVICES SDN BHD",
-    "domain": ""
-  },
-  {
     "network": "210.187.224.0/19",
     "asn": "4788",
     "country_code": "MY",
@@ -8360,14 +8352,6 @@
     "domain": "maxis.com.my"
   },
   {
-    "network": "113.211.128.0/21",
-    "asn": "9534",
-    "country_code": "MY",
-    "name": "MAXIS-AS1-AP",
-    "org": "Maxis Broadband Sdn Bhd",
-    "domain": "maxis.com.my"
-  },
-  {
     "network": "113.211.136.0/21",
     "asn": "9534",
     "country_code": "MY",
@@ -10281,14 +10265,6 @@
   },
   {
     "network": "2400:8d60:11::/48",
-    "asn": "149440",
-    "country_code": "MY",
-    "name": "EVOXTSDNBHD-AS-AP",
-    "org": "Evoxt Sdn. Bhd.",
-    "domain": "evoxt.com"
-  },
-  {
-    "network": "2400:8d60:12::/48",
     "asn": "149440",
     "country_code": "MY",
     "name": "EVOXTSDNBHD-AS-AP",
@@ -16673,6 +16649,22 @@
   },
   {
     "network": "82.24.98.0/23",
+    "asn": "153706",
+    "country_code": "MY",
+    "name": "STACKNETWORK-AS-AP",
+    "org": "Stack Network Sdn. Bhd.",
+    "domain": "stackpork.com"
+  },
+  {
+    "network": "82.24.98.0/24",
+    "asn": "153706",
+    "country_code": "MY",
+    "name": "STACKNETWORK-AS-AP",
+    "org": "Stack Network Sdn. Bhd.",
+    "domain": "stackpork.com"
+  },
+  {
+    "network": "82.24.99.0/24",
     "asn": "153706",
     "country_code": "MY",
     "name": "STACKNETWORK-AS-AP",
@@ -30408,14 +30400,6 @@
     "domain": "mcds.com.my"
   },
   {
-    "network": "103.142.54.0/24",
-    "asn": "139605",
-    "country_code": "MY",
-    "name": "MCDS-AS-AP",
-    "org": "MCDS SOFTWARE (M) SDN BHD",
-    "domain": "mcds.com.my"
-  },
-  {
     "network": "103.150.156.0/23",
     "asn": "139605",
     "country_code": "MY",
@@ -34345,6 +34329,14 @@
   },
   {
     "network": "2a0f:1cc5:3104::/48",
+    "asn": "199750",
+    "country_code": "MY",
+    "name": "SHENMING-AS",
+    "org": "Ch'ng Shen Ming",
+    "domain": "shenming.my"
+  },
+  {
+    "network": "2a0f:1cc5:3105::/48",
     "asn": "199750",
     "country_code": "MY",
     "name": "SHENMING-AS",
