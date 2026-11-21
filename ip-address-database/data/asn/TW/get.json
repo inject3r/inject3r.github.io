@@ -432,14 +432,6 @@
     "domain": "cht.com.tw"
   },
   {
-    "network": "60.249.12.0/24",
-    "asn": "3462",
-    "country_code": "TW",
-    "name": "HINET",
-    "org": "Chunghwa Telecom Co., Ltd.",
-    "domain": "cht.com.tw"
-  },
-  {
     "network": "60.250.0.0/16",
     "asn": "3462",
     "country_code": "TW",
@@ -29649,6 +29641,14 @@
   },
   {
     "network": "103.36.116.0/22",
+    "asn": "17709",
+    "country_code": "TW",
+    "name": "APT",
+    "org": "Asia Pacific Telecom",
+    "domain": "fareastone.com.tw"
+  },
+  {
+    "network": "124.219.119.0/24",
     "asn": "17709",
     "country_code": "TW",
     "name": "APT",
@@ -64728,14 +64728,6 @@
     "domain": "fareastone.com.tw"
   },
   {
-    "network": "124.219.119.0/24",
-    "asn": "24154",
-    "country_code": "TW",
-    "name": "APBT-AS-TW",
-    "org": "Asia Pacific Broadband Fixed Lines Co., Ltd.",
-    "domain": "fareastone.com.tw"
-  },
-  {
     "network": "124.219.120.0/24",
     "asn": "24154",
     "country_code": "TW",
@@ -76752,6 +76744,30 @@
     "domain": "moe.gov.tw"
   },
   {
+    "network": "120.119.28.0/22",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
+    "network": "120.119.32.0/19",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
+    "network": "120.119.64.0/18",
+    "asn": "1659",
+    "country_code": "TW",
+    "name": "ERX-TANET-ASN1",
+    "org": "Taiwan Academic Network (TANet) Information Center",
+    "domain": "moe.gov.tw"
+  },
+  {
     "network": "120.119.176.0/20",
     "asn": "1659",
     "country_code": "TW",
@@ -79664,7 +79680,23 @@
     "domain": "as208223.eu.org"
   },
   {
+    "network": "2401:af20:dfc8::/48",
+    "asn": "208223",
+    "country_code": "TW",
+    "name": "FOXO-AS",
+    "org": "SHU-HAO TUNG",
+    "domain": "as208223.eu.org"
+  },
+  {
     "network": "2401:af20:dfca::/48",
+    "asn": "208223",
+    "country_code": "TW",
+    "name": "FOXO-AS",
+    "org": "SHU-HAO TUNG",
+    "domain": "as208223.eu.org"
+  },
+  {
+    "network": "2401:af20:dfcc::/48",
     "asn": "208223",
     "country_code": "TW",
     "name": "FOXO-AS",
@@ -79744,7 +79776,23 @@
     "domain": "as208223.eu.org"
   },
   {
+    "network": "2401:af20:dfdb::/48",
+    "asn": "208223",
+    "country_code": "TW",
+    "name": "FOXO-AS",
+    "org": "SHU-HAO TUNG",
+    "domain": "as208223.eu.org"
+  },
+  {
     "network": "2401:af20:dfdc::/48",
+    "asn": "208223",
+    "country_code": "TW",
+    "name": "FOXO-AS",
+    "org": "SHU-HAO TUNG",
+    "domain": "as208223.eu.org"
+  },
+  {
+    "network": "2401:af20:dfdd::/48",
     "asn": "208223",
     "country_code": "TW",
     "name": "FOXO-AS",
@@ -80246,38 +80294,6 @@
     "name": "NORDA-NET",
     "org": "Nuobida Technology Co., Ltd.",
     "domain": "my-sdwan.com"
-  },
-  {
-    "network": "163.52.140.0/23",
-    "asn": "154902",
-    "country_code": "TW",
-    "name": "SIGNALPRO",
-    "org": "SignalPro Technology Co., Ltd.",
-    "domain": "signalpro.com.tw"
-  },
-  {
-    "network": "163.52.140.0/24",
-    "asn": "154902",
-    "country_code": "TW",
-    "name": "SIGNALPRO",
-    "org": "SignalPro Technology Co., Ltd.",
-    "domain": "signalpro.com.tw"
-  },
-  {
-    "network": "163.52.141.0/24",
-    "asn": "154902",
-    "country_code": "TW",
-    "name": "SIGNALPRO",
-    "org": "SignalPro Technology Co., Ltd.",
-    "domain": "signalpro.com.tw"
-  },
-  {
-    "network": "2402:74e0::/32",
-    "asn": "154902",
-    "country_code": "TW",
-    "name": "SIGNALPRO",
-    "org": "SignalPro Technology Co., Ltd.",
-    "domain": "signalpro.com.tw"
   },
   {
     "network": "163.61.60.0/23",
@@ -81888,6 +81904,14 @@
     "domain": ""
   },
   {
+    "network": "221.128.246.0/24",
+    "asn": "18180",
+    "country_code": "TW",
+    "name": "TWNIC-AS",
+    "org": "Taiwan Network Information Center",
+    "domain": ""
+  },
+  {
     "network": "221.128.248.0/21",
     "asn": "18180",
     "country_code": "TW",
@@ -81897,6 +81921,14 @@
   },
   {
     "network": "221.128.252.0/22",
+    "asn": "18180",
+    "country_code": "TW",
+    "name": "TWNIC-AS",
+    "org": "Taiwan Network Information Center",
+    "domain": ""
+  },
+  {
+    "network": "221.128.252.0/24",
     "asn": "18180",
     "country_code": "TW",
     "name": "TWNIC-AS",

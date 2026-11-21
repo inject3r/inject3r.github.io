@@ -24496,6 +24496,14 @@
     "domain": "telkom.co.id"
   },
   {
+    "network": "36.89.155.0/24",
+    "asn": "7713",
+    "country_code": "ID",
+    "name": "telkomnet-as-ap",
+    "org": "Telekomunikasi Indonesia (PT)",
+    "domain": "telkom.co.id"
+  },
+  {
     "network": "36.89.156.0/24",
     "asn": "7713",
     "country_code": "ID",
@@ -58768,6 +58776,14 @@
     "domain": "rackh.co.id"
   },
   {
+    "network": "104.164.90.0/24",
+    "asn": "135636",
+    "country_code": "ID",
+    "name": "RACKH-AS-AP",
+    "org": "PT. RACKH LINTAS ASIA",
+    "domain": "rackh.co.id"
+  },
+  {
     "network": "104.252.113.0/24",
     "asn": "135636",
     "country_code": "ID",
@@ -67208,7 +67224,23 @@
     "domain": "spacex.com"
   },
   {
+    "network": "179.65.203.0/24",
+    "asn": "45700",
+    "country_code": "ID",
+    "name": "IDNIC-STARLINK-AS-ID",
+    "org": "PT Starlink Services Indonesia",
+    "domain": "spacex.com"
+  },
+  {
     "network": "179.65.204.0/23",
+    "asn": "45700",
+    "country_code": "ID",
+    "name": "IDNIC-STARLINK-AS-ID",
+    "org": "PT Starlink Services Indonesia",
+    "domain": "spacex.com"
+  },
+  {
+    "network": "179.65.205.0/24",
     "asn": "45700",
     "country_code": "ID",
     "name": "IDNIC-STARLINK-AS-ID",
@@ -67376,23 +67408,7 @@
     "domain": "spacex.com"
   },
   {
-    "network": "202.65.231.0/24",
-    "asn": "45700",
-    "country_code": "ID",
-    "name": "IDNIC-STARLINK-AS-ID",
-    "org": "PT Starlink Services Indonesia",
-    "domain": "spacex.com"
-  },
-  {
     "network": "202.65.232.0/22",
-    "asn": "45700",
-    "country_code": "ID",
-    "name": "IDNIC-STARLINK-AS-ID",
-    "org": "PT Starlink Services Indonesia",
-    "domain": "spacex.com"
-  },
-  {
-    "network": "202.65.234.0/24",
     "asn": "45700",
     "country_code": "ID",
     "name": "IDNIC-STARLINK-AS-ID",
@@ -67441,14 +67457,6 @@
   },
   {
     "network": "203.17.80.0/23",
-    "asn": "45700",
-    "country_code": "ID",
-    "name": "IDNIC-STARLINK-AS-ID",
-    "org": "PT Starlink Services Indonesia",
-    "domain": "spacex.com"
-  },
-  {
-    "network": "203.17.81.0/24",
     "asn": "45700",
     "country_code": "ID",
     "name": "IDNIC-STARLINK-AS-ID",
@@ -67696,6 +67704,22 @@
     "domain": "nusahost.net"
   },
   {
+    "network": "31.56.19.0/24",
+    "asn": "218063",
+    "country_code": "ID",
+    "name": "RAIHAN-AS",
+    "org": "Raihan Fauzan Hakim",
+    "domain": "atomicmail.io"
+  },
+  {
+    "network": "185.242.3.0/24",
+    "asn": "218063",
+    "country_code": "ID",
+    "name": "RAIHAN-AS",
+    "org": "Raihan Fauzan Hakim",
+    "domain": "atomicmail.io"
+  },
+  {
     "network": "31.56.56.0/24",
     "asn": "141892",
     "country_code": "ID",
@@ -67846,6 +67870,30 @@
     "name": "IDNIC-KLINIKTECH-ID",
     "org": "Indonesia Network Information Center",
     "domain": "kliniktech.com"
+  },
+  {
+    "network": "31.56.195.0/24",
+    "asn": "154896",
+    "country_code": "ID",
+    "name": "IDNIC-GRIYACLOUD-ID",
+    "org": "CV Griya Cloud Server",
+    "domain": "griyacloud.com"
+  },
+  {
+    "network": "163.52.135.0/24",
+    "asn": "154896",
+    "country_code": "ID",
+    "name": "IDNIC-GRIYACLOUD-ID",
+    "org": "CV Griya Cloud Server",
+    "domain": "griyacloud.com"
+  },
+  {
+    "network": "2001:df7:77c0::/48",
+    "asn": "154896",
+    "country_code": "ID",
+    "name": "IDNIC-GRIYACLOUD-ID",
+    "org": "CV Griya Cloud Server",
+    "domain": "griyacloud.com"
   },
   {
     "network": "31.57.183.0/24",
@@ -78104,118 +78152,6 @@
     "domain": "dewabiz.com"
   },
   {
-    "network": "38.18.0.0/20",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.18.0.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.18.1.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.18.2.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.18.3.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.18.4.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.18.5.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.18.6.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.18.7.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.50.166.0/23",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.172.142.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "38.172.143.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "103.149.178.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
-    "network": "103.149.179.0/24",
-    "asn": "140026",
-    "country_code": "ID",
-    "name": "TIMORNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "timornet.id"
-  },
-  {
     "network": "38.20.156.0/23",
     "asn": "138842",
     "country_code": "ID",
@@ -78832,6 +78768,22 @@
     "domain": "herza.id"
   },
   {
+    "network": "38.47.178.0/24",
+    "asn": "140443",
+    "country_code": "ID",
+    "name": "IDNIC-HERZA-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "herza.id"
+  },
+  {
+    "network": "38.47.179.0/24",
+    "asn": "140443",
+    "country_code": "ID",
+    "name": "IDNIC-HERZA-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "herza.id"
+  },
+  {
     "network": "38.47.180.0/24",
     "asn": "140443",
     "country_code": "ID",
@@ -78976,6 +78928,14 @@
     "domain": "herza.id"
   },
   {
+    "network": "103.160.63.0/24",
+    "asn": "140443",
+    "country_code": "ID",
+    "name": "IDNIC-HERZA-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "herza.id"
+  },
+  {
     "network": "103.168.146.0/24",
     "asn": "140443",
     "country_code": "ID",
@@ -78984,7 +78944,23 @@
     "domain": "herza.id"
   },
   {
+    "network": "103.168.147.0/24",
+    "asn": "140443",
+    "country_code": "ID",
+    "name": "IDNIC-HERZA-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "herza.id"
+  },
+  {
     "network": "103.173.74.0/24",
+    "asn": "140443",
+    "country_code": "ID",
+    "name": "IDNIC-HERZA-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "herza.id"
+  },
+  {
+    "network": "103.173.75.0/24",
     "asn": "140443",
     "country_code": "ID",
     "name": "IDNIC-HERZA-AS-ID",
@@ -79200,36 +79176,44 @@
     "domain": "herza.id"
   },
   {
-    "network": "38.51.54.0/23",
-    "asn": "152806",
+    "network": "38.50.166.0/23",
+    "asn": "140026",
     "country_code": "ID",
-    "name": "IDNIC-SINARTECH-AS-ID",
+    "name": "TIMORNET-AS-ID",
     "org": "Indonesia Network Information Center",
-    "domain": "sinatech.id"
+    "domain": "timornet.id"
   },
   {
-    "network": "103.97.76.0/24",
-    "asn": "152806",
+    "network": "38.172.142.0/24",
+    "asn": "140026",
     "country_code": "ID",
-    "name": "IDNIC-SINARTECH-AS-ID",
+    "name": "TIMORNET-AS-ID",
     "org": "Indonesia Network Information Center",
-    "domain": "sinatech.id"
+    "domain": "timornet.id"
   },
   {
-    "network": "160.22.26.0/23",
-    "asn": "152806",
+    "network": "38.172.143.0/24",
+    "asn": "140026",
     "country_code": "ID",
-    "name": "IDNIC-SINARTECH-AS-ID",
+    "name": "TIMORNET-AS-ID",
     "org": "Indonesia Network Information Center",
-    "domain": "sinatech.id"
+    "domain": "timornet.id"
   },
   {
-    "network": "2001:df3:e040::/48",
-    "asn": "152806",
+    "network": "103.149.178.0/24",
+    "asn": "140026",
     "country_code": "ID",
-    "name": "IDNIC-SINARTECH-AS-ID",
+    "name": "TIMORNET-AS-ID",
     "org": "Indonesia Network Information Center",
-    "domain": "sinatech.id"
+    "domain": "timornet.id"
+  },
+  {
+    "network": "103.149.179.0/24",
+    "asn": "140026",
+    "country_code": "ID",
+    "name": "TIMORNET-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "timornet.id"
   },
   {
     "network": "38.52.147.0/24",
@@ -80489,14 +80473,6 @@
   },
   {
     "network": "38.134.44.0/24",
-    "asn": "152023",
-    "country_code": "ID",
-    "name": "IDNIC-GELAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "gelamnet.com"
-  },
-  {
-    "network": "38.134.45.0/24",
     "asn": "152023",
     "country_code": "ID",
     "name": "IDNIC-GELAMNET-AS-ID",
@@ -82768,14 +82744,6 @@
     "domain": "beenet.id"
   },
   {
-    "network": "103.82.126.0/23",
-    "asn": "136065",
-    "country_code": "ID",
-    "name": "IDNIC-BEENET-AS-ID",
-    "org": "PT SOLUSI TRIMEGAH PERSADA",
-    "domain": "beenet.id"
-  },
-  {
     "network": "103.82.126.0/24",
     "asn": "136065",
     "country_code": "ID",
@@ -82785,14 +82753,6 @@
   },
   {
     "network": "103.82.127.0/24",
-    "asn": "136065",
-    "country_code": "ID",
-    "name": "IDNIC-BEENET-AS-ID",
-    "org": "PT SOLUSI TRIMEGAH PERSADA",
-    "domain": "beenet.id"
-  },
-  {
-    "network": "103.83.178.0/23",
     "asn": "136065",
     "country_code": "ID",
     "name": "IDNIC-BEENET-AS-ID",
@@ -86801,6 +86761,14 @@
   },
   {
     "network": "2401:e480:1000::/36",
+    "asn": "23949",
+    "country_code": "ID",
+    "name": "COMNET-AS-ID",
+    "org": "PT Comtronics Systems",
+    "domain": "com.net.id"
+  },
+  {
+    "network": "2401:e480:7000::/40",
     "asn": "23949",
     "country_code": "ID",
     "name": "COMNET-AS-ID",
@@ -98721,6 +98689,14 @@
   },
   {
     "network": "2400:4ec0:8805::/48",
+    "asn": "64300",
+    "country_code": "ID",
+    "name": "JSN-AS-ID",
+    "org": "PT JARINGANKU SARANA NUSANTARA",
+    "domain": "jsn.net.id"
+  },
+  {
+    "network": "2400:4ec0:8831::/48",
     "asn": "64300",
     "country_code": "ID",
     "name": "JSN-AS-ID",
@@ -115496,6 +115472,38 @@
     "domain": "solusi.net.id"
   },
   {
+    "network": "154.8.97.0/24",
+    "asn": "17995",
+    "country_code": "ID",
+    "name": "SOLUSINET-AS-ID",
+    "org": "PT iForte Global Internet",
+    "domain": "solusi.net.id"
+  },
+  {
+    "network": "154.8.98.0/23",
+    "asn": "17995",
+    "country_code": "ID",
+    "name": "SOLUSINET-AS-ID",
+    "org": "PT iForte Global Internet",
+    "domain": "solusi.net.id"
+  },
+  {
+    "network": "154.8.98.0/24",
+    "asn": "17995",
+    "country_code": "ID",
+    "name": "SOLUSINET-AS-ID",
+    "org": "PT iForte Global Internet",
+    "domain": "solusi.net.id"
+  },
+  {
+    "network": "154.8.99.0/24",
+    "asn": "17995",
+    "country_code": "ID",
+    "name": "SOLUSINET-AS-ID",
+    "org": "PT iForte Global Internet",
+    "domain": "solusi.net.id"
+  },
+  {
     "network": "182.16.160.0/19",
     "asn": "17995",
     "country_code": "ID",
@@ -117209,22 +117217,6 @@
   },
   {
     "network": "49.156.61.0/24",
-    "asn": "150251",
-    "country_code": "ID",
-    "name": "IDNIC-AKSESARMEDIA-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "aksesarmedia.id"
-  },
-  {
-    "network": "49.156.62.0/24",
-    "asn": "150251",
-    "country_code": "ID",
-    "name": "IDNIC-AKSESARMEDIA-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "aksesarmedia.id"
-  },
-  {
-    "network": "49.156.63.0/24",
     "asn": "150251",
     "country_code": "ID",
     "name": "IDNIC-AKSESARMEDIA-AS-ID",
@@ -121376,6 +121368,14 @@
     "domain": "interkoneksimedia.co.id"
   },
   {
+    "network": "103.172.241.0/24",
+    "asn": "142401",
+    "country_code": "ID",
+    "name": "IMNETWORKS-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "interkoneksimedia.co.id"
+  },
+  {
     "network": "202.81.63.0/24",
     "asn": "142401",
     "country_code": "ID",
@@ -121609,6 +121609,14 @@
   },
   {
     "network": "187.55.165.0/24",
+    "asn": "218956",
+    "country_code": "ID",
+    "name": "HUBNET",
+    "org": "PT SIMPUL DIGITAL NUSANTARA",
+    "domain": "hubnet.id"
+  },
+  {
+    "network": "187.55.166.0/24",
     "asn": "218956",
     "country_code": "ID",
     "name": "HUBNET",
@@ -127384,6 +127392,14 @@
     "domain": "varnion.com"
   },
   {
+    "network": "150.129.56.0/22",
+    "asn": "45287",
+    "country_code": "ID",
+    "name": "VARNION-AS-ID",
+    "org": "Varnion Technology Semesta, PT",
+    "domain": "varnion.com"
+  },
+  {
     "network": "150.129.56.0/24",
     "asn": "45287",
     "country_code": "ID",
@@ -127401,6 +127417,14 @@
   },
   {
     "network": "150.129.58.0/24",
+    "asn": "45287",
+    "country_code": "ID",
+    "name": "VARNION-AS-ID",
+    "org": "Varnion Technology Semesta, PT",
+    "domain": "varnion.com"
+  },
+  {
+    "network": "150.129.59.0/24",
     "asn": "45287",
     "country_code": "ID",
     "name": "VARNION-AS-ID",
@@ -135888,38 +135912,6 @@
     "domain": "bosowa.co.id"
   },
   {
-    "network": "103.53.192.0/24",
-    "asn": "133821",
-    "country_code": "ID",
-    "name": "IDNIC-MCS-AS-ID",
-    "org": "PT Maxindo Content Solution",
-    "domain": "mcs.co.id"
-  },
-  {
-    "network": "103.53.193.0/24",
-    "asn": "133821",
-    "country_code": "ID",
-    "name": "IDNIC-MCS-AS-ID",
-    "org": "PT Maxindo Content Solution",
-    "domain": "mcs.co.id"
-  },
-  {
-    "network": "103.53.194.0/24",
-    "asn": "133821",
-    "country_code": "ID",
-    "name": "IDNIC-MCS-AS-ID",
-    "org": "PT Maxindo Content Solution",
-    "domain": "mcs.co.id"
-  },
-  {
-    "network": "103.53.195.0/24",
-    "asn": "133821",
-    "country_code": "ID",
-    "name": "IDNIC-MCS-AS-ID",
-    "org": "PT Maxindo Content Solution",
-    "domain": "mcs.co.id"
-  },
-  {
     "network": "103.54.0.0/24",
     "asn": "55697",
     "country_code": "ID",
@@ -137166,30 +137158,6 @@
     "name": "IDNIC-OEMJI-AS-ID",
     "org": "Indonesia Network Information Center",
     "domain": "oemji.co.id"
-  },
-  {
-    "network": "103.60.232.0/24",
-    "asn": "150504",
-    "country_code": "ID",
-    "name": "IDNIC-CIGSID-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "cigs.co.id"
-  },
-  {
-    "network": "103.60.233.0/24",
-    "asn": "150504",
-    "country_code": "ID",
-    "name": "IDNIC-CIGSID-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "cigs.co.id"
-  },
-  {
-    "network": "2001:df1:ccc0::/48",
-    "asn": "150504",
-    "country_code": "ID",
-    "name": "IDNIC-CIGSID-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "cigs.co.id"
   },
   {
     "network": "103.60.234.0/23",
@@ -140225,14 +140193,6 @@
   },
   {
     "network": "103.77.79.0/24",
-    "asn": "153745",
-    "country_code": "ID",
-    "name": "PSMS-AS-AP",
-    "org": "Sayagi",
-    "domain": ""
-  },
-  {
-    "network": "103.125.12.0/24",
     "asn": "153745",
     "country_code": "ID",
     "name": "PSMS-AS-AP",
@@ -143696,215 +143656,7 @@
     "domain": "yam.net.id"
   },
   {
-    "network": "2405:9cc0::/32",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:108::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:111::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:112::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:114::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:125::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:127::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:130::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:132::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:136::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:151::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:175::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:181::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:999::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:99a::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:99b::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
     "network": "2405:9cc0:1000::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:1120::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:1125::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:120a::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:2000::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:2001::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:575a::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:575b::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:c068::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:ca01::/48",
-    "asn": "139967",
-    "country_code": "ID",
-    "name": "YAMNET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "yam.net.id"
-  },
-  {
-    "network": "2405:9cc0:ccaf::/48",
     "asn": "139967",
     "country_code": "ID",
     "name": "YAMNET-AS-ID",
@@ -144960,6 +144712,30 @@
     "domain": "7akses.net"
   },
   {
+    "network": "103.97.76.0/24",
+    "asn": "152806",
+    "country_code": "ID",
+    "name": "IDNIC-SINARTECH-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "sinatech.id"
+  },
+  {
+    "network": "160.22.26.0/23",
+    "asn": "152806",
+    "country_code": "ID",
+    "name": "IDNIC-SINARTECH-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "sinatech.id"
+  },
+  {
+    "network": "2001:df3:e040::/48",
+    "asn": "152806",
+    "country_code": "ID",
+    "name": "IDNIC-SINARTECH-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "sinatech.id"
+  },
+  {
     "network": "103.97.79.0/24",
     "asn": "136131",
     "country_code": "ID",
@@ -145478,6 +145254,14 @@
     "name": "GRAHA-AS-ID",
     "org": "PT. Graha Lintas Nusantara",
     "domain": "graha.net.id"
+  },
+  {
+    "network": "103.100.193.0/24",
+    "asn": "136844",
+    "country_code": "ID",
+    "name": "IDNIC-VERBIND-AS-ID",
+    "org": "PT. VERBIND INTERNET SOLUSINDO",
+    "domain": "verbind.co"
   },
   {
     "network": "103.100.246.0/24",
@@ -147025,46 +146809,6 @@
   },
   {
     "network": "103.103.138.0/24",
-    "asn": "138818",
-    "country_code": "ID",
-    "name": "IIS-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "inisaja.id"
-  },
-  {
-    "network": "114.141.91.0/24",
-    "asn": "138818",
-    "country_code": "ID",
-    "name": "IIS-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "inisaja.id"
-  },
-  {
-    "network": "114.141.92.0/24",
-    "asn": "138818",
-    "country_code": "ID",
-    "name": "IIS-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "inisaja.id"
-  },
-  {
-    "network": "114.141.93.0/24",
-    "asn": "138818",
-    "country_code": "ID",
-    "name": "IIS-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "inisaja.id"
-  },
-  {
-    "network": "114.141.94.0/24",
-    "asn": "138818",
-    "country_code": "ID",
-    "name": "IIS-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "inisaja.id"
-  },
-  {
-    "network": "114.141.95.0/24",
     "asn": "138818",
     "country_code": "ID",
     "name": "IIS-AS-ID",
@@ -149688,7 +149432,31 @@
     "domain": "ptppa.com"
   },
   {
+    "network": "103.112.244.0/24",
+    "asn": "136107",
+    "country_code": "ID",
+    "name": "IDNIC-7ION-AS-ID",
+    "org": "PT. Tujuh Ion Indonesia",
+    "domain": "7ion.co.id"
+  },
+  {
     "network": "103.112.245.0/24",
+    "asn": "136107",
+    "country_code": "ID",
+    "name": "IDNIC-7ION-AS-ID",
+    "org": "PT. Tujuh Ion Indonesia",
+    "domain": "7ion.co.id"
+  },
+  {
+    "network": "103.233.102.0/24",
+    "asn": "136107",
+    "country_code": "ID",
+    "name": "IDNIC-7ION-AS-ID",
+    "org": "PT. Tujuh Ion Indonesia",
+    "domain": "7ion.co.id"
+  },
+  {
+    "network": "103.233.103.0/24",
     "asn": "136107",
     "country_code": "ID",
     "name": "IDNIC-7ION-AS-ID",
@@ -149790,6 +149558,14 @@
     "name": "IDNIC-PIPSMG-AS-ID",
     "org": "Indonesia Network Information Center",
     "domain": "pip-semarang.ac.id"
+  },
+  {
+    "network": "103.114.18.0/24",
+    "asn": "137369",
+    "country_code": "ID",
+    "name": "IDNIC-INTEGRALDP-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "integraldp.co.id"
   },
   {
     "network": "103.114.35.0/24",
@@ -153768,7 +153544,23 @@
     "domain": "afna.link"
   },
   {
+    "network": "103.138.62.0/24",
+    "asn": "138843",
+    "country_code": "ID",
+    "name": "GOLDNET-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "glsolusi.net"
+  },
+  {
     "network": "103.138.63.0/24",
+    "asn": "138843",
+    "country_code": "ID",
+    "name": "GOLDNET-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "glsolusi.net"
+  },
+  {
+    "network": "203.84.142.0/24",
     "asn": "138843",
     "country_code": "ID",
     "name": "GOLDNET-AS-ID",
@@ -154977,6 +154769,14 @@
   },
   {
     "network": "103.169.200.0/24",
+    "asn": "139364",
+    "country_code": "ID",
+    "name": "IDNIC-KOMINFOGUNUNGKIDUL-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "gunungkidulkab.go.id"
+  },
+  {
+    "network": "2401:cb20::/32",
     "asn": "139364",
     "country_code": "ID",
     "name": "IDNIC-KOMINFOGUNUNGKIDUL-AS-ID",
@@ -157864,6 +157664,38 @@
     "domain": "centrin.net.id"
   },
   {
+    "network": "103.148.112.0/24",
+    "asn": "139993",
+    "country_code": "ID",
+    "name": "IDNIC-SEKOLAHAN-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "sekolahan.id"
+  },
+  {
+    "network": "103.148.113.0/24",
+    "asn": "139993",
+    "country_code": "ID",
+    "name": "IDNIC-SEKOLAHAN-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "sekolahan.id"
+  },
+  {
+    "network": "157.10.190.0/24",
+    "asn": "139993",
+    "country_code": "ID",
+    "name": "IDNIC-SEKOLAHAN-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "sekolahan.id"
+  },
+  {
+    "network": "157.10.191.0/24",
+    "asn": "139993",
+    "country_code": "ID",
+    "name": "IDNIC-SEKOLAHAN-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "sekolahan.id"
+  },
+  {
     "network": "103.148.130.0/24",
     "asn": "141127",
     "country_code": "ID",
@@ -159526,14 +159358,6 @@
     "name": "PBKE-AS-AP",
     "org": "PT Bank Seabank Indonesia",
     "domain": "seabank.co.id"
-  },
-  {
-    "network": "103.153.190.0/23",
-    "asn": "140469",
-    "country_code": "ID",
-    "name": "WANET-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "wahyuadidaya.co.id"
   },
   {
     "network": "103.153.190.0/24",
@@ -165800,14 +165624,6 @@
     "domain": "karokab.go.id"
   },
   {
-    "network": "103.162.152.0/24",
-    "asn": "141660",
-    "country_code": "ID",
-    "name": "AKSIRIAU-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "aksiriau.net.id"
-  },
-  {
     "network": "103.162.153.0/24",
     "asn": "141660",
     "country_code": "ID",
@@ -167966,14 +167782,6 @@
     "name": "IDNIC-FAHASA-ID-AS-ID",
     "org": "Indonesia Network Information Center",
     "domain": "fahasatridata.co.id"
-  },
-  {
-    "network": "103.169.8.0/23",
-    "asn": "142346",
-    "country_code": "ID",
-    "name": "IDNIC-BUMIMANUSIA-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "bumimanusia.net.id"
   },
   {
     "network": "103.169.10.0/23",
@@ -173544,14 +173352,6 @@
     "domain": "heisg.id"
   },
   {
-    "network": "103.186.96.0/23",
-    "asn": "149693",
-    "country_code": "ID",
-    "name": "IDNIC-DATAMEDIA-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "datamedia.biz.id"
-  },
-  {
     "network": "103.186.96.0/24",
     "asn": "149693",
     "country_code": "ID",
@@ -173950,6 +173750,14 @@
     "name": "IDNIC-ARSYA-MITRANET-AS-ID",
     "org": "Indonesia Network Information Center",
     "domain": "bintangnusantara.co.id"
+  },
+  {
+    "network": "103.188.118.0/24",
+    "asn": "149731",
+    "country_code": "ID",
+    "name": "IDNIC-RADJANET-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "telcon.co.id"
   },
   {
     "network": "103.188.119.0/24",
@@ -177734,6 +177542,14 @@
     "name": "IDNIC-UPNYK-AS-ID",
     "org": "Universitas Pembangunan Nasional Veteran Yogyakarta",
     "domain": "upnyk.ac.id"
+  },
+  {
+    "network": "103.236.215.0/24",
+    "asn": "151510",
+    "country_code": "ID",
+    "name": "IDNIC-PAS-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "pengkolanaksesgroup.id"
   },
   {
     "network": "103.238.232.0/24",
@@ -183017,6 +182833,46 @@
   },
   {
     "network": "114.141.90.0/24",
+    "asn": "38773",
+    "country_code": "ID",
+    "name": "CIPUTRA-AS-ID",
+    "org": "CiputraNet",
+    "domain": "inisaja.id"
+  },
+  {
+    "network": "114.141.91.0/24",
+    "asn": "38773",
+    "country_code": "ID",
+    "name": "CIPUTRA-AS-ID",
+    "org": "CiputraNet",
+    "domain": "inisaja.id"
+  },
+  {
+    "network": "114.141.92.0/24",
+    "asn": "38773",
+    "country_code": "ID",
+    "name": "CIPUTRA-AS-ID",
+    "org": "CiputraNet",
+    "domain": "inisaja.id"
+  },
+  {
+    "network": "114.141.93.0/24",
+    "asn": "38773",
+    "country_code": "ID",
+    "name": "CIPUTRA-AS-ID",
+    "org": "CiputraNet",
+    "domain": "inisaja.id"
+  },
+  {
+    "network": "114.141.94.0/24",
+    "asn": "38773",
+    "country_code": "ID",
+    "name": "CIPUTRA-AS-ID",
+    "org": "CiputraNet",
+    "domain": "inisaja.id"
+  },
+  {
+    "network": "114.141.95.0/24",
     "asn": "38773",
     "country_code": "ID",
     "name": "CIPUTRA-AS-ID",
@@ -190840,23 +190696,7 @@
     "domain": "idola.net.id"
   },
   {
-    "network": "123.231.207.0/24",
-    "asn": "133841",
-    "country_code": "ID",
-    "name": "IDOLA-BROADBAND-AS-ID",
-    "org": "INDONESIA BROADBAND ACCESS - ANYWHERE",
-    "domain": "idola.net.id"
-  },
-  {
     "network": "210.79.159.0/24",
-    "asn": "133841",
-    "country_code": "ID",
-    "name": "IDOLA-BROADBAND-AS-ID",
-    "org": "INDONESIA BROADBAND ACCESS - ANYWHERE",
-    "domain": "idola.net.id"
-  },
-  {
-    "network": "2400:8000:4805::/48",
     "asn": "133841",
     "country_code": "ID",
     "name": "IDOLA-BROADBAND-AS-ID",
@@ -191246,6 +191086,14 @@
     "name": "IDNIC-ADHIFANASHA-ID",
     "org": "PT Adhifa Nasha Saqeena",
     "domain": "adhifanashasaqeena.id"
+  },
+  {
+    "network": "141.229.2.0/23",
+    "asn": "155094",
+    "country_code": "ID",
+    "name": "IDNIC-HIGHSPEED-ID",
+    "org": "PT BAROKAH HIGH SPEED",
+    "domain": "highspeed.id"
   },
   {
     "network": "141.229.2.0/24",
@@ -192648,22 +192496,6 @@
     "domain": "idu.ac.id"
   },
   {
-    "network": "157.10.190.0/24",
-    "asn": "139993",
-    "country_code": "ID",
-    "name": "IDNIC-SEKOLAHAN-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "sekolahan.id"
-  },
-  {
-    "network": "157.10.191.0/24",
-    "asn": "139993",
-    "country_code": "ID",
-    "name": "IDNIC-SEKOLAHAN-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "sekolahan.id"
-  },
-  {
     "network": "157.10.192.0/24",
     "asn": "152347",
     "country_code": "ID",
@@ -193385,14 +193217,6 @@
   },
   {
     "network": "157.20.188.0/24",
-    "asn": "152422",
-    "country_code": "ID",
-    "name": "IDNIC-LAMONGANKAB-AS-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "lamongankab.go.id"
-  },
-  {
-    "network": "157.20.189.0/24",
     "asn": "152422",
     "country_code": "ID",
     "name": "IDNIC-LAMONGANKAB-AS-ID",
@@ -195000,6 +194824,22 @@
     "domain": "tis.solutions"
   },
   {
+    "network": "160.22.238.0/24",
+    "asn": "152842",
+    "country_code": "ID",
+    "name": "IDNIC-GESANGTEL-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "gesangtel.id"
+  },
+  {
+    "network": "160.22.239.0/24",
+    "asn": "152842",
+    "country_code": "ID",
+    "name": "IDNIC-GESANGTEL-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "gesangtel.id"
+  },
+  {
     "network": "160.22.240.0/23",
     "asn": "152839",
     "country_code": "ID",
@@ -195361,14 +195201,6 @@
   },
   {
     "network": "160.25.178.0/24",
-    "asn": "153075",
-    "country_code": "ID",
-    "name": "IDNIC-BPJSKESEHATAN-ID",
-    "org": "Indonesia Network Information Center",
-    "domain": "bpjs-kesehatan.go.id"
-  },
-  {
-    "network": "160.25.179.0/24",
     "asn": "153075",
     "country_code": "ID",
     "name": "IDNIC-BPJSKESEHATAN-ID",
@@ -195918,6 +195750,14 @@
     "name": "IDNIC-RPNET-AS-ID",
     "org": "Indonesia Network Information Center",
     "domain": "creativenusantara.com"
+  },
+  {
+    "network": "160.191.62.0/24",
+    "asn": "153137",
+    "country_code": "ID",
+    "name": "IDNIC-MULTIINTERLINKTEKNIK-AS-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "multiinterlinkteknik.com"
   },
   {
     "network": "160.191.63.0/24",
@@ -196792,6 +196632,14 @@
     "domain": "shintabuana.co.id"
   },
   {
+    "network": "160.250.42.0/24",
+    "asn": "153481",
+    "country_code": "ID",
+    "name": "IDNIC-PNG-AS-ID",
+    "org": "PT Ping Network Global",
+    "domain": "theping.net"
+  },
+  {
     "network": "160.250.43.0/24",
     "asn": "153481",
     "country_code": "ID",
@@ -197542,22 +197390,6 @@
     "name": "IDNIC-DPI-ID",
     "org": "PT Dataphoria Putra Indonesia",
     "domain": "dataphoriaindonesia.com"
-  },
-  {
-    "network": "163.52.135.0/24",
-    "asn": "154896",
-    "country_code": "ID",
-    "name": "IDNIC-GRIYACLOUD-ID",
-    "org": "CV Griya Cloud Server",
-    "domain": "griyacloud.com"
-  },
-  {
-    "network": "2001:df7:77c0::/48",
-    "asn": "154896",
-    "country_code": "ID",
-    "name": "IDNIC-GRIYACLOUD-ID",
-    "org": "CV Griya Cloud Server",
-    "domain": "griyacloud.com"
   },
   {
     "network": "163.52.136.0/24",
@@ -199016,6 +198848,14 @@
     "domain": "mediacentralaccess.com"
   },
   {
+    "network": "163.227.252.0/24",
+    "asn": "153887",
+    "country_code": "ID",
+    "name": "IDNIC-DASAINFRAINDONESIA-AS-ID",
+    "org": "PT DASA INFRA INDONESIA",
+    "domain": "dasainfra.com"
+  },
+  {
     "network": "165.99.5.0/24",
     "asn": "134127",
     "country_code": "ID",
@@ -200046,6 +199886,22 @@
     "name": "IDNIC-BAST-ID",
     "org": "Indonesia Network Information Center",
     "domain": "bastnetwork.id"
+  },
+  {
+    "network": "180.94.22.0/24",
+    "asn": "152041",
+    "country_code": "ID",
+    "name": "KAHAJA-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "kahaja.co.id"
+  },
+  {
+    "network": "180.94.23.0/24",
+    "asn": "152041",
+    "country_code": "ID",
+    "name": "KAHAJA-ID",
+    "org": "Indonesia Network Information Center",
+    "domain": "kahaja.co.id"
   },
   {
     "network": "180.131.128.0/24",
@@ -205232,22 +205088,6 @@
     "domain": "menpan.go.id"
   },
   {
-    "network": "203.62.242.0/23",
-    "asn": "155091",
-    "country_code": "ID",
-    "name": "IDNIC-LINTASAN-ID",
-    "org": "PT LINTAS CAHAYA MULTIMEDIA",
-    "domain": "lintasan.net"
-  },
-  {
-    "network": "2001:df7:d440::/48",
-    "asn": "155091",
-    "country_code": "ID",
-    "name": "IDNIC-LINTASAN-ID",
-    "org": "PT LINTAS CAHAYA MULTIMEDIA",
-    "domain": "lintasan.net"
-  },
-  {
     "network": "203.77.208.0/24",
     "asn": "18393",
     "country_code": "ID",
@@ -205798,6 +205638,30 @@
     "name": "BPS-AS-ID",
     "org": "Biro Statistics",
     "domain": "bps.go.id"
+  },
+  {
+    "network": "203.123.224.0/23",
+    "asn": "4855",
+    "country_code": "ID",
+    "name": "PI-ID-AS-AP",
+    "org": "Pacific Link Indonesia",
+    "domain": "pacific.net.id"
+  },
+  {
+    "network": "203.123.224.0/24",
+    "asn": "4855",
+    "country_code": "ID",
+    "name": "PI-ID-AS-AP",
+    "org": "Pacific Link Indonesia",
+    "domain": "pacific.net.id"
+  },
+  {
+    "network": "203.123.225.0/24",
+    "asn": "4855",
+    "country_code": "ID",
+    "name": "PI-ID-AS-AP",
+    "org": "Pacific Link Indonesia",
+    "domain": "pacific.net.id"
   },
   {
     "network": "203.135.176.0/21",
@@ -206552,23 +206416,15 @@
     "domain": "sobat.net.id"
   },
   {
+    "network": "2001:df7:d440::/48",
+    "asn": "155091",
+    "country_code": "ID",
+    "name": "IDNIC-LINTASAN-ID",
+    "org": "PT LINTAS CAHAYA MULTIMEDIA",
+    "domain": "lintasan.net"
+  },
+  {
     "network": "2401:a0a0:5::/48",
-    "asn": "58552",
-    "country_code": "ID",
-    "name": "MULTIDATA-ID-AP",
-    "org": "PT Multidata Rancana Prima",
-    "domain": "multidata.net.id"
-  },
-  {
-    "network": "2404:fd00::/32",
-    "asn": "58552",
-    "country_code": "ID",
-    "name": "MULTIDATA-ID-AP",
-    "org": "PT Multidata Rancana Prima",
-    "domain": "multidata.net.id"
-  },
-  {
-    "network": "2404:fd00:1f::/48",
     "asn": "58552",
     "country_code": "ID",
     "name": "MULTIDATA-ID-AP",
@@ -207033,14 +206889,6 @@
   },
   {
     "network": "2a0f:b240:7e03::/48",
-    "asn": "44822",
-    "country_code": "ID",
-    "name": "GXT",
-    "org": "PT GXT Network Link",
-    "domain": "gxt.network"
-  },
-  {
-    "network": "2a0f:b240:7e04::/48",
     "asn": "44822",
     "country_code": "ID",
     "name": "GXT",

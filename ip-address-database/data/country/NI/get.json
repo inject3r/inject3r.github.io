@@ -756,7 +756,7 @@
     "country_name": "Nicaragua"
   },
   {
-    "network": "181.119.102.0/24",
+    "network": "181.119.102.212/31",
     "continent_code": "NA",
     "country_code": "NI",
     "country_name": "Nicaragua"
@@ -816,7 +816,13 @@
     "country_name": "Nicaragua"
   },
   {
-    "network": "186.32.10.0/23",
+    "network": "186.32.10.0/25",
+    "continent_code": "NA",
+    "country_code": "NI",
+    "country_name": "Nicaragua"
+  },
+  {
+    "network": "186.32.11.0/24",
     "continent_code": "NA",
     "country_code": "NI",
     "country_name": "Nicaragua"
@@ -1566,12 +1572,6 @@
     "country_name": "Nicaragua"
   },
   {
-    "network": "2a04:1d44:3700::/40",
-    "continent_code": "NA",
-    "country_code": "NI",
-    "country_name": "Nicaragua"
-  },
-  {
     "network": "2a04:1d45:3700::/40",
     "continent_code": "NA",
     "country_code": "NI",
@@ -1632,6 +1632,18 @@
     "country_name": "Nicaragua"
   },
   {
+    "network": "2a10:24c4:a980::/43",
+    "continent_code": "NA",
+    "country_code": "NI",
+    "country_name": "Nicaragua"
+  },
+  {
+    "network": "2a10:24c4:e980::/43",
+    "continent_code": "NA",
+    "country_code": "NI",
+    "country_name": "Nicaragua"
+  },
+  {
     "network": "2401:b60:1a40::/44",
     "continent_code": "NA",
     "country_code": "NI",
@@ -1663,6 +1675,18 @@
   },
   {
     "network": "2a0f:9403:2e0::/44",
+    "continent_code": "NA",
+    "country_code": "NI",
+    "country_name": "Nicaragua"
+  },
+  {
+    "network": "2a10:24c4:a9a0::/44",
+    "continent_code": "NA",
+    "country_code": "NI",
+    "country_name": "Nicaragua"
+  },
+  {
+    "network": "2a10:24c4:e9a0::/44",
     "continent_code": "NA",
     "country_code": "NI",
     "country_name": "Nicaragua"
@@ -6805,6 +6829,12 @@
   },
   {
     "network": "2001:470:8484::/48",
+    "continent_code": "NA",
+    "country_code": "NI",
+    "country_name": "Nicaragua"
+  },
+  {
+    "network": "2401:af20:1bb8::/48",
     "continent_code": "NA",
     "country_code": "NI",
     "country_name": "Nicaragua"

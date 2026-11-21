@@ -19032,6 +19032,14 @@
     "domain": "nexlogic.ph"
   },
   {
+    "network": "103.206.80.0/22",
+    "asn": "135025",
+    "country_code": "PH",
+    "name": "NEXLOGIC-AS-AP",
+    "org": "Nexlogic Telecommunications Network, Inc.",
+    "domain": "nexlogic.ph"
+  },
+  {
     "network": "103.206.80.0/24",
     "asn": "135025",
     "country_code": "PH",
@@ -28432,7 +28440,23 @@
     "domain": "radius.ph"
   },
   {
+    "network": "110.235.168.0/22",
+    "asn": "55821",
+    "country_code": "PH",
+    "name": "RADIUSTELECOMS-AS-AP",
+    "org": "RADIUS TELECOMS, INC.",
+    "domain": "radius.ph"
+  },
+  {
     "network": "110.235.176.0/22",
+    "asn": "55821",
+    "country_code": "PH",
+    "name": "RADIUSTELECOMS-AS-AP",
+    "org": "RADIUS TELECOMS, INC.",
+    "domain": "radius.ph"
+  },
+  {
+    "network": "110.235.180.0/22",
     "asn": "55821",
     "country_code": "PH",
     "name": "RADIUSTELECOMS-AS-AP",
@@ -38600,14 +38624,6 @@
     "domain": "etpi.com.ph"
   },
   {
-    "network": "180.232.45.0/24",
-    "asn": "9658",
-    "country_code": "PH",
-    "name": "ETPI-IDS-AS-AP",
-    "org": "Eastern Telecommunications Philippines, Inc.",
-    "domain": "etpi.com.ph"
-  },
-  {
     "network": "180.232.48.0/24",
     "asn": "9658",
     "country_code": "PH",
@@ -39993,6 +40009,14 @@
   },
   {
     "network": "2400:f2c0::/32",
+    "asn": "134788",
+    "country_code": "PH",
+    "name": "PARASATCABLETV-AS-AP",
+    "org": "Parasat Cable TV, Inc",
+    "domain": "cable21.net"
+  },
+  {
+    "network": "2400:f2c0:1000::/36",
     "asn": "134788",
     "country_code": "PH",
     "name": "PARASATCABLETV-AS-AP",
@@ -41400,14 +41424,6 @@
     "domain": "streamtech.com.ph"
   },
   {
-    "network": "103.137.204.0/22",
-    "asn": "138965",
-    "country_code": "PH",
-    "name": "SSTI-AS-AP",
-    "org": "Streamtech Systems Technologies Inc.",
-    "domain": "streamtech.com.ph"
-  },
-  {
     "network": "103.137.204.0/24",
     "asn": "138965",
     "country_code": "PH",
@@ -41481,6 +41497,14 @@
   },
   {
     "network": "154.222.51.0/24",
+    "asn": "138965",
+    "country_code": "PH",
+    "name": "SSTI-AS-AP",
+    "org": "Streamtech Systems Technologies Inc.",
+    "domain": "streamtech.com.ph"
+  },
+  {
+    "network": "154.223.8.0/24",
     "asn": "138965",
     "country_code": "PH",
     "name": "SSTI-AS-AP",
@@ -43288,14 +43312,6 @@
     "domain": "asianvision.com.ph"
   },
   {
-    "network": "103.90.202.0/24",
-    "asn": "136503",
-    "country_code": "PH",
-    "name": "PCDSI-AS-AP",
-    "org": "Personal Collection Direct Selling, Inc.",
-    "domain": "pcdsi.ph"
-  },
-  {
     "network": "103.91.140.0/22",
     "asn": "136515",
     "country_code": "PH",
@@ -43513,6 +43529,14 @@
   },
   {
     "network": "103.99.160.0/23",
+    "asn": "135366",
+    "country_code": "PH",
+    "name": "ZAFRACABLETV-AS-AP",
+    "org": "Zafra Cable TV Network Inc.",
+    "domain": "zafra-cable.tv"
+  },
+  {
+    "network": "103.99.160.0/24",
     "asn": "135366",
     "country_code": "PH",
     "name": "ZAFRACABLETV-AS-AP",
@@ -46401,6 +46425,14 @@
   },
   {
     "network": "103.176.203.0/24",
+    "asn": "149022",
+    "country_code": "PH",
+    "name": "CNCATI-AS-AP",
+    "org": "Cloud Net Cable and Telecom Inc.",
+    "domain": "cloudnet.ph"
+  },
+  {
+    "network": "2001:df0:13c0::/48",
     "asn": "149022",
     "country_code": "PH",
     "name": "CNCATI-AS-AP",
@@ -53672,6 +53704,22 @@
     "domain": "agerafiber.ph"
   },
   {
+    "network": "163.227.118.0/24",
+    "asn": "137193",
+    "country_code": "PH",
+    "name": "AGERA-AS-AP",
+    "org": "Agera Network and Data Solution",
+    "domain": "agerafiber.ph"
+  },
+  {
+    "network": "163.227.119.0/24",
+    "asn": "137193",
+    "country_code": "PH",
+    "name": "AGERA-AS-AP",
+    "org": "Agera Network and Data Solution",
+    "domain": "agerafiber.ph"
+  },
+  {
     "network": "163.227.123.0/24",
     "asn": "137208",
     "country_code": "PH",
@@ -53848,6 +53896,22 @@
     "domain": "jamersdigital.com"
   },
   {
+    "network": "165.101.62.0/23",
+    "asn": "153994",
+    "country_code": "PH",
+    "name": "BITSFIBEROPC-AS-AP",
+    "org": "BITSFIBER",
+    "domain": ""
+  },
+  {
+    "network": "2402:81e0::/32",
+    "asn": "153994",
+    "country_code": "PH",
+    "name": "BITSFIBEROPC-AS-AP",
+    "org": "BITSFIBER",
+    "domain": ""
+  },
+  {
     "network": "165.101.102.0/24",
     "asn": "154002",
     "country_code": "PH",
@@ -53897,6 +53961,22 @@
   },
   {
     "network": "165.101.180.0/23",
+    "asn": "151351",
+    "country_code": "PH",
+    "name": "ZNTTAS-AS-AP",
+    "org": "NICO ZERO THREE TRADING & SERVICES",
+    "domain": "jackfiber.com"
+  },
+  {
+    "network": "165.101.180.0/24",
+    "asn": "151351",
+    "country_code": "PH",
+    "name": "ZNTTAS-AS-AP",
+    "org": "NICO ZERO THREE TRADING & SERVICES",
+    "domain": "jackfiber.com"
+  },
+  {
+    "network": "165.101.181.0/24",
     "asn": "151351",
     "country_code": "PH",
     "name": "ZNTTAS-AS-AP",

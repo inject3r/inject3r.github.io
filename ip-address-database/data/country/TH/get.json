@@ -594,6 +594,12 @@
     "country_name": "Thailand"
   },
   {
+    "network": "13.141.1.0/24",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
     "network": "13.144.0.0/20",
     "continent_code": "AS",
     "country_code": "TH",
@@ -1231,6 +1237,12 @@
   },
   {
     "network": "27.254.0.0/16",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
+    "network": "31.14.103.0/24",
     "continent_code": "AS",
     "country_code": "TH",
     "country_name": "Thailand"
@@ -1945,12 +1957,6 @@
   },
   {
     "network": "43.255.60.0/22",
-    "continent_code": "AS",
-    "country_code": "TH",
-    "country_name": "Thailand"
-  },
-  {
-    "network": "43.255.104.0/22",
     "continent_code": "AS",
     "country_code": "TH",
     "country_name": "Thailand"
@@ -2712,7 +2718,7 @@
     "country_name": "Thailand"
   },
   {
-    "network": "45.201.100.0/22",
+    "network": "45.201.96.0/21",
     "continent_code": "AS",
     "country_code": "TH",
     "country_name": "Thailand"
@@ -2743,12 +2749,6 @@
   },
   {
     "network": "45.203.33.0/24",
-    "continent_code": "AS",
-    "country_code": "TH",
-    "country_name": "Thailand"
-  },
-  {
-    "network": "45.203.34.0/23",
     "continent_code": "AS",
     "country_code": "TH",
     "country_name": "Thailand"
@@ -5046,12 +5046,6 @@
     "country_name": "Thailand"
   },
   {
-    "network": "103.14.164.0/22",
-    "continent_code": "AS",
-    "country_code": "TH",
-    "country_name": "Thailand"
-  },
-  {
     "network": "103.14.178.0/24",
     "continent_code": "AS",
     "country_code": "TH",
@@ -6253,12 +6247,6 @@
   },
   {
     "network": "103.197.244.0/22",
-    "continent_code": "AS",
-    "country_code": "TH",
-    "country_name": "Thailand"
-  },
-  {
-    "network": "103.199.148.0/22",
     "continent_code": "AS",
     "country_code": "TH",
     "country_name": "Thailand"
@@ -7908,12 +7896,6 @@
     "country_name": "Thailand"
   },
   {
-    "network": "118.27.134.0/23",
-    "continent_code": "AS",
-    "country_code": "TH",
-    "country_name": "Thailand"
-  },
-  {
     "network": "118.27.140.0/23",
     "continent_code": "AS",
     "country_code": "TH",
@@ -8101,6 +8083,12 @@
   },
   {
     "network": "120.138.56.128/25",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
+    "network": "121.91.200.0/21",
     "continent_code": "AS",
     "country_code": "TH",
     "country_name": "Thailand"
@@ -11652,6 +11640,12 @@
     "country_name": "Thailand"
   },
   {
+    "network": "157.85.32.0/19",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
     "network": "157.85.96.0/20",
     "continent_code": "AS",
     "country_code": "TH",
@@ -12253,6 +12247,12 @@
   },
   {
     "network": "163.44.198.0/24",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
+    "network": "163.44.202.0/23",
     "continent_code": "AS",
     "country_code": "TH",
     "country_name": "Thailand"
@@ -13014,12 +13014,6 @@
     "country_name": "Thailand"
   },
   {
-    "network": "173.82.65.0/24",
-    "continent_code": "AS",
-    "country_code": "TH",
-    "country_name": "Thailand"
-  },
-  {
     "network": "173.82.67.0/24",
     "continent_code": "AS",
     "country_code": "TH",
@@ -13063,6 +13057,12 @@
   },
   {
     "network": "173.244.52.0/24",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
+    "network": "173.244.112.48/29",
     "continent_code": "AS",
     "country_code": "TH",
     "country_name": "Thailand"
@@ -19068,6 +19068,18 @@
     "country_name": "Thailand"
   },
   {
+    "network": "2a10:24c4:3480::/42",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
+    "network": "2a10:24c4:7480::/42",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
     "network": "2400:c540:c360::/43",
     "continent_code": "AS",
     "country_code": "TH",
@@ -19183,6 +19195,18 @@
   },
   {
     "network": "2a09:bac6:5840::/43",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
+    "network": "2a10:24c4:34c0::/43",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
+    "network": "2a10:24c4:74c0::/43",
     "continent_code": "AS",
     "country_code": "TH",
     "country_name": "Thailand"
@@ -26880,6 +26904,12 @@
     "country_name": "Thailand"
   },
   {
+    "network": "2401:af20:1be1::/48",
+    "continent_code": "AS",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  {
     "network": "2401:fa00:19::/48",
     "continent_code": "AS",
     "country_code": "TH",
@@ -32982,12 +33012,6 @@
     "country_name": "Thailand"
   },
   {
-    "network": "2001:470:f332:660::/64",
-    "continent_code": "AS",
-    "country_code": "TH",
-    "country_name": "Thailand"
-  },
-  {
     "network": "2001:470:f39a:660::/64",
     "continent_code": "AS",
     "country_code": "TH",
@@ -32995,18 +33019,6 @@
   },
   {
     "network": "2001:470:f5b7:660::/64",
-    "continent_code": "AS",
-    "country_code": "TH",
-    "country_name": "Thailand"
-  },
-  {
-    "network": "2001:470:f873:660::/64",
-    "continent_code": "AS",
-    "country_code": "TH",
-    "country_name": "Thailand"
-  },
-  {
-    "network": "2001:470:f8f9:660::/64",
     "continent_code": "AS",
     "country_code": "TH",
     "country_name": "Thailand"

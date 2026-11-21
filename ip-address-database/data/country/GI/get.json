@@ -1134,7 +1134,13 @@
     "country_name": "Gibraltar"
   },
   {
-    "network": "212.22.232.0/21",
+    "network": "212.22.234.0/23",
+    "continent_code": "EU",
+    "country_code": "GI",
+    "country_name": "Gibraltar"
+  },
+  {
+    "network": "212.22.236.0/22",
     "continent_code": "EU",
     "country_code": "GI",
     "country_name": "Gibraltar"
@@ -1350,18 +1356,6 @@
     "country_name": "Gibraltar"
   },
   {
-    "network": "2001:4b28:cb00::/40",
-    "continent_code": "EU",
-    "country_code": "GI",
-    "country_name": "Gibraltar"
-  },
-  {
-    "network": "2a01:528:cb00::/40",
-    "continent_code": "EU",
-    "country_code": "GI",
-    "country_name": "Gibraltar"
-  },
-  {
     "network": "2a03:dc40:100::/40",
     "continent_code": "EU",
     "country_code": "GI",
@@ -1393,12 +1387,6 @@
   },
   {
     "network": "2a04:1d44:cb00::/40",
-    "continent_code": "EU",
-    "country_code": "GI",
-    "country_name": "Gibraltar"
-  },
-  {
-    "network": "2a04:1d45:cb00::/40",
     "continent_code": "EU",
     "country_code": "GI",
     "country_name": "Gibraltar"
@@ -1488,6 +1476,18 @@
     "country_name": "Gibraltar"
   },
   {
+    "network": "2a10:24c4:940::/44",
+    "continent_code": "EU",
+    "country_code": "GI",
+    "country_name": "Gibraltar"
+  },
+  {
+    "network": "2a10:24c4:4940::/44",
+    "continent_code": "EU",
+    "country_code": "GI",
+    "country_name": "Gibraltar"
+  },
+  {
     "network": "2606:54c0:3868::/45",
     "continent_code": "EU",
     "country_code": "GI",
@@ -1567,6 +1567,12 @@
   },
   {
     "network": "2001:67c:1728::/48",
+    "continent_code": "EU",
+    "country_code": "GI",
+    "country_name": "Gibraltar"
+  },
+  {
+    "network": "2401:af20:1b78::/48",
     "continent_code": "EU",
     "country_code": "GI",
     "country_name": "Gibraltar"

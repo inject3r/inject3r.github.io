@@ -9728,6 +9728,14 @@
     "domain": "bezeqint.net"
   },
   {
+    "network": "79.178.72.0/24",
+    "asn": "8551",
+    "country_code": "IL",
+    "name": "BEZEQ-INTERNATIONAL-AS",
+    "org": "Bezeq International Ltd.",
+    "domain": "bezeqint.net"
+  },
+  {
     "network": "79.178.73.0/24",
     "asn": "8551",
     "country_code": "IL",
@@ -11753,14 +11761,6 @@
   },
   {
     "network": "79.179.194.0/24",
-    "asn": "8551",
-    "country_code": "IL",
-    "name": "BEZEQ-INTERNATIONAL-AS",
-    "org": "Bezeq International Ltd.",
-    "domain": "bezeqint.net"
-  },
-  {
-    "network": "79.179.195.0/24",
     "asn": "8551",
     "country_code": "IL",
     "name": "BEZEQ-INTERNATIONAL-AS",
@@ -16376,14 +16376,6 @@
     "domain": "pelephone.co.il"
   },
   {
-    "network": "87.199.136.0/22",
-    "asn": "16116",
-    "country_code": "IL",
-    "name": "UNSPECIFIED",
-    "org": "Pelephone Communications Ltd.",
-    "domain": "pelephone.co.il"
-  },
-  {
     "network": "89.37.236.0/22",
     "asn": "16116",
     "country_code": "IL",
@@ -18784,6 +18776,38 @@
     "domain": "099.net.il"
   },
   {
+    "network": "38.64.94.0/23",
+    "asn": "203859",
+    "country_code": "IL",
+    "name": "Voye_Global",
+    "org": "Voye Global Connectivity Ltd",
+    "domain": "voyeglobal.com"
+  },
+  {
+    "network": "38.255.18.0/23",
+    "asn": "203859",
+    "country_code": "IL",
+    "name": "Voye_Global",
+    "org": "Voye Global Connectivity Ltd",
+    "domain": "voyeglobal.com"
+  },
+  {
+    "network": "194.76.115.0/24",
+    "asn": "203859",
+    "country_code": "IL",
+    "name": "Voye_Global",
+    "org": "Voye Global Connectivity Ltd",
+    "domain": "voyeglobal.com"
+  },
+  {
+    "network": "213.137.93.0/24",
+    "asn": "203859",
+    "country_code": "IL",
+    "name": "Voye_Global",
+    "org": "Voye Global Connectivity Ltd",
+    "domain": "voyeglobal.com"
+  },
+  {
     "network": "38.64.218.0/23",
     "asn": "212698",
     "country_code": "IL",
@@ -19582,30 +19606,6 @@
     "name": "MIRASTEKSHORAT",
     "org": "MIRAS TEKSHORAT LTD",
     "domain": "kma.net.il"
-  },
-  {
-    "network": "38.255.18.0/23",
-    "asn": "203859",
-    "country_code": "IL",
-    "name": "Voye_Global",
-    "org": "Voye Global Connectivity Ltd",
-    "domain": "voyeglobal.com"
-  },
-  {
-    "network": "194.76.115.0/24",
-    "asn": "203859",
-    "country_code": "IL",
-    "name": "Voye_Global",
-    "org": "Voye Global Connectivity Ltd",
-    "domain": "voyeglobal.com"
-  },
-  {
-    "network": "213.137.93.0/24",
-    "asn": "203859",
-    "country_code": "IL",
-    "name": "Voye_Global",
-    "org": "Voye Global Connectivity Ltd",
-    "domain": "voyeglobal.com"
   },
   {
     "network": "41.71.128.0/17",
@@ -21648,15 +21648,7 @@
     "domain": "radware.com"
   },
   {
-    "network": "201.55.67.0/24",
-    "asn": "198949",
-    "country_code": "IL",
-    "name": "Radware",
-    "org": "Radware Ltd",
-    "domain": "radware.com"
-  },
-  {
-    "network": "201.55.78.0/24",
+    "network": "203.25.136.0/24",
     "asn": "198949",
     "country_code": "IL",
     "name": "Radware",
@@ -38800,6 +38792,14 @@
     "domain": "voicenter.com"
   },
   {
+    "network": "185.138.170.0/24",
+    "asn": "203110",
+    "country_code": "IL",
+    "name": "Voicenter-IL01",
+    "org": "Voicenter LTD",
+    "domain": "voicenter.com"
+  },
+  {
     "network": "185.138.169.0/24",
     "asn": "203077",
     "country_code": "IL",
@@ -40720,6 +40720,38 @@
     "domain": "seanet.co.il"
   },
   {
+    "network": "217.216.193.0/24",
+    "asn": "197324",
+    "country_code": "IL",
+    "name": "BGP43",
+    "org": "Vladyslav Koba",
+    "domain": "hop179.net"
+  },
+  {
+    "network": "2a0b:4e07:b43::/48",
+    "asn": "197324",
+    "country_code": "IL",
+    "name": "BGP43",
+    "org": "Vladyslav Koba",
+    "domain": "hop179.net"
+  },
+  {
+    "network": "2a0b:4e07:5180::/41",
+    "asn": "197324",
+    "country_code": "IL",
+    "name": "BGP43",
+    "org": "Vladyslav Koba",
+    "domain": "hop179.net"
+  },
+  {
+    "network": "2a0e:4001:300::/40",
+    "asn": "197324",
+    "country_code": "IL",
+    "name": "BGP43",
+    "org": "Vladyslav Koba",
+    "domain": "hop179.net"
+  },
+  {
     "network": "2001:67c:9b8::/48",
     "asn": "206020",
     "country_code": "IL",
@@ -40774,30 +40806,6 @@
     "name": "THREE-AM",
     "org": "Mikhail Fedorov",
     "domain": "3am.network"
-  },
-  {
-    "network": "2a0b:4e07:b43::/48",
-    "asn": "197324",
-    "country_code": "IL",
-    "name": "BGP43",
-    "org": "Vladyslav Koba",
-    "domain": "hop179.net"
-  },
-  {
-    "network": "2a0b:4e07:5180::/41",
-    "asn": "197324",
-    "country_code": "IL",
-    "name": "BGP43",
-    "org": "Vladyslav Koba",
-    "domain": "hop179.net"
-  },
-  {
-    "network": "2a0e:4001:300::/40",
-    "asn": "197324",
-    "country_code": "IL",
-    "name": "BGP43",
-    "org": "Vladyslav Koba",
-    "domain": "hop179.net"
   },
   {
     "network": "2a0c:9a40:890e::/48",

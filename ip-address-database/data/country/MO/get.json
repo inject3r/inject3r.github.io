@@ -120,7 +120,7 @@
     "country_name": "Macao"
   },
   {
-    "network": "45.202.246.152/29",
+    "network": "45.202.246.0/23",
     "continent_code": "AS",
     "country_code": "MO",
     "country_name": "Macao"
@@ -822,12 +822,6 @@
     "country_name": "Macao"
   },
   {
-    "network": "2a01:528:4700::/40",
-    "continent_code": "AS",
-    "country_code": "MO",
-    "country_name": "Macao"
-  },
-  {
     "network": "2a04:1d41:4700::/40",
     "continent_code": "AS",
     "country_code": "MO",
@@ -936,6 +930,18 @@
     "country_name": "Macao"
   },
   {
+    "network": "2a10:24c4:3740::/43",
+    "continent_code": "AS",
+    "country_code": "MO",
+    "country_name": "Macao"
+  },
+  {
+    "network": "2a10:24c4:7740::/43",
+    "continent_code": "AS",
+    "country_code": "MO",
+    "country_name": "Macao"
+  },
+  {
     "network": "2400:9380:80c0::/44",
     "continent_code": "AS",
     "country_code": "MO",
@@ -1027,6 +1033,18 @@
   },
   {
     "network": "2a0f:9403:7b0::/44",
+    "continent_code": "AS",
+    "country_code": "MO",
+    "country_name": "Macao"
+  },
+  {
+    "network": "2a10:24c4:3760::/44",
+    "continent_code": "AS",
+    "country_code": "MO",
+    "country_name": "Macao"
+  },
+  {
+    "network": "2a10:24c4:7760::/44",
     "continent_code": "AS",
     "country_code": "MO",
     "country_name": "Macao"
@@ -7566,6 +7584,12 @@
     "country_name": "Macao"
   },
   {
+    "network": "2401:af20:1ba8::/48",
+    "continent_code": "AS",
+    "country_code": "MO",
+    "country_name": "Macao"
+  },
+  {
     "network": "2403:5180:15::/48",
     "continent_code": "AS",
     "country_code": "MO",
@@ -10795,36 +10819,6 @@
   },
   {
     "network": "2001:470:1f29:192::/64",
-    "continent_code": "AS",
-    "country_code": "MO",
-    "country_name": "Macao"
-  },
-  {
-    "network": "2001:470:f332:8530::/64",
-    "continent_code": "AS",
-    "country_code": "MO",
-    "country_name": "Macao"
-  },
-  {
-    "network": "2001:470:f39a:8530::/64",
-    "continent_code": "AS",
-    "country_code": "MO",
-    "country_name": "Macao"
-  },
-  {
-    "network": "2001:470:f873:8530::/64",
-    "continent_code": "AS",
-    "country_code": "MO",
-    "country_name": "Macao"
-  },
-  {
-    "network": "2001:470:f8f9:8530::/64",
-    "continent_code": "AS",
-    "country_code": "MO",
-    "country_name": "Macao"
-  },
-  {
-    "network": "2001:470:fcce:8530::/64",
     "continent_code": "AS",
     "country_code": "MO",
     "country_name": "Macao"

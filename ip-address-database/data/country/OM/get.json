@@ -414,7 +414,13 @@
     "country_name": "Oman"
   },
   {
-    "network": "79.135.105.104/29",
+    "network": "79.135.105.106/31",
+    "continent_code": "AS",
+    "country_code": "OM",
+    "country_name": "Oman"
+  },
+  {
+    "network": "79.135.105.110/31",
     "continent_code": "AS",
     "country_code": "OM",
     "country_name": "Oman"
@@ -1338,7 +1344,7 @@
     "country_name": "Oman"
   },
   {
-    "network": "162.10.8.100/32",
+    "network": "162.10.8.100/31",
     "continent_code": "AS",
     "country_code": "OM",
     "country_name": "Oman"
@@ -2274,12 +2280,6 @@
     "country_name": "Oman"
   },
   {
-    "network": "2001:4b28:3200::/40",
-    "continent_code": "AS",
-    "country_code": "OM",
-    "country_name": "Oman"
-  },
-  {
     "network": "2a01:528:3200::/40",
     "continent_code": "AS",
     "country_code": "OM",
@@ -2382,6 +2382,18 @@
     "country_name": "Oman"
   },
   {
+    "network": "2a10:24c4:2880::/43",
+    "continent_code": "AS",
+    "country_code": "OM",
+    "country_name": "Oman"
+  },
+  {
+    "network": "2a10:24c4:6880::/43",
+    "continent_code": "AS",
+    "country_code": "OM",
+    "country_name": "Oman"
+  },
+  {
     "network": "2401:b60:1ab0::/44",
     "continent_code": "AS",
     "country_code": "OM",
@@ -2425,6 +2437,18 @@
   },
   {
     "network": "2a0f:9403:820::/44",
+    "continent_code": "AS",
+    "country_code": "OM",
+    "country_name": "Oman"
+  },
+  {
+    "network": "2a10:24c4:28a0::/44",
+    "continent_code": "AS",
+    "country_code": "OM",
+    "country_name": "Oman"
+  },
+  {
+    "network": "2a10:24c4:68a0::/44",
     "continent_code": "AS",
     "country_code": "OM",
     "country_name": "Oman"
@@ -2581,6 +2605,12 @@
   },
   {
     "network": "2400:cb00:1004::/48",
+    "continent_code": "AS",
+    "country_code": "OM",
+    "country_name": "Oman"
+  },
+  {
+    "network": "2401:af20:1bbd::/48",
     "continent_code": "AS",
     "country_code": "OM",
     "country_name": "Oman"

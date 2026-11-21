@@ -4816,7 +4816,7 @@
     "domain": ""
   },
   {
-    "network": "2803:5450:bc00::/42",
+    "network": "2803:5450:bc30::/44",
     "asn": "273134",
     "country_code": "CO",
     "name": "HOLA TELECOMUNICACINES COLOMBIA S.A.S",
@@ -5497,6 +5497,14 @@
   },
   {
     "network": "181.51.75.0/24",
+    "asn": "14080",
+    "country_code": "CO",
+    "name": "Telmex Colombia S.A.",
+    "org": "Telmex Colombia S.A.",
+    "domain": "claro.com.co"
+  },
+  {
+    "network": "181.51.114.0/24",
     "asn": "14080",
     "country_code": "CO",
     "name": "Telmex Colombia S.A.",
@@ -8928,6 +8936,14 @@
     "domain": "claro.com.co"
   },
   {
+    "network": "186.85.253.0/24",
+    "asn": "14080",
+    "country_code": "CO",
+    "name": "Telmex Colombia S.A.",
+    "org": "Telmex Colombia S.A.",
+    "domain": "claro.com.co"
+  },
+  {
     "network": "186.86.24.0/22",
     "asn": "14080",
     "country_code": "CO",
@@ -10497,6 +10513,14 @@
   },
   {
     "network": "186.147.195.0/24",
+    "asn": "14080",
+    "country_code": "CO",
+    "name": "Telmex Colombia S.A.",
+    "org": "Telmex Colombia S.A.",
+    "domain": "claro.com.co"
+  },
+  {
+    "network": "186.147.232.0/24",
     "asn": "14080",
     "country_code": "CO",
     "name": "Telmex Colombia S.A.",
@@ -13480,6 +13504,14 @@
     "domain": "claro.com.co"
   },
   {
+    "network": "2800:800:2f00::/44",
+    "asn": "14080",
+    "country_code": "CO",
+    "name": "Telmex Colombia S.A.",
+    "org": "Telmex Colombia S.A.",
+    "domain": "claro.com.co"
+  },
+  {
     "network": "2801:0:390::/48",
     "asn": "14080",
     "country_code": "CO",
@@ -14528,12 +14560,12 @@
     "domain": "linkgrouptelecomunicaciones.com"
   },
   {
-    "network": "38.4.152.0/21",
-    "asn": "266877",
+    "network": "38.4.125.0/24",
+    "asn": "275065",
     "country_code": "CO",
-    "name": "COLOMBIATEL TELECOMUNICACIONES",
-    "org": "COLOMBIATEL TELECOMUNICACIONES",
-    "domain": "colombiatel.co"
+    "name": "LINK GROUP TELECOMUNICACIONES S.A.S",
+    "org": "LINK GROUP TELECOMUNICACIONES S.A.S",
+    "domain": "linkgrouptelecomunicaciones.com"
   },
   {
     "network": "38.4.152.0/24",
@@ -15662,14 +15694,6 @@
     "name": "TV COLOMBIA DIGITAL SAS",
     "org": "TV COLOMBIA DIGITAL SAS",
     "domain": "tvcolombiadigital.com"
-  },
-  {
-    "network": "38.17.96.0/24",
-    "asn": "275071",
-    "country_code": "CO",
-    "name": "Rinku Soluciones S.A.S.",
-    "org": "Rinku Soluciones S.A.S.",
-    "domain": "rinkusoluciones.com"
   },
   {
     "network": "38.17.97.0/24",
@@ -21696,14 +21720,6 @@
     "domain": "etb.net.co"
   },
   {
-    "network": "2801:13e:5::/48",
-    "asn": "19429",
-    "country_code": "CO",
-    "name": "ETB - Colombia",
-    "org": "ETB - Colombia",
-    "domain": "etb.net.co"
-  },
-  {
     "network": "2801:149::/48",
     "asn": "19429",
     "country_code": "CO",
@@ -24825,6 +24841,14 @@
   },
   {
     "network": "2801:15:c800::/48",
+    "asn": "27951",
+    "country_code": "CO",
+    "name": "Media Commerce Partners S.A",
+    "org": "Media Commerce Partners S.A",
+    "domain": "mc.net.co"
+  },
+  {
+    "network": "2801:16:a800::/48",
     "asn": "27951",
     "country_code": "CO",
     "name": "Media Commerce Partners S.A",
@@ -28488,6 +28512,14 @@
     "domain": "internexa.com"
   },
   {
+    "network": "2800:310:100d::/48",
+    "asn": "18678",
+    "country_code": "CO",
+    "name": "INTERNEXA S.A. E.S.P",
+    "org": "INTERNEXA S.A. E.S.P",
+    "domain": "internexa.com"
+  },
+  {
     "network": "2800:310:1101::/48",
     "asn": "18678",
     "country_code": "CO",
@@ -29457,6 +29489,14 @@
   },
   {
     "network": "38.199.17.0/24",
+    "asn": "272137",
+    "country_code": "CO",
+    "name": "CONEXION COMERCIALIZACION DE SERVICIOS DE TELECOMUNICACIONES EMPALMERIA Y CONSTRUCCION DE REDES HFC DEL SUR COLOMBIA SAS",
+    "org": "CONEXION COMERCIALIZACION DE SERVICIOS DE TELECOMUNICACIONES EMPALMERIA Y CONSTRUCCION DE REDES HFC DEL SUR COLOMBIA SAS",
+    "domain": "surconexion.com"
+  },
+  {
+    "network": "38.199.26.0/24",
     "asn": "272137",
     "country_code": "CO",
     "name": "CONEXION COMERCIALIZACION DE SERVICIOS DE TELECOMUNICACIONES EMPALMERIA Y CONSTRUCCION DE REDES HFC DEL SUR COLOMBIA SAS",
@@ -40912,6 +40952,38 @@
     "domain": "globaltronik.co"
   },
   {
+    "network": "82.41.27.0/24",
+    "asn": "272977",
+    "country_code": "CO",
+    "name": "GLOBALTRONIK SAS",
+    "org": "GLOBALTRONIK SAS",
+    "domain": "globaltronik.co"
+  },
+  {
+    "network": "82.47.2.0/24",
+    "asn": "272977",
+    "country_code": "CO",
+    "name": "GLOBALTRONIK SAS",
+    "org": "GLOBALTRONIK SAS",
+    "domain": "globaltronik.co"
+  },
+  {
+    "network": "82.47.38.0/24",
+    "asn": "272977",
+    "country_code": "CO",
+    "name": "GLOBALTRONIK SAS",
+    "org": "GLOBALTRONIK SAS",
+    "domain": "globaltronik.co"
+  },
+  {
+    "network": "82.47.45.0/24",
+    "asn": "272977",
+    "country_code": "CO",
+    "name": "GLOBALTRONIK SAS",
+    "org": "GLOBALTRONIK SAS",
+    "domain": "globaltronik.co"
+  },
+  {
     "network": "2803:d590::/32",
     "asn": "272977",
     "country_code": "CO",
@@ -41457,6 +41529,14 @@
   },
   {
     "network": "2803:e3d0::/40",
+    "asn": "274208",
+    "country_code": "CO",
+    "name": "VERLA S.A.S.",
+    "org": "VERLA S.A.S.",
+    "domain": "verla.com.co"
+  },
+  {
+    "network": "2803:e3d0:3f00::/40",
     "asn": "274208",
     "country_code": "CO",
     "name": "VERLA S.A.S.",
@@ -44672,6 +44752,14 @@
     "domain": "colombiamas.co"
   },
   {
+    "network": "2803:15c0::/32",
+    "asn": "269822",
+    "country_code": "CO",
+    "name": "COLOMBIA MAS TV S.A.S",
+    "org": "COLOMBIA MAS TV S.A.S",
+    "domain": "colombiamas.co"
+  },
+  {
     "network": "2803:15c0::/34",
     "asn": "269822",
     "country_code": "CO",
@@ -47736,6 +47824,14 @@
     "domain": "azteca-comunicaciones.com"
   },
   {
+    "network": "2803:1a00:1525::/48",
+    "asn": "262186",
+    "country_code": "CO",
+    "name": "TV AZTECA SUCURSAL COLOMBIA",
+    "org": "TV AZTECA SUCURSAL COLOMBIA",
+    "domain": "azteca-comunicaciones.com"
+  },
+  {
     "network": "2803:1a00:1526::/48",
     "asn": "262186",
     "country_code": "CO",
@@ -47952,6 +48048,14 @@
     "domain": "azteca-comunicaciones.com"
   },
   {
+    "network": "2803:1a00:2522::/48",
+    "asn": "262186",
+    "country_code": "CO",
+    "name": "TV AZTECA SUCURSAL COLOMBIA",
+    "org": "TV AZTECA SUCURSAL COLOMBIA",
+    "domain": "azteca-comunicaciones.com"
+  },
+  {
     "network": "2803:1a00:2526::/48",
     "asn": "262186",
     "country_code": "CO",
@@ -48049,6 +48153,14 @@
   },
   {
     "network": "2803:1a00:2545::/48",
+    "asn": "262186",
+    "country_code": "CO",
+    "name": "TV AZTECA SUCURSAL COLOMBIA",
+    "org": "TV AZTECA SUCURSAL COLOMBIA",
+    "domain": "azteca-comunicaciones.com"
+  },
+  {
+    "network": "2803:1a00:2546::/48",
     "asn": "262186",
     "country_code": "CO",
     "name": "TV AZTECA SUCURSAL COLOMBIA",
@@ -48825,6 +48937,14 @@
   },
   {
     "network": "185.56.110.0/24",
+    "asn": "273015",
+    "country_code": "CO",
+    "name": "CHILCO NET S.A.S",
+    "org": "CHILCO NET S.A.S",
+    "domain": "chilco.com.co"
+  },
+  {
+    "network": "185.56.111.0/24",
     "asn": "273015",
     "country_code": "CO",
     "name": "CHILCO NET S.A.S",
@@ -51840,7 +51960,7 @@
     "domain": "inqtelsas.com.co"
   },
   {
-    "network": "2803:1390:200::/42",
+    "network": "2803:1390:180::/41",
     "asn": "273020",
     "country_code": "CO",
     "name": "IN QUALITY TELECOMUNICATIONS S.A.S. ZOMAC BIC",
@@ -52121,6 +52241,14 @@
   },
   {
     "network": "2803:ef20:100a::/48",
+    "asn": "266774",
+    "country_code": "CO",
+    "name": "HIZ TELECOMUNICACIONES S.A.S",
+    "org": "HIZ TELECOMUNICACIONES S.A.S",
+    "domain": "hiz.co"
+  },
+  {
+    "network": "2803:ef20:100d::/48",
     "asn": "266774",
     "country_code": "CO",
     "name": "HIZ TELECOMUNICACIONES S.A.S",
@@ -54680,7 +54808,7 @@
     "domain": ""
   },
   {
-    "network": "152.234.148.0/23",
+    "network": "152.234.148.0/22",
     "asn": "271792",
     "country_code": "CO",
     "name": "ONRED SOLUCIONES DE CONECTIVIDAD S.A.S.",
@@ -58064,22 +58192,6 @@
     "domain": "claro.com.co"
   },
   {
-    "network": "2800:800:580::/44",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:590::/44",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
     "network": "2800:800:5a0::/44",
     "asn": "26611",
     "country_code": "CO",
@@ -60689,206 +60801,6 @@
   },
   {
     "network": "2800:800:cfe::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d00::/46",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d04::/46",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d08::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d0a::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d0c::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d0e::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d14::/46",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d18::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d1a::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d1c::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d1e::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d20::/46",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d24::/46",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d28::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d2a::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d2c::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d2e::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d30::/46",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d34::/46",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d38::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d3a::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d3c::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d3e::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d40::/46",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:d44::/46",
     "asn": "26611",
     "country_code": "CO",
     "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
@@ -64561,30 +64473,6 @@
   },
   {
     "network": "2800:800:24d6::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:252c::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:2548::/47",
-    "asn": "26611",
-    "country_code": "CO",
-    "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "org": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
-    "domain": "claro.com.co"
-  },
-  {
-    "network": "2800:800:2588::/47",
     "asn": "26611",
     "country_code": "CO",
     "name": "COMUNICACIÓN CELULAR S.A. COMCEL S.A.",
@@ -102512,6 +102400,14 @@
     "domain": "irsas.co"
   },
   {
+    "network": "2803:3250:eab0::/48",
+    "asn": "273168",
+    "country_code": "CO",
+    "name": "INFRAESTRUCTURA Y REDES SAS",
+    "org": "INFRAESTRUCTURA Y REDES SAS",
+    "domain": "irsas.co"
+  },
+  {
     "network": "2803:3250:eabb::/48",
     "asn": "273168",
     "country_code": "CO",
@@ -102521,6 +102417,14 @@
   },
   {
     "network": "2803:3250:eac3::/48",
+    "asn": "273168",
+    "country_code": "CO",
+    "name": "INFRAESTRUCTURA Y REDES SAS",
+    "org": "INFRAESTRUCTURA Y REDES SAS",
+    "domain": "irsas.co"
+  },
+  {
+    "network": "2803:3250:eace::/48",
     "asn": "273168",
     "country_code": "CO",
     "name": "INFRAESTRUCTURA Y REDES SAS",

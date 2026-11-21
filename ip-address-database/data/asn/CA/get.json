@@ -15952,7 +15952,15 @@
     "domain": "bell.ca"
   },
   {
-    "network": "167.74.92.0/22",
+    "network": "167.74.92.0/23",
+    "asn": "855",
+    "country_code": "CA",
+    "name": "CANET-ASN-4",
+    "org": "Bell Canada",
+    "domain": "bell.ca"
+  },
+  {
+    "network": "167.74.94.0/23",
     "asn": "855",
     "country_code": "CA",
     "name": "CANET-ASN-4",
@@ -15976,7 +15984,15 @@
     "domain": "bell.ca"
   },
   {
-    "network": "167.74.140.0/22",
+    "network": "167.74.140.0/23",
+    "asn": "855",
+    "country_code": "CA",
+    "name": "CANET-ASN-4",
+    "org": "Bell Canada",
+    "domain": "bell.ca"
+  },
+  {
+    "network": "167.74.142.0/23",
     "asn": "855",
     "country_code": "CA",
     "name": "CANET-ASN-4",
@@ -17393,14 +17409,6 @@
   },
   {
     "network": "2620:12b:5006::/48",
-    "asn": "27381",
-    "country_code": "CA",
-    "name": "CASALE-MEDIA",
-    "org": "Index Exchange Inc.",
-    "domain": "indexexchange.com"
-  },
-  {
-    "network": "2a05:79c0:2::/48",
     "asn": "27381",
     "country_code": "CA",
     "name": "CASALE-MEDIA",
@@ -19177,6 +19185,14 @@
   },
   {
     "network": "138.113.33.0/24",
+    "asn": "54994",
+    "country_code": "CA",
+    "name": "ML-1432-54994",
+    "org": "Meteverse Limited.",
+    "domain": "meteversecloud.com"
+  },
+  {
+    "network": "138.113.34.0/24",
     "asn": "54994",
     "country_code": "CA",
     "name": "ML-1432-54994",
@@ -22161,14 +22177,6 @@
   },
   {
     "network": "153.43.56.0/24",
-    "asn": "54994",
-    "country_code": "CA",
-    "name": "ML-1432-54994",
-    "org": "Meteverse Limited.",
-    "domain": "meteversecloud.com"
-  },
-  {
-    "network": "153.43.57.0/24",
     "asn": "54994",
     "country_code": "CA",
     "name": "ML-1432-54994",
@@ -56280,14 +56288,6 @@
     "domain": "freerangecloud.com"
   },
   {
-    "network": "140.235.216.0/22",
-    "asn": "53356",
-    "country_code": "CA",
-    "name": "FREE RANGE CLOUD",
-    "org": "Free Range Cloud Hosting Inc.",
-    "domain": "freerangecloud.com"
-  },
-  {
     "network": "142.202.91.0/24",
     "asn": "53356",
     "country_code": "CA",
@@ -56321,14 +56321,6 @@
   },
   {
     "network": "148.135.163.0/24",
-    "asn": "53356",
-    "country_code": "CA",
-    "name": "FREE RANGE CLOUD",
-    "org": "Free Range Cloud Hosting Inc.",
-    "domain": "freerangecloud.com"
-  },
-  {
-    "network": "151.243.104.0/24",
     "asn": "53356",
     "country_code": "CA",
     "name": "FREE RANGE CLOUD",
@@ -56433,14 +56425,6 @@
   },
   {
     "network": "195.62.20.0/23",
-    "asn": "53356",
-    "country_code": "CA",
-    "name": "FREE RANGE CLOUD",
-    "org": "Free Range Cloud Hosting Inc.",
-    "domain": "freerangecloud.com"
-  },
-  {
-    "network": "204.14.79.0/24",
     "asn": "53356",
     "country_code": "CA",
     "name": "FREE RANGE CLOUD",
@@ -62209,14 +62193,6 @@
   },
   {
     "network": "184.95.240.0/20",
-    "asn": "22652",
-    "country_code": "CA",
-    "name": "FIBRENOIRE-INTERNET",
-    "org": "Videotron Ltee",
-    "domain": "fibrenoire.ca"
-  },
-  {
-    "network": "184.95.242.0/24",
     "asn": "22652",
     "country_code": "CA",
     "name": "FIBRENOIRE-INTERNET",
@@ -68741,7 +68717,7 @@
     "country_code": "CA",
     "name": "OPS-60-AS",
     "org": "Oshawa PUC Services Inc",
-    "domain": "hcetelecom.com"
+    "domain": "as393457.net"
   },
   {
     "network": "45.59.188.0/22",
@@ -68749,7 +68725,7 @@
     "country_code": "CA",
     "name": "OPS-60-AS",
     "org": "Oshawa PUC Services Inc",
-    "domain": "hcetelecom.com"
+    "domain": "as393457.net"
   },
   {
     "network": "2605:f4c0::/32",
@@ -68757,7 +68733,7 @@
     "country_code": "CA",
     "name": "OPS-60-AS",
     "org": "Oshawa PUC Services Inc",
-    "domain": "hcetelecom.com"
+    "domain": "as393457.net"
   },
   {
     "network": "23.166.164.0/24",
@@ -106749,7 +106725,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "24.48.177.0/24",
@@ -106757,7 +106733,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "24.48.178.0/24",
@@ -106765,7 +106741,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "24.48.179.0/24",
@@ -106773,7 +106749,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "24.48.180.0/24",
@@ -106781,7 +106757,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "24.48.181.0/24",
@@ -106789,7 +106765,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "66.185.48.0/24",
@@ -106797,7 +106773,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "66.185.50.0/24",
@@ -106805,7 +106781,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "66.185.55.0/24",
@@ -106813,7 +106789,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "66.185.56.0/24",
@@ -106821,7 +106797,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "66.185.59.0/24",
@@ -106829,7 +106805,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "66.185.60.0/24",
@@ -106837,7 +106813,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "66.185.61.0/24",
@@ -106845,7 +106821,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "66.185.62.0/24",
@@ -106853,7 +106829,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "66.185.63.0/24",
@@ -106861,7 +106837,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "69.24.48.0/24",
@@ -106869,7 +106845,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "69.24.49.0/24",
@@ -106877,7 +106853,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "69.24.50.0/24",
@@ -106885,7 +106861,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "69.24.51.0/24",
@@ -106893,7 +106869,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "69.24.55.0/24",
@@ -106901,7 +106877,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "69.24.57.0/24",
@@ -106909,7 +106885,7 @@
     "country_code": "CA",
     "name": "TELEDISTRIBUTION-AMOS-INC",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "24.49.224.0/19",
@@ -106917,7 +106893,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.50.64.0/18",
@@ -106925,7 +106901,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.54.0.0/18",
@@ -106933,7 +106909,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.75.176.0/20",
@@ -106941,7 +106917,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.122.0.0/16",
@@ -106949,7 +106925,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.138.80.0/20",
@@ -106957,7 +106933,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.142.80.0/20",
@@ -106965,7 +106941,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.153.96.0/20",
@@ -106973,7 +106949,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.204.144.0/20",
@@ -106981,7 +106957,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.226.128.0/17",
@@ -106989,7 +106965,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.230.192.0/18",
@@ -106997,7 +106973,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.231.0.0/20",
@@ -107005,7 +106981,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "45.42.36.0/22",
@@ -107013,7 +106989,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "57.134.0.0/17",
@@ -107021,7 +106997,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "66.171.48.0/20",
@@ -107029,7 +107005,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "72.11.160.0/19",
@@ -107037,7 +107013,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "74.210.128.0/17",
@@ -107045,7 +107021,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "104.37.200.0/21",
@@ -107053,7 +107029,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "104.192.116.0/22",
@@ -107061,7 +107037,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "104.200.80.0/20",
@@ -107069,7 +107045,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "104.218.124.0/22",
@@ -107077,7 +107053,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "104.244.68.0/22",
@@ -107085,7 +107061,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "104.245.152.0/21",
@@ -107093,7 +107069,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "108.171.64.0/19",
@@ -107101,7 +107077,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "140.106.0.0/19",
@@ -107109,7 +107085,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "144.168.52.0/22",
@@ -107117,7 +107093,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "157.208.0.0/18",
@@ -107125,7 +107101,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "158.222.104.0/21",
@@ -107133,7 +107109,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "162.212.8.0/22",
@@ -107141,7 +107117,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "162.217.4.0/22",
@@ -107149,7 +107125,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "162.223.0.0/22",
@@ -107157,7 +107133,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "162.244.44.0/22",
@@ -107165,7 +107141,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "162.247.92.0/22",
@@ -107173,7 +107149,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "162.252.216.0/21",
@@ -107181,7 +107157,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "170.249.32.0/19",
@@ -107189,7 +107165,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "170.249.80.0/21",
@@ -107197,7 +107173,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "172.97.52.0/22",
@@ -107205,7 +107181,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "173.0.192.0/20",
@@ -107213,7 +107189,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "184.75.128.0/20",
@@ -107221,7 +107197,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "199.36.124.0/22",
@@ -107229,7 +107205,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "199.102.200.0/21",
@@ -107237,7 +107213,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "199.193.168.0/21",
@@ -107245,7 +107221,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "204.144.60.0/22",
@@ -107253,7 +107229,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "205.151.61.0/24",
@@ -107261,7 +107237,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "205.151.62.0/23",
@@ -107269,7 +107245,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "205.151.64.0/22",
@@ -107277,7 +107253,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "205.151.68.0/23",
@@ -107285,7 +107261,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "205.236.42.0/24",
@@ -107293,7 +107269,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "205.237.35.0/24",
@@ -107301,7 +107277,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "205.237.36.0/22",
@@ -107309,7 +107285,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "205.237.40.0/21",
@@ -107317,7 +107293,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "205.237.48.0/20",
@@ -107325,7 +107301,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "205.237.64.0/21",
@@ -107333,7 +107309,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "206.123.14.0/24",
@@ -107341,7 +107317,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "208.77.10.0/23",
@@ -107349,7 +107325,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "208.96.192.0/18",
@@ -107357,7 +107333,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "208.118.208.0/20",
@@ -107365,7 +107341,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "209.15.64.0/19",
@@ -107373,7 +107349,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "209.15.160.0/19",
@@ -107381,7 +107357,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "209.54.64.0/20",
@@ -107389,7 +107365,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "209.169.128.0/18",
@@ -107397,7 +107373,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "216.71.80.0/20",
@@ -107405,7 +107381,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "216.228.208.0/20",
@@ -107413,7 +107389,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "2001:18c0::/32",
@@ -107421,7 +107397,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "2602:210::/32",
@@ -107429,7 +107405,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "2604:4d80::/32",
@@ -107437,7 +107413,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "2606:6300::/32",
@@ -107445,7 +107421,7 @@
     "country_code": "CA",
     "name": "CC-3272",
     "org": "Cogeco Connexion inc",
-    "domain": "cogeco.com"
+    "domain": "cgocable.ca"
   },
   {
     "network": "24.53.80.0/20",
@@ -111616,14 +111592,6 @@
     "domain": "bell.ca"
   },
   {
-    "network": "69.158.192.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
     "network": "69.158.209.0/24",
     "asn": "577",
     "country_code": "CA",
@@ -114528,14 +114496,6 @@
     "domain": "bell.ca"
   },
   {
-    "network": "142.134.7.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
     "network": "142.134.44.0/24",
     "asn": "577",
     "country_code": "CA",
@@ -114561,14 +114521,6 @@
   },
   {
     "network": "142.134.47.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "142.134.57.0/24",
     "asn": "577",
     "country_code": "CA",
     "name": "BACOM",
@@ -121424,22 +121376,6 @@
     "domain": "bell.ca"
   },
   {
-    "network": "184.150.98.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "184.150.108.0/24",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
     "network": "184.150.128.0/18",
     "asn": "577",
     "country_code": "CA",
@@ -121593,14 +121529,6 @@
   },
   {
     "network": "184.150.192.0/21",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
-    "network": "184.150.199.0/24",
     "asn": "577",
     "country_code": "CA",
     "name": "BACOM",
@@ -123728,14 +123656,6 @@
     "domain": "bell.ca"
   },
   {
-    "network": "2605:b100:eff::/48",
-    "asn": "577",
-    "country_code": "CA",
-    "name": "BACOM",
-    "org": "Bell Canada",
-    "domain": "bell.ca"
-  },
-  {
     "network": "2605:b100:f01::/48",
     "asn": "577",
     "country_code": "CA",
@@ -125614,6 +125534,422 @@
     "name": "CIKTELECOM-CABLE",
     "org": "CIK Telecom INC",
     "domain": "ciktel.com"
+  },
+  {
+    "network": "24.156.192.0/18",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.9.64.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.17.47.0/24",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.18.128.0/21",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.21.48.0/21",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.23.160.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.23.224.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.30.128.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.35.192.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.39.136.0/21",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.40.96.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.40.112.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.49.160.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.55.64.0/21",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.59.160.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.61.48.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.61.64.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.74.32.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.80.96.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.108.78.0/24",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.108.82.0/24",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.131.64.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.133.32.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.141.128.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.141.170.0/23",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.141.172.0/23",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.141.174.0/24",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.141.192.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.143.192.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.145.85.0/24",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.147.240.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.175.128.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "38.240.192.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "80.43.64.0/18",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "149.115.32.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "149.115.64.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "149.115.64.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "154.22.96.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "154.27.32.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "161.199.164.0/22",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "162.142.114.0/23",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "167.248.160.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "179.194.0.0/17",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "179.194.128.0/18",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "179.194.192.0/18",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "179.195.0.0/17",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "179.195.128.0/17",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "207.60.64.0/19",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "207.60.64.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "207.60.80.0/20",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "209.172.20.0/22",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
+  },
+  {
+    "network": "217.28.24.0/21",
+    "asn": "398721",
+    "country_code": "CA",
+    "name": "OXIO-ASN-01",
+    "org": "OXIO",
+    "domain": "cogeco.com"
   },
   {
     "network": "24.212.0.0/19",
@@ -127734,414 +128070,6 @@
     "name": "EHTEL",
     "org": "Eh!Tel Networks Inc.",
     "domain": "ehtel.ca"
-  },
-  {
-    "network": "38.9.64.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.17.47.0/24",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.18.128.0/21",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.21.48.0/21",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.23.160.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.23.224.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.30.128.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.35.192.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.39.136.0/21",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.40.96.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.40.112.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.49.160.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.55.64.0/21",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.59.160.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.61.48.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.61.64.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.74.32.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.80.96.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.108.78.0/24",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.108.82.0/24",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.131.64.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.133.32.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.141.128.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.141.170.0/23",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.141.172.0/23",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.141.174.0/24",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.141.192.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.143.192.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.145.85.0/24",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.147.240.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.175.128.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "38.240.192.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "80.43.64.0/18",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "149.115.32.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "149.115.64.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "149.115.64.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "154.22.96.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "154.27.32.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "161.199.164.0/22",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "162.142.114.0/23",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "167.248.160.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "179.194.0.0/17",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "179.194.128.0/18",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "179.194.192.0/18",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "179.195.0.0/17",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "179.195.128.0/17",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "207.60.64.0/19",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "207.60.64.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "207.60.80.0/20",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "209.172.20.0/22",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
-  },
-  {
-    "network": "217.28.24.0/21",
-    "asn": "398721",
-    "country_code": "CA",
-    "name": "OXIO-ASN-01",
-    "org": "OXIO",
-    "domain": "cogeco.com"
   },
   {
     "network": "38.9.96.0/22",
@@ -135293,7 +135221,7 @@
     "country_code": "CA",
     "name": "GRASSROOTS-TECHNOLOGY",
     "org": "Harmonize Networks Inc",
-    "domain": "gograssroots.ca"
+    "domain": "harmonizenetworks.com"
   },
   {
     "network": "192.189.78.0/24",
@@ -135301,7 +135229,7 @@
     "country_code": "CA",
     "name": "GRASSROOTS-TECHNOLOGY",
     "org": "Harmonize Networks Inc",
-    "domain": "gograssroots.ca"
+    "domain": "harmonizenetworks.com"
   },
   {
     "network": "38.69.161.0/24",
@@ -139328,22 +139256,6 @@
     "domain": "as60900.net"
   },
   {
-    "network": "2602:f50c:640::/48",
-    "asn": "60900",
-    "country_code": "CA",
-    "name": "SsmidgeTechnologies",
-    "org": "Adrian Trifonov trading as Ssmidge Technologies",
-    "domain": "as60900.net"
-  },
-  {
-    "network": "2602:f50c:641::/48",
-    "asn": "60900",
-    "country_code": "CA",
-    "name": "SsmidgeTechnologies",
-    "org": "Adrian Trifonov trading as Ssmidge Technologies",
-    "domain": "as60900.net"
-  },
-  {
     "network": "2602:f50c:650::/48",
     "asn": "60900",
     "country_code": "CA",
@@ -140173,7 +140085,7 @@
     "country_code": "CA",
     "name": "BCWARN",
     "org": "British Columbia Frequency Modulation Communications Association",
-    "domain": "meakins.ca"
+    "domain": "bcwarn.net"
   },
   {
     "network": "44.135.208.0/21",
@@ -140181,7 +140093,7 @@
     "country_code": "CA",
     "name": "BCWARN",
     "org": "British Columbia Frequency Modulation Communications Association",
-    "domain": "meakins.ca"
+    "domain": "bcwarn.net"
   },
   {
     "network": "206.12.104.0/22",
@@ -140189,7 +140101,7 @@
     "country_code": "CA",
     "name": "BCWARN",
     "org": "British Columbia Frequency Modulation Communications Association",
-    "domain": "meakins.ca"
+    "domain": "bcwarn.net"
   },
   {
     "network": "44.32.97.0/24",
@@ -142445,7 +142357,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.104.0/23",
@@ -142453,7 +142365,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.104.0/24",
@@ -142461,7 +142373,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.105.0/24",
@@ -142469,7 +142381,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.106.0/24",
@@ -142477,7 +142389,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.107.0/24",
@@ -142485,7 +142397,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.124.0/22",
@@ -142493,7 +142405,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.124.0/24",
@@ -142501,7 +142413,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.126.0/24",
@@ -142509,7 +142421,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.127.0/24",
@@ -142517,7 +142429,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.168.0/23",
@@ -142525,7 +142437,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.196.0/22",
@@ -142533,7 +142445,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.196.0/23",
@@ -142541,7 +142453,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.198.0/23",
@@ -142549,7 +142461,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.200.0/22",
@@ -142557,7 +142469,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.200.0/23",
@@ -142565,7 +142477,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.202.0/23",
@@ -142573,7 +142485,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.208.0/22",
@@ -142581,7 +142493,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.208.0/23",
@@ -142589,7 +142501,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.210.0/23",
@@ -142597,7 +142509,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.224.0/20",
@@ -142605,7 +142517,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.224.0/21",
@@ -142613,7 +142525,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.232.0/21",
@@ -142621,7 +142533,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.240.0/20",
@@ -142629,7 +142541,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.240.0/21",
@@ -142637,7 +142549,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.44.248.0/21",
@@ -142645,7 +142557,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "104.158.20.0/24",
@@ -142653,7 +142565,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "104.158.21.0/24",
@@ -142661,7 +142573,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "104.158.22.0/24",
@@ -142669,7 +142581,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "104.158.24.0/22",
@@ -142677,7 +142589,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "104.158.32.0/22",
@@ -142685,7 +142597,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "104.158.48.0/22",
@@ -142693,7 +142605,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "104.158.52.0/22",
@@ -142701,7 +142613,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "104.158.60.0/22",
@@ -142709,7 +142621,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "104.158.64.0/22",
@@ -142717,7 +142629,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "104.158.76.0/22",
@@ -142725,7 +142637,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "198.251.48.0/23",
@@ -142733,7 +142645,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "198.251.50.0/23",
@@ -142741,7 +142653,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "198.251.50.0/24",
@@ -142749,7 +142661,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "198.251.51.0/24",
@@ -142757,7 +142669,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "198.251.52.0/22",
@@ -142765,7 +142677,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "198.251.56.0/21",
@@ -142773,7 +142685,7 @@
     "country_code": "CA",
     "name": "VIANET",
     "org": "Videotron Ltee",
-    "domain": "videotron.com"
+    "domain": "videotron.ca"
   },
   {
     "network": "45.45.148.0/24",
@@ -143097,6 +143009,14 @@
   },
   {
     "network": "136.175.79.0/24",
+    "asn": "54182",
+    "country_code": "CA",
+    "name": "AXIA-CONNECT",
+    "org": "Bell Canada",
+    "domain": "bell.ca"
+  },
+  {
+    "network": "140.235.213.0/24",
     "asn": "54182",
     "country_code": "CA",
     "name": "AXIA-CONNECT",
@@ -149312,143 +149232,7 @@
     "domain": "dataduct.io"
   },
   {
-    "network": "61.8.176.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.177.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.178.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.179.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.180.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.181.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.182.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.184.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.185.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.186.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.187.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.188.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "61.8.189.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
     "network": "76.164.216.0/22",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "76.164.216.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "76.164.217.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "76.164.218.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "76.164.219.0/24",
     "asn": "63134",
     "country_code": "CA",
     "name": "IHR-TELECOM",
@@ -149464,87 +149248,7 @@
     "domain": "dataduct.io"
   },
   {
-    "network": "169.150.4.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "169.150.5.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "169.150.6.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "169.150.7.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
     "network": "199.91.240.0/21",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "199.91.242.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "199.91.243.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "199.91.244.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "199.91.245.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "199.91.246.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "199.91.247.0/24",
     "asn": "63134",
     "country_code": "CA",
     "name": "IHR-TELECOM",
@@ -149560,87 +149264,7 @@
     "domain": "dataduct.io"
   },
   {
-    "network": "199.204.185.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "199.204.186.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "199.204.187.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
     "network": "205.173.160.0/21",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "205.173.160.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "205.173.161.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "205.173.162.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "205.173.163.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "205.173.164.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "205.173.165.0/24",
-    "asn": "63134",
-    "country_code": "CA",
-    "name": "IHR-TELECOM",
-    "org": "Developpement Innovations Haut-Richelieu",
-    "domain": "dataduct.io"
-  },
-  {
-    "network": "205.173.166.0/24",
     "asn": "63134",
     "country_code": "CA",
     "name": "IHR-TELECOM",
@@ -159261,7 +158885,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "66.112.176.0/20",
@@ -159269,7 +158893,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "72.172.96.0/19",
@@ -159277,7 +158901,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "74.214.128.0/20",
@@ -159285,7 +158909,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "74.214.144.0/20",
@@ -159293,7 +158917,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "162.208.36.0/22",
@@ -159301,7 +158925,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "162.220.36.0/22",
@@ -159309,7 +158933,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "162.248.152.0/21",
@@ -159317,7 +158941,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "170.253.96.0/19",
@@ -159325,7 +158949,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "173.209.112.0/20",
@@ -159333,7 +158957,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "192.40.136.0/22",
@@ -159341,7 +158965,7 @@
     "country_code": "CA",
     "name": "MCSNET",
     "org": "MCSNet",
-    "domain": "manabit.com"
+    "domain": "mcsnet.ca"
   },
   {
     "network": "64.190.186.0/24",
@@ -162472,6 +162096,14 @@
     "domain": "astuteinternet.com"
   },
   {
+    "network": "107.161.36.0/24",
+    "asn": "54527",
+    "country_code": "CA",
+    "name": "ASTUTEHOSTING",
+    "org": "Astute Internet",
+    "domain": "astuteinternet.com"
+  },
+  {
     "network": "135.84.176.0/21",
     "asn": "54527",
     "country_code": "CA",
@@ -163073,22 +162705,6 @@
   },
   {
     "network": "173.224.241.0/24",
-    "asn": "19935",
-    "country_code": "CA",
-    "name": "CRRS",
-    "org": "CRRS-TV",
-    "domain": "crrstv.net"
-  },
-  {
-    "network": "173.224.242.0/24",
-    "asn": "19935",
-    "country_code": "CA",
-    "name": "CRRS",
-    "org": "CRRS-TV",
-    "domain": "crrstv.net"
-  },
-  {
-    "network": "173.224.243.0/24",
     "asn": "19935",
     "country_code": "CA",
     "name": "CRRS",
@@ -165509,7 +165125,7 @@
     "country_code": "CA",
     "name": "VIANET-INC",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "162.255.176.0/22",
@@ -165517,7 +165133,7 @@
     "country_code": "CA",
     "name": "VIANET-INC",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "172.93.56.0/22",
@@ -165525,7 +165141,7 @@
     "country_code": "CA",
     "name": "VIANET-INC",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "199.19.160.0/21",
@@ -165533,7 +165149,7 @@
     "country_code": "CA",
     "name": "VIANET-INC",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "216.238.32.0/22",
@@ -165541,7 +165157,7 @@
     "country_code": "CA",
     "name": "VIANET-INC",
     "org": "Vianet Inc.",
-    "domain": "vianet.ca"
+    "domain": "vianet.on.ca"
   },
   {
     "network": "66.207.36.0/22",
@@ -169992,6 +169608,14 @@
     "domain": "galaxybroadband.ca"
   },
   {
+    "network": "2607:72c0::/48",
+    "asn": "14500",
+    "country_code": "CA",
+    "name": "GALAXYBROADBAND-01",
+    "org": "Galaxy Broadband Communications Inc.",
+    "domain": "galaxybroadband.ca"
+  },
+  {
     "network": "2607:72c0:100::/48",
     "asn": "14500",
     "country_code": "CA",
@@ -171461,7 +171085,7 @@
     "country_code": "CA",
     "name": "AS-HWDSB",
     "org": "Hamilton-Wentworth District School Board",
-    "domain": "hcetelecom.com"
+    "domain": "as393457.net"
   },
   {
     "network": "69.158.225.0/24",
@@ -177328,6 +176952,14 @@
     "domain": "netskrt.io"
   },
   {
+    "network": "207.22.38.0/24",
+    "asn": "400196",
+    "country_code": "CA",
+    "name": "NETSKRTSYSTEMS-GLOBAL",
+    "org": "Netskrt",
+    "domain": "netskrt.io"
+  },
+  {
     "network": "208.52.177.0/24",
     "asn": "400196",
     "country_code": "CA",
@@ -181792,6 +181424,14 @@
     "domain": "sisc.com"
   },
   {
+    "network": "2605:49c0:1::/48",
+    "asn": "15094",
+    "country_code": "CA",
+    "name": "SISC",
+    "org": "SIS Consulting",
+    "domain": "sisc.com"
+  },
+  {
     "network": "2605:49c0:2::/48",
     "asn": "15094",
     "country_code": "CA",
@@ -182253,7 +181893,7 @@
     "country_code": "CA",
     "name": "INFOZILLION-BD",
     "org": "IPvision",
-    "domain": "ipvision-inc.com"
+    "domain": "ipvision.ca"
   },
   {
     "network": "104.193.107.0/24",
@@ -182549,7 +182189,7 @@
     "country_code": "CA",
     "name": "LUMINET-SOLUTIONS",
     "org": "Luminet",
-    "domain": "it-ed.com"
+    "domain": "luminet.ca"
   },
   {
     "network": "104.224.37.0/24",
@@ -182557,7 +182197,7 @@
     "country_code": "CA",
     "name": "LUMINET-SOLUTIONS",
     "org": "Luminet",
-    "domain": "it-ed.com"
+    "domain": "luminet.ca"
   },
   {
     "network": "104.224.38.0/24",
@@ -182565,7 +182205,7 @@
     "country_code": "CA",
     "name": "LUMINET-SOLUTIONS",
     "org": "Luminet",
-    "domain": "it-ed.com"
+    "domain": "luminet.ca"
   },
   {
     "network": "104.224.39.0/24",
@@ -182573,7 +182213,7 @@
     "country_code": "CA",
     "name": "LUMINET-SOLUTIONS",
     "org": "Luminet",
-    "domain": "it-ed.com"
+    "domain": "luminet.ca"
   },
   {
     "network": "104.224.48.0/24",
@@ -183329,14 +182969,6 @@
   },
   {
     "network": "107.161.36.0/22",
-    "asn": "39962",
-    "country_code": "CA",
-    "name": "PRETECS",
-    "org": "FullHost",
-    "domain": "fullhost.net"
-  },
-  {
-    "network": "107.161.36.0/24",
     "asn": "39962",
     "country_code": "CA",
     "name": "PRETECS",
@@ -190304,6 +189936,14 @@
     "domain": "upei.ca"
   },
   {
+    "network": "137.169.50.0/24",
+    "asn": "22947",
+    "country_code": "CA",
+    "name": "IN-VPN-VENDOR-ASN",
+    "org": "Interac Corp.",
+    "domain": "interac.ca"
+  },
+  {
     "network": "137.207.0.0/16",
     "asn": "11700",
     "country_code": "CA",
@@ -193621,7 +193261,7 @@
     "country_code": "CA",
     "name": "SNINTERNET-AS",
     "org": "Six Nations Internet",
-    "domain": "firstnationscable.com"
+    "domain": "sixtel.ca"
   },
   {
     "network": "142.47.104.0/21",
@@ -193629,7 +193269,7 @@
     "country_code": "CA",
     "name": "SNINTERNET-AS",
     "org": "Six Nations Internet",
-    "domain": "firstnationscable.com"
+    "domain": "sixtel.ca"
   },
   {
     "network": "142.47.112.0/21",
@@ -193637,7 +193277,7 @@
     "country_code": "CA",
     "name": "SNINTERNET-AS",
     "org": "Six Nations Internet",
-    "domain": "firstnationscable.com"
+    "domain": "sixtel.ca"
   },
   {
     "network": "162.249.236.0/24",
@@ -193645,7 +193285,7 @@
     "country_code": "CA",
     "name": "SNINTERNET-AS",
     "org": "Six Nations Internet",
-    "domain": "firstnationscable.com"
+    "domain": "sixtel.ca"
   },
   {
     "network": "162.249.237.0/24",
@@ -193653,7 +193293,7 @@
     "country_code": "CA",
     "name": "SNINTERNET-AS",
     "org": "Six Nations Internet",
-    "domain": "firstnationscable.com"
+    "domain": "sixtel.ca"
   },
   {
     "network": "162.249.238.0/23",
@@ -193661,7 +193301,7 @@
     "country_code": "CA",
     "name": "SNINTERNET-AS",
     "org": "Six Nations Internet",
-    "domain": "firstnationscable.com"
+    "domain": "sixtel.ca"
   },
   {
     "network": "142.48.11.0/24",
@@ -193713,14 +193353,6 @@
   },
   {
     "network": "142.51.116.0/22",
-    "asn": "14661",
-    "country_code": "CA",
-    "name": "LAURENTIANU",
-    "org": "Laurentian University of Sudbury",
-    "domain": "laurentian.ca"
-  },
-  {
-    "network": "142.51.120.0/22",
     "asn": "14661",
     "country_code": "CA",
     "name": "LAURENTIANU",
@@ -197885,7 +197517,7 @@
     "country_code": "CA",
     "name": "CDE-NS",
     "org": "Nova Scotia Department of Education",
-    "domain": "ednet.ns.ca"
+    "domain": "novascotia.ca"
   },
   {
     "network": "2620:8b:8000::/48",
@@ -197893,7 +197525,7 @@
     "country_code": "CA",
     "name": "CDE-NS",
     "org": "Nova Scotia Department of Education",
-    "domain": "ednet.ns.ca"
+    "domain": "novascotia.ca"
   },
   {
     "network": "142.230.0.0/23",
@@ -203853,7 +203485,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.184.0/23",
@@ -203861,7 +203493,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.188.0/22",
@@ -203869,7 +203501,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.192.0/24",
@@ -203877,7 +203509,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.193.0/24",
@@ -203885,7 +203517,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.196.0/24",
@@ -203893,7 +203525,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.197.0/24",
@@ -203901,7 +203533,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.198.0/24",
@@ -203909,7 +203541,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.200.0/24",
@@ -203917,7 +203549,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.201.0/24",
@@ -203925,7 +203557,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.203.0/24",
@@ -203933,7 +203565,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.204.0/24",
@@ -203941,7 +203573,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.205.0/24",
@@ -203949,7 +203581,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.208.0/24",
@@ -203957,7 +203589,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.209.0/24",
@@ -203965,7 +203597,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.210.0/24",
@@ -203973,7 +203605,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.212.0/24",
@@ -203981,7 +203613,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.215.0/24",
@@ -203989,7 +203621,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.216.0/24",
@@ -203997,7 +203629,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.217.0/24",
@@ -204005,7 +203637,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.218.0/24",
@@ -204013,7 +203645,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.219.0/24",
@@ -204021,7 +203653,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.220.0/24",
@@ -204029,7 +203661,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.221.0/24",
@@ -204037,7 +203669,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.222.0/24",
@@ -204045,7 +203677,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.223.0/24",
@@ -204053,7 +203685,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.224.0/24",
@@ -204061,7 +203693,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.225.0/24",
@@ -204069,7 +203701,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.226.0/24",
@@ -204077,7 +203709,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.227.0/24",
@@ -204085,7 +203717,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.228.0/24",
@@ -204093,7 +203725,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.229.0/24",
@@ -204101,7 +203733,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.230.0/24",
@@ -204109,7 +203741,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.231.0/24",
@@ -204117,7 +203749,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.232.0/24",
@@ -204125,7 +203757,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.233.0/24",
@@ -204133,7 +203765,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.234.0/24",
@@ -204141,7 +203773,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.235.0/24",
@@ -204149,7 +203781,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.236.0/24",
@@ -204157,7 +203789,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.237.0/24",
@@ -204165,7 +203797,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.238.0/24",
@@ -204173,7 +203805,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.239.0/24",
@@ -204181,7 +203813,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.240.0/24",
@@ -204189,7 +203821,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.241.0/24",
@@ -204197,7 +203829,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.242.0/24",
@@ -204205,7 +203837,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.243.0/24",
@@ -204213,7 +203845,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.244.0/24",
@@ -204221,7 +203853,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.245.0/24",
@@ -204229,7 +203861,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.246.0/24",
@@ -204237,7 +203869,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.247.0/24",
@@ -204245,7 +203877,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "204.138.45.0/24",
@@ -204253,7 +203885,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "204.138.47.0/24",
@@ -204261,7 +203893,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "204.138.48.0/24",
@@ -204269,7 +203901,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "204.138.49.0/24",
@@ -204277,7 +203909,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "204.138.50.0/24",
@@ -204285,7 +203917,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "204.138.51.0/24",
@@ -204293,7 +203925,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "204.138.52.0/24",
@@ -204301,7 +203933,7 @@
     "country_code": "CA",
     "name": "TELOIP-SW-ASN",
     "org": "AgniCorp Inc.",
-    "domain": "teloip.com"
+    "domain": "adaptiv-networks.com"
   },
   {
     "network": "164.153.168.0/24",
@@ -205365,7 +204997,7 @@
     "country_code": "CA",
     "name": "MIKMAW-KINAMATNEWEY",
     "org": "Mikmaw Kinamatnewey",
-    "domain": "alindale.ca"
+    "domain": "kinu.ca"
   },
   {
     "network": "172.93.124.0/23",
@@ -205373,7 +205005,7 @@
     "country_code": "CA",
     "name": "MIKMAW-KINAMATNEWEY",
     "org": "Mikmaw Kinamatnewey",
-    "domain": "alindale.ca"
+    "domain": "kinu.ca"
   },
   {
     "network": "172.93.126.0/23",
@@ -205381,7 +205013,7 @@
     "country_code": "CA",
     "name": "MIKMAW-KINAMATNEWEY",
     "org": "Mikmaw Kinamatnewey",
-    "domain": "alindale.ca"
+    "domain": "kinu.ca"
   },
   {
     "network": "2620:131:4000::/40",
@@ -205389,7 +205021,7 @@
     "country_code": "CA",
     "name": "MIKMAW-KINAMATNEWEY",
     "org": "Mikmaw Kinamatnewey",
-    "domain": "alindale.ca"
+    "domain": "kinu.ca"
   },
   {
     "network": "2620:131:4000::/41",
@@ -205397,7 +205029,7 @@
     "country_code": "CA",
     "name": "MIKMAW-KINAMATNEWEY",
     "org": "Mikmaw Kinamatnewey",
-    "domain": "alindale.ca"
+    "domain": "kinu.ca"
   },
   {
     "network": "2620:131:4080::/41",
@@ -205405,7 +205037,7 @@
     "country_code": "CA",
     "name": "MIKMAW-KINAMATNEWEY",
     "org": "Mikmaw Kinamatnewey",
-    "domain": "alindale.ca"
+    "domain": "kinu.ca"
   },
   {
     "network": "172.98.52.0/24",
@@ -206529,22 +206161,6 @@
   },
   {
     "network": "2a06:41:c020::/44",
-    "asn": "49867",
-    "country_code": "CA",
-    "name": "SUISEI-AS-AP",
-    "org": "Shuji Ito",
-    "domain": "sccsn.jp"
-  },
-  {
-    "network": "2a06:41:c020::/48",
-    "asn": "49867",
-    "country_code": "CA",
-    "name": "SUISEI-AS-AP",
-    "org": "Shuji Ito",
-    "domain": "sccsn.jp"
-  },
-  {
-    "network": "2a06:41:c021::/48",
     "asn": "49867",
     "country_code": "CA",
     "name": "SUISEI-AS-AP",
@@ -208397,7 +208013,7 @@
     "country_code": "CA",
     "name": "SIRS01",
     "org": "9013-6573 Quebec inc.",
-    "domain": "sirsolutions.com"
+    "domain": "ravyx.com"
   },
   {
     "network": "192.133.45.0/24",
@@ -212941,7 +212557,7 @@
     "country_code": "CA",
     "name": "CBNBC-NET",
     "org": "Cybernet Communications Ltd",
-    "domain": "cybernetcom.ca"
+    "domain": "siennanetworks.ca"
   },
   {
     "network": "199.59.128.0/21",
@@ -218520,22 +218136,6 @@
     "domain": "keepit.com"
   },
   {
-    "network": "216.171.225.0/24",
-    "asn": "18638",
-    "country_code": "CA",
-    "name": "DHDC-CA",
-    "org": "Datahive.ca",
-    "domain": "datahive.ca"
-  },
-  {
-    "network": "216.171.228.0/24",
-    "asn": "18638",
-    "country_code": "CA",
-    "name": "DHDC-CA",
-    "org": "Datahive.ca",
-    "domain": "datahive.ca"
-  },
-  {
     "network": "216.176.42.0/24",
     "asn": "401938",
     "country_code": "CA",
@@ -218829,7 +218429,7 @@
     "country_code": "CA",
     "name": "NET-XPERT1-2602-F925",
     "org": "Net-Xpert Consulting",
-    "domain": "botanybay.net"
+    "domain": "net-xpert.com"
   },
   {
     "network": "2602:f96a::/48",
@@ -218838,6 +218438,30 @@
     "name": "ADEXFLOW-KANATA-01",
     "org": "Adexflow International",
     "domain": "adexflow.com"
+  },
+  {
+    "network": "2602:f992:e0::/45",
+    "asn": "218034",
+    "country_code": "CA",
+    "name": "FURRIX-MAWS-N-PAWS",
+    "org": "Greggory Lansdale",
+    "domain": "furrix.zone"
+  },
+  {
+    "network": "2602:f992:e8::/46",
+    "asn": "218034",
+    "country_code": "CA",
+    "name": "FURRIX-MAWS-N-PAWS",
+    "org": "Greggory Lansdale",
+    "domain": "furrix.zone"
+  },
+  {
+    "network": "2a0c:b641:1030::/44",
+    "asn": "218034",
+    "country_code": "CA",
+    "name": "FURRIX-MAWS-N-PAWS",
+    "org": "Greggory Lansdale",
+    "domain": "furrix.zone"
   },
   {
     "network": "2602:fa43:f0::/48",
@@ -218862,14 +218486,6 @@
     "name": "DQN-AS-TESTING",
     "org": "Dynamic Quantum Networks",
     "domain": "as54148.net"
-  },
-  {
-    "network": "2602:fa95::/36",
-    "asn": "18585",
-    "country_code": "CA",
-    "name": "VELOX-AS-THOROLD",
-    "org": "Velox Wireless Inc.",
-    "domain": "veloxgrp.com"
   },
   {
     "network": "2602:fbe7:1::/48",

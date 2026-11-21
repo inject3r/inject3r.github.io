@@ -240,6 +240,14 @@
     "domain": "guardnet.work"
   },
   {
+    "network": "2a13:d201:2::/48",
+    "asn": "216129",
+    "country_code": "PL",
+    "name": "GuardNetwork-AS",
+    "org": "SEBEK sp. z o.o",
+    "domain": "guardnet.work"
+  },
+  {
     "network": "2a13:d201:3::/48",
     "asn": "216129",
     "country_code": "PL",
@@ -3944,6 +3952,14 @@
     "domain": "mevspace.com"
   },
   {
+    "network": "46.202.12.0/24",
+    "asn": "207208",
+    "country_code": "PL",
+    "name": "Mevspace-projects",
+    "org": "MEVSPACE sp. z o.o.",
+    "domain": "mevspace.com"
+  },
+  {
     "network": "48.103.222.0/24",
     "asn": "207208",
     "country_code": "PL",
@@ -6270,14 +6286,6 @@
     "name": "AirHanSys-AS",
     "org": "Airport Handling Systems sp z o.o",
     "domain": "ahs.waw.pl"
-  },
-  {
-    "network": "5.226.133.0/24",
-    "asn": "197812",
-    "country_code": "PL",
-    "name": "Ghelamco",
-    "org": "Ghelamco Poland Sp. z o.o.",
-    "domain": "ghelamco.com"
   },
   {
     "network": "5.252.108.0/22",
@@ -16248,6 +16256,14 @@
     "domain": "hybrid.ai"
   },
   {
+    "network": "37.230.171.0/24",
+    "asn": "200197",
+    "country_code": "PL",
+    "name": "HYBRID-Poland",
+    "org": "HYBRID ADTECH SP.Z.O.O.",
+    "domain": "hybrid.ai"
+  },
+  {
     "network": "37.233.96.0/20",
     "asn": "198717",
     "country_code": "PL",
@@ -16505,6 +16521,14 @@
   },
   {
     "network": "44.30.200.0/24",
+    "asn": "214762",
+    "country_code": "PL",
+    "name": "MATHOST",
+    "org": "Sebastian Stefanek trading as MatHost.eu",
+    "domain": "mathost.eu"
+  },
+  {
+    "network": "87.76.134.0/24",
     "asn": "214762",
     "country_code": "PL",
     "name": "MATHOST",
@@ -19360,6 +19384,14 @@
     "domain": "dhosting.pl"
   },
   {
+    "network": "109.95.157.0/24",
+    "asn": "48896",
+    "country_code": "PL",
+    "name": "DHOSTING-AS",
+    "org": "dhosting.pl Sp. z o.o.",
+    "domain": "dhosting.pl"
+  },
+  {
     "network": "195.88.50.0/23",
     "asn": "48896",
     "country_code": "PL",
@@ -20152,39 +20184,7 @@
     "domain": "home.pl"
   },
   {
-    "network": "46.41.128.0/19",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
-    "network": "46.41.160.0/19",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
     "network": "46.242.128.0/17",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
-    "network": "46.242.128.0/18",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
-    "network": "46.242.192.0/18",
     "asn": "12824",
     "country_code": "PL",
     "name": "HOMEPL-AS",
@@ -20200,39 +20200,7 @@
     "domain": "home.pl"
   },
   {
-    "network": "62.129.192.0/19",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
-    "network": "62.129.224.0/19",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
     "network": "79.96.0.0/16",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
-    "network": "79.96.0.0/17",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
-    "network": "79.96.128.0/17",
     "asn": "12824",
     "country_code": "PL",
     "name": "HOMEPL-AS",
@@ -20248,22 +20216,6 @@
     "domain": "home.pl"
   },
   {
-    "network": "89.161.128.0/18",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
-    "network": "89.161.192.0/18",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
     "network": "188.128.128.0/17",
     "asn": "12824",
     "country_code": "PL",
@@ -20272,39 +20224,7 @@
     "domain": "home.pl"
   },
   {
-    "network": "188.128.128.0/18",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
-    "network": "188.128.192.0/18",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
     "network": "212.85.96.0/19",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
-    "network": "212.85.96.0/20",
-    "asn": "12824",
-    "country_code": "PL",
-    "name": "HOMEPL-AS",
-    "org": "home.pl sp. z o.o.",
-    "domain": "home.pl"
-  },
-  {
-    "network": "212.85.112.0/20",
     "asn": "12824",
     "country_code": "PL",
     "name": "HOMEPL-AS",
@@ -25281,46 +25201,6 @@
   },
   {
     "network": "195.245.104.0/23",
-    "asn": "198408",
-    "country_code": "PL",
-    "name": "EMOUSE-NET",
-    "org": "E-Mouse Karol Urbanowicz",
-    "domain": "emouse.pl"
-  },
-  {
-    "network": "2a02:f7f:4::/46",
-    "asn": "198408",
-    "country_code": "PL",
-    "name": "EMOUSE-NET",
-    "org": "E-Mouse Karol Urbanowicz",
-    "domain": "emouse.pl"
-  },
-  {
-    "network": "2a02:f7f:4::/48",
-    "asn": "198408",
-    "country_code": "PL",
-    "name": "EMOUSE-NET",
-    "org": "E-Mouse Karol Urbanowicz",
-    "domain": "emouse.pl"
-  },
-  {
-    "network": "2a02:f7f:5::/48",
-    "asn": "198408",
-    "country_code": "PL",
-    "name": "EMOUSE-NET",
-    "org": "E-Mouse Karol Urbanowicz",
-    "domain": "emouse.pl"
-  },
-  {
-    "network": "2a02:f7f:6::/48",
-    "asn": "198408",
-    "country_code": "PL",
-    "name": "EMOUSE-NET",
-    "org": "E-Mouse Karol Urbanowicz",
-    "domain": "emouse.pl"
-  },
-  {
-    "network": "2a02:f7f:7::/48",
     "asn": "198408",
     "country_code": "PL",
     "name": "EMOUSE-NET",
@@ -32633,6 +32513,14 @@
   },
   {
     "network": "91.224.120.0/23",
+    "asn": "34525",
+    "country_code": "PL",
+    "name": "KOBA-AS",
+    "org": "KOBA Sp. z o.o.",
+    "domain": "koba.pl"
+  },
+  {
+    "network": "91.224.120.0/24",
     "asn": "34525",
     "country_code": "PL",
     "name": "KOBA-AS",
@@ -60601,6 +60489,14 @@
   },
   {
     "network": "2a0f:8e40::/29",
+    "asn": "200602",
+    "country_code": "PL",
+    "name": "GBN-AS",
+    "org": "GBN.PL Sp. z o.o.",
+    "domain": "gbn.pl"
+  },
+  {
+    "network": "2a0f:8e41::/32",
     "asn": "200602",
     "country_code": "PL",
     "name": "GBN-AS",
