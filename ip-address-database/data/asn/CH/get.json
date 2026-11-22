@@ -7120,46 +7120,6 @@
     "domain": "swiss-iat-institute.org"
   },
   {
-    "network": "31.130.224.0/20",
-    "asn": "56554",
-    "country_code": "CH",
-    "name": "IETF-MEETING",
-    "org": "Internet Society",
-    "domain": "ietf.org"
-  },
-  {
-    "network": "31.133.128.0/18",
-    "asn": "56554",
-    "country_code": "CH",
-    "name": "IETF-MEETING",
-    "org": "Internet Society",
-    "domain": "ietf.org"
-  },
-  {
-    "network": "2001:67c:370::/48",
-    "asn": "56554",
-    "country_code": "CH",
-    "name": "IETF-MEETING",
-    "org": "Internet Society",
-    "domain": "ietf.org"
-  },
-  {
-    "network": "2001:67c:1230::/46",
-    "asn": "56554",
-    "country_code": "CH",
-    "name": "IETF-MEETING",
-    "org": "Internet Society",
-    "domain": "ietf.org"
-  },
-  {
-    "network": "2001:67c:1232::/48",
-    "asn": "56554",
-    "country_code": "CH",
-    "name": "IETF-MEETING",
-    "org": "Internet Society",
-    "domain": "ietf.org"
-  },
-  {
     "network": "31.171.144.0/21",
     "asn": "197742",
     "country_code": "CH",
@@ -14288,14 +14248,6 @@
     "domain": "ip-plus.net"
   },
   {
-    "network": "194.9.45.0/24",
-    "asn": "3303",
-    "country_code": "CH",
-    "name": "SWISSCOM",
-    "org": "Swisscom (Schweiz) AG",
-    "domain": "ip-plus.net"
-  },
-  {
     "network": "194.11.144.0/21",
     "asn": "3303",
     "country_code": "CH",
@@ -14785,14 +14737,6 @@
   },
   {
     "network": "217.192.0.0/15",
-    "asn": "3303",
-    "country_code": "CH",
-    "name": "SWISSCOM",
-    "org": "Swisscom (Schweiz) AG",
-    "domain": "ip-plus.net"
-  },
-  {
-    "network": "2001:678:e0::/48",
     "asn": "3303",
     "country_code": "CH",
     "name": "SWISSCOM",
@@ -31496,6 +31440,14 @@
     "domain": "bluewin.ch"
   },
   {
+    "network": "194.9.45.0/24",
+    "asn": "60633",
+    "country_code": "CH",
+    "name": "SWISSCOM-MPLS-TRANSIT",
+    "org": "Swisscom (Schweiz) AG",
+    "domain": "bluewin.ch"
+  },
+  {
     "network": "91.220.100.0/24",
     "asn": "51817",
     "country_code": "CH",
@@ -41142,6 +41094,22 @@
     "name": "SWISSIX",
     "org": "SwissIX Internet Exchange",
     "domain": "swissix.ch"
+  },
+  {
+    "network": "185.222.116.0/24",
+    "asn": "205315",
+    "country_code": "CH",
+    "name": "ORG-JB83-RIPE",
+    "org": "Jean-Remy Buchs",
+    "domain": "gmx.ch"
+  },
+  {
+    "network": "2a0c:3800:ff::/48",
+    "asn": "205315",
+    "country_code": "CH",
+    "name": "ORG-JB83-RIPE",
+    "org": "Jean-Remy Buchs",
+    "domain": "gmx.ch"
   },
   {
     "network": "185.223.132.0/22",

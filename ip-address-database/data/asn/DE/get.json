@@ -112,7 +112,23 @@
     "domain": "dataforest.net"
   },
   {
+    "network": "5.175.197.0/24",
+    "asn": "215607",
+    "country_code": "DE",
+    "name": "DF-Transit",
+    "org": "dataforest GmbH",
+    "domain": "dataforest.net"
+  },
+  {
     "network": "5.175.248.0/24",
+    "asn": "215607",
+    "country_code": "DE",
+    "name": "DF-Transit",
+    "org": "dataforest GmbH",
+    "domain": "dataforest.net"
+  },
+  {
+    "network": "5.230.188.0/24",
     "asn": "215607",
     "country_code": "DE",
     "name": "DF-Transit",
@@ -23952,6 +23968,14 @@
     "domain": "dataforest.net"
   },
   {
+    "network": "153.56.231.0/24",
+    "asn": "58212",
+    "country_code": "DE",
+    "name": "DATAFOREST",
+    "org": "dataforest GmbH",
+    "domain": "dataforest.net"
+  },
+  {
     "network": "159.200.230.0/24",
     "asn": "58212",
     "country_code": "DE",
@@ -40224,14 +40248,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "5.175.197.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "5.175.198.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -44776,6 +44792,14 @@
     "domain": "noctura.cloud"
   },
   {
+    "network": "94.249.138.0/24",
+    "asn": "215375",
+    "country_code": "DE",
+    "name": "noctura",
+    "org": "Luca Nowak",
+    "domain": "noctura.cloud"
+  },
+  {
     "network": "2a14:6781:1400::/38",
     "asn": "215375",
     "country_code": "DE",
@@ -48880,6 +48904,30 @@
     "domain": "hetzner.com"
   },
   {
+    "network": "5.175.130.0/24",
+    "asn": "219523",
+    "country_code": "DE",
+    "name": "TyeboConsulting",
+    "org": "Markus Tyebo trading as Tyebo Infrastructure & Consulting",
+    "domain": "tyebo.de"
+  },
+  {
+    "network": "2a14:1ec1:1600::/40",
+    "asn": "219523",
+    "country_code": "DE",
+    "name": "TyeboConsulting",
+    "org": "Markus Tyebo trading as Tyebo Infrastructure & Consulting",
+    "domain": "tyebo.de"
+  },
+  {
+    "network": "2a14:1ec1:1700::/40",
+    "asn": "219523",
+    "country_code": "DE",
+    "name": "TyeboConsulting",
+    "org": "Markus Tyebo trading as Tyebo Infrastructure & Consulting",
+    "domain": "tyebo.de"
+  },
+  {
     "network": "5.175.135.0/24",
     "asn": "214019",
     "country_code": "DE",
@@ -51160,14 +51208,6 @@
     "domain": "dotnic.de"
   },
   {
-    "network": "2a14:6782:100::/48",
-    "asn": "215685",
-    "country_code": "DE",
-    "name": "Nexus",
-    "org": "Maik Sussdorf",
-    "domain": "dotnic.de"
-  },
-  {
     "network": "2a14:6782:101::/48",
     "asn": "215685",
     "country_code": "DE",
@@ -51176,7 +51216,7 @@
     "domain": "dotnic.de"
   },
   {
-    "network": "2a14:6782:102::/48",
+    "network": "2a14:6782:103::/48",
     "asn": "215685",
     "country_code": "DE",
     "name": "Nexus",
@@ -55289,14 +55329,6 @@
   },
   {
     "network": "77.90.25.0/24",
-    "asn": "215828",
-    "country_code": "DE",
-    "name": "TMW-Global-Networks",
-    "org": "Tizian Maxime Weigt trading as \"TMW Global Networks\"",
-    "domain": "t-w.dev"
-  },
-  {
-    "network": "94.249.138.0/24",
     "asn": "215828",
     "country_code": "DE",
     "name": "TMW-Global-Networks",
@@ -75576,14 +75608,6 @@
     "domain": "eunetworks.com"
   },
   {
-    "network": "84.207.205.0/24",
-    "asn": "13237",
-    "country_code": "DE",
-    "name": "LAMBDANET-AS",
-    "org": "euNetworks GmbH",
-    "domain": "eunetworks.com"
-  },
-  {
     "network": "85.8.154.0/24",
     "asn": "13237",
     "country_code": "DE",
@@ -82072,14 +82096,6 @@
     "domain": "soprado.com"
   },
   {
-    "network": "62.40.0.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
     "network": "62.201.172.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -82352,14 +82368,6 @@
     "domain": "soprado.com"
   },
   {
-    "network": "141.90.14.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
     "network": "185.5.80.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -82537,22 +82545,6 @@
   },
   {
     "network": "194.113.42.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
-    "network": "195.94.88.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
-    "network": "195.94.90.0/24",
     "asn": "20546",
     "country_code": "DE",
     "name": "SOPRADO-ANY",
@@ -100280,30 +100272,6 @@
     "domain": "hahnautomation.group"
   },
   {
-    "network": "45.146.107.0/24",
-    "asn": "215459",
-    "country_code": "DE",
-    "name": "VYRT-AS",
-    "org": "Pascal Kutscha",
-    "domain": "itdpk.de"
-  },
-  {
-    "network": "2a07:54c4:19a1::/48",
-    "asn": "215459",
-    "country_code": "DE",
-    "name": "VYRT-AS",
-    "org": "Pascal Kutscha",
-    "domain": "itdpk.de"
-  },
-  {
-    "network": "2a07:54c4:19a2::/48",
-    "asn": "215459",
-    "country_code": "DE",
-    "name": "VYRT-AS",
-    "org": "Pascal Kutscha",
-    "domain": "itdpk.de"
-  },
-  {
     "network": "45.146.132.0/22",
     "asn": "200567",
     "country_code": "DE",
@@ -111256,6 +111224,14 @@
     "domain": "amazon.com"
   },
   {
+    "network": "2605:9cc0:3d4::/48",
+    "asn": "214101",
+    "country_code": "DE",
+    "name": "EU-SOVEREIGN-CLOUD",
+    "org": "Amazon Data Services European Sovereign Cloud GmbH",
+    "domain": "amazon.com"
+  },
+  {
     "network": "2a0f:6b40::/44",
     "asn": "214101",
     "country_code": "DE",
@@ -119872,6 +119848,14 @@
     "domain": "rescuetrack.com"
   },
   {
+    "network": "78.108.223.0/24",
+    "asn": "59775",
+    "country_code": "DE",
+    "name": "convexis",
+    "org": "rescuetrack GmbH",
+    "domain": "rescuetrack.com"
+  },
+  {
     "network": "185.56.112.0/24",
     "asn": "59775",
     "country_code": "DE",
@@ -121384,6 +121368,14 @@
     "domain": "johannesernst.com"
   },
   {
+    "network": "2a11:6c7:d::/48",
+    "asn": "212895",
+    "country_code": "DE",
+    "name": "ROUTE64_ORG",
+    "org": "Johannes Ernst",
+    "domain": "johannesernst.com"
+  },
+  {
     "network": "2a11:6c7:10::/48",
     "asn": "212895",
     "country_code": "DE",
@@ -121537,6 +121529,14 @@
   },
   {
     "network": "2a11:6c7:31::/48",
+    "asn": "212895",
+    "country_code": "DE",
+    "name": "ROUTE64_ORG",
+    "org": "Johannes Ernst",
+    "domain": "johannesernst.com"
+  },
+  {
+    "network": "2a11:6c7:32::/48",
     "asn": "212895",
     "country_code": "DE",
     "name": "ROUTE64_ORG",
@@ -121912,6 +121912,22 @@
     "domain": "johannesernst.com"
   },
   {
+    "network": "2a11:6c7:f52::/48",
+    "asn": "212895",
+    "country_code": "DE",
+    "name": "ROUTE64_ORG",
+    "org": "Johannes Ernst",
+    "domain": "johannesernst.com"
+  },
+  {
+    "network": "2a11:6c7:f53::/48",
+    "asn": "212895",
+    "country_code": "DE",
+    "name": "ROUTE64_ORG",
+    "org": "Johannes Ernst",
+    "domain": "johannesernst.com"
+  },
+  {
     "network": "2a11:6c7:1100::/40",
     "asn": "212895",
     "country_code": "DE",
@@ -122081,6 +122097,14 @@
   },
   {
     "network": "2a11:6c7:3300::/40",
+    "asn": "212895",
+    "country_code": "DE",
+    "name": "ROUTE64_ORG",
+    "org": "Johannes Ernst",
+    "domain": "johannesernst.com"
+  },
+  {
+    "network": "2a11:6c7:5000::/40",
     "asn": "212895",
     "country_code": "DE",
     "name": "ROUTE64_ORG",
@@ -155016,6 +155040,14 @@
     "domain": "plusline.de"
   },
   {
+    "network": "141.90.14.0/24",
+    "asn": "29515",
+    "country_code": "DE",
+    "name": "HZD-AS",
+    "org": "Hessische Zentrale fuer Datenverarbeitung",
+    "domain": "plusline.de"
+  },
+  {
     "network": "141.90.15.0/24",
     "asn": "29515",
     "country_code": "DE",
@@ -155470,14 +155502,6 @@
     "name": "detacon-AS",
     "org": "detacon GmbH",
     "domain": "detacon.de"
-  },
-  {
-    "network": "143.14.192.0/24",
-    "asn": "207082",
-    "country_code": "DE",
-    "name": "X-ION-WORLD",
-    "org": "x-ion GmbH",
-    "domain": "x-ion.de"
   },
   {
     "network": "143.26.144.0/23",
@@ -165000,14 +165024,6 @@
     "domain": "bruechner.net"
   },
   {
-    "network": "176.119.144.0/24",
-    "asn": "215744",
-    "country_code": "DE",
-    "name": "arri",
-    "org": "Arnold & Richter Cine Technik GmbH & Co. Betriebs KG",
-    "domain": "arri.de"
-  },
-  {
     "network": "176.119.146.0/24",
     "asn": "207277",
     "country_code": "DE",
@@ -165086,6 +165102,14 @@
     "name": "HOFNETZ-AS",
     "org": "Campus, Hofnetz & Events GmbH",
     "domain": "hofnetz.de"
+  },
+  {
+    "network": "177.122.28.0/24",
+    "asn": "207082",
+    "country_code": "DE",
+    "name": "X-ION-WORLD",
+    "org": "x-ion GmbH",
+    "domain": "x-ion.de"
   },
   {
     "network": "178.18.156.0/24",
@@ -170960,6 +170984,14 @@
     "domain": "requisis.net"
   },
   {
+    "network": "185.96.212.0/24",
+    "asn": "200770",
+    "country_code": "DE",
+    "name": "REQUISIS-AS",
+    "org": "REQUISIS GmbH",
+    "domain": "requisis.net"
+  },
+  {
     "network": "185.96.213.0/24",
     "asn": "200770",
     "country_code": "DE",
@@ -170985,6 +171017,22 @@
   },
   {
     "network": "2a06:200::/29",
+    "asn": "200770",
+    "country_code": "DE",
+    "name": "REQUISIS-AS",
+    "org": "REQUISIS GmbH",
+    "domain": "requisis.net"
+  },
+  {
+    "network": "2a06:200::/32",
+    "asn": "200770",
+    "country_code": "DE",
+    "name": "REQUISIS-AS",
+    "org": "REQUISIS GmbH",
+    "domain": "requisis.net"
+  },
+  {
+    "network": "2a06:201::/32",
     "asn": "200770",
     "country_code": "DE",
     "name": "REQUISIS-AS",
@@ -174592,14 +174640,6 @@
     "domain": "leon-hubrich.de"
   },
   {
-    "network": "2a0f:b240:78e7::/48",
-    "asn": "213579",
-    "country_code": "DE",
-    "name": "Leon-Hubrich",
-    "org": "Leon Hubrich",
-    "domain": "leon-hubrich.de"
-  },
-  {
     "network": "2a14:47c0:e002::/48",
     "asn": "213579",
     "country_code": "DE",
@@ -175740,6 +175780,30 @@
     "asn": "202701",
     "country_code": "DE",
     "name": "MK-MM",
+    "org": "Michael Kloos",
+    "domain": "kloos.net"
+  },
+  {
+    "network": "185.156.205.0/24",
+    "asn": "200486",
+    "country_code": "DE",
+    "name": "MK-MN",
+    "org": "Michael Kloos",
+    "domain": "kloos.net"
+  },
+  {
+    "network": "2a07:a105::/32",
+    "asn": "200486",
+    "country_code": "DE",
+    "name": "MK-MN",
+    "org": "Michael Kloos",
+    "domain": "kloos.net"
+  },
+  {
+    "network": "2a07:a106::/32",
+    "asn": "200486",
+    "country_code": "DE",
+    "name": "MK-MN",
     "org": "Michael Kloos",
     "domain": "kloos.net"
   },
@@ -181272,7 +181336,7 @@
     "domain": "ivl.de"
   },
   {
-    "network": "193.16.224.0/23",
+    "network": "193.16.224.0/22",
     "asn": "200291",
     "country_code": "DE",
     "name": "SAP_SE_WDF",
@@ -181289,6 +181353,22 @@
   },
   {
     "network": "193.16.225.0/24",
+    "asn": "200291",
+    "country_code": "DE",
+    "name": "SAP_SE_WDF",
+    "org": "SAP SE",
+    "domain": "sap.com"
+  },
+  {
+    "network": "193.16.226.0/24",
+    "asn": "200291",
+    "country_code": "DE",
+    "name": "SAP_SE_WDF",
+    "org": "SAP SE",
+    "domain": "sap.com"
+  },
+  {
+    "network": "193.16.227.0/24",
     "asn": "200291",
     "country_code": "DE",
     "name": "SAP_SE_WDF",
@@ -190160,22 +190240,6 @@
     "domain": "chaostreff-dortmund.de"
   },
   {
-    "network": "195.160.172.0/24",
-    "asn": "49225",
-    "country_code": "DE",
-    "name": "DISKORD-AS",
-    "org": "Chaos Computer Club Berlin e.V.",
-    "domain": "ccc.de"
-  },
-  {
-    "network": "2001:678:560::/48",
-    "asn": "49225",
-    "country_code": "DE",
-    "name": "DISKORD-AS",
-    "org": "Chaos Computer Club Berlin e.V.",
-    "domain": "ccc.de"
-  },
-  {
     "network": "195.162.4.0/23",
     "asn": "57222",
     "country_code": "DE",
@@ -192296,6 +192360,14 @@
     "domain": "templass.com"
   },
   {
+    "network": "2a06:9801:159b::/48",
+    "asn": "208743",
+    "country_code": "DE",
+    "name": "TEMPLASS",
+    "org": "Ali Rayan trading as Templass",
+    "domain": "templass.com"
+  },
+  {
     "network": "217.216.176.0/24",
     "asn": "218208",
     "country_code": "DE",
@@ -192305,6 +192377,14 @@
   },
   {
     "network": "2a0c:9a40:e1c0::/48",
+    "asn": "218208",
+    "country_code": "DE",
+    "name": "Jaeger",
+    "org": "Tom Jaeger",
+    "domain": ""
+  },
+  {
+    "network": "2a14:7581:5300::/40",
     "asn": "218208",
     "country_code": "DE",
     "name": "Jaeger",
@@ -193928,14 +194008,6 @@
     "domain": "juliusmax.de"
   },
   {
-    "network": "2a05:b0c7:300::/48",
-    "asn": "47924",
-    "country_code": "DE",
-    "name": "Miczuga",
-    "org": "Norbert Miczuga",
-    "domain": "miczuga.com"
-  },
-  {
     "network": "2a05:dfc1:c300::/48",
     "asn": "216079",
     "country_code": "DE",
@@ -194502,6 +194574,22 @@
     "name": "WIRAPORTISPSERVICES-AS",
     "org": "Christian Wolfseher",
     "domain": "wiraport.com"
+  },
+  {
+    "network": "2a07:54c4:19a1::/48",
+    "asn": "215459",
+    "country_code": "DE",
+    "name": "VYRT-AS",
+    "org": "Pascal Kutscha",
+    "domain": "itdpk.de"
+  },
+  {
+    "network": "2a07:54c4:19a2::/48",
+    "asn": "215459",
+    "country_code": "DE",
+    "name": "VYRT-AS",
+    "org": "Pascal Kutscha",
+    "domain": "itdpk.de"
   },
   {
     "network": "2a07:87c0:fe00::/48",
@@ -196736,20 +196824,12 @@
     "domain": "vei.ie"
   },
   {
-    "network": "2a14:1ec1:1600::/40",
-    "asn": "219523",
+    "network": "2a14:1ec1:7b30::/48",
+    "asn": "214906",
     "country_code": "DE",
-    "name": "TyeboConsulting",
-    "org": "Markus Tyebo trading as Tyebo Infrastructure & Consulting",
-    "domain": "tyebo.de"
-  },
-  {
-    "network": "2a14:1ec1:1700::/40",
-    "asn": "219523",
-    "country_code": "DE",
-    "name": "TyeboConsulting",
-    "org": "Markus Tyebo trading as Tyebo Infrastructure & Consulting",
-    "domain": "tyebo.de"
+    "name": "Cedric-Hammes",
+    "org": "Cedric Hammes",
+    "domain": "cach30verfl0w.net"
   },
   {
     "network": "2a14:1ec1:7b40::/48",

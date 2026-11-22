@@ -5168,14 +5168,6 @@
     "domain": "inetia.pl"
   },
   {
-    "network": "77.65.227.0/24",
-    "asn": "12741",
-    "country_code": "PL",
-    "name": "AS-NETIA",
-    "org": "Netia SA",
-    "domain": "inetia.pl"
-  },
-  {
     "network": "77.252.0.0/16",
     "asn": "12741",
     "country_code": "PL",
@@ -6286,6 +6278,14 @@
     "name": "AirHanSys-AS",
     "org": "Airport Handling Systems sp z o.o",
     "domain": "ahs.waw.pl"
+  },
+  {
+    "network": "5.226.133.0/24",
+    "asn": "197812",
+    "country_code": "PL",
+    "name": "Ghelamco",
+    "org": "Ghelamco Poland Sp. z o.o.",
+    "domain": "ghelamco.com"
   },
   {
     "network": "5.252.108.0/22",
@@ -14008,6 +14008,22 @@
     "domain": "domynet.pl"
   },
   {
+    "network": "36.255.241.0/24",
+    "asn": "214369",
+    "country_code": "PL",
+    "name": "NET-ARN-AS",
+    "org": "Net-ARN Sp. z o.o.",
+    "domain": "exatel.pl"
+  },
+  {
+    "network": "88.220.248.0/23",
+    "asn": "214369",
+    "country_code": "PL",
+    "name": "NET-ARN-AS",
+    "org": "Net-ARN Sp. z o.o.",
+    "domain": "exatel.pl"
+  },
+  {
     "network": "37.26.192.0/23",
     "asn": "34337",
     "country_code": "PL",
@@ -19377,14 +19393,6 @@
   },
   {
     "network": "109.95.152.0/21",
-    "asn": "48896",
-    "country_code": "PL",
-    "name": "DHOSTING-AS",
-    "org": "dhosting.pl Sp. z o.o.",
-    "domain": "dhosting.pl"
-  },
-  {
-    "network": "109.95.157.0/24",
     "asn": "48896",
     "country_code": "PL",
     "name": "DHOSTING-AS",
@@ -25208,6 +25216,46 @@
     "domain": "emouse.pl"
   },
   {
+    "network": "2a02:f7f:4::/46",
+    "asn": "198408",
+    "country_code": "PL",
+    "name": "EMOUSE-NET",
+    "org": "E-Mouse Karol Urbanowicz",
+    "domain": "emouse.pl"
+  },
+  {
+    "network": "2a02:f7f:4::/48",
+    "asn": "198408",
+    "country_code": "PL",
+    "name": "EMOUSE-NET",
+    "org": "E-Mouse Karol Urbanowicz",
+    "domain": "emouse.pl"
+  },
+  {
+    "network": "2a02:f7f:5::/48",
+    "asn": "198408",
+    "country_code": "PL",
+    "name": "EMOUSE-NET",
+    "org": "E-Mouse Karol Urbanowicz",
+    "domain": "emouse.pl"
+  },
+  {
+    "network": "2a02:f7f:6::/48",
+    "asn": "198408",
+    "country_code": "PL",
+    "name": "EMOUSE-NET",
+    "org": "E-Mouse Karol Urbanowicz",
+    "domain": "emouse.pl"
+  },
+  {
+    "network": "2a02:f7f:7::/48",
+    "asn": "198408",
+    "country_code": "PL",
+    "name": "EMOUSE-NET",
+    "org": "E-Mouse Karol Urbanowicz",
+    "domain": "emouse.pl"
+  },
+  {
     "network": "77.65.192.0/24",
     "asn": "213310",
     "country_code": "PL",
@@ -25414,6 +25462,14 @@
     "name": "ESERVICE-AS",
     "org": "CENTRUM ELEKTRONICZNYCH USLUG PLATNICZYCH \"ESERVICE\" SA",
     "domain": "eservice.com.pl"
+  },
+  {
+    "network": "77.79.207.0/24",
+    "asn": "202904",
+    "country_code": "PL",
+    "name": "Softman",
+    "org": "Softman S.A.",
+    "domain": "softman.pl"
   },
   {
     "network": "77.79.226.0/24",
@@ -32094,62 +32150,6 @@
     "name": "HORNET-AS",
     "org": "HOR.NET Polska Sp.z o.o.",
     "domain": "hornet.pl"
-  },
-  {
-    "network": "83.142.216.0/22",
-    "asn": "199494",
-    "country_code": "PL",
-    "name": "ETTH-AS",
-    "org": "ETTH Bartosz Bachowski",
-    "domain": "dcenter.pl"
-  },
-  {
-    "network": "83.142.220.0/22",
-    "asn": "199494",
-    "country_code": "PL",
-    "name": "ETTH-AS",
-    "org": "ETTH Bartosz Bachowski",
-    "domain": "dcenter.pl"
-  },
-  {
-    "network": "91.201.88.0/22",
-    "asn": "199494",
-    "country_code": "PL",
-    "name": "ETTH-AS",
-    "org": "ETTH Bartosz Bachowski",
-    "domain": "dcenter.pl"
-  },
-  {
-    "network": "176.115.80.0/21",
-    "asn": "199494",
-    "country_code": "PL",
-    "name": "ETTH-AS",
-    "org": "ETTH Bartosz Bachowski",
-    "domain": "dcenter.pl"
-  },
-  {
-    "network": "193.0.192.0/22",
-    "asn": "199494",
-    "country_code": "PL",
-    "name": "ETTH-AS",
-    "org": "ETTH Bartosz Bachowski",
-    "domain": "dcenter.pl"
-  },
-  {
-    "network": "193.0.196.0/24",
-    "asn": "199494",
-    "country_code": "PL",
-    "name": "ETTH-AS",
-    "org": "ETTH Bartosz Bachowski",
-    "domain": "dcenter.pl"
-  },
-  {
-    "network": "193.0.197.0/24",
-    "asn": "199494",
-    "country_code": "PL",
-    "name": "ETTH-AS",
-    "org": "ETTH Bartosz Bachowski",
-    "domain": "dcenter.pl"
   },
   {
     "network": "83.150.196.0/22",
@@ -42518,14 +42518,6 @@
     "name": "ITAKA-AS",
     "org": "Nowa Itaka Sp. z o.o.",
     "domain": "itaka.pl"
-  },
-  {
-    "network": "91.209.105.0/24",
-    "asn": "211430",
-    "country_code": "PL",
-    "name": "DATECH",
-    "org": "Pozniak Damian trading as DATECH Systemy i Sieci Komputerowe",
-    "domain": "kamnet.pl"
   },
   {
     "network": "91.209.141.0/24",
@@ -63040,6 +63032,22 @@
     "domain": "raben-group.com"
   },
   {
+    "network": "195.69.124.0/22",
+    "asn": "33990",
+    "country_code": "PL",
+    "name": "PROKOM-AS",
+    "org": "Asseco Poland S.A.",
+    "domain": "asseco.pl"
+  },
+  {
+    "network": "195.245.69.0/24",
+    "asn": "33990",
+    "country_code": "PL",
+    "name": "PROKOM-AS",
+    "org": "Asseco Poland S.A.",
+    "domain": "asseco.pl"
+  },
+  {
     "network": "195.74.48.0/24",
     "asn": "42177",
     "country_code": "PL",
@@ -63814,14 +63822,6 @@
     "name": "MOTO-PROFIL",
     "org": "Moto-Profil sp. z o.o.",
     "domain": "moto-profil.pl"
-  },
-  {
-    "network": "195.245.69.0/24",
-    "asn": "33990",
-    "country_code": "PL",
-    "name": "PROKOM-AS",
-    "org": "Asseco Poland S.A.",
-    "domain": "asseco.pl"
   },
   {
     "network": "195.245.203.0/24",
