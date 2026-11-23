@@ -72,12 +72,6 @@
     "country_name": "Canada"
   },
   {
-    "network": "2.56.75.142/31",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "2.56.75.144/28",
     "continent_code": "NA",
     "country_code": "CA",
@@ -2544,6 +2538,12 @@
     "country_name": "Canada"
   },
   {
+    "network": "13.141.136.0/22",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
     "network": "13.224.32.0/21",
     "continent_code": "NA",
     "country_code": "CA",
@@ -2989,12 +2989,6 @@
   },
   {
     "network": "16.12.58.0/24",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "16.48.0.0/15",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -6756,12 +6750,6 @@
     "country_name": "Canada"
   },
   {
-    "network": "23.249.174.192/26",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "23.249.175.0/24",
     "continent_code": "NA",
     "country_code": "CA",
@@ -8550,13 +8538,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "38.3.114.0/23",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "38.3.118.0/23",
+    "network": "38.3.112.0/21",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -8646,13 +8628,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "38.9.80.0/21",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "38.9.88.0/22",
+    "network": "38.9.80.0/20",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -8700,7 +8676,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "38.15.68.64/26",
+    "network": "38.15.68.108/30",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -9282,7 +9258,55 @@
     "country_name": "Canada"
   },
   {
-    "network": "38.29.128.0/20",
+    "network": "38.29.128.0/23",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.29.130.0/25",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.29.131.0/24",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.29.132.0/22",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.29.136.0/22",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.29.140.0/25",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.29.140.192/26",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.29.141.0/24",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.29.142.0/23",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -9780,49 +9804,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "38.34.32.0/21",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "38.34.40.0/23",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "38.34.42.32/27",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "38.34.42.64/26",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "38.34.42.128/25",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "38.34.43.0/24",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "38.34.44.0/22",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "38.34.48.0/20",
+    "network": "38.34.32.0/19",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -11412,7 +11394,37 @@
     "country_name": "Canada"
   },
   {
-    "network": "38.85.176.0/20",
+    "network": "38.85.176.0/22",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.85.180.0/24",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.85.181.0/25",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.85.181.192/26",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.85.182.0/23",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "38.85.184.0/21",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -32262,7 +32274,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "66.103.31.170/31",
+    "network": "66.103.31.168/30",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -32635,6 +32647,12 @@
   },
   {
     "network": "66.132.194.0/24",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "66.132.196.0/23",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -38221,12 +38239,6 @@
   },
   {
     "network": "69.17.206.128/25",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "69.17.207.0/24",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -45402,12 +45414,6 @@
     "country_name": "Canada"
   },
   {
-    "network": "74.199.148.64/27",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "74.199.148.112/28",
     "continent_code": "NA",
     "country_code": "CA",
@@ -50767,12 +50773,6 @@
   },
   {
     "network": "85.12.29.48/29",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "85.12.29.56/30",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -57661,6 +57661,12 @@
   },
   {
     "network": "98.142.241.0/25",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "98.142.241.192/26",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -65958,12 +65964,6 @@
     "country_name": "Canada"
   },
   {
-    "network": "131.162.4.0/22",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "131.162.8.0/21",
     "continent_code": "NA",
     "country_code": "CA",
@@ -70890,7 +70890,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "142.202.90.0/23",
+    "network": "142.202.91.0/24",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -71503,6 +71503,12 @@
   },
   {
     "network": "142.253.0.0/16",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "143.13.88.0/24",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -72246,31 +72252,25 @@
     "country_name": "Canada"
   },
   {
-    "network": "144.217.135.158/31",
+    "network": "144.217.135.152/29",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
-    "network": "144.217.135.164/31",
+    "network": "144.217.135.162/31",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
-    "network": "144.217.135.168/31",
+    "network": "144.217.135.168/29",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
-    "network": "144.217.135.172/31",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "144.217.135.178/31",
+    "network": "144.217.135.180/31",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -72282,13 +72282,13 @@
     "country_name": "Canada"
   },
   {
-    "network": "144.217.135.194/31",
+    "network": "144.217.135.202/31",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
-    "network": "144.217.135.216/31",
+    "network": "144.217.135.214/31",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -72300,7 +72300,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "144.217.135.240/31",
+    "network": "144.217.135.240/30",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -72432,7 +72432,25 @@
     "country_name": "Canada"
   },
   {
-    "network": "144.217.200.0/21",
+    "network": "144.217.201.0/24",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "144.217.203.0/24",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "144.217.204.0/23",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "144.217.207.0/24",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -77256,25 +77274,31 @@
     "country_name": "Canada"
   },
   {
-    "network": "149.56.150.16/30",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "149.56.150.128/29",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
-    "network": "149.56.150.144/29",
+    "network": "149.56.150.136/31",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "149.56.150.148/31",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
     "network": "149.56.150.152/30",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "149.56.150.230/31",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -77310,31 +77334,13 @@
     "country_name": "Canada"
   },
   {
-    "network": "149.56.160.176/31",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "149.56.160.200/30",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "149.56.160.216/30",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
-    "network": "149.56.160.226/31",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "149.56.160.228/31",
+    "network": "149.56.160.224/29",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -77670,37 +77676,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "149.115.64.0/21",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "149.115.72.0/23",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "149.115.74.0/24",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "149.115.75.0/25",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "149.115.76.0/22",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "149.115.80.0/20",
+    "network": "149.115.64.0/19",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -82530,6 +82506,18 @@
     "country_name": "Canada"
   },
   {
+    "network": "155.121.132.0/24",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "155.121.224.0/24",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
     "network": "155.138.128.0/19",
     "continent_code": "NA",
     "country_code": "CA",
@@ -86994,6 +86982,12 @@
     "country_name": "Canada"
   },
   {
+    "network": "163.116.249.108/31",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
     "network": "163.116.255.24/32",
     "continent_code": "NA",
     "country_code": "CA",
@@ -88873,12 +88867,6 @@
   },
   {
     "network": "167.86.41.43/32",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "167.86.41.44/30",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -91428,12 +91416,6 @@
     "country_name": "Canada"
   },
   {
-    "network": "172.216.148.0/23",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "172.216.181.0/24",
     "continent_code": "NA",
     "country_code": "CA",
@@ -93342,6 +93324,12 @@
     "country_name": "Canada"
   },
   {
+    "network": "176.101.174.180/30",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
     "network": "176.101.174.184/29",
     "continent_code": "NA",
     "country_code": "CA",
@@ -93492,7 +93480,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "178.92.18.0/23",
+    "network": "178.92.19.0/24",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -94302,19 +94290,55 @@
     "country_name": "Canada"
   },
   {
-    "network": "184.94.17.24/29",
+    "network": "184.94.1.72/29",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
-    "network": "184.94.22.0/24",
+    "network": "184.94.1.80/28",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
-    "network": "184.94.27.0/24",
+    "network": "184.94.1.96/27",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "184.94.1.128/26",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "184.94.1.192/28",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "184.94.1.208/29",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "184.94.1.216/30",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "184.94.9.164/30",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "184.94.16.0/20",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -94332,13 +94356,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "184.94.52.48/28",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "184.94.56.0/21",
+    "network": "184.94.48.0/20",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -97770,25 +97788,13 @@
     "country_name": "Canada"
   },
   {
-    "network": "186.247.35.54/31",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "186.247.35.56/31",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
-    "network": "186.247.35.86/31",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "186.247.35.88/31",
+    "network": "186.247.35.62/31",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -97812,19 +97818,19 @@
     "country_name": "Canada"
   },
   {
-    "network": "186.247.35.194/31",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "186.247.35.220/30",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
   },
   {
-    "network": "186.247.35.226/31",
+    "network": "186.247.35.232/31",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "186.247.35.242/31",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -98521,6 +98527,12 @@
   },
   {
     "network": "191.96.238.0/24",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "191.102.137.0/24",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -103788,6 +103800,12 @@
     "country_name": "Canada"
   },
   {
+    "network": "194.55.229.156/30",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
     "network": "194.55.229.160/27",
     "continent_code": "NA",
     "country_code": "CA",
@@ -104269,12 +104287,6 @@
   },
   {
     "network": "195.219.33.128/25",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "195.219.35.87/32",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -135697,12 +135709,6 @@
   },
   {
     "network": "217.138.213.0/24",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "217.181.82.144/28",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -169596,12 +169602,6 @@
     "country_name": "Canada"
   },
   {
-    "network": "2602:fb08:2::/47",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "2602:fb26:814::/47",
     "continent_code": "NA",
     "country_code": "CA",
@@ -169878,12 +169878,6 @@
     "country_name": "Canada"
   },
   {
-    "network": "2602:fed2:770e::/47",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
     "network": "2602:fed2:7802::/47",
     "continent_code": "NA",
     "country_code": "CA",
@@ -169891,12 +169885,6 @@
   },
   {
     "network": "2602:fed2:7e00::/47",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "2602:fed2:7e08::/47",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -171240,6 +171228,12 @@
     "country_name": "Canada"
   },
   {
+    "network": "2a0a:6040:3570::/47",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
     "network": "2a0a:6040:a430::/47",
     "continent_code": "NA",
     "country_code": "CA",
@@ -171901,6 +171895,12 @@
   },
   {
     "network": "2001:470:303f::/48",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "2001:470:304d::/48",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -176136,6 +176136,12 @@
     "country_name": "Canada"
   },
   {
+    "network": "2602:fb08:3::/48",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
     "network": "2602:fb09:fff::/48",
     "continent_code": "NA",
     "country_code": "CA",
@@ -176496,7 +176502,7 @@
     "country_name": "Canada"
   },
   {
-    "network": "2602:fed2:770d::/48",
+    "network": "2602:fed2:770e::/48",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -176521,6 +176527,12 @@
   },
   {
     "network": "2602:fed2:7e07::/48",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "2602:fed2:7e08::/48",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -177199,6 +177211,12 @@
   },
   {
     "network": "2607:8700:9301::/48",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
+    "network": "2607:db00:8058::/48",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -180037,12 +180055,6 @@
   },
   {
     "network": "2a0a:6040:3540::/48",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "2a0a:6040:3570::/48",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -192036,6 +192048,12 @@
     "country_name": "Canada"
   },
   {
+    "network": "2a02:26f7:bb8c:6a40::/59",
+    "continent_code": "NA",
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  {
     "network": "2a02:26f7:bb8c:6aa0::/59",
     "continent_code": "NA",
     "country_code": "CA",
@@ -193027,12 +193045,6 @@
   },
   {
     "network": "2a02:26f7:bb8c:6a20::/60",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "2a02:26f7:bb8c:6a50::/60",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -194095,12 +194107,6 @@
   },
   {
     "network": "2a02:26f7:bb8c:6a38::/61",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "2a02:26f7:bb8c:6a40::/61",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -195475,12 +195481,6 @@
   },
   {
     "network": "2a02:26f7:bb8c:6a34::/62",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "2a02:26f7:bb8c:6a48::/62",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"
@@ -198133,12 +198133,6 @@
   },
   {
     "network": "2a02:26f7:bb8c:6a32::/63",
-    "continent_code": "NA",
-    "country_code": "CA",
-    "country_name": "Canada"
-  },
-  {
-    "network": "2a02:26f7:bb8c:6a4c::/63",
     "continent_code": "NA",
     "country_code": "CA",
     "country_name": "Canada"

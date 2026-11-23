@@ -448,6 +448,14 @@
     "domain": "matrixtelecoms.com"
   },
   {
+    "network": "41.211.98.0/24",
+    "asn": "36955",
+    "country_code": "CM",
+    "name": "Matrix-ASN1",
+    "org": "Matrix Telecoms SA",
+    "domain": "matrixtelecoms.com"
+  },
+  {
     "network": "41.211.99.0/24",
     "asn": "36955",
     "country_code": "CM",
@@ -1345,14 +1353,6 @@
   },
   {
     "network": "102.244.44.0/23",
-    "asn": "36912",
-    "country_code": "CM",
-    "name": "ORANGECM",
-    "org": "Orange Cameroun SA",
-    "domain": "orange.com"
-  },
-  {
-    "network": "102.244.44.0/24",
     "asn": "36912",
     "country_code": "CM",
     "name": "ORANGECM",
@@ -2304,6 +2304,14 @@
     "domain": "orange.com"
   },
   {
+    "network": "102.244.155.0/24",
+    "asn": "36912",
+    "country_code": "CM",
+    "name": "ORANGECM",
+    "org": "Orange Cameroun SA",
+    "domain": "orange.com"
+  },
+  {
     "network": "102.244.156.0/22",
     "asn": "36912",
     "country_code": "CM",
@@ -2321,6 +2329,14 @@
   },
   {
     "network": "102.244.156.0/24",
+    "asn": "36912",
+    "country_code": "CM",
+    "name": "ORANGECM",
+    "org": "Orange Cameroun SA",
+    "domain": "orange.com"
+  },
+  {
+    "network": "102.244.157.0/24",
     "asn": "36912",
     "country_code": "CM",
     "name": "ORANGECM",
@@ -2889,6 +2905,38 @@
   },
   {
     "network": "102.244.220.0/22",
+    "asn": "36912",
+    "country_code": "CM",
+    "name": "ORANGECM",
+    "org": "Orange Cameroun SA",
+    "domain": "orange.com"
+  },
+  {
+    "network": "102.244.220.0/23",
+    "asn": "36912",
+    "country_code": "CM",
+    "name": "ORANGECM",
+    "org": "Orange Cameroun SA",
+    "domain": "orange.com"
+  },
+  {
+    "network": "102.244.220.0/24",
+    "asn": "36912",
+    "country_code": "CM",
+    "name": "ORANGECM",
+    "org": "Orange Cameroun SA",
+    "domain": "orange.com"
+  },
+  {
+    "network": "102.244.221.0/24",
+    "asn": "36912",
+    "country_code": "CM",
+    "name": "ORANGECM",
+    "org": "Orange Cameroun SA",
+    "domain": "orange.com"
+  },
+  {
+    "network": "102.244.222.0/24",
     "asn": "36912",
     "country_code": "CM",
     "name": "ORANGECM",
@@ -3528,14 +3576,6 @@
     "domain": "camtel.cm"
   },
   {
-    "network": "165.210.34.0/24",
-    "asn": "15964",
-    "country_code": "CM",
-    "name": "CAMNET-AS",
-    "org": "CAMTEL",
-    "domain": "camtel.cm"
-  },
-  {
     "network": "165.210.38.0/23",
     "asn": "15964",
     "country_code": "CM",
@@ -3673,14 +3713,6 @@
   },
   {
     "network": "165.211.40.0/24",
-    "asn": "15964",
-    "country_code": "CM",
-    "name": "CAMNET-AS",
-    "org": "CAMTEL",
-    "domain": "camtel.cm"
-  },
-  {
-    "network": "192.145.186.0/23",
     "asn": "15964",
     "country_code": "CM",
     "name": "CAMNET-AS",
@@ -5176,38 +5208,6 @@
     "domain": "cnps.cm"
   },
   {
-    "network": "102.208.54.0/23",
-    "asn": "329470",
-    "country_code": "CM",
-    "name": "Afriland-First-Bank",
-    "org": "Afriland First Bank",
-    "domain": "afrilandfirstbank.com"
-  },
-  {
-    "network": "102.208.54.0/24",
-    "asn": "329470",
-    "country_code": "CM",
-    "name": "Afriland-First-Bank",
-    "org": "Afriland First Bank",
-    "domain": "afrilandfirstbank.com"
-  },
-  {
-    "network": "102.208.55.0/24",
-    "asn": "329470",
-    "country_code": "CM",
-    "name": "Afriland-First-Bank",
-    "org": "Afriland First Bank",
-    "domain": "afrilandfirstbank.com"
-  },
-  {
-    "network": "2001:43ff:b000::/48",
-    "asn": "329470",
-    "country_code": "CM",
-    "name": "Afriland-First-Bank",
-    "org": "Afriland First Bank",
-    "domain": "afrilandfirstbank.com"
-  },
-  {
     "network": "102.208.81.0/24",
     "asn": "329469",
     "country_code": "CM",
@@ -5278,5 +5278,13 @@
     "name": "DoualaIX",
     "org": "ST DIGITAL",
     "domain": "st.digital"
+  },
+  {
+    "network": "2001:43ff:b000::/48",
+    "asn": "329470",
+    "country_code": "CM",
+    "name": "Afriland-First-Bank",
+    "org": "Afriland First Bank",
+    "domain": "afrilandfirstbank.com"
   }
 ]

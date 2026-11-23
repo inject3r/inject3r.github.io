@@ -30608,14 +30608,6 @@
     "domain": "beget.ru"
   },
   {
-    "network": "141.133.223.0/24",
-    "asn": "198610",
-    "country_code": "RU",
-    "name": "BEGET-AS",
-    "org": "Beget LLC",
-    "domain": "beget.ru"
-  },
-  {
     "network": "155.212.128.0/21",
     "asn": "198610",
     "country_code": "RU",
@@ -31985,6 +31977,14 @@
   },
   {
     "network": "212.67.8.0/24",
+    "asn": "198610",
+    "country_code": "RU",
+    "name": "BEGET-AS",
+    "org": "Beget LLC",
+    "domain": "beget.ru"
+  },
+  {
+    "network": "212.67.14.0/24",
     "asn": "198610",
     "country_code": "RU",
     "name": "BEGET-AS",
@@ -41920,6 +41920,14 @@
     "domain": "timeweb.ru"
   },
   {
+    "network": "129.101.111.0/24",
+    "asn": "9123",
+    "country_code": "RU",
+    "name": "TimeWeb-AS",
+    "org": "JSC \"TIMEWEB\"",
+    "domain": "timeweb.ru"
+  },
+  {
     "network": "147.45.96.0/24",
     "asn": "9123",
     "country_code": "RU",
@@ -51112,7 +51120,7 @@
     "domain": "beeline.ru"
   },
   {
-    "network": "95.30.110.0/24",
+    "network": "95.30.114.0/24",
     "asn": "8402",
     "country_code": "RU",
     "name": "CORBINA-AS",
@@ -103224,14 +103232,6 @@
     "domain": "chelcom.ru"
   },
   {
-    "network": "195.114.123.0/24",
-    "asn": "8369",
-    "country_code": "RU",
-    "name": "INTERSVYAZ-AS",
-    "org": "Intersvyaz-2 JSC",
-    "domain": "chelcom.ru"
-  },
-  {
     "network": "2a02:22a8::/32",
     "asn": "8369",
     "country_code": "RU",
@@ -116856,14 +116856,6 @@
     "domain": "mtu.ru"
   },
   {
-    "network": "176.222.192.0/23",
-    "asn": "60891",
-    "country_code": "RU",
-    "name": "KORYAJMA-MTS-AS",
-    "org": "MTS PJSC",
-    "domain": "mtu.ru"
-  },
-  {
     "network": "5.145.160.0/21",
     "asn": "44265",
     "country_code": "RU",
@@ -123822,30 +123814,6 @@
     "name": "NyaEU",
     "org": "Yanislav Basiuk",
     "domain": "nya.team"
-  },
-  {
-    "network": "5.175.247.0/24",
-    "asn": "213501",
-    "country_code": "RU",
-    "name": "FLARESU-ORG-AS",
-    "org": "Ramil Rinatovich Kurmaev",
-    "domain": "sayto1k.ru"
-  },
-  {
-    "network": "2a0d:d940:9003::/48",
-    "asn": "213501",
-    "country_code": "RU",
-    "name": "FLARESU-ORG-AS",
-    "org": "Ramil Rinatovich Kurmaev",
-    "domain": "sayto1k.ru"
-  },
-  {
-    "network": "2a14:c380:15::/48",
-    "asn": "213501",
-    "country_code": "RU",
-    "name": "FLARESU-ORG-AS",
-    "org": "Ramil Rinatovich Kurmaev",
-    "domain": "sayto1k.ru"
   },
   {
     "network": "5.180.18.0/24",
@@ -133446,6 +133414,110 @@
     "name": "RIGHTSIDE16",
     "org": "KrasPromStroy, LLC",
     "domain": "rightside.ru"
+  },
+  {
+    "network": "5.189.216.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "31.184.228.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "31.184.229.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "37.9.51.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "46.161.43.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "77.220.216.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "77.220.218.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "77.220.220.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "77.220.221.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "77.220.223.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "89.248.230.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "185.62.100.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
+  },
+  {
+    "network": "195.246.246.0/24",
+    "asn": "207353",
+    "country_code": "RU",
+    "name": "Ruform",
+    "org": "Ruform LLC",
+    "domain": "rutube.ru"
   },
   {
     "network": "5.226.153.0/24",
@@ -149440,6 +149512,14 @@
     "domain": "mastertel.ru"
   },
   {
+    "network": "138.16.157.0/24",
+    "asn": "29226",
+    "country_code": "RU",
+    "name": "MASTERTEL-AS",
+    "org": "JSC Mastertel",
+    "domain": "mastertel.ru"
+  },
+  {
     "network": "138.16.158.0/23",
     "asn": "29226",
     "country_code": "RU",
@@ -150465,6 +150545,14 @@
   },
   {
     "network": "31.76.34.0/24",
+    "asn": "214891",
+    "country_code": "RU",
+    "name": "CLOUDRIX-RU",
+    "org": "Denis Aleksandrovich Iakovlev",
+    "domain": "prefixlab.net"
+  },
+  {
+    "network": "87.232.90.0/24",
     "asn": "214891",
     "country_code": "RU",
     "name": "CLOUDRIX-RU",
@@ -182008,14 +182096,6 @@
     "domain": "gwd.ru"
   },
   {
-    "network": "37.203.244.0/24",
-    "asn": "205978",
-    "country_code": "RU",
-    "name": "LONMADI",
-    "org": "JSC LONMADI",
-    "domain": "lonmadi.ru"
-  },
-  {
     "network": "37.205.16.0/21",
     "asn": "198626",
     "country_code": "RU",
@@ -196534,14 +196614,6 @@
     "name": "mirea86",
     "org": "Federal State Budgetary Educational Institution of Higher Education \"Mirea - Russian Technological University\"",
     "domain": "mirea.ru"
-  },
-  {
-    "network": "45.147.144.0/22",
-    "asn": "208061",
-    "country_code": "RU",
-    "name": "TELE-CONTACT-RU",
-    "org": "Limited Company Telecontact",
-    "domain": "telecontact.ru"
   },
   {
     "network": "45.147.148.0/24",
@@ -220344,6 +220416,14 @@
     "domain": "beeline.ru"
   },
   {
+    "network": "78.24.225.0/24",
+    "asn": "21332",
+    "country_code": "RU",
+    "name": "NTC-AS",
+    "org": "PJSC \"Vimpelcom\"",
+    "domain": "beeline.ru"
+  },
+  {
     "network": "78.24.226.0/24",
     "asn": "21332",
     "country_code": "RU",
@@ -226353,22 +226433,6 @@
   },
   {
     "network": "62.113.55.0/24",
-    "asn": "28809",
-    "country_code": "RU",
-    "name": "NAUKANET-AS",
-    "org": "LLC \"Nauka-Svyaz\"",
-    "domain": "naukanet.ru"
-  },
-  {
-    "network": "62.113.56.0/24",
-    "asn": "28809",
-    "country_code": "RU",
-    "name": "NAUKANET-AS",
-    "org": "LLC \"Nauka-Svyaz\"",
-    "domain": "naukanet.ru"
-  },
-  {
-    "network": "62.113.57.0/24",
     "asn": "28809",
     "country_code": "RU",
     "name": "NAUKANET-AS",
@@ -235904,54 +235968,6 @@
     "domain": ""
   },
   {
-    "network": "77.220.220.0/24",
-    "asn": "207353",
-    "country_code": "RU",
-    "name": "Ruform",
-    "org": "Ruform LLC",
-    "domain": "rutube.ru"
-  },
-  {
-    "network": "77.220.221.0/24",
-    "asn": "207353",
-    "country_code": "RU",
-    "name": "Ruform",
-    "org": "Ruform LLC",
-    "domain": "rutube.ru"
-  },
-  {
-    "network": "77.220.223.0/24",
-    "asn": "207353",
-    "country_code": "RU",
-    "name": "Ruform",
-    "org": "Ruform LLC",
-    "domain": "rutube.ru"
-  },
-  {
-    "network": "89.248.230.0/24",
-    "asn": "207353",
-    "country_code": "RU",
-    "name": "Ruform",
-    "org": "Ruform LLC",
-    "domain": "rutube.ru"
-  },
-  {
-    "network": "185.62.100.0/24",
-    "asn": "207353",
-    "country_code": "RU",
-    "name": "Ruform",
-    "org": "Ruform LLC",
-    "domain": "rutube.ru"
-  },
-  {
-    "network": "195.246.246.0/24",
-    "asn": "207353",
-    "country_code": "RU",
-    "name": "Ruform",
-    "org": "Ruform LLC",
-    "domain": "rutube.ru"
-  },
-  {
     "network": "77.222.45.0/24",
     "asn": "35295",
     "country_code": "RU",
@@ -241081,14 +241097,6 @@
   },
   {
     "network": "78.40.24.0/21",
-    "asn": "43299",
-    "country_code": "RU",
-    "name": "TELECONTACT-AS",
-    "org": "Limited Company Telecontact",
-    "domain": "telecontact.ru"
-  },
-  {
-    "network": "78.40.24.0/24",
     "asn": "43299",
     "country_code": "RU",
     "name": "TELECONTACT-AS",
@@ -259168,6 +259176,14 @@
     "domain": ""
   },
   {
+    "network": "109.62.169.0/24",
+    "asn": "29456",
+    "country_code": "RU",
+    "name": "BELSVYAZ-AS",
+    "org": "PJSC Rostelecom",
+    "domain": ""
+  },
+  {
     "network": "109.62.248.0/21",
     "asn": "29456",
     "country_code": "RU",
@@ -260774,6 +260790,22 @@
     "name": "MEGALABS-AS",
     "org": "PJSC MegaFon",
     "domain": "megalabs.ru"
+  },
+  {
+    "network": "83.149.250.0/24",
+    "asn": "8409",
+    "country_code": "RU",
+    "name": "IITP-AS",
+    "org": "Institute for Information Transmission Problems of the Russian Academy of Sciences of A.A. Kharkevich",
+    "domain": "iitp.ru"
+  },
+  {
+    "network": "188.93.104.0/23",
+    "asn": "8409",
+    "country_code": "RU",
+    "name": "IITP-AS",
+    "org": "Institute for Information Transmission Problems of the Russian Academy of Sciences of A.A. Kharkevich",
+    "domain": "iitp.ru"
   },
   {
     "network": "83.166.96.0/19",
@@ -271217,14 +271249,6 @@
   },
   {
     "network": "2a05:3580:e000::/40",
-    "asn": "35807",
-    "country_code": "RU",
-    "name": "AS-SKYNET-SPB",
-    "org": "SkyNet Ltd.",
-    "domain": "sknt.ru"
-  },
-  {
-    "network": "2a05:3580:e100::/40",
     "asn": "35807",
     "country_code": "RU",
     "name": "AS-SKYNET-SPB",
@@ -330968,14 +330992,6 @@
     "domain": "avantel.ru"
   },
   {
-    "network": "188.93.104.0/23",
-    "asn": "8409",
-    "country_code": "RU",
-    "name": "IITP-AS",
-    "org": "Institute for Information Transmission Problems of the Russian Academy of Sciences of A.A. Kharkevich",
-    "domain": "iitp.ru"
-  },
-  {
     "network": "188.93.106.0/24",
     "asn": "206337",
     "country_code": "RU",
@@ -345048,14 +345064,6 @@
     "domain": "ufanet.ru"
   },
   {
-    "network": "213.5.240.0/21",
-    "asn": "42141",
-    "country_code": "RU",
-    "name": "GERMES-TELECOM-AS",
-    "org": "Germes-Telecom LLC",
-    "domain": "gtelecom.ru"
-  },
-  {
     "network": "213.59.184.0/24",
     "asn": "204169",
     "country_code": "RU",
@@ -348094,5 +348102,13 @@
     "name": "VladimirAS",
     "org": "Vladimir Pakhomov",
     "domain": "vladimir.life"
+  },
+  {
+    "network": "2a14:c380:15::/48",
+    "asn": "213501",
+    "country_code": "RU",
+    "name": "FLARESU-ORG-AS",
+    "org": "Ramil Rinatovich Kurmaev",
+    "domain": "sayto1k.ru"
   }
 ]

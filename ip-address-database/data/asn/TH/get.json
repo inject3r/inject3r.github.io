@@ -58544,14 +58544,6 @@
     "domain": "mekha.cloud"
   },
   {
-    "network": "2402:6c20::/32",
-    "asn": "154117",
-    "country_code": "TH",
-    "name": "MEKHA-AS-AP",
-    "org": "Mekha Cloud Company Limited",
-    "domain": "mekha.cloud"
-  },
-  {
     "network": "27.254.146.0/23",
     "asn": "63940",
     "country_code": "TH",
@@ -90592,6 +90584,14 @@
     "domain": "uni.net.th"
   },
   {
+    "network": "202.28.39.0/24",
+    "asn": "4621",
+    "country_code": "TH",
+    "name": "UNINET-AS-AP",
+    "org": "Office of Info.Tech. Admin. for Educational Development",
+    "domain": "uni.net.th"
+  },
+  {
     "network": "202.28.52.0/24",
     "asn": "4621",
     "country_code": "TH",
@@ -94025,22 +94025,6 @@
   },
   {
     "network": "103.243.179.0/24",
-    "asn": "150787",
-    "country_code": "TH",
-    "name": "CGCL-AS",
-    "org": "CHANNEL G COMPANY LIMITED",
-    "domain": "cng.co.th"
-  },
-  {
-    "network": "2001:df6:3480::/48",
-    "asn": "150787",
-    "country_code": "TH",
-    "name": "CGCL-AS",
-    "org": "CHANNEL G COMPANY LIMITED",
-    "domain": "cng.co.th"
-  },
-  {
-    "network": "2001:df6:3481::/48",
     "asn": "150787",
     "country_code": "TH",
     "name": "CGCL-AS",
@@ -105278,6 +105262,14 @@
     "name": "BHIP-AS-AP",
     "org": "Bupa Health Insurance (Thailand) Public Company Limited",
     "domain": "dtac.co.th"
+  },
+  {
+    "network": "2001:df6:3481::/48",
+    "asn": "141780",
+    "country_code": "TH",
+    "name": "CGCL-AS-AP",
+    "org": "CHANNEL G COMPANY LIMITED",
+    "domain": "cng.co.th"
   },
   {
     "network": "2a02:f240::/29",

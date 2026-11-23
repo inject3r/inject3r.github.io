@@ -8928,22 +8928,6 @@
     "domain": "as35100.net"
   },
   {
-    "network": "2a10:fa80:4400::/39",
-    "asn": "35100",
-    "country_code": "SE",
-    "name": "PatrikWeb-Core",
-    "org": "Patrik Lagerman",
-    "domain": "as35100.net"
-  },
-  {
-    "network": "2a10:fa80:4600::/39",
-    "asn": "35100",
-    "country_code": "SE",
-    "name": "PatrikWeb-Core",
-    "org": "Patrik Lagerman",
-    "domain": "as35100.net"
-  },
-  {
     "network": "5.133.192.0/19",
     "asn": "51747",
     "country_code": "SE",
@@ -16376,94 +16360,6 @@
     "domain": "31173.se"
   },
   {
-    "network": "45.84.106.0/24",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
-    "network": "45.84.107.0/24",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
-    "network": "81.27.77.0/24",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
-    "network": "185.243.23.0/24",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
-    "network": "193.182.61.0/24",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
-    "network": "2a0a:3507:1::/48",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
-    "network": "2a0d:bbc0:1::/48",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
-    "network": "2a0d:bbc0:2::/48",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
-    "network": "2a0d:bbc1::/48",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
-    "network": "2a0d:bbc7::/48",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
-    "network": "2a0d:bbc7:1::/48",
-    "asn": "214503",
-    "country_code": "SE",
-    "name": "QUXLABS",
-    "org": "QuxLabs AB",
-    "domain": "quxlabs.com"
-  },
-  {
     "network": "45.85.72.0/24",
     "asn": "58317",
     "country_code": "SE",
@@ -22296,6 +22192,14 @@
     "domain": "arkaden.se"
   },
   {
+    "network": "91.145.9.0/24",
+    "asn": "51132",
+    "country_code": "SE",
+    "name": "Arkaden",
+    "org": "Arkaden Konsult AB",
+    "domain": "arkaden.se"
+  },
+  {
     "network": "91.145.10.0/24",
     "asn": "51132",
     "country_code": "SE",
@@ -26230,6 +26134,22 @@
     "name": "GDM",
     "org": "GDM Konsult AB",
     "domain": "gdm.se"
+  },
+  {
+    "network": "81.27.77.0/24",
+    "asn": "214503",
+    "country_code": "SE",
+    "name": "QUXLABS",
+    "org": "QuxLabs AB",
+    "domain": "quxlabs.com"
+  },
+  {
+    "network": "2a0d:bbc1::/48",
+    "asn": "214503",
+    "country_code": "SE",
+    "name": "QUXLABS",
+    "org": "QuxLabs AB",
+    "domain": "quxlabs.com"
   },
   {
     "network": "81.94.160.0/21",
@@ -35833,6 +35753,38 @@
   },
   {
     "network": "185.174.244.0/22",
+    "asn": "218146",
+    "country_code": "SE",
+    "name": "CLOUDSSON-AS",
+    "org": "Cloudsson AB",
+    "domain": "cloudsson.se"
+  },
+  {
+    "network": "185.174.244.0/24",
+    "asn": "218146",
+    "country_code": "SE",
+    "name": "CLOUDSSON-AS",
+    "org": "Cloudsson AB",
+    "domain": "cloudsson.se"
+  },
+  {
+    "network": "185.174.245.0/24",
+    "asn": "218146",
+    "country_code": "SE",
+    "name": "CLOUDSSON-AS",
+    "org": "Cloudsson AB",
+    "domain": "cloudsson.se"
+  },
+  {
+    "network": "185.174.246.0/24",
+    "asn": "218146",
+    "country_code": "SE",
+    "name": "CLOUDSSON-AS",
+    "org": "Cloudsson AB",
+    "domain": "cloudsson.se"
+  },
+  {
+    "network": "185.174.247.0/24",
     "asn": "218146",
     "country_code": "SE",
     "name": "CLOUDSSON-AS",

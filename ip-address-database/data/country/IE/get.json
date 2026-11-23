@@ -9066,7 +9066,7 @@
     "country_name": "Ireland"
   },
   {
-    "network": "51.186.47.192/26",
+    "network": "51.186.47.128/25",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -10164,7 +10164,7 @@
     "country_name": "Ireland"
   },
   {
-    "network": "51.199.236.48/30",
+    "network": "51.199.236.50/31",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -26478,6 +26478,12 @@
     "country_name": "Ireland"
   },
   {
+    "network": "65.38.104.0/23",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
     "network": "65.52.64.0/20",
     "continent_code": "EU",
     "country_code": "IE",
@@ -27030,12 +27036,6 @@
     "country_name": "Ireland"
   },
   {
-    "network": "66.179.106.0/23",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
     "network": "66.179.161.0/24",
     "continent_code": "EU",
     "country_code": "IE",
@@ -27205,12 +27205,6 @@
   },
   {
     "network": "69.107.13.128/28",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "69.164.84.0/23",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -28027,24 +28021,6 @@
   },
   {
     "network": "78.17.52.0/24",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "78.17.55.0/25",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "78.17.55.128/26",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "78.17.55.224/27",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -32910,12 +32886,6 @@
     "country_name": "Ireland"
   },
   {
-    "network": "87.192.36.0/23",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
     "network": "87.192.38.0/24",
     "continent_code": "EU",
     "country_code": "IE",
@@ -33013,12 +32983,6 @@
   },
   {
     "network": "87.232.0.0/18",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "87.232.125.16/28",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -34224,12 +34188,6 @@
     "country_name": "Ireland"
   },
   {
-    "network": "89.124.251.196/30",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
     "network": "89.124.251.200/29",
     "continent_code": "EU",
     "country_code": "IE",
@@ -34315,6 +34273,12 @@
   },
   {
     "network": "89.127.128.0/18",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
+    "network": "89.127.195.0/25",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -34950,7 +34914,7 @@
     "country_name": "Ireland"
   },
   {
-    "network": "91.90.124.144/28",
+    "network": "91.90.124.144/29",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -40542,6 +40506,12 @@
     "country_name": "Ireland"
   },
   {
+    "network": "143.13.128.0/24",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
     "network": "143.47.0.0/19",
     "continent_code": "EU",
     "country_code": "IE",
@@ -41010,43 +40980,7 @@
     "country_name": "Ireland"
   },
   {
-    "network": "149.5.32.0/24",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "149.5.33.0/25",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "149.5.33.144/28",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "149.5.33.160/27",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "149.5.33.192/26",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "149.5.34.0/23",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "149.5.36.0/22",
+    "network": "149.5.32.0/21",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -42738,6 +42672,18 @@
     "country_name": "Ireland"
   },
   {
+    "network": "155.121.143.0/24",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
+    "network": "155.121.240.0/24",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
     "network": "155.190.13.161/32",
     "continent_code": "EU",
     "country_code": "IE",
@@ -44268,6 +44214,30 @@
     "country_name": "Ireland"
   },
   {
+    "network": "163.114.132.4/30",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
+    "network": "163.114.132.8/29",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
+    "network": "163.114.132.16/28",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
+    "network": "163.114.132.32/27",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
     "network": "163.114.132.64/26",
     "continent_code": "EU",
     "country_code": "IE",
@@ -45126,7 +45096,7 @@
     "country_name": "Ireland"
   },
   {
-    "network": "173.82.158.0/23",
+    "network": "173.82.159.0/24",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -45361,12 +45331,6 @@
   },
   {
     "network": "176.111.164.0/22",
-    "continent_code": "EU",
-    "country_code": "IE",
-    "country_name": "Ireland"
-  },
-  {
-    "network": "176.116.6.0/24",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -45979,6 +45943,12 @@
   },
   {
     "network": "185.41.89.175/32",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
+    "network": "185.41.224.0/22",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
@@ -90409,6 +90379,12 @@
   },
   {
     "network": "2607:6b80:3d::/48",
+    "continent_code": "EU",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  {
+    "network": "2607:db00:8080::/48",
     "continent_code": "EU",
     "country_code": "IE",
     "country_name": "Ireland"
