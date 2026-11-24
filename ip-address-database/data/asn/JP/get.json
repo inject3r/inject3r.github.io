@@ -31608,6 +31608,14 @@
     "domain": "3xnet.us"
   },
   {
+    "network": "147.90.30.0/24",
+    "asn": "152324",
+    "country_code": "JP",
+    "name": "M3XNETCOLTD-AS-AP",
+    "org": "3XNET Co., Ltd.",
+    "domain": "3xnet.us"
+  },
+  {
     "network": "163.223.216.0/23",
     "asn": "152324",
     "country_code": "JP",
@@ -51504,14 +51512,6 @@
     "domain": "dreaminfo-lab.info"
   },
   {
-    "network": "103.13.18.0/24",
-    "asn": "142622",
-    "country_code": "JP",
-    "name": "DIL-AS-AP",
-    "org": "Dream Information Laboratory LLC",
-    "domain": "dreaminfo-lab.info"
-  },
-  {
     "network": "103.24.160.0/24",
     "asn": "142622",
     "country_code": "JP",
@@ -51929,6 +51929,14 @@
   },
   {
     "network": "44.30.230.0/23",
+    "asn": "199767",
+    "country_code": "JP",
+    "name": "DOVE-AS",
+    "org": "Pinjia Zhao",
+    "domain": "pigeontele.com"
+  },
+  {
+    "network": "44.30.230.0/24",
     "asn": "199767",
     "country_code": "JP",
     "name": "DOVE-AS",
@@ -79608,6 +79616,14 @@
     "domain": "jprs.jp"
   },
   {
+    "network": "202.13.8.0/21",
+    "asn": "2907",
+    "country_code": "JP",
+    "name": "JPNIC-2Byte-ASBLOCK-AP",
+    "org": "for assignment to JPNIC members",
+    "domain": "jprs.jp"
+  },
+  {
     "network": "202.13.16.0/21",
     "asn": "2907",
     "country_code": "JP",
@@ -95344,14 +95360,6 @@
     "domain": "starlamp.su"
   },
   {
-    "network": "2a0a:6044:aca2::/48",
-    "asn": "214675",
-    "country_code": "JP",
-    "name": "Starlamp",
-    "org": "Hidenori Matsuo",
-    "domain": "starlamp.su"
-  },
-  {
     "network": "2a0a:6044:aca3::/48",
     "asn": "214675",
     "country_code": "JP",
@@ -95393,14 +95401,6 @@
   },
   {
     "network": "2a0a:6044:acaf::/48",
-    "asn": "214675",
-    "country_code": "JP",
-    "name": "Starlamp",
-    "org": "Hidenori Matsuo",
-    "domain": "starlamp.su"
-  },
-  {
-    "network": "2a0b:4e07:300::/44",
     "asn": "214675",
     "country_code": "JP",
     "name": "Starlamp",
@@ -98744,44 +98744,12 @@
     "domain": "aig.co.jp"
   },
   {
-    "network": "173.214.112.0/21",
+    "network": "173.214.112.0/20",
     "asn": "7469",
     "country_code": "JP",
     "name": "DODO_Broadband",
     "org": "DODO K.K.",
     "domain": "dodo.ad.jp"
-  },
-  {
-    "network": "173.214.120.0/21",
-    "asn": "7469",
-    "country_code": "JP",
-    "name": "DODO_Broadband",
-    "org": "DODO K.K.",
-    "domain": "dodo.ad.jp"
-  },
-  {
-    "network": "177.29.254.0/24",
-    "asn": "215239",
-    "country_code": "JP",
-    "name": "SHOW",
-    "org": "Show Corporation",
-    "domain": "show.ad.jp"
-  },
-  {
-    "network": "2a14:2d47:200::/40",
-    "asn": "215239",
-    "country_code": "JP",
-    "name": "SHOW",
-    "org": "Show Corporation",
-    "domain": "show.ad.jp"
-  },
-  {
-    "network": "2a14:2d47:300::/40",
-    "asn": "215239",
-    "country_code": "JP",
-    "name": "SHOW",
-    "org": "Show Corporation",
-    "domain": "show.ad.jp"
   },
   {
     "network": "180.94.1.0/24",
@@ -103424,6 +103392,22 @@
     "domain": "ttt.moe"
   },
   {
+    "network": "2a14:2d47:200::/40",
+    "asn": "215239",
+    "country_code": "JP",
+    "name": "SHOW",
+    "org": "Show Corporation",
+    "domain": "show.ad.jp"
+  },
+  {
+    "network": "2a14:2d47:300::/40",
+    "asn": "215239",
+    "country_code": "JP",
+    "name": "SHOW",
+    "org": "Show Corporation",
+    "domain": "show.ad.jp"
+  },
+  {
     "network": "2a14:7583:efd3::/48",
     "asn": "218640",
     "country_code": "JP",
@@ -103435,7 +103419,7 @@
     "network": "2a14:ae00:70::/44",
     "asn": "218871",
     "country_code": "JP",
-    "name": "NISHIO-AS",
+    "name": "YATSNET",
     "org": "Kazuto Nishio",
     "domain": "elaunira.com"
   }

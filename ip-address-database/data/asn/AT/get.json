@@ -1392,14 +1392,6 @@
     "domain": "anexia.at"
   },
   {
-    "network": "152.53.99.0/24",
-    "asn": "42473",
-    "country_code": "AT",
-    "name": "AS-ANEXIA",
-    "org": "Anexia Cloud Solutions GmbH",
-    "domain": "anexia.at"
-  },
-  {
     "network": "152.53.203.0/24",
     "asn": "42473",
     "country_code": "AT",
@@ -1417,14 +1409,6 @@
   },
   {
     "network": "159.195.155.0/24",
-    "asn": "42473",
-    "country_code": "AT",
-    "name": "AS-ANEXIA",
-    "org": "Anexia Cloud Solutions GmbH",
-    "domain": "anexia.at"
-  },
-  {
-    "network": "159.195.160.0/19",
     "asn": "42473",
     "country_code": "AT",
     "name": "AS-ANEXIA",
@@ -24667,7 +24651,7 @@
     "network": "138.200.12.0/23",
     "asn": "39508",
     "country_code": "AT",
-    "name": "C07-AS",
+    "name": "Axians-AT-DC1-AS",
     "org": "AXIANS ICT Austria GmbH",
     "domain": "axians.at"
   },
@@ -24675,7 +24659,7 @@
     "network": "194.0.222.0/24",
     "asn": "39508",
     "country_code": "AT",
-    "name": "C07-AS",
+    "name": "Axians-AT-DC1-AS",
     "org": "AXIANS ICT Austria GmbH",
     "domain": "axians.at"
   },
@@ -24683,7 +24667,7 @@
     "network": "194.107.82.0/23",
     "asn": "39508",
     "country_code": "AT",
-    "name": "C07-AS",
+    "name": "Axians-AT-DC1-AS",
     "org": "AXIANS ICT Austria GmbH",
     "domain": "axians.at"
   },
@@ -24691,7 +24675,7 @@
     "network": "195.177.198.0/24",
     "asn": "39508",
     "country_code": "AT",
-    "name": "C07-AS",
+    "name": "Axians-AT-DC1-AS",
     "org": "AXIANS ICT Austria GmbH",
     "domain": "axians.at"
   },
@@ -24699,7 +24683,7 @@
     "network": "195.177.199.0/24",
     "asn": "39508",
     "country_code": "AT",
-    "name": "C07-AS",
+    "name": "Axians-AT-DC1-AS",
     "org": "AXIANS ICT Austria GmbH",
     "domain": "axians.at"
   },
@@ -24707,7 +24691,7 @@
     "network": "195.234.58.0/24",
     "asn": "39508",
     "country_code": "AT",
-    "name": "C07-AS",
+    "name": "Axians-AT-DC1-AS",
     "org": "AXIANS ICT Austria GmbH",
     "domain": "axians.at"
   },
@@ -24715,7 +24699,7 @@
     "network": "2001:678:3dc::/48",
     "asn": "39508",
     "country_code": "AT",
-    "name": "C07-AS",
+    "name": "Axians-AT-DC1-AS",
     "org": "AXIANS ICT Austria GmbH",
     "domain": "axians.at"
   },
@@ -25720,6 +25704,78 @@
     "domain": "cts.at"
   },
   {
+    "network": "152.53.99.0/24",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "159.195.160.0/19",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "159.195.160.0/21",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "159.195.168.0/24",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "159.195.176.0/22",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "2a05:8907::/48",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "2a05:8907:10::/48",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "2a05:8907:12::/48",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "2a05:8907:20::/48",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
     "network": "155.133.24.0/23",
     "asn": "201470",
     "country_code": "AT",
@@ -25937,6 +25993,14 @@
   },
   {
     "network": "176.97.158.0/24",
+    "asn": "207021",
+    "country_code": "AT",
+    "name": "RCODEZERO-ANYCAST-SEC2",
+    "org": "ipcom GmbH",
+    "domain": "nic.at"
+  },
+  {
+    "network": "185.80.189.0/24",
     "asn": "207021",
     "country_code": "AT",
     "name": "RCODEZERO-ANYCAST-SEC2",
@@ -30147,7 +30211,7 @@
     "network": "193.104.232.0/24",
     "asn": "196913",
     "country_code": "AT",
-    "name": "AXIANS-ICT-AUSTRIA-AS",
+    "name": "AXIANS-AT-DC2-AS",
     "org": "AXIANS ICT Austria GmbH",
     "domain": "axians.at"
   },
@@ -32592,38 +32656,6 @@
     "domain": "oja.at"
   },
   {
-    "network": "2a05:8907::/48",
-    "asn": "199159",
-    "country_code": "AT",
-    "name": "EOS",
-    "org": "Anexia Cloud Solutions GmbH",
-    "domain": "anexia.at"
-  },
-  {
-    "network": "2a05:8907:10::/48",
-    "asn": "199159",
-    "country_code": "AT",
-    "name": "EOS",
-    "org": "Anexia Cloud Solutions GmbH",
-    "domain": "anexia.at"
-  },
-  {
-    "network": "2a05:8907:12::/48",
-    "asn": "199159",
-    "country_code": "AT",
-    "name": "EOS",
-    "org": "Anexia Cloud Solutions GmbH",
-    "domain": "anexia.at"
-  },
-  {
-    "network": "2a05:8907:20::/48",
-    "asn": "199159",
-    "country_code": "AT",
-    "name": "EOS",
-    "org": "Anexia Cloud Solutions GmbH",
-    "domain": "anexia.at"
-  },
-  {
     "network": "2a06:1281:50::/48",
     "asn": "205163",
     "country_code": "AT",
@@ -32728,10 +32760,74 @@
     "domain": "tuwien.ac.at"
   },
   {
+    "network": "2a0b:d83:1000::/36",
+    "asn": "218176",
+    "country_code": "AT",
+    "name": "II-RTLB-01",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:2000::/36",
+    "asn": "218177",
+    "country_code": "AT",
+    "name": "II-RTLB-02",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:3000::/36",
+    "asn": "218178",
+    "country_code": "AT",
+    "name": "II-RTLB-03",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:4000::/36",
+    "asn": "218179",
+    "country_code": "AT",
+    "name": "II-RTLB-04",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:5000::/36",
+    "asn": "218180",
+    "country_code": "AT",
+    "name": "II-RTLB-05",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:6000::/36",
+    "asn": "218181",
+    "country_code": "AT",
+    "name": "II-RTLB-06",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:7000::/36",
+    "asn": "218182",
+    "country_code": "AT",
+    "name": "II-RTLB-07",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:8000::/36",
+    "asn": "218183",
+    "country_code": "AT",
+    "name": "II-RTLB-08",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
     "network": "2a0c:9a40:e170::/44",
     "asn": "218456",
     "country_code": "AT",
-    "name": "Mizelli",
+    "name": "DinoNet",
     "org": "Simon Mizelli",
     "domain": "thedino.net"
   },

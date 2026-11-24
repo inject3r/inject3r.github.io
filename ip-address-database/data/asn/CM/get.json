@@ -2936,7 +2936,7 @@
     "domain": "orange.com"
   },
   {
-    "network": "102.244.222.0/24",
+    "network": "102.244.222.0/23",
     "asn": "36912",
     "country_code": "CM",
     "name": "ORANGECM",
@@ -3576,6 +3576,14 @@
     "domain": "camtel.cm"
   },
   {
+    "network": "165.210.34.0/24",
+    "asn": "15964",
+    "country_code": "CM",
+    "name": "CAMNET-AS",
+    "org": "CAMTEL",
+    "domain": "camtel.cm"
+  },
+  {
     "network": "165.210.38.0/23",
     "asn": "15964",
     "country_code": "CM",
@@ -3713,6 +3721,14 @@
   },
   {
     "network": "165.211.40.0/24",
+    "asn": "15964",
+    "country_code": "CM",
+    "name": "CAMNET-AS",
+    "org": "CAMTEL",
+    "domain": "camtel.cm"
+  },
+  {
+    "network": "192.145.186.0/23",
     "asn": "15964",
     "country_code": "CM",
     "name": "CAMNET-AS",

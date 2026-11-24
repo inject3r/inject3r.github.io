@@ -258,7 +258,7 @@
     "country_name": "Bonaire, Saint Eustatius and Saba"
   },
   {
-    "network": "190.88.38.0/24",
+    "network": "190.88.38.128/25",
     "continent_code": "NA",
     "country_code": "BQ",
     "country_name": "Bonaire, Saint Eustatius and Saba"
@@ -331,12 +331,6 @@
   },
   {
     "network": "2803:1600::/32",
-    "continent_code": "NA",
-    "country_code": "BQ",
-    "country_name": "Bonaire, Saint Eustatius and Saba"
-  },
-  {
-    "network": "2803:4900::/32",
     "continent_code": "NA",
     "country_code": "BQ",
     "country_name": "Bonaire, Saint Eustatius and Saba"
@@ -637,6 +631,12 @@
   },
   {
     "network": "2a13:a5c7:251e::/48",
+    "continent_code": "NA",
+    "country_code": "BQ",
+    "country_name": "Bonaire, Saint Eustatius and Saba"
+  },
+  {
+    "network": "2a13:c8c4:fdfa::/48",
     "continent_code": "NA",
     "country_code": "BQ",
     "country_name": "Bonaire, Saint Eustatius and Saba"
