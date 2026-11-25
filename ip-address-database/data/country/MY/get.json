@@ -2322,12 +2322,6 @@
     "country_name": "Malaysia"
   },
   {
-    "network": "43.152.156.0/22",
-    "continent_code": "AS",
-    "country_code": "MY",
-    "country_name": "Malaysia"
-  },
-  {
     "network": "43.159.88.0/23",
     "continent_code": "AS",
     "country_code": "MY",
@@ -2437,6 +2431,12 @@
   },
   {
     "network": "43.228.248.0/22",
+    "continent_code": "AS",
+    "country_code": "MY",
+    "country_name": "Malaysia"
+  },
+  {
+    "network": "43.231.6.0/23",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
@@ -7458,6 +7458,18 @@
     "country_name": "Malaysia"
   },
   {
+    "network": "103.91.194.16/31",
+    "continent_code": "AS",
+    "country_code": "MY",
+    "country_name": "Malaysia"
+  },
+  {
+    "network": "103.91.194.20/30",
+    "continent_code": "AS",
+    "country_code": "MY",
+    "country_name": "Malaysia"
+  },
+  {
     "network": "103.91.194.24/29",
     "continent_code": "AS",
     "country_code": "MY",
@@ -9102,7 +9114,7 @@
     "country_name": "Malaysia"
   },
   {
-    "network": "103.253.110.0/23",
+    "network": "103.253.108.0/22",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
@@ -11130,7 +11142,7 @@
     "country_name": "Malaysia"
   },
   {
-    "network": "118.139.131.0/31",
+    "network": "118.139.131.0/29",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
@@ -11875,12 +11887,6 @@
   },
   {
     "network": "134.231.128.0/25",
-    "continent_code": "AS",
-    "country_code": "MY",
-    "country_name": "Malaysia"
-  },
-  {
-    "network": "134.231.128.192/26",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
@@ -12906,12 +12912,6 @@
     "country_name": "Malaysia"
   },
   {
-    "network": "154.84.64.0/18",
-    "continent_code": "AS",
-    "country_code": "MY",
-    "country_name": "Malaysia"
-  },
-  {
     "network": "154.90.38.0/23",
     "continent_code": "AS",
     "country_code": "MY",
@@ -13014,13 +13014,7 @@
     "country_name": "Malaysia"
   },
   {
-    "network": "154.195.32.0/23",
-    "continent_code": "AS",
-    "country_code": "MY",
-    "country_name": "Malaysia"
-  },
-  {
-    "network": "154.195.36.0/22",
+    "network": "154.195.32.0/21",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
@@ -13051,6 +13045,12 @@
   },
   {
     "network": "154.195.60.0/22",
+    "continent_code": "AS",
+    "country_code": "MY",
+    "country_name": "Malaysia"
+  },
+  {
+    "network": "154.195.192.0/18",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
@@ -13218,25 +13218,7 @@
     "country_name": "Malaysia"
   },
   {
-    "network": "154.223.224.0/22",
-    "continent_code": "AS",
-    "country_code": "MY",
-    "country_name": "Malaysia"
-  },
-  {
-    "network": "154.223.228.0/23",
-    "continent_code": "AS",
-    "country_code": "MY",
-    "country_name": "Malaysia"
-  },
-  {
-    "network": "154.223.232.0/21",
-    "continent_code": "AS",
-    "country_code": "MY",
-    "country_name": "Malaysia"
-  },
-  {
-    "network": "154.223.240.0/20",
+    "network": "154.223.224.0/19",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
@@ -13716,6 +13698,12 @@
     "country_name": "Malaysia"
   },
   {
+    "network": "157.238.196.0/23",
+    "continent_code": "AS",
+    "country_code": "MY",
+    "country_name": "Malaysia"
+  },
+  {
     "network": "157.238.199.0/24",
     "continent_code": "AS",
     "country_code": "MY",
@@ -13938,19 +13926,13 @@
     "country_name": "Malaysia"
   },
   {
-    "network": "158.173.165.44/31",
+    "network": "158.173.165.40/29",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
   },
   {
-    "network": "158.173.165.72/29",
-    "continent_code": "AS",
-    "country_code": "MY",
-    "country_name": "Malaysia"
-  },
-  {
-    "network": "158.173.165.100/30",
+    "network": "158.173.165.102/31",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
@@ -13962,7 +13944,7 @@
     "country_name": "Malaysia"
   },
   {
-    "network": "158.173.165.224/29",
+    "network": "158.173.165.224/30",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
@@ -18144,7 +18126,19 @@
     "country_name": "Malaysia"
   },
   {
-    "network": "210.24.100.0/22",
+    "network": "210.24.100.0/23",
+    "continent_code": "AS",
+    "country_code": "MY",
+    "country_name": "Malaysia"
+  },
+  {
+    "network": "210.24.102.0/24",
+    "continent_code": "AS",
+    "country_code": "MY",
+    "country_name": "Malaysia"
+  },
+  {
+    "network": "210.24.103.0/25",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"
@@ -27282,6 +27276,12 @@
     "country_name": "Malaysia"
   },
   {
+    "network": "2001:470:49f8::/48",
+    "continent_code": "AS",
+    "country_code": "MY",
+    "country_name": "Malaysia"
+  },
+  {
     "network": "2001:470:58e8::/48",
     "continent_code": "AS",
     "country_code": "MY",
@@ -30060,12 +30060,6 @@
     "country_name": "Malaysia"
   },
   {
-    "network": "2a13:c8c4:fdde::/48",
-    "continent_code": "AS",
-    "country_code": "MY",
-    "country_name": "Malaysia"
-  },
-  {
     "network": "2a14:7c0:5202::/48",
     "continent_code": "AS",
     "country_code": "MY",
@@ -30073,6 +30067,12 @@
   },
   {
     "network": "2a14:3087:1::/48",
+    "continent_code": "AS",
+    "country_code": "MY",
+    "country_name": "Malaysia"
+  },
+  {
+    "network": "2a14:67c1:b69c::/48",
     "continent_code": "AS",
     "country_code": "MY",
     "country_name": "Malaysia"

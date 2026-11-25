@@ -1280,14 +1280,6 @@
     "domain": "orange.com"
   },
   {
-    "network": "102.244.38.0/24",
-    "asn": "36912",
-    "country_code": "CM",
-    "name": "ORANGECM",
-    "org": "Orange Cameroun SA",
-    "domain": "orange.com"
-  },
-  {
     "network": "102.244.39.0/24",
     "asn": "36912",
     "country_code": "CM",
@@ -2304,14 +2296,6 @@
     "domain": "orange.com"
   },
   {
-    "network": "102.244.155.0/24",
-    "asn": "36912",
-    "country_code": "CM",
-    "name": "ORANGECM",
-    "org": "Orange Cameroun SA",
-    "domain": "orange.com"
-  },
-  {
     "network": "102.244.156.0/22",
     "asn": "36912",
     "country_code": "CM",
@@ -2321,14 +2305,6 @@
   },
   {
     "network": "102.244.156.0/23",
-    "asn": "36912",
-    "country_code": "CM",
-    "name": "ORANGECM",
-    "org": "Orange Cameroun SA",
-    "domain": "orange.com"
-  },
-  {
-    "network": "102.244.156.0/24",
     "asn": "36912",
     "country_code": "CM",
     "name": "ORANGECM",
@@ -2936,7 +2912,7 @@
     "domain": "orange.com"
   },
   {
-    "network": "102.244.222.0/23",
+    "network": "102.244.222.0/24",
     "asn": "36912",
     "country_code": "CM",
     "name": "ORANGECM",
@@ -5224,6 +5200,38 @@
     "domain": "cnps.cm"
   },
   {
+    "network": "102.208.54.0/23",
+    "asn": "329470",
+    "country_code": "CM",
+    "name": "Afriland-First-Bank",
+    "org": "Afriland First Bank",
+    "domain": "afrilandfirstbank.com"
+  },
+  {
+    "network": "102.208.54.0/24",
+    "asn": "329470",
+    "country_code": "CM",
+    "name": "Afriland-First-Bank",
+    "org": "Afriland First Bank",
+    "domain": "afrilandfirstbank.com"
+  },
+  {
+    "network": "102.208.55.0/24",
+    "asn": "329470",
+    "country_code": "CM",
+    "name": "Afriland-First-Bank",
+    "org": "Afriland First Bank",
+    "domain": "afrilandfirstbank.com"
+  },
+  {
+    "network": "2001:43ff:b000::/48",
+    "asn": "329470",
+    "country_code": "CM",
+    "name": "Afriland-First-Bank",
+    "org": "Afriland First Bank",
+    "domain": "afrilandfirstbank.com"
+  },
+  {
     "network": "102.208.81.0/24",
     "asn": "329469",
     "country_code": "CM",
@@ -5294,13 +5302,5 @@
     "name": "DoualaIX",
     "org": "ST DIGITAL",
     "domain": "st.digital"
-  },
-  {
-    "network": "2001:43ff:b000::/48",
-    "asn": "329470",
-    "country_code": "CM",
-    "name": "Afriland-First-Bank",
-    "org": "Afriland First Bank",
-    "domain": "afrilandfirstbank.com"
   }
 ]

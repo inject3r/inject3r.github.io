@@ -1624,7 +1624,7 @@
     "domain": "mci.ir"
   },
   {
-    "network": "5.214.0.0/20",
+    "network": "5.214.0.0/18",
     "asn": "197207",
     "country_code": "IR",
     "name": "MCCI-AS",
@@ -1632,7 +1632,7 @@
     "domain": "mci.ir"
   },
   {
-    "network": "5.214.0.0/24",
+    "network": "5.214.0.0/20",
     "asn": "197207",
     "country_code": "IR",
     "name": "MCCI-AS",
@@ -1657,6 +1657,14 @@
   },
   {
     "network": "5.214.48.0/20",
+    "asn": "197207",
+    "country_code": "IR",
+    "name": "MCCI-AS",
+    "org": "Mobile Communication Company of Iran PLC",
+    "domain": "mci.ir"
+  },
+  {
+    "network": "5.214.64.0/18",
     "asn": "197207",
     "country_code": "IR",
     "name": "MCCI-AS",
@@ -1704,7 +1712,7 @@
     "domain": "mci.ir"
   },
   {
-    "network": "5.214.128.0/20",
+    "network": "5.214.128.0/18",
     "asn": "197207",
     "country_code": "IR",
     "name": "MCCI-AS",
@@ -1712,7 +1720,7 @@
     "domain": "mci.ir"
   },
   {
-    "network": "5.214.128.0/24",
+    "network": "5.214.128.0/20",
     "asn": "197207",
     "country_code": "IR",
     "name": "MCCI-AS",
@@ -1744,7 +1752,7 @@
     "domain": "mci.ir"
   },
   {
-    "network": "5.214.192.0/20",
+    "network": "5.214.192.0/18",
     "asn": "197207",
     "country_code": "IR",
     "name": "MCCI-AS",
@@ -1752,7 +1760,7 @@
     "domain": "mci.ir"
   },
   {
-    "network": "5.214.192.0/24",
+    "network": "5.214.192.0/20",
     "asn": "197207",
     "country_code": "IR",
     "name": "MCCI-AS",
@@ -5432,14 +5440,6 @@
     "domain": "mci.ir"
   },
   {
-    "network": "113.203.99.0/24",
-    "asn": "197207",
-    "country_code": "IR",
-    "name": "MCCI-AS",
-    "org": "Mobile Communication Company of Iran PLC",
-    "domain": "mci.ir"
-  },
-  {
     "network": "113.203.112.0/20",
     "asn": "197207",
     "country_code": "IR",
@@ -6081,6 +6081,14 @@
   },
   {
     "network": "188.229.64.0/20",
+    "asn": "197207",
+    "country_code": "IR",
+    "name": "MCCI-AS",
+    "org": "Mobile Communication Company of Iran PLC",
+    "domain": "mci.ir"
+  },
+  {
+    "network": "188.229.65.0/24",
     "asn": "197207",
     "country_code": "IR",
     "name": "MCCI-AS",

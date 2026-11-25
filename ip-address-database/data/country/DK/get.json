@@ -2562,12 +2562,6 @@
     "country_name": "Denmark"
   },
   {
-    "network": "62.44.140.0/22",
-    "continent_code": "EU",
-    "country_code": "DK",
-    "country_name": "Denmark"
-  },
-  {
     "network": "62.44.144.104/29",
     "continent_code": "EU",
     "country_code": "DK",
@@ -4098,13 +4092,19 @@
     "country_name": "Denmark"
   },
   {
-    "network": "77.241.136.0/28",
+    "network": "77.241.136.12/30",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
   },
   {
-    "network": "77.241.136.30/31",
+    "network": "77.241.136.24/29",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
+    "network": "77.241.136.42/31",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
@@ -4122,7 +4122,13 @@
     "country_name": "Denmark"
   },
   {
-    "network": "77.241.136.64/31",
+    "network": "77.241.136.64/30",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
+    "network": "77.241.136.70/31",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
@@ -4140,7 +4146,7 @@
     "country_name": "Denmark"
   },
   {
-    "network": "77.241.136.144/30",
+    "network": "77.241.136.144/29",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
@@ -9642,12 +9648,6 @@
     "country_name": "Denmark"
   },
   {
-    "network": "87.58.144.0/22",
-    "continent_code": "EU",
-    "country_code": "DK",
-    "country_name": "Denmark"
-  },
-  {
     "network": "87.58.158.0/23",
     "continent_code": "EU",
     "country_code": "DK",
@@ -10267,6 +10267,12 @@
   },
   {
     "network": "91.150.224.0/19",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
+    "network": "91.184.0.0/20",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
@@ -11959,6 +11965,18 @@
   },
   {
     "network": "95.174.65.0/24",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
+    "network": "95.209.133.0/24",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
+    "network": "95.209.134.0/24",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
@@ -16224,6 +16242,30 @@
     "country_name": "Denmark"
   },
   {
+    "network": "158.233.246.50/31",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
+    "network": "158.233.246.52/30",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
+    "network": "158.233.246.56/29",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
+    "network": "158.233.246.64/26",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
     "network": "158.233.247.0/29",
     "continent_code": "EU",
     "country_code": "DK",
@@ -16578,7 +16620,7 @@
     "country_name": "Denmark"
   },
   {
-    "network": "162.120.128.22/31",
+    "network": "162.120.128.20/30",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
@@ -24114,43 +24156,19 @@
     "country_name": "Denmark"
   },
   {
-    "network": "194.255.48.0/27",
+    "network": "194.255.48.0/23",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
   },
   {
-    "network": "194.255.48.128/26",
+    "network": "194.255.52.0/22",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
   },
   {
-    "network": "194.255.48.192/27",
-    "continent_code": "EU",
-    "country_code": "DK",
-    "country_name": "Denmark"
-  },
-  {
-    "network": "194.255.48.224/28",
-    "continent_code": "EU",
-    "country_code": "DK",
-    "country_name": "Denmark"
-  },
-  {
-    "network": "194.255.48.240/29",
-    "continent_code": "EU",
-    "country_code": "DK",
-    "country_name": "Denmark"
-  },
-  {
-    "network": "194.255.48.248/30",
-    "continent_code": "EU",
-    "country_code": "DK",
-    "country_name": "Denmark"
-  },
-  {
-    "network": "194.255.49.0/24",
+    "network": "194.255.56.0/24",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
@@ -24162,13 +24180,7 @@
     "country_name": "Denmark"
   },
   {
-    "network": "194.255.61.0/24",
-    "continent_code": "EU",
-    "country_code": "DK",
-    "country_name": "Denmark"
-  },
-  {
-    "network": "194.255.62.0/23",
+    "network": "194.255.60.0/22",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
@@ -26928,6 +26940,12 @@
     "country_name": "Denmark"
   },
   {
+    "network": "212.27.20.32/29",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
     "network": "212.27.21.0/24",
     "continent_code": "EU",
     "country_code": "DK",
@@ -29088,7 +29106,7 @@
     "country_name": "Denmark"
   },
   {
-    "network": "213.80.125.64/26",
+    "network": "213.80.125.0/25",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
@@ -30535,6 +30553,12 @@
   },
   {
     "network": "217.111.22.144/28",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
+    "network": "217.111.22.160/27",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"
@@ -44365,6 +44389,12 @@
   },
   {
     "network": "2a14:1ec7:f311::/48",
+    "continent_code": "EU",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  {
+    "network": "2a14:67c1:b639::/48",
     "continent_code": "EU",
     "country_code": "DK",
     "country_name": "Denmark"

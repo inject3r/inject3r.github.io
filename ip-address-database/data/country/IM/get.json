@@ -786,12 +786,6 @@
     "country_name": "Isle of Man"
   },
   {
-    "network": "81.88.162.128/25",
-    "continent_code": "EU",
-    "country_code": "IM",
-    "country_name": "Isle of Man"
-  },
-  {
     "network": "81.88.163.208/28",
     "continent_code": "EU",
     "country_code": "IM",
@@ -1602,7 +1596,13 @@
     "country_name": "Isle of Man"
   },
   {
-    "network": "91.90.124.152/29",
+    "network": "91.90.124.144/29",
+    "continent_code": "EU",
+    "country_code": "IM",
+    "country_name": "Isle of Man"
+  },
+  {
+    "network": "91.90.124.156/30",
     "continent_code": "EU",
     "country_code": "IM",
     "country_name": "Isle of Man"
@@ -2598,7 +2598,7 @@
     "country_name": "Isle of Man"
   },
   {
-    "network": "195.10.96.0/22",
+    "network": "195.10.96.0/23",
     "continent_code": "EU",
     "country_code": "IM",
     "country_name": "Isle of Man"
@@ -4644,6 +4644,12 @@
     "country_name": "Isle of Man"
   },
   {
+    "network": "2a14:67c1:b666::/48",
+    "continent_code": "EU",
+    "country_code": "IM",
+    "country_name": "Isle of Man"
+  },
+  {
     "network": "2a14:67c2:8c2::/48",
     "continent_code": "EU",
     "country_code": "IM",
@@ -4669,6 +4675,12 @@
   },
   {
     "network": "2a14:c380:1666::/48",
+    "continent_code": "EU",
+    "country_code": "IM",
+    "country_name": "Isle of Man"
+  },
+  {
+    "network": "2a09:3f00:3c9f:8000::/49",
     "continent_code": "EU",
     "country_code": "IM",
     "country_name": "Isle of Man"

@@ -2056,6 +2056,22 @@
     "domain": "netcup.de"
   },
   {
+    "network": "62.83.148.0/22",
+    "asn": "197540",
+    "country_code": "DE",
+    "name": "netcup-AS",
+    "org": "netcup GmbH",
+    "domain": "netcup.de"
+  },
+  {
+    "network": "62.83.152.0/22",
+    "asn": "197540",
+    "country_code": "DE",
+    "name": "netcup-AS",
+    "org": "netcup GmbH",
+    "domain": "netcup.de"
+  },
+  {
     "network": "81.16.16.0/22",
     "asn": "197540",
     "country_code": "DE",
@@ -18352,14 +18368,6 @@
     "domain": "telekom.de"
   },
   {
-    "network": "185.178.108.0/24",
-    "asn": "3320",
-    "country_code": "DE",
-    "name": "DTAG",
-    "org": "Deutsche Telekom AG",
-    "domain": "telekom.de"
-  },
-  {
     "network": "185.180.224.0/24",
     "asn": "3320",
     "country_code": "DE",
@@ -21928,14 +21936,6 @@
     "domain": "telekom.de"
   },
   {
-    "network": "2001:678:b1c::/48",
-    "asn": "3320",
-    "country_code": "DE",
-    "name": "DTAG",
-    "org": "Deutsche Telekom AG",
-    "domain": "telekom.de"
-  },
-  {
     "network": "2001:678:bdc::/48",
     "asn": "3320",
     "country_code": "DE",
@@ -23473,14 +23473,6 @@
   },
   {
     "network": "192.145.112.0/22",
-    "asn": "30742",
-    "country_code": "DE",
-    "name": "BRITELINE-AS",
-    "org": "Bremen Briteline GmbH",
-    "domain": "briteline.de"
-  },
-  {
-    "network": "192.145.113.0/24",
     "asn": "30742",
     "country_code": "DE",
     "name": "BRITELINE-AS",
@@ -40472,14 +40464,6 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "5.230.6.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "5.230.8.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -42344,23 +42328,7 @@
     "domain": "ghostnet.de"
   },
   {
-    "network": "5.231.52.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
     "network": "5.231.53.0/24",
-    "asn": "12586",
-    "country_code": "DE",
-    "name": "ASGHOSTNET",
-    "org": "GHOSTnet GmbH",
-    "domain": "ghostnet.de"
-  },
-  {
-    "network": "5.231.54.0/24",
     "asn": "12586",
     "country_code": "DE",
     "name": "ASGHOSTNET",
@@ -43368,6 +43336,14 @@
     "domain": "ghostnet.de"
   },
   {
+    "network": "94.249.171.0/24",
+    "asn": "12586",
+    "country_code": "DE",
+    "name": "ASGHOSTNET",
+    "org": "GHOSTnet GmbH",
+    "domain": "ghostnet.de"
+  },
+  {
     "network": "94.249.208.0/24",
     "asn": "12586",
     "country_code": "DE",
@@ -43753,6 +43729,14 @@
   },
   {
     "network": "5.175.223.0/24",
+    "asn": "206996",
+    "country_code": "DE",
+    "name": "zap-hosting",
+    "org": "ZAP-Hosting GmbH",
+    "domain": "zap-hosting.com"
+  },
+  {
+    "network": "5.230.6.0/24",
     "asn": "206996",
     "country_code": "DE",
     "name": "zap-hosting",
@@ -49608,470 +49592,6 @@
     "domain": "envaro.net"
   },
   {
-    "network": "5.175.215.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "23.176.184.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "31.57.185.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "45.135.193.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "45.135.194.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "45.144.212.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "94.183.174.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "138.249.125.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "176.65.134.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "176.65.148.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "176.65.149.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "176.65.150.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "176.65.151.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "185.197.182.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "185.235.167.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "204.76.203.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "217.60.241.0/24",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2602:f915::/40",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a04:a5c0::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a04:a5c4::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a05:b0c6:5800::/37",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a05:b0c6:a200::/39",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a05:b0c7:6000::/36",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a0a:e2c0::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a0a:e2c3::/32",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a0a:e2c4::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a0a:e2c6::/32",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a0e:d00::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a0e:d04::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:1cc7::/32",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:5a00::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:5a04::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:6740::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:6744::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:8ec0::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:8ec4::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:ccc0::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:ccc4::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:d3c0::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:d3c4::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:e240::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a12:e244::/30",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c0:40::/44",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c0:100::/40",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c0:1742::/48",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c0:3a00::/40",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c0:6200::/39",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c0:f400::/38",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c1::/32",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c1:500::/48",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c2::/32",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c2:ff00::/40",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c3::/32",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c4::/32",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c5::/32",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c6::/32",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:7c7::/32",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
-    "network": "2a14:8000::/29",
-    "asn": "51396",
-    "country_code": "DE",
-    "name": "PFCLOUD",
-    "org": "Pfcloud UG (haftungsbeschrankt)",
-    "domain": "pfcloud.io"
-  },
-  {
     "network": "5.175.219.0/24",
     "asn": "218963",
     "country_code": "DE",
@@ -51185,14 +50705,6 @@
   },
   {
     "network": "2a06:de00:10::/48",
-    "asn": "215685",
-    "country_code": "DE",
-    "name": "Nexus",
-    "org": "Maik Sussdorf",
-    "domain": "dotnic.de"
-  },
-  {
-    "network": "2a14:6782:100::/48",
     "asn": "215685",
     "country_code": "DE",
     "name": "Nexus",
@@ -67256,6 +66768,14 @@
     "domain": "global.ntt"
   },
   {
+    "network": "185.33.149.0/24",
+    "asn": "203329",
+    "country_code": "DE",
+    "name": "ESHELTER",
+    "org": "NTT Global Data Centers EMEA GmbH",
+    "domain": "global.ntt"
+  },
+  {
     "network": "185.138.140.0/22",
     "asn": "203329",
     "country_code": "DE",
@@ -68934,6 +68454,462 @@
     "name": "XTOM",
     "org": "xTom GmbH",
     "domain": "xtom.com"
+  },
+  {
+    "network": "23.176.184.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "31.57.185.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "45.135.193.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "45.135.194.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "45.144.212.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "94.183.174.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "138.249.125.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "176.65.134.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "176.65.148.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "176.65.149.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "176.65.150.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "176.65.151.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "185.197.182.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "185.235.167.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "204.76.203.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "217.60.241.0/24",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2602:f915::/40",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a04:a5c0::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a04:a5c4::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a05:b0c6:5800::/37",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a05:b0c6:a200::/39",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a05:b0c7:6000::/36",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a0a:e2c0::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a0a:e2c3::/32",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a0a:e2c4::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a0a:e2c6::/32",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a0e:d00::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a0e:d04::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:1cc7::/32",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:5a00::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:5a04::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:6740::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:6744::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:8ec0::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:8ec4::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:ccc0::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:ccc4::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:d3c0::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:d3c4::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:e240::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a12:e244::/30",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c0:40::/44",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c0:100::/40",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c0:1742::/48",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c0:3a00::/40",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c0:6200::/39",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c0:f400::/38",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c1::/32",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c1:500::/48",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c2::/32",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c2:ff00::/40",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c3::/32",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c4::/32",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c5::/32",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c6::/32",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:7c7::/32",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
+  },
+  {
+    "network": "2a14:8000::/29",
+    "asn": "51396",
+    "country_code": "DE",
+    "name": "PFCLOUD",
+    "org": "Pfcloud UG (haftungsbeschrankt)",
+    "domain": "pfcloud.io"
   },
   {
     "network": "23.226.138.0/24",
@@ -70913,14 +70889,6 @@
   },
   {
     "network": "80.190.4.0/22",
-    "asn": "15598",
-    "country_code": "DE",
-    "name": "IPX-AS15598",
-    "org": "NorthC Deutschland GmbH",
-    "domain": "ext-dc.de"
-  },
-  {
-    "network": "80.190.8.0/21",
     "asn": "15598",
     "country_code": "DE",
     "name": "IPX-AS15598",
@@ -73904,6 +73872,14 @@
     "domain": "ewetel.de"
   },
   {
+    "network": "62.89.160.0/19",
+    "asn": "9145",
+    "country_code": "DE",
+    "name": "EWETEL",
+    "org": "EWE TEL GmbH",
+    "domain": "ewetel.de"
+  },
+  {
     "network": "80.66.0.0/19",
     "asn": "9145",
     "country_code": "DE",
@@ -74256,6 +74232,30 @@
     "domain": "ewetel.de"
   },
   {
+    "network": "212.68.64.0/19",
+    "asn": "9145",
+    "country_code": "DE",
+    "name": "EWETEL",
+    "org": "EWE TEL GmbH",
+    "domain": "ewetel.de"
+  },
+  {
+    "network": "212.68.64.0/20",
+    "asn": "9145",
+    "country_code": "DE",
+    "name": "EWETEL",
+    "org": "EWE TEL GmbH",
+    "domain": "ewetel.de"
+  },
+  {
+    "network": "212.68.80.0/20",
+    "asn": "9145",
+    "country_code": "DE",
+    "name": "EWETEL",
+    "org": "EWE TEL GmbH",
+    "domain": "ewetel.de"
+  },
+  {
     "network": "212.95.96.0/19",
     "asn": "9145",
     "country_code": "DE",
@@ -74296,6 +74296,14 @@
     "domain": "ewetel.de"
   },
   {
+    "network": "213.252.128.0/18",
+    "asn": "9145",
+    "country_code": "DE",
+    "name": "EWETEL",
+    "org": "EWE TEL GmbH",
+    "domain": "ewetel.de"
+  },
+  {
     "network": "2001:678:c4::/48",
     "asn": "9145",
     "country_code": "DE",
@@ -74305,6 +74313,14 @@
   },
   {
     "network": "2a00:1470::/32",
+    "asn": "9145",
+    "country_code": "DE",
+    "name": "EWETEL",
+    "org": "EWE TEL GmbH",
+    "domain": "ewetel.de"
+  },
+  {
+    "network": "2a01:ac00::/32",
     "asn": "9145",
     "country_code": "DE",
     "name": "EWETEL",
@@ -82080,14 +82096,6 @@
     "domain": "soprado.com"
   },
   {
-    "network": "62.40.0.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
     "network": "62.201.172.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -82360,14 +82368,6 @@
     "domain": "soprado.com"
   },
   {
-    "network": "141.90.14.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
     "network": "185.5.80.0/24",
     "asn": "20546",
     "country_code": "DE",
@@ -82425,6 +82425,14 @@
   },
   {
     "network": "185.85.3.0/24",
+    "asn": "20546",
+    "country_code": "DE",
+    "name": "SOPRADO-ANY",
+    "org": "SOPRADO GmbH",
+    "domain": "soprado.com"
+  },
+  {
+    "network": "185.158.156.0/24",
     "asn": "20546",
     "country_code": "DE",
     "name": "SOPRADO-ANY",
@@ -82545,22 +82553,6 @@
   },
   {
     "network": "194.113.42.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
-    "network": "195.94.88.0/24",
-    "asn": "20546",
-    "country_code": "DE",
-    "name": "SOPRADO-ANY",
-    "org": "SOPRADO GmbH",
-    "domain": "soprado.com"
-  },
-  {
-    "network": "195.94.90.0/24",
     "asn": "20546",
     "country_code": "DE",
     "name": "SOPRADO-ANY",
@@ -92680,6 +92672,14 @@
     "domain": "scaleuptech.com"
   },
   {
+    "network": "178.217.232.0/24",
+    "asn": "29014",
+    "country_code": "DE",
+    "name": "SCALEUP",
+    "org": "ScaleUp Technologies GmbH & Co. KG",
+    "domain": "scaleuptech.com"
+  },
+  {
     "network": "185.8.8.0/22",
     "asn": "29014",
     "country_code": "DE",
@@ -94112,14 +94112,6 @@
     "domain": "23m.com"
   },
   {
-    "network": "87.83.14.0/24",
-    "asn": "47447",
-    "country_code": "DE",
-    "name": "TTM",
-    "org": "23M GmbH",
-    "domain": "23m.com"
-  },
-  {
     "network": "91.212.6.0/24",
     "asn": "47447",
     "country_code": "DE",
@@ -94584,14 +94576,6 @@
     "domain": "as205634.net"
   },
   {
-    "network": "64.137.111.0/24",
-    "asn": "205634",
-    "country_code": "DE",
-    "name": "PF",
-    "org": "Prime Formation GmbH",
-    "domain": "as205634.net"
-  },
-  {
     "network": "82.27.92.0/24",
     "asn": "205634",
     "country_code": "DE",
@@ -94910,30 +94894,6 @@
     "name": "rdt",
     "org": "Rekers Digitaltechnik Beteiligungsgesellschaft mbH trading as Rekers Digitaltechnik GmbH & Co.KG",
     "domain": "rdt.online"
-  },
-  {
-    "network": "45.90.64.0/22",
-    "asn": "206551",
-    "country_code": "DE",
-    "name": "BUTTER",
-    "org": "Thomas Butter",
-    "domain": "blubb.com"
-  },
-  {
-    "network": "2a06:e881:110::/48",
-    "asn": "206551",
-    "country_code": "DE",
-    "name": "BUTTER",
-    "org": "Thomas Butter",
-    "domain": "blubb.com"
-  },
-  {
-    "network": "2a0c:ab80::/32",
-    "asn": "206551",
-    "country_code": "DE",
-    "name": "BUTTER",
-    "org": "Thomas Butter",
-    "domain": "blubb.com"
   },
   {
     "network": "45.90.132.0/22",
@@ -105784,6 +105744,14 @@
     "domain": "portunity.de"
   },
   {
+    "network": "185.112.254.0/24",
+    "asn": "15987",
+    "country_code": "DE",
+    "name": "PORTUNITY-AS",
+    "org": "Portunity GmbH",
+    "domain": "portunity.de"
+  },
+  {
     "network": "185.112.255.0/24",
     "asn": "15987",
     "country_code": "DE",
@@ -113584,38 +113552,6 @@
     "domain": "netcup.de"
   },
   {
-    "network": "62.89.160.0/19",
-    "asn": "9066",
-    "country_code": "DE",
-    "name": "BCC",
-    "org": "EWE TEL GmbH",
-    "domain": "ewetel.de"
-  },
-  {
-    "network": "193.108.222.0/24",
-    "asn": "9066",
-    "country_code": "DE",
-    "name": "BCC",
-    "org": "EWE TEL GmbH",
-    "domain": "ewetel.de"
-  },
-  {
-    "network": "212.68.64.0/19",
-    "asn": "9066",
-    "country_code": "DE",
-    "name": "BCC",
-    "org": "EWE TEL GmbH",
-    "domain": "ewetel.de"
-  },
-  {
-    "network": "213.252.128.0/18",
-    "asn": "9066",
-    "country_code": "DE",
-    "name": "BCC",
-    "org": "EWE TEL GmbH",
-    "domain": "ewetel.de"
-  },
-  {
     "network": "62.91.0.0/16",
     "asn": "20686",
     "country_code": "DE",
@@ -121272,6 +121208,14 @@
     "domain": "haitse.de"
   },
   {
+    "network": "2a04:5b81:2060::/48",
+    "asn": "213423",
+    "country_code": "DE",
+    "name": "Haitse",
+    "org": "Lukas Hagen",
+    "domain": "haitse.de"
+  },
+  {
     "network": "2a04:5b81:2061::/48",
     "asn": "213423",
     "country_code": "DE",
@@ -122689,14 +122633,6 @@
   },
   {
     "network": "80.77.18.0/24",
-    "asn": "210537",
-    "country_code": "DE",
-    "name": "TAUSIO-NET",
-    "org": "Kevin Feiler",
-    "domain": "tausio.cloud"
-  },
-  {
-    "network": "110.34.38.0/24",
     "asn": "210537",
     "country_code": "DE",
     "name": "TAUSIO-NET",
@@ -141376,6 +141312,22 @@
     "domain": "ctrl-s.de"
   },
   {
+    "network": "91.233.249.0/24",
+    "asn": "47878",
+    "country_code": "DE",
+    "name": "nx4",
+    "org": "ZeXoTeK IT-Services GmbH",
+    "domain": "zexotek.de"
+  },
+  {
+    "network": "185.2.116.0/22",
+    "asn": "47878",
+    "country_code": "DE",
+    "name": "nx4",
+    "org": "ZeXoTeK IT-Services GmbH",
+    "domain": "zexotek.de"
+  },
+  {
     "network": "91.235.114.0/23",
     "asn": "31007",
     "country_code": "DE",
@@ -148248,6 +148200,14 @@
     "domain": "sap.com"
   },
   {
+    "network": "130.214.76.0/23",
+    "asn": "35039",
+    "country_code": "DE",
+    "name": "SAP_SCI",
+    "org": "SAP SE",
+    "domain": "sap.com"
+  },
+  {
     "network": "130.214.80.0/23",
     "asn": "35039",
     "country_code": "DE",
@@ -154392,6 +154352,14 @@
     "domain": "zf.com"
   },
   {
+    "network": "149.238.115.0/24",
+    "asn": "216134",
+    "country_code": "DE",
+    "name": "ZF-Friedrichshafen-AG",
+    "org": "ZF Friedrichshafen AG",
+    "domain": "zf.com"
+  },
+  {
     "network": "149.238.118.0/23",
     "asn": "216134",
     "country_code": "DE",
@@ -155177,6 +155145,14 @@
   },
   {
     "network": "141.90.13.0/24",
+    "asn": "29515",
+    "country_code": "DE",
+    "name": "HZD-AS",
+    "org": "Hessische Zentrale fuer Datenverarbeitung",
+    "domain": "plusline.de"
+  },
+  {
+    "network": "141.90.14.0/24",
     "asn": "29515",
     "country_code": "DE",
     "name": "HZD-AS",
@@ -156640,6 +156616,14 @@
     "domain": "wiit.cloud"
   },
   {
+    "network": "194.107.164.0/24",
+    "asn": "13301",
+    "country_code": "DE",
+    "name": "WIIT",
+    "org": "WIIT AG",
+    "domain": "wiit.cloud"
+  },
+  {
     "network": "194.126.198.0/24",
     "asn": "13301",
     "country_code": "DE",
@@ -157248,15 +157232,7 @@
     "domain": "magellan-net.de"
   },
   {
-    "network": "149.170.176.0/24",
-    "asn": "218791",
-    "country_code": "DE",
-    "name": "BetterNetworx",
-    "org": "BetterNetworx GmbH",
-    "domain": "betterworx.de"
-  },
-  {
-    "network": "149.170.177.0/24",
+    "network": "149.170.176.0/23",
     "asn": "218791",
     "country_code": "DE",
     "name": "BetterNetworx",
@@ -158297,6 +158273,14 @@
   },
   {
     "network": "185.207.60.0/22",
+    "asn": "205769",
+    "country_code": "DE",
+    "name": "Mainzer-Breitband",
+    "org": "Mainzer Breitband GmbH",
+    "domain": "mainzer-breitband.de"
+  },
+  {
+    "network": "193.26.240.0/23",
     "asn": "205769",
     "country_code": "DE",
     "name": "Mainzer-Breitband",
@@ -165246,22 +165230,6 @@
     "name": "HOFNETZ-AS",
     "org": "Campus, Hofnetz & Events GmbH",
     "domain": "hofnetz.de"
-  },
-  {
-    "network": "177.122.28.0/24",
-    "asn": "207082",
-    "country_code": "DE",
-    "name": "X-ION-WORLD",
-    "org": "x-ion GmbH",
-    "domain": "x-ion.de"
-  },
-  {
-    "network": "177.122.74.0/24",
-    "asn": "207082",
-    "country_code": "DE",
-    "name": "X-ION-WORLD",
-    "org": "x-ion GmbH",
-    "domain": "x-ion.de"
   },
   {
     "network": "178.18.156.0/24",
@@ -183056,6 +183024,30 @@
     "domain": "uni-bonn.de"
   },
   {
+    "network": "2a00:5ba1::/32",
+    "asn": "207611",
+    "country_code": "DE",
+    "name": "UNI-BONN",
+    "org": "Rheinische Friedrich-Wilhelms-Universitaet Bonn",
+    "domain": "uni-bonn.de"
+  },
+  {
+    "network": "2a00:5ba2::/31",
+    "asn": "207611",
+    "country_code": "DE",
+    "name": "UNI-BONN",
+    "org": "Rheinische Friedrich-Wilhelms-Universitaet Bonn",
+    "domain": "uni-bonn.de"
+  },
+  {
+    "network": "2a00:5ba4::/30",
+    "asn": "207611",
+    "country_code": "DE",
+    "name": "UNI-BONN",
+    "org": "Rheinische Friedrich-Wilhelms-Universitaet Bonn",
+    "domain": "uni-bonn.de"
+  },
+  {
     "network": "193.30.19.0/24",
     "asn": "34591",
     "country_code": "DE",
@@ -183257,14 +183249,6 @@
   },
   {
     "network": "2a09:2700:4800::/40",
-    "asn": "208187",
-    "country_code": "DE",
-    "name": "TeamViewer-APAC",
-    "org": "TeamViewer Germany GmbH",
-    "domain": "teamviewer.com"
-  },
-  {
-    "network": "2a09:2700:8200::/40",
     "asn": "208187",
     "country_code": "DE",
     "name": "TeamViewer-APAC",
@@ -184694,6 +184678,14 @@
     "name": "GIESECKE",
     "org": "Giesecke & Devrient GmbH",
     "domain": "gi-de.com"
+  },
+  {
+    "network": "193.108.222.0/24",
+    "asn": "9066",
+    "country_code": "DE",
+    "name": "BCC",
+    "org": "EWE TEL GmbH",
+    "domain": "ewetel.de"
   },
   {
     "network": "193.109.96.0/22",
@@ -191696,6 +191688,46 @@
     "domain": "kieler-nachrichten.de"
   },
   {
+    "network": "212.107.160.0/19",
+    "asn": "20855",
+    "country_code": "DE",
+    "name": "AIRDATA-AS",
+    "org": "Airdata AG",
+    "domain": "airdata.ag"
+  },
+  {
+    "network": "212.107.168.0/24",
+    "asn": "20855",
+    "country_code": "DE",
+    "name": "AIRDATA-AS",
+    "org": "Airdata AG",
+    "domain": "airdata.ag"
+  },
+  {
+    "network": "213.220.160.0/19",
+    "asn": "20855",
+    "country_code": "DE",
+    "name": "AIRDATA-AS",
+    "org": "Airdata AG",
+    "domain": "airdata.ag"
+  },
+  {
+    "network": "213.220.161.0/24",
+    "asn": "20855",
+    "country_code": "DE",
+    "name": "AIRDATA-AS",
+    "org": "Airdata AG",
+    "domain": "airdata.ag"
+  },
+  {
+    "network": "213.220.163.0/24",
+    "asn": "20855",
+    "country_code": "DE",
+    "name": "AIRDATA-AS",
+    "org": "Airdata AG",
+    "domain": "airdata.ag"
+  },
+  {
     "network": "212.119.5.0/24",
     "asn": "209915",
     "country_code": "DE",
@@ -193168,6 +193200,14 @@
     "domain": "ericdorr.de"
   },
   {
+    "network": "2001:67c:428::/48",
+    "asn": "203269",
+    "country_code": "DE",
+    "name": "Mnagel-Network",
+    "org": "Malte Nagel",
+    "domain": "maltenagel.de"
+  },
+  {
     "network": "2001:67c:754::/48",
     "asn": "204254",
     "country_code": "DE",
@@ -194312,6 +194352,14 @@
     "domain": "scheewe.cc"
   },
   {
+    "network": "2a0a:6044:170::/48",
+    "asn": "219500",
+    "country_code": "DE",
+    "name": "SCHEEWE-JANNIK",
+    "org": "Jannik Scheewe",
+    "domain": "scheewe.cc"
+  },
+  {
     "network": "2a06:9801:7ca::/48",
     "asn": "219364",
     "country_code": "DE",
@@ -194656,6 +194704,22 @@
     "domain": "wiraport.com"
   },
   {
+    "network": "2a07:54c1:c3ff::/48",
+    "asn": "214999",
+    "country_code": "DE",
+    "name": "WIRAPORTISPSERVICES-AS",
+    "org": "Christian Wolfseher",
+    "domain": "wiraport.com"
+  },
+  {
+    "network": "2a0a:79c7:fdfa::/48",
+    "asn": "214999",
+    "country_code": "DE",
+    "name": "WIRAPORTISPSERVICES-AS",
+    "org": "Christian Wolfseher",
+    "domain": "wiraport.com"
+  },
+  {
     "network": "2a0a:79c7:fdfb::/48",
     "asn": "214999",
     "country_code": "DE",
@@ -194673,6 +194737,14 @@
   },
   {
     "network": "2a0a:79c7:fdfe::/48",
+    "asn": "214999",
+    "country_code": "DE",
+    "name": "WIRAPORTISPSERVICES-AS",
+    "org": "Christian Wolfseher",
+    "domain": "wiraport.com"
+  },
+  {
+    "network": "2a0e:8f02:f06d::/48",
     "asn": "214999",
     "country_code": "DE",
     "name": "WIRAPORTISPSERVICES-AS",
@@ -195976,22 +196048,6 @@
     "domain": "happyware.com"
   },
   {
-    "network": "2a0d:2146:bdfb::/48",
-    "asn": "215787",
-    "country_code": "DE",
-    "name": "TELE90",
-    "org": "TELE90 Telecom GmbH",
-    "domain": "tele90.de"
-  },
-  {
-    "network": "2a0d:2146:bdff::/48",
-    "asn": "215787",
-    "country_code": "DE",
-    "name": "TELE90",
-    "org": "TELE90 Telecom GmbH",
-    "domain": "tele90.de"
-  },
-  {
     "network": "2a0d:2d41::/32",
     "asn": "209419",
     "country_code": "DE",
@@ -196720,14 +196776,6 @@
     "domain": "secshell.de"
   },
   {
-    "network": "2a10:cc44:1d0::/48",
-    "asn": "208454",
-    "country_code": "DE",
-    "name": "Hostingstudio",
-    "org": "Jens Zimperfeld",
-    "domain": "hostingstudio.org"
-  },
-  {
     "network": "2a10:ccc3:ca74::/48",
     "asn": "214513",
     "country_code": "DE",
@@ -197054,6 +197102,14 @@
     "name": "GRIMM-AS",
     "org": "Dominic Grimm",
     "domain": "dergrimm.net"
+  },
+  {
+    "network": "2a14:7583:efec::/48",
+    "asn": "218901",
+    "country_code": "DE",
+    "name": "SHAHID",
+    "org": "Muhammad Shahid Masood",
+    "domain": "shahid.sh"
   },
   {
     "network": "2a14:b500::/29",

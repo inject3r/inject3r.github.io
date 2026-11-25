@@ -18144,7 +18144,23 @@
     "domain": "proton.ch"
   },
   {
+    "network": "80.47.40.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
     "network": "80.47.42.0/24",
+    "asn": "208172",
+    "country_code": "CH",
+    "name": "PV-HOSTED",
+    "org": "Proton AG",
+    "domain": "proton.ch"
+  },
+  {
+    "network": "80.47.43.0/24",
     "asn": "208172",
     "country_code": "CH",
     "name": "PV-HOSTED",
@@ -20648,22 +20664,6 @@
     "domain": "ntd.ch"
   },
   {
-    "network": "80.73.252.0/24",
-    "asn": "213758",
-    "country_code": "CH",
-    "name": "GLEIF-TECH",
-    "org": "Global Legal Entity Identifier Foundation",
-    "domain": "gleif.org"
-  },
-  {
-    "network": "2a0c:f686::/32",
-    "asn": "213758",
-    "country_code": "CH",
-    "name": "GLEIF-TECH",
-    "org": "Global Legal Entity Identifier Foundation",
-    "domain": "gleif.org"
-  },
-  {
     "network": "80.75.112.0/20",
     "asn": "34554",
     "country_code": "CH",
@@ -22897,14 +22897,6 @@
   },
   {
     "network": "185.252.240.0/22",
-    "asn": "9044",
-    "country_code": "CH",
-    "name": "SOLNET",
-    "org": "BSE Software GmbH",
-    "domain": "solnet.ch"
-  },
-  {
-    "network": "185.252.240.0/24",
     "asn": "9044",
     "country_code": "CH",
     "name": "SOLNET",
@@ -38920,6 +38912,22 @@
     "domain": "econis.ch"
   },
   {
+    "network": "185.86.227.0/24",
+    "asn": "209807",
+    "country_code": "CH",
+    "name": "Sandchaschte",
+    "org": "Sandchaschte",
+    "domain": "sandchaschte.net"
+  },
+  {
+    "network": "2001:67c:ed0::/48",
+    "asn": "209807",
+    "country_code": "CH",
+    "name": "Sandchaschte",
+    "org": "Sandchaschte",
+    "domain": "sandchaschte.net"
+  },
+  {
     "network": "185.88.76.0/22",
     "asn": "202691",
     "country_code": "CH",
@@ -45664,14 +45672,6 @@
     "domain": ""
   },
   {
-    "network": "2001:67c:ed0::/48",
-    "asn": "209807",
-    "country_code": "CH",
-    "name": "Sandchaschte",
-    "org": "Sandchaschte",
-    "domain": "sandchaschte.net"
-  },
-  {
     "network": "2001:67c:1430::/48",
     "asn": "207076",
     "country_code": "CH",
@@ -46078,6 +46078,14 @@
     "name": "CH-CXBYTE",
     "org": "Ali Mohammadpourfard",
     "domain": "cxbyte.me"
+  },
+  {
+    "network": "2a0c:f686::/32",
+    "asn": "213758",
+    "country_code": "CH",
+    "name": "GLEIF-TECH",
+    "org": "Global Legal Entity Identifier Foundation",
+    "domain": "gleif.org"
   },
   {
     "network": "2a0e:46c0::/48",
