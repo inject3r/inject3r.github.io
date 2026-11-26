@@ -348,7 +348,7 @@
     "country_name": "Zambia"
   },
   {
-    "network": "41.173.43.128/25",
+    "network": "41.173.42.0/23",
     "continent_code": "AF",
     "country_code": "ZM",
     "country_name": "Zambia"
@@ -438,7 +438,19 @@
     "country_name": "Zambia"
   },
   {
-    "network": "41.175.0.0/21",
+    "network": "41.175.0.0/22",
+    "continent_code": "AF",
+    "country_code": "ZM",
+    "country_name": "Zambia"
+  },
+  {
+    "network": "41.175.4.0/23",
+    "continent_code": "AF",
+    "country_code": "ZM",
+    "country_name": "Zambia"
+  },
+  {
+    "network": "41.175.6.0/24",
     "continent_code": "AF",
     "country_code": "ZM",
     "country_name": "Zambia"

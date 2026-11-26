@@ -4888,6 +4888,14 @@
     "domain": "nessus.at"
   },
   {
+    "network": "185.197.181.0/24",
+    "asn": "47692",
+    "country_code": "AT",
+    "name": "NESSUS",
+    "org": "Nessus GmbH",
+    "domain": "nessus.at"
+  },
+  {
     "network": "185.205.80.0/24",
     "asn": "47692",
     "country_code": "AT",
@@ -5105,6 +5113,14 @@
   },
   {
     "network": "217.74.10.0/24",
+    "asn": "47692",
+    "country_code": "AT",
+    "name": "NESSUS",
+    "org": "Nessus GmbH",
+    "domain": "nessus.at"
+  },
+  {
+    "network": "2001:678:1404::/48",
     "asn": "47692",
     "country_code": "AT",
     "name": "NESSUS",
@@ -8169,30 +8185,6 @@
   },
   {
     "network": "77.237.32.0/19",
-    "asn": "1764",
-    "country_code": "AT",
-    "name": "NEXTLAYER-AS",
-    "org": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
-    "domain": "nextlayer.at"
-  },
-  {
-    "network": "77.237.32.0/20",
-    "asn": "1764",
-    "country_code": "AT",
-    "name": "NEXTLAYER-AS",
-    "org": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
-    "domain": "nextlayer.at"
-  },
-  {
-    "network": "77.237.48.0/21",
-    "asn": "1764",
-    "country_code": "AT",
-    "name": "NEXTLAYER-AS",
-    "org": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
-    "domain": "nextlayer.at"
-  },
-  {
-    "network": "77.237.56.0/21",
     "asn": "1764",
     "country_code": "AT",
     "name": "NEXTLAYER-AS",
@@ -16512,14 +16504,6 @@
     "domain": "pipe.net"
   },
   {
-    "network": "89.106.90.0/24",
-    "asn": "49592",
-    "country_code": "AT",
-    "name": "PIPE-NET",
-    "org": "Pipe Networks GmbH",
-    "domain": "pipe.net"
-  },
-  {
     "network": "92.42.201.0/24",
     "asn": "49592",
     "country_code": "AT",
@@ -20569,14 +20553,6 @@
   },
   {
     "network": "185.168.100.0/22",
-    "asn": "35369",
-    "country_code": "AT",
-    "name": "LINZAG-TELEKOM-AS",
-    "org": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
-    "domain": "linzag-telekom.at"
-  },
-  {
-    "network": "185.197.181.0/24",
     "asn": "35369",
     "country_code": "AT",
     "name": "LINZAG-TELEKOM-AS",
@@ -24720,6 +24696,14 @@
     "domain": "axians.at"
   },
   {
+    "network": "193.228.40.0/23",
+    "asn": "39508",
+    "country_code": "AT",
+    "name": "Axians-AT-DC1-AS",
+    "org": "AXIANS ICT Austria GmbH",
+    "domain": "axians.at"
+  },
+  {
     "network": "194.0.222.0/24",
     "asn": "39508",
     "country_code": "AT",
@@ -25440,6 +25424,46 @@
     "domain": "iiasa.ac.at"
   },
   {
+    "network": "148.85.168.0/22",
+    "asn": "44832",
+    "country_code": "AT",
+    "name": "Alpha-AT-AS",
+    "org": "AlphaPhone Telekommunikations GmbH",
+    "domain": "alphaphone.at"
+  },
+  {
+    "network": "185.148.92.0/22",
+    "asn": "44832",
+    "country_code": "AT",
+    "name": "Alpha-AT-AS",
+    "org": "AlphaPhone Telekommunikations GmbH",
+    "domain": "alphaphone.at"
+  },
+  {
+    "network": "199.255.112.0/22",
+    "asn": "44832",
+    "country_code": "AT",
+    "name": "Alpha-AT-AS",
+    "org": "AlphaPhone Telekommunikations GmbH",
+    "domain": "alphaphone.at"
+  },
+  {
+    "network": "206.225.20.0/22",
+    "asn": "44832",
+    "country_code": "AT",
+    "name": "Alpha-AT-AS",
+    "org": "AlphaPhone Telekommunikations GmbH",
+    "domain": "alphaphone.at"
+  },
+  {
+    "network": "212.24.116.0/22",
+    "asn": "44832",
+    "country_code": "AT",
+    "name": "Alpha-AT-AS",
+    "org": "AlphaPhone Telekommunikations GmbH",
+    "domain": "alphaphone.at"
+  },
+  {
     "network": "148.198.0.0/16",
     "asn": "31382",
     "country_code": "AT",
@@ -25792,7 +25816,7 @@
     "domain": "anexia.at"
   },
   {
-    "network": "159.195.168.0/22",
+    "network": "159.195.168.0/24",
     "asn": "199159",
     "country_code": "AT",
     "name": "EOS",
@@ -25800,7 +25824,39 @@
     "domain": "anexia.at"
   },
   {
-    "network": "159.195.176.0/22",
+    "network": "159.195.172.0/24",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "159.195.173.0/24",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "159.195.174.0/24",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "159.195.176.0/23",
+    "asn": "199159",
+    "country_code": "AT",
+    "name": "EOS",
+    "org": "Anexia Cloud Solutions GmbH",
+    "domain": "anexia.at"
+  },
+  {
+    "network": "159.195.178.0/23",
     "asn": "199159",
     "country_code": "AT",
     "name": "EOS",
@@ -28038,38 +28094,6 @@
     "name": "Intigrad_Technologies",
     "org": "John Issa Erivona trading as \"Intigrad Technologies\"",
     "domain": ""
-  },
-  {
-    "network": "185.148.92.0/22",
-    "asn": "44832",
-    "country_code": "AT",
-    "name": "Alpha-AT-AS",
-    "org": "AlphaPhone Telekommunikations GmbH",
-    "domain": "alphaphone.at"
-  },
-  {
-    "network": "199.255.112.0/22",
-    "asn": "44832",
-    "country_code": "AT",
-    "name": "Alpha-AT-AS",
-    "org": "AlphaPhone Telekommunikations GmbH",
-    "domain": "alphaphone.at"
-  },
-  {
-    "network": "206.225.20.0/22",
-    "asn": "44832",
-    "country_code": "AT",
-    "name": "Alpha-AT-AS",
-    "org": "AlphaPhone Telekommunikations GmbH",
-    "domain": "alphaphone.at"
-  },
-  {
-    "network": "212.24.116.0/22",
-    "asn": "44832",
-    "country_code": "AT",
-    "name": "Alpha-AT-AS",
-    "org": "AlphaPhone Telekommunikations GmbH",
-    "domain": "alphaphone.at"
   },
   {
     "network": "185.148.156.0/22",
@@ -32665,11 +32689,27 @@
   },
   {
     "network": "2001:67c:d4c::/48",
-    "asn": "216105",
+    "asn": "216369",
     "country_code": "AT",
-    "name": "F-WuTS",
-    "org": "Foerderung von Wissenschaft und Technik an Schulen",
-    "domain": "robo4you.at"
+    "name": "jkdev",
+    "org": "Jakob Kampichler",
+    "domain": "as216369.net"
+  },
+  {
+    "network": "2a04:9307:10::/44",
+    "asn": "216369",
+    "country_code": "AT",
+    "name": "jkdev",
+    "org": "Jakob Kampichler",
+    "domain": "as216369.net"
+  },
+  {
+    "network": "2a05:dfc1:d100::/40",
+    "asn": "216369",
+    "country_code": "AT",
+    "name": "jkdev",
+    "org": "Jakob Kampichler",
+    "domain": "as216369.net"
   },
   {
     "network": "2001:67c:1974::/48",
@@ -32702,22 +32742,6 @@
     "name": "AS12635",
     "org": "Hutchison Drei Austria GmbH",
     "domain": "drei.com"
-  },
-  {
-    "network": "2a04:9307:10::/44",
-    "asn": "216369",
-    "country_code": "AT",
-    "name": "jkdev",
-    "org": "Jakob Kampichler",
-    "domain": "as216369.net"
-  },
-  {
-    "network": "2a05:dfc1:d100::/40",
-    "asn": "216369",
-    "country_code": "AT",
-    "name": "jkdev",
-    "org": "Jakob Kampichler",
-    "domain": "as216369.net"
   },
   {
     "network": "2a04:a680::/30",
@@ -32840,6 +32864,70 @@
     "domain": "tuwien.ac.at"
   },
   {
+    "network": "2a0b:d83:1000::/36",
+    "asn": "218176",
+    "country_code": "AT",
+    "name": "II-RTLB-01",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:2000::/36",
+    "asn": "218177",
+    "country_code": "AT",
+    "name": "II-RTLB-02",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:3000::/36",
+    "asn": "218178",
+    "country_code": "AT",
+    "name": "II-RTLB-03",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:4000::/36",
+    "asn": "218179",
+    "country_code": "AT",
+    "name": "II-RTLB-04",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:5000::/36",
+    "asn": "218180",
+    "country_code": "AT",
+    "name": "II-RTLB-05",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:6000::/36",
+    "asn": "218181",
+    "country_code": "AT",
+    "name": "II-RTLB-06",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:7000::/36",
+    "asn": "218182",
+    "country_code": "AT",
+    "name": "II-RTLB-07",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
+    "network": "2a0b:d83:8000::/36",
+    "asn": "218183",
+    "country_code": "AT",
+    "name": "II-RTLB-08",
+    "org": "Technische Universitaet Wien",
+    "domain": "tuwien.ac.at"
+  },
+  {
     "network": "2a0c:9a40:e170::/44",
     "asn": "218456",
     "country_code": "AT",
@@ -32878,14 +32966,6 @@
     "name": "FIFTYFIVE-2-AS",
     "org": "55 IT Services GmbH",
     "domain": "55it.at"
-  },
-  {
-    "network": "2a12:e500::/29",
-    "asn": "207962",
-    "country_code": "AT",
-    "name": "AS5586",
-    "org": "Kroell Bernhard",
-    "domain": "giganet.at"
   },
   {
     "network": "2a14:6f44:ef::/48",

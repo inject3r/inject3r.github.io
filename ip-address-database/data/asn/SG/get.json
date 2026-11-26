@@ -6256,14 +6256,6 @@
     "domain": "alibaba-inc.com"
   },
   {
-    "network": "8.220.171.0/24",
-    "asn": "134963",
-    "country_code": "SG",
-    "name": "ASEPL-AS-AP",
-    "org": "Alibaba Cloud (Singapore) Private Limited",
-    "domain": "alibaba-inc.com"
-  },
-  {
     "network": "8.220.236.0/24",
     "asn": "134963",
     "country_code": "SG",
@@ -11824,6 +11816,14 @@
     "domain": "singtel.com"
   },
   {
+    "network": "2400:1c00:1d0::/45",
+    "asn": "45143",
+    "country_code": "SG",
+    "name": "SINGTELMOBILE-AS-AP",
+    "org": "Singapore Telecom Mobile Pte Ltd",
+    "domain": "singtel.com"
+  },
+  {
     "network": "2400:1c00:25c::/47",
     "asn": "45143",
     "country_code": "SG",
@@ -11848,7 +11848,23 @@
     "domain": "singtel.com"
   },
   {
+    "network": "2400:1c00:480::/44",
+    "asn": "45143",
+    "country_code": "SG",
+    "name": "SINGTELMOBILE-AS-AP",
+    "org": "Singapore Telecom Mobile Pte Ltd",
+    "domain": "singtel.com"
+  },
+  {
     "network": "2400:1c00:490::/44",
+    "asn": "45143",
+    "country_code": "SG",
+    "name": "SINGTELMOBILE-AS-AP",
+    "org": "Singapore Telecom Mobile Pte Ltd",
+    "domain": "singtel.com"
+  },
+  {
+    "network": "2400:1c00:580::/45",
     "asn": "45143",
     "country_code": "SG",
     "name": "SINGTELMOBILE-AS-AP",
@@ -12537,6 +12553,14 @@
   },
   {
     "network": "149.12.179.0/24",
+    "asn": "154324",
+    "country_code": "SG",
+    "name": "APL-AS-AP",
+    "org": "AltusCloud Pte. Ltd.",
+    "domain": "altuscloud.sg"
+  },
+  {
+    "network": "2401:89a0:1::/48",
     "asn": "154324",
     "country_code": "SG",
     "name": "APL-AS-AP",
@@ -17513,6 +17537,14 @@
   },
   {
     "network": "2600:3c0f:58::/48",
+    "asn": "63949",
+    "country_code": "SG",
+    "name": "AKAMAI-LINODE-AP",
+    "org": "Akamai Technologies, Inc.",
+    "domain": "akamai.com"
+  },
+  {
+    "network": "2600:3c0f:62::/48",
     "asn": "63949",
     "country_code": "SG",
     "name": "AKAMAI-LINODE-AP",
@@ -27281,6 +27313,14 @@
   },
   {
     "network": "77.216.6.0/24",
+    "asn": "134677",
+    "country_code": "SG",
+    "name": "IDC-AS-AP",
+    "org": "Dromatics Systems Pte Ltd",
+    "domain": "drosys.com"
+  },
+  {
+    "network": "77.216.7.0/24",
     "asn": "134677",
     "country_code": "SG",
     "name": "IDC-AS-AP",
@@ -64896,6 +64936,14 @@
     "domain": "servergalactic.asia"
   },
   {
+    "network": "195.10.246.0/23",
+    "asn": "150423",
+    "country_code": "SG",
+    "name": "SERVER-AS-AP",
+    "org": "Server Galactic Private Limited",
+    "domain": "servergalactic.asia"
+  },
+  {
     "network": "205.188.238.0/23",
     "asn": "150423",
     "country_code": "SG",
@@ -66784,31 +66832,7 @@
     "domain": "newfold.com"
   },
   {
-    "network": "101.100.195.0/24",
-    "asn": "58621",
-    "country_code": "SG",
-    "name": "VODIEN-AS-AP-LOC2",
-    "org": "Vodien Internet Solutions Pte Ltd",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "101.100.210.0/24",
-    "asn": "58621",
-    "country_code": "SG",
-    "name": "VODIEN-AS-AP-LOC2",
-    "org": "Vodien Internet Solutions Pte Ltd",
-    "domain": "newfold.com"
-  },
-  {
     "network": "101.100.217.0/24",
-    "asn": "58621",
-    "country_code": "SG",
-    "name": "VODIEN-AS-AP-LOC2",
-    "org": "Vodien Internet Solutions Pte Ltd",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "101.100.218.0/24",
     "asn": "58621",
     "country_code": "SG",
     "name": "VODIEN-AS-AP-LOC2",
@@ -66848,14 +66872,6 @@
     "domain": "newfold.com"
   },
   {
-    "network": "101.100.235.0/24",
-    "asn": "58621",
-    "country_code": "SG",
-    "name": "VODIEN-AS-AP-LOC2",
-    "org": "Vodien Internet Solutions Pte Ltd",
-    "domain": "newfold.com"
-  },
-  {
     "network": "101.100.236.0/24",
     "asn": "58621",
     "country_code": "SG",
@@ -66865,14 +66881,6 @@
   },
   {
     "network": "101.100.237.0/24",
-    "asn": "58621",
-    "country_code": "SG",
-    "name": "VODIEN-AS-AP-LOC2",
-    "org": "Vodien Internet Solutions Pte Ltd",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "101.100.243.0/24",
     "asn": "58621",
     "country_code": "SG",
     "name": "VODIEN-AS-AP-LOC2",
@@ -66896,31 +66904,7 @@
     "domain": "newfold.com"
   },
   {
-    "network": "103.9.100.0/24",
-    "asn": "58621",
-    "country_code": "SG",
-    "name": "VODIEN-AS-AP-LOC2",
-    "org": "Vodien Internet Solutions Pte Ltd",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "103.9.101.0/24",
-    "asn": "58621",
-    "country_code": "SG",
-    "name": "VODIEN-AS-AP-LOC2",
-    "org": "Vodien Internet Solutions Pte Ltd",
-    "domain": "newfold.com"
-  },
-  {
     "network": "103.9.102.0/24",
-    "asn": "58621",
-    "country_code": "SG",
-    "name": "VODIEN-AS-AP-LOC2",
-    "org": "Vodien Internet Solutions Pte Ltd",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "103.9.103.0/24",
     "asn": "58621",
     "country_code": "SG",
     "name": "VODIEN-AS-AP-LOC2",
@@ -79046,22 +79030,6 @@
     "name": "SGGS-ANYCAST-AS",
     "org": "SG.GS",
     "domain": "sg.gs"
-  },
-  {
-    "network": "163.52.193.0/24",
-    "asn": "154924",
-    "country_code": "SG",
-    "name": "BANU-AS-AP",
-    "org": "BANU SYSTEMS PRIVATE LIMITED",
-    "domain": "banu.com"
-  },
-  {
-    "network": "2001:df7:8840::/48",
-    "asn": "154924",
-    "country_code": "SG",
-    "name": "BANU-AS-AP",
-    "org": "BANU SYSTEMS PRIVATE LIMITED",
-    "domain": "banu.com"
   },
   {
     "network": "163.61.19.0/24",

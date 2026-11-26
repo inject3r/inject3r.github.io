@@ -256,14 +256,6 @@
     "domain": "optusnet.com.au"
   },
   {
-    "network": "1.44.0.0/21",
-    "asn": "4804",
-    "country_code": "AU",
-    "name": "MPX-AS",
-    "org": "SingTel Optus Pty Ltd",
-    "domain": "optusnet.com.au"
-  },
-  {
     "network": "1.44.24.0/21",
     "asn": "4804",
     "country_code": "AU",
@@ -4713,14 +4705,6 @@
   },
   {
     "network": "203.23.78.0/24",
-    "asn": "7474",
-    "country_code": "AU",
-    "name": "OPTUSCOM-AS01-AU",
-    "org": "SingTel Optus Pty Ltd",
-    "domain": "optusnet.com.au"
-  },
-  {
-    "network": "203.25.128.0/24",
     "asn": "7474",
     "country_code": "AU",
     "name": "OPTUSCOM-AS01-AU",
@@ -28560,6 +28544,14 @@
     "domain": "tpgtelecom.com.au"
   },
   {
+    "network": "121.44.96.0/19",
+    "asn": "7545",
+    "country_code": "AU",
+    "name": "TPG-INTERNET-AP",
+    "org": "TPG Internet Pty Ltd",
+    "domain": "tpgtelecom.com.au"
+  },
+  {
     "network": "121.44.128.0/19",
     "asn": "7545",
     "country_code": "AU",
@@ -35137,6 +35129,14 @@
   },
   {
     "network": "203.17.8.0/24",
+    "asn": "7545",
+    "country_code": "AU",
+    "name": "TPG-INTERNET-AP",
+    "org": "TPG Internet Pty Ltd",
+    "domain": "tpgtelecom.com.au"
+  },
+  {
+    "network": "203.17.96.0/21",
     "asn": "7545",
     "country_code": "AU",
     "name": "TPG-INTERNET-AP",
@@ -49192,6 +49192,22 @@
     "domain": "tpgtelecom.com.au"
   },
   {
+    "network": "2001:44b8:6200::/41",
+    "asn": "7545",
+    "country_code": "AU",
+    "name": "TPG-INTERNET-AP",
+    "org": "TPG Internet Pty Ltd",
+    "domain": "tpgtelecom.com.au"
+  },
+  {
+    "network": "2001:44b8:7f00::/48",
+    "asn": "7545",
+    "country_code": "AU",
+    "name": "TPG-INTERNET-AP",
+    "org": "TPG Internet Pty Ltd",
+    "domain": "tpgtelecom.com.au"
+  },
+  {
     "network": "2405:800::/33",
     "asn": "7545",
     "country_code": "AU",
@@ -50560,6 +50576,14 @@
     "domain": "gslnetworks.com.au"
   },
   {
+    "network": "41.180.243.0/24",
+    "asn": "137409",
+    "country_code": "AU",
+    "name": "GSLNETWORKS-AS-AP",
+    "org": "GSL Networks Pty LTD",
+    "domain": "gslnetworks.com.au"
+  },
+  {
     "network": "43.226.229.0/24",
     "asn": "137409",
     "country_code": "AU",
@@ -51081,6 +51105,14 @@
   },
   {
     "network": "80.46.129.0/24",
+    "asn": "137409",
+    "country_code": "AU",
+    "name": "GSLNETWORKS-AS-AP",
+    "org": "GSL Networks Pty LTD",
+    "domain": "gslnetworks.com.au"
+  },
+  {
+    "network": "80.46.137.0/24",
     "asn": "137409",
     "country_code": "AU",
     "name": "GSLNETWORKS-AS-AP",
@@ -54256,6 +54288,14 @@
     "domain": "gslnetworks.com.au"
   },
   {
+    "network": "191.96.164.0/24",
+    "asn": "137409",
+    "country_code": "AU",
+    "name": "GSLNETWORKS-AS-AP",
+    "org": "GSL Networks Pty LTD",
+    "domain": "gslnetworks.com.au"
+  },
+  {
     "network": "191.222.37.0/24",
     "asn": "137409",
     "country_code": "AU",
@@ -54529,6 +54569,14 @@
   },
   {
     "network": "199.235.135.0/24",
+    "asn": "137409",
+    "country_code": "AU",
+    "name": "GSLNETWORKS-AS-AP",
+    "org": "GSL Networks Pty LTD",
+    "domain": "gslnetworks.com.au"
+  },
+  {
+    "network": "200.165.26.0/24",
     "asn": "137409",
     "country_code": "AU",
     "name": "GSLNETWORKS-AS-AP",
@@ -74976,14 +75024,6 @@
     "domain": "aapt.com.au"
   },
   {
-    "network": "59.101.208.0/24",
-    "asn": "2764",
-    "country_code": "AU",
-    "name": "AAPT",
-    "org": "AAPT Limited",
-    "domain": "aapt.com.au"
-  },
-  {
     "network": "60.240.1.0/24",
     "asn": "2764",
     "country_code": "AU",
@@ -79353,6 +79393,14 @@
   },
   {
     "network": "202.3.137.0/24",
+    "asn": "2764",
+    "country_code": "AU",
+    "name": "AAPT",
+    "org": "AAPT Limited",
+    "domain": "aapt.com.au"
+  },
+  {
+    "network": "202.10.7.0/24",
     "asn": "2764",
     "country_code": "AU",
     "name": "AAPT",
@@ -85400,23 +85448,7 @@
     "domain": "newfold.com"
   },
   {
-    "network": "43.243.118.0/24",
-    "asn": "38719",
-    "country_code": "AU",
-    "name": "DREAMSCAPE-AS-AP",
-    "org": "Dreamscape Networks PTY LTD",
-    "domain": "newfold.com"
-  },
-  {
     "network": "43.245.52.0/22",
-    "asn": "38719",
-    "country_code": "AU",
-    "name": "DREAMSCAPE-AS-AP",
-    "org": "Dreamscape Networks PTY LTD",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "43.245.108.0/23",
     "asn": "38719",
     "country_code": "AU",
     "name": "DREAMSCAPE-AS-AP",
@@ -85456,39 +85488,7 @@
     "domain": "newfold.com"
   },
   {
-    "network": "101.100.203.0/24",
-    "asn": "38719",
-    "country_code": "AU",
-    "name": "DREAMSCAPE-AS-AP",
-    "org": "Dreamscape Networks PTY LTD",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "101.100.208.0/24",
-    "asn": "38719",
-    "country_code": "AU",
-    "name": "DREAMSCAPE-AS-AP",
-    "org": "Dreamscape Networks PTY LTD",
-    "domain": "newfold.com"
-  },
-  {
     "network": "101.100.209.0/24",
-    "asn": "38719",
-    "country_code": "AU",
-    "name": "DREAMSCAPE-AS-AP",
-    "org": "Dreamscape Networks PTY LTD",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "101.100.221.0/24",
-    "asn": "38719",
-    "country_code": "AU",
-    "name": "DREAMSCAPE-AS-AP",
-    "org": "Dreamscape Networks PTY LTD",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "101.100.239.0/24",
     "asn": "38719",
     "country_code": "AU",
     "name": "DREAMSCAPE-AS-AP",
@@ -85505,14 +85505,6 @@
   },
   {
     "network": "101.100.253.0/24",
-    "asn": "38719",
-    "country_code": "AU",
-    "name": "DREAMSCAPE-AS-AP",
-    "org": "Dreamscape Networks PTY LTD",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "103.11.188.0/22",
     "asn": "38719",
     "country_code": "AU",
     "name": "DREAMSCAPE-AS-AP",
@@ -85632,14 +85624,6 @@
     "domain": "newfold.com"
   },
   {
-    "network": "111.235.136.0/22",
-    "asn": "38719",
-    "country_code": "AU",
-    "name": "DREAMSCAPE-AS-AP",
-    "org": "Dreamscape Networks PTY LTD",
-    "domain": "newfold.com"
-  },
-  {
     "network": "112.109.74.0/24",
     "asn": "38719",
     "country_code": "AU",
@@ -85681,14 +85665,6 @@
   },
   {
     "network": "116.0.16.0/21",
-    "asn": "38719",
-    "country_code": "AU",
-    "name": "DREAMSCAPE-AS-AP",
-    "org": "Dreamscape Networks PTY LTD",
-    "domain": "newfold.com"
-  },
-  {
-    "network": "119.31.232.0/22",
     "asn": "38719",
     "country_code": "AU",
     "name": "DREAMSCAPE-AS-AP",
@@ -102856,6 +102832,14 @@
     "domain": "nexon.com.au"
   },
   {
+    "network": "103.1.228.0/22",
+    "asn": "17766",
+    "country_code": "AU",
+    "name": "NEXON-AS-AP",
+    "org": "Nexon Asia Pacific Pty Ltd",
+    "domain": "nexon.com.au"
+  },
+  {
     "network": "103.1.228.0/24",
     "asn": "17766",
     "country_code": "AU",
@@ -103136,6 +103120,14 @@
     "domain": "nexon.com.au"
   },
   {
+    "network": "203.26.138.0/23",
+    "asn": "17766",
+    "country_code": "AU",
+    "name": "NEXON-AS-AP",
+    "org": "Nexon Asia Pacific Pty Ltd",
+    "domain": "nexon.com.au"
+  },
+  {
     "network": "203.26.138.0/24",
     "asn": "17766",
     "country_code": "AU",
@@ -103177,6 +103169,14 @@
   },
   {
     "network": "203.30.199.0/24",
+    "asn": "17766",
+    "country_code": "AU",
+    "name": "NEXON-AS-AP",
+    "org": "Nexon Asia Pacific Pty Ltd",
+    "domain": "nexon.com.au"
+  },
+  {
+    "network": "203.31.116.0/22",
     "asn": "17766",
     "country_code": "AU",
     "name": "NEXON-AS-AP",
@@ -116808,6 +116808,14 @@
     "domain": "vodafone.com.au"
   },
   {
+    "network": "2405:6e00:24e::/47",
+    "asn": "133612",
+    "country_code": "AU",
+    "name": "VODAFONE-AS-AP",
+    "org": "Vodafone Australia Pty Ltd",
+    "domain": "vodafone.com.au"
+  },
+  {
     "network": "2405:6e00:250::/46",
     "asn": "133612",
     "country_code": "AU",
@@ -117376,6 +117384,14 @@
     "domain": "vodafone.com.au"
   },
   {
+    "network": "2405:6e00:44e::/47",
+    "asn": "133612",
+    "country_code": "AU",
+    "name": "VODAFONE-AS-AP",
+    "org": "Vodafone Australia Pty Ltd",
+    "domain": "vodafone.com.au"
+  },
+  {
     "network": "2405:6e00:450::/46",
     "asn": "133612",
     "country_code": "AU",
@@ -117753,278 +117769,6 @@
   },
   {
     "network": "2405:6e00:4f4::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:600::/40",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:620::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:620::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:622::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:624::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:624::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:626::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:628::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:628::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:62a::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:62c::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:62c::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:62e::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:630::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:630::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:632::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:634::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:634::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:636::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:638::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:638::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:63a::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:63c::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:63c::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:63e::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:640::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:640::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:642::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:650::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:650::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:652::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:654::/46",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:654::/47",
-    "asn": "133612",
-    "country_code": "AU",
-    "name": "VODAFONE-AS-AP",
-    "org": "Vodafone Australia Pty Ltd",
-    "domain": "vodafone.com.au"
-  },
-  {
-    "network": "2405:6e00:656::/47",
     "asn": "133612",
     "country_code": "AU",
     "name": "VODAFONE-AS-AP",
@@ -118529,6 +118273,22 @@
   },
   {
     "network": "2405:6e00:c4a::/47",
+    "asn": "133612",
+    "country_code": "AU",
+    "name": "VODAFONE-AS-AP",
+    "org": "Vodafone Australia Pty Ltd",
+    "domain": "vodafone.com.au"
+  },
+  {
+    "network": "2405:6e00:c4c::/46",
+    "asn": "133612",
+    "country_code": "AU",
+    "name": "VODAFONE-AS-AP",
+    "org": "Vodafone Australia Pty Ltd",
+    "domain": "vodafone.com.au"
+  },
+  {
+    "network": "2405:6e00:c4c::/47",
     "asn": "133612",
     "country_code": "AU",
     "name": "VODAFONE-AS-AP",
@@ -119072,6 +118832,22 @@
     "domain": "vodafone.com.au"
   },
   {
+    "network": "2405:6e00:e4c::/46",
+    "asn": "133612",
+    "country_code": "AU",
+    "name": "VODAFONE-AS-AP",
+    "org": "Vodafone Australia Pty Ltd",
+    "domain": "vodafone.com.au"
+  },
+  {
+    "network": "2405:6e00:e4c::/47",
+    "asn": "133612",
+    "country_code": "AU",
+    "name": "VODAFONE-AS-AP",
+    "org": "Vodafone Australia Pty Ltd",
+    "domain": "vodafone.com.au"
+  },
+  {
     "network": "2405:6e00:e50::/46",
     "asn": "133612",
     "country_code": "AU",
@@ -119385,6 +119161,14 @@
   },
   {
     "network": "2405:6e00:2244::/47",
+    "asn": "133612",
+    "country_code": "AU",
+    "name": "VODAFONE-AS-AP",
+    "org": "Vodafone Australia Pty Ltd",
+    "domain": "vodafone.com.au"
+  },
+  {
+    "network": "2405:6e00:2246::/47",
     "asn": "133612",
     "country_code": "AU",
     "name": "VODAFONE-AS-AP",
@@ -121696,7 +121480,7 @@
     "domain": ""
   },
   {
-    "network": "103.0.29.0/24",
+    "network": "103.0.32.0/24",
     "asn": "131074",
     "country_code": "AU",
     "name": "APNIC-JP-RD",
@@ -132624,14 +132408,6 @@
     "domain": "wepc.au"
   },
   {
-    "network": "103.65.220.0/23",
-    "asn": "150710",
-    "country_code": "AU",
-    "name": "CWNETPTYLTD-AS-AP",
-    "org": "CWNet Pty Ltd",
-    "domain": "cwnet.com.au"
-  },
-  {
     "network": "103.65.220.0/24",
     "asn": "150710",
     "country_code": "AU",
@@ -139120,6 +138896,14 @@
     "domain": "comwireit.com.au"
   },
   {
+    "network": "103.126.168.0/24",
+    "asn": "133208",
+    "country_code": "AU",
+    "name": "NAWATECHPTYLTD-AS-AP",
+    "org": "Nawatech Pty Ltd",
+    "domain": "nawatech.com.au"
+  },
+  {
     "network": "103.126.171.0/24",
     "asn": "139578",
     "country_code": "AU",
@@ -142945,6 +142729,14 @@
   },
   {
     "network": "165.99.240.0/23",
+    "asn": "151660",
+    "country_code": "AU",
+    "name": "NEPTUNEINTERNET-AS-AP",
+    "org": "Neptune Internet",
+    "domain": "neptune.net.au"
+  },
+  {
+    "network": "203.56.206.0/24",
     "asn": "151660",
     "country_code": "AU",
     "name": "NEPTUNEINTERNET-AS-AP",
@@ -175974,14 +175766,6 @@
     "name": "NET-AN",
     "org": "ALEXANDER NICHOLSON",
     "domain": "apartment.coffee"
-  },
-  {
-    "network": "2a11:f2c0:ffe4::/47",
-    "asn": "197245",
-    "country_code": "AU",
-    "name": "patrick-fennell",
-    "org": "Patrick Fennell",
-    "domain": "zelenyy.info"
   },
   {
     "network": "2a12:e6c0:c::/48",

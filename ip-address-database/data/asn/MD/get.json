@@ -3272,14 +3272,6 @@
     "domain": "ihost.md"
   },
   {
-    "network": "31.131.7.0/24",
-    "asn": "43588",
-    "country_code": "MD",
-    "name": "LEVEL7-AS",
-    "org": "IM Level 7 SRL",
-    "domain": "ihost.md"
-  },
-  {
     "network": "91.216.47.0/24",
     "asn": "43588",
     "country_code": "MD",
@@ -4536,14 +4528,6 @@
     "domain": "orange.md"
   },
   {
-    "network": "185.167.132.0/22",
-    "asn": "25454",
-    "country_code": "MD",
-    "name": "ASN-OMD-FNO",
-    "org": "ORANGE MOLDOVA S.A.",
-    "domain": "orange.md"
-  },
-  {
     "network": "188.131.0.0/17",
     "asn": "25454",
     "country_code": "MD",
@@ -4897,6 +4881,14 @@
   },
   {
     "network": "185.33.104.0/22",
+    "asn": "39279",
+    "country_code": "MD",
+    "name": "CTS-MD",
+    "org": "Information Technology and Cyber Security Service",
+    "domain": "gov.md"
+  },
+  {
+    "network": "185.108.136.0/22",
     "asn": "39279",
     "country_code": "MD",
     "name": "CTS-MD",
@@ -5641,38 +5633,6 @@
   },
   {
     "network": "93.119.230.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
-    "network": "93.119.232.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
-    "network": "93.119.234.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
-    "network": "93.119.235.0/24",
-    "asn": "213705",
-    "country_code": "MD",
-    "name": "DIGITAL-NETWORK-SRL",
-    "org": "DIGITAL NETWORK S.R.L.",
-    "domain": ""
-  },
-  {
-    "network": "93.119.236.0/24",
     "asn": "213705",
     "country_code": "MD",
     "name": "DIGITAL-NETWORK-SRL",
@@ -8392,6 +8352,14 @@
     "domain": ""
   },
   {
+    "network": "206.123.144.0/24",
+    "asn": "201813",
+    "country_code": "MD",
+    "name": "Contrust-Solutions",
+    "org": "Contrust Solutions S.R.L.",
+    "domain": ""
+  },
+  {
     "network": "95.182.76.0/24",
     "asn": "64453",
     "country_code": "MD",
@@ -8489,6 +8457,22 @@
   },
   {
     "network": "185.163.192.0/22",
+    "asn": "48506",
+    "country_code": "MD",
+    "name": "METICAL-AS",
+    "org": "Metical SRL",
+    "domain": "flynet.md"
+  },
+  {
+    "network": "185.163.192.0/24",
+    "asn": "48506",
+    "country_code": "MD",
+    "name": "METICAL-AS",
+    "org": "Metical SRL",
+    "domain": "flynet.md"
+  },
+  {
+    "network": "185.163.193.0/24",
     "asn": "48506",
     "country_code": "MD",
     "name": "METICAL-AS",
@@ -8680,7 +8664,31 @@
     "domain": "rapidlink.md"
   },
   {
+    "network": "185.96.176.0/24",
+    "asn": "50084",
+    "country_code": "MD",
+    "name": "RAPID-LINK-AS",
+    "org": "S.A.\"Rapid Link\" S.R.L.",
+    "domain": "rapidlink.md"
+  },
+  {
+    "network": "185.96.177.0/24",
+    "asn": "50084",
+    "country_code": "MD",
+    "name": "RAPID-LINK-AS",
+    "org": "S.A.\"Rapid Link\" S.R.L.",
+    "domain": "rapidlink.md"
+  },
+  {
     "network": "185.96.178.0/24",
+    "asn": "50084",
+    "country_code": "MD",
+    "name": "RAPID-LINK-AS",
+    "org": "S.A.\"Rapid Link\" S.R.L.",
+    "domain": "rapidlink.md"
+  },
+  {
+    "network": "185.96.179.0/24",
     "asn": "50084",
     "country_code": "MD",
     "name": "RAPID-LINK-AS",

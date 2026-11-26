@@ -1072,30 +1072,6 @@
     "domain": "sedmiodjel.com"
   },
   {
-    "network": "44.30.64.0/24",
-    "asn": "215916",
-    "country_code": "HR",
-    "name": "Josip_Tisljar_Matausic",
-    "org": "Josip Tisljar Matausic",
-    "domain": "route64.org"
-  },
-  {
-    "network": "2a0f:b240:7d00::/40",
-    "asn": "215916",
-    "country_code": "HR",
-    "name": "Josip_Tisljar_Matausic",
-    "org": "Josip Tisljar Matausic",
-    "domain": "route64.org"
-  },
-  {
-    "network": "2a14:c380:c60::/44",
-    "asn": "215916",
-    "country_code": "HR",
-    "name": "Josip_Tisljar_Matausic",
-    "org": "Josip Tisljar Matausic",
-    "domain": "route64.org"
-  },
-  {
     "network": "45.9.156.0/24",
     "asn": "211619",
     "country_code": "HR",
@@ -1441,6 +1417,22 @@
   },
   {
     "network": "82.21.209.0/24",
+    "asn": "203964",
+    "country_code": "HR",
+    "name": "x4TEL-AS",
+    "org": "4Tel Telekomunikacije d.o.o.",
+    "domain": "4tel.com.hr"
+  },
+  {
+    "network": "82.21.221.0/24",
+    "asn": "203964",
+    "country_code": "HR",
+    "name": "x4TEL-AS",
+    "org": "4Tel Telekomunikacije d.o.o.",
+    "domain": "4tel.com.hr"
+  },
+  {
+    "network": "82.22.209.0/24",
     "asn": "203964",
     "country_code": "HR",
     "name": "x4TEL-AS",
@@ -3177,14 +3169,6 @@
   },
   {
     "network": "89.164.40.0/24",
-    "asn": "13046",
-    "country_code": "HR",
-    "name": "ASN-ISKON",
-    "org": "Hrvatski Telekom d.d.",
-    "domain": "iskon.hr"
-  },
-  {
-    "network": "89.164.41.0/24",
     "asn": "13046",
     "country_code": "HR",
     "name": "ASN-ISKON",
@@ -8022,5 +8006,13 @@
     "name": "REG-CUST-AS",
     "org": "Dubravko Vinkovic",
     "domain": ""
+  },
+  {
+    "network": "2a0f:b240:7d00::/40",
+    "asn": "215916",
+    "country_code": "HR",
+    "name": "Josip_Tisljar_Matausic",
+    "org": "Josip Tisljar Matausic",
+    "domain": "route64.org"
   }
 ]

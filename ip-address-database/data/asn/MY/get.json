@@ -10656,6 +10656,14 @@
     "domain": "agarto.com"
   },
   {
+    "network": "27.121.109.0/24",
+    "asn": "56111",
+    "country_code": "MY",
+    "name": "AGARTO-MY",
+    "org": "Agarto Sdn Bhd",
+    "domain": "agarto.com"
+  },
+  {
     "network": "27.121.110.0/24",
     "asn": "56111",
     "country_code": "MY",
@@ -13881,6 +13889,14 @@
   },
   {
     "network": "111.90.144.0/21",
+    "asn": "45839",
+    "country_code": "MY",
+    "name": "SHINJIRU-MY-AS-AP",
+    "org": "Shinjiru Technology Sdn Bhd",
+    "domain": "shinjiru.com.my"
+  },
+  {
+    "network": "111.90.150.0/24",
     "asn": "45839",
     "country_code": "MY",
     "name": "SHINJIRU-MY-AS-AP",
@@ -20600,110 +20616,6 @@
     "domain": "i-skill.com"
   },
   {
-    "network": "45.155.242.0/24",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "89.23.82.0/24",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:bab1::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:bab2::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:bab3::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:bab4::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:bab5::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:bab6::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:bab7::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:bab8::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:bab9::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a0f:1cc6:babc::/48",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
-    "network": "2a12:cb43::/36",
-    "asn": "204535",
-    "country_code": "MY",
-    "name": "KevinTan-Networks",
-    "org": "Tan Kok Feng",
-    "domain": "kevin.moe"
-  },
-  {
     "network": "45.197.68.0/24",
     "asn": "154711",
     "country_code": "MY",
@@ -25136,6 +25048,102 @@
     "domain": "svr4u.com"
   },
   {
+    "network": "89.23.82.0/24",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab1::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab2::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab3::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab4::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab5::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab6::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab7::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab8::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:bab9::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a0f:1cc6:babc::/48",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
+    "network": "2a12:cb43::/36",
+    "asn": "204535",
+    "country_code": "MY",
+    "name": "KevinTan-Networks",
+    "org": "Tan Kok Feng",
+    "domain": "kevin.moe"
+  },
+  {
     "network": "102.204.222.0/24",
     "asn": "139923",
     "country_code": "MY",
@@ -28488,6 +28496,46 @@
     "domain": "corenetcloud.com"
   },
   {
+    "network": "209.248.24.0/21",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "209.248.28.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "209.248.29.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "209.248.30.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
+    "network": "209.248.31.0/24",
+    "asn": "154321",
+    "country_code": "MY",
+    "name": "CCSB-AS-AP",
+    "org": "CORENET CLOUD SDN. BHD.",
+    "domain": "corenetcloud.com"
+  },
+  {
     "network": "2001:df6:40c0::/48",
     "asn": "154321",
     "country_code": "MY",
@@ -30561,6 +30609,14 @@
   },
   {
     "network": "103.142.54.0/23",
+    "asn": "139605",
+    "country_code": "MY",
+    "name": "MCDS-AS-AP",
+    "org": "MCDS SOFTWARE (M) SDN BHD",
+    "domain": "mcds.com.my"
+  },
+  {
+    "network": "103.142.54.0/24",
     "asn": "139605",
     "country_code": "MY",
     "name": "MCDS-AS-AP",

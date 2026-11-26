@@ -168,14 +168,6 @@
     "domain": "dfn.de"
   },
   {
-    "network": "131.220.0.0/16",
-    "asn": "680",
-    "country_code": "DE",
-    "name": "DFN",
-    "org": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
-    "domain": "dfn.de"
-  },
-  {
     "network": "131.234.0.0/16",
     "asn": "680",
     "country_code": "DE",
@@ -2408,7 +2400,7 @@
     "domain": "dfn.de"
   },
   {
-    "network": "2a00:5ba0::/29",
+    "network": "2a00:5ba0:8000::/33",
     "asn": "680",
     "country_code": "DE",
     "name": "DFN",

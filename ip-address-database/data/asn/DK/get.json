@@ -5880,14 +5880,6 @@
     "domain": "team.blue"
   },
   {
-    "network": "94.143.8.0/21",
-    "asn": "48854",
-    "country_code": "DK",
-    "name": "team-blue-denmark",
-    "org": "team.blue Denmark A/S",
-    "domain": "team.blue"
-  },
-  {
     "network": "94.143.8.0/22",
     "asn": "48854",
     "country_code": "DK",
@@ -7265,6 +7257,22 @@
   },
   {
     "network": "77.67.59.0/24",
+    "asn": "44803",
+    "country_code": "DK",
+    "name": "WEBDOCK-AS",
+    "org": "Webdock.io ApS",
+    "domain": "webdock.io"
+  },
+  {
+    "network": "83.137.158.0/24",
+    "asn": "44803",
+    "country_code": "DK",
+    "name": "WEBDOCK-AS",
+    "org": "Webdock.io ApS",
+    "domain": "webdock.io"
+  },
+  {
+    "network": "83.137.159.0/24",
     "asn": "44803",
     "country_code": "DK",
     "name": "WEBDOCK-AS",
@@ -9230,6 +9238,14 @@
     "name": "LYTZENIT",
     "org": "NetNordic Denmark A/S",
     "domain": "netnordic.com"
+  },
+  {
+    "network": "80.70.4.0/23",
+    "asn": "207199",
+    "country_code": "DK",
+    "name": "ZITCOM",
+    "org": "team.blue Denmark A/S",
+    "domain": "team.blue"
   },
   {
     "network": "80.70.6.0/24",
@@ -16240,12 +16256,12 @@
     "domain": "bodata.dk"
   },
   {
-    "network": "194.165.55.0/24",
-    "asn": "49522",
+    "network": "194.165.38.0/24",
+    "asn": "207727",
     "country_code": "DK",
-    "name": "Industriens-Pensions",
-    "org": "INDUSTRIENS PENSIONSFORSIKRING A/S",
-    "domain": "industrienspension.dk"
+    "name": "A5N",
+    "org": "Asbjorn Sloth Tonnesen trading as a5n",
+    "domain": "a5n.dk"
   },
   {
     "network": "194.165.56.0/24",
@@ -16265,6 +16281,14 @@
   },
   {
     "network": "2a10:2a80::/48",
+    "asn": "207727",
+    "country_code": "DK",
+    "name": "A5N",
+    "org": "Asbjorn Sloth Tonnesen trading as a5n",
+    "domain": "a5n.dk"
+  },
+  {
+    "network": "2a10:2a80:42::/48",
     "asn": "207727",
     "country_code": "DK",
     "name": "A5N",
@@ -16302,6 +16326,14 @@
     "name": "A5N",
     "org": "Asbjorn Sloth Tonnesen trading as a5n",
     "domain": "a5n.dk"
+  },
+  {
+    "network": "194.165.55.0/24",
+    "asn": "49522",
+    "country_code": "DK",
+    "name": "Industriens-Pensions",
+    "org": "INDUSTRIENS PENSIONSFORSIKRING A/S",
+    "domain": "industrienspension.dk"
   },
   {
     "network": "194.182.108.0/24",

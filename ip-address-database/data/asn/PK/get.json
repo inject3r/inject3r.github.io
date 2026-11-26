@@ -7832,14 +7832,6 @@
     "domain": "sn-fiber.com"
   },
   {
-    "network": "14.192.135.0/24",
-    "asn": "141711",
-    "country_code": "PK",
-    "name": "FIBERBEAMPVTLTD-AS-AP",
-    "org": "Fiber Beam Pvt Limited",
-    "domain": "fiber-beam.net"
-  },
-  {
     "network": "14.192.136.0/24",
     "asn": "141711",
     "country_code": "PK",
@@ -7897,14 +7889,6 @@
   },
   {
     "network": "14.192.155.0/24",
-    "asn": "141711",
-    "country_code": "PK",
-    "name": "FIBERBEAMPVTLTD-AS-AP",
-    "org": "Fiber Beam Pvt Limited",
-    "domain": "fiber-beam.net"
-  },
-  {
-    "network": "14.192.157.0/24",
     "asn": "141711",
     "country_code": "PK",
     "name": "FIBERBEAMPVTLTD-AS-AP",
@@ -14217,14 +14201,6 @@
   },
   {
     "network": "38.125.252.0/24",
-    "asn": "140607",
-    "country_code": "PK",
-    "name": "SIGNINN-AS-AP",
-    "org": "Sign In (PVT) LTD",
-    "domain": "signin.com.pk"
-  },
-  {
-    "network": "38.125.253.0/24",
     "asn": "140607",
     "country_code": "PK",
     "name": "SIGNINN-AS-AP",
@@ -32528,14 +32504,6 @@
     "domain": "redtone.com.pk"
   },
   {
-    "network": "103.235.78.0/24",
-    "asn": "136030",
-    "country_code": "PK",
-    "name": "REDTONE-AS-AP",
-    "org": "Redtone Telecommunications Pakistan (Private) Limited",
-    "domain": "redtone.com.pk"
-  },
-  {
     "network": "103.255.150.0/24",
     "asn": "136030",
     "country_code": "PK",
@@ -44184,22 +44152,6 @@
     "domain": "nayatel.com"
   },
   {
-    "network": "154.192.203.0/24",
-    "asn": "23674",
-    "country_code": "PK",
-    "name": "NAYATEL-PK",
-    "org": "Naya Tel (Pvt.) Limited",
-    "domain": "nayatel.com"
-  },
-  {
-    "network": "154.192.204.0/24",
-    "asn": "23674",
-    "country_code": "PK",
-    "name": "NAYATEL-PK",
-    "org": "Naya Tel (Pvt.) Limited",
-    "domain": "nayatel.com"
-  },
-  {
     "network": "154.192.205.0/24",
     "asn": "23674",
     "country_code": "PK",
@@ -52216,14 +52168,6 @@
     "domain": "tw1.com"
   },
   {
-    "network": "154.194.2.0/24",
-    "asn": "38193",
-    "country_code": "PK",
-    "name": "TWA-AS-AP",
-    "org": "TRANS WORLD ASSOCIATES (PVT) LIMITED",
-    "domain": "tw1.com"
-  },
-  {
     "network": "156.238.72.0/24",
     "asn": "38193",
     "country_code": "PK",
@@ -52664,71 +52608,7 @@
     "domain": "jazz.com.pk"
   },
   {
-    "network": "119.30.83.0/24",
-    "asn": "23966",
-    "country_code": "PK",
-    "name": "LDN-AS-PK",
-    "org": "Linkdotnet Telecom Limited",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "119.30.84.0/24",
-    "asn": "23966",
-    "country_code": "PK",
-    "name": "LDN-AS-PK",
-    "org": "Linkdotnet Telecom Limited",
-    "domain": "jazz.com.pk"
-  },
-  {
     "network": "119.30.86.0/24",
-    "asn": "23966",
-    "country_code": "PK",
-    "name": "LDN-AS-PK",
-    "org": "Linkdotnet Telecom Limited",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "119.30.88.0/24",
-    "asn": "23966",
-    "country_code": "PK",
-    "name": "LDN-AS-PK",
-    "org": "Linkdotnet Telecom Limited",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "119.30.91.0/24",
-    "asn": "23966",
-    "country_code": "PK",
-    "name": "LDN-AS-PK",
-    "org": "Linkdotnet Telecom Limited",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "119.30.92.0/24",
-    "asn": "23966",
-    "country_code": "PK",
-    "name": "LDN-AS-PK",
-    "org": "Linkdotnet Telecom Limited",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "119.30.93.0/24",
-    "asn": "23966",
-    "country_code": "PK",
-    "name": "LDN-AS-PK",
-    "org": "Linkdotnet Telecom Limited",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "119.30.94.0/24",
-    "asn": "23966",
-    "country_code": "PK",
-    "name": "LDN-AS-PK",
-    "org": "Linkdotnet Telecom Limited",
-    "domain": "jazz.com.pk"
-  },
-  {
-    "network": "119.30.95.0/24",
     "asn": "23966",
     "country_code": "PK",
     "name": "LDN-AS-PK",
@@ -56344,6 +56224,14 @@
     "domain": "connectel.com.pk"
   },
   {
+    "network": "2401:ea00:1::/48",
+    "asn": "55501",
+    "country_code": "PK",
+    "name": "CONNECTEL-PK",
+    "org": "Web Concepts (Pvt) Ltd",
+    "domain": "connectel.com.pk"
+  },
+  {
     "network": "2401:ea00:2::/48",
     "asn": "55501",
     "country_code": "PK",
@@ -58376,38 +58264,6 @@
     "domain": "sco.gov.pk"
   },
   {
-    "network": "103.137.24.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "103.137.25.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "103.137.26.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "103.137.27.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
     "network": "115.186.48.0/24",
     "asn": "18053",
     "country_code": "PK",
@@ -58457,126 +58313,6 @@
   },
   {
     "network": "118.107.128.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.129.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.130.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.131.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.132.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.133.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.134.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.135.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.136.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.137.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.138.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.139.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.140.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.141.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.142.0/24",
-    "asn": "18053",
-    "country_code": "PK",
-    "name": "SNET-AS-AP",
-    "org": "Special Communication Organization",
-    "domain": "sco.gov.pk"
-  },
-  {
-    "network": "118.107.143.0/24",
     "asn": "18053",
     "country_code": "PK",
     "name": "SNET-AS-AP",
@@ -60584,14 +60320,6 @@
     "domain": "skyworldtel.com"
   },
   {
-    "network": "103.182.15.0/24",
-    "asn": "141725",
-    "country_code": "PK",
-    "name": "SOLACE-AS-AP",
-    "org": "SOLACE TEL (PVT.) LIMITED",
-    "domain": ""
-  },
-  {
     "network": "103.184.92.0/24",
     "asn": "151636",
     "country_code": "PK",
@@ -62289,22 +62017,6 @@
   },
   {
     "network": "117.134.220.0/24",
-    "asn": "138423",
-    "country_code": "PK",
-    "name": "CMPAKLIMITED-AS-ENTCORP",
-    "org": "CMPak Limited",
-    "domain": "zong.com.pk"
-  },
-  {
-    "network": "119.63.142.0/24",
-    "asn": "138423",
-    "country_code": "PK",
-    "name": "CMPAKLIMITED-AS-ENTCORP",
-    "org": "CMPak Limited",
-    "domain": "zong.com.pk"
-  },
-  {
-    "network": "119.63.143.0/24",
     "asn": "138423",
     "country_code": "PK",
     "name": "CMPAKLIMITED-AS-ENTCORP",
@@ -69510,22 +69222,6 @@
     "name": "UEPL-NET-AS-AP",
     "org": "United Energy Pakistan Limited",
     "domain": "ueg.com"
-  },
-  {
-    "network": "160.187.12.0/24",
-    "asn": "153321",
-    "country_code": "PK",
-    "name": "SMART3-AS-AP",
-    "org": "Smart Net (Private) Limited",
-    "domain": "smartnetpk.com"
-  },
-  {
-    "network": "160.187.13.0/24",
-    "asn": "153321",
-    "country_code": "PK",
-    "name": "SMART3-AS-AP",
-    "org": "Smart Net (Private) Limited",
-    "domain": "smartnetpk.com"
   },
   {
     "network": "160.187.126.0/24",
