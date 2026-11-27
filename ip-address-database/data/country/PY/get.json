@@ -120,12 +120,6 @@
     "country_name": "Paraguay"
   },
   {
-    "network": "38.99.99.64/31",
-    "continent_code": "SA",
-    "country_code": "PY",
-    "country_name": "Paraguay"
-  },
-  {
     "network": "38.99.99.76/30",
     "continent_code": "SA",
     "country_code": "PY",
@@ -2352,13 +2346,13 @@
     "country_name": "Paraguay"
   },
   {
-    "network": "181.78.216.96/28",
+    "network": "181.78.216.0/24",
     "continent_code": "SA",
     "country_code": "PY",
     "country_name": "Paraguay"
   },
   {
-    "network": "181.78.217.50/31",
+    "network": "181.78.217.48/28",
     "continent_code": "SA",
     "country_code": "PY",
     "country_name": "Paraguay"
@@ -2514,13 +2508,7 @@
     "country_name": "Paraguay"
   },
   {
-    "network": "181.119.94.80/28",
-    "continent_code": "SA",
-    "country_code": "PY",
-    "country_name": "Paraguay"
-  },
-  {
-    "network": "181.119.95.0/24",
+    "network": "181.119.94.0/23",
     "continent_code": "SA",
     "country_code": "PY",
     "country_name": "Paraguay"
@@ -2688,7 +2676,7 @@
     "country_name": "Paraguay"
   },
   {
-    "network": "186.33.35.16/28",
+    "network": "186.33.35.16/29",
     "continent_code": "SA",
     "country_code": "PY",
     "country_name": "Paraguay"
@@ -2700,13 +2688,13 @@
     "country_name": "Paraguay"
   },
   {
-    "network": "186.33.35.192/28",
+    "network": "186.33.35.200/30",
     "continent_code": "SA",
     "country_code": "PY",
     "country_name": "Paraguay"
   },
   {
-    "network": "186.33.35.224/27",
+    "network": "186.33.35.224/28",
     "continent_code": "SA",
     "country_code": "PY",
     "country_name": "Paraguay"
@@ -2797,6 +2785,12 @@
   },
   {
     "network": "186.158.200.148/30",
+    "continent_code": "SA",
+    "country_code": "PY",
+    "country_name": "Paraguay"
+  },
+  {
+    "network": "186.158.200.230/31",
     "continent_code": "SA",
     "country_code": "PY",
     "country_name": "Paraguay"

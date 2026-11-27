@@ -14208,6 +14208,14 @@
     "domain": "signin.com.pk"
   },
   {
+    "network": "38.125.253.0/24",
+    "asn": "140607",
+    "country_code": "PK",
+    "name": "SIGNINN-AS-AP",
+    "org": "Sign In (PVT) LTD",
+    "domain": "signin.com.pk"
+  },
+  {
     "network": "38.125.254.0/24",
     "asn": "140607",
     "country_code": "PK",
@@ -16832,7 +16840,15 @@
     "domain": "ptcl.net"
   },
   {
-    "network": "39.60.0.0/19",
+    "network": "39.60.0.0/20",
+    "asn": "17557",
+    "country_code": "PK",
+    "name": "PKTELECOM-AS-PK",
+    "org": "Pakistan Telecommuication company limited",
+    "domain": "ptcl.net"
+  },
+  {
+    "network": "39.60.16.0/20",
     "asn": "17557",
     "country_code": "PK",
     "name": "PKTELECOM-AS-PK",
@@ -26361,14 +26377,6 @@
   },
   {
     "network": "144.79.56.0/24",
-    "asn": "139820",
-    "country_code": "PK",
-    "name": "HG1-AS-AP",
-    "org": "HG TELECOMMUNICATION PRIVATE LIMITED",
-    "domain": "hg.com.pk"
-  },
-  {
-    "network": "160.22.141.0/24",
     "asn": "139820",
     "country_code": "PK",
     "name": "HG1-AS-AP",
@@ -40376,22 +40384,6 @@
     "domain": "hec.gov.pk"
   },
   {
-    "network": "2400:fc00:80b2::/48",
-    "asn": "45773",
-    "country_code": "PK",
-    "name": "HECPERN-AS-PK",
-    "org": "HEC",
-    "domain": "hec.gov.pk"
-  },
-  {
-    "network": "2400:fc00:80b5::/48",
-    "asn": "45773",
-    "country_code": "PK",
-    "name": "HECPERN-AS-PK",
-    "org": "HEC",
-    "domain": "hec.gov.pk"
-  },
-  {
     "network": "2400:fc00:8120::/44",
     "asn": "45773",
     "country_code": "PK",
@@ -44145,6 +44137,22 @@
   },
   {
     "network": "154.192.202.0/24",
+    "asn": "23674",
+    "country_code": "PK",
+    "name": "NAYATEL-PK",
+    "org": "Naya Tel (Pvt.) Limited",
+    "domain": "nayatel.com"
+  },
+  {
+    "network": "154.192.203.0/24",
+    "asn": "23674",
+    "country_code": "PK",
+    "name": "NAYATEL-PK",
+    "org": "Naya Tel (Pvt.) Limited",
+    "domain": "nayatel.com"
+  },
+  {
+    "network": "154.192.204.0/24",
     "asn": "23674",
     "country_code": "PK",
     "name": "NAYATEL-PK",
@@ -50337,6 +50345,14 @@
   },
   {
     "network": "103.205.179.0/24",
+    "asn": "38713",
+    "country_code": "PK",
+    "name": "CONNECT2B-AS-PK",
+    "org": "Satcomm (Pvt.) Ltd.",
+    "domain": "connect2b.com"
+  },
+  {
+    "network": "103.235.78.0/24",
     "asn": "38713",
     "country_code": "PK",
     "name": "CONNECT2B-AS-PK",
@@ -60320,6 +60336,14 @@
     "domain": "skyworldtel.com"
   },
   {
+    "network": "103.182.15.0/24",
+    "asn": "141725",
+    "country_code": "PK",
+    "name": "SOLACE-AS-AP",
+    "org": "SOLACE TEL (PVT.) LIMITED",
+    "domain": ""
+  },
+  {
     "network": "103.184.92.0/24",
     "asn": "151636",
     "country_code": "PK",
@@ -60577,14 +60601,6 @@
   },
   {
     "network": "103.204.40.0/24",
-    "asn": "151818",
-    "country_code": "PK",
-    "name": "SBOP-AS-AP",
-    "org": "State Bank of Pakistan",
-    "domain": "sbp.org.pk"
-  },
-  {
-    "network": "103.204.41.0/24",
     "asn": "151818",
     "country_code": "PK",
     "name": "SBOP-AS-AP",
@@ -69120,6 +69136,14 @@
     "domain": "octans.ai"
   },
   {
+    "network": "141.229.51.0/24",
+    "asn": "137912",
+    "country_code": "PK",
+    "name": "EXTREMELINK-AS-AP",
+    "org": "EXTREMELINK (SMC-Pvt.) Limited.",
+    "domain": "extremelink.com.pk"
+  },
+  {
     "network": "144.79.20.0/24",
     "asn": "154386",
     "country_code": "PK",
@@ -69222,6 +69246,22 @@
     "name": "UEPL-NET-AS-AP",
     "org": "United Energy Pakistan Limited",
     "domain": "ueg.com"
+  },
+  {
+    "network": "160.187.12.0/24",
+    "asn": "153321",
+    "country_code": "PK",
+    "name": "SMART3-AS-AP",
+    "org": "Smart Net (Private) Limited",
+    "domain": "smartnetpk.com"
+  },
+  {
+    "network": "160.187.13.0/24",
+    "asn": "153321",
+    "country_code": "PK",
+    "name": "SMART3-AS-AP",
+    "org": "Smart Net (Private) Limited",
+    "domain": "smartnetpk.com"
   },
   {
     "network": "160.187.126.0/24",

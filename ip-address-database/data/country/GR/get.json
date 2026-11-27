@@ -4770,13 +4770,13 @@
     "country_name": "Greece"
   },
   {
-    "network": "129.222.57.96/27",
+    "network": "129.222.57.96/28",
     "continent_code": "EU",
     "country_code": "GR",
     "country_name": "Greece"
   },
   {
-    "network": "129.222.57.142/31",
+    "network": "129.222.57.136/29",
     "continent_code": "EU",
     "country_code": "GR",
     "country_name": "Greece"
@@ -4788,7 +4788,7 @@
     "country_name": "Greece"
   },
   {
-    "network": "129.222.57.232/29",
+    "network": "129.222.57.236/30",
     "continent_code": "EU",
     "country_code": "GR",
     "country_name": "Greece"
@@ -9210,7 +9210,13 @@
     "country_name": "Greece"
   },
   {
-    "network": "186.247.46.182/31",
+    "network": "186.247.46.144/31",
+    "continent_code": "EU",
+    "country_code": "GR",
+    "country_name": "Greece"
+  },
+  {
+    "network": "186.247.46.184/31",
     "continent_code": "EU",
     "country_code": "GR",
     "country_name": "Greece"
@@ -9223,12 +9229,6 @@
   },
   {
     "network": "186.247.46.246/31",
-    "continent_code": "EU",
-    "country_code": "GR",
-    "country_name": "Greece"
-  },
-  {
-    "network": "186.247.46.248/29",
     "continent_code": "EU",
     "country_code": "GR",
     "country_name": "Greece"
@@ -21679,6 +21679,18 @@
   },
   {
     "network": "2605:59c7:a000:3e9::/64",
+    "continent_code": "EU",
+    "country_code": "GR",
+    "country_name": "Greece"
+  },
+  {
+    "network": "2605:59c7:a000:7ff::/64",
+    "continent_code": "EU",
+    "country_code": "GR",
+    "country_name": "Greece"
+  },
+  {
+    "network": "2605:59c7:a000:d62::/64",
     "continent_code": "EU",
     "country_code": "GR",
     "country_name": "Greece"

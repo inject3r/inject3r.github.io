@@ -816,7 +816,7 @@
     "country_name": "Nicaragua"
   },
   {
-    "network": "186.32.10.0/25",
+    "network": "186.32.10.64/26",
     "continent_code": "NA",
     "country_code": "NI",
     "country_name": "Nicaragua"
@@ -7243,6 +7243,12 @@
   },
   {
     "network": "2605:59c7:a000:7b::/64",
+    "continent_code": "NA",
+    "country_code": "NI",
+    "country_name": "Nicaragua"
+  },
+  {
+    "network": "2605:59c7:a000:12f7::/64",
     "continent_code": "NA",
     "country_code": "NI",
     "country_name": "Nicaragua"

@@ -4280,14 +4280,6 @@
     "domain": "moldtelecom.md"
   },
   {
-    "network": "89.46.164.0/22",
-    "asn": "41221",
-    "country_code": "MD",
-    "name": "MD-AS",
-    "org": "Moldtelecom SA",
-    "domain": "moldtelecom.md"
-  },
-  {
     "network": "92.114.209.0/24",
     "asn": "41221",
     "country_code": "MD",
@@ -4521,6 +4513,14 @@
   },
   {
     "network": "185.8.68.0/22",
+    "asn": "25454",
+    "country_code": "MD",
+    "name": "ASN-OMD-FNO",
+    "org": "ORANGE MOLDOVA S.A.",
+    "domain": "orange.md"
+  },
+  {
+    "network": "185.167.132.0/22",
     "asn": "25454",
     "country_code": "MD",
     "name": "ASN-OMD-FNO",
@@ -8392,6 +8392,22 @@
     "domain": ""
   },
   {
+    "network": "138.249.180.0/24",
+    "asn": "218245",
+    "country_code": "MD",
+    "name": "BOLANDAU-AS",
+    "org": "Andrei Bolandau",
+    "domain": ""
+  },
+  {
+    "network": "170.168.129.0/24",
+    "asn": "218245",
+    "country_code": "MD",
+    "name": "BOLANDAU-AS",
+    "org": "Andrei Bolandau",
+    "domain": ""
+  },
+  {
     "network": "149.3.186.0/24",
     "asn": "209908",
     "country_code": "MD",
@@ -8430,14 +8446,6 @@
     "name": "zeontehnomd",
     "org": "ZEON-TEHNO SRL",
     "domain": "it-lab.md"
-  },
-  {
-    "network": "170.168.129.0/24",
-    "asn": "218245",
-    "country_code": "MD",
-    "name": "BOLANDAU-AS",
-    "org": "Andrei Bolandau",
-    "domain": ""
   },
   {
     "network": "178.76.64.0/21",
@@ -9398,5 +9406,13 @@
     "name": "FL8-TO",
     "org": "Serghei Samoilov",
     "domain": "xyecoc.com"
+  },
+  {
+    "network": "2a12:dec0:414::/48",
+    "asn": "217994",
+    "country_code": "MD",
+    "name": "raix-AS",
+    "org": "Ion Russu",
+    "domain": "raix.group"
   }
 ]

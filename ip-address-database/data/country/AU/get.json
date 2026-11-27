@@ -1134,12 +1134,6 @@
     "country_name": "Australia"
   },
   {
-    "network": "8.245.28.0/24",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
     "network": "8.245.128.0/19",
     "continent_code": "OC",
     "country_code": "AU",
@@ -4782,12 +4776,6 @@
     "country_name": "Australia"
   },
   {
-    "network": "27.54.80.0/22",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
     "network": "27.54.84.0/23",
     "continent_code": "OC",
     "country_code": "AU",
@@ -5154,6 +5142,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "27.124.120.0/22",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "27.124.124.0/24",
     "continent_code": "OC",
     "country_code": "AU",
@@ -5202,12 +5196,6 @@
     "country_name": "Australia"
   },
   {
-    "network": "27.124.126.0/23",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
     "network": "27.125.208.0/20",
     "continent_code": "OC",
     "country_code": "AU",
@@ -5245,6 +5233,18 @@
   },
   {
     "network": "27.253.0.0/17",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "29.0.0.0/8",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "30.0.0.0/8",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -5796,31 +5796,25 @@
     "country_name": "Australia"
   },
   {
-    "network": "34.99.13.28/30",
+    "network": "34.99.13.28/32",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
   },
   {
-    "network": "34.99.13.32/27",
+    "network": "34.99.13.53/32",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
   },
   {
-    "network": "34.99.13.64/26",
+    "network": "34.99.13.54/32",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
   },
   {
-    "network": "34.99.13.128/28",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "34.99.13.144/29",
+    "network": "34.99.13.128/31",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -9313,6 +9307,12 @@
   },
   {
     "network": "43.250.232.0/22",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "43.250.248.0/22",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -15990,6 +15990,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "69.195.173.128/31",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "69.195.175.106/31",
     "continent_code": "OC",
     "country_code": "AU",
@@ -17772,12 +17778,6 @@
     "country_name": "Australia"
   },
   {
-    "network": "87.76.136.0/24",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
     "network": "87.121.33.0/24",
     "continent_code": "OC",
     "country_code": "AU",
@@ -18174,7 +18174,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "91.190.106.46/31",
+    "network": "91.190.106.44/30",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -18186,7 +18186,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "91.190.106.218/31",
+    "network": "91.190.106.216/29",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -18264,25 +18264,13 @@
     "country_name": "Australia"
   },
   {
-    "network": "91.242.215.70/31",
+    "network": "91.242.215.72/30",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
   },
   {
-    "network": "91.242.215.72/31",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "91.242.215.164/31",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "91.242.215.168/31",
+    "network": "91.242.215.164/30",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -24612,7 +24600,13 @@
     "country_name": "Australia"
   },
   {
-    "network": "103.91.194.0/26",
+    "network": "103.91.194.18/31",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "103.91.194.32/27",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -32058,12 +32052,6 @@
     "country_name": "Australia"
   },
   {
-    "network": "103.179.202.0/23",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
     "network": "103.179.204.0/23",
     "continent_code": "OC",
     "country_code": "AU",
@@ -37140,6 +37128,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "104.28.139.160/32",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "104.28.141.35/32",
     "continent_code": "OC",
     "country_code": "AU",
@@ -37273,6 +37267,12 @@
   },
   {
     "network": "104.28.154.149/32",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "104.28.154.152/32",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -41172,6 +41172,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "111.90.184.0/23",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "111.92.177.0/24",
     "continent_code": "OC",
     "country_code": "AU",
@@ -42546,6 +42552,18 @@
     "country_name": "Australia"
   },
   {
+    "network": "118.139.131.2/31",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "118.139.131.4/30",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "118.139.131.8/29",
     "continent_code": "OC",
     "country_code": "AU",
@@ -42954,12 +42972,6 @@
     "country_name": "Australia"
   },
   {
-    "network": "119.47.112.0/22",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
     "network": "119.47.117.0/24",
     "continent_code": "OC",
     "country_code": "AU",
@@ -43093,12 +43105,6 @@
   },
   {
     "network": "120.29.194.144/28",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "120.29.195.0/24",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -47022,7 +47028,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "134.231.182.240/28",
+    "network": "134.231.182.224/27",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -48924,6 +48930,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "144.48.140.0/22",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "144.48.152.0/22",
     "continent_code": "OC",
     "country_code": "AU",
@@ -49573,12 +49585,6 @@
   },
   {
     "network": "146.92.119.0/24",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "146.92.124.0/23",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -50490,7 +50496,13 @@
     "country_name": "Australia"
   },
   {
-    "network": "150.228.243.152/30",
+    "network": "150.228.243.152/29",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "150.228.243.188/31",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -50586,7 +50598,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "151.124.109.56/29",
+    "network": "151.124.109.56/30",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -50887,6 +50899,12 @@
   },
   {
     "network": "151.246.156.0/23",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "151.246.164.0/24",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -51583,6 +51601,12 @@
   },
   {
     "network": "154.18.112.8/29",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "154.18.112.16/28",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -52860,7 +52884,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "158.173.65.24/29",
+    "network": "158.173.65.28/30",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -52872,7 +52896,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "158.173.65.44/30",
+    "network": "158.173.65.44/31",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -52884,13 +52908,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "158.173.65.58/31",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "158.173.65.60/30",
+    "network": "158.173.65.56/30",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -52950,7 +52968,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "158.173.66.40/30",
+    "network": "158.173.66.40/29",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -54978,13 +54996,19 @@
     "country_name": "Australia"
   },
   {
-    "network": "162.120.218.128/28",
+    "network": "162.120.218.128/30",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
   },
   {
-    "network": "162.120.218.152/29",
+    "network": "162.120.218.142/31",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "162.120.218.156/30",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -54996,13 +55020,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "162.120.218.176/31",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "162.120.218.180/30",
+    "network": "162.120.218.176/29",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -55014,13 +55032,19 @@
     "country_name": "Australia"
   },
   {
-    "network": "162.120.218.192/28",
+    "network": "162.120.218.194/31",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
   },
   {
-    "network": "162.120.218.208/30",
+    "network": "162.120.218.200/29",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "162.120.218.208/31",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -55032,7 +55056,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "162.120.218.232/30",
+    "network": "162.120.218.224/28",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -55176,7 +55200,13 @@
     "country_name": "Australia"
   },
   {
-    "network": "163.8.48.0/20",
+    "network": "163.8.48.0/21",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "163.8.56.0/22",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -56347,6 +56377,12 @@
   },
   {
     "network": "165.1.162.0/24",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "165.1.228.0/32",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -58110,7 +58146,31 @@
     "country_name": "Australia"
   },
   {
-    "network": "172.146.0.0/17",
+    "network": "172.146.0.0/19",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "172.146.32.0/21",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "172.146.44.0/22",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "172.146.48.0/20",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "172.146.64.0/18",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -59329,6 +59389,12 @@
   },
   {
     "network": "176.102.122.0/24",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "176.111.160.0/23",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -60666,12 +60732,6 @@
     "country_name": "Australia"
   },
   {
-    "network": "185.54.228.0/24",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
     "network": "185.55.52.178/31",
     "continent_code": "OC",
     "country_code": "AU",
@@ -60943,6 +61003,12 @@
   },
   {
     "network": "185.135.72.0/23",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "185.135.152.0/22",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -66492,6 +66558,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "202.2.244.0/29",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "202.3.0.0/22",
     "continent_code": "OC",
     "country_code": "AU",
@@ -68604,13 +68676,13 @@
     "country_name": "Australia"
   },
   {
-    "network": "202.68.104.11/32",
+    "network": "202.68.104.13/32",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
   },
   {
-    "network": "202.68.104.12/30",
+    "network": "202.68.104.14/31",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -90720,13 +90792,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "217.64.126.16/28",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "217.64.126.40/29",
+    "network": "217.64.126.0/27",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -90738,19 +90804,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "217.64.126.72/29",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "217.64.126.80/28",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "217.64.126.96/27",
+    "network": "217.64.126.64/27",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -93583,12 +93637,6 @@
   },
   {
     "network": "2402:8000::/26",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "2402:8480::/26",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -102426,13 +102474,7 @@
     "country_name": "Australia"
   },
   {
-    "network": "2402:8460::/27",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "2402:84e0::/27",
+    "network": "2402:8480::/27",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -153672,7 +153714,25 @@
     "country_name": "Australia"
   },
   {
+    "network": "2402:8470::/28",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2402:84b0::/28",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2402:84d0::/28",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2402:84f0::/28",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -204948,7 +205008,25 @@
     "country_name": "Australia"
   },
   {
+    "network": "2402:8468::/29",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2402:84a8::/29",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2402:84c8::/29",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2402:84e8::/29",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -256668,7 +256746,25 @@
     "country_name": "Australia"
   },
   {
+    "network": "2402:8464::/30",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2402:84a4::/30",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2402:84c4::/30",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2402:84e4::/30",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -308352,7 +308448,25 @@
     "country_name": "Australia"
   },
   {
+    "network": "2402:8462::/31",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2402:84a2::/31",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2402:84c2::/31",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2402:84e2::/31",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -359826,7 +359940,25 @@
     "country_name": "Australia"
   },
   {
+    "network": "2402:8461::/32",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2402:84a1::/32",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2402:84c1::/32",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2402:84e1::/32",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -421140,6 +421272,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "2a10:ccc6:666e::/47",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2a11:4:2::/47",
     "continent_code": "OC",
     "country_code": "AU",
@@ -432288,6 +432426,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "2a0f:9400:611b::/48",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2a0f:9400:6155::/48",
     "continent_code": "OC",
     "country_code": "AU",
@@ -432337,12 +432481,6 @@
   },
   {
     "network": "2a10:ccc6:6666::/48",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "2a10:ccc6:666f::/48",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -443047,12 +443185,6 @@
   },
   {
     "network": "2a0e:8f01:1000:400::/54",
-    "continent_code": "OC",
-    "country_code": "AU",
-    "country_name": "Australia"
-  },
-  {
-    "network": "2001:506:2f2:2600::/55",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -464670,6 +464802,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "2605:59c7:a000:1d0::/64",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2605:59c7:a000:213::/64",
     "continent_code": "OC",
     "country_code": "AU",
@@ -464772,6 +464910,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "2605:59c7:a000:570::/64",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2605:59c7:a000:586::/64",
     "continent_code": "OC",
     "country_code": "AU",
@@ -464779,6 +464923,12 @@
   },
   {
     "network": "2605:59c7:a000:5fb::/64",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2605:59c7:a000:694::/64",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -464928,13 +465078,31 @@
     "country_name": "Australia"
   },
   {
+    "network": "2605:59c7:a000:c56::/64",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2605:59c7:a000:c5a::/64",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
   },
   {
+    "network": "2605:59c7:a000:c83::/64",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2605:59c7:a000:ca8::/64",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2605:59c7:a000:cec::/64",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"
@@ -465030,6 +465198,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "2605:59c7:a000:1156::/64",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2605:59c7:a000:11b3::/64",
     "continent_code": "OC",
     "country_code": "AU",
@@ -465102,6 +465276,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "2605:59c7:a000:1423::/64",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2605:59c7:a000:14a9::/64",
     "continent_code": "OC",
     "country_code": "AU",
@@ -465120,6 +465300,12 @@
     "country_name": "Australia"
   },
   {
+    "network": "2605:59c7:a000:156d::/64",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
     "network": "2605:59c7:a000:15c0::/64",
     "continent_code": "OC",
     "country_code": "AU",
@@ -465133,6 +465319,12 @@
   },
   {
     "network": "2605:59c7:a000:15f8::/64",
+    "continent_code": "OC",
+    "country_code": "AU",
+    "country_name": "Australia"
+  },
+  {
+    "network": "2605:59c7:a000:160d::/64",
     "continent_code": "OC",
     "country_code": "AU",
     "country_name": "Australia"

@@ -1120,6 +1120,14 @@
     "domain": "infomaniak.ch"
   },
   {
+    "network": "128.65.195.0/24",
+    "asn": "29222",
+    "country_code": "CH",
+    "name": "Infomaniak-AS",
+    "org": "Infomaniak Network SA",
+    "domain": "infomaniak.ch"
+  },
+  {
     "network": "149.18.38.0/24",
     "asn": "29222",
     "country_code": "CH",
@@ -1281,6 +1289,14 @@
   },
   {
     "network": "2001:1600::/32",
+    "asn": "29222",
+    "country_code": "CH",
+    "name": "Infomaniak-AS",
+    "org": "Infomaniak Network SA",
+    "domain": "infomaniak.ch"
+  },
+  {
+    "network": "2001:1600:4::/48",
     "asn": "29222",
     "country_code": "CH",
     "name": "Infomaniak-AS",
@@ -15640,30 +15656,6 @@
     "domain": "sitaonair.aero"
   },
   {
-    "network": "57.190.0.0/20",
-    "asn": "206433",
-    "country_code": "CH",
-    "name": "SITA-SFA",
-    "org": "SITA Switzerland Sarl",
-    "domain": "sitaonair.aero"
-  },
-  {
-    "network": "57.190.16.0/24",
-    "asn": "206433",
-    "country_code": "CH",
-    "name": "SITA-SFA",
-    "org": "SITA Switzerland Sarl",
-    "domain": "sitaonair.aero"
-  },
-  {
-    "network": "57.190.17.0/24",
-    "asn": "206433",
-    "country_code": "CH",
-    "name": "SITA-SFA",
-    "org": "SITA Switzerland Sarl",
-    "domain": "sitaonair.aero"
-  },
-  {
     "network": "57.190.64.0/20",
     "asn": "206433",
     "country_code": "CH",
@@ -24128,14 +24120,6 @@
     "domain": "exoscale.ch"
   },
   {
-    "network": "2a07:6cc1::/32",
-    "asn": "61098",
-    "country_code": "CH",
-    "name": "exoscale",
-    "org": "Akenes SA",
-    "domain": "exoscale.ch"
-  },
-  {
     "network": "2a07:6cc2::/32",
     "asn": "61098",
     "country_code": "CH",
@@ -32504,6 +32488,22 @@
     "domain": "swisslink.ch"
   },
   {
+    "network": "94.103.97.0/24",
+    "asn": "49457",
+    "country_code": "CH",
+    "name": "OPENBUSINESS",
+    "org": "Openbusiness S.A.",
+    "domain": "swisslink.ch"
+  },
+  {
+    "network": "193.246.108.0/23",
+    "asn": "49457",
+    "country_code": "CH",
+    "name": "OPENBUSINESS",
+    "org": "Openbusiness S.A.",
+    "domain": "swisslink.ch"
+  },
+  {
     "network": "193.247.76.0/24",
     "asn": "49457",
     "country_code": "CH",
@@ -36409,14 +36409,6 @@
   },
   {
     "network": "2a0a:e5c0:305::/48",
-    "asn": "213081",
-    "country_code": "CH",
-    "name": "ungleich-place10",
-    "org": "ungleich glarus ag",
-    "domain": "ungleich.ch"
-  },
-  {
-    "network": "2a0a:e5c1:200::/48",
     "asn": "213081",
     "country_code": "CH",
     "name": "ungleich-place10",

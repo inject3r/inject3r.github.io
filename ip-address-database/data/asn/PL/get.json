@@ -768,10 +768,82 @@
     "domain": "beyond.pl"
   },
   {
-    "network": "2.57.210.0/23",
-    "asn": "209062",
+    "network": "2.57.208.0/22",
+    "asn": "50767",
     "country_code": "PL",
-    "name": "airplusn-as",
+    "name": "FIBERLINK-AS",
+    "org": "FIBERLINK Sp. z o.o.",
+    "domain": "fiberlink.pl"
+  },
+  {
+    "network": "46.253.142.0/24",
+    "asn": "50767",
+    "country_code": "PL",
+    "name": "FIBERLINK-AS",
+    "org": "FIBERLINK Sp. z o.o.",
+    "domain": "fiberlink.pl"
+  },
+  {
+    "network": "91.206.154.0/23",
+    "asn": "50767",
+    "country_code": "PL",
+    "name": "FIBERLINK-AS",
+    "org": "FIBERLINK Sp. z o.o.",
+    "domain": "fiberlink.pl"
+  },
+  {
+    "network": "91.224.128.0/23",
+    "asn": "50767",
+    "country_code": "PL",
+    "name": "FIBERLINK-AS",
+    "org": "FIBERLINK Sp. z o.o.",
+    "domain": "fiberlink.pl"
+  },
+  {
+    "network": "91.227.0.0/22",
+    "asn": "50767",
+    "country_code": "PL",
+    "name": "FIBERLINK-AS",
+    "org": "FIBERLINK Sp. z o.o.",
+    "domain": "fiberlink.pl"
+  },
+  {
+    "network": "91.230.98.0/23",
+    "asn": "50767",
+    "country_code": "PL",
+    "name": "FIBERLINK-AS",
+    "org": "FIBERLINK Sp. z o.o.",
+    "domain": "fiberlink.pl"
+  },
+  {
+    "network": "176.104.176.0/21",
+    "asn": "50767",
+    "country_code": "PL",
+    "name": "FIBERLINK-AS",
+    "org": "FIBERLINK Sp. z o.o.",
+    "domain": "fiberlink.pl"
+  },
+  {
+    "network": "185.233.24.0/22",
+    "asn": "50767",
+    "country_code": "PL",
+    "name": "FIBERLINK-AS",
+    "org": "FIBERLINK Sp. z o.o.",
+    "domain": "fiberlink.pl"
+  },
+  {
+    "network": "193.106.228.0/22",
+    "asn": "50767",
+    "country_code": "PL",
+    "name": "FIBERLINK-AS",
+    "org": "FIBERLINK Sp. z o.o.",
+    "domain": "fiberlink.pl"
+  },
+  {
+    "network": "193.107.248.0/22",
+    "asn": "50767",
+    "country_code": "PL",
+    "name": "FIBERLINK-AS",
     "org": "FIBERLINK Sp. z o.o.",
     "domain": "fiberlink.pl"
   },
@@ -2233,22 +2305,6 @@
   },
   {
     "network": "38.244.187.0/24",
-    "asn": "200088",
-    "country_code": "PL",
-    "name": "ARTNET2",
-    "org": "Artnet Sp. z o.o.",
-    "domain": "artnet.pl"
-  },
-  {
-    "network": "83.168.112.0/24",
-    "asn": "200088",
-    "country_code": "PL",
-    "name": "ARTNET2",
-    "org": "Artnet Sp. z o.o.",
-    "domain": "artnet.pl"
-  },
-  {
-    "network": "83.168.113.0/24",
     "asn": "200088",
     "country_code": "PL",
     "name": "ARTNET2",
@@ -11160,14 +11216,6 @@
     "domain": "hostovita.pl"
   },
   {
-    "network": "88.218.31.0/24",
-    "asn": "214397",
-    "country_code": "PL",
-    "name": "HOSTOVITA-AS",
-    "org": "Hostovita sp. z o.o.",
-    "domain": "hostovita.pl"
-  },
-  {
     "network": "31.172.136.0/23",
     "asn": "24685",
     "country_code": "PL",
@@ -19504,6 +19552,14 @@
     "domain": "dhosting.pl"
   },
   {
+    "network": "109.95.157.0/24",
+    "asn": "48896",
+    "country_code": "PL",
+    "name": "DHOSTING-AS",
+    "org": "dhosting.pl Sp. z o.o.",
+    "domain": "dhosting.pl"
+  },
+  {
     "network": "195.88.50.0/23",
     "asn": "48896",
     "country_code": "PL",
@@ -20192,6 +20248,22 @@
     "domain": "awist.pl"
   },
   {
+    "network": "91.226.50.0/24",
+    "asn": "49785",
+    "country_code": "PL",
+    "name": "AWIST",
+    "org": "P.P.H.U AWIST",
+    "domain": "awist.pl"
+  },
+  {
+    "network": "91.226.51.0/24",
+    "asn": "49785",
+    "country_code": "PL",
+    "name": "AWIST",
+    "org": "P.P.H.U AWIST",
+    "domain": "awist.pl"
+  },
+  {
     "network": "93.159.190.0/23",
     "asn": "49785",
     "country_code": "PL",
@@ -20201,6 +20273,22 @@
   },
   {
     "network": "193.164.254.0/23",
+    "asn": "49785",
+    "country_code": "PL",
+    "name": "AWIST",
+    "org": "P.P.H.U AWIST",
+    "domain": "awist.pl"
+  },
+  {
+    "network": "193.164.254.0/24",
+    "asn": "49785",
+    "country_code": "PL",
+    "name": "AWIST",
+    "org": "P.P.H.U AWIST",
+    "domain": "awist.pl"
+  },
+  {
+    "network": "193.164.255.0/24",
     "asn": "49785",
     "country_code": "PL",
     "name": "AWIST",
@@ -23184,78 +23272,6 @@
     "domain": "iq.pl"
   },
   {
-    "network": "46.253.142.0/24",
-    "asn": "50767",
-    "country_code": "PL",
-    "name": "FIBERLINK-AS",
-    "org": "FIBERLINK Sp. z o.o.",
-    "domain": "fiberlink.pl"
-  },
-  {
-    "network": "91.206.154.0/23",
-    "asn": "50767",
-    "country_code": "PL",
-    "name": "FIBERLINK-AS",
-    "org": "FIBERLINK Sp. z o.o.",
-    "domain": "fiberlink.pl"
-  },
-  {
-    "network": "91.224.128.0/23",
-    "asn": "50767",
-    "country_code": "PL",
-    "name": "FIBERLINK-AS",
-    "org": "FIBERLINK Sp. z o.o.",
-    "domain": "fiberlink.pl"
-  },
-  {
-    "network": "91.227.0.0/22",
-    "asn": "50767",
-    "country_code": "PL",
-    "name": "FIBERLINK-AS",
-    "org": "FIBERLINK Sp. z o.o.",
-    "domain": "fiberlink.pl"
-  },
-  {
-    "network": "91.230.98.0/23",
-    "asn": "50767",
-    "country_code": "PL",
-    "name": "FIBERLINK-AS",
-    "org": "FIBERLINK Sp. z o.o.",
-    "domain": "fiberlink.pl"
-  },
-  {
-    "network": "176.104.176.0/21",
-    "asn": "50767",
-    "country_code": "PL",
-    "name": "FIBERLINK-AS",
-    "org": "FIBERLINK Sp. z o.o.",
-    "domain": "fiberlink.pl"
-  },
-  {
-    "network": "185.233.24.0/22",
-    "asn": "50767",
-    "country_code": "PL",
-    "name": "FIBERLINK-AS",
-    "org": "FIBERLINK Sp. z o.o.",
-    "domain": "fiberlink.pl"
-  },
-  {
-    "network": "193.106.228.0/22",
-    "asn": "50767",
-    "country_code": "PL",
-    "name": "FIBERLINK-AS",
-    "org": "FIBERLINK Sp. z o.o.",
-    "domain": "fiberlink.pl"
-  },
-  {
-    "network": "193.107.248.0/22",
-    "asn": "50767",
-    "country_code": "PL",
-    "name": "FIBERLINK-AS",
-    "org": "FIBERLINK Sp. z o.o.",
-    "domain": "fiberlink.pl"
-  },
-  {
     "network": "46.254.72.0/22",
     "asn": "49895",
     "country_code": "PL",
@@ -26172,7 +26188,7 @@
     "asn": "42154",
     "country_code": "PL",
     "name": "EURONET-AS",
-    "org": "\"EuroNet\" s.c. Jacek Majak, Teresa Majak",
+    "org": "Euronet Group sp. z o.o.",
     "domain": "euronet.net.pl"
   },
   {
@@ -26180,7 +26196,7 @@
     "asn": "42154",
     "country_code": "PL",
     "name": "EURONET-AS",
-    "org": "\"EuroNet\" s.c. Jacek Majak, Teresa Majak",
+    "org": "Euronet Group sp. z o.o.",
     "domain": "euronet.net.pl"
   },
   {
@@ -53568,6 +53584,14 @@
     "domain": "box3.pl"
   },
   {
+    "network": "195.136.24.0/24",
+    "asn": "198709",
+    "country_code": "PL",
+    "name": "INFOSERWIS-NETWORK",
+    "org": "Jacek Jarosz trading as Info Serwis",
+    "domain": "box3.pl"
+  },
+  {
     "network": "176.115.0.0/19",
     "asn": "58350",
     "country_code": "PL",
@@ -59832,6 +59856,14 @@
     "domain": "atman.pl"
   },
   {
+    "network": "2001:678:1408::/48",
+    "asn": "211234",
+    "country_code": "PL",
+    "name": "AS4VOD",
+    "org": "4VOD Sp z o. o.",
+    "domain": "atman.pl"
+  },
+  {
     "network": "193.46.212.0/24",
     "asn": "198829",
     "country_code": "PL",
@@ -59961,6 +59993,14 @@
   },
   {
     "network": "195.164.128.0/17",
+    "asn": "204679",
+    "country_code": "PL",
+    "name": "OSE",
+    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+    "domain": "nask.pl"
+  },
+  {
+    "network": "195.164.163.0/24",
     "asn": "204679",
     "country_code": "PL",
     "name": "OSE",
@@ -60416,6 +60456,14 @@
     "domain": "netia.pl"
   },
   {
+    "network": "193.108.120.0/23",
+    "asn": "218353",
+    "country_code": "PL",
+    "name": "POLLUB",
+    "org": "Politechnika Lubelska",
+    "domain": "pollub.pl"
+  },
+  {
     "network": "193.108.124.0/22",
     "asn": "34252",
     "country_code": "PL",
@@ -60697,6 +60745,14 @@
   },
   {
     "network": "2a0f:8e40::/29",
+    "asn": "200602",
+    "country_code": "PL",
+    "name": "GBN-AS",
+    "org": "GBN.PL Sp. z o.o.",
+    "domain": "gbn.pl"
+  },
+  {
+    "network": "2a0f:8e41::/32",
     "asn": "200602",
     "country_code": "PL",
     "name": "GBN-AS",
@@ -64672,14 +64728,6 @@
     "domain": "uz.zgora.pl"
   },
   {
-    "network": "212.110.128.0/24",
-    "asn": "5593",
-    "country_code": "PL",
-    "name": "UNITED-AS",
-    "org": "Load.me sp. z o. o.",
-    "domain": "w-net.eu"
-  },
-  {
     "network": "212.115.119.0/24",
     "asn": "207352",
     "country_code": "PL",
@@ -65528,14 +65576,6 @@
     "domain": "skylix.pl"
   },
   {
-    "network": "2a06:9801:1598::/48",
-    "asn": "218242",
-    "country_code": "PL",
-    "name": "ZDUNEK-DEV",
-    "org": "Adam Zdunek",
-    "domain": "zdunek.dev"
-  },
-  {
     "network": "2a06:9801:1800::/48",
     "asn": "209862",
     "country_code": "PL",
@@ -65801,14 +65841,6 @@
   },
   {
     "network": "2a0d:eb04:c::/48",
-    "asn": "218679",
-    "country_code": "PL",
-    "name": "SERVFAIL",
-    "org": "Dominique Liberda",
-    "domain": "servfail.network"
-  },
-  {
-    "network": "2a0d:eb04:d::/48",
     "asn": "218679",
     "country_code": "PL",
     "name": "SERVFAIL",
