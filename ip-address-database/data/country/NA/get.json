@@ -3546,7 +3546,13 @@
     "country_name": "Namibia"
   },
   {
-    "network": "197.234.80.0/21",
+    "network": "197.234.80.0/23",
+    "continent_code": "AF",
+    "country_code": "NA",
+    "country_name": "Namibia"
+  },
+  {
+    "network": "197.234.84.0/22",
     "continent_code": "AF",
     "country_code": "NA",
     "country_name": "Namibia"
@@ -4236,12 +4242,6 @@
     "country_name": "Namibia"
   },
   {
-    "network": "2602:f3f0:11d::/48",
-    "continent_code": "AF",
-    "country_code": "NA",
-    "country_name": "Namibia"
-  },
-  {
     "network": "2602:f805:525::/48",
     "continent_code": "AF",
     "country_code": "NA",
@@ -4381,6 +4381,12 @@
   },
   {
     "network": "2a0d:2684:a0::/48",
+    "continent_code": "AF",
+    "country_code": "NA",
+    "country_name": "Namibia"
+  },
+  {
+    "network": "2a0d:d940:580::/48",
     "continent_code": "AF",
     "country_code": "NA",
     "country_name": "Namibia"

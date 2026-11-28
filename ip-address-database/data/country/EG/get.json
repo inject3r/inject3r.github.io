@@ -840,6 +840,12 @@
     "country_name": "Egypt"
   },
   {
+    "network": "45.204.73.0/24",
+    "continent_code": "AF",
+    "country_code": "EG",
+    "country_name": "Egypt"
+  },
+  {
     "network": "45.240.0.0/13",
     "continent_code": "AF",
     "country_code": "EG",
@@ -3277,12 +3283,6 @@
   },
   {
     "network": "153.72.176.128/26",
-    "continent_code": "AF",
-    "country_code": "EG",
-    "country_name": "Egypt"
-  },
-  {
-    "network": "153.80.71.0/24",
     "continent_code": "AF",
     "country_code": "EG",
     "country_name": "Egypt"
@@ -11064,18 +11064,6 @@
     "country_name": "Egypt"
   },
   {
-    "network": "2602:f3f0:105::/48",
-    "continent_code": "AF",
-    "country_code": "EG",
-    "country_name": "Egypt"
-  },
-  {
-    "network": "2602:f3f0:116::/48",
-    "continent_code": "AF",
-    "country_code": "EG",
-    "country_name": "Egypt"
-  },
-  {
     "network": "2602:f5c1:31::/48",
     "continent_code": "AF",
     "country_code": "EG",
@@ -11400,7 +11388,7 @@
     "country_name": "Egypt"
   },
   {
-    "network": "2a0d:d940:5f6::/48",
+    "network": "2a0d:d940:53b::/48",
     "continent_code": "AF",
     "country_code": "EG",
     "country_name": "Egypt"

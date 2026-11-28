@@ -24,14 +24,6 @@
     "domain": "guardnet.work"
   },
   {
-    "network": "31.57.117.0/24",
-    "asn": "216129",
-    "country_code": "PL",
-    "name": "GuardNetwork-AS",
-    "org": "SEBEK sp. z o.o",
-    "domain": "guardnet.work"
-  },
-  {
     "network": "31.58.85.0/24",
     "asn": "216129",
     "country_code": "PL",
@@ -2321,6 +2313,14 @@
   },
   {
     "network": "88.218.48.0/22",
+    "asn": "200088",
+    "country_code": "PL",
+    "name": "ARTNET2",
+    "org": "Artnet Sp. z o.o.",
+    "domain": "artnet.pl"
+  },
+  {
+    "network": "89.43.197.0/24",
     "asn": "200088",
     "country_code": "PL",
     "name": "ARTNET2",
@@ -10264,6 +10264,22 @@
     "domain": "voxihost.pl"
   },
   {
+    "network": "31.57.117.0/24",
+    "asn": "213633",
+    "country_code": "PL",
+    "name": "AS213633",
+    "org": "SEBEK sp. z o.o",
+    "domain": "guardnet.work"
+  },
+  {
+    "network": "213.152.43.0/24",
+    "asn": "213633",
+    "country_code": "PL",
+    "name": "AS213633",
+    "org": "SEBEK sp. z o.o",
+    "domain": "guardnet.work"
+  },
+  {
     "network": "31.58.51.0/24",
     "asn": "214481",
     "country_code": "PL",
@@ -15808,6 +15824,14 @@
     "domain": "lisek.pl"
   },
   {
+    "network": "37.131.167.0/24",
+    "asn": "199234",
+    "country_code": "PL",
+    "name": "KOMPUTEROWE-STUDIO-GRAFIKI",
+    "org": "Komputerowe Studio Grafiki, Wojciech Lis",
+    "domain": "lisek.pl"
+  },
+  {
     "network": "37.131.170.0/23",
     "asn": "199234",
     "country_code": "PL",
@@ -18648,14 +18672,6 @@
     "domain": "trifonov.beer"
   },
   {
-    "network": "79.182.132.0/24",
-    "asn": "219498",
-    "country_code": "PL",
-    "name": "TRIFONOV-AS",
-    "org": "Artem Kovalchuk",
-    "domain": "trifonov.beer"
-  },
-  {
     "network": "104.234.156.0/24",
     "asn": "219498",
     "country_code": "PL",
@@ -19545,14 +19561,6 @@
   },
   {
     "network": "109.95.152.0/21",
-    "asn": "48896",
-    "country_code": "PL",
-    "name": "DHOSTING-AS",
-    "org": "dhosting.pl Sp. z o.o.",
-    "domain": "dhosting.pl"
-  },
-  {
-    "network": "109.95.157.0/24",
     "asn": "48896",
     "country_code": "PL",
     "name": "DHOSTING-AS",
@@ -23529,6 +23537,14 @@
   },
   {
     "network": "79.182.228.0/24",
+    "asn": "215133",
+    "country_code": "PL",
+    "name": "JAKUB-WITKOWSKI",
+    "org": "Jakub Witkowski",
+    "domain": "proton.me"
+  },
+  {
+    "network": "79.182.251.0/24",
     "asn": "215133",
     "country_code": "PL",
     "name": "JAKUB-WITKOWSKI",
@@ -32728,14 +32744,6 @@
     "domain": "sysadvisors.pl"
   },
   {
-    "network": "2001:67c:260::/48",
-    "asn": "214165",
-    "country_code": "PL",
-    "name": "SYSADVISORS",
-    "org": "SysAdvisors Sp. z o.o. Sp. K.",
-    "domain": "sysadvisors.pl"
-  },
-  {
     "network": "83.175.144.0/20",
     "asn": "34525",
     "country_code": "PL",
@@ -36368,14 +36376,6 @@
     "domain": "generacja.pl"
   },
   {
-    "network": "194.54.20.0/22",
-    "asn": "29596",
-    "country_code": "PL",
-    "name": "GENERACJA-AS",
-    "org": "PSSK Sp. z o.o.",
-    "domain": "generacja.pl"
-  },
-  {
     "network": "194.54.21.0/24",
     "asn": "29596",
     "country_code": "PL",
@@ -36393,14 +36393,6 @@
   },
   {
     "network": "194.54.23.0/24",
-    "asn": "29596",
-    "country_code": "PL",
-    "name": "GENERACJA-AS",
-    "org": "PSSK Sp. z o.o.",
-    "domain": "generacja.pl"
-  },
-  {
-    "network": "194.146.216.0/22",
     "asn": "29596",
     "country_code": "PL",
     "name": "GENERACJA-AS",
@@ -37257,6 +37249,14 @@
   },
   {
     "network": "193.93.106.0/23",
+    "asn": "39599",
+    "country_code": "PL",
+    "name": "TALEX-AS",
+    "org": "Talex S.A.",
+    "domain": "talex.pl"
+  },
+  {
+    "network": "195.136.23.0/24",
     "asn": "39599",
     "country_code": "PL",
     "name": "TALEX-AS",
@@ -39456,6 +39456,14 @@
     "domain": "gausus.net"
   },
   {
+    "network": "2001:678:664::/48",
+    "asn": "42576",
+    "country_code": "PL",
+    "name": "INTRSC-AS",
+    "org": "Maciej Jan Broniarz trading as CERT NGO",
+    "domain": "gausus.net"
+  },
+  {
     "network": "91.192.228.0/22",
     "asn": "48157",
     "country_code": "PL",
@@ -39849,6 +39857,14 @@
   },
   {
     "network": "195.187.128.0/17",
+    "asn": "8308",
+    "country_code": "PL",
+    "name": "NASK-COMMERCIAL",
+    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+    "domain": "nask.pl"
+  },
+  {
+    "network": "217.9.165.0/24",
     "asn": "8308",
     "country_code": "PL",
     "name": "NASK-COMMERCIAL",
@@ -46342,14 +46358,6 @@
     "name": "LUBGIP",
     "org": "LUBGIP Sp. z o.o.",
     "domain": "lubgip.pl"
-  },
-  {
-    "network": "91.229.185.0/24",
-    "asn": "39793",
-    "country_code": "PL",
-    "name": "UNITELSC",
-    "org": "UNITEL-MEDIA Sp. z o.o.",
-    "domain": "unitelmedia.pl"
   },
   {
     "network": "91.229.193.0/24",
@@ -53145,6 +53153,14 @@
   },
   {
     "network": "171.25.196.0/22",
+    "asn": "198416",
+    "country_code": "PL",
+    "name": "ELZAPPERO-AS",
+    "org": "elzappero.net Marcin Zapotoczny",
+    "domain": "elzappero.net"
+  },
+  {
+    "network": "2001:67c:2db4::/48",
     "asn": "198416",
     "country_code": "PL",
     "name": "ELZAPPERO-AS",
@@ -60000,14 +60016,6 @@
     "domain": "nask.pl"
   },
   {
-    "network": "195.164.163.0/24",
-    "asn": "204679",
-    "country_code": "PL",
-    "name": "OSE",
-    "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-    "domain": "nask.pl"
-  },
-  {
     "network": "2001:a17::/32",
     "asn": "204679",
     "country_code": "PL",
@@ -60182,6 +60190,14 @@
     "name": "PL-Lublin-UM-AS",
     "org": "Gmina Lublin",
     "domain": "lublin.eu"
+  },
+  {
+    "network": "193.93.156.0/22",
+    "asn": "8458",
+    "country_code": "PL",
+    "name": "BLUENET-AS",
+    "org": "World Discount Telecommunication Polska Sp. z o.o.",
+    "domain": "mywdt.com.pl"
   },
   {
     "network": "193.93.204.0/22",
@@ -63376,14 +63392,6 @@
     "domain": "remontowa.com.pl"
   },
   {
-    "network": "195.85.230.0/24",
-    "asn": "48859",
-    "country_code": "PL",
-    "name": "NPC-AS",
-    "org": "NET P.C. MACIEJ CZAPLUK",
-    "domain": "task.gda.pl"
-  },
-  {
     "network": "195.85.243.0/24",
     "asn": "29223",
     "country_code": "PL",
@@ -64728,6 +64736,14 @@
     "domain": "uz.zgora.pl"
   },
   {
+    "network": "212.110.128.0/24",
+    "asn": "5593",
+    "country_code": "PL",
+    "name": "UNITED-AS",
+    "org": "Load.me sp. z o. o.",
+    "domain": "w-net.eu"
+  },
+  {
     "network": "212.115.119.0/24",
     "asn": "207352",
     "country_code": "PL",
@@ -65062,14 +65078,6 @@
     "name": "WIT",
     "org": "Akademia WIT w Warszawie",
     "domain": "wsisiz.edu.pl"
-  },
-  {
-    "network": "213.152.43.0/24",
-    "asn": "213633",
-    "country_code": "PL",
-    "name": "AS213633",
-    "org": "SEBEK sp. z o.o",
-    "domain": "guardnet.work"
   },
   {
     "network": "213.189.49.0/24",
@@ -65576,6 +65584,14 @@
     "domain": "skylix.pl"
   },
   {
+    "network": "2a06:9801:1598::/48",
+    "asn": "218242",
+    "country_code": "PL",
+    "name": "ZDUNEK-DEV",
+    "org": "Adam Zdunek",
+    "domain": "zdunek.dev"
+  },
+  {
     "network": "2a06:9801:1800::/48",
     "asn": "209862",
     "country_code": "PL",
@@ -65841,6 +65857,14 @@
   },
   {
     "network": "2a0d:eb04:c::/48",
+    "asn": "218679",
+    "country_code": "PL",
+    "name": "SERVFAIL",
+    "org": "Dominique Liberda",
+    "domain": "servfail.network"
+  },
+  {
+    "network": "2a0d:eb04:d::/48",
     "asn": "218679",
     "country_code": "PL",
     "name": "SERVFAIL",

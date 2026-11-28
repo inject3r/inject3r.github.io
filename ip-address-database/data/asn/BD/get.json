@@ -1416,6 +1416,14 @@
     "domain": "codeforhost.com"
   },
   {
+    "network": "104.166.89.0/24",
+    "asn": "134494",
+    "country_code": "BD",
+    "name": "CFHIL-AS-AP",
+    "org": "Code For Host Inc Ltd",
+    "domain": "codeforhost.com"
+  },
+  {
     "network": "143.14.128.0/24",
     "asn": "134494",
     "country_code": "BD",
@@ -1657,14 +1665,6 @@
   },
   {
     "network": "189.30.101.0/24",
-    "asn": "134494",
-    "country_code": "BD",
-    "name": "CFHIL-AS-AP",
-    "org": "Code For Host Inc Ltd",
-    "domain": "codeforhost.com"
-  },
-  {
-    "network": "189.31.16.0/24",
     "asn": "134494",
     "country_code": "BD",
     "name": "CFHIL-AS-AP",
@@ -5384,6 +5384,14 @@
     "domain": "mimsms.com"
   },
   {
+    "network": "83.147.0.0/24",
+    "asn": "137410",
+    "country_code": "BD",
+    "name": "MDMSL-AS-AP",
+    "org": "MiM Digital Marketing Solution Ltd.",
+    "domain": "mimsms.com"
+  },
+  {
     "network": "83.147.34.0/24",
     "asn": "137410",
     "country_code": "BD",
@@ -5497,14 +5505,6 @@
   },
   {
     "network": "107.148.97.0/24",
-    "asn": "137410",
-    "country_code": "BD",
-    "name": "MDMSL-AS-AP",
-    "org": "MiM Digital Marketing Solution Ltd.",
-    "domain": "mimsms.com"
-  },
-  {
-    "network": "107.148.109.0/24",
     "asn": "137410",
     "country_code": "BD",
     "name": "MDMSL-AS-AP",
@@ -5704,14 +5704,6 @@
     "domain": "mimsms.com"
   },
   {
-    "network": "162.141.13.0/24",
-    "asn": "137410",
-    "country_code": "BD",
-    "name": "MDMSL-AS-AP",
-    "org": "MiM Digital Marketing Solution Ltd.",
-    "domain": "mimsms.com"
-  },
-  {
     "network": "162.141.26.0/24",
     "asn": "137410",
     "country_code": "BD",
@@ -5745,14 +5737,6 @@
   },
   {
     "network": "165.49.79.0/24",
-    "asn": "137410",
-    "country_code": "BD",
-    "name": "MDMSL-AS-AP",
-    "org": "MiM Digital Marketing Solution Ltd.",
-    "domain": "mimsms.com"
-  },
-  {
-    "network": "165.49.227.0/24",
     "asn": "137410",
     "country_code": "BD",
     "name": "MDMSL-AS-AP",
@@ -5825,6 +5809,14 @@
   },
   {
     "network": "177.122.97.0/24",
+    "asn": "137410",
+    "country_code": "BD",
+    "name": "MDMSL-AS-AP",
+    "org": "MiM Digital Marketing Solution Ltd.",
+    "domain": "mimsms.com"
+  },
+  {
+    "network": "177.122.163.0/24",
     "asn": "137410",
     "country_code": "BD",
     "name": "MDMSL-AS-AP",
@@ -6017,6 +6009,14 @@
   },
   {
     "network": "185.211.151.0/24",
+    "asn": "137410",
+    "country_code": "BD",
+    "name": "MDMSL-AS-AP",
+    "org": "MiM Digital Marketing Solution Ltd.",
+    "domain": "mimsms.com"
+  },
+  {
+    "network": "185.212.68.0/24",
     "asn": "137410",
     "country_code": "BD",
     "name": "MDMSL-AS-AP",
@@ -8632,79 +8632,7 @@
     "domain": "tomatoweb.com.bd"
   },
   {
-    "network": "2401:9440::/33",
-    "asn": "56264",
-    "country_code": "BD",
-    "name": "TOMATOWEB-BD",
-    "org": "Tomato Web (Pvt) Limited",
-    "domain": "tomatoweb.com.bd"
-  },
-  {
-    "network": "2401:9440:8000::/33",
-    "asn": "56264",
-    "country_code": "BD",
-    "name": "TOMATOWEB-BD",
-    "org": "Tomato Web (Pvt) Limited",
-    "domain": "tomatoweb.com.bd"
-  },
-  {
     "network": "2406:9b00::/48",
-    "asn": "56264",
-    "country_code": "BD",
-    "name": "TOMATOWEB-BD",
-    "org": "Tomato Web (Pvt) Limited",
-    "domain": "tomatoweb.com.bd"
-  },
-  {
-    "network": "2406:9b00:1000::/36",
-    "asn": "56264",
-    "country_code": "BD",
-    "name": "TOMATOWEB-BD",
-    "org": "Tomato Web (Pvt) Limited",
-    "domain": "tomatoweb.com.bd"
-  },
-  {
-    "network": "2406:9b00:2000::/36",
-    "asn": "56264",
-    "country_code": "BD",
-    "name": "TOMATOWEB-BD",
-    "org": "Tomato Web (Pvt) Limited",
-    "domain": "tomatoweb.com.bd"
-  },
-  {
-    "network": "2406:9b00:3000::/36",
-    "asn": "56264",
-    "country_code": "BD",
-    "name": "TOMATOWEB-BD",
-    "org": "Tomato Web (Pvt) Limited",
-    "domain": "tomatoweb.com.bd"
-  },
-  {
-    "network": "2406:9b00:4000::/36",
-    "asn": "56264",
-    "country_code": "BD",
-    "name": "TOMATOWEB-BD",
-    "org": "Tomato Web (Pvt) Limited",
-    "domain": "tomatoweb.com.bd"
-  },
-  {
-    "network": "2406:9b00:5000::/36",
-    "asn": "56264",
-    "country_code": "BD",
-    "name": "TOMATOWEB-BD",
-    "org": "Tomato Web (Pvt) Limited",
-    "domain": "tomatoweb.com.bd"
-  },
-  {
-    "network": "2406:9b00:6000::/36",
-    "asn": "56264",
-    "country_code": "BD",
-    "name": "TOMATOWEB-BD",
-    "org": "Tomato Web (Pvt) Limited",
-    "domain": "tomatoweb.com.bd"
-  },
-  {
-    "network": "2406:9b00:7000::/36",
     "asn": "56264",
     "country_code": "BD",
     "name": "TOMATOWEB-BD",
@@ -12560,6 +12488,206 @@
     "domain": "ipcommunicationsbd.com"
   },
   {
+    "network": "40.183.184.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "40.183.192.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "40.183.204.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "40.183.212.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "68.166.199.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "69.33.140.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "82.25.156.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "140.99.172.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "162.141.24.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "162.141.144.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "162.141.168.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "162.141.224.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "162.141.240.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "167.148.64.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "177.201.202.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "179.69.81.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "179.69.84.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "179.69.109.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "179.253.56.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "187.55.8.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "187.55.38.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "187.55.39.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "187.55.46.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "187.55.51.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
+    "network": "216.151.168.0/24",
+    "asn": "154132",
+    "country_code": "BD",
+    "name": "MUI-AS-AP",
+    "org": "UMARA INTERNATIONAL",
+    "domain": "umarainternational.com"
+  },
+  {
     "network": "43.224.115.0/24",
     "asn": "58682",
     "country_code": "BD",
@@ -14825,22 +14953,6 @@
   },
   {
     "network": "43.245.118.0/24",
-    "asn": "134135",
-    "country_code": "BD",
-    "name": "UBER-AS-AP",
-    "org": "dA Tomato (Pvt.) Ltd.",
-    "domain": "datomato.com"
-  },
-  {
-    "network": "212.134.107.0/24",
-    "asn": "134135",
-    "country_code": "BD",
-    "name": "UBER-AS-AP",
-    "org": "dA Tomato (Pvt.) Ltd.",
-    "domain": "datomato.com"
-  },
-  {
-    "network": "212.134.109.0/24",
     "asn": "134135",
     "country_code": "BD",
     "name": "UBER-AS-AP",
@@ -28544,172 +28656,116 @@
     "domain": "optimaxbd.net"
   },
   {
-    "network": "68.165.204.0/22",
-    "asn": "152689",
+    "network": "66.253.102.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "HASANHOST-AS-AP",
-    "org": "Hasan Host",
-    "domain": "hasanhost.com.bd"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "68.166.199.0/24",
-    "asn": "154132",
+    "network": "69.166.222.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "69.33.140.0/24",
-    "asn": "154132",
+    "network": "82.39.120.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "82.25.156.0/24",
-    "asn": "154132",
+    "network": "82.39.124.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "140.99.172.0/24",
-    "asn": "154132",
+    "network": "82.41.139.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "162.141.24.0/24",
-    "asn": "154132",
+    "network": "90.96.115.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "162.141.144.0/24",
-    "asn": "154132",
+    "network": "102.129.234.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "162.141.168.0/24",
-    "asn": "154132",
+    "network": "102.129.235.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "162.141.224.0/24",
-    "asn": "154132",
+    "network": "143.20.167.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "162.141.240.0/24",
-    "asn": "154132",
+    "network": "151.240.226.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "167.148.64.0/24",
-    "asn": "154132",
+    "network": "152.234.156.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "177.201.202.0/24",
-    "asn": "154132",
+    "network": "177.122.175.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "179.69.81.0/24",
-    "asn": "154132",
+    "network": "179.254.203.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
-    "network": "179.69.84.0/24",
-    "asn": "154132",
+    "network": "185.150.137.0/24",
+    "asn": "152698",
     "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
-  },
-  {
-    "network": "179.69.109.0/24",
-    "asn": "154132",
-    "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
-  },
-  {
-    "network": "179.253.56.0/24",
-    "asn": "154132",
-    "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
-  },
-  {
-    "network": "187.55.8.0/24",
-    "asn": "154132",
-    "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
-  },
-  {
-    "network": "187.55.38.0/24",
-    "asn": "154132",
-    "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
-  },
-  {
-    "network": "187.55.39.0/24",
-    "asn": "154132",
-    "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
-  },
-  {
-    "network": "187.55.46.0/24",
-    "asn": "154132",
-    "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
-  },
-  {
-    "network": "187.55.51.0/24",
-    "asn": "154132",
-    "country_code": "BD",
-    "name": "MUI-AS-AP",
-    "org": "UMARA INTERNATIONAL",
-    "domain": "umarainternational.com"
+    "name": "ZORN-AS-AP",
+    "org": "Zorn Technologies",
+    "domain": "zorntech.com"
   },
   {
     "network": "72.244.168.0/22",
@@ -28998,22 +29054,6 @@
     "name": "XEON-BD",
     "org": "XeonBD",
     "domain": "xeonbd.com"
-  },
-  {
-    "network": "87.82.254.0/24",
-    "asn": "154603",
-    "country_code": "BD",
-    "name": "VPSGY-AS-AP",
-    "org": "V.P.S GY",
-    "domain": "vps.gy"
-  },
-  {
-    "network": "87.83.13.0/24",
-    "asn": "154603",
-    "country_code": "BD",
-    "name": "VPSGY-AS-AP",
-    "org": "V.P.S GY",
-    "domain": "vps.gy"
   },
   {
     "network": "89.43.41.0/24",
@@ -46617,6 +46657,14 @@
   },
   {
     "network": "103.189.10.0/24",
+    "asn": "139901",
+    "country_code": "BD",
+    "name": "APPLE1-AS-AP",
+    "org": "Apple Communication Ltd.",
+    "domain": "cg-bd.com"
+  },
+  {
+    "network": "103.203.93.0/24",
     "asn": "139901",
     "country_code": "BD",
     "name": "APPLE1-AS-AP",
@@ -74064,14 +74112,6 @@
     "domain": "touhed.net"
   },
   {
-    "network": "2001:df7:1b80::/48",
-    "asn": "139781",
-    "country_code": "BD",
-    "name": "TOUHEDNET-AS-AP",
-    "org": "TOUHED NET",
-    "domain": "touhed.net"
-  },
-  {
     "network": "103.170.140.0/24",
     "asn": "136519",
     "country_code": "BD",
@@ -77048,6 +77088,14 @@
     "domain": "cnetworkbd.net"
   },
   {
+    "network": "103.189.163.0/24",
+    "asn": "149865",
+    "country_code": "BD",
+    "name": "CNETWORK-AS-AP",
+    "org": "CNETWORK",
+    "domain": "cnetworkbd.net"
+  },
+  {
     "network": "103.189.176.0/24",
     "asn": "133368",
     "country_code": "BD",
@@ -77190,30 +77238,6 @@
     "name": "SAADID-AS-AP",
     "org": "Saadid bd Trusted Net",
     "domain": "saadid.net"
-  },
-  {
-    "network": "103.190.130.0/23",
-    "asn": "150002",
-    "country_code": "BD",
-    "name": "RAISULISLAM-AS-AP",
-    "org": "R.K. Technology",
-    "domain": "rk-bd.com"
-  },
-  {
-    "network": "103.190.130.0/24",
-    "asn": "150002",
-    "country_code": "BD",
-    "name": "RAISULISLAM-AS-AP",
-    "org": "R.K. Technology",
-    "domain": "rk-bd.com"
-  },
-  {
-    "network": "103.190.131.0/24",
-    "asn": "150002",
-    "country_code": "BD",
-    "name": "RAISULISLAM-AS-AP",
-    "org": "R.K. Technology",
-    "domain": "rk-bd.com"
   },
   {
     "network": "103.190.136.0/24",
@@ -80184,6 +80208,14 @@
     "domain": "btl.net.bd"
   },
   {
+    "network": "111.88.86.0/24",
+    "asn": "136621",
+    "country_code": "BD",
+    "name": "CUBICHOSTING-AS-AP",
+    "org": "Cubic Hosting",
+    "domain": "cubichosting.com"
+  },
+  {
     "network": "113.11.0.0/17",
     "asn": "7565",
     "country_code": "BD",
@@ -81104,38 +81136,6 @@
     "domain": "bdcom.com"
   },
   {
-    "network": "2403:4001:1050::/48",
-    "asn": "7565",
-    "country_code": "BD",
-    "name": "BDCOM-BD",
-    "org": "BDCOM Online Limited",
-    "domain": "bdcom.com"
-  },
-  {
-    "network": "2403:4001:1060::/48",
-    "asn": "7565",
-    "country_code": "BD",
-    "name": "BDCOM-BD",
-    "org": "BDCOM Online Limited",
-    "domain": "bdcom.com"
-  },
-  {
-    "network": "2403:4001:106c::/48",
-    "asn": "7565",
-    "country_code": "BD",
-    "name": "BDCOM-BD",
-    "org": "BDCOM Online Limited",
-    "domain": "bdcom.com"
-  },
-  {
-    "network": "2403:4001:1090::/48",
-    "asn": "7565",
-    "country_code": "BD",
-    "name": "BDCOM-BD",
-    "org": "BDCOM Online Limited",
-    "domain": "bdcom.com"
-  },
-  {
     "network": "2403:4001:1098::/48",
     "asn": "7565",
     "country_code": "BD",
@@ -81145,14 +81145,6 @@
   },
   {
     "network": "2403:4001:10a0::/48",
-    "asn": "7565",
-    "country_code": "BD",
-    "name": "BDCOM-BD",
-    "org": "BDCOM Online Limited",
-    "domain": "bdcom.com"
-  },
-  {
-    "network": "2403:4001:10a8::/48",
     "asn": "7565",
     "country_code": "BD",
     "name": "BDCOM-BD",
@@ -81241,14 +81233,6 @@
   },
   {
     "network": "2403:4001:1111::/48",
-    "asn": "7565",
-    "country_code": "BD",
-    "name": "BDCOM-BD",
-    "org": "BDCOM Online Limited",
-    "domain": "bdcom.com"
-  },
-  {
-    "network": "2403:4001:1140::/48",
     "asn": "7565",
     "country_code": "BD",
     "name": "BDCOM-BD",
@@ -81385,22 +81369,6 @@
   },
   {
     "network": "2403:4001:212f::/48",
-    "asn": "7565",
-    "country_code": "BD",
-    "name": "BDCOM-BD",
-    "org": "BDCOM Online Limited",
-    "domain": "bdcom.com"
-  },
-  {
-    "network": "2403:4001:213f::/48",
-    "asn": "7565",
-    "country_code": "BD",
-    "name": "BDCOM-BD",
-    "org": "BDCOM Online Limited",
-    "domain": "bdcom.com"
-  },
-  {
-    "network": "2403:4001:214f::/48",
     "asn": "7565",
     "country_code": "BD",
     "name": "BDCOM-BD",
@@ -89992,6 +89960,22 @@
     "domain": "meganet.com.bd"
   },
   {
+    "network": "141.229.76.0/24",
+    "asn": "155139",
+    "country_code": "BD",
+    "name": "BITASERVER-AS-AP",
+    "org": "BitaServer",
+    "domain": "bitaserver.com"
+  },
+  {
+    "network": "141.229.77.0/24",
+    "asn": "155139",
+    "country_code": "BD",
+    "name": "BITASERVER-AS-AP",
+    "org": "BitaServer",
+    "domain": "bitaserver.com"
+  },
+  {
     "network": "144.48.248.0/24",
     "asn": "154228",
     "country_code": "BD",
@@ -90808,14 +90792,6 @@
     "domain": ""
   },
   {
-    "network": "151.240.226.0/24",
-    "asn": "152698",
-    "country_code": "BD",
-    "name": "ZORN-AS-AP",
-    "org": "Zorn Technologies",
-    "domain": "zorntech.com"
-  },
-  {
     "network": "155.35.46.0/24",
     "asn": "154158",
     "country_code": "BD",
@@ -91305,6 +91281,46 @@
   },
   {
     "network": "160.25.5.0/24",
+    "asn": "153853",
+    "country_code": "BD",
+    "name": "SERVER-AS-AP",
+    "org": "Server Anywhere",
+    "domain": "serveranywhere.net"
+  },
+  {
+    "network": "2402:85a0::/32",
+    "asn": "153853",
+    "country_code": "BD",
+    "name": "SERVER-AS-AP",
+    "org": "Server Anywhere",
+    "domain": "serveranywhere.net"
+  },
+  {
+    "network": "2402:85a0::/36",
+    "asn": "153853",
+    "country_code": "BD",
+    "name": "SERVER-AS-AP",
+    "org": "Server Anywhere",
+    "domain": "serveranywhere.net"
+  },
+  {
+    "network": "2402:85a0:1000::/36",
+    "asn": "153853",
+    "country_code": "BD",
+    "name": "SERVER-AS-AP",
+    "org": "Server Anywhere",
+    "domain": "serveranywhere.net"
+  },
+  {
+    "network": "2402:85a0:2000::/36",
+    "asn": "153853",
+    "country_code": "BD",
+    "name": "SERVER-AS-AP",
+    "org": "Server Anywhere",
+    "domain": "serveranywhere.net"
+  },
+  {
+    "network": "2402:85a0:3000::/36",
     "asn": "153853",
     "country_code": "BD",
     "name": "SERVER-AS-AP",
@@ -92600,6 +92616,22 @@
     "domain": "nthreecommunication.net"
   },
   {
+    "network": "163.52.22.0/24",
+    "asn": "154848",
+    "country_code": "BD",
+    "name": "SAJIHANETWORK-AS-AP",
+    "org": "SAJIHA NETWORK",
+    "domain": ""
+  },
+  {
+    "network": "2001:df7:61c0::/48",
+    "asn": "154848",
+    "country_code": "BD",
+    "name": "SAJIHANETWORK-AS-AP",
+    "org": "SAJIHA NETWORK",
+    "domain": ""
+  },
+  {
     "network": "163.52.42.0/24",
     "asn": "154854",
     "country_code": "BD",
@@ -92622,6 +92654,14 @@
     "name": "PRENHOST-AS-AP",
     "org": "Pren Host",
     "domain": "prenhost.com"
+  },
+  {
+    "network": "163.52.64.0/24",
+    "asn": "139303",
+    "country_code": "BD",
+    "name": "IPDCFINANCEPLC-AS-AP",
+    "org": "IPDC FINANCE PLC",
+    "domain": "ipdcbd.com"
   },
   {
     "network": "163.52.96.0/23",
@@ -96289,6 +96329,22 @@
   },
   {
     "network": "203.18.158.0/23",
+    "asn": "154109",
+    "country_code": "BD",
+    "name": "HOSTINGOXYGEN-AS-AP",
+    "org": "Hosting Oxygen",
+    "domain": "hostingoxygen.com"
+  },
+  {
+    "network": "203.18.158.0/24",
+    "asn": "154109",
+    "country_code": "BD",
+    "name": "HOSTINGOXYGEN-AS-AP",
+    "org": "Hosting Oxygen",
+    "domain": "hostingoxygen.com"
+  },
+  {
+    "network": "203.18.159.0/24",
     "asn": "154109",
     "country_code": "BD",
     "name": "HOSTINGOXYGEN-AS-AP",
